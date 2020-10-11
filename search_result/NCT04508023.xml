@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1531">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04508023</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR108849</org_study_id>
+    <secondary_id>39039039DVT3004</secondary_id>
+    <nct_id>NCT04508023</nct_id>
+  </id_info>
+  <brief_title>A Study of Rivaroxaban to Reduce the Risk of Major Venous and Arterial Thrombotic Events, Hospitalization and Death in Medically Ill Outpatients With Acute, Symptomatic Coronavirus Disease 2019 (COVID-19) Infection</brief_title>
+  <acronym>PREVENT-HD</acronym>
+  <official_title>A Multicenter, Randomized, Placebo-Controlled, Pragmatic Phase 3 Study Investigating the Efficacy and Safety of Rivaroxaban to Reduce the Risk of Major Venous and Arterial Thrombotic Events, Hospitalization and Death in Medically Ill Outpatients With Acute, Symptomatic COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janssen Research &amp; Development, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Janssen Research &amp; Development, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate whether rivaroxaban reduces the risk of a composite
+      endpoint of major venous and arterial thrombotic events, all-cause hospitalization, and
+      all-cause mortality compared with placebo in outpatients with acute, symptomatic Coronavirus
+      Disease 2019 (COVID-19) Infection.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 13, 2020</start_date>
+  <completion_date type="Anticipated">April 6, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 3, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to First Occurrence of a Composite Endpoint of Symptomatic VTE, MI, Ischemic Stroke, Acute Limb Ischemia, Non-CNS Systemic Embolization, All-cause Hospitalization and All-cause Mortality</measure>
+    <time_frame>Up to Day 35</time_frame>
+    <description>Time to first occurrence of a composite endpoint of symptomatic venous thromboembolism (VTE), myocardial infarction (MI), ischemic stroke, acute limb ischemia, noncentral nervous system (non-CNS) systemic embolization, all-cause hospitalization, and all-cause mortality will be assessed.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Occurrence of a Composite Endpoint of Symptomatic VTE, MI, Ischemic Stroke, Acute Limb Ischemia, Non-CNS Systemic Embolization, and All-cause Mortality</measure>
+    <time_frame>Up to Day 35</time_frame>
+    <description>Time to first occurrence of a composite endpoint of symptomatic VTE, MI, ischemic stroke, acute limb ischemia, non-CNS systemic embolization, and all-cause mortality will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Occurrence of All-cause Hospitalization</measure>
+    <time_frame>Up to Day 35</time_frame>
+    <description>Time to first occurrence of all-cause hospitalization will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Occurrence of Symptomatic VTE</measure>
+    <time_frame>Up to Day 35</time_frame>
+    <description>Time to first occurrence of symptomatic VTE which includes DVT or pulmonary embolism (PE) will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Occurrence of an Emergency Room (ER) Visit</measure>
+    <time_frame>Up to Day 35</time_frame>
+    <description>Time to first occurrence of an ER visit will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Occurrence of Symptomatic VTE, MI, Ischemic Stroke, Acute Limb Ischemia, Non-CNS Systemic Embolization, and All-cause Hospitalization</measure>
+    <time_frame>Up to Day 35</time_frame>
+    <description>Time to first occurrence of symptomatic VTE, MI, ischemic stroke, acute limb ischemia, non-CNS systemic embolization, and all-cause hospitalization will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants who are Hospitalized or Dead From Any Cause</measure>
+    <time_frame>Day 35</time_frame>
+    <description>Percentage of participants who are hospitalized or dead from any cause at Day 35 will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to All-cause Mortality up to Day 35</measure>
+    <time_frame>Up to Day 35</time_frame>
+    <description>Time to all-cause mortality up to Day 35 will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Occurrence of International Society on Thrombosis and Hemostasis (ISTH) Critical Site and Fatal Bleeding</measure>
+    <time_frame>Up to 37 Days (last dose on Day 35 plus 2 Days)</time_frame>
+    <description>Time to first occurrence of ISTH critical site and fatal bleeding will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Occurrence of ISTH Major Bleeding Events</measure>
+    <time_frame>Up to 37 Days (last dose on Day 35 plus 2 Days)</time_frame>
+    <description>Time to first occurrence of ISTH major bleeding will be assessed. Major bleeding is defined as clinically overt bleeding that is associated with a reduction in hemoglobin of 2 gram per deciliter (g/dL) or more, or a transfusion of 2 or more units of packed red blood cells or whole blood, or occurrence at a critical site defined as intracranial, intra-spinal, intraocular, pericardial, intra-articular, intra-muscular with compartment syndrome, retroperitoneal, or fatal outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Occurrence of Clinically Relevant Non-major Bleeding</measure>
+    <time_frame>Up to 37 Days (last dose on Day 35 plus 2 Days)</time_frame>
+    <description>Time to first occurrence of clinically relevant non-major bleeding will be assessed. Clinically relevant non-major bleeding is defined as overt bleeding not meeting the criteria for major bleeding but associated with medical intervention, or unscheduled contact with a physician, or temporary cessation of study treatment, or discomfort such as pain, or impairment of activities of daily life.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>Coronavirus Disease 2019 (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Rivaroxaban</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive rivaroxaban 10 milligram (mg) tablet orally once daily for 35 Days along with standard of care treatment (SOC).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive matching placebo tablet orally once daily for 35 Days along with SOC.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rivaroxaban</intervention_name>
+    <description>Participants will receive rivaroxaban 10 mg tablet orally once daily.</description>
+    <arm_group_label>Rivaroxaban</arm_group_label>
+    <other_name>JNJ-39039039</other_name>
+    <other_name>BAY 59-7939</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants will receive matching placebo tablet orally once daily.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care (SOC)</intervention_name>
+    <description>SOC treatment will be determined by the investigator based on local practice and consists of supportive care.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Rivaroxaban</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Coronavirus Disease 2019 (COVID-19) positive diagnosis by locally obtained viral
+             diagnostic test (example, polymerase chain reaction [PCR]). This may be nasal swab or
+             saliva test or other available technology to demonstrate current infection
+
+          -  Confirm that participant is known to health system, with at least 1 contact in
+             electronic medical records (EMR) prior to screening
+
+          -  Symptoms attributable to COVID-19 (example, fever, cough, loss of taste or smell,
+             muscle aches, shortness of breath, fatigue)
+
+          -  Initial treatment plan does not include hospitalization
+
+          -  Presence of at least 1 additional risk factor: a) age more than or equal to (&gt;=) 60
+             years; b) prior history of VTE; c) history of thrombophilia; d) history of coronary
+             artery disease (CAD); e) history of peripheral artery disease (PAD); f) history of
+             cerebrovascular disease or ischemic stroke; g) history of cancer (other than basal
+             cell carcinoma) h) history of diabetes requiring medication; i) history of heart
+             failure; j) body mass index (BMI) greater than or equal to (&gt;=) 35 kilogram per meter
+             square (kg/m^2); k) D-dimer greater than (&gt;) upper limit of normal for local
+             laboratory (within 2 weeks of the date of the COVID-19 test and prior to
+             randomization)
+
+        Exclusion Criteria:
+
+          -  Increased risk of bleeding such as a) significant bleeding in the last 3 months; b)
+             active gastroduodenal ulcer in the last 3 months; c) history of bronchiectasis or
+             pulmonary cavitation; d) need for dual antiplatelet therapy or anticoagulation; e)
+             prior intracranial hemorrhage, f) known severe thrombocytopenia g) active cancer and
+             undergoing treatment
+
+          -  Any illness or condition that in the opinion of the investigator would significantly
+             increase the risk of bleeding (example recent trauma, recent surgery, severe
+             uncontrolled hypertension, gastrointestinal cancer, renal failure requiring dialysis,
+             severe liver disease, known bleeding diathesis)
+
+          -  Known allergies, hypersensitivity, or intolerance to rivaroxaban or its excipients
+
+          -  Positive COVID-19 antibody or serology test after 2-week period of acute, symptomatic
+             COVID-19 infection
+
+          -  Known diagnosis of triple positive (positive for lupus anticoagulant, anticardiolipin,
+             and anti-beta 2-glycoprotein I antibodies) antiphospholipid syndrome
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janssen Research &amp; Development, LLC Clinical Trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Janssen Research &amp; Development, LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Contact</last_name>
+    <phone>844-434-4210</phone>
+    <email>JNJ.CT@sylogent.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Colorado Denver</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northshore Universite Healthsystem</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham &amp; Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lenox Hill Hospital -Northwell Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://pam.sylogent.com/cr/CR108849</url>
+    <description>To learn how to participate in this trial please click here.</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 11, 2020</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rivaroxaban</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data sharing policy of the Janssen Pharmaceutical Companies of Johnson &amp; Johnson is available at www.janssen.com/clinical-trials/transparency. As noted on this site, requests for access to the study data can be submitted through Yale Open Data Access (YODA) Project site at yoda.yale.edu</ipd_description>
+    <ipd_url>https://www.janssen.com/clinical-trials/transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

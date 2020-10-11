@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2432">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04532411</url>
+  </required_header>
+  <id_info>
+    <org_study_id>QI Initiative</org_study_id>
+    <nct_id>NCT04532411</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Testing Sample Acquisition Throughput and Efficiency</brief_title>
+  <acronym>HexapodBooth</acronym>
+  <official_title>Evaluation of SARS-CoV-2 Sample Acquisition Efficiency and PPE Usage With and Without the Hexapod Personal Protective Booth</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This QI project seeks to evaluate the relative test sample acquisition throughput, personal
+      protective equipment utilization, and relative operational costs of provider-administered
+      COVID-19 (SARS-CoV-2) nasal samples with and with the use of HEPA-filtered, positive pressure
+      isolation booths.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Beginning in March 2020, the MGH began outpatient testing for COVID-19 (SARS-CoV-2) utilizing
+      a provider-administered nasal swab samples. This was administered with infection control
+      protocols utilizing full PPE protection for health providers who would don and doff gowns and
+      gloves with each sample acquisition. With an aim to decrease PPE usage and increase
+      efficiency, personal protective booths with HEPA-filtered air called &quot;Hexapods&quot; were
+      employed, after infection control approval, within the MGH system beginning on April 16,
+      2020.
+
+      Ambulatory Care Management at MGH systematically monitors testing completed and PPE usage on
+      a weekly basis. Managers in charge of personnel changes shared necessary team structures and
+      median salaries for different personnel involved with sample acquisition. MGH Materials
+      management were able to report on costs related to consumable supplies used during testing.
+
+      In this investigation, this routinely collected data and averaged timed sample collection
+      observations were used to compare before and after the Hexapod utilization.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Testing Throughput After Hexapod Implementation</measure>
+    <time_frame>Up to 22 weeks</time_frame>
+    <description>Samples acquired per hour using the Hexapod booth will be assessed as an average over a minimum of 12 weeks of testing compared to baseline throughput before April 16th.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Isolation Gowns Utilized After Hexapod Utilization</measure>
+    <time_frame>Up to 22 weeks</time_frame>
+    <description>Gowns utilized per test will be assessed as an average over a minimum of 12 weeks of testing compared to baseline throughput before April 16th.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Cost per Test After Hexapod Implementation</measure>
+    <time_frame>Up to 22 weeks</time_frame>
+    <description>The difference in costs of collecting test samples before and after hexapod utilization will be calculated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Return on Investment</measure>
+    <time_frame>Up to 22 weeks</time_frame>
+    <description>The retail cost of the Hexapod booth will be divided by the average daily cost differential for testing observed and at maximum volume.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Testing Personnel Cost Per Test</measure>
+    <time_frame>Up to 22 weeks</time_frame>
+    <description>The difference in median shift salaries before and after Hexapod implementation will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cost of Isolation Gowns Utilized</measure>
+    <time_frame>Up to 22 weeks</time_frame>
+    <description>Outcome 2 will be utilized to calculate the range of the change in cost of isolation gowns utilized compared to baseline usage for samples acquired before April 16th utilizing actual and quoted costs of gowns to Materials Management at MGH.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Cost of Additional Consumable Supplies Utilized</measure>
+    <time_frame>Up to 22 weeks</time_frame>
+    <description>The Materials Management costs of durable gloves, sleeves, and filters will be be calculated from the manufacturer's recommended monthly replacements of each per booth.</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">25000</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Respiratory Viral Infection</condition>
+  <condition>Personal Protective Equipment</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Pre-Booth Testing</arm_group_label>
+    <description>This cohort was comprised of samples acquired as a component of outpatient SARS-CoV-2 (COVID-19) testing prior to implementation of the Hexapod personal protective booths.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Post-Booth Testing</arm_group_label>
+    <description>This cohort was comprised of samples acquired as a component of outpatient SARS-CoV-2 (COVID-19) testing after implementation of the Hexapod personal protective booths.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Personal Protective Testing Booth</intervention_name>
+    <description>Health personnel who utilize the Hexapod will remain in the booth and utilize durable gloves attached to ports through a plexiglass wall in order to administer a nasal swab for SARS-CoV-2 (COVID-19) testing. Patient escorts and housekeeping/sanitation staff perform additional tasks outside of the booth such as escorting the patient to the correct testing bay and dropping off testing vials and printed information, collect samples and deposit in the appropriate location after testing is complete, and sanitizing the patient bay before a subsequent patient is tested there.</description>
+    <arm_group_label>Post-Booth Testing</arm_group_label>
+    <other_name>Hexapod</other_name>
+    <other_name>HEPA Filtered Positive Pressure Testing Booth</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Outpatient SARS-CoV-2 PCR nasal swabs tests performed March through September 2020.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All testing performed at designated outpatient SARS-CoV-2 at Massachusetts General
+             Hospital (MGH) testing sites beginning March 2019.
+
+        Exclusion Criteria:
+
+          -  SARS-CoV-2 tests performed not performed within designated outpatient testing sites at
+             MGH.
+
+          -  Testing performed within the hospital for Emergency Department or Inpatient visits.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 31, 2020</study_first_posted>
+  <last_update_submitted>August 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Kristian R. Olson, M.D.</investigator_full_name>
+    <investigator_title>Director, MGH Springboard Studio</investigator_title>
+  </responsible_party>
+  <keyword>SARS-CoV Infection</keyword>
+  <keyword>Test Sample Acquisition</keyword>
+  <keyword>Personal Protective Equipment</keyword>
+  <keyword>Personal Protective Booths</keyword>
+  <keyword>COVID19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no IPD collected as a part of this investigation.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

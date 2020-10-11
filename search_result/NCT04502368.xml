@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3526">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04502368</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SRB2020-289</org_study_id>
+    <secondary_id>P2020/375</secondary_id>
+    <nct_id>NCT04502368</nct_id>
+  </id_info>
+  <brief_title>Fiberoptic Bronchoscopy and Bronchoalveolar Lavage in Critically Ill Ventilated Patients</brief_title>
+  <official_title>Fiberoptic Bronchoscopy and Bronchoalveolar Lavage in Critically Ill Ventilated Patients: Impact on Respiratory Mechanics and Gas Exchange</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Erasme University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Erasme University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Fiberoptic bronchoscopy (FOB) is widely used as a diagnostic or therapeutic procedure in
+      intensive care units. Patients with ARDS or COVID-19 disease often undergoes to these
+      procedures. However, intensive care patients might suffer from serious side effects such as
+      prolonged oxygen desaturation and adverse change in lung compliance and resistance. This
+      study aims to evaluate these changes and determine their impact on patient stability.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Fiberoptic bronchoscopy (FOB) is widely used in intensive care units as a diagnostic or
+      therapeutic procedure. FOB in respiratory failure patients supported by mechanical
+      ventilation may worsen hypoxemia and hypercapnia, therefore FOB requires careful
+      consideration in this patient population. The generally accepted indications for FOB in
+      ventilated patients are removal of retained secretions, resolution of atelectasis and
+      evaluation of hemoptysis. A diagnostic indication is the bronchoalveolar lavage (BAL), to
+      sample the lower respiratory tract without contamination. Studies of FOB performed in
+      mechanically ventilated patients suggest an acceptable safety profile, except for the
+      occurrence of hypoxemia as the main adverse event. Bronchoalveolar Lavage (BAL) in normal
+      volunteers is reported to be safe and does not lead to measurable changes in pulmonary
+      function parameters. However, in intensive care patients may suffer from serious side effects
+      such as prolonged oxygen desaturation. Moreover, reductions in arterial oxygen tension (PaO2)
+      have been reported to persist in some patients for 4 h and more after the procedure. Authors
+      reported the BAL procedure is associated to a worsening of PaO2/FiO2 ratio, in several ARDS
+      patients the drop in PaO2 was higher than 30%. Moreover a physiological study in patients
+      undergoing FOB and BAL showed adverse change in lung compliance and resistance.
+
+      The purpose of this prospective study is to determine the alterations in respiratory
+      mechanics (regional compliance and resistance) and gas exchange induced by FOB and BAL up to
+      6 hours after the procedure. The lung regional ventilation evaluation will be made by
+      electrical impedance tomography (EIT).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">August 6, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Regional Compliance Variation</measure>
+    <time_frame>From FOB/BAL to 6 hours later</time_frame>
+    <description>The variation of regional compliance, calculated by electrical impedance</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Regional Resistance Variation</measure>
+    <time_frame>From FOB/BAL to 6 hours later</time_frame>
+    <description>The variation of regional resistance, calculated by electrical impedance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Regional Compliance and FOB duration</measure>
+    <time_frame>From FOB/BAL to 6 hours later</time_frame>
+    <description>Relation between regional compliance variation and FOB duration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Regional Compliance and PaO2</measure>
+    <time_frame>From FOB/BAL to 6 hours later</time_frame>
+    <description>Relation between regional compliance variation and PaO2 variation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Atelectasis areas and BAL flooded areas</measure>
+    <time_frame>From FOB/BAL to 6 hours later</time_frame>
+    <description>Relation between atelectasis impedance-detected areas and BAL flooded impedance-detected areas</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PaO2 and PaO2/FiO2 ratio</measure>
+    <time_frame>From FOB/BAL to 6 hours later</time_frame>
+    <description>Variation of PaO2 and PaO2/FiO2 ratio post FOB/BAL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PaCO2</measure>
+    <time_frame>From FOB/BAL to 6 hours later</time_frame>
+    <description>Variation of PaCO2 post FOB/BAL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Endotracheal tube size and Fiberscope size</measure>
+    <time_frame>From FOB/BAL to 6 hours later</time_frame>
+    <description>Relation between the endotracheal tube/fiberscope size ratio and gas exchanges</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemodynamic variations</measure>
+    <time_frame>From FOB/BAL to 6 hours later</time_frame>
+    <description>Heart rate (HR), Blood Pressure (BP)</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Fiberoptic Bronchoscopy (FOB)</condition>
+  <condition>Bronchoalveolar Lavage (BAL)</condition>
+  <condition>Respiratory Disease</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Fiberoptic Bronchoscopy (FOB)</intervention_name>
+    <description>FOB under full sedation (RASS sedation scale -5) and full paralysis.</description>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Bronchoalveolar Lavage (BAL)</intervention_name>
+    <description>BAL under full sedation (RASS sedation scale -5) and full paralysis. Lavage: NaCl 0,9% 50ml x 3 in lung region targetted according to RX/CT scan.</description>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Electrical Impedance Tomography (EIT)</intervention_name>
+    <description>Realtime thoracic impedance coupled with ventilation parameters recording.</description>
+    <other_name>PulmoVista® 500 - Draeger</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Arterial Blood Gas test (ABG)</intervention_name>
+    <description>Multiples Arterial Blood Gas test (ABG) via arterial catheter.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Intensive Care Unit admitted patients
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Mechanically ventilated ICU patients requiring a FOB or FOB + BAL
+
+        Exclusion Criteria:
+
+          -  PaO2/FiO2 ratio &lt;100
+
+          -  Age &lt; 18 years
+
+          -  Pregnancy
+
+          -  Unstable angina and recent (less than 1 week) myocardial infarction
+
+          -  Uncontrolled cranial hypertension
+
+          -  Major hemodynamic instability
+
+          -  Any previous lung surgery (except for lung transplantation)
+
+          -  Obesity (BMI &gt; 50)
+
+          -  Chest circumference &gt; 150 cm
+
+          -  Electronic implanted device (pacemaker, neurostimulator, etc.)
+
+        Patients who had undergone several bronchoscopy procedures could not be included twice.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francesco Ricottilli, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Intensive Care Unit - Erasme University Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Leda Nobile, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Intensive Care Unit - Erasme University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Francesco Ricottilli, MD</last_name>
+    <phone>+32(02)5553344</phone>
+    <email>francesco@ricottilli.eu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Erasme University Hospital - Intensive Care Unit</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francesco Ricottilli, MD</last_name>
+      <phone>+32-2-5553344</phone>
+      <email>francesco@ricottilli.eu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <reference>
+    <citation>Du Rand IA, Blaikley J, Booton R, Chaudhuri N, Gupta V, Khalid S, Mandal S, Martin J, Mills J, Navani N, Rahman NM, Wrightson JM, Munavvar M; British Thoracic Society Bronchoscopy Guideline Group. British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults: accredited by NICE. Thorax. 2013 Aug;68 Suppl 1:i1-i44. doi: 10.1136/thoraxjnl-2013-203618.</citation>
+    <PMID>23860341</PMID>
+  </reference>
+  <reference>
+    <citation>Kamel T, Helms J, Janssen-Langenstein R, Kouatchet A, Guillon A, Bourenne J, Contou D, Guervilly C, Coudroy R, Hoppe MA, Lascarrou JB, Quenot JP, Colin G, Meng P, Roustan J, Cracco C, Nay MA, Boulain T; Clinical Research in Intensive Care Sepsis Group (CRICS-TRIGGERSEP). Benefit-to-risk balance of bronchoalveolar lavage in the critically ill. A prospective, multicenter cohort study. Intensive Care Med. 2020 Mar;46(3):463-474. doi: 10.1007/s00134-019-05896-4. Epub 2020 Jan 7.</citation>
+    <PMID>31912201</PMID>
+  </reference>
+  <reference>
+    <citation>Bauer TT, Torres A, Ewig S, Hernández C, Sanchez-Nieto JM, Xaubet A, Agustí C, Rodriguez-Roisin R. Effects of bronchoalveolar lavage volume on arterial oxygenation in mechanically ventilated patients with pneumonia. Intensive Care Med. 2001 Feb;27(2):384-93.</citation>
+    <PMID>11396283</PMID>
+  </reference>
+  <reference>
+    <citation>Trouillet JL, Guiguet M, Gibert C, Fagon JY, Dreyfuss D, Blanchet F, Chastre J. Fiberoptic bronchoscopy in ventilated patients. Evaluation of cardiopulmonary risk under midazolam sedation. Chest. 1990 Apr;97(4):927-33.</citation>
+    <PMID>2108848</PMID>
+  </reference>
+  <reference>
+    <citation>Klein U, Karzai W, Zimmermann P, Hannemann U, Koschel U, Brunner JX, Remde H. Changes in pulmonary mechanics after fiberoptic bronchoalveolar lavage in mechanically ventilated patients. Intensive Care Med. 1998 Dec;24(12):1289-93.</citation>
+    <PMID>9885882</PMID>
+  </reference>
+  <reference>
+    <citation>Costa EL, Borges JB, Melo A, Suarez-Sipmann F, Toufen C Jr, Bohm SH, Amato MB. Bedside estimation of recruitable alveolar collapse and hyperdistension by electrical impedance tomography. Intensive Care Med. 2009 Jun;35(6):1132-7. doi: 10.1007/s00134-009-1447-y. Epub 2009 Mar 3.</citation>
+    <PMID>19255741</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Erasme University Hospital</investigator_affiliation>
+    <investigator_full_name>Francesco Ricottilli, MD</investigator_full_name>
+    <investigator_title>Resident</investigator_title>
+  </responsible_party>
+  <keyword>Respiratory Insufficiency</keyword>
+  <keyword>Respiratory Distress Syndrome</keyword>
+  <keyword>Mechanical Ventilation</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Fiberoptic Bronchoscopy (FOB)</keyword>
+  <keyword>Bronchoalveolar Lavage (BAL)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiration Disorders</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

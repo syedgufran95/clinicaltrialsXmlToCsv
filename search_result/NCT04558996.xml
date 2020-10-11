@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2594">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04558996</url>
+  </required_header>
+  <id_info>
+    <org_study_id>55/20</org_study_id>
+    <secondary_id>COV20/0021</secondary_id>
+    <nct_id>NCT04558996</nct_id>
+  </id_info>
+  <brief_title>Spanish Registry of Pregnant Women With COVID-19</brief_title>
+  <acronym>OBS COVID</acronym>
+  <official_title>REGISTRO EPIDEMIOLOGICO DE COVID 19 EN GESTANTES</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Puerta de Hierro University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Universitario La Paz</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario 12 de Octubre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital General Universitario Gregorio Marañon</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario La Fe</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Puerta de Hierro University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study title Spanish Registry of Pregnant Women with COVID-19 Protocol number and version
+      Number 55/20. Version V8. Sponsors This registry is a project promoted by Dr. Oscar Martínez
+      Pérez of the Obstetrics and Gynaecology department of the Puerta de Hierro University
+      Hospital.
+
+      Principal investigator of the registry National coordinator: Dr. Óscar Martínez Pérez.
+      Obstetrics and Gynaecology Department. Puerta de Hierro University Hospital. Majadahonda.
+
+      Epidemiologist: Maria Luisa de la Cruz Conti Researchers for each site: 100 sites from 32
+      Spanish provinces are included (Appendix 1) Funding Neither the hospitals nor the
+      participating investigators will receive any financial compensation for their collaboration.
+      A bank account has been opened at the hospital's Biomedical Research Foundation to receive
+      donations: COV20/00021 - SARS-COV-2 and the COVID-19 disease Call financed by the Carlos III
+      Institute of Health and co-financed with ERDF funds.
+
+      Abstract Rationale: Knowledge about the impact of the SARS-CoV-2 virus on pregnancy is still
+      scarce and all current recommendations are based on less than 100 cases published in the
+      literature. To identify moderate effects (such as vertical transmission, obstetric morbidity,
+      foetal death, maternal or neonatal death) and to allow accurate risk estimates, larger sample
+      sizes than those currently available are required.
+
+      Methods: Prospective observational study of pregnant women in whom SARS-CoV-2 infection is
+      suspected at any time during pregnancy with positive test results for SARS-CoV-2, in order to
+      create a registry of baseline characteristics of the pregnant woman, aspects related to the
+      course of pregnancy and delivery, and related to the new-born, with an observation period of
+      up to 14 days after delivery. Subsequently, several phased studies will be conducted to help
+      establish and monitor the set of measures to improve the care of pregnant women.
+
+      Discussion: The national registry for COVID-19 in pregnancy described here is a tool for
+      sharing and centralizing data related to exposures to SARS-CoV-2 during pregnancy in a
+      structured way. It should speed up the process of prospectively obtaining a large unbiased
+      data set and will collect information at national level.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Rationale To date, few studies have described the impact of the SARS-CoV-2 virus on
+      pregnancy, particularly infection occurring during the third trimester of pregnancy. The
+      impact of the virus during the first and second trimesters of pregnancy remains unknown and
+      must be urgently determined. All current recommendations are based on less than 50 cases
+      published in the literature, with speculations on different aspects of management. To
+      identify moderate effects (such as vertical transmission, foetal death, maternal or neonatal
+      death), larger sample sizes than those currently available are required to allow accurate
+      risk estimates. The national registry for COVID-19 in pregnancy described here is a tool for
+      sharing and centralizing data related to exposures to SARS-CoV-2 during pregnancy in a
+      structured way. It should speed up the process of prospectively obtaining a large unbiased
+      data set and will collect information at national level.
+
+      Study hypothesis and objectives Hypothesis The COVID 19 disease affects pregnancy and has an
+      influence on maternal and perinatal morbidity and mortality Objectives This study focuses on
+      the creation of a registry of pregnant women with COVID-19 infection, which will help
+      establish and monitor the set of measures to improve their care.
+
+      Primary objective Collect and analyse COVID-19 cases in pregnant and postpartum women at
+      associated health centres.
+
+      Secondary objectives
+
+        1. Establish incidence of COVID-19 infections diagnosed in pregnant women in the Spanish
+           population.
+
+        2. Determine the variables that are associated with more maternal and neonatal morbidity.
+
+        3. Determine if there is vertical transmission.
+
+        4. Evaluate the risk of SARS-CoV-2 infection during pregnancy.
+
+        5. Characterize the clinical course of SARS-CoV-2 infection during pregnancy (for example,
+           severity of maternal symptoms, distribution of gestational age at onset, ICU admission,
+           mechanical ventilation, death).
+
+        6. Quantify the risk of adverse pregnancy outcomes (e.g., miscarriage, stillbirth, growth
+           restriction) and neonatal outcomes (e.g., NICU, prematurity, death, birth defects).
+
+        7. Identify additional risk factors and risk modifiers (e.g., symptomatic infection,
+           SARS-CoV-2 positive amniotic fluid, co-infections).
+
+        8. Develop a responsive data collection tool across a network of healthcare facilities to
+           ensure rapid assessment of risks associated with future emerging pathogens and to help
+           develop guidelines on this disease.
+
+        9. Strengthen capacity-building in data exchange against emerging pathogens. The collected
+           dataset will allow a comprehensive characterization of the risks associated with
+           SARS-CoV-2 infection in pregnancy. In the future, the developed structure will allow a
+           rapid assessment of the risks linked to future emerging pathogens.
+
+      Study design Prospective observational registry study of pregnant women with suspected
+      SARS-CoV-2 infection at any time during pregnancy with positive test results for SARS-CoV-2.
+
+      A specific database will be developed, which will include the baseline characteristics of the
+      pregnant women, aspects related to the course of pregnancy and childbirth, and the new-born.
+      Vertical transmission will be analysed only by means of a nasopharyngeal swab from the
+      new-born before contact with the mother. This registry sets an observation deadline of up to
+      14 days after birth for the new-born and 6 weeks postpartum for the mother. The registry will
+      be hosted on a secure https server, this server will be physically located at OBS Covid Spain
+      of the company ReserArch which has a contract with the Puerta de Hierro-Majadahonda
+      University Hospital Research Foundation.
+
+      Recruitment period will be between 1st March 2020 and 1st March 2021. After that, different
+      sub-analyses will be carried out with the data extracted in the registry and the secondary
+      objectives will be addressed.
+
+      Definitions Definition of case and healthy patient for the study The result in the PCR test
+      on a sample of nasopharyngeal and/or oropharyngeal swab was considered synonymous with
+      exposure/non-exposure, defining a case as any pregnant woman with a positive result,
+      regardless of the symptoms. Those cases with clinical presentation of COVID-19 were
+      classified according to the WHO division for adults into: mild symptoms, mild-moderate
+      pneumonia, severe pneumonia and septic shock (16).
+
+      The recommended samples for diagnosis are samples from the upper respiratory tract:
+      nasopharyngeal and/or oropharyngeal swab.
+
+      A healthy patient is considered to have a negative PCR in the absence of symptoms. Patients
+      with positive IgM or IgG serology cannot be included. The absence of serology does not
+      prevent classifying the patient as healthy if the PCR is negative.
+
+      Definitions of symptomatic and asymptomatic patient
+
+        -  Acute symptomatic patient: Positive PCR. Manifests any of the symptoms compatible with
+           COVID-19 at the time of the study or analysis or during admission. These symptoms may
+           vary based on new findings.
+
+        -  Symptomatic patient: Patients with symptoms before 14 days of delivery, even if they no
+           longer have symptoms at the time of delivery.
+
+        -  Asymptomatic patient: Positive PCR. No symptoms compatible with COVID-19 were observed
+           at the time of the study or analysis.
+
+        -  Ex-symptomatic or cured patient: Positive or negative PCR. The patient was symptomatic
+           (PCR+) more than 14 days before delivery and no longer has any of the symptoms
+           compatible with COVID-19 at the time of the study or analysis. Patient can be IgM
+           positive or negative, but shall be IgG+ if serology is available
+
+        -  Symptomatic patient with sequelae: Positive or negative PCR. The patient was symptomatic
+           (PCR+) and has any of the sequelae recognized after COVID-19 at the time of data
+           analysis. These sequelae may vary based on new findings.
+
+      Overall sample size Currently, the percentage of pregnant patients who are being diagnosed
+      with COVID-19 is unknown, this being one of the objectives of the study. The registry
+      includes 100 sites that in 2019 cared for a total of 172,000 deliveries (Appendix 1 and 3).
+
+      Data sources and work plan Patient referral sources If the doctor in charge considers it
+      appropriate to inform the patient about the existence and purpose of this registry, he/she
+      may do so. At this time, consent will be requested so that the information derived from the
+      regular monitoring of these patients is incorporated into the data registry, and that said
+      information can be analysed and disclosed for scientific purposes in accord with the
+      confidentiality provisions of the current legislation.
+
+      Data collection Encrypted health-related personal data is collected prospectively using the
+      OBS Covid Spain database of the company ReserArch.
+
+      The collection of data on each pregnant woman is planned from the diagnosis of a case in a
+      pregnancy up to 6 weeks after delivery and up to 14 days postpartum in the case of the
+      new-born, based on a manual prepared for the collection of data and for the investigator.
+
+      Hospitals enrol their pregnant patients on an ongoing basis, and the information is collected
+      and stored anonymously in two separate phases: the first phase, during the inclusion period
+      that occurs at the time of the SARS-CoV-2 test in the pregnant woman; the second phase,
+      throughout the 2 weeks after birth.
+
+      For sites with existing cohorts using methods that comply with registry data collection
+      methods (i.e., systematic inclusion of women screened for SARS-CoV-2 regardless of test
+      results, prospective follow-up, and information requested as shown in the variables table of
+      appendix 5), the data collected will be entered at the time they join the registry.
+
+      Delivery monitoring: the outcomes include perinatal and neonatal events, which were collected
+      at the time of delivery and the days immediately afterward. These perinatal events included
+      gestational age, type of delivery, presence of prepartum or premature rupture of membranes
+      before delivery, as well as any medical complications (thromboembolic events, admission to
+      ICU, maternal death) and obstetric complications (hemorrhagic events and hypertensive
+      disorders), while neonatal events included the 5-minute Apgar score, the pH of the umbilical
+      artery and possible complications such as admission to the NICU and neonatal death in the
+      follow-up period or intrauterine foetal death. The definitions of obstetric pathology follow
+      the international criteria of the ACOG and RCOG (18-21).
+
+      Follow-up after delivery: Patient follow-up is carried out by the local investigator over the
+      phone and the medical history is consulted from the time the patient is discharged up to 6
+      weeks later in order to detect late postpartum complications related to COVID 19. In the case
+      of the new-born, the follow-up is 14 days by the investigating neonatology department by
+      telephone and consultation of the patient's medical history to detect symptoms of COVID 19
+      symptoms. Complications recorded in the mother during this period (mastitis, endometritis,
+      pulmonary embolism) as well as neonatal death or readmission of the new-born due to COVID 19
+      were considered outcomes of interest and analysed together with those previously described.
+
+      Data quality assurance plan Several strategies have been implemented to reduce data errors,
+      including a limited number of open questions, a predefined range of values where applicable,
+      an easy-to-use case report form build that uses branching logic to reduce fields to complete,
+      one person per site assigned to data collection, correction of systematic inconsistencies and
+      verification of outliers. The different forms that will be used to collect the data in a
+      systematic way are shown in appendix 1.
+
+      Heterogeneity tests Populations from diverse genetic, socio-cultural and socio-economic
+      backgrounds can be quite different in their characteristics. Additionally, there may be some
+      disparities between sites with respect to the quality and quantity of data items that each
+      site can measure. This is expected regarding a data collection that allows any site to
+      contribute. Consequently, heterogeneity in effect estimates may be due to clinical
+      differences between pregnant women and/or site-level differences in terms of exposure and
+      outcome determination (reporting or assessment bias). We will formally assess heterogeneity
+      taking into account variations in exposure, covariates, and significant outcomes, and use
+      meta-analysis methods (Q or I2 statistics, meta-regression, and subgroup analysis) to unravel
+      heterogeneity at central and individual levels. Briefly, we will incorporate individual-level
+      interaction terms in one-stage analysis and random intercepts to account for central-level
+      factors not measured in the regression models mentioned above.
+
+      EXTRACTION OF DATA FROM THE REGISTRY: SUBSTUDIES Based on the registry prepared, data
+      extraction will be carried out to carry out four sub-studies that address the secondary
+      objectives.
+
+      Substudy 1: Prospective observational study on delivery and vertical transmission to the
+      new-born.
+
+      Objective/s
+
+        1. Determine the variables that are associated with more maternal and neonatal morbidity.
+
+        2. Determine if there is vertical transmission.
+
+        3. Evaluate the risk of SARS-CoV-2 infection during pregnancy.
+
+        4. Characterize the clinical course of SARS-CoV-2 infection during delivery
+
+        5. Identify additional risk factors and risk modifiers (e.g., symptomatic infection,
+           SARS-CoV-2 positive amniotic fluid, co-infections).
+
+      Design Prospective observational study in 100 Spanish sites Recruitment: 1st March 2020 to
+      1st March 2021. Spanish sites collected in Appendix 1.
+
+      Patients Patients eligible for follow-up or target population will be any pregnant woman who
+      is suspected of or needs to be ruled out as having SARS-CoV-2 infection at any time during
+      pregnancy with positive test results for SARS-CoV-2 by PCR.
+
+      The result of the PCR test on a sample of nasopharyngeal and/or oropharyngeal swab was
+      considered synonymous with exposure/non-exposure, defining a case as any pregnant woman with
+      a positive result, regardless of the symptoms. Those cases with clinical presentation of
+      COVID19 were classified according to the WHO division for adults into: mild symptoms,
+      mild-moderate pneumonia, severe pneumonia and septic shock (16).
+
+      The recommended samples for diagnosis are samples from the upper respiratory tract:
+      nasopharyngeal and/or oropharyngeal swab.
+
+      Primary variables Maternal characteristics Age, mean years (range) Age groups, n (%) &lt;20
+      20-34
+
+        -  35 Time between COVID-19 diagnosis and delivery, mean days (range) Symptomatology, n (%)
+           Showing COVID-19 symptoms Asymptomatic
+
+      Delivery characteristics Gestational age, mean weeks (range) Preterm deliveries (&lt;37 weeks),
+      n (%) Start of delivery, n (%) Spontaneous Induced Elective caesarean Type of delivery, n (%)
+      Normal Instrumental Caesarean Weight at birth, mean grams (range) Neonatal tests for
+      COVID-19, n (%) &lt;12 hours from delivery (Positive ones) 12-48 hours from delivery (Positive
+      ones) Skin-to-skin within first 24 hours, n (%) Breastfeeding at immediate postpartum, n (%)
+      Arterial pH, mean value (range) 5-minute Apgar score, n (%) &lt;5
+
+        -  5 ICU admission, n (%)
+
+      Evaluation 14 days after delivery, N
+
+      Symptomatology, n (%) Showing COVID-19 symptoms Asymptomatic COVID-19 symptoms Mild symptoms
+      (Symptoms reported at birth) Cough Fever Dyspnoea New olfactory or taste disorder
+      Fatigue/malaise Altered consciousness Headache Nausea/vomiting Diarrhoea Mild-moderate
+      pneumonia Severe pneumonia Septic shock/maternal mortality
+
+      The rest of the variables are defined in appendix 5 Statistics For the statistical analysis,
+      the SAS v9.4 software will be used. The set of groups of variables requested and collected
+      for each enrolled patient will be the same. The demographic and clinical characteristics of
+      the population included will be summarized. Mean, standard deviation, minimum and maximum or
+      median and interquartile intervals will be used for continuous variables, according to the
+      distribution. The corresponding absolute and relative frequency will be reported for the
+      discrete variables.
+
+      An analysis of the possible association of both the characteristics of the patients and the
+      outcomes collected with COVID-19 infection will be carried out using Pearson's Chi-square
+      test or Fisher's exact test and the Mann-Whitney U test (after verification of the absence of
+      normal data by the Kolmogorov-Smirnov test). See section on Data Quality Plan and sample
+      size. Statistical significance was established with P &lt;0.05.
+
+      Substudy 2: Prospective observational study on maternal and neonatal morbidity in pregnant
+      women with COVID-19 Objective/s
+
+        1. Determine the variables that are associated with more maternal and neonatal morbidity.
+
+        2. Characterize the clinical course of SARS-CoV-2 infection during pregnancy (for example,
+           severity of maternal symptoms, distribution of gestational age at onset, ICU admission,
+           mechanical ventilation, death).
+
+        3. Identify additional risk factors and risk modifiers (e.g., symptomatic infection,
+           SARS-CoV-2 positive amniotic fluid, co-infections).
+
+           Design Descriptive Observational Study Recruitment: 1st March 2020 to 1st March 2021.
+           Spanish sites collected in Appendix 1.
+
+           Patients Patients eligible for follow-up or target population will be any pregnant woman
+           who is suspected of or needs to be ruled out as having SARS-CoV-2 infection at any time
+           during pregnancy with positive test results for SARS-CoV-2 by PCR.
+
+           The result in the PCR test on a sample of nasopharyngeal and/or oropharyngeal swab was
+           considered synonymous with exposure/non-exposure, defining a case as any pregnant woman
+           with a positive result, regardless of the symptoms. Those cases with clinical
+           presentation of COVID19 were classified according to the WHO division for adults into:
+           mild symptoms, mild-moderate pneumonia, severe pneumonia and septic shock (16).
+
+           The recommended samples for diagnosis are samples from the upper respiratory tract:
+           nasopharyngeal and/or oropharyngeal swab.
+
+           Primary variables
+
+           Age Premature rupture of membranes (PRM) Race Preterm PRM Weight at the beginning of
+           pregnancy NICU admission BMI: Body Mass Index NICU admission days Single or Multiple
+           Gestation APGAR 5 IVF with egg donation and IVF without egg donation Arterial pH Medical
+           comorbidity Postpartum haemorrhage Blood group and Rh Abruptio placentae Maternal
+           mortality Severe preeclampsia ICU admission HELLP Intrauterine foetal mortality
+           Pulmonary embolism COVID 19 diagnosis date Endometritis Delivery &lt; 37 weeks Mastitis
+           Delivery Type
+
+           COVID-19 symptoms Mild symptoms (Symptoms reported at birth) Cough Fever Dyspnoea New
+           olfactory or taste disorder Fatigue/malaise Altered consciousness Headache
+           Nausea/vomiting Diarrhoea Mild-moderate pneumonia Severe pneumonia Septic shock/maternal
+           mortality
+
+           The rest of the variables are defined in appendix 5 Statistics For the statistical
+           analysis, the SAS v9.4 software will be used. The set of groups of variables requested
+           and collected for each enrolled patient will be the same. The demographic and clinical
+           characteristics of the population included will be summarized. Mean, standard deviation,
+           minimum and maximum or median and interquartile intervals will be used for continuous
+           variables, according to the distribution. The corresponding absolute and relative
+           frequency will be reported for the discrete variables.
+
+           An analysis of the possible association of both the characteristics of the patients and
+           the outcomes collected with COVID-19 infection will be carried out using Pearson's
+           Chi-square test or Fisher's exact test and the Mann-Whitney U test (after verification
+           of the absence of normal data by the Kolmogorov-Smirnov test). See section on Data
+           Quality Plan and sample size. Statistical significance was established with P &lt;0.05. All
+           statistical analyses were carried out with SAS 9.4 software.
+
+           Substudy 3. Cohort study on obstetric pathology. Objective/s The purpose of this study
+           was to test if pregnant patients with COVID-19 have more obstetrical morbidity than
+           those non-infected.
+
+             -  Determine the variables that are associated with more maternal and neonatal
+                morbidity.
+
+             -  Quantify the risk of adverse pregnancy outcomes (e.g., miscarriage, stillbirth,
+                growth restriction) and neonatal outcomes (e.g., NICU, prematurity, death, birth
+                defects).
+
+           Design Longitudinal cohort case study to quantify the obstetrical and perinatal
+           morbi-mortality throughout all hospitals in Spain with a universal, consecutive PCR
+           based screening program.
+
+           Recruitment: 1st March 2020 to 1st March 2021. Spanish sites collected in Appendix 1.
+
+           Patients Case eligibility criteria included individuals with laboratory confirmation of
+           COVID-19 infection, irrespective of clinical signs and symptoms or the result of another
+           serological test. Positive RNA PCR test from maternal nasopharyngeal swabs.
+
+           The selection of the control group will be collected in the same database, considering
+           patients with negative COVID-19 delivery diagnosed by PCR screening at the time of
+           delivery or less than 3 days before.
+
+           The delivery or deliveries that were treated in this site and that occurred within the
+           same day, before and after the case (maximum 3 per case), are included in the control
+           group. If the case were the last delivery of the day, the first ones of the following
+           day could be recruited. If the case were the first of that day, the last one of the
+           previous day could be recruited.
+
+           The data collected will be entered at the time they join the registry. Delivery
+           monitoring: the outcomes include perinatal and neonatal events, which were collected at
+           the time of delivery and the days immediately afterward. These perinatal events included
+           gestational age, type of delivery, presence of prepartum or premature rupture of
+           membranes before delivery, as well as any medical complications (thromboembolic events,
+           admission to ICU, maternal death) and obstetric complications (hemorrhagic events and
+           hypertensive disorders), while neonatal events included the 5-minute Apgar score, the pH
+           of the umbilical artery and possible complications such as admission to the NICU and
+           neonatal death in the follow-up period or intrauterine foetal death. The definitions of
+           obstetric pathology follow the international criteria of the ACOG and RCOG (18-21).
+
+           Follow-up after delivery: Patient follow-up is carried out by the local investigator
+           over the phone and the medical history is consulted from the time the patient is
+           discharged up to 6 weeks later in order to detect late postpartum complications related
+           to COVID 19. In the case of the new-born, the follow-up is 14 days by the investigating
+           neonatology department by telephone and consultation of the patient's medical history to
+           detect symptoms of COVID 19 symptoms. Complications recorded in the mother during this
+           period (mastitis, endometritis, pulmonary embolism) as well as neonatal death or
+           readmission of the new-born due to COVID were considered outcomes of interest and
+           analysed together with those described above.
+
+           Primary variables Maternal characteristics
+
+           Maternal age (years: mean/range) Age range 18-24 25-34 34-49 Ethnicity White European
+           Latino Americans Black non-Hispanic Asian non-Hispanic Arab Nulliparous Smoking ICU
+           admission COVID 19 diagnosis date Delivery &lt;37 weeks
+
+           Maternal comorbidities Obesity (BMI&gt; 30 kg/m2)
+
+           Cardiovascular comorbidities Chronic Cardiac Disease Pre-pregnancy HT Pulmonary
+           comorbidities Chronic Pulmonary Disease (not asthma) Asthma Hematologic comorbidities
+           Chronic Blood Disease Thrombophilia Antiphospholipid syndrome
+
+           COVID-19 symptoms Mild symptoms (Symptoms reported at birth) Cough Fever Dyspnoea New
+           olfactory or taste disorder Fatigue/malaise Altered consciousness Headache
+           Nausea/vomiting Diarrhoea Mild-moderate pneumonia Severe pneumonia Septic shock/maternal
+           mortality
+
+           Delivery Type Premature rupture of membranes Preterm PRM NICU admission NICU admission
+           days Postpartum haemorrhage Abruptio placentae Severe Preeclampsia HELLP Pulmonary
+           embolism
+
+           The rest of the variables are described in appendix 5 Statistics For the descriptive
+           analysis, categorical variables were expressed as absolute and relative frequencies;
+           whereas quantitative ones were expressed as mean and range (minimum-maximum values).
+           Analysis of the possible association of both the characteristics of the patients and the
+           outcomes collected with COVID-19 infection is carried out using the Pearson Chi-square
+           test or Fisher's exact test and the Mann-Whitney U test (after checking the absence of
+           normal data using the Kolmogorov-Smirnov test). See sections of Data Quality Plan and
+           sample size. Statistical significance was established with P &lt;0.05. All statistical
+           analyses were carried out with SAS 9.4 software.
+
+           For each response variable (outcome) a multiple logistic regression model has been
+           carried out, refined with the backward conditional stepwise method.
+
+           The response variables are those described in the previous section. The subset of
+           explanatory variables is different for each model and is specified in the text.
+
+           It will only be of interest the Odds Ratio (OR), its 95% CI and the significance of the
+           &quot;COVID&quot; factor. The information on the rest of the explanatory variables is irrelevant
+           since they only act as adjustment variables.
+
+           Substudy 4. Epidemiological prevalence study Objective/s Determine the prevalence of
+           SARS_COV2 infection in Spanish pregnant women Design Cross-sectional study. The nQuery
+           Advisor Release 7.0 software was used to calculate the sample size, based on the
+           available data. As we do not have data on the prevalence of COVID-19, we set an expected
+           percentage of 50% (a situation that maximizes the sample size) of asymptomatic women
+           during delivery. We determined the sample size for a COVID-19 delivery prevalence study
+           with an expected prevalence of 50%, a 95% confidence level and 5% accuracy, resulting in
+           a sample size of 1056 pregnant women.
+
+           The selection of pregnant women in the sample will follow the distribution of the
+           delivery rate by communities and hospitals in Spain according to the INE data for 2018
+           (Appendix 3) (15). Subsequently, a simple random selection procedure will be carried out
+           in each site, creating a numerical list of the women to be included in the sample
+           (Appendix 1). Pregnant women will be assigned a consecutive number from one onwards
+           according to their due date. Subsequently, the pregnant women who will be part of the
+           sample will be chosen when the number that identifies them is within the table
+           previously created through the random procedure.
+
+           Recruitment: 1st March 2020 to 1st March 2021. Spanish sites collected in the Appendix 1
+           Patients Delivery of pregnant women in Spanish maternity wards with a diagnostic test
+           for COVID-19.
+
+           Inclusion criteria:
+
+             -  Single or multiple gestations of 24 weeks or more without a positive laboratory
+                test for COVID-19 prior to delivery.
+
+             -  Delivery in a public or private maternity hospital in Spain with a diagnostic test
+                for COVID-19 using PCR Kits within 72 hours prior to delivery or 24 hours after
+                delivery.
+
+             -  The presence of comorbidity is not an exclusion criterion (asthma, diabetes
+                mellitus, hypertension-preeclampsia, endocrine disorder, dermatological pathology
+                or other obstetric or medical-surgical pathologies).
+
+             -  Acceptance by the pregnant woman to participate in the study by means of informed
+                consent for group study.
+
+           The result of the PCR test on a sample of nasopharyngeal and/or oropharyngeal swab was
+           considered synonymous with exposure/non-exposure, defining a case as any pregnant woman
+           with a positive result, regardless of the symptoms. Those cases with clinical
+           presentation of COVID-19 were classified according to the WHO division for adults into:
+           mild symptoms, mild-moderate pneumonia, severe pneumonia and septic shock (16).
+
+           The recommended samples for diagnosis are samples from the upper respiratory tract:
+           nasopharyngeal and/or oropharyngeal swab.
+
+           A healthy patient is considered to have a negative PCR in the absence of symptoms.
+           Patients with positive IgM or IgG serology cannot be included. The absence of serology
+           does not prevent classifying the patient as healthy if the PCR is negative.
+
+           Primary variables
+
+           Age Delivery &lt; 37 weeks Race Delivery Type Weight at the beginning of pregnancy
+           Premature rupture of membranes Body Mass Index (BMI) Preterm PRM Blood type NICU
+           admission Single or Multiple NICU admission days IVF Postpartum haemorrhage Obesity BMI&gt;
+           30 Abruptio placentae Vascular comorbidities Severe Preeclampsia Pulmonary comorbidity
+           HELLP Maternal mortality Pulmonary embolism ICU admission COVID 19 diagnosis date
+
+           The rest of the variables are described in appendix 5 Statistics For the statistical
+           analysis, the SAS v9.4 software will be used. The set of groups of variables requested
+           and collected for each enrolled patient will be the same. The demographic and clinical
+           characteristics of the population included will be summarized. Mean, standard deviation,
+           minimum and maximum or median and interquartile intervals will be used for continuous
+           variables, according to the distribution. The corresponding absolute and relative
+           frequency will be reported for the discrete variables.
+
+           The possible association of both the characteristics of the patients and the outcomes
+           collected with COVID-19 infection using the Pearson Chi-square test or Fisher's exact
+           test and the Mann-Whitney U test (after checking the absence of normal data using the
+           Kolmogorov-Smirnov test). Statistically significant associations were considered when
+           the p value was less than 0.05. For those categorical variables in which statistically
+           significant differences were identified, the corresponding Odds Ratio (OR) and 95%
+           Confidence Intervals (95% CI) were estimated using univariate logistic regression
+           models.
+
+           Logistic regressions, both univariate and multivariate, will be performed, determining
+           the odd ratio and its 95% confidence interval.
+
+           Management and reporting of adverse reactions As it is an epidemiological study without
+           a drug under study, the provisions on Pharmacovigilance in Ministerial Order
+           SAS/3470/2009 and Royal Decree 577/2013 in relation to reporting adverse reactions to
+           approved drugs will be followed. Investigators who are aware of possible adverse
+           reactions during the study should notify them as quickly as possible to the Autonomous
+           Center for Pharmacovigilance corresponding to their healthcare area, through any of the
+           channels that the institution makes available (through the yellow card system or via
+           online through the SINAEM website). It is also recommended that the Investigator (or
+           reporting doctor) reports all adverse reactions to the marketing authorization holder of
+           the drugs involved. Additionally, the conditions of use outside the marketing
+           authorization of the drug must be reported (e.g.: off-label use, overdose, misuse, abuse
+           and medication errors) or occupational exposure, as well as cases of suspected drug
+           interactions, pregnancy, exposure during breastfeeding and lack of efficacy.
+
+           Ethical aspects This study will be carried out under conditions of respect for the
+           fundamental rights of the person and the ethical principles that affect biomedical
+           research with human beings, following the international recommendations contained in the
+           Declaration of Helsinki, and its subsequent revisions. Likewise, national
+           recommendations will be followed in accordance with the Biomedical Research Law 14/2007.
+
+           During the completion of this study, the investigators will strictly adhere to the
+           provisions of this protocol, fully completing the Case Report Form.
+
+           Informed consent In accordance with the criteria of good clinical practice, the subjects
+           will be duly informed of all those details concerning their participation in the study
+           and will freely give their consent in writing or orally, recording this fact in their
+           medical records.
+
+           Preferably written or oral consent will be sought for cases and controls chosen at
+           random from among pregnant women who have given birth in each centre and who have
+           COVID-19. The patient may sign the consent electronically (See appendix 7).
+
+           Safety Measures and Confidentiality Protection of human subjects: Pregnant women and
+           newborns participate in the registry as mentioned above. No biological samples are
+           collected for specific analysis in this study.
+
+           The laboratory tests collected in the registry will be those carried out in each site
+           according to its protocol. No extra lab tests will be carried out for this study and
+           there is no handling of biological tests. The data collected through the national
+           registry for SARS-CoV-2 in pregnancy does not contain personally identifiable
+           information.
+
+           The data of the subjects included in it will be treated in accordance with Organic Law
+           3/2018, of 5th December, on the Protection of Personal Data and guarantee of digital
+           rights.
+
+           Use of the data contained in the registry
+
+           The use of the data contained in this registry within any scientific research project
+           will previously require:
+
+             -  Approval by the local Clinical Research Ethics Committee (CREC) of the study site.
+
+             -  Approval by the Scientific Committee, a body that will be constituted to give
+                scientific output to the database.
+
+             -  Signing of the data protection law contract. A citation policy will be established
+                for the registry, as well as for the authorship order of the different sites
+                providing patients to each research project.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>MATERNAL COMPLICATIONS</measure>
+    <time_frame>1 year</time_frame>
+    <description>MATERNAL MORTALITY MORBIDITY</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>NEONATAL INFECTION</measure>
+    <time_frame>1 year</time_frame>
+    <description>VERTICAL TRANSMISION</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Pregnancy Complications</condition>
+  <condition>Premature Rupture of Membrane</condition>
+  <condition>Abruptio Placentae</condition>
+  <condition>Prelabor Rupture of Membranes</condition>
+  <condition>Stillbirth</condition>
+  <arm_group>
+    <arm_group_label>OBS COVID 3</arm_group_label>
+    <description>Objective/s The purpose of this study was to test if pregnant patients with COVID-19 have more obstetrical morbidity than those non-infected.
+Determine the variables that are associated with more maternal and neonatal morbidity.
+Quantify the risk of adverse pregnancy outcomes (e.g., miscarriage, stillbirth, growth restriction) and neonatal outcomes (e.g., NICU, prematurity, death, birth defects).
+Design Longitudinal cohort case study to quantify the obstetrical and perinatal morbi-mortality throughout all hospitals in Spain with a universal, consecutive PCR based screening program.
+Recruitment: 1st March 2020 to 30 September 2020. Spanish sites collected in Appendix 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>OBS COVID 4</arm_group_label>
+    <description>Substudy 4. Epidemiological prevalence study Objective/s Determine the prevalence of SARS_COV2 infection in Spanish pregnant women Design Cross-sectional study. The nQuery Advisor Release 7.0 software was used to calculate the sample size, based on the available data. As we do not have data on the prevalence of COVID-19, we set an expected percentage of 50% (a situation that maximizes the sample size) of asymptomatic women during delivery. We determined the sample size for a COVID-19 delivery prevalence study with an expected prevalence of 50%, a 95% confidence level and 5% accuracy, resulting in a sample size of 1056 pregnant women.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        For the characterization of the clinical course of SARS-CoV-2 infection during pregnancy,
+        the pre-study sample size calculation has not been carried out, as registry-based studies
+        generally tend to be comprehensive without involving hypotheses.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        -
+
+        Patients eligible for follow-up o target population will be any pregnant woman who is
+        suspected or needs to be ruled out as having a SARS-CoV-2 infection at any time during
+        pregnancy with positive test results for SARS-CoV-2 by PCR.
+
+        Information regarding each pregnant woman's demographic characteristics, comorbidities and
+        current obstetric history was extracted from the medical history and the patient interview;
+        subsequently, age and race were categorized according to the classification used by the
+        Center for Disease Control and Prevention (CDC) (17).
+
+        For the selection of the control group to be collected in the same database, patients with
+        a negative COVID-19 delivery diagnosed by PCR screening at delivery, or less than 3 days
+        before, were considered.
+
+        Exclusion criteria
+
+        Pregnant women under the following conditions will be excluded from the registry:
+
+          -  Inability to give informed consent in the absence of a legal representative.
+
+          -  If, in the opinion of the researcher, findings in the physical examination, anomalies
+             in the results of the laboratory tests or other medical, social or psychosocial
+             factors could have a negative influence.
+
+          -  Loss of follow-up data prior to 6 weeks postpartum.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Oscar M Martinez Perez, Epidemiologist</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>HUHPH</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Oscar M Martinez Perez, MD</last_name>
+    <phone>600417307</phone>
+    <email>oscarmartinezgine@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Puerta de Hierro University Hospital</name>
+      <address>
+        <city>Majadahonda</city>
+        <state>Madrid</state>
+        <zip>28290</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Oscar M Martinez Perez, MD</last_name>
+      <phone>600417307</phone>
+      <email>oscarmartinezgine@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Maria Luisa De la Cruz Conti, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Gracia-Perez-Bonfils A, Martinez-Perez O, Llurba E, Chandraharan E. Fetal heart rate changes on the cardiotocograph trace secondary to maternal COVID-19 infection. Eur J Obstet Gynecol Reprod Biol. 2020 Sep;252:286-293. doi: 10.1016/j.ejogrb.2020.06.049. Epub 2020 Jul 2.</citation>
+    <PMID>32645644</PMID>
+  </reference>
+  <results_reference>
+    <citation>Martínez-Perez O, Vouga M, Cruz Melguizo S, Forcen Acebal L, Panchaud A, Muñoz-Chápuli M, Baud D. Association Between Mode of Delivery Among Pregnant Women With COVID-19 and Maternal and Neonatal Outcomes in Spain. JAMA. 2020 Jul 21;324(3):296-299. doi: 10.1001/jama.2020.10125. Erratum in: JAMA. 2020 Jul 21;324(3):305.</citation>
+    <PMID>32511673</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Puerta de Hierro University Hospital</investigator_affiliation>
+    <investigator_full_name>Oscar Martinez Perez</investigator_full_name>
+    <investigator_title>Obstetric senior consultant</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pregnancy Complications</mesh_term>
+    <mesh_term>Fetal Membranes, Premature Rupture</mesh_term>
+    <mesh_term>Stillbirth</mesh_term>
+    <mesh_term>Abruptio Placentae</mesh_term>
+    <mesh_term>Rupture</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2303">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04508959</url>
+  </required_header>
+  <id_info>
+    <org_study_id>172754</org_study_id>
+    <nct_id>NCT04508959</nct_id>
+  </id_info>
+  <brief_title>The McMaster Multi-Regional COVID-19 Hospital Case Registry</brief_title>
+  <acronym>COREG</acronym>
+  <official_title>A Rapid Research Platform to Inform Prevention &amp; Improve the Clinical Management of COVID-19 Illness for Priority Older Adult Groups: The McMaster Multi-regional Hospital Coronavirus Registry</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Canadian Institutes of Health Research (CIHR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hamilton Academic Health Sciences Organization</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Grand River Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Niagara Health System</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>St. Mary's General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hamilton Health Sciences Corporation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>St. Joseph's Healthcare Hamilton</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>McMaster University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The McMaster Multi-Regional Hospital Coronavirus Registry (COREG) is a platform that is
+      collecting detailed case data on laboratory confirmed COVID-19 hospital inpatients and
+      outpatients. The COREG platform will provide rapid high-quality evidence to improve the
+      prevention and clinical management of COVID-19 for older adults in Canada, and
+      internationally. The COREG platform will also provide researchers and partners with complete
+      regional level clinical data on COVID-19 cases to inform rapid decision-making and
+      projections, sub-studies, extensions, and linkage for all affected populations.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Rationale: The novel coronavirus disease of 2019 (COVID-19) is a rapidly evolving pandemic,
+      which poses a major and ongoing threat to health and the health system both globally and
+      locally. While there have been country-specific case series that have offered some guidance
+      on interventions that may be effective; applying them to local settings is problematic, given
+      differences in population density, demographics (including vulnerable sub-populations),
+      economic and political capacity. To this end, local data is needed to better inform on the
+      timing and implementation of specific and targeted interventions to mitigate the spread and
+      impact of the virus immediately, and thereafter. Near real-time information can greatly
+      inform efforts and decisions needed to address resource allocation in response to the dynamic
+      pandemic.
+
+      Objectives: The Investigators' aim is to collect data on the impact and burden of COVID-19
+      that can inform and support real-time local clinical and policy decisions. Specifically, the
+      objectives are to: 1) Create a COVID-19 admission case registry as a local research and
+      quality improvement platform for the COVID-19 pandemic; and 2) Collect data that can inform
+      local pandemic decisions and evaluation, including incidence, vulnerability, complications,
+      and clinical course of COVID-19 patients.
+
+      Methods: The investigators have established the McMaster Coronavirus (COVID-19) Registry
+      (COREG), an ISARIC-WHO compatible, comprehensive platform that facilitates uniform data
+      collection of COVID-19. COREG is an extension of the ISARIC-WHO case report form (CRF)
+      designed to capture local information on transmission, disease- burden, course, and outcomes
+      of COVID-19 cases from all COVID-19 charting hospitals in the Waterloo, Hamilton, and Niagara
+      Regions of Ontario, Canada (Population &gt; 1,500,000). COREG is a comprehensive patient
+      registry based retrospective data collection on all suspected and confirmed COVID-19 cases
+      (according to the ISARIC definition) admitted to St. Joseph's Healthcare Hamilton (SJHH),
+      Hamilton Health Sciences (HHS), Grand River Hospital, St. Mary's General Hospital, and the
+      Niagara Health System. The registry includes data abstracted from existing chart data
+      generated during routine clinical care. A waiver of informed consent is granted. Data
+      categories to be collected follow the ISARIC-WHO CRF
+      (https://isaric.tghn.org/covid-19-clinical-research-resources/) and include demographics,
+      co-morbidities, pre-admission medications, signs and symptoms, diagnostic results,
+      in-hospital interventions and health outcomes (medical complications during hospitalization
+      including ICU and death). Cases are identified by the Infection Prevention and Control (IPAC)
+      at each site and records will be accessed remotely and securely by research and medical
+      staff. Extracted data are stored in a secure McMaster hosted REDCap and data server. Data
+      collectors undergo a standardized training. Weekly governance meetings occur between the data
+      collectors, operational leads and clinical site lead at each site to discuss, address and
+      resolve any barriers and inconsistences in data collection and advance the scientific agenda.
+
+      Impact: COREG ensures that COVID-19 data collected are standardized and robust and will have
+      a meaningful impact on local decision-making, while also being comparable internationally.
+      COREG will shape consensus recommendations on inpatient management of hospitalized patients
+      with COVID-19. It will be invaluable to local and global research efforts, since linkage to
+      tissue biobanks and other administrative databases can be easily performed to address
+      questions on pathophysiology, long-term outcomes and healthcare burden.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 15, 2020</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>Serious COVID-19 infection</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Defined as symptomatic hospital outpatients with laboratory confirmed SARS-CoV-2 (based on the ISARIC definition) through the COREG platform.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Severe infection (requiring admission)</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Defined as persons admitted with laboratory confirmed SARS-CoV-2 (based on the ISARIC definition) available through the COREG platform. We will also conduct sub analyses of hospital acquired COVID-19 also captured in the COREG platform.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 related death</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Defined as persons who died with laboratory confirmed SARS-CoV-2 (based on the ISARIC definition) available through the COREG platform.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Days from admission to discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complications</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>New or increased severity of conditions and syndromes from pre-morbid state.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive interventions</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Rate of intensive interventions during hospital stay.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <condition>Coronavirus</condition>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Screened patients</arm_group_label>
+    <description>All individuals screened using the hospital's microbiology laboratory.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Outpatient (Emergency Department) cases</arm_group_label>
+    <description>All individuals seen in the emergency department who test positive for COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Inpatient (General Medical or Intensive Care) cases</arm_group_label>
+    <description>All individuals admitted to a general or intensive care bed who test positive for COVID-19.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        -  Persons tested positive for SARS-CoV-2 using hospital facilities
+
+          -  Patients seen or admitted with confirmed COVID-19 to the hospital
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Persons tested positive for SARS-CoV-2 using hospital facilities
+
+          -  Patients seen or admitted with confirmed COVID-19 to the hospital
+
+        Exclusion Criteria:
+
+          -  The pragmatic nature of the registry warrants the broadest inclusion criteria that are
+             feasible. In keeping with the pragmatic nature of this registry, no exclusions are
+             introduced.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rebecca J Kruisselbrink, MD, MPH, FRCPC</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>MyLinh Duong, MBBS, MSc, FRACP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Terence Ho, MD, FRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Andrew P Costa, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marla Beauchamp, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andrew P Costa, PhD</last_name>
+    <phone>5197296285</phone>
+    <email>acosta@mcmaster.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Darly Dash, MSc</last_name>
+    <email>dashd@mcmaster.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hamilton General Hospital</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8L2X2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mats L Junek, MD, MSc</last_name>
+      <email>mats.junek@medportal.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Healthcare Hamilton</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L9C0E3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica Kapralik, MD (PGY5)</last_name>
+      <email>jessica.kapralik@medportal.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Grand River Hospital</name>
+      <address>
+        <city>Kitchener</city>
+        <state>Ontario</state>
+        <zip>N2G1G3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tyler Pitre, MA, MD (PGIM)</last_name>
+      <email>tyler.pitre@medportal.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Mary's General Hospital</name>
+      <address>
+        <city>Kitchener</city>
+        <state>Ontario</state>
+        <zip>N2M1B2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tyler Pitre, MA, MD (PGIM)</last_name>
+      <email>tyler.pitre@medportal.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 11, 2020</study_first_posted>
+  <last_update_submitted>August 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>McMaster University</investigator_affiliation>
+    <investigator_full_name>Andrew Costa</investigator_full_name>
+    <investigator_title>Associate Professor and Schlegel Chair in Clinical Epidemiology &amp; Aging</investigator_title>
+  </responsible_party>
+  <keyword>Registry</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>WHO-ISARIC COVID-19 database (https://isaric.tghn.org/covid-19-clinical-research-resources/).</ipd_description>
+    <ipd_time_frame>Entire registry</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

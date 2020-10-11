@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="210">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04523181</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GHCovid-2-001</org_study_id>
+    <nct_id>NCT04523181</nct_id>
+  </id_info>
+  <brief_title>Phase 2 Double-blind Study to Evaluate the Safety and Efficacy of Antroquinonol in Mild to Moderate COVID-19 Hospitalized Patients</brief_title>
+  <official_title>A Phase 2 Randomized, Double-blind, Placebo-controlled, Proof of Concept Study to Evaluate the Safety and Efficacy of Antroquinonol in Hospitalized Patients With Mild to Moderate Pneumonia Due to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Golden Biotechnology Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Golden Biotechnology Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety andefficacy of antroquinonol treatment of mild to moderate pneumonia
+      due to COVID-19, as measured by the proportion of patients alive and free of respiratory
+      failure.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, double blind, placebo controlled, Phase 2, proof of concept study in
+      hospitalized patients with mild to moderate pneumonia due to COVID 19. Written informed
+      consent must be obtained from all patients during screening. Following completion of all
+      screening assessments and meeting of eligibility criteria, patients will either receive
+      antroquinonol or placebo for 14 days in combination with SoC therapy per local SoC policies.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 21, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A Phase 2 Randomized, Double blind, Placebo Controlled, Proof of Concept Study to Evaluate the Safety and Efficacy of Antroquinonol in Hospitalized Patients with Mild to Moderate Pneumonia due to COVID 19</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double blind, Placebo Controlled</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>recover ratio</measure>
+    <time_frame>14 day</time_frame>
+    <description>The proportion of patients who are alive and free of respiratory failure (e.g., no need for invasive mechanical ventilation, non invasive ventilation, high flow oxygen, or ECMO) on Day 14</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to 2-point improvement</measure>
+    <time_frame>28 day</time_frame>
+    <description>Clinical change score as measured by the WHO COVID-19 Clinical Improvement Ordinal Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>28 day</time_frame>
+    <description>time for patient discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to virological clearance</measure>
+    <time_frame>28 day</time_frame>
+    <description>measured as study days from start of treatment to first negative SARS CoV 2 PCR test</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">174</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Antroquinonol with SOC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Antroquinonol in a dose of 100 mg (1 capsule) administered twice daily (BID) orally, for 14 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo with SOC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>placebo (1 capsule) administered twice daily (BID) orally, for 14 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Antroquinonol</intervention_name>
+    <description>double-blind for antroquinonol and Placebo with same out-look and same frequency.</description>
+    <arm_group_label>Antroquinonol with SOC</arm_group_label>
+    <other_name>Hocena</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Capsule without active compound</description>
+    <arm_group_label>Placebo with SOC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Willing and able to provide informed consent.
+
+          2. Male or female patients between 18 and 80 years of age.
+
+          3. Hospitalized with COVID 19 disease (not requiring oxygen therapy [WHO COVID-19
+             Clinical Improvement Ordinal Scale, score of 3] or requiring oxygen therapy by mask or
+             nasal prong [WHO COVID-19 Clinical Improvement Ordinal Scale, score of 4]).
+
+             Note: Hospitalized patients can also include patients admitted to centers conditioned
+             as hospitals to treat COVID-19 patients.
+
+          4. Chest x ray or computerized tomography (CT) scan consistent with mild to moderate
+             pneumonia.
+
+          5. Onset of COVID-19 symptoms within 5 days prior to screening.
+
+          6. SARS CoV 2 infection confirmed by a polymerase chain reaction (PCR) test
+             (nasopharyngeal, oropharyngeal, or respiratory samples, not serology testing).
+
+          7. Male patients and female patients of childbearing potential must agree to use
+             protocol-specified methods of contraception.
+
+          8. Females patients of childbearing potential must have a negative pregnancy test at
+             Screening or pretreatment on Day 1.
+
+          9. Male patients must agree not to donate sperm from the first dose through 90 days after
+             the last dose of study treatment; female patients of childbearing potential should
+             refrain from donation of ova from Day 1 until 90 days after the last dose of study
+             treatment.
+
+         10. Patient is, in the opinion of the investigator, willing and able to comply with the
+             study treatment regimen and all other study requirements.
+
+        Exclusion Criteria:
+
+          1. Female patient is pregnant or breastfeeding.
+
+          2. Any patient's concomitant life threatening condition, including but not limited to:
+             requiring mechanical ventilation, acute respiratory distress syndrome, shock, or
+             cardiac failure.
+
+          3. Evidence of lobar or sublobar consolidation on chest x ray.
+
+          4. Severe COVID 19 disease as defined by the WHO COVID-19 Clinical Improvement Ordinal
+             Scale, scores of 5 (non invasive ventilation or high flow oxygen), 6 (intubation and
+             mechanical ventilation), or 7 (ventilation + additional organ support pressors, renal
+             replacement therapy [RRT], ECMO).
+
+          5. Medical history significant for the following pulmonary diseases: lung cancer, cystic
+             fibrosis, empyema.
+
+          6. Peripheral capillary oxygen saturation (SpO2) &lt;90% in room air.
+
+          7. History of buse of drugs or alcohol that could interfere with adherence to study
+             requirements, as judged by the investigator.
+
+          8. Treatment with other drugs thought to possibly have activity against COVID 19 within 7
+             days prior to enrollment or concurrently. Note: remdesivir is allowed if considered
+             SoC, if started prior to randomization.
+
+          9. Use of other investigational drugs within 30 days of dosing, or plans to enroll in
+             another clinical trial of an investigational agent while participating in the present
+             study.
+
+         10. Use of Antrodia camphorata -containing products within 2 weeks prior to the first
+             administration of study drug.
+
+         11. Clinically significant abnormal electrocardiogram (ECG) at Screening, as determined by
+             the investigator.
+
+         12. Patient requires frequent or prolonged use of systemic corticosteroids (≥20 mg of
+             prednisone/day or equivalent for &gt;4 weeks) or other immunosuppressive drugs (e.g., for
+             organ transplantation or autoimmune conditions).
+
+         13. Abnormal laboratory values at Screening:
+
+               1. Estimated glomerular filtration rate &lt;50 mL/min.
+
+               2. Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt;5 × upper
+                  limit of normal (ULN), or ALT/AST &gt;3 × ULN plus total bilirubin &gt;2 × ULN.
+
+               3. Total bilirubin &gt;1.5 × ULN, unless the patient has known Gilbert's syndrome.
+
+               4. Hemoglobin &lt;9 g/dL for females or &lt;11 g/dL for males.
+
+               5. Absolute neutrophil count &lt;1,500/mm3.
+
+               6. Thrombocytopenia (platelets count &lt;100 × 109/L).
+
+         14. Treatment with any antiviral drugs (except remdesivir), or with any drugs known to be
+             strong inducers or inhibitors of cytochrome P450 isoform (CYP) 2C19, CYP3A4, CYP2C8
+             and CYP2E1 within 14 days or 5 half lives prior to the start of study treatment. Drugs
+             with a narrow therapeutic index that are substrates of 1A2, 2B6, 2C8, 2C9, 2C19, 3A,
+             and 2D6 are also prohibited
+
+         15. Inability to swallow oral medications or a gastrointestinal disorder with diarrhea
+             (e.g., Crohn's disease), malabsorption, or diarrhea of any etiology at baseline.
+
+         16. Any other clinically significant medical condition or laboratory abnormality that, in
+             the opinion of the investigator, would jeopardize the safety of the patient or
+             potentially impact patient compliance or the safety/efficacy observations in the
+             study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 21, 2020</study_first_posted>
+  <last_update_submitted>September 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Antroquinonol</keyword>
+  <keyword>COVID 19</keyword>
+  <keyword>pneumonia</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

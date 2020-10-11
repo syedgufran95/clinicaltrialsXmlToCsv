@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1695">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04525378</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PCL02/2020</org_study_id>
+    <nct_id>NCT04525378</nct_id>
+  </id_info>
+  <brief_title>MSC-based Therapy in COVID-19-associated Acute Respiratory Distress Syndrome</brief_title>
+  <official_title>Mesenchymal Stromal Cell-based Therapy for COVID-19-associated Acute Respiratory Distress Syndrome: a Pilot Clinical Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>D'Or Institute for Research and Education</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>D'Or Institute for Research and Education</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Considering the potential of mesenchymal stromal cells (MSCs) in the treatment of lung
+      injuries by COVID-19, this pilot clinical trial evaluates the safety and potential efficacy
+      of the cell therapy, administered intravenously, in patients with pneumonia associated with
+      COVID-19-associated acute respiratory distress syndrome.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">October 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Intrahospital mortality</measure>
+    <time_frame>28 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in the ICU and Hospital</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days without mechanical ventilation in 28 days</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PaO2 / FiO2 ratio</measure>
+    <time_frame>Day 1, Day 2 and Day 7 after cell infusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of secondary infections</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantification of inflammatory response markers</measure>
+    <time_frame>Day 1, Day 3 and Day 7 after cell infusion</time_frame>
+    <description>Exploratory evaluation of changes from baseline (percentage) in serum levels of CRP, LDH, Ferritin levels, a panel of cytokines, chemokines immune cell populations by flow cytometry</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <condition>ARDS, Human</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients will receive standard care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MSC - low dose (2.5x10ˆ7)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive standard care plus cell therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MSC - intermediate dose (5x10ˆ7)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive standard care plus cell therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MSC - high dose (10x10ˆ7)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive standard care plus cell therapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Mesenchymal stromal cell-based therapy</intervention_name>
+    <description>Intravenous administration of MSCs, performed as single dose (high dose group) or repeated after 48 h (low doses; intermediate dose)</description>
+    <arm_group_label>MSC - high dose (10x10ˆ7)</arm_group_label>
+    <arm_group_label>MSC - intermediate dose (5x10ˆ7)</arm_group_label>
+    <arm_group_label>MSC - low dose (2.5x10ˆ7)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Clinical diagnosis of COVID-19 confirmed by RT-PCR;
+
+          -  Thorax CT image suggestive of viral pneumonia;
+
+          -  Respiratory failure (SaO2 &lt;93% with O2 at 5L / min)
+
+          -  Tracheal intubation (first 48 h);
+
+        Exclusion Criteria:
+
+          -  Pregnancy or breastfeeding;
+
+          -  Patients with a history of cancer, chemotherapy in the past 2 years;
+
+          -  Life expectancy less than 6 months or in exclusive palliative care;
+
+          -  Severe liver failure, with Child-Pugh score&gt; 12;
+
+          -  High probability of death in the following 48 h;
+
+          -  Previous renal failure: patients who were already on dialysis or patients with RFG
+             &lt;30ml / min / 1.73 m2;
+
+          -  Clinical or radiological suspicion of tuberculosis and bacterial pneumonia.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Bruno SF Souza, MD PHD</last_name>
+    <phone>+557132816455</phone>
+    <email>bruno.souza@hsr.com.br</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital São Rafael</name>
+      <address>
+        <city>Salvador</city>
+        <state>Bahia</state>
+        <zip>41253-190</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andre Gobatto, MD PHD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 25, 2020</study_first_posted>
+  <last_update_submitted>August 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 26, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

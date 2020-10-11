@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2510">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04511923</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NUIG-2020-003</org_study_id>
+    <nct_id>NCT04511923</nct_id>
+  </id_info>
+  <brief_title>Nebulised Heparin to Reduce COVID-19 Induced Acute Lung Injury</brief_title>
+  <acronym>CHARTER-Irl</acronym>
+  <official_title>Can Nebulised HepArin Reduce acuTE Lung Injury in Patients With SARS-CoV-2 Requiring Mechanical Ventilation in Ireland</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University College Hospital Galway</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University College Hospital Galway</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Existing information suggests that a drug called heparin, given through a device called a
+      nebuliser, will decrease severity of lung damage caused by COVID-19 who require the
+      assistance of a ventilator to breathe. It is thought that heparin could do this through
+      multiple mechanisms. The investigators will measure the effect with a marker called d-dimer,
+      which is related to blood clotting, and monitor the safety of this treatment as one of the
+      major outcomes for the study. The investigators will also assess clinical outcomes such as
+      markers of oxygen levels, time to liberation from a ventilator in patients with COVID-19 lung
+      disease, and functional outcomes at day 28 and 60 as secondary outcomes.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>D-dimer profile</measure>
+    <time_frame>Up to day 10.</time_frame>
+    <description>Effect of nebulised heparin on d-dimer profile, assessed via d-dimer AUC and via a mixed effects model, with data collected on days 1, 3, 5 and 10.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequenccy of Severe Adverse Outcomes</measure>
+    <time_frame>Up to day 60</time_frame>
+    <description>Safety of nebulised heparin delivered by aerogen solo nebuliser in patients with COVID-19 induced severe respiratory failure, as measured by the incidence of severe adverse events.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Oxygenation Index</measure>
+    <time_frame>Up to day 10</time_frame>
+    <description>Determine the impact of nebulised heparin on oxygenation index</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Indices of Inflammation</measure>
+    <time_frame>Up to day 10</time_frame>
+    <description>Effect of nebulised heparin on indices of inflammation (Interleukin (IL)-1β, IL-6, IL-8, IL-10 and soluble TNF receptor 1 (sTNFR1), C-reactive protein, procalcitonin, Ferritin,) will be assessed (AUC on days 1, 3, 5 and 10)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ratios of Indices of Inflammation</measure>
+    <time_frame>Up to day 10</time_frame>
+    <description>Effect of nebulised heparin on the ratios of IL-1β/IL-10 and IL-6/IL-10 will also be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Indices of Coagulation</measure>
+    <time_frame>Up to day 10</time_frame>
+    <description>Effect of nebulised heparin on other indices of coagulation (Fibrinogen; lactate dehydrogenase) will be assessed (AUC on days 1, 3, 5 and 10).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quasi-Static Lung Compliance</measure>
+    <time_frame>Up to day 10</time_frame>
+    <description>Determine the effect of nebulised heparin on Quasi-Static Lung Compliance (i.e. tidal volume/(Plateau pressure-PEEP) measured on days 1,3,5,10.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to separation from invasive ventilation</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Time to separation from invasive ventilation, where non survivors are treated as though not separated from invasive ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number treated with neuromuscular blockers</measure>
+    <time_frame>Up to day 10</time_frame>
+    <description>Number treated with neuromuscular blockers instituted after enrolment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number treated with Prone positioning</measure>
+    <time_frame>Up to day 10</time_frame>
+    <description>Number treated with prone positioning instituted after enrolment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number treated with extra-corporeal membrane oxygenation</measure>
+    <time_frame>Up to day 10</time_frame>
+    <description>Number treated with extra-corporeal membrane oxygenation instituted after enrolment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number requiring Tracheostomy</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Number tracheotomised</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to separation from invasive ventilation among survivors</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Time to separation from invasive ventilation among survivors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discharge to ward</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Time to separation from the ICU to day 28, where non-survivors to day 28 are treated as though not separated from invasive care</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discharge to ward in survivors</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Time to discharge from the ICU to day 28, among survivors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Survival</measure>
+    <time_frame>Up to day 60</time_frame>
+    <description>Survival to day 28; Survival to day 60; and Survival to hospital discharge, censored at day 60</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients residing at home or in a community setting at day 60</measure>
+    <time_frame>Up to day 60</time_frame>
+    <description>Number residing at home or in a community setting at day 60</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of surviving patients residing at home or in a community</measure>
+    <time_frame>Up to day 60</time_frame>
+    <description>Number residing at home or in a community setting at day 60, among survivors</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <condition>ARDS, Human</condition>
+  <condition>Lung Injury, Acute</condition>
+  <condition>Ventilation Perfusion Mismatch</condition>
+  <arm_group>
+    <arm_group_label>Standard Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Heparin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard care plus nebulised unfractionated heparin 25000 units every 6 hours for 10 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nebulised heparin</intervention_name>
+    <description>Nebulised unfractionated heparin 25000 units administered 6 hourly for 10 days</description>
+    <arm_group_label>Heparin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Confirmed or suspected COVID-19 If 'suspected', results must be pending or testing
+             intended
+
+          2. Age 18 years or older
+
+          3. Endotracheal tube in place
+
+          4. Intubated yesterday or today
+
+          5. PaO2 to FIO2 ratio less than or equal to 300 while intubated
+
+          6. Acute opacities on chest imaging affecting at least one lung quadrant
+
+          7. 'Acute opacities' do not include effusions, lobar/lung collapse or nodules
+
+          8. Currently in the ICU or scheduled for transfer to the ICU The 'ICU' is an area
+             designated for inpatient care of the critically ill where therapies including invasive
+             mechanical ventilation can be provided
+
+        Exclusion Criteria
+
+        To be eligible, a patient must have none of these exclusion criteria:
+
+          1. Enrolled in another clinical trial that is unapproved for co-enrolment
+
+          2. Heparin allergy or heparin-induced thrombocytopaenia
+
+          3. APTT &gt; 120 seconds and this is not due to anticoagulant therapy
+
+          4. Platelet count &lt; 20 x 109 per L
+
+          5. Pulmonary bleeding, which is frank bleeding in the trachea, bronchi or lungs with
+             repeated haemoptysis or requiring repeated suctioning
+
+          6. Uncontrolled bleeding
+
+          7. Pregnant or suspected pregnancy (Urine or serum HCG will be recorded)
+
+          8. Receiving or about to commence ECMO or HFOV
+
+          9. Myopathy, spinal cord injury, or nerve injury or disease with a likely prolonged
+             incapacity to breathe independently e.g. Guillain-Barre syndrome
+
+         10. Usually receives home oxygen
+
+         11. Dependent on others for personal care due to physical or cognitive decline
+
+         12. Death is imminent or inevitable within 24 hours
+
+         13. The clinical team would not be able to set up the study nebuliser and ventilator
+             circuit as required including with active humidification
+
+         14. Clinician objection.
+
+         15. The use or anticipated use of nebulised tobramycin during this clinical episode
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Laffey</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Professor of Anaesthesia and Intensive Care Medicine, National University of Ireland, Galway, Ireland</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John Laffey</last_name>
+    <phone>+353 91 544074</phone>
+    <email>John.laffey@nuigalway.ie</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>David Cosgrave</last_name>
+    <phone>+35391544074</phone>
+    <email>davidw.cosgrave@hse.ie</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Galway University Hospital</name>
+      <address>
+        <city>Galway</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Ireland</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 13, 2020</study_first_posted>
+  <last_update_submitted>August 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 13, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University College Hospital Galway</investigator_affiliation>
+    <investigator_full_name>John Laffey</investigator_full_name>
+    <investigator_title>Professor, Anaesthesia and Intensive Care Medicine, School of Medicine, NUI Galway; Consultant, Anaesthesia and ICM, Galway University Hospitals; Vice-Dean Research, College of Medicine, Nursing</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Investigator will consider requests to share anonymised data for the purposes of meta-analysis following discussion with the sponsor.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Investigator will consider release of the above data once the study report has been completed.</ipd_time_frame>
+    <ipd_access_criteria>To be confirmed, prior to enrollment of the first patient.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

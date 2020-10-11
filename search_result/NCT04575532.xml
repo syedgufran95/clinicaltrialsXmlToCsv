@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="522">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04575532</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTP-004</org_study_id>
+    <nct_id>NCT04575532</nct_id>
+  </id_info>
+  <brief_title>Detection of COVID-19 Decompensation</brief_title>
+  <acronym>DeCODe</acronym>
+  <official_title>Personalized Analytics and Wearable Biosensor Platform for Early Detection of COVID-19 Decompensation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>physIQ, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute for Biomedical Imaging and Bioengineering (NIBIB)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Illinois at Chicago</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>physIQ, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study we will be monitoring for patient events (emergency department admission,
+      hospital admission, admission to an observation unit, or death) and evaluating the
+      feasibility and utility of using pinpointIQ in the management of patients with COVID-19.
+      Vital sign (physiology data) is collected to build a Covid Decompensation Index and
+      contribute data to a Covid Digital Hub supported by the National Institutes of Health.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, non-randomized, open-label, two-phase design. The primary focus for
+      the study is data collection for index development. This will be done in two phases: the
+      first phase allows for determination of predictor variables that establish the COVID-19
+      Decompensation Index (CDI) and the second phase establishes performance of the CDI. A
+      participant is considered to have completed the study if he or she completes all phases of
+      the study including the last day of monitoring (day 28).
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Anticipated">October 5, 2020</start_date>
+  <completion_date type="Anticipated">January 22, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Development of Covid Decompensation Index</measure>
+    <time_frame>4 months</time_frame>
+    <description>To collect sufficient data to identify a set of predictor variables that most accurately predict a COVID-19 decompensation event aimed at developing and validating a clinically useful COVID Decompensation Index (CDI).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility</measure>
+    <time_frame>4 months</time_frame>
+    <description>To evaluate the feasibility of using the pinpointIQ solution as a tool for healthcare professionals to identify physiologic decompensation and manage the study populations based on physIQ validated rule sets and analytics.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Use of the pinpointIQ solution (physIQ, Inc.)</intervention_name>
+    <description>Patients are monitored for 28 days post COVID19 diagnosis or COVID19 post-hospitalization discharge using the pinpointIQ solution.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be adult patients in the University of Illinois Health System (UIH).
+        Participants will be recruited from two pools of patients at UIH: 1) patients tested in the
+        outpatient setting who have a positive result for SAR-Co-V2 (COVID-19) and 2) patients who
+        were admitted to the hospital with a diagnosis of COVID-19 and subsequently discharged to
+        home convalescence. This will be a convenience sample. Phase 1 will have a sample size of
+        400 and Phase 2 will have a sample size of 1,200.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Obtained signed and dated informed consent form Patient in the University of Illinois
+        Health System Patient agrees to comply with all study procedures and availability for the
+        duration of the study Male or female, aged &gt; 18 years of age Patient diagnosed with
+        COVID-19 (positive SARS CoV2 test) Patient agrees to refrain from swimming or taking baths
+        (any activity that submerges the biosensor in water for any period). Showering is okay.
+
+        Exclusion Criteria:
+
+        Known allergic reactions to components of the hydrocolloid gel adhesives Subject has
+        cognitive or physical limitations that, in the opinion of the investigator, limits the
+        subject's ability to fully follow study procedures Cognitive ability, in the opinion of the
+        investigator, that limits the patient's ability to use the biosensor and smartphone
+        consistent with study requirements.
+
+        Does not speak or read English or Spanish
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Karen Larimer, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>physIQ, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Illinois Hospital and Health Sciences System</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://physiq.com</url>
+    <description>Sponsor's website</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 5, 2020</study_first_posted>
+  <last_update_submitted>October 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>This effort is part of a hub-and-spoke technology implementation model created by the NIH, in which each supported digital health solution (the spokes) will be required to share deidentified data and other digital assets it generates with an NIH-supported central data hub. The data hub will provide global researchers a single access point to deidentified data, algorithms, and other capabilities generated by the various digital health solutions. Standards that enhance interoperability will enable unambiguous linking of digital resources among the spokes of the hub. This will enable researchers, for example, to apply the CDI developed in this project's spoke to individuals' health data that was collected by other spokes.</ipd_description>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>January 2021</ipd_time_frame>
+    <ipd_access_criteria>NIH is gate keeper of data access through the digital hub</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

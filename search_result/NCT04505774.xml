@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="782">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04505774</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTIV-4 ACUTE</org_study_id>
+    <nct_id>NCT04505774</nct_id>
+  </id_info>
+  <brief_title>Anti-thrombotics for Adults Hospitalized With COVID-19 (ACTIV-4)</brief_title>
+  <official_title>A Multicenter, Adaptive, Randomized Controlled Platform Trial of the Safety and Efficacy of Antithrombotic Strategies in Hospitalized Adults With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Matthew Neal MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, open label, adaptive platform trial to compare the effectiveness of
+      antithrombotic strategies for prevention of adverse outcomes in COVID-19 positive inpatients
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The severe acute respiratory syndrome coronavirus 2, which causes the highly contagious
+      coronavirus disease 2019 (COVID-19), has resulted in a global pandemic.
+
+      The clinical spectrum of COVID-19 infection is broad, encompassing asymptomatic infection,
+      mild upper respiratory tract illness, and severe viral pneumonia with respiratory failure and
+      death. The risk of thrombotic complications is increased, even as compared to other viral
+      respiratory illnesses, such as influenza. A pro-inflammatory cytokine response as well as
+      induction of procoagulant factors associated with COVID-19 has been proposed to contribute to
+      thrombosis as well as plaque rupture through local inflammation. Patients with COVID-19 are
+      at increased risk for arterial and vein thromboembolism, with high rates observed despite
+      thromboprophylaxis. Autopsy reports have noted micro and macro vascular thrombosis across
+      multiple organ beds consistent with an early hypercoagulable state.
+
+      Notably, in COVID-19, data in the U.K. and U.S. document that infection and outcomes of
+      infection are worse in African and Hispanic descent persons than in other groups. The reasons
+      for this are uncertain.
+
+      Viral Infection and Thrombosis A large body of literature links inflammation and coagulation;
+      altered hemostasis is a known complication of respiratory viral infections. Procoagulant
+      markers are severely elevated in viral infections. Specifically, proinflammatory cytokines in
+      viral infections upregulate expression of tissue factor, markers of thrombin generation,
+      platelet activation, and down-regulate natural anticoagulant proteins C and S.
+
+      Studies have demonstrated significant risk of deep venous thrombosis (DVT), pulmonary
+      embolism (PE), and myocardial infarction (MI) associated with viral respiratory infections.
+      In a series of patients with fatal influenza H1N1, 75% had pulmonary thrombi on autopsy (a
+      rate considerably higher than reported on autopsy studies among the general intensive care
+      unit population). Incidence ratio for acute myocardial infarction in the context of Influenza
+      A is over 10. Severe acute respiratory syndrome coronavirus-1 (SARS CoV-1) and influenza have
+      been associated with disseminated intravascular coagulation (DIC), endothelial damage, DVT,
+      PE, and large artery ischemic stroke. Patients with Influenza H1N1 and acute respiratory
+      distress syndrome (ARDS) had a 23.3-fold higher risk for pulmonary embolism, and a 17.9-fold
+      increased risk for deep vein thrombosis. Compared to those treated with systemic
+      anticoagulation, those without treatment were 33 times more likely to suffer a VTE.
+
+      Thrombosis, both microvascular and macrovascular, is a prominent feature in multiple organs
+      at autopsy in fatal cases of COVID-19. Thrombosis may thus contribute to respiratory failure,
+      renal failure, and hepatic injury in COVID-19. The number of megakaryocytes in tissues is
+      higher than in other forms of ARDS, and thrombi are platelet-rich based on specific staining.
+      Thrombotic stroke has been reported in young COVID-19 patients with no cardiovascular risk
+      factors. Both arterial and venous thrombotic events have been seen in increasing numbers of
+      hospitalized patients infected with COVID-19. The incidence of thrombosis has ranged from 10
+      to 30% in hospitalized patients; however, this varies by type of thrombosis captured
+      (arterial or vein) and severity of illness (ICU level care, requiring mechanical ventilation,
+      etc.).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 4, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is an adaptive design</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>There will be independent masked adjudicators.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>21 Day Organ Support (respiratory or vasopressor) Free Days</measure>
+    <time_frame>21 days from study enrollment</time_frame>
+    <description>which is defined as the number of days that a patient is alive and free of organ support through the first 21 days after trial entry. Organ Support is defined as receipt of non-invasive mechanical ventilation, high flow nasal canula oxygen, mechanical ventilation, or vasopressor therapy, with death at any time during the index hospitalization assigned -1 days.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Key Platform Secondary Thrombotic Endpoint</measure>
+    <time_frame>28 days from study enrollment</time_frame>
+    <description>Composite endpoint of death, pulmonary embolism, systemic arterial thromboembolism, myocardial infarction, or ischemic stroke at hospital discharge or 28 days, whichever occurs first</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Other Platform Secondary Endpoints of Morbidity and Hospitalization</measure>
+    <time_frame>28 days from study enrollment</time_frame>
+    <description>Acute kidney injury defined by KDIGO criteria, Individual endpoints comprising the key secondary endpoint, death during hospitalization, 28 Day Ventilator-Free Days, 28 Day Vasopressor Free Days, 28 Day Renal Replacement Free Days, WHO clinical scale, 28 Day Hospital Free Days, 28 day organ support free days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All cause mortality</measure>
+    <time_frame>90 days from enrollment</time_frame>
+    <description>Any mortality of patients enrolled within 90 days.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Primary Safety Endpoint of Major Bleeding</measure>
+    <time_frame>28 days from study enrollment</time_frame>
+    <description>Major bleeding (as defined by the ISTH)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Secondary Safety Endpoint of HIT</measure>
+    <time_frame>28 days from study enrollment</time_frame>
+    <description>Confirmed heparin induced thrombocytopenia (HIT)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Therapeutic Dose Anticoagulation</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>increased dose of heparin above standard of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prophylactic Dose Anticoagulation</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Heparin standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>theraputic heparin</intervention_name>
+    <description>increased dose of heparin above standard of care.</description>
+    <arm_group_label>Therapeutic Dose Anticoagulation</arm_group_label>
+    <other_name>unfractionated heparin</other_name>
+    <other_name>Enoxaparin</other_name>
+    <other_name>Dalteparin</other_name>
+    <other_name>Tinzaparin</other_name>
+    <other_name>Heparin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>prophylactic heparin</intervention_name>
+    <description>standard of care dose of heparin</description>
+    <arm_group_label>Prophylactic Dose Anticoagulation</arm_group_label>
+    <other_name>enoxaparin</other_name>
+    <other_name>dalteparin</other_name>
+    <other_name>Tinzaparin</other_name>
+    <other_name>Fondparinux</other_name>
+    <other_name>Heparin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  ≥ 18 years of age
+
+          -  Hospitalized for COVID-19
+
+          -  Enrolled within 72 hours of hospital admittance or 72 hours of positive COVID test
+
+          -  Expected to require hospitalization for &gt; 72 hours
+
+        Exclusion Criteria:
+
+          -  Imminent death
+
+          -  Requirement for chronic mechanical ventilation via tracheostomy prior to
+             hospitalization
+
+          -  Pregnancy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Judith Hochman, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>New York University - Grossman School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Judith Hochman, MD</last_name>
+    <phone>212-263-6927</phone>
+    <email>Judith.Hochman@nyulangone.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Matthew Neal, MD</last_name>
+    <phone>412-692-2850</phone>
+    <email>nealm2@upmc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>NYU Langone</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Berger, MD</last_name>
+      <phone>212-263-0855</phone>
+      <email>Jeffrey.Berger@nyulangone.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Bikdeli B, Madhavan MV, Jimenez D, Chuich T, Dreyfus I, Driggin E, Nigoghossian C, Ageno W, Madjid M, Guo Y, Tang LV, Hu Y, Giri J, Cushman M, Quéré I, Dimakakos EP, Gibson CM, Lippi G, Favaloro EJ, Fareed J, Caprini JA, Tafur AJ, Burton JR, Francese DP, Wang EY, Falanga A, McLintock C, Hunt BJ, Spyropoulos AC, Barnes GD, Eikelboom JW, Weinberg I, Schulman S, Carrier M, Piazza G, Beckman JA, Steg PG, Stone GW, Rosenkranz S, Goldhaber SZ, Parikh SA, Monreal M, Krumholz HM, Konstantinides SV, Weitz JI, Lip GYH; Global COVID-19 Thrombosis Collaborative Group, Endorsed by the ISTH, NATF, ESVM, and the IUA, Supported by the ESC Working Group on Pulmonary Circulation and Right Ventricular Function. COVID-19 and Thrombotic or Thromboembolic Disease: Implications for Prevention, Antithrombotic Therapy, and Follow-Up: JACC State-of-the-Art Review. J Am Coll Cardiol. 2020 Jun 16;75(23):2950-2973. doi: 10.1016/j.jacc.2020.04.031. Epub 2020 Apr 17. Review.</citation>
+    <PMID>32311448</PMID>
+  </reference>
+  <reference>
+    <citation>Klok FA, Kruip MJHA, van der Meer NJM, Arbous MS, Gommers DAMPJ, Kant KM, Kaptein FHJ, van Paassen J, Stals MAM, Huisman MV, Endeman H. Incidence of thrombotic complications in critically ill ICU patients with COVID-19. Thromb Res. 2020 Jul;191:145-147. doi: 10.1016/j.thromres.2020.04.013. Epub 2020 Apr 10.</citation>
+    <PMID>32291094</PMID>
+  </reference>
+  <reference>
+    <citation>Middeldorp S, Coppens M, van Haaps TF, Foppen M, Vlaar AP, Müller MCA, Bouman CCS, Beenen LFM, Kootte RS, Heijmans J, Smits LP, Bonta PI, van Es N. Incidence of venous thromboembolism in hospitalized patients with COVID-19. J Thromb Haemost. 2020 Aug;18(8):1995-2002. doi: 10.1111/jth.14888. Epub 2020 Jul 27.</citation>
+    <PMID>32369666</PMID>
+  </reference>
+  <reference>
+    <citation>Poissy J, Goutay J, Caplan M, Parmentier E, Duburcq T, Lassalle F, Jeanpierre E, Rauch A, Labreuche J, Susen S; Lille ICU Haemostasis COVID-19 Group. Pulmonary Embolism in Patients With COVID-19: Awareness of an Increased Prevalence. Circulation. 2020 Jul 14;142(2):184-186. doi: 10.1161/CIRCULATIONAHA.120.047430. Epub 2020 Apr 24.</citation>
+    <PMID>32330083</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Tang N, Bai H, Chen X, Gong J, Li D, Sun Z. Anticoagulant treatment is associated with decreased mortality in severe coronavirus disease 2019 patients with coagulopathy. J Thromb Haemost. 2020 May;18(5):1094-1099. doi: 10.1111/jth.14817. Epub 2020 Apr 27.</citation>
+    <PMID>32220112</PMID>
+  </reference>
+  <reference>
+    <citation>Xu J, W.L., Zhao L, et al. , Risk assessment of venous thromboembolism and bleeding in COVID-19 patients. BMC Pulmonary Medicine 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Danzi GB, Loffi M, Galeazzi G, Gherbesi E. Acute pulmonary embolism and COVID-19 pneumonia: a random association? Eur Heart J. 2020 May 14;41(19):1858. doi: 10.1093/eurheartj/ehaa254.</citation>
+    <PMID>32227120</PMID>
+  </reference>
+  <reference>
+    <citation>Xie Y, W.X., Yang P, Zhang S, COVID-19 complicated by Acute Pulmonary Embolism. Radiology: Cardiothoracic Imaging, 2020. 2(2):e200067</citation>
+  </reference>
+  <reference>
+    <citation>Beristain-Covarrubias N, Perez-Toledo M, Thomas MR, Henderson IR, Watson SP, Cunningham AF. Understanding Infection-Induced Thrombosis: Lessons Learned From Animal Models. Front Immunol. 2019 Nov 5;10:2569. doi: 10.3389/fimmu.2019.02569. eCollection 2019. Review.</citation>
+    <PMID>31749809</PMID>
+  </reference>
+  <reference>
+    <citation>Clayton TC, Gaskin M, Meade TW. Recent respiratory infection and risk of venous thromboembolism: case-control study through a general practice database. Int J Epidemiol. 2011 Jun;40(3):819-27. doi: 10.1093/ije/dyr012. Epub 2011 Feb 15.</citation>
+    <PMID>21324940</PMID>
+  </reference>
+  <reference>
+    <citation>Goeijenbier M, van Wissen M, van de Weg C, Jong E, Gerdes VE, Meijers JC, Brandjes DP, van Gorp EC. Review: Viral infections and mechanisms of thrombosis and bleeding. J Med Virol. 2012 Oct;84(10):1680-96. doi: 10.1002/jmv.23354. Review.</citation>
+    <PMID>22930518</PMID>
+  </reference>
+  <reference>
+    <citation>Smeeth L, Cook C, Thomas S, Hall AJ, Hubbard R, Vallance P. Risk of deep vein thrombosis and pulmonary embolism after acute infection in a community setting. Lancet. 2006 Apr 1;367(9516):1075-1079. doi: 10.1016/S0140-6736(06)68474-2.</citation>
+    <PMID>16581406</PMID>
+  </reference>
+  <reference>
+    <citation>Harms PW, Schmidt LA, Smith LB, Newton DW, Pletneva MA, Walters LL, Tomlins SA, Fisher-Hubbard A, Napolitano LM, Park PK, Blaivas M, Fantone J, Myers JL, Jentzen JM. Autopsy findings in eight patients with fatal H1N1 influenza. Am J Clin Pathol. 2010 Jul;134(1):27-35. doi: 10.1309/AJCP35KOZSAVNQZW.</citation>
+    <PMID>20551263</PMID>
+  </reference>
+  <reference>
+    <citation>Kwong JC, Schwartz KL, Campitelli MA, Chung H, Crowcroft NS, Karnauchow T, Katz K, Ko DT, McGeer AJ, McNally D, Richardson DC, Rosella LC, Simor A, Smieja M, Zahariadis G, Gubbay JB. Acute Myocardial Infarction after Laboratory-Confirmed Influenza Infection. N Engl J Med. 2018 Jan 25;378(4):345-353. doi: 10.1056/NEJMoa1702090.</citation>
+    <PMID>29365305</PMID>
+  </reference>
+  <reference>
+    <citation>Wong RS, Wu A, To KF, Lee N, Lam CW, Wong CK, Chan PK, Ng MH, Yu LM, Hui DS, Tam JS, Cheng G, Sung JJ. Haematological manifestations in patients with severe acute respiratory syndrome: retrospective analysis. BMJ. 2003 Jun 21;326(7403):1358-62.</citation>
+    <PMID>12816821</PMID>
+  </reference>
+  <reference>
+    <citation>Obi AT, Tignanelli CJ, Jacobs BN, Arya S, Park PK, Wakefield TW, Henke PK, Napolitano LM. Empirical systemic anticoagulation is associated with decreased venous thromboembolism in critically ill influenza A H1N1 acute respiratory distress syndrome patients. J Vasc Surg Venous Lymphat Disord. 2019 May;7(3):317-324. doi: 10.1016/j.jvsv.2018.08.010. Epub 2018 Nov 23. Erratum in: J Vasc Surg Venous Lymphat Disord. 2019 Jul;7(4):621.</citation>
+    <PMID>30477976</PMID>
+  </reference>
+  <reference>
+    <citation>Rapkiewicz AV, Mai X, Carsons SE, Pittaluga S, Kleiner DE, Berger JS, Thomas S, Adler NM, Charytan DM, Gasmi B, Hochman JS, Reynolds HR. Megakaryocytes and platelet-fibrin thrombi characterize multi-organ thrombosis at autopsy in COVID-19: A case series. EClinicalMedicine. 2020 Jun 25;24:100434. doi: 10.1016/j.eclinm.2020.100434. eCollection 2020 Jul.</citation>
+    <PMID>32766543</PMID>
+  </reference>
+  <reference>
+    <citation>Oxley TJ, Mocco J, Majidi S, Kellner CP, Shoirah H, Singh IP, De Leacy RA, Shigematsu T, Ladner TR, Yaeger KA, Skliut M, Weinberger J, Dangayach NS, Bederson JB, Tuhrim S, Fifi JT. Large-Vessel Stroke as a Presenting Feature of Covid-19 in the Young. N Engl J Med. 2020 May 14;382(20):e60. doi: 10.1056/NEJMc2009787. Epub 2020 Apr 28.</citation>
+    <PMID>32343504</PMID>
+  </reference>
+  <reference>
+    <citation>Al-Samkari H, Karp Leaf RS, Dzik WH, Carlson JCT, Fogerty AE, Waheed A, Goodarzi K, Bendapudi PK, Bornikova L, Gupta S, Leaf DE, Kuter DJ, Rosovsky RP. COVID-19 and coagulation: bleeding and thrombotic manifestations of SARS-CoV-2 infection. Blood. 2020 Jul 23;136(4):489-500. doi: 10.1182/blood.2020006520.</citation>
+    <PMID>32492712</PMID>
+  </reference>
+  <reference>
+    <citation>Centers for Disease Control and Prevention. COVID-19 in Racial and Ethnic Minority Groups. 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Price-Haywood EG, Burton J, Fort D, Seoane L. Hospitalization and Mortality among Black Patients and White Patients with Covid-19. N Engl J Med. 2020 Jun 25;382(26):2534-2543. doi: 10.1056/NEJMsa2011686. Epub 2020 May 27.</citation>
+    <PMID>32459916</PMID>
+  </reference>
+  <reference>
+    <citation>Aldridge RW, Lewer D, Katikireddi SV, Mathur R, Pathak N, Burns R, Fragaszy EB, Johnson AM, Devakumar D, Abubakar I, Hayward A. Black, Asian and Minority Ethnic groups in England are at increased risk of death from COVID-19: indirect standardisation of NHS mortality data. Version 2. Wellcome Open Res. 2020 Jun 24 [revised 2020 Jan 1];5:88. doi: 10.12688/wellcomeopenres.15922.2. eCollection 2020.</citation>
+    <PMID>32613083</PMID>
+  </reference>
+  <reference>
+    <citation>Niedzwiedz CL, O'Donnell CA, Jani BD, Demou E, Ho FK, Celis-Morales C, Nicholl BI, Mair FS, Welsh P, Sattar N, Pell JP, Katikireddi SV. Ethnic and socioeconomic differences in SARS-CoV-2 infection: prospective cohort study using UK Biobank. BMC Med. 2020 May 29;18(1):160. doi: 10.1186/s12916-020-01640-8.</citation>
+    <PMID>32466757</PMID>
+  </reference>
+  <reference>
+    <citation>Millett GA, Jones AT, Benkeser D, Baral S, Mercer L, Beyrer C, Honermann B, Lankiewicz E, Mena L, Crowley JS, Sherwood J, Sullivan PS. Assessing differential impacts of COVID-19 on black communities. Ann Epidemiol. 2020 Jul;47:37-44. doi: 10.1016/j.annepidem.2020.05.003. Epub 2020 May 14.</citation>
+    <PMID>32419766</PMID>
+  </reference>
+  <reference>
+    <citation>Kamin-Mukaz D, Gergi M, Koh I, Zakai NA, Judd SE, Sholzberg M, Bauman Kreuziger L, Freeman K, Colovos C, Cushman M. Biomarkers of COVID-19 coagulopathy and D-dimer in a biracial cohort study [abstract]. Res Pract Thromb Haemost 2020;4:Suppl2.</citation>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 10, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Matthew Neal MD</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <keyword>anti-coagulation</keyword>
+  <keyword>antithrombosis</keyword>
+  <keyword>anticoagulation</keyword>
+  <keyword>ACTIV</keyword>
+  <keyword>inpatient</keyword>
+  <keyword>heparin</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+    <mesh_term>Calcium heparin</mesh_term>
+    <mesh_term>Enoxaparin</mesh_term>
+    <mesh_term>Dalteparin</mesh_term>
+    <mesh_term>Tinzaparin</mesh_term>
+    <mesh_term>Heparin, Low-Molecular-Weight</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be shared as per NIH guidelines.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2290">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04536350</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Aviptadil Trial</org_study_id>
+    <nct_id>NCT04536350</nct_id>
+  </id_info>
+  <brief_title>Inhaled Aviptadil for the Prevention of COVID-19 Related ARDS</brief_title>
+  <official_title>Inhaled Aviptadil for the Prevention of COVID-19 Related ARDS: a Randomized, Placebo Controlled, Multicenter Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Prof. Dr. Jörg Leuppi</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cantonal Hosptal, Baselland</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The world is currently experiencing a coronavirus (CoV-2) pandemic. A new (SARS)-CoV
+      infection epidemic began in Wuhan, Hubei, China, in late 2019; originally called 2019- nCoV
+      the virus is now known as SARSCoV- 2 and the disease it causes COVID-19. Previous CoV
+      epidemics included severe acute respiratory syndrome (SARS)-CoV, which started in China in
+      2003 and Middle East respiratory syndrome (MERS)-CoV in the Middle East, which started in
+      2012. The mortality rates were &gt;10% for SARS and &gt;35% for MERS. The direct cause of death is
+      generally due to ensuing severe atypical pneumonia and ensuing acute respiratory distress
+      syndrome (ARDS). Pneumonia also is generally the cause of death for people who develop
+      influenza, although the mortality rate is lower (1%-3% for the influenza A H5N1 pandemic of
+      1918-1919 in the United States). Risk factors for a poor outcome of SARS-CoV-2 infection have
+      so far been found to include older age and co-morbidities including chronic cardiovascular
+      and respiratory conditions and current smoking status. In May 2020, the FDA authorized the
+      emergency use of remdesivir for treatment of COVID-19 disease based on topline date of two
+      clinical trials, even though an underpowered clinical trial did not find significant
+      improvement in COVID- 19 patients treated with remdesivir. Nevertheless, remdesivir is the
+      first and so far, only approved treatment for COVID-19. Additionally further trials and
+      clinical observations have not found a significant benefit of other antiviral drugs. Although
+      the results of several studies are still pending, there is still a desperate need for an
+      effective, safe treatment for COVID-19. Aviptadil, which is a synthetic form of Human
+      Vasoactive Intestinal Polypeptide (VIP), might be beneficial in patients at risk of
+      developing ARDS. Nonclinical studies demonstrate that VIP is highly concentrated in the lung,
+      where it reduces inflammation.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      About 20% of individuals with Corona Virus disease (COVID-19) experience more severe disease
+      characterized by significant respiratory symptoms including acute respiratory distress
+      syndrome (ARDS). ARDS is a known lethal complication due to its low blood oxygenation levels
+      and may result in organ failure. Until now, there are no specific vaccines or therapeutic
+      drugs targeting SARS-CoV-2, alternative therapeutic interventions are needed to prevent and
+      ameliorate respiratory conditions associated with COVID-19 to effectively reduce mortality
+      and prevent ICU admissions. Aviptadil, which is a synthetic form of Human Vasoactive
+      Intestinal Polypeptide (VIP), might be beneficial in patients at risk of developing ARDS.
+      Nonclinical studies demonstrate that VIP is highly concentrated in the lung, where it
+      prevents N-methyl-D-aspartate (NMDA)-induced caspase-3 activation, inhibits IL-6 and TNFa
+      production and protects against HCl-induced pulmonary edema. Further, in animal model systems
+      of lung injury in mice, rats, guinea pigs, sheep, swine and dogs, Aviptadil was shown to
+      restore barrier function at the endothelial/alveolar interface and to protect the lung and
+      other organs from failure. In Europe, Aviptadil is approved for human use and has been shown
+      to be safe in phase II trials for sarcoidosis, pulmonary fibrosis, bronchospasm, erectile
+      dysfunction as well as in a phase I trial in ARDS in the past two decades. In the US, VIP has
+      been given FDA Orphan Drug Designation for the treatment of ARDS and was admitted to the FDA
+      Corona Virus Technology Accelerator Program. In a phase I trial of Aviptadil performed by
+      Sami Said in the early 2000s, eight patients with severe ARDS on mechanical ventilation were
+      treated with ascending doses of intravenous VIP. Seven patients (88%) were successfully
+      extubated and were alive at the five day time point. Six (75%) left the hospital and one
+      (13%) died of an unrelated cardiac event. A phase II clinical trial using intravenous
+      Aviptadil in patients with COVID-19 infection and ARDS has begun. Further, a phase II/III
+      clinical trial will study the effect of inhaled Aviptadil for the treatment of non-acute lung
+      injury in COVID- 19 and begins in June 2020. In Europe, two phase II trials of Aviptadil have
+      been conducted. Further, studies with healthy volunteers have shown that inhaled Aviptadil is
+      well tolerated with few adverse effects.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomly allocated to receive either Aviptadil together with standard care or the placebo (NaCl 0.9%) together with standard care,</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Patients and the investigator administering inhalation devices of drug or placebo are not aware of which group they have been randomized to (double-blinded). Someone not involved in the study (e.g. the hospital pharmacist or a nurse not involved in study) prepares the inhalation devices with either drug or placebo according to the randomization plan received by the CTU</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>time to clinical improvement</measure>
+    <time_frame>Randomization until discharge from hospital but up to maximum 28 days</time_frame>
+    <description>Time to clinical improvement of a decrease of at least two points on a seven-point ordinal scale of clinical status or discharged alive from hospital. The seven-point scale consists of the following categories:
+not hospitalized;
+hospitalized, not requiring supplemental oxygen;
+hospitalized, requiring supplemental oxygen;
+hospitalized, requiring nasal high-flow oxygen therapy, non-invasive mechanical ventilation, or both;
+hospitalized, intubation and mechanical ventilation;
+ventilation and additional organ support - pressors, renal replacement therapy (RRT), extracorporeal membrane oxygenation (ECMO);
+death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of mechanical ventilation</measure>
+    <time_frame>Randomization until discharge from hospital up to maximum 28 days</time_frame>
+    <description>Frequency of Patient who need mechanical ventilation during hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time requiring oxygen supplementation</measure>
+    <time_frame>Randomization until discharge from hospital up to maximum 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Slope in SaO2</measure>
+    <time_frame>Randomization until discharge from hospital up to maximum 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Slope in FiO2</measure>
+    <time_frame>Randomization until discharge from hospital but up to maximum 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Slope in C-reactive Protein</measure>
+    <time_frame>measured at baseline, at least every 7 days and at discharge up to maximum 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophile ratio</measure>
+    <time_frame>measured at baseline, at least every 7 days and at discharge up to maximum 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>lymphocyte ratio</measure>
+    <time_frame>measured at baseline, at least every 7 days and at discharge up to maximum 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukine 6 level</measure>
+    <time_frame>measured at baseline, at least every 7 days and at discharge up to maximum 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Procalcitonin level</measure>
+    <time_frame>measured at baseline, at least every 7 days and at discharge up to maximum 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of Multi organ dysfunction Syndrome (MODS)</measure>
+    <time_frame>Randomization until discharge from hospital up to maximum 28 days</time_frame>
+    <description>Frequency of Patient who showed a multi organ dysfunction Syndrome during Hospital stay</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>duration of hospitalization in survivors</measure>
+    <time_frame>randomization till discharge of hospital up to 28 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time from treatment initiation to death</measure>
+    <time_frame>Treatment initiation to death up to maximum 28 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Blood pressure</measure>
+    <time_frame>Daily until discharge up to maximum 28 days</time_frame>
+    <description>Blood pressure will be assessed daily in mmHg</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Heart rate</measure>
+    <time_frame>Daily until discharge up to maximum 28 days</time_frame>
+    <description>Heart rate will be assessed daily in bpm</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Respiratory rate</measure>
+    <time_frame>Daily until discharge up to maximum 28 days</time_frame>
+    <description>Respiratory rate will be assessed daily in Counts per minute</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Body temperature (auricular) in °C</measure>
+    <time_frame>Daily until discharge up to maximum 28 days</time_frame>
+    <description>Body temperature (auricular) will be assessed daily in °C</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pulse oximetry</measure>
+    <time_frame>Daily until discharge up to maximum 28 days</time_frame>
+    <description>Pulse oximetry will be assessed daily in %</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Glasgow Coma Scale</measure>
+    <time_frame>Daily until discharge up to maximum 28 days</time_frame>
+    <description>Glasgow Coma Scale will be assessed daily The lowes possible score is 3 = deep coma or death The highest possible score is 15 = Fully awake</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Dispnea and caugh</measure>
+    <time_frame>Randomization until discharge from hospital up to maximum 28 days</time_frame>
+    <description>Visual analogue scale for dyspnea and cough as patient-related outcome parameter</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Covid19</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>ARDS</condition>
+  <condition>Aviptadil</condition>
+  <arm_group>
+    <arm_group_label>Aviptadil Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive standard care plus a dose of 67μg nebulized Aviptadil three times a day for ten days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Treatment</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants in the control group will receive an Inhalation of 0.9% NaCl solution three times a day for 10 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aviptadil 67μg</intervention_name>
+    <description>Participants will receive standard care plus a dose of 67μg nebulized Aviptadil three times a day for ten days.</description>
+    <arm_group_label>Aviptadil Treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo 0.9% NaCl solution</intervention_name>
+    <description>Patiens will receive Standard care plus 0.9% NaCl solution three times a day for ten days</description>
+    <arm_group_label>Placebo Treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  COVID-19 infection diagnosed
+
+          -  Risk factors for the development of an ARDS according to an adapted EALI (early acute
+             lung injury score) ≥ 2 Points (with at least one point from the EALI score)
+
+        EALI Score:
+
+          -  2-6l O2 supplementation to achieve a SaO2&gt;90%: 1 point
+
+          -  &gt;6l O2 supplementation to achieve a SaO2&gt;90%: 2 points
+
+          -  Respiratory rate ≥ 30/min: 1 point
+
+          -  Immunosuppression: 1 Point
+
+        Modification (for adapting for risk factors for ARDS in SARS-CoV-2 affected patients
+
+          -  Arterial hypertension: 1 point
+
+          -  Diabetes: 1 point
+
+          -  Fever &gt; 39°C: 1 point
+
+               -  Age &gt; 18 years
+
+               -  Ability to adequate compliance with the inhalation manoeuvre
+
+               -  Ability to sign the informed consent
+
+        Exclusion Criteria:
+
+          -  Known or highly suspected bacterial infection (antibiotic treatment to avoid bacterial
+             superinfection may be allowed)
+
+          -  PCT ≥ 1μg/l
+
+          -  Mechanical ventilation
+
+          -  Inability to conduct inhalation therapy
+
+          -  Hemodynamic instability with requirement of vasopressor therapy
+
+          -  Severe comorbidities interfering with the safe participation at the trial according to
+             the treating physician
+
+          -  Pregnancy
+
+          -  Systemic immunosuppression
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jörg D Leuppi, Professor</last_name>
+    <phone>+41 61 925 2181</phone>
+    <email>joerg.leuppi@ksbl.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kristin Abig</last_name>
+    <phone>+41 925 37 54</phone>
+    <email>kristin.abig@ksbl.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cantonal Hospital Baselland Liestal</name>
+      <address>
+        <city>Liestal</city>
+        <state>BL</state>
+        <zip>4410</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jörg D Leuppi, Professor</last_name>
+      <phone>+41 61 925 2181</phone>
+      <email>joerg.leuppi@ksbl.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kristin Abig</last_name>
+      <phone>+41 925 37 54</phone>
+      <email>kristin.abig@ksbl.ch</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Cantonal Hospital St.Gallen</name>
+      <address>
+        <city>St.Gallen</city>
+        <zip>9007</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Michael Brändle, Professor</last_name>
+      <phone>+41 71 494 11 53</phone>
+      <email>Michael.braendle@kssg.ch</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2020</study_first_posted>
+  <last_update_submitted>September 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Cantonal Hosptal, Baselland</investigator_affiliation>
+    <investigator_full_name>Prof. Dr. Jörg Leuppi</investigator_full_name>
+    <investigator_title>Professor of Internal Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Covid 19</keyword>
+  <keyword>Corona Virus Infection</keyword>
+  <keyword>acute respiratory distress syndrome (ARDS)</keyword>
+  <keyword>Aviptadil</keyword>
+  <keyword>Faster recovery</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

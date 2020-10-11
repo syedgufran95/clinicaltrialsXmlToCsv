@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1640">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492202</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00010</org_study_id>
+    <nct_id>NCT04492202</nct_id>
+  </id_info>
+  <brief_title>Knowledge, Attitudes, and Practices Towards COVID-19 Among Health Care Professionals Among Healthcare Professionals</brief_title>
+  <official_title>Comparison of the Knowledge, Attitudes, and Practices Towards COVID-19 Between Different Healthcare Professionals</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istinye University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istinye University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to evaluate the knowledge level of healthcare professionals such as
+      physicians, nurses, physiotherapists and nutritionist about published COVID-19 guidelines.
+
+      The listed healthcare workers are take part in the primary treatment of the Corona virus
+      infected patients in hospitals. Therefore the knowledge of the world wide spreading Corona
+      Virus and its effects for the human being is should be known for the effective treatment and
+      for raising public awareness.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 1, 2020</start_date>
+  <completion_date type="Anticipated">December 10, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 20, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Questionnaire for the Evaluation of Knowledge, Attitude and Practise Levels of Healthcare Professionals for COVID-19</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The purpose of the knowledge, attitude and practise questionnaire; to measure the knowledge, attitude and skill levels of healthcare professionals against the COVID-19 virus. In addition, this study will demonstrate the change in the knowledge, attitudes and practise of different healthcare professionals regarding COVID-19. This questionnaire was developed by Istinye University Faculty of Health Science, Physiotherapy and Rehabilitation Department.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Support Approach Survey for Patients in Recovery Stage after COVID-19 Diagnosis</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>This questionnaire has been used to evaluate the knowledge and guidance of healthcare professionals about which best approaches can be used to support patients who have had COVID-19 diagnosis and recovered. This questionnaire was developed by Istinye University Faculty of Health Science, Physiotherapy and Rehabilitation Department.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Fear of COVID-19 Scale</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The emergence of the COVID-19 and its consequences has led to fears, worries, and anxiety among individuals and health professionals worldwide. The Fear of COVID-19 Scale (FCV-19S) was developed to complement the clinical efforts in preventing the spread and treating of COVID-19 cases. We are going to evaluate the fear of COVID-19 in health professionals.</description>
+  </other_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>COVID</condition>
+  <condition>Knowledge, Attitudes, Practice</condition>
+  <arm_group>
+    <arm_group_label>First group</arm_group_label>
+    <description>Physiotherapists will be included in this group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Second group</arm_group_label>
+    <description>Doctors will be included in this group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Third group</arm_group_label>
+    <description>Nurses will be included in this group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fourth group</arm_group_label>
+    <description>Other health professionals will be included in this group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Survey</intervention_name>
+    <description>The survey will be sent to health professionals via online link.</description>
+    <arm_group_label>First group</arm_group_label>
+    <arm_group_label>Fourth group</arm_group_label>
+    <arm_group_label>Second group</arm_group_label>
+    <arm_group_label>Third group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Our planned study is physician, nurse, physiotherapist, etc. It is designed to measure the
+        knowledge, attitudes and practices of all professionals working in the field of health.
+
+        The study designed to measure the knowledge, attitudes and practices of all professionals
+        such as physician, nurse, physiotherapist and nutritionist working in the field of medical
+        and health sciences.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Physicians, nurses, physiotherapists and other healthcare professionals with clinical
+             practical experience
+
+          -  Actively working in the hospitals and in any health institution
+
+        Exclusion Criteria:
+
+          -  Employees outside the health area
+
+          -  Health professionals who do not work in any health institution
+
+          -  Employees who do not have a bachelor's degree
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>22 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Yasemin ÇIRAK, Assoc. Prof.</last_name>
+    <phone>0544 3759723</phone>
+    <email>ycirak@istinye.edu.tr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Aysegul Asalioglu</last_name>
+    <phone>0553 2642420</phone>
+    <email>aysegul.asalioglu@istinye.edu.tr</email>
+  </overall_contact_backup>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>July 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istinye University</investigator_affiliation>
+    <investigator_full_name>Yasemin Çırak</investigator_full_name>
+    <investigator_title>Physiotherapist, PhD, Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Health Care Professionals</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

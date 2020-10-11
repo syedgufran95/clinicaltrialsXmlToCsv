@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1514">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04575038</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCB-CRISIS-02</org_study_id>
+    <nct_id>NCT04575038</nct_id>
+  </id_info>
+  <brief_title>CRISIS2: A Phase 2 Study Assessing the Safety and Antiviral Activity of Brequinar in Non-hospitalized Patients With COVID-19</brief_title>
+  <acronym>CRISIS2</acronym>
+  <official_title>The CRISIS2 Study: A Phase 2, Randomized, Double Blind, Placebo-controlled, Multi-center Study Assessing the Safety and Anti-coronavirus Response of Suppression of Host Nucleotide Synthesis in Out-patient Adults With SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clear Creek Bio, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Clear Creek Bio, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will assess the efficacy and safety of DHODHi (brequinar) as an antiviral via 5
+      days of treatment of participants with positive COVID-19 and at least one symptom of COVI019
+      in an out-patient setting. The study is multi-center, randomized, and placebo-controlled.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Brequinar is a potent DHODH inhibitor that has been previously studied in more than 1,000
+      cancer, psoriasis, and organ transplant patients. Brequinar has been found to have potent in
+      vitro antiviral activity against many RNA viruses including SARS-CoV-2. The antiviral
+      activity of brequinar against SARS-CoV-2 is likely due to DHODH inhibition and shows
+      nanomolar potency and a high selectivity index in inhibiting viral replication in in vitro
+      studies.
+
+      The CRISIS2 trial will study out-patients (non-hospitalized patients) who have a positive
+      SARS-CoV-2 test and are symptomatic. Subjects will be randomized to receive standard of care
+      (SOC) + 5 days of brequinar or SOC + 5 days of placebo. The purpose of this study is to
+      determine if the in vitro antiviral activity of brequinar can be duplicated in patients
+      infected with SARS-CoV-2 by measuring the effect of brequinar on viral shedding. Importantly,
+      the safety and tolerability of brequinar will also be determined in these patients. The
+      results of this proof-of-concept study will inform future studies that will help determine if
+      brequinar is a safe and effective drug for the treatment of SARS-CoV-2 infection.
+
+      This will be a phase II randomized, placebo-controlled, double blind, multi-center study with
+      approximately 100 subjects. All subjects will receive standard of care (SOC) per
+      institutional guidelines for treatment of patients with COVID-19 infection. In addition to
+      SOC, the subjects will self-administer one capsule once daily for 5 days.
+
+      Subjects will have a Screening Visit followed as soon as possible with Study Day 1. Study
+      visits (virtual or in person) will take place at Screening and on specified days. The visits
+      that include bloodwork must be conducted at the study site or arrangements made for sample
+      collection at the subject's home or other appropriate location. Other visits/visit activities
+      for that visit may be conducted remotely using telemedicine or other remote technique.
+      Subjects are to self-collect a viral load sample, obtain their respiratory rate, heart rate,
+      body temperature and SpO2, and complete a symptom assessment checklist on specified days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 15, 2020</start_date>
+  <completion_date type="Anticipated">February 28, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized 1:1 brequinar 100 mg or placebo</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 viral load</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Quantitative SARS-CoV-2 viral load</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rates of AEs and SAEs including laboratory assessments</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Safety measured by rates of AEs and SAEs including laboratory assessments</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral shedding duration</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Duration of viral shedding</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Admission</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Percentage of subjects requiring admission as an inpatient for &gt;24 hours</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>COVID-19 Infection</condition>
+  <arm_group>
+    <arm_group_label>Brequinar 100 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Brequinar oral capsules 100 mg x 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo for Brequinar capsules x 5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brequinar</intervention_name>
+    <description>Dihydroorotate dehydrogenase inhibitor (DHODHi)</description>
+    <arm_group_label>Brequinar 100 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo capsules</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Willing and able to provide informed consent for the trial, written, electronic,
+             verbal or other method deemed acceptable by the institution and IRB.
+
+          2. 18 years of age or older.
+
+          3. Laboratory-confirmed SARS-CoV-2 infection as determined by real time polymerase chain
+             reaction (RT-PCR) or other FDA-approved commercial or public health assay within 14
+             days of first dose.
+
+          4. Out-patient (never hospitalized as an in-patient for COVID-19 or was evaluated/treated
+             for COVID-19 only in the Emergency Room with a stay of &lt; 24 hours)
+
+          5. The effects of brequinar on the developing human fetus are unknown. For this reason,
+             women of child-bearing potential and men must agree to use adequate contraception
+             (hormonal or barrier method of birth control; abstinence) prior to study entry and for
+             the duration of study participation. Should a woman become pregnant or suspect she is
+             pregnant while she or her partner is participating in this study, she should inform
+             her treating physician immediately. Men and women treated or enrolled on this protocol
+             must also agree to use adequate contraception for the duration of study participation,
+             and for 90 days after completion of brequinar administration.
+
+          6. Male subjects must agree to refrain from sperm donation and female subjects must agree
+             to refrain from ovum donation from initial study drug administration until 90 days
+             after the last dose of brequinar.
+
+          7. At least one COVID-19 symptom including but not limited to fever, cough, sore throat,
+             malaise, headache, muscle pain, gastrointestinal symptoms, shortness of breath,
+             dyspnea, anosmia, dysgeusia, or other symptom commonly associated with COVID-19.
+
+          8. Able to swallow capsules.
+
+        Exclusion Criteria:
+
+          1. Any physical examination findings and/or history of any illness that, in the opinion
+             of the study investigator, might confound the results of the study or pose an
+             additional risk to the patient
+
+          2. Nursing women or women of childbearing potential (WOCBP) with a positive pregnancy
+             test
+
+          3. Treatment with another DHODH inhibitor (e.g., leflunomide, teriflunomide) or other
+             agents known to cause bone marrow suppression leading to thrombocytopenia
+
+          4. Platelets ≤150,000 cell/mm3
+
+          5. Hemoglobin &lt; 10 gm/dL
+
+          6. Absolute neutrophil count &lt; 1500 cells/mm3
+
+          7. Renal dysfunction, i.e., creatinine clearance &lt; 30 mL/min
+
+          8. AST and/or ALT &gt; 2 x ULN, or total bilirubin &gt; ULN. Gilbert's Syndrome is allowed.
+
+          9. Bleeding disorders or blood loss requiring transfusion in the six weeks preceding
+             enrollment
+
+         10. Ongoing gastrointestinal ulcer, or gastrointestinal bleeding within 6 weeks of
+             randomization.
+
+         11. Chronic hepatitis B infection, active hepatitis C infection, active liver disease
+             and/or cirrhosis per subject report.
+
+         12. Heart failure, current uncontrolled cardiovascular disease, including unstable angina,
+             uncontrolled arrhythmias, major adverse cardiac event within 6 months (e.g. stroke,
+             myocardial infarction, hospitalization due to heart failure, or revascularization
+             procedure).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Barbara L Powers, PhD</last_name>
+    <phone>(617) 765-2252</phone>
+    <email>clinical@clearcreekbio.com</email>
+  </overall_contact>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 5, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brequinar</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

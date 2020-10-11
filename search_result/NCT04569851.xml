@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="872">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04569851</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BigCoviData</org_study_id>
+    <nct_id>NCT04569851</nct_id>
+  </id_info>
+  <brief_title>Clinical Characteristics and Prognostic Factors of Patients With COVID-19 (Coronavirus Disease 2019)</brief_title>
+  <official_title>Clinical Characteristics and Prognostic Factors of Patients With COVID-19 Using Big Data and Artificial Intelligence Techniques (BigCoviData)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medsavana</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Castilla-La Mancha Health Service</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medsavana</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, non-interventional, retrospective study using data captured in the
+      EHRs (Electronic Health Records) of the participating hospital sites to determine factors
+      that predict disease prognosis and outcomes in COVID-19 patients, specifically:
+      Hospitalization/Off-site monitoring, transfer to ICU and/or need for medical mechanical
+      ventilation (both invasive and non- invasive), length of ICU stay, and outcome (cure/
+      hospital discharge, in-hospital death)
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Data captured in the EHRs will be collected from all available departments, including
+      inpatient hospital, outpatient hospital, emergency room, etc. for virtually all types of
+      provided services in each participating site. The study period will be from January 1, 2020
+      to the most recent data available.
+
+        -  Primary objective To determine factors that predict disease prognosis and outcomes in
+           COVID-19 patients, specifically: Hospitalization/Off-site monitoring, transfer to ICU
+           and/or need for medical mechanical ventilation (both invasive and non- invasive), length
+           of ICU stay, and outcome (cure/ hospital discharge, in-hospital death)
+
+        -  Secondary objectives
+
+             -  To describe the demographic and clinical characteristics of COVID-19 patients
+
+             -  To describe the patient management (treatment and procedures) in the target
+                population
+
+             -  To describe the outcomes of COVID-19 (discharge, hospitalization, transfer to ICU/
+                mechanical medical ventilation, in-hospital death) in relation to patients'
+                clinical and demographic characteristics, and treatment received
+
+             -  To determine whether the factors that predict COVID-19 prognosis and outcome also
+                apply to other types of pneumonia.
+
+        -  Exploratory objectives One of the goals of this study is to configure the Big Data
+           system to unravel any hidden variable/s (and their associations) that may offer novel
+           clinical insights into COVID-19 management.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">January 1, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Factors that predict disease prognosis and outcomes in COVID-19 patients - Hospitalization</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>All variables and outcomes will be extracted from the free-text narratives available in patients' EHRs Hospitalization
+Percentage of hospitalized patients at diagnosis
+Percentage of hospitalized patients after diagnosis
+Percentage of non-hospitalized patients
+Percentage of patients admitted to the ICU Disease outcome: Cure/Hospital Discharge/In-hospital death
+Percentage of patients who have been discharged</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Factors that predict disease prognosis and outcomes in COVID-19 patients - ICU</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Transfer to ICU and/or need for medical ventilation
+Time (in days) from diagnosis to ICU admission
+Time (in days) from the date of first symptom to ICU admission
+Time (in days) from hospital admission to ICU admission (in hospitalized patients) Percentage of patients not admitted to the ICU Length of ICU stay
+Length of ICU stay (mean duration in days across all patients)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Gender (% of male patients; % of female patients)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients-Age at diagnosis</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Age (in years) at diagnosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients -Percentage of patients in each age range</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Percentage of patients in each age range (&lt;2; 2-4; 5-14; 15-29; 30-39; 40-49; 50-59; 60-69; 70-79; &gt;= 80).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients with available PCR (Polymerase Chain Reaction) results</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Percentage of patients with available PCR results (Positive; Negative; Unknown) Percentage of patients with available IgG (immunoglobulin G)/IgM (immunoglobulin M) results (Positive; Negative; Unknown) Percentage of patients using Alcohol/Tobacco/Other substances (Yes/No/Former user/Unknown</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patientsTime since first symptom until diagnosis</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Time (in days) since first symptom until diagnosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Physical examination</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination
+BMI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Physical examination of patients who are pregnant</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination
+Percentage of patients who are pregnant</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Physical examination Temperature</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination
+Temperature (in degrees Celsius) - Percentage of patients within temperature ranges (in degrees Celsius) (&lt;37, 37-38, &gt;38)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Physical examination Heart rate (bmp)</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination
+Heart rate (bmp) - Percentage of patients within low/normal/high ranges of heart rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Hematology, Hemoglobin</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Hematology:
+Hemoglobin (g/dl)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Hematology, Hemoglobin II</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Hematology:
+Hemoglobin n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Hematology, Red Blood Cells</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Hematology:
+Red Blood Cells (106/µl)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Hematology, Red Blood Cells II</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Hematology:
+Red Blood Cells n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Hematology: Platelet, Leukocyte, Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Hematology:
+Platelet count (103/mm3) Leukocyte count (103/mm3) Neutrophils (103/mm3) Lymphocytes (103/mm3) Monocytes (103/mm3) Eosinophils (103/mm3) Basophils (103/mm3)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Hematology: Platelet, Leukocyte, Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils II</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Hematology:
+Platelet count n(%) Leukocyte count n(%) Neutrophils n(%) Lymphocytes n(%) Monocytes n(%) Eosinophils n(%) Basophils n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Hematology- INR (International Normalized Ratio)</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Hematology:
+INR n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Hematology- INR II</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Hematology:
+INR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Biochemistry: Glucose, Cholesterol, Triglycerides</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Biochemistry:
+Glucose (mg/dl) Total cholesterol (mg/dl) Triglycerides (mg/dl)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Biochemistry: Glucose, Cholesterol, Triglycerides II</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Biochemistry:
+Glucose n(%) Total cholesterol n(%) Triglycerides n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Biochemistry: Bilirubin</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Biochemistry:
+Total bilirubin (g/dL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Biochemistry: Bilirubin II</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Biochemistry:
+Total bilirubin n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Other Values: Creatinine, Glucose</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Other values:
+Creatinine in urine (mg/dl) Glucose in urine (mg/dl)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Other Values: Creatinine, Glucose II</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Other values:
+Creatinine in urine n(%) Glucose in urine n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Other Values: Procalcitonin</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Other values:
+Procalcitonin level will be reported&quot; (PCT) ng/mL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Other test: PH (Potential Hydrogen), O2 Saturation, FIO2 (Fractional Inspired Oxigen), PAFI [Blood pressure of oxygen / inspired fraction of oxygen (PaO2/FiO2)]</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Other tests:
+pH pH n(%) O2 saturation (%) O2 saturation n(%) FIO2 (%) FIO2 n(%) PAFI (%) PAFI n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Other test: PH</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Other tests:
+pH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Other test: PH II</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Other tests:
+PH n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Other test: O2 saturation, FIO2, PAFI</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Other tests:
+O2 saturation (%) FIO2 (%) PAFI (%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Other test: O2 saturation, FIO2, PAFI II</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Other tests:
+O2 saturation n(%) FIO2 n(%) PAFI n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Other test: pCO2 (partial pressure of carbon dioxide), pO2 (partial pressure of oxygen)</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Other tests:
+pCO2 (mmHg) pO2 (mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients - Laboratory values: Other test: pCO2, pO2 II</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Physical examination. Laboratory values at diagnosis
+Other tests:
+pCO2 n(%) pO2 n(%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The demographic and clinical characteristics of COVID-19 patients- Comorbidities, Medication, Symptoms</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Percentage of patients with family history of selected comorbidities
+Percentage of patients with existing selected comorbidities at diagnosis: Cardiovascular disease, Hypertension, Ischemic stroke, Heart Disease (Cardiopathy), etc.
+Percentage of patients with medication use/procedures prior to diagnosis. The following medications/treatments will be considered: ACEI (angiotensin converting enzyme inhibitors), ARB (angiotensin receptor blocker), Diuretics, Beta-blocker, etc.
+Percentage of patients showing the following signs and symptoms at diagnosis: Cough, Fever, Dyspnoea, Respiratory crackles, Diarrhoea, etc.
+Percentage of patients showing the following signs and symptoms after diagnosis: Thromboembolic Disorder, Venous thrombosis, Pulmonary thromboembolism, Upper gastrointestinal bleeding, etc.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The patient management (treatment and procedures) in the target population</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>Percentage of patients assigned to the following procedures after diagnosis: Chest x-ray, Ultrasonography of thorax,Ultrasonography of lung, High resolution computed tomography, Computer tomography of chest, Echocardiogram, EKG Percentage of patients assigned to the following treatments after diagnosis: Oxygen therapy (Oxygen administration by nasal cannula, Oxygen administration by Venturi mask, High concentration oxygen therapy), Prone position, Noninvasive ventilation, Invasive mechanical ventilation,Tracheotomy, Extubation of trachea.
+Percentage of patients (and mean duration of treatment in days) prescribed with the following pharmacological agents after diagnosis: Lopinavir + Ritonavir, Darunavir + Ritonavir, Darunavir + Cobicistat, IFN (Interferon)- β1b, Chloroquine, Hydroxychloroquine, Antibiotics, Acetylcysteine,Corticosteroids,Selective immunosuppressants, Cyclosporine, Remdesivir, Antithrombotic agents (anticoagulants), Inhibitors of platelet aggregation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The outcomes of COVID-19 (discharge, hospitalization, transfer to ICU/ mechanical medical ventilation, in-hospital death) in correlation to patients' clinical and demographic characteristics, and treatment received</measure>
+    <time_frame>From 1st Jan 2020</time_frame>
+    <description>The outcomes of COVID-19 (discharge, hospitalization, transfer to ICU/ mechanical medical ventilation, in-hospital death) in correlation to patients' clinical and demographic characteristics, and treatment received
+Percentage of patients with selected comorbidities (see complete list above) at diagnosis in each outcome group (ICU-no ICU; hospitalization-no hospitalization; discharge-no discharge; death-no death)
+Percentage of patients showing selected sings and symptoms (see complete list above) at diagnosis in each outcome group (ICU-no ICU; hospitalization-no hospitalization; discharge-no discharge; death-no death)</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100000</enrollment>
+  <condition>COVID-19 Infection</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will consist of all patients with suspected COVID-19 infection, as
+        captured in the patients' EHRs of the participating sites.
+
+        Among the suspected COVID-19 cases, we will determine the following:
+
+          -  Confirmed positive cases (i.e., all patients who tested positive for COVID-19 ).
+
+          -  Confirmed negative cases (i.e., all patients who tested negative for COVID-19)
+
+          -  Possible cases (i.e., all patients with suspected COVID-19 but no/pending test
+             results) To determine the characteristics of the patients according to their clinical
+             outcome, we will study both the confirmed positive cases and all possible classes
+             (with no/pending laboratory results) subpopulations
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients with suspected COVID-19 infection, as captured in the patients' EHRs of
+             the participating sites.
+
+        Exclusion Criteria:
+
+          -  Not suspected COVID-10 infection
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>José Luis Izquierdo, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Universitario de Guadalajara</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Joan B Soriano, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Universitario La Princesa</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Julio Ancochea, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Universitario La Princesa</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Guadalajara</name>
+      <address>
+        <city>Guadalajara</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Princesa</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>April 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Artificial Intelligence</keyword>
+  <keyword>Electronic health record</keyword>
+  <keyword>Intensive care unit</keyword>
+  <keyword>Natural language processing</keyword>
+  <keyword>Machine Learning</keyword>
+  <keyword>Real-world evidence</keyword>
+  <keyword>SARS-CoV-2 (Severe acute respiratory syndrome coronavirus 2)</keyword>
+  <keyword>COVID-19</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

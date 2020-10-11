@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="327">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04534595</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-060</org_study_id>
+    <nct_id>NCT04534595</nct_id>
+  </id_info>
+  <brief_title>Data Collection on the Model Schools Pediatric Health Initiative at 5 SBHC Sites: COVID-19 Questionnaire</brief_title>
+  <acronym>SBHC</acronym>
+  <official_title>Data Collection on the Model Schools Pediatric Health Initiative at 5 School Based Health Clinic (SBHC) Sites: COVID-19 Questionnaire</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. Michael's Hospital, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>St. Michael's Hospital, Toronto</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Model School Pediatric Health Initiative arose out of concern about health access
+      inequities and disparities among some of Toronto's most vulnerable children living in our
+      inner-city neighborhoods. It is well documented that illness, emotional difficulties and
+      self-esteem impacts a variety of educational markers including school attendance and
+      performance. Providing health care in schools may be the most direct and efficient way to
+      ensure that all children have access to the care they need including diagnosis, management
+      and follow up of multiple health and school related concerns. American research has
+      demonstrated that inner city children who had access to an elementary school-based health
+      clinic (SBHC) had less difficulty receiving treatment for illnesses and injuries,
+      immunizations, and physical examinations. In addition, rates of enrolment and utilization of
+      elementary SBHCs are higher in those children who traditionally have poorer access to health
+      care. Given the vast differences in the Canadian and American health systems it is important
+      to evaluate SBHCs in Canada before long-term implementation.
+
+      The objective of this study is to collect data including demographic characteristics and
+      clinical features of students attending a SHBC at five selected sites in Toronto. In light of
+      the COVID-19 pandemic, the research team is additionally interested in asking about families'
+      experiences with the pandemic and school closures. It is hypothesized, that these vulnerable
+      children who come from lower income families and/or are newcomers to Canada attending these
+      SHBCs, are likely to experience more mental health symptoms with the heightened uncertainty
+      surrounding the COVID-19 pandemic.
+
+      This study will be a prospective chart review design. A COVID-19 questionnaire will be
+      constructed and administered online at three time points: baseline, 6 months upon completion
+      of the baseline questionnaire, and 12 months upon completion of the baseline questionnaire.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 30, 2019</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Direct Experience with COVID-19 virus</measure>
+    <time_frame>baseline to 12 months</time_frame>
+    <description>Survey question asking whether you or any of your family developed COVID-19 symptoms, to select the symptoms that apply, and to indicate whether you or anyone in your family tested positive for COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Family's overall experience with COVID-19 pandemic</measure>
+    <time_frame>baseline to 12 months</time_frame>
+    <description>Survey question asking the participant to identify and describe whether their family had a positive and/or negative experience resulting from the COVID-19 crisis. Has the quality of the relationship with the child attending SBHC changed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Child's experience with cancellations and access to services</measure>
+    <time_frame>baseline to 12 months</time_frame>
+    <description>Identify which of the listed options relating to a child's health were experienced during the pandemic. Also identify whether any of the listed health or education services were not accessed during the pandemic. How difficult has cancellations during the pandemic been for the child.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Caregiver's experience during COVID-19</measure>
+    <time_frame>baseline to 12 months</time_frame>
+    <description>Survey questions asking to what degree has the listed situations bothered the caregiver. To what degree do you (the caregiver) agree with the listed situations during the pandemic. Have you (the caregiver) been unemployed due to the pandemic and have/had trouble making ends meet. Was there enough groceries and other essentials during the pandemic.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>stress or unpleasant experiences endured by the caregiver during COVID-19</measure>
+    <time_frame>baseline to 12 months</time_frame>
+    <description>The questions in this component of the survey includes rating how bothered you were about the listed options. Over the specified period of time, rate your stress level, describe the quality and duration of your sleep per night. How frequently did you use the listed options to relieve your stress.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Activities the caregiver engaged in during COVID-19</measure>
+    <time_frame>Baseline to 12 months</time_frame>
+    <description>How frequent and for how long did you engage in the listed activities.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Describe the caregiver's parenting during COVID-19</measure>
+    <time_frame>baseline to 12 months</time_frame>
+    <description>Questions asking to what degree do you agree with the following statements describing your parenting ability over the specified period of time.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The impact of school closure on the child</measure>
+    <time_frame>baseline to 12 months.</time_frame>
+    <description>Questions asking what other childcare services were used during the pandemic. If they received child subsidy. If the child stayed home during the pandemic, and how long did they spend doing schoolwork and other activities (academic and non-academic) during COVID-19. Does the family have the resources to engage in online learning, if so what are the resources used. Describe any challenges faced with online learning.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Describing the child's character</measure>
+    <time_frame>baseline to 12 months</time_frame>
+    <description>Questions asking to what extent do the statements provided describe the child. Identify the age group the child described is in.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Childs daily routine</measure>
+    <time_frame>baseline to 12 months</time_frame>
+    <description>Questions asking to rate the quality and quantity of the child's sleep. Describe and rate the child's eating behaviour/practices during the pandemic.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Childs interest about COVID-19</measure>
+    <time_frame>baseline to 12 months.</time_frame>
+    <description>Questions asking how interested the child is about COVID-19, how often are they asking/reading about COVID-19. How hopeful is the child about COVID-19 ending.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 preventative measures.</measure>
+    <time_frame>baseline to 12 months.</time_frame>
+    <description>This question asks you to describe how frequent the child and the caregiver practiced the preventative measures to protect against COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>How can the SBHC help?</measure>
+    <time_frame>baseline to 12 months.</time_frame>
+    <description>An open ended question for the family to indicate what kind of help they would like during the pandemic</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>COVID-19 Experience</condition>
+  <arm_group>
+    <arm_group_label>Students attending SBHCs</arm_group_label>
+    <description>The students enrolled in 5 schools with the school based health clinic implemented would be studied in terms of their experience during the COVID-19 pandemic.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19</intervention_name>
+    <description>To study the experience of students and their families during the COVID-19 pandemic an online questionnaire will be utilized. This COVID-19 questionnaire will be administered at three time points: baseline, 6 months upon completion of the baseline questionnaire, and 12 months upon completion of the baseline questionnaire.</description>
+    <arm_group_label>Students attending SBHCs</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This study collects data on demographic characteristics, clinical features, and COVID-19
+        experience of Toronto's most vulnerable children living in the inner city neighbourhoods
+        attending five selected SHBCs.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All students attending a school-based health centre (SBHC) will be included in the
+             chart review and asked to complete an online questionnaire.
+
+        Exclusion Criteria:
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>13 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sloane Freeman, MSc,MD,FRCPC</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Unity Health Toronto</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sloane Freeman, MSc,MD,FRCPC</last_name>
+    <phone>416-864-6060</phone>
+    <phone_ext>6560</phone_ext>
+    <email>Sloane.Freeman@unityhealth.to</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Unity Health Toronto</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5B 1W8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sloane Freeman, MSc,MD,FRCPC</last_name>
+      <phone>416-864-6060</phone>
+      <phone_ext>6560</phone_ext>
+      <email>Sloane.Freeman@unityhealth.to</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <link>
+    <url>https://files.eric.ed.gov/fulltext/ED539817.pdf</url>
+    <description>School-based health centers: national census school year 2004-2005</description>
+  </link>
+  <reference>
+    <citation>Diette GB, Markson L, Skinner EA, Nguyen TT, Algatt-Bergstrom P, Wu AW. Nocturnal asthma in children affects school attendance, school performance, and parents' work attendance. Arch Pediatr Adolesc Med. 2000 Sep;154(9):923-8.</citation>
+    <PMID>10980797</PMID>
+  </reference>
+  <reference>
+    <citation>Symons CW, Cinelli B, James TC, Groff P. Bridging student health risks and academic achievement through comprehensive school health programs. J Sch Health. 1997 Aug;67(6):220-7. Review.</citation>
+    <PMID>9285867</PMID>
+  </reference>
+  <reference>
+    <citation>Glied S, Pine DS. Consequences and correlates of adolescent depression. Arch Pediatr Adolesc Med. 2002 Oct;156(10):1009-14.</citation>
+    <PMID>12361447</PMID>
+  </reference>
+  <reference>
+    <citation>Kaplan DW, Brindis CD, Phibbs SL, Melinkovich P, Naylor K, Ahlstrand K. A comparison study of an elementary school-based health center: effects on health care access and use. Arch Pediatr Adolesc Med. 1999 Mar;153(3):235-43.</citation>
+    <PMID>10086399</PMID>
+  </reference>
+  <reference>
+    <citation>Wade TJ, Mansour ME, Guo JJ, Huentelman T, Line K, Keller KN. Access and utilization patterns of school-based health centers at urban and rural elementary and middle schools. Public Health Rep. 2008 Nov-Dec;123(6):739-50.</citation>
+    <PMID>19711655</PMID>
+  </reference>
+  <reference>
+    <citation>Webber MP, Carpiniello KE, Oruwariye T, Lo Y, Burton WB, Appel DK. Burden of asthma in inner-city elementary schoolchildren: do school-based health centers make a difference? Arch Pediatr Adolesc Med. 2003 Feb;157(2):125-9.</citation>
+    <PMID>12580680</PMID>
+  </reference>
+  <reference>
+    <citation>McCord MT, Klein JD, Foy JM, Fothergill K. School-based clinic use and school performance. J Adolesc Health. 1993 Mar;14(2):91-8.</citation>
+    <PMID>8476879</PMID>
+  </reference>
+  <reference>
+    <citation>Gall G, Pagano ME, Desmond MS, Perrin JM, Murphy JM. Utility of psychosocial screening at a school-based health center. J Sch Health. 2000 Sep;70(7):292-8.</citation>
+    <PMID>10981284</PMID>
+  </reference>
+  <reference>
+    <citation>Guo JJ, Wade TJ, Keller KN. Impact of school-based health centers on students with mental health problems. Public Health Rep. 2008 Nov-Dec;123(6):768-80.</citation>
+    <PMID>19711658</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>August 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>School-based health center</keyword>
+  <keyword>mental health</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2171">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04531202</url>
+  </required_header>
+  <id_info>
+    <org_study_id>29496920.8.0000.5262</org_study_id>
+    <nct_id>NCT04531202</nct_id>
+  </id_info>
+  <brief_title>CORE Study COVID-19</brief_title>
+  <official_title>Clinical Characterization Protocol for Severe Emerging Infections: Coronavirus</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>D'Or Institute for Research and Education</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>D'Or Institute for Research and Education</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Brazilian version of the Clinical Characterization Protocol for Serious Emerging
+      Infections (ISARIC/WHO ). This is a standardized protocol for the rapid, coordinated clinical
+      investigation of Coronavirus disease (COVID-19). Patients with acute illness suspected to be
+      caused by emerging will be enrolled. This protocol has been designed to enable data to be
+      prospectively collected.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will be conducted at multiple sites (to be determined by the spread of disease and
+      availability of resources). It is appreciated that settings will vary in terms of clinical
+      infrastructure, resources and capacity. This study will enrol eligible patients (adults) with
+      confirmed or suspected infection with a pathogen relevant to the study objectives.
+      Recruitment of patients with Day 1 (enrolment) data and biological samples is the priority.
+
+      Observational analyses will be stratified according to available data. Outcome data for
+      primary and secondary objectives will be derived from data from routine clinical and
+      laboratory assessments performed as part of standard inpatient medical management at the
+      treating site, documented using proportionate case report forms (CRF; either paper or
+      web-based electronic 'eCRF'). Clinical and laboratory data will be collected throughout the
+      acute illness period according to local resources. Priority at all times will be given to the
+      collection of clinical information. Research data will be integrated as much as possible with
+      information available from hospital and regulatory files.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 2, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>14 Days</target_duration>
+  <primary_outcome>
+    <measure>Clinical characterization of coronavirus disease-2019 (COVID-19)</measure>
+    <time_frame>1 year</time_frame>
+    <description>Describe the clinical features of the illness or syndrome and complications, and determinants of severity.
+Assessment daily for 14 days, then hospital discharge.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Coronavirus Infection (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Patients with confirmed or suspected of coronavirus infe</arm_group_label>
+    <description>Clinical and laboratory data will be collected throughout the acute illness period. Research data will be integrated with information available from hospital and regulatory files.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with coronavirus infection and molecular laboratory diagnosis of COVID-19, made
+        from material collected from the upper respiratory tract (nasopharynx or oropharynx) or
+        from the lower respiratory tract (sputum, tracheal aspirate or bronchoalveolar lavage)
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Suspected or proven Coronavirus infection (COVID-19)
+
+        Exclusion Criteria:
+
+          -  Confirmed diagnosis of a pathogen unrelated to the objectives of this study (or other
+             non-infectious diagnosis) and no indication or likelihood of co-infection with a
+             relevant pathogen.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fernando Bozza, phD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>D'Or Institute for Research and Education (IDOR)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fernando Bozza, phD</last_name>
+    <phone>55 21 993031551</phone>
+    <email>bozza.fernando@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>D'Or Institute for Research and Education (IDOR)</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>22281100</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fernando Bozza, phD</last_name>
+      <phone>5521993031551</phone>
+      <email>bozza.fernando@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <reference>
+    <citation>Dunning JW, Merson L, Rohde GGU, Gao Z, Semple MG, Tran D, Gordon A, Olliaro PL, Khoo SH, Bruzzone R, Horby P, Cobb JP, Longuere KS, Kellam P, Nichol A, Brett S, Everett D, Walsh TS, Hien TT, Yu H, Zambon M, Ruiz-Palacios G, Lang T, Akhvlediani T; ISARIC Working Group 3, ISARIC Council, Hayden FG, Marshall J, Webb S, Angus DC, Shindo N, van der Werf S, Openshaw PJM, Farrar J, Carson G, Baillie JK. Open source clinical science for emerging infections. Lancet Infect Dis. 2014 Jan;14(1):8-9. doi: 10.1016/S1473-3099(13)70327-X.</citation>
+    <PMID>24355025</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>coronavirus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

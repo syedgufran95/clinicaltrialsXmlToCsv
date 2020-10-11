@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1439">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04498247</url>
+  </required_header>
+  <id_info>
+    <org_study_id>V591-001</org_study_id>
+    <secondary_id>2020-003493-46</secondary_id>
+    <secondary_id>V591-001</secondary_id>
+    <nct_id>NCT04498247</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess Safety, Tolerability, and Immunogenicity of V591 (COVID-19 Vaccine) in Healthy Participants (V591-001)</brief_title>
+  <official_title>A Phase 1/Phase 2, Randomized, Double-Blind, Placebo-Controlled, Dose-Ranging Trial to Evaluate the Safety, Tolerability and Immunogenicity of V591 (COVID-19 Vaccine) in Healthy Younger and Older Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this early Phase 1 study is to identify the V591 dose that achieves
+      the target immune response in humans based on preclinical or early clinical data.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 27, 2020</start_date>
+  <completion_date type="Anticipated">April 26, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 26, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants with at Least 1 Solicited Injection Site Adverse Event</measure>
+    <time_frame>Up to ~5 days after vaccination</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with at Least 1 Solicited Systemic Adverse Event</measure>
+    <time_frame>Up to ~14 days after vaccination</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with at Least 1 Unsolicited Adverse Event</measure>
+    <time_frame>Up to ~28 days after vaccination</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with at Least 1 Serious Adverse Event</measure>
+    <time_frame>Up to ~365 days (±14 days) after vaccination</time_frame>
+    <description>A serious adverse event is &quot;life threatening,&quot; requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or significant disability/incapacity and is a congenital anomaly/birth defect.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants who Discontinued Study Treatment due to an Adverse Event</measure>
+    <time_frame>Up to ~365 days (±7 days) after vaccination</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with at Least 1 Medically Attended Adverse Event</measure>
+    <time_frame>Up to ~365 days (±14 days) after vaccination</time_frame>
+    <description>A medically attended adverse event (MAAE) is an AE in which medical attention is received during an unscheduled, non-routine outpatient visit, such as an emergency room visit, office visit, or an urgent care visit with any medical personnel for any reason.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titers for Serum Neutralizing Antibodies (nAb) as Measured by Plaque Reduction Neutralization Test (PRNT): All Panels</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Serum samples will be collected and the presence of serum neutralization antibodies will be assessed using PRNT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Concentration of Total Anti-Spike Immunoglobulin G (IgG) Antibodies as Measured by Enzyme-Linked Immunosorbent Assay (ELISA): All Panels</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Serum samples will be collected and the total anti-spike IgG antibodies will be assessed using ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titers for Serum Neutralizing Antibodies as Measured by PRNT: Panels A,B, I and J</measure>
+    <time_frame>Day 85</time_frame>
+    <description>Serum samples will be collected and the presence of serum neutralization antibodies will be assessed using PRNT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Concentration of Total Anti-Spike IgG Antibodies as Measured by ELISA: Panels A,B, I and J</measure>
+    <time_frame>Day 85</time_frame>
+    <description>Serum samples will be collected and the total anti-spike IgG antibodies will be assessed using ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titers for Serum Neutralizing Antibodies as Measured by PRNT: Panels K and L</measure>
+    <time_frame>Day 197</time_frame>
+    <description>Serum samples will be collected and the presence of serum neutralization antibodies will be assessed using PRNT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Concentration of Total Anti-Spike IgG Antibodies as Measured by ELISA: Panels K and L</measure>
+    <time_frame>Day 197</time_frame>
+    <description>Serum samples will be collected and the total anti-spike IgG antibodies will be assessed using ELISA.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titers for Serum nAb as Measured by PRNT</measure>
+    <time_frame>Panels C-E and G-H: Days 1, 15, 29, 57, 85, 115, 211, and 365; Panels A,B, I and J: Days 1, 15, 29, 57, 71, 85, 115, 211, and 422; Panels F, K and L: Days 1, 15, 29, 85, 169, 197, 365 and 534</time_frame>
+    <description>Serum samples will be collected and the presence of serum neutralization antibodies will be assessed using PRNT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Concentration of Total Anti-Spike IgG Antibodies as Measured by ELISA</measure>
+    <time_frame>Panels C-E and G-H: Days 1, 15, 29, 57, 85, 115, 211, and 365; Panels A,B, I and J: Days 1, 15, 29, 57, 71, 85, 115, 211, and 422; Panels F, K and L: Days 1, 15, 29, 85, 169, 197, 365 and 534</time_frame>
+    <description>Serum samples will be collected and the total anti-spike IgG antibodies will be assessed using ELISA.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">260</enrollment>
+  <condition>Coronavirus Disease (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Part 1: Panels A, B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this 18 to 55 year old sentinel cohort will receive 2 doses (Day 1 and Day 57) of V591 or placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2A: Panels C-E</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this 18 to 55 year old cohort will receive 1 dose (Day 1) of V591 or placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2A: Panel F</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this 18 to 55 year old cohort will receive 2 doses (Day 1 and Day 169) of V591 or placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2B: Panels G, H</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this &gt;55 year old cohort will receive 1 dose (Day 1) of V591 or placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2B: Panels I, J</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this &gt;55 year old cohort will receive 2 doses (Day 1 and Day 57) of V591 or placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2B: Panels K, L</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this &gt;55 year old cohort will receive 2 doses (Day 1 and Day 169) of V591 or placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>V591</intervention_name>
+    <description>1 or 2 ascending doses of V591 will be administered via intramuscular (IM) injection.</description>
+    <arm_group_label>Part 1: Panels A, B</arm_group_label>
+    <arm_group_label>Part 2A: Panel F</arm_group_label>
+    <arm_group_label>Part 2A: Panels C-E</arm_group_label>
+    <arm_group_label>Part 2B: Panels G, H</arm_group_label>
+    <arm_group_label>Part 2B: Panels I, J</arm_group_label>
+    <arm_group_label>Part 2B: Panels K, L</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo (0.9% sodium chloride) administered via IM injection.</description>
+    <arm_group_label>Part 1: Panels A, B</arm_group_label>
+    <arm_group_label>Part 2A: Panel F</arm_group_label>
+    <arm_group_label>Part 2A: Panels C-E</arm_group_label>
+    <arm_group_label>Part 2B: Panels G, H</arm_group_label>
+    <arm_group_label>Part 2B: Panels I, J</arm_group_label>
+    <arm_group_label>Part 2B: Panels K, L</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Is in overall good health based on medical history, physical examination,
+             electrocardiogram (ECG) and vital sign (VS) measurements performed prior to
+             randomization.
+
+          -  Is in overall good health based on laboratory safety tests obtained at the screening
+             visit.
+
+          -  Has a body mass index (BMI) ≤30 kg/m2 inclusive (after rounding to the nearest whole
+             number).
+
+          -  Has been practicing social distancing for at least two weeks prior to planned Day 1
+             vaccination and has no close contacts with known active severe acute respiratory
+             syndrome coronavirus (SARS-CoV)-2 infection in that time period.
+
+          -  Sentinel trial participants ONLY (Panel A, Panel B, and the first 5 participants of
+             Panel E): Seronegative for SARS-COV-2.
+
+          -  Is male or female, from 18 years to 55 years of age (inclusive) (Parts 1 and 2A) or
+             &gt;55 years of age (Part 2B), at the time of providing documented informed consent.
+
+          -  Male participants are eligible to participate if they agree to refrain from donating
+             sperm during the intervention period and for at least 6 months after the last dose of
+             study intervention, be abstinent from heterosexual intercourse as their preferred and
+             usual lifestyle and agree to remain abstinent OR agree to use contraception unless
+             confirmed to be azoospermic .
+
+          -  Contraceptive use by men and women should be consistent with local regulations
+             regarding the methods of contraception for those participating in clinical studies.
+
+          -  A female participant is eligible to participate if she is not pregnant or
+             breastfeeding, is not a woman of childbearing potential (WOCBP) or Is a WOCBP and
+             using an acceptable contraceptive method or be abstinent from heterosexual intercourse
+             as their preferred and usual lifestyle.
+
+          -  A WOCBP must have a negative highly sensitive pregnancy test (urine or serum as
+             required by local regulations) before the first dose of study intervention. If a urine
+             test cannot be confirmed as negative (e.g., an ambiguous result), a serum pregnancy
+             test is required. In such cases, the participant must be excluded from participation
+             if the serum pregnancy result is positive.
+
+          -  Refrain from donating oocyte during the intervention period and for at least 6 months
+             after the last dose of study intervention.
+
+          -  The investigator is responsible for review of medical history, menstrual history, and
+             recent sexual activity to decrease the risk for inclusion of a woman with an early
+             undetected pregnancy.
+
+          -  The participant (or legally acceptable representative) has provided documented
+             informed consent/assent for the study, including for future biomedical research.
+
+          -  Is willing to comply with the study restrictions, including social distancing between
+             screening and randomization.
+
+          -  Is willing to abstain from donating whole blood or blood derivatives, tissue or organ
+             all along the study.
+
+          -  Agrees to provide study personnel with a primary telephone number as well as an
+             alternate means of contact, if available (such as an alternate telephone number or
+             email) for follow-up purposes.
+
+          -  Can read, understand, and complete the Vaccination Report Card.
+
+        Exclusion Criteria
+
+          -  Is currently actively infected with SARS-CoV-2 (confirmed by polymerase chain
+             reaction;[PCR]).
+
+          -  Has prior medical history of confirmed SARS-CoV-2 infection or known exposure to an
+             individual with confirmed coronavirus disease 2019 (COVID-19) disease or SARS CoV-2
+             infection within the past 2 weeks. With the exception of the sentinel participants
+             (Panel A, Panel B, and the first 5 participants of Panel E), study participants will
+             not be screened for enrollment by SARS-CoV-2 serology, allowing those who may have had
+             a prior asymptomatic SARS-CoV-2 infection to be enrolled.
+
+          -  Has a history of severe adverse reactions to vaccine administration, including
+             anaphylaxis and related symptoms, such as urticaria, respiratory difficulty,
+             angioedema and abdominal pain to vaccines, or history of known or suspected allergic
+             reaction likely to be exacerbated by any component of the COVID-19 vaccine.
+
+          -  Is currently (or highly suspected to be) immunocompromised, including anticipating the
+             need for systemic immunosuppressive treatment within the next 6 months or 12 months
+             for 2-dose Day 1, Day 169 panels or has been diagnosed or highly suspected as having a
+             congenital or acquired immunodeficiency, HIV infection, lymphoma, leukemia, systemic
+             lupus erythematosus (SLE), rheumatoid arthritis, juvenile rheumatoid arthritis (JRA),
+             inflammatory bowel disease, or other autoimmune condition that could impact the immune
+             response or the safety of the study vaccine.
+
+          -  Has clinically significant thrombocytopenia or other coagulation disorder
+             contraindicating intramuscular vaccination or repeated venipuncture.
+
+          -  Has history or current evidence of any condition, therapy, laboratory abnormality, or
+             other circumstance that might expose the participant to risk by participating in the
+             study, confound the results of the study or interfere with the participant's
+             participation for the full duration of the study.
+
+          -  Has a history or presence of clinically significant pulmonary disorders (e.g. chronic
+             obstructive pulmonary disease [COPD], etc.), or asthma.
+
+          -  Has a history of confirmed SARS-CoV-1 or Middle Eastern respiratory syndrome (MERS)
+
+          -  Has a history of or current clinically significant medical condition that puts or may
+             put a participant at increased risk for severe SARS-CoV-2 disease, such as conditions
+             associated with increased risk of severe illness from COVID-19, cancer, chronic kidney
+             disease, COPD, immunocompromised state (weakened immune system) from solid organ
+             transplant, obesity (BMI of 30 or higher), serious heart conditions, such as heart
+             failure, coronary artery disease, or cardiomyopathies, sickle cell disease, Type 2
+             diabetes mellitus, asthma, cerebrovascular disease, cystic fibrosis, hypertension or
+             high blood pressure, an immunocompromised state (weakened immune system), neurologic
+             conditions, such as dementia, liver disease, pregnancy, pulmonary fibrosis (having
+             damaged or scarred lung tissues), smoking, thalassemia (a type of blood disorder), or
+             Type 1 diabetes mellitus.
+
+          -  Part 2B ONLY: Older adult participants having mild, well controlled hypertension as is
+             widely characteristic of aging are allowed if their medication regimens have not
+             substantively changed for the past 6 months, hypertension has not led to
+             hospitalization or currently increased rate of clinic visits over the past year, and
+             hypertension has not been confirmed as putting subjects at increased risk of severe
+             illness from COVID-19 by the CDC
+             (https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/groups-at-higher-ris
+             k.html).
+
+          -  Is mentally or legally incapacitated, has significant emotional problems at the time
+             of pre-study (screening) visit or expected during the conduct of the study or has a
+             history of clinically significant psychiatric disorder of the last 5 years.
+
+          -  Has a history of any clinically significant major neurological disorders or seizures
+             (including Guillain-Barré syndrome), with the exception of febrile seizures during
+             childhood.
+
+          -  Has a history of cancer (malignancy)
+
+          -  Has a known or suspected history of significant multiple and/or severe allergies
+             (e.g., food, drug, latex allergy), or has had an anaphylactic reaction or significant
+             intolerability (i.e., systemic allergic reaction) to prescription or non-prescription
+             drugs or food.
+
+          -  Is positive for hepatitis B surface antigen (HBsAg), hepatitis C antibodies or human
+             immunodeficiency virus (HIV)-1 or 2 antibodies. Individuals with antibodies to
+             hepatitis C may be enrolled if hepatitis C viral load is undetectable and there is no
+             evidence of or history of liver disease.
+
+          -  Had major surgery, donated or lost 1 unit of blood (approximately 500 mL) within 4
+             weeks prior to the pre-study (screening) visit.
+
+          -  Has received immunosuppressive drugs (like e.g. systemic corticosteroids, excluding
+             topical preparations and inhalers) within 3 months prior to the first vaccination or 6
+             months for chemotherapies.
+
+          -  *Has received vaccination within 4 weeks prior to first vaccination or is planning to
+             receive a licensed vaccine 4 weeks before or after each study vaccination (e.g.
+
+        Inactivated influenza vaccine).
+
+          -  *Has received measles-containing vaccine within 3 months prior to the first
+             vaccination.
+
+          -  Has received a blood transfusion or blood products, including immunoglobulin, starting
+             from 3 months before the first study vaccination or is scheduled to receive a blood
+             transfusion or blood product through study completion. Autologous blood transfusions
+             are not considered an exclusion criterion.
+
+          -  Is unable to meet the concomitant medication restrictions
+
+          -  Is using antiviral medications or any investigational agents for prophylaxis of
+             SARSCoV-2 within 4 weeks prior to the first vaccination.
+
+          -  Has ever participated in an investigational study of a SARS-CoV-2 vaccine, or an
+             antiviral or other biologic product intended for the treatment of COVID-19.
+
+          -  Has participated in another vaccine study within 3 months prior to screening or has
+             participated in an investigational study within 4 weeks prior to the pre-study
+             (screening) visit.
+
+          -  Has glycated hemoglobin (A1C) ≥ 6.5% at screening.
+
+          -  Has a history of alcohol, cocaine, or opioid abuse during the previous 3 years.
+
+          -  Participants who currently smoke or used nicotine or nicotine-containing products
+             (e.g. nicotine patch) within last 3 months. Former smokers that have less than a 10
+             pack-year history of smoking and have not smoked in the last 12 months are eligible to
+             be enrolled.
+
+          -  Has a tattoo, scar or other physical finding at the area of the vaccination site that
+             would interfere with intramuscular injection or a local tolerability assessment.
+
+          -  Presents any concern by the investigator regarding safe participation in the study or
+             for any other reason the investigator considers the participant inappropriate for
+             participation in the study.
+
+          -  Lives in a nursing home or long-term care facility.
+
+          -  Is currently working in occupations with high risk of exposure to SARS-CoV-2 (e.g.,
+             health care worker with direct patient contact, emergency response personnel), or, at
+             the investigator's discretion to be at increased risk to acquire SARS-CoV-2 for any
+             other reason.
+
+          -  Individuals who are living and/or working with severely immunocompromised people,
+             pregnant women, lactating women, children under 12 months old, or any other individual
+             that, in the judgment of the investigator, might be at increased risk.
+
+          -  Is or has an immediate family member (e.g., spouse, parent/legal guardian, sibling, or
+             child) who is investigatively involved with this study.
+
+               -  if the participant meets these exclusion criteria, the Day 1 Visit may be
+                  rescheduled for a time when these criteria are not met.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <phone>1-888-577-8839</phone>
+    <email>Trialsites@merck.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Research Centers of America, LLC ( Site 0014)</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>954-990-7649</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Research, LLC ( Site 0013)</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>316-462-0420</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Central Kentucky Research Associates, Inc. ( Site 0011)</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40509</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>859-264-8999</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Center for Pharmaceutical Research PC ( Site 0012)</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>816-943-0770</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SCRI-CCCIT GesmbH ( Site 0006)</name>
+      <address>
+        <city>Salzburg</city>
+        <zip>5020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>0043 5 7255 25800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Universitaet Wien ( Site 0007)</name>
+      <address>
+        <city>Wien</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>004314016038290</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Gent ( Site 0003)</name>
+      <address>
+        <city>Gent</city>
+        <state>Oost-Vlaanderen</state>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+3293320050</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SGS Life Science Services ( Site 0001)</name>
+      <address>
+        <city>Antwerpen</city>
+        <zip>2060</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+3232172560</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ATC - Clinical Pharmacology Unit ( Site 0002)</name>
+      <address>
+        <city>Liege</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+3243668306</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 4, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="928">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04513210</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JagiellonianU67</org_study_id>
+    <nct_id>NCT04513210</nct_id>
+  </id_info>
+  <brief_title>Reliability of Standardized Protocol of Ultrasound of the Lungs in Prediction of Severity of Covid-19 Infection</brief_title>
+  <official_title>Reliability of Standardized Protocol of Ultrasound of the Lungs in Prediction of Severity, Length of Hospitalization and Long-term Complications and of Covid-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jagiellonian University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Jagiellonian University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Ultrasound can reliably detect morphologic changes associated with pneumonia. Additionally,
+      protocols were elaborated which unify the investigation procedure and improve the intra- and
+      interrater reliability. Moreover, ultrasound is a time and cost-effective and widely
+      available method. The aim of this study is to evaluate the efficacy of the ultrasound of the
+      lungs in predicting the length of hospitalization, of intensive care and of mechanical
+      ventilation in Covid-19 pneumonia. Further aims are the evaluation of the efficacy of the
+      ultrasound of the lungs in predicting the risk of death and of long-term pulmonary
+      complications as consequences of Covid-19 pneumonia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Covid-19 pneumonia became the worldwide, serious health problem, affecting nearly 20 million
+      people and causing nearly one million deaths. The health systems of many countries are
+      overwhelmed with the increased need of medical care, of the number of available hospital
+      beds, intensive care beds and ventilators. The proper management of available resources
+      becomes now critical. Ultrasound can reliably detect morphologic changes associated with
+      pneumonia, especially in Covid-19 pneumonia, where the involvement of superficial parts of
+      the lungs predominates. Additionally, protocols were elaborated which unify the investigation
+      procedure and improve the intra- and interrater reliability. Moreover, ultrasound is a time
+      and cost-effective and widely available method. Finally, it is much easier to take measures,
+      which minimize the risk of viral transmission between patients for ultrasound equipment than
+      for other lung imaging devices such as x-ray or computer tomography. The aim of this study is
+      to evaluate the efficacy of the ultrasound of the lungs in predicting the length of
+      hospitalization, of intensive care and of mechanical ventilation in Covid-19 pneumonia.
+      Further aims are the evaluation of the efficacy of the ultrasound of the lungs in predicting
+      the risk of death and of the long-term pulmonary complications as consequences of Covid-19
+      pneumonia. The study will include repeated ultrasound investigations in severe acute
+      respiratory syndrome coronavirus 2 (SARS-CoV-2) positive patients admitted to the University
+      Hospital in Cracow (Poland) performed during hospitalization and after discharge. The
+      relation of severity and the course of pneumonia revealed by ultrasound to clinical
+      condition, long term complications, use of mechanical ventilation, admission to intensive
+      care and results of laboratory tests will be examined.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2020</start_date>
+  <completion_date type="Anticipated">February 28, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Relation of changes in ultrasound and progression to respiratory failure</measure>
+    <time_frame>Through study completion, an average of 1 year.</time_frame>
+    <description>Comparison of percentage of patients with oxygenation index drop below 300 mmHg during 14 after inclusion between group with and without changes in the ultrasound on admission.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Impact of ultrasonographic pneumonia signs on the day of admission on severity of COVID-19 infection</measure>
+    <time_frame>Through study completion, an average of 1 year.</time_frame>
+    <description>Comparison of frequency of intensive care, ventilator use and of the number of days of hospital stay, between group with signs of pneumonia vs. group without signs of pneumonia in the ultrasound, on the day of admission.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity of ultrasonographic pneumonia signs in detecting respiratory failure</measure>
+    <time_frame>Through study completion, an average of 1 year.</time_frame>
+    <description>Correlation of the score reflecting severity of ultrasonographic pneumonia signs with oxygen saturation of arterial blood and with oxygen and carbon dioxide partial pressure in repetitive measurements.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity of ultrasound in detecting interstitial changes in the lungs</measure>
+    <time_frame>Through study completion, an average of 1 year.</time_frame>
+    <description>Correlation of the score reflecting severity of ultrasonographic pneumonia signs with the volume of lung interstitium affected by pneumonia, measured in high resolution computer tomography scans.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact change in severity of ultrasonographic pneumonia signs on severity of COVID-19 infection</measure>
+    <time_frame>Through study completion, an average of 1 year.</time_frame>
+    <description>Comparison of frequency of intensive care, ventilator use and of the number of days of hospital stay, between group which improved and which did not improve in the score reflecting severity of ultrasonographic pneumonia signs from the measurement on the day of admission to measurement five days later.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Changes in the lungs on admission</arm_group_label>
+    <description>Patients with Covid-19 infection admitted to the University Hospital with changes in the ultrasound on admission, suggesting pneumonia.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No changes in the lungs on admission</arm_group_label>
+    <description>Patients with Covid-19 infection admitted to the University Hospital without changes in the ultrasound on admission, suggesting pneumonia.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All consecutive patients who will be admitted to the University Hospital in Cracow (Poland)
+        due to Covid-19 infection. University Hospital is one of the largest hospitals in Poland,
+        erving approximately 4,5 million inhabitants of southern Poland.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients sufficiently medically ill to require hospital admission.
+
+          -  Confirmed SARS-CoV-2 infection by positive result on polymerase chain reaction testing
+             of a nasopharyngeal sample not earlier than five days prior to inclusion.
+
+        Exclusion Criteria:
+
+          -  Interstitial lung disease in the past.
+
+          -  Chronic respiratory insufficiency.
+
+          -  Significant bronchial obstruction n the day of admission to the University Hospital.
+
+          -  Pulmonary embolism during three months before admission.
+
+          -  Significant thorax deformity, which may disturb the investigation of the lungs with
+             ultrasound.
+
+          -  Hemodynamic instability
+
+          -  Pregnancy (relative contraindication for computer tomography)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jakub M Antczak, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jagiellonian University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jakub M Antczak, MD</last_name>
+    <phone>+48 795 421 153</phone>
+    <email>jantczak@cm-uj.krakow.pl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Wojciech Jagiełło, MD</last_name>
+    <phone>+48 504 053 988</phone>
+    <email>jawoj@su.krakow.pl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Jagiellonian University Medical College, Department of Neurology</name>
+      <address>
+        <city>Kraków</city>
+        <zip>31503</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <link>
+    <url>https://covid19.who.int/</url>
+    <description>This link refers to the site of the World Health Organization reporting the current epidemiological situation of Covid-19</description>
+  </link>
+  <reference>
+    <citation>Liu J, Liu F, Liu Y, Wang HW, Feng ZC. Lung ultrasonography for the diagnosis of severe neonatal pneumonia. Chest. 2014 Aug;146(2):383-388. doi: 10.1378/chest.13-2852.</citation>
+    <PMID>24833216</PMID>
+  </reference>
+  <reference>
+    <citation>Reissig A, Copetti R, Mathis G, Mempel C, Schuler A, Zechner P, Aliberti S, Neumann R, Kroegel C, Hoyer H. Lung ultrasound in the diagnosis and follow-up of community-acquired pneumonia: a prospective, multicenter, diagnostic accuracy study. Chest. 2012 Oct;142(4):965-972. doi: 10.1378/chest.12-0364.</citation>
+    <PMID>22700780</PMID>
+  </reference>
+  <reference>
+    <citation>Pan F, Ye T, Sun P, Gui S, Liang B, Li L, Zheng D, Wang J, Hesketh RL, Yang L, Zheng C. Time Course of Lung Changes at Chest CT during Recovery from Coronavirus Disease 2019 (COVID-19). Radiology. 2020 Jun;295(3):715-721. doi: 10.1148/radiol.2020200370. Epub 2020 Feb 13.</citation>
+    <PMID>32053470</PMID>
+  </reference>
+  <reference>
+    <citation>Shi H, Han X, Jiang N, Cao Y, Alwalid O, Gu J, Fan Y, Zheng C. Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis. 2020 Apr;20(4):425-434. doi: 10.1016/S1473-3099(20)30086-4. Epub 2020 Feb 24.</citation>
+    <PMID>32105637</PMID>
+  </reference>
+  <reference>
+    <citation>Vetrugno L, Bove T, Orso D, Barbariol F, Bassi F, Boero E, Ferrari G, Kong R. Our Italian experience using lung ultrasound for identification, grading and serial follow-up of severity of lung involvement for management of patients with COVID-19. Echocardiography. 2020 Apr;37(4):625-627. doi: 10.1111/echo.14664. Epub 2020 Apr 15. Review.</citation>
+    <PMID>32239532</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 14, 2020</study_first_posted>
+  <last_update_submitted>August 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Jagiellonian University</investigator_affiliation>
+    <investigator_full_name>Jakub Antczak</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Saved ultrasound and computer tomography data, scores of particular ultrasound investigations, volumetric calculations conducted on acquired computer tomography imaging and the records from inpatients and outpatients clinics of University Hospital in Cracow, containing clinical and laboratory data will be available on request sent per e-mail.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

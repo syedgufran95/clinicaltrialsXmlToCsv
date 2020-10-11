@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1165">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04567836</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STORM-HCW</org_study_id>
+    <nct_id>NCT04567836</nct_id>
+  </id_info>
+  <brief_title>Screening of Health-care Workers in an University Hospital for SARS-CoV-2</brief_title>
+  <acronym>STORM-HCW</acronym>
+  <official_title>Screening of Health-care Workers in an University Hospital: an Observational Prospective Study on the Screening of Hospital Workers for Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Milano Bicocca</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Milano Bicocca</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an observational prospective study. The aim is to assess the prevalence of test
+      positivity (swab or serological examination) to Coronavirus Disease-2019 (Covid-19) in
+      relation to the duties and related occupational risk.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study protocol provides for a collection of basic data relating to all hospital workers
+      who voluntarily underwent the test (age, sex, type of occupation - doctor / nurse /
+      socio-health / administrative operator; attendance in Covid-19 wards department), IgG outcome
+      (quantitative level) and swab outcome (negative, weakly positive, positive).
+
+      The cohort of hospital workers constitutes a population of particular relevance for the
+      development of appropriate strategies for the surveillance of hospital risk for SARS-CoV-2
+      infection (relationship to the type of job, clinical evolution) and the available data are
+      very limited.
+
+      The asymptomatic staff cohort constitutes the ideal population context to contribute to
+      knowledge of aspects of the spread of the virus.
+
+      The limitations of current serological tests are well known, which do not allow to
+      distinguish the acute phase of the infection and therefore the persistence of contagiousness.
+      Similarly, the genomic characteristics of the SARS-CoV-2 virus are not known in asymptomatic
+      but swab positive subjects compared to the virus isolated from symptomatic patients.
+
+      In the cohort of operators who tested positive for nasopharyngeal swab (both symptomatic and
+      asymptomatic), the availability of serological tests will allow to evaluate the antibody
+      response over time in relation to the clinical evolution of the infection, and the
+      persistence of a protective titer over time.
+
+      Methods and study design
+
+        1. The cohort of symptomatic hospital workers who tested positive for the swab includes 250
+           operators. The cohort will be evaluated as a prospective epidemiological study;
+
+        2. The cohort of asymptomatic / paucisymptomatic operators will include the cohort of
+           operators who will test positive in the serological analysis. From the entire population
+           of hospital workers (over 3000), three controls will be identified for each operator who
+           tested positive for the serological test on the same day and are negative for the
+           serological test. Considering the positive percentage of 5.5% in the serological survey
+           (from the first epidemiological data reported at the ASST of Monza), the positive
+           screening cohort and the control cohort of about 480 are estimated at about 160.
+
+        3. The serological test that will be used is the one required by the indication of the
+           Circular G1.2020.00117959 of 22 April 2020. It is a test with the CLIA method designed
+           to recognize IgG antibodies directed against the S1 and S2 domains of the SARS virus
+           &quot;spike&quot; protein -CoV-2, selected for its ability to provide specificity for SARS-CoV-2
+           compared to other Coronaviruses.
+
+           The product has been designed to meet the need to identify in the population those who
+           have already been infected with the virus, whose diagnosis has not been made through the
+           execution of a swab and a molecular diagnostic test.
+
+        4. The questionnaire will be administered to all operators.
+
+      Data anonymization Health worker will be identified with an 8-digit code followed by the
+      letters OS and the year of collection (e.g. 00000001 OS / 2020); in biological sampling the
+      laboratory will identify the patient with the same code and that will be the linkage code
+      between the database and the bio-bank because it is unique for each worker at the ASST in
+      Monza.
+
+      Biological studies
+
+      The fields of research in the biological field that the protocol aims to pursue are listed
+      below:
+
+        1. Characterizing the SARS-CoV-2 genome in relation to the characteristics of the hospital
+           workers from which the virus is extracted and sequenced is relevant for knowing the
+           functional mechanisms of the virus in relation to the host - both for clinical and
+           diagnostic purposes, as well as for predict virus mutations and related clinical
+           response in view of a second SARS-CoV-2 epidemic;
+
+        2. Evaluate the relevance of tests with greater sensitivity and specificity in the
+           population negative for the throat swab but positive for the serological investigation;
+
+        3. Study of biomolecular markers of COVID-19 infection with the aim of identifying the
+           basis of the different susceptibility in relation to age, sex and the presence of
+           co-morbidities;
+
+        4. Evaluate metabolic biochemical markers of resistance to viral infection in a subgroup of
+           hospital workers with positive swab and in a subgroup with positive antibody test but
+           negative swab to be evaluated at the first available sample and after at least 3 months
+           to allow 27 hydroxycholesterol to return at the concentration prior to infection.
+
+      Statistic analysis Central tendency and dispersion measures will be used for descriptive
+      analyzes. The percentage of positive subjects (serological and / swab) will be calculated as
+      the number of positive subjects on the total number of participating subjects. The percentage
+      of immune subjects will be calculated as the number of subjects with IgG immunoglobulins out
+      of the total number of participants.These percentages will also be calculated for age and sex
+      groups and for each characteristic considered relevant.
+
+      The logistic regression model will be used to identify demographic / social variables of
+      predisposition to positivity.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence of test positivity</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>Desciption of the prevalence of test positivity (swab or serological examination) in relation to the duties and related occupational risk</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation of the positive result of the test with the manifestations of the signs</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>Description of the positive result of the test (swab or serological examination) with the manifestations of the signs / symptoms collected in the previous months from the attached form in the cohort of positive cases and related negative controls.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Development of COVID</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>Description of the outcome of positive serological and swab test operators in terms of development of COVID-related symptomatology</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Analysis of genomic sequences of the virus</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>to correlate the virus genomic sequence of asymptomatic but positive serological and swab operators with the available data of the SARS-CoV-2 virus sequences.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the test relevance</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>Evaluate the relevance of tests with greater sensitivity and specificity in the population negative for the throat swab but positive for the serological investigation;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of predictive biomolecular markers</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>Evaluation biomolecular markers that are predictive of susceptibility to infection and predictive of symptomatic infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The trend over time of the antibody response in subjects positive</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>Evaluate the trend over time of the antibody response in subjects positive to the serological test and to the swab (both symptomatic and asymptomatic).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The frequency of re-infection</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>Evaluate the frequency of re-infection (symptomatology compatible with COVID and positive swab) in operators who tested positive for serological and swab tests.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the mode of transmission relatively anamnestic data</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>Evaluate the mode of transmission between relatives by collecting anamnestic data.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The relation between mode of transmission and the available clinical documentation</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>Assess the mode of transmission between relatives by collecting the available clinical documentation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the mode of transmission for the use of barriers</measure>
+    <time_frame>Until the end of the study (approximately 6 months).</time_frame>
+    <description>Evaluate the mode of transmission between relatives by collecting the barriers used in the home: none, mask and spacing, voluntary isolation.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>The asymptomatic medical staff cohort</arm_group_label>
+    <description>The cohort of asymptomatic / paucisymptomatic operators will include the cohort of operators who will test positive in the serological analysis.
+From the entire population of hospital workers (over 3000), three controls will be identified for each operator who tested positive for the serological test that were analyzed on the same day and were negative for the serological test.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>The symptomatic medical staff cohort</arm_group_label>
+    <description>The cohort of symptomatic hospital workers who tested positive for the swab includes 250 operators.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Investigation of the prevalence of test positivity</intervention_name>
+    <description>The study consists of an investigation by means of a prospective observational study with the aim of assess the prevalence of test positivity (swab or serological examination) ti covid-19 in relation to the duties and related occupational risk.
+It is used CLIA method test designed to recognize IgG antibodies directed against the S1 and S2 domains of the SARS-CoV-2 virus &quot;spike&quot; protein, selected for their ability to provide specificity for SARS-CoV-2 compared to other Coronaviruses .</description>
+    <arm_group_label>The asymptomatic medical staff cohort</arm_group_label>
+    <arm_group_label>The symptomatic medical staff cohort</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      serological samples and nasopharyngeal swab
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population consists of:
+
+          1. Hospital workers employed by the ASST of Monza (principals of Monza and Desio) who, in
+             the presence of symptoms suggestive of SARS-CoV-2 infection or asymptomatic but
+             positive on the surveillance check list, carried out nasopharyngeal swabs and tested
+             positive. The surveillance provided by the Occupational Medicine service of the ASST
+             of Monza involves the execution of a double negative nasopharyngeal swab before
+             readmission to work. This cohort of operators (over 250 at ASST of Monza) will be
+             offered the possibility of performing the serological test on a voluntary basis;
+
+          2. Asymptomatic or paucisymptomatic hospital workers employed by the ASST of Monza
+             (garrisons of Monza and Desio) as indicated by the DG Welfare of the Lombardy region.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Hospital staff on active duty;
+
+          -  Age greater than or equal to 18 years;
+
+        Exclusion Criteria:
+
+        Failure to consent to serological screening or failure to consent to study participation
+        (there are two different consent)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Paolo Bonfanti</last_name>
+    <phone>+39 039 233 9310</phone>
+    <email>paolo.bonfanti@unimib.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>ASST Monza-Ospedale San Gerardo</name>
+      <address>
+        <city>Monza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Hunter E, Price DA, Murphy E, van der Loeff IS, Baker KF, Lendrem D, Lendrem C, Schmid ML, Pareja-Cebrian L, Welch A, Payne BAI, Duncan CJA. First experience of COVID-19 screening of health-care workers in England. Lancet. 2020 May 2;395(10234):e77-e78. doi: 10.1016/S0140-6736(20)30970-3. Epub 2020 Apr 22.</citation>
+    <PMID>32333843</PMID>
+  </reference>
+  <reference>
+    <citation>Sethuraman N, Jeremiah SS, Ryo A. Interpreting Diagnostic Tests for SARS-CoV-2. JAMA. 2020 Jun 9;323(22):2249-2251. doi: 10.1001/jama.2020.8259.</citation>
+    <PMID>32374370</PMID>
+  </reference>
+  <reference>
+    <citation>Civra A, Colzani M, Cagno V, Francese R, Leoni V, Aldini G, Lembo D, Poli G. Modulation of cell proteome by 25-hydroxycholesterol and 27-hydroxycholesterol: A link between cholesterol metabolism and antiviral defense. Free Radic Biol Med. 2020 Mar;149:30-36. doi: 10.1016/j.freeradbiomed.2019.08.031. Epub 2019 Sep 13.</citation>
+    <PMID>31525455</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>sars-covid-2</keyword>
+  <keyword>coronavirus infection</keyword>
+  <keyword>coronavirus</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

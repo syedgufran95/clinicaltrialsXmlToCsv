@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2987">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04517422</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ABB-COVID19</org_study_id>
+    <nct_id>NCT04517422</nct_id>
+  </id_info>
+  <brief_title>Efficacy of L. Plantarum and P. Acidilactici in Adults With SARS-CoV-2 and COVID-19</brief_title>
+  <official_title>Efficacy and Safety of Lactobacillus Plantarum and Pediococcus Acidilactici as Co-adjuvant Therapy for Reducing the Risk of Severe Disease in Adults With SARS-CoV-2 and Its Modulation of the Fecal Microbiota: A Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AB Biotics, SA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Innovacion y Desarrollo de Estrategias en Salud</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital General Dr. Manuel Gea González</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Angeles del Pedregal</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AB Biotics, SA</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Clinical research focused to evaluate the effect as coadyuvant of a combination of L.
+      plantarum and P. acidilactici in adults positive for SARS-CoV-2 with mild clinical COVID-19
+      symptoms. Main objective is to evaluate how this combination of probiotics reduce the risk to
+      progress to moderate or severe COVID and associated advantages such as reduce the risk of
+      death. Adittionnally this RCT is launching to explore the benefits of this combination of
+      strains to modulate fecal microbiome and explore how this correlate with clinical
+      improvement.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Randomized controlled trial (RCT) to evaluate safety and efficacy of Lactobacillus plantarum
+      CECT 7481, Lactobacillus plantarum CECT 7484, Lactobacillus plantarum CECT 7485 y P.
+      acidilactici CECT 7483, one dose a day to reduce the risk of subjects with mild COVID-19 to
+      evolute to moderate or severe disease. As secondary aims this trial is intented to evaluate
+      the effect of this strains combinations to reduce the frequency and severity of
+      gastrointestinal COVID-19 symptoms and lung abnormalities, to reduce the viral load, modulate
+      the levels of IgG/IgM, and positively modify the fecal microbiota.
+
+      300 adults, 18 to 60 years, RTq-PCR positive for SARS-CoV-2, with mild COVID-19, and SpO2 &gt;
+      90%, living in Mexico city (2,200m over the sea level) will be randomized, after sign of
+      informed consent to receive a combintation of Lactobacillus plantarum CECT 7481,
+      Lactobacillus plantarum CECT 7484, Lactobacillus plantarum CECT 7485 y P. acidilactici CECT
+      7483 one a day orally or placebo for 30 days.
+
+      Clinical severity, lung abnormalities (x-rays), viral load, IgG/IgM levels, and fecal
+      microbiome will be evaluated at COVID-19 research center before randomization. Participants
+      will be invited to remain at home and clinical evolution, temperature, SpO2 will be recorder
+      and reported remotely during the 30 days intervention.
+
+      On days 15 and 30, participants will be invited to return to COVID-19 research center to take
+      samples to evaluate evolution of viral load, IgG/IgM and fecal microbiome.
+
+      During the 30-days intervention period outcomes such as clinical progression, need of
+      hospitalization, admission to Intensive Care Unit and death will be evaluated
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 19, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 20, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized controlled trials. 300 subjects (18-60 years old) will be allocated to receive a combination of Lactobacillus plantarumCECT7481, Lactobacillus plantarum CECT 7484, Lactobacillus plantarum CECT 7485, and P. acidilactici CECT 7483 (branch one) or placebo (branch two)</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>All study staff, including the Principal Investigator and the persons performing the subject assessments, will be blinded during the study. Sealed individual treatment code envelopes will be kept at the clinic to be able to break the code if any emergency occurs, as judged by the Investigator</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Severity progression of COVID-19</measure>
+    <time_frame>30 days</time_frame>
+    <description>Frequency of randomized subjects who progress from mild to moderate or severe COVID-19, as evaluated by WHO Clinical Progression Scale</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stay at ICU</measure>
+    <time_frame>30 days</time_frame>
+    <description>Length of stay at Intensive care unit</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality ratio</measure>
+    <time_frame>30 days</time_frame>
+    <description>Mortality ratio for all the causes related to COVID-19</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Lung abnormalities</measure>
+    <time_frame>30 days</time_frame>
+    <description>Frequency of lung abnormalities clasified by severity and measured by x-ray and artificial intelligence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral load</measure>
+    <time_frame>30 days</time_frame>
+    <description>Description of SARS-Cov-2 viral load evaluated by RT-PCR at screening and on days 15 and 30</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Levels of immunoglobulins</measure>
+    <time_frame>30 days</time_frame>
+    <description>Levels of Immunoglobulin G and Immunoglobulin M evaluated on day 15 and 30</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gastrointestinal manifestations, where 0 means good health status and 5 worse status</measure>
+    <time_frame>30 days</time_frame>
+    <description>Frequency and severity of gastrointestinal manifestation evaluated by Gastrointestinal Symptom Rating Scale (GSRS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fecal microbiome</measure>
+    <time_frame>30 days</time_frame>
+    <description>Changes on fecal microbiome evaluated by 16S analysis on day 1st and 30th</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>30 days</time_frame>
+    <description>Frequency of adverse events reported on dairy report form after randomization and until day 30</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change on Serum Biomarkers</measure>
+    <time_frame>Days 1st, 15th and 30th after randomization</time_frame>
+    <description>Change on C-reactive high sensitivity protein (hsCRP) and D-Dimer</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Probiotics</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Active test product contains four lactic acid bacteria strains with Qualified Presumption of Safety (QPS)status by European Food Safety Authority (EFSA): Lactobacillus plantarum CECT7481, Lactobacillus plantarum CECT7484, Lactobacillus plantarum CECT7485, and Pediococcus acidilactici CECT7483, with maltodextrin (E1400, qs) as excipient, formulated in a vegetable hydroxymethylpropyl-cellulose capsule (HPMC) of size 0. Active test product is a food supplement and not an investigational medicinal product</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The control study product is identical in packaging and formulation except that Lactobacillus plantarum CECT7481, Lactobacillus plantarum CECT7484, Lactobacillus plantarum CECT7485, and Pediococcus acidilactici CECT7483 (probiotic bacteria) are not present. The Control product only contains maltodextrin (E1400, qs) in a vegetable hydroxymethylpropyl-cellulose capsule (HPMC) of size 0.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Probiotics</intervention_name>
+    <description>Combination of Lactobacillus plantarum CECT7481, Lactobacillus plantarum CECT 7484, Lactobacillus plantarum CECT 7485, and Pediococcus acidilactici CECT 7483</description>
+    <arm_group_label>Probiotics</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Combination of maltodextrin (E1400, qs) in a vegetable hydroxymethylpropyl-cellulose capsule (HPMC) of size 0</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Women or men, &gt;18y to 60 years
+
+          -  RTq-PCR to COVID positive
+
+          -  Presence of cough, fever, dyspnoea, or headache, onset &lt;= 7 days
+
+          -  Mild severity of COVID-19
+
+          -  Peripheral Oxygen Saturation (SpO2) &gt;90%
+
+          -  Able to read, understand and sign the informed consent
+
+          -  To have at least one family member to collaborate with the follow-up in the clinical
+             findings at beginning and throughout of the study.
+
+        Exclusion Criteria:
+
+          -  Severe Obesity (BMI&gt;40)
+
+          -  Uncontrolled Type II diabetes (HbA1C &gt;8.0)
+
+          -  Uncontrolled systolic hypertension (&gt;160mmdeHg)
+
+          -  Acute pancreatitis
+
+          -  Chronic diarrhea or constipation
+
+          -  Inflammatory bowel disease
+
+          -  Blood clotting disease
+
+          -  Immunosuppression derived from Cancer, post-transplantation, auto-immune disease or
+             HIV
+
+          -  Severe and active seasonal allergies
+
+          -  Pregnancy or lactation
+
+          -  Glucose 6P-dehydrogenase deficiency
+
+          -  Regular use of probiotic or antibiotic within 2 weeks before entering the trial
+
+          -  Severe or uncontrolled Chronic Respiratory Diseases (Asthma, COPD or Cystic Fibrosis)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Pedro Gutierrez-Castrellon, MD, PhD</last_name>
+    <phone>525554198746</phone>
+    <email>pedro.gutierrez@councilforprobiotics.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital General Dr. Manuel Gea Gonzalez</name>
+      <address>
+        <city>Mexico city</city>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pedro G Gutierrez-Castrellon, MD, PhD</last_name>
+      <phone>5554198746</phone>
+      <email>pedro.gutierrez@ideas-salud.mx</email>
+    </contact>
+    <contact_backup>
+      <last_name>Paola Juarez-Valdez, MD</last_name>
+      <phone>5528950479</phone>
+      <email>paola.juarez@ideas-salud.mx</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <reference>
+    <citation>Zuo T, Liu Q, Zhang F, Lui GC, Tso EY, Yeoh YK, Chen Z, Boon SS, Chan FK, Chan PK, Ng SC. Depicting SARS-CoV-2 faecal viral activity in association with gut microbiota composition in patients with COVID-19. Gut. 2020 Jul 20. pii: gutjnl-2020-322294. doi: 10.1136/gutjnl-2020-322294. [Epub ahead of print]</citation>
+    <PMID>32690600</PMID>
+  </reference>
+  <results_reference>
+    <citation>Bottari B, Castellone V, Neviani E. Probiotics and Covid-19. Int J Food Sci Nutr. 2020 Aug 12:1-7. doi: 10.1080/09637486.2020.1807475. [Epub ahead of print]</citation>
+    <PMID>32787470</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Klann E, Rich S, Mai V. Gut microbiota and COVID-19: A superfluous diagnostic biomarker or therapeutic target? Clin Infect Dis. 2020 Aug 11. pii: ciaa1191. doi: 10.1093/cid/ciaa1191. [Epub ahead of print]</citation>
+    <PMID>32780788</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>d'Ettorre G, Ceccarelli G, Marazzato M, Campagna G, Pinacchio C, Alessandri F, Ruberto F, Rossi G, Celani L, Scagnolari C, Mastropietro C, Trinchieri V, Recchia GE, Mauro V, Antonelli G, Pugliese F, Mastroianni CM. Challenges in the Management of SARS-CoV2 Infection: The Role of Oral Bacteriotherapy as Complementary Therapeutic Strategy to Avoid the Progression of COVID-19. Front Med (Lausanne). 2020 Jul 7;7:389. doi: 10.3389/fmed.2020.00389. eCollection 2020.</citation>
+    <PMID>32733907</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>De Maio F, Posteraro B, Ponziani FR, Cattani P, Gasbarrini A, Sanguinetti M. Nasopharyngeal Microbiota Profiling of SARS-CoV-2 Infected Patients. Biol Proced Online. 2020 Jul 25;22:18. doi: 10.1186/s12575-020-00131-7. eCollection 2020.</citation>
+    <PMID>32728349</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Villena J, Kitazawa H. The Modulation of Mucosal Antiviral Immunity by Immunobiotics: Could They Offer Any Benefit in the SARS-CoV-2 Pandemic? Front Physiol. 2020 Jun 16;11:699. doi: 10.3389/fphys.2020.00699. eCollection 2020. Review.</citation>
+    <PMID>32670091</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Marcialis MA, Bardanzellu F, Fanos V. Microbiota and Covid-19. Which came first, the chicken or the egg? Clin Infect Dis. 2020 Jul 10. pii: ciaa965. doi: 10.1093/cid/ciaa965. [Epub ahead of print]</citation>
+    <PMID>32645713</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Aktas B, Aslim B. Gut-lung axis and dysbiosis in COVID-19. Turk J Biol. 2020 Jun 21;44(3):265-272. doi: 10.3906/biy-2005-102. eCollection 2020.</citation>
+    <PMID>32595361</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>probiotics</keyword>
+  <keyword>sars-cov-2</keyword>
+  <keyword>covid-19</keyword>
+  <keyword>adults</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

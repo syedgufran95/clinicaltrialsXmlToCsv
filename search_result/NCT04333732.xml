@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="249">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04333732</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202004099</org_study_id>
+    <secondary_id>INV-017499</secondary_id>
+    <nct_id>NCT04333732</nct_id>
+  </id_info>
+  <brief_title>CROWN CORONATION: COVID-19 Research Outcomes Worldwide Network for CORONAvirus prevenTION</brief_title>
+  <acronym>CROWN CORONA</acronym>
+  <official_title>An International, Multi-site, Bayesian Platform Adaptive, Randomized, Placebo-controlled Trial Assessing the Effectiveness of Candidate Agents in Mitigating COVID-19 Disease in Healthcare Workers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>COVID -19 Therapeutics Accelerator</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of CROWN CORONATION is the prevention of symptomatic COVID-19 by using
+      combinations of approved and safe repurposed interventions, with complementary mechanisms of
+      action.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      CROWN CORONATION is an international, Bayesian platform adaptive, randomized,
+      placebo-controlled trial assessing the effectiveness of candidate interventions in preventing
+      COVID-19 disease in healthcare workers.
+
+      Randomization will be stratified by age (&lt;50 and ≥50) and site. Participants will be
+      healthcare workers at risk of contracting SARS-CoV-2. Participants will be randomized into
+      one of two arms:
+
+        -  Education and surveillance plus MR or MMR vaccine
+
+        -  Education and surveillance plus Placebo
+
+      While the initial intervention to be tested on the platform will be the MR or MMR vaccine,
+      other interventions might be added or removed over the course of the trial. The trial will
+      evaluate which of the intervention arms is most effective at decreasing the incidence of
+      symptomatic COVID-19 disease, without unacceptable side effects or safety events.
+
+      All participants will require be required to have a mobile phone to participate. This is
+      standard in all the countries in this study. Most, but not all, will also have a smartphone.
+      Participants will complete weekly data logs via SMS texting. Follow-up information will be
+      collected until approximately 5 months after the end of treatment or death. Participants who
+      develop symptomatic COVID-19 during the last month of observation will at a minimum be
+      followed-up until symptom resolution and at a maximum until 6 months after randomization
+      (whichever comes first). Telemedicine approaches to collecting information on participants
+      will be used where possible. The trial will provide adherence support interventions that have
+      been shown in randomized controlled trials to improve adherence to Human Immunodeficiency
+      Virus treatment and adapted for HIV Pre-Exposure Prophylaxis (HIV PrEP) (e.g. two-way SMS
+      with check in for those that report symptoms or adverse events). The database will be hosted
+      on UK-based servers which are expected to be managed by Sealed Envelope Ltd. Local
+      investigators will have access to the part of the CRF to enable recording of outcome data
+      and/or severity of COVID-19 symptoms. Participants will be given a secure login to enable
+      them to complete an initial participant health questionnaire and the regular data logs. It is
+      envisaged that these will be completed at least weekly.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 4, 2020</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>An international, multi-site, randomized, placebo-controlled, Bayesian platform clinical trial. Initially there will be 2 arms, but we anticipate adding intervention arms to the platform. Combining interventions, allowing assessment of potential interactions, will be considered when arms are added.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>For the MR or MMR vaccine, there will be a placebo vaccine. Attempts will be made to maintain masking for other interventions (e.g. oral tablets) added to the platform by including suitable placebo options.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Symptomatic COVID-19</measure>
+    <time_frame>60 days</time_frame>
+    <description>To determine the incidence of the trial intervention(s) in preventing laboratory test-confirmed, symptomatic COVID19 (i.e. any of the following: cough, shortness of breath or difficulty breathing, fever, chills, muscle pain, sore throat, new loss of taste or smell, nausea, vomiting, or diarrhea), in healthcare workers with repeated exposures to SARS-CoV-2 by day 60 after enrollment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Severity of COVID-19 over the study period</measure>
+    <time_frame>60 days</time_frame>
+    <description>Severity of COVID-19 will be graded on a simplified version of the ordinal World Health Organization COVID-19 severity scale (WHO COVID-19 severity scale).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effectiveness of preventing/reducing SARS-CoV-2 infection</measure>
+    <time_frame>5 months</time_frame>
+    <description>SARS-CoV-2 infection (by serology) over up to 5 months of follow-up</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30000</enrollment>
+  <condition>COVID 19</condition>
+  <arm_group>
+    <arm_group_label>M-M-R II ®</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Education and surveillance plus M-M-R II ®</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Education and surveillance plus placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MR or M-M-R II ® vaccine</intervention_name>
+    <description>Education and surveillance plus MR or M-M-R II ® vaccine</description>
+    <arm_group_label>M-M-R II ®</arm_group_label>
+    <other_name>Merck</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo injection</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria
+
+          1. Volunteers without clinical evidence of COVID-19 infection aged 18 years and older.
+
+          2. Healthcare workers based in a primary, secondary or tertiary healthcare setting with a
+             high risk of developing COVID-19 due to their potential exposure to patients with
+             SARS-CoV-2 infection.
+
+          3. Must have a mobile phone and access to the Internet for data collection purposes.
+
+          4. Participants who are willing and able to provide informed consent via an electronic
+             consent process.
+
+        Exclusion criteria
+
+          1. Prior enrollment into other COVID-19 interventional prevention or treatment trials
+             (observational trials not excluded).
+
+          2. Self-reported or diagnosed current infection with SARS-CoV-2 or previous COVID-19
+             diagnosis.
+
+          3. Self-reported current acute respiratory infection.
+
+          4. Concurrent and/or recent involvement in other research or use of the investigational
+             product, a product considered to be equivalent to the investigational product, or any
+             other product that is likely to interfere with the investigational products in this
+             trial used within three months of study enrolment.
+
+          5. Self-reported known allergies to any of the IMPs and excipients of the IMPs and
+             placebo.
+
+          6. Self-reported presence or history of the conditions listed in the appendices.
+
+          7. Self-reported current use of medication known to interact with any of the medications
+             listed in the appendices.
+
+          8. Inability or unwillingness to be followed up for the trial period.
+
+        For M-M-R II
+
+          -  Pregnant women.
+
+          -  Individuals receiving high dose corticosteroids, other immuno-suppressive drugs,
+             alkylating agents or anti-metabolites.
+
+          -  Individuals undergoing radiotherapy.
+
+          -  Any malignant disease either untreated or currently undergoing therapy.
+
+          -  History of administration of gammaglobulin or blood transfusions within the previous 3
+             months.
+
+          -  Participants with an allergy to the MR (MMR) vaccine or its components, including
+             neomycin.
+
+          -  Idiopathic thrombocytopenic purpura (ITP)
+
+          -  Untreated tuberculosis
+
+          -  Prior receipt of any vaccines (licensed or investigational) ≤30 days before enrollment
+
+          -  Planned receipt of any vaccine other than the study intervention within 30 days before
+             and after the study vaccination
+
+          -  Prior receipt of an investigational or licensed vaccine likely to impact on
+             interpretation of the trial data (e.g. Adenovirus vectored vaccines, any coronavirus
+             vaccines).
+
+          -  Any confirmed or suspected immunosuppressive or immunodeficient state, including
+             untreated HIV infection with a CD4T count &lt;200 /mL
+
+          -  Asplenia
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael S. Avidan, MBBCh</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington Univeristy School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ramani Moonesinghe, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University College, London</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Helen Rees, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wits University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Linda Yun, BS, CCRP</last_name>
+    <phone>314-273-2240</phone>
+    <email>crowntrial@email.wustl.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sherry McKinnon, MS, CCRP</last_name>
+    <phone>314-286-1768</phone>
+    <email>crowntrial@email.wustl.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Linda Yun, BS, CCRP</last_name>
+      <phone>314-273-2240</phone>
+      <email>CrownTrial@email.wustl.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sherry McKinnon, MS, CCRP</last_name>
+      <phone>314-286-1768</phone>
+      <email>CrownTrial@email.wustl.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Michael S. Avidan, MBBCh, FCASA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mary Politi, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eric Dubberke, MD, MSPH, FSHEA, FIDSA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Elvin Geng, MD, MPH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Graham Colditz, MD, DrPH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eric Lenz, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Victor Davila-Roman, MD, FACC, FASE</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>William Powderly, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shabaana A. Khader, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Unity Health Toronto</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5B 1W8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David Mazer, MD</last_name>
+      <phone>(416) 864-5825</phone>
+      <email>David.Mazer@unityhealth.to</email>
+    </contact>
+    <investigator>
+      <last_name>David Mazer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Ghana Medical Centre</name>
+      <address>
+        <city>Accra</city>
+        <state>Greater Accra Region</state>
+        <zip>00233</zip>
+        <country>Ghana</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>George Kyei, MD, PhD</last_name>
+      <phone>+233551989937</phone>
+      <email>mailto:gkyei@noguchi.ug.edu.gh</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nana Adwoa Dsane, MA</last_name>
+      <phone>+233243376304</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Kwadwo Koram, MB ChB PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St James's Hospital</name>
+      <address>
+        <city>Dublin</city>
+        <state>Leinster</state>
+        <zip>Dublin 8</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ellen O'Sullivan, MD, FRCA,FCAI</last_name>
+      <phone>353876993178</phone>
+      <email>ellenosullivan2000@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Radboud University Medical Center</name>
+      <address>
+        <city>Nijmegen</city>
+        <zip>6525GA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mihai G Netea, MD PhD</last_name>
+      <phone>+31-24-3618819</phone>
+      <email>Mihai.Netea@radboudumc.nl</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitas Academic Hospital</name>
+      <address>
+        <city>Bloemfontein</city>
+        <state>Free State</state>
+        <zip>9301</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Edwin Turton, MBChB, Dip PEC, DA, MMed, FCA</last_name>
+      <phone>+27 82 804 6839</phone>
+      <email>turtonew@ufs.ac.za</email>
+    </contact>
+    <investigator>
+      <last_name>Edwin Turton, MBChB, Dip PEC, DA, MMed, FCA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wits RHI, University of the Witwatersrand</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>2001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sinead Delany-Moretlwe, MBChB, PhD, DTM&amp;H</last_name>
+      <phone>+27 82 377 6275</phone>
+      <email>sdelany@wrhi.ac.za</email>
+    </contact>
+    <contact_backup>
+      <last_name>Michelle Moorhouse, MBChB</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Gloria Maimela, MBBCh MBA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Saiqa Mullick, MBBCh PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Catherine Martin, MBBCh MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Steve Biko Academic Hospital</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sophie Mathijs, MBChB, MPharmMed</last_name>
+      <phone>+27 836506425</phone>
+      <email>sandra.spijkerman@up.ac.za</email>
+    </contact>
+    <investigator>
+      <last_name>Sophie Mathijs, MBChB, MPharmMed</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tygerberg Hospital</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7505</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Coenraad Koegelenberg, MBChB, MMED, FCP, MRCP, PhD</last_name>
+      <phone>+27 833201307</phone>
+      <email>coeniefn@sun.ac.za</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sean Chetty, MBChB, FCA, PhD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Coenraad Koegelenberg, MBChB, MMED, FCP, MRCP, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sean Chetty, MBChB, FCA, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Groote Schuur Hospital</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7925</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Bruce Biccard, MBChB,FCA,PhD</last_name>
+      <phone>+27 21 4045015</phone>
+      <email>bruce.biccard@uct.ac.za</email>
+    </contact>
+    <contact_backup>
+      <last_name>Leon du Toit, MBChB, FCA(SA)</last_name>
+      <phone>+27 (84) 5757330</phone>
+      <email>leon.alive@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Bruce Biccard, MBChB,FCA,PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Leon du Toit, MBChB, FCA(SA)</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Willem Stassen, BTech, MPhil, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lee Alan Wallis, MBChB, FCS, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ivan Joubert, MBChB, FCA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Linda-Gail Bekker, MBChB, DTM</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Catherine Orrell, MBChB MMed MSc, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lulu Nair, MBChB, DCH, DTM&amp;H, MPH,</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Katherine Gill, MBChB</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Amy Ward, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Graeme Meintjes, MBChB, FRCP, FCP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mark Hatherill, MBChB, DCH, MRCP, FCPaed</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lorraine Swanepoel, B.Sc.Pharm, Hons. B.Pharm</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Infectious Diseases Institute Kampala, Uganda</name>
+      <address>
+        <city>Kampala</city>
+        <country>Uganda</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Barbara Castelnuovo, PhD</last_name>
+      <phone>+256786623613</phone>
+      <email>bcastelnuovo@idi.co.ug</email>
+    </contact>
+    <contact_backup>
+      <last_name>Stephen Okoboi, Master</last_name>
+      <phone>+256704817590</phone>
+      <email>sokoboi@idi.co.ug</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Barbara Castelnuovo, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Stephen Okoboi, Master</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eva Laker, Master</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University College London</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Laurence Lovat, MD, PhD</last_name>
+      <phone>020 3447 7488</phone>
+      <email>laurence.lovat@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Laurence Lovat, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hakim-Moulay Dehbi, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nick Freemantle, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dermot McGuckin, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gemma Jones, MsC</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ramani Moonesinghe, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Josheph Standing, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andrew Hill, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Levy Mwanawasa University Teaching Hospital</name>
+      <address>
+        <city>Lusaka</city>
+        <zip>10101</zip>
+        <country>Zambia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Laston Chikoya, BSc, MBChB, MMed, MD</last_name>
+      <phone>+260977349415</phone>
+      <email>chikoyal@yahoo.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Bright Nsokolo, BScHB, MB ChB, MMED</last_name>
+      <phone>+260977884895</phone>
+      <email>b_nsokolo@yahoo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Izukanji Sikazwe, MBChB, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Roma Chilengi, MBChB, MSc, ACCRP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carolyn Bolton, MBBCh, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Chikumbutso Chipeta, BScHB, MB ChB</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bright Nsokolo, BScHB, MB ChB, MMED</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lloyd Mulenga, BScHB, MBCHB, MScID, MMED</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre for Infectious Disease Research in Zambia [CIDRZ]</name>
+      <address>
+        <city>Lusaka</city>
+        <zip>H8R9+9V</zip>
+        <country>Zambia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Izukanji Sikazwe</last_name>
+    </contact>
+    <investigator>
+      <last_name>Izukanji Sikazwe</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Roma Chilengi</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carolyn Bolton</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Chikumbutso Chipeta</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Zimbabwe Clinical Trials Research Centre</name>
+      <address>
+        <city>Harare</city>
+        <country>Zimbabwe</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nyaradzo Mavis Mgodi, MBChB, MMed</last_name>
+      <phone>+263 772 264 616</phone>
+      <email>nmgodi@uzchs-ctrc.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Teaclar Gamuchirai Nematadzira, : MBChB, Msc</last_name>
+      <email>tnematadzira@uzchs-ctrc.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nyaradzo Mavis Mgodi, MBChB, MMed</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Teaclar Gamuchirai Nematadzira, MBChB, Msc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gift Tafadzwa Chareka, Bachelor of Pharm, MscClin</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Allen Taguma Matubu, Bachelor Lab Sciences</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Ghana</country>
+    <country>Ireland</country>
+    <country>Netherlands</country>
+    <country>South Africa</country>
+    <country>Uganda</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+    <country>Zambia</country>
+    <country>Zimbabwe</country>
+  </location_countries>
+  <removed_countries>
+    <country>Australia</country>
+  </removed_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>March 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 3, 2020</study_first_posted>
+  <last_update_submitted>September 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Washington University School of Medicine</investigator_affiliation>
+    <investigator_full_name>Michael Avidan</investigator_full_name>
+    <investigator_title>Professor of Anesthesiology and Surgery</investigator_title>
+  </responsible_party>
+  <keyword>COVID 19</keyword>
+  <keyword>Health care workers</keyword>
+  <keyword>M-M-R II ®</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results reported in the main publication may be shared, after de-identification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>From 3 months after the last patient last visit onward.</ipd_time_frame>
+    <ipd_access_criteria>Investigators whose proposed use of the data has been approved by a review committee identified for this purpose.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

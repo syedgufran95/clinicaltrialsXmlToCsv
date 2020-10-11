@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="574">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04355767</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C3PO</org_study_id>
+    <secondary_id>1OT2HL156812-01</secondary_id>
+    <nct_id>NCT04355767</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma in Outpatients With COVID-19</brief_title>
+  <acronym>C3PO</acronym>
+  <official_title>Clinical-trial of COVID-19 Convalescent Plasma in Outpatients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Strategies to Innovate EmeRgENcy Care Clinical Trials Network (SIREN) - Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overarching goal of this project is to confirm or refute the role of passive immunization
+      as a safe and efficacious therapy in preventing the progression from mild to severe/critical
+      COVID-19 illness and to understand the immunologic kinetics of anti-SARS-CoV-2 antibodies
+      after passive immunization.The primary objective is to determine the efficacy and safety of a
+      single dose of convalescent plasma (CP) for preventing the progression from mild to severe
+      COVID-19 illness. The secondary objective is to characterize the immunologic response to CP
+      administration.
+
+      This study will adults presenting to the emergency department (ED) with mild, symptomatic,
+      laboratory-confirmed COVID-19 illness, who are at high risk for progression to
+      severe/critical illness, but who are clinically stable for outpatient management at
+      randomization.
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">August 11, 2020</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients with disease progression</measure>
+    <time_frame>15 days</time_frame>
+    <description>Disease progression defined as death or hospital admission or seeking emergency or urgent care within 15 days of randomization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Worst severity rating on the WHO COVID Ordinal Scale for Clinical Improvement during the 30 days following randomization</measure>
+    <time_frame>30 days</time_frame>
+    <description>This scale was developed by a special World Health Organization (WHO) committee for quantifying COVID-19 illness severity.
+8 = Death
+7 = Hospitalized, intubated, mechanically ventilated and requiring additional organ support (pressors, renal replacement therapy)
+6 = Hospitalized, intubated and mechanically ventilated
+5 = Hospitalized on non-invasive ventilation or high flow nasal cannula
+4 = Hospitalized on supplemental oxygen by mask or nasal prongs
+3 = Hospitalized not on supplemental oxygen
+2 = Not hospitalized with limitation in activity (continued symptoms)
+1 = Not hospitalized without limitation in activity (no symptoms)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to disease progression</measure>
+    <time_frame>15 days</time_frame>
+    <description>Time to disease progression on the COVID Outpatient Ordinal Outcome Scale censored at 15 days after randomization. Scale provides more granular detail for outpatients than the WHO scale (adapted from Harrell and Lindsell, 2020). Worsening of symptoms is defined as any subject admitted to the hospital (level 1), seen in the emergency room (level 2), a patient who reports increased symptoms of 2 levels on the scale over a 24 hour period, or a patient who reports increased symptoms of 1 level observed for a 48 hour period.
+COVID Outpatient Ordinal Outcomes Scale
+1 = patient requires care in the hospital
+2 = patient requires care in the ED or urgent care
+3 = patient at home with symptoms rated as moderate (defined as fever, shortness of breath, abdominal pain)
+4 = patient at home with symptoms rated as mild (defined as afebrile, constitutional symptoms (flu-like illness) without shortness
+5 = patient in their usual state of health</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Hospital-free days during the 30 days following randomization</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>Assessed at 30 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive 1 unit of convalescent plasma.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive 1 unit of saline with multivitamin.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent Plasma</intervention_name>
+    <description>SARS-CoV-2 convalescent plasma with neutralizing SARS-CoV2 antibodies titers of ≥1:160 administered via intravenous (IV) infusion.</description>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Saline</intervention_name>
+    <description>Saline with multivitamin administered via intravenous (IV) infusion..</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  One or more symptoms of COVID-19 illness and laboratory-confirmed SARS-CoV-2 infection
+
+          -  Has at least one study defined risk factor for severe COVID-19 illness
+
+          -  Clinical team deems stable for outpatient management without supplemental oxygen
+
+          -  CP available at the site at the time of enrollment
+
+          -  Duration of symptoms ≤ 7 days at ED presentation
+
+          -  Informed consent from subject
+
+        Exclusion Criteria:
+
+          -  Age less than 18 years
+
+          -  Prisoner or ward of the state
+
+          -  Presumed unable to complete follow-up assessments
+
+          -  Prior adverse reaction(s) from blood product transfusion
+
+          -  Receipt of any blood product within the past 120 days
+
+          -  Treating clinical team unwilling to administer 300 ml fluid
+
+          -  Enrollment in another interventional trial for COVID-19 illness
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clifton W Callaway, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Valerie Durkalski-Mauldin, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of South Carolina</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Frederick Korley, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sharon Yeatts, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of South Carolina</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Silbergleit, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>William Barsan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kevin Schulman, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD Medical Center - Hillcrest Hospital</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harbor-UCLA Medical Center</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UF Health Shands Hospital</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jackson Memorial Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grady Memorial Hospital</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals &amp; Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Medical Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Maine</state>
+        <zip>04102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baystate Medical Center</name>
+      <address>
+        <city>Springfield</city>
+        <state>Massachusetts</state>
+        <zip>01199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Detroit Receiving Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harper University Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sinai-Grace Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health Hospitals Butterworth Hospital</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HealthPartners Methodist Hospital</name>
+      <address>
+        <city>Saint Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regions Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cooper University Hospital</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Hospital</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Medical Center</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OSU Wexner Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy St. Vincent Medical Center</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University Hospital</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Medical Center</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ben Taub General Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hermann Texas Medical Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah Healthcare</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Froedtert Hospital</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://siren.network/</url>
+    <description>SIREN Network</description>
+  </link>
+  <link>
+    <url>http://hbiostat.org/proj/covid19/bayesplan.html</url>
+    <description>Statistical Design and Analysis Plan for Sequential Parallel-Group RCT for COVID-19 (Harrell and Lindsell, 2020)</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>April 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 21, 2020</study_first_posted>
+  <last_update_submitted>September 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no current plan to share individual participant data (IPD).</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

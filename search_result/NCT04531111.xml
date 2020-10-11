@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1320">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04531111</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FMASU P66/2020</org_study_id>
+    <nct_id>NCT04531111</nct_id>
+  </id_info>
+  <brief_title>Glycemic Control Among Children and Adolescents With Type 1 Diabetes During COVID-19 Pandemic in Egypt</brief_title>
+  <official_title>Glycemic Control Among Children and Adolescents With Type 1 Diabetes During COVID-19 Pandemic in Egypt: A Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ain Shams University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ain Shams University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      During the current unusual situation with COVID-19 pandemic and the lockdown applied in most
+      of the countries, school students were kept at home and offered e-learning modules and all
+      activities were suspended.
+
+      Lockdown entails significant modifications of life style, involving changes in physical
+      activities, dietary habits and nutrition, which are likely to impact glycemic control.
+
+      So the aim of the current study is to evaluate the impact of COVID-19 pandemic on glycemic
+      control among children and adolescents with type 1 diabetes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All aspects of life were significantly impacted by the COVID-19 pandemic. The pandemic
+      created heavy burdens on all countries affecting all foundations of the country. Global
+      measures aimed to limit spread of COVID- 19 infection and a series of restriction were
+      announced by serial countries including the suspension of schools, organized sports
+      activities and gatherings. On March, 2020 Egypt started to take a series of lockdown
+      regulation to control the spread of infection.
+
+      The restriction and lockdown will impact the whole population especially populations with
+      chronic disease. It is known that the lockdown will render access to outpatient clinics and
+      services,beside the possible limitation of access to care, the restrictions may affect
+      glycemic control patients with diabetes.
+
+      The negative impact of limiting physical exercise, behavioral changes, dietary changes and
+      fear of shortage of medical supplies could have an influence on diabetes control.
+
+      Study procedure:
+
+      All included patients / caregivers will complete an online questionnaire. For patients with
+      limited internet access, the questionnaire will be carried out through phone calls according
+      to patients' convenience.
+
+      Perceived stress scale-10 (Arabic Validated version) will be used to measure patients'/
+      caregivers' level of stress in response to the extraordinary status of the pandemic and its
+      consequences. The scale is a 10 questions scale that will be circulated among the patients as
+      an Arabic validated electronic form .
+
+      Medical reports and files of included patients will be reviewed and last visit before the
+      lock down will be thoroughly evaluated to identify:
+
+        -  Patients' body weight, body mass index.
+
+        -  Insulin regimen with special emphasis on total daily dose and percentage of basal
+           insulin.
+
+        -  Glycemic control of patients by evaluating the last HbA1C After completing the
+           questionnaire, patients' insulin dosage and glycemic control during the quarantine
+           period will be re-evaluated.
+
+      Evaluation of glycemic control at the end of the study:
+
+        -  For patients on self- monitoring of blood glucose, a rapid Hba1c test will be done
+           according to patients' convenience, patterns and frequency of hypoglycemia and
+           hyperglycemia will be evaluated.
+
+        -  For those on continous glucose monitoring ( if available), the data will be extracted
+           from the ambulatory glucose profile(AGP).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 7, 2020</start_date>
+  <completion_date type="Anticipated">August 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Impact of COVID-19 pandemic and lockdown on glycemic control among a sample of Egyptian children and adolescents with type 1 diabetes</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Change in HbA1c from baseline to 3 month after the lockdown</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Impact of COVID-19 pandemic and lockdown on insulin dosage among a sample of Egyptian children and adolescents with type 1 diabetes</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Change in total insulin dosage from baseline to 3 month after the lockdown</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Data will be collected from patients who are conveniently available and willing to
+        participate in the study in the period from July to August 2020, will be used. A
+        questionnaire will be circulated among patients and/or their caregivers and can be filled
+        online or through telephone calls.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with type 1 diabetes and willing to participate in the study.
+
+          -  Age: less than 18 years old
+
+        Exclusion Criteria:
+
+          -  Newly diagnosed patients with type 1 diabetes and those in honeymoon period.
+
+          -  Children with other forms of diabetes, including: type 2, monogenic forms and
+             secondary diabetes.
+
+          -  Patients with any other chronic disease.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yasmine Elhenawy</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ain Shams University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yasmine Elhenawy</last_name>
+    <phone>+201006714334</phone>
+    <email>dr_yasmi@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Khadiga Eltonbary</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Pediatrics and Adolescents Diabetes Unit (PADU), Pediatrics Hospital, Faculty of Medicine, Ain Shams University</name>
+      <address>
+        <city>Cairo</city>
+        <zip>11765</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yasmine Ehenawyl</last_name>
+      <phone>+201006714334</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Khadiga Eltonbary</last_name>
+      <phone>+201010477244</phone>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ain Shams University</investigator_affiliation>
+    <investigator_full_name>Yasmine Ibrahim Elhenawy</investigator_full_name>
+    <investigator_title>Assistant Professor of Pediatrics</investigator_title>
+  </responsible_party>
+  <keyword>Type 1 Diabetes</keyword>
+  <keyword>Glycemic control</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

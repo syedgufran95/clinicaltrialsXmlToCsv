@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3030">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04510025</url>
+  </required_header>
+  <id_info>
+    <org_study_id>282608</org_study_id>
+    <nct_id>NCT04510025</nct_id>
+  </id_info>
+  <brief_title>Capturing MultiORgan Effects of COVID-19</brief_title>
+  <acronym>C-MORE</acronym>
+  <official_title>Assessing the Effects of Coronavirus Disease (COVID-19) on Multiple Organ Systems and Impact on Quality of Life, Functional Capacity and Mental Health</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Oxford</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The C-MORE study is prospective observational holistic longitudinal study which will
+      characterise the prevalence of multi-organ injury among COVID-19 survivors post hospital
+      discharge and assess its effects on quality of life, exercise tolerance and mental health.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Since the outbreak of Coronavirus disease (COVID-19), hundreds of thousands of lives have
+      been lost and millions significantly affected. Although primarily a respiratory viral
+      illness, emerging data suggests that multiorgan involvement is common in those with
+      moderate-severe infections. Whether or not persistent multiorgan damage will be seen in
+      COVID-19 survivors is unknown.
+
+      C-MORE is an observational study that aims to investigate the long-term effects of COVID-19
+      on the lungs, heart, brain, liver and kidneys using advanced state-of-the art magnetic
+      resonance imaging (MRI) technology. The study will assess 616 patients with
+      laboratory-confirmed COVID-19 from leading UK centres and undertake multi-organ magnetic
+      resonance imaging at 3, 6, and 12 months following the onset of COVID-19 symptoms. In
+      addition, assessments of breathing, exercise capacity, cognition and mental health will be
+      carried out.
+
+      The study will describe the prevalence of persistent multi-organ injury in COVID-19 patients
+      and assess how this relates to comorbid conditions, severity of acute respiratory illness,
+      immunological response, genetic factors, quality of life and mental health.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 13, 2020</start_date>
+  <completion_date type="Anticipated">May 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence of damage (quantitative measures of injury) on lung, heart, liver, kidneys and brain MRI.</measure>
+    <time_frame>6 months</time_frame>
+    <description>Characterise and compare the prevalence and extent of lung, heart, liver, kidney, brain injury on magnetic resonance imaging (MRI) in patients with moderate to severe COVID-19 disease with matched uninfected controls.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of damage (quantitative measures of injury) on lungs, heart, liver, kidneys and brain on MRI.</measure>
+    <time_frame>3 and 12 months</time_frame>
+    <description>Characterise and compare the prevalence and extent of lung, heart, liver and kidney, brain injury on magnetic resonance imaging (MRI) in patients with moderate to severe COVID-19 disease with matched uninfected controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of acute/chronic cardiac, renal and liver injury on blood tests.</measure>
+    <time_frame>3, 6,12 months</time_frame>
+    <description>Characterise and compare the prevalence of cardiac, renal and liver injury on blood test in COVID-19 survivors and controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VO2 max on cardiopulmonary exercise testing</measure>
+    <time_frame>3, 6,12 months</time_frame>
+    <description>Characterise and compare VO2 max on cardiopulmonary exercise testing in COVID-19 survivors and controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of abnormal lung function test (any of the following: Forced expiratory volume in 1 second (FEV1)&lt; 80% of predicted FEV1, or forced vital capacity (FVC)&lt;80% predicted, ratio of FEV1/FVC &gt;0.7 or diffusion lung capacity (&lt;80% predicted))</measure>
+    <time_frame>3, 6,12 months</time_frame>
+    <description>Characterise and compare the prevalence of lung function test abnormalities among survivors and controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life - Short form-36 SF-36 score</measure>
+    <time_frame>3, 6,12 months</time_frame>
+    <description>For each of the eight domains that the SF36 measures an aggregate percentage score is produced. The percentage scores range from 0% (lowest or worst possible level of functioning) to 100% (highest or best possible level of functioning).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of impaired cognitive function on Montreal Cognitive assessment (MoCA&lt;26)</measure>
+    <time_frame>3, 6,12 months</time_frame>
+    <description>Described and compare the prevalence of impaired cognition (MoCA) between COVID-19 survivors and controls. MoCA scores range between 0 and 30. A score of 26 or over is considered to be normal.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>6-minute walk distance</measure>
+    <time_frame>3, 6,12 months</time_frame>
+    <description>Compare 6-minute walk distance between COVID-19 survivors and controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of anxiety on GAD-7 (Score)</measure>
+    <time_frame>3, 6,12 months</time_frame>
+    <description>Compare prevalence and severity of anxiety between COVID-19 survivors and controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of depression on PHQ-9 (Score)</measure>
+    <time_frame>3, 6,12 months</time_frame>
+    <description>Compare prevalence and severity of depression among COVID-19 survivors and controls. PHQ-9 total score for the nine items ranges from 0 to 27. Scores of 5, 10, 15, and 20 represent outpoints for mild, moderate, moderately severe and severe depression, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between the extent of multi-organ injury (continuous variable) and markers of inflammation (white cell count).</measure>
+    <time_frame>3,6,12 months</time_frame>
+    <description>To assess the association of multi organ damage on MRI and inflammatory response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the extent of symptoms (dyspnoea-12 score and fatigue score) and multi-organ injury.</measure>
+    <time_frame>3,6,12months.</time_frame>
+    <description>To assess the association of ongoing symptomatology and multi-organ injury/inflammation.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">616</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <condition>Multi-Organ Disorder</condition>
+  <arm_group>
+    <arm_group_label>Non-COVID</arm_group_label>
+    <description>We will enrol age, gender, BMI and co-morbidity matched non-COVID control subjects ( no serological evidence of previous infection or active symptoms).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19</arm_group_label>
+    <description>Hospitalised patients with moderate to severe infection (admitted for at least 2 days in hospital).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>We will undertake multi-organ MRI to assess the health of vital organs including the brain, heart, lung, kidneys and liver. We will additionally examine the burden of ongoing respiratory limitations, mental health problems and quality of life in survivors of COVID-19 at 3, 6 and 12 months.</description>
+    <arm_group_label>COVID-19</arm_group_label>
+    <arm_group_label>Non-COVID</arm_group_label>
+    <other_name>Cardiopulmonary exercise test</other_name>
+    <other_name>Spirometry</other_name>
+    <other_name>6 minute walk test</other_name>
+    <other_name>Questionnaires (mental health, cognitive assessment and quality of life)</other_name>
+    <other_name>Blood test</other_name>
+    <other_name>Transthoracic echocardiography (Sub-study)</other_name>
+    <other_name>CT lungs (Sub-study)</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      10 ml of blood stored
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        -  Contraindication to MRI e.g. pregnancy, pacemaker, ferromagnetic implant, shrapnel
+             injury, severe claustrophobia, inability to lie flat.
+
+          -  Any other significant disease or disorder which, in the opinion of the investigator,
+             might influence the participant's ability to participate in the study.
+
+          -  Any signs of active COVID-19 infection on day of visit.
+
+          -  Significantly impaired renal function (eGFR&lt;30 ml/min)
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Participant is willing and able to give informed consent for participation in the
+             study.
+
+          -  Male or Female, aged 18 years or above.
+
+          -  Diagnosis of COVID-19 infection confirmed by detection of viral nucleic acid on
+             reverse-transcription Polymerase Chain Reaction (RT-PCR).
+
+          -  Infection should be of moderate to severe intensity (i.e, patients with clinical signs
+             of pneumonia such as respiratory rate &gt; 30 breaths/min; or severe respiratory
+             distress; or SpO2 &lt; 90% (on room air) and admission for &gt;48 hours.
+
+        Exclusion Criteria:
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Betty Raman, MBBS, DPhil, FRACP</last_name>
+    <phone>01865234580</phone>
+    <phone_ext>+44</phone_ext>
+    <email>betty.raman@cardiov.ox.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Oxford</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 9DU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Betty Raman, MBBS, FRACP, DPhil</last_name>
+      <phone>0186534580</phone>
+      <phone_ext>+44</phone_ext>
+      <email>betty.raman@cardiov.ox.ac.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mark Cassar, MBBS</last_name>
+      <phone>0186534580</phone>
+      <phone_ext>+44</phone_ext>
+    </contact_backup>
+    <investigator>
+      <last_name>Stefan Neubauer, MD, FMedSCi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Betty Raman, MBBS, DPhil, FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>May 2020</verification_date>
+  <study_first_submitted>July 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>August 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus disease</keyword>
+  <keyword>MRI</keyword>
+  <keyword>Multi-organ injury</keyword>
+  <keyword>Quality of Life</keyword>
+  <keyword>Mental Health</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

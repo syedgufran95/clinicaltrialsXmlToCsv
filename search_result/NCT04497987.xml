@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1261">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04497987</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18063</org_study_id>
+    <secondary_id>J2X-MC-PYAD</secondary_id>
+    <secondary_id>CoVPN #3501</secondary_id>
+    <nct_id>NCT04497987</nct_id>
+  </id_info>
+  <brief_title>A Study of LY3819253 (LY-CoV555) in Preventing SARS-CoV-2 Infection and COVID-19 in Nursing Home Residents and Staff</brief_title>
+  <acronym>BLAZE-2</acronym>
+  <official_title>A Phase 3 Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of LY3819253 in Preventing SARS-CoV-2 Infection and COVID-19 in Skilled Nursing and Assisted Living Facility Residents and Staff; a NIAID and Lilly Collaborative Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AbCellera Biologics Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate whether LY3819253 prevents severe acute respiratory
+      syndrome coronavirus 2 (SARS-CoV-2) infection and coronavirus disease - 2019 (COVID-19) in
+      facility staff and residents in contracted skilled nursing and assisted living facility
+      networks with a high risk of SARS-CoV-2 exposure. Participants with a high risk of SARS-CoV-2
+      exposure will receive LY3819253 or placebo via an injection into a vein. Samples will be
+      taken from the nose. Blood samples will be drawn. Participation could last up to 25 weeks and
+      may include up to 19 visits.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 2, 2020</start_date>
+  <completion_date type="Anticipated">June 29, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 8, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants with SARS-CoV-2 Infection</measure>
+    <time_frame>Week 4</time_frame>
+    <description>Percentage of Participants with SARS-CoV-2 Infection</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Moderate or Worse Severity COVID-19</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Percentage of Participants with Moderate or Worse Severity COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Mild or Worse Severity COVID-19</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Percentage of Participants with Mild or Worse Severity COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who are Hospitalized due to COVID-19</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Percentage of Participants Who are Hospitalized due to COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants who Experience COVID-19-Related Hospitalization, COVID-19 Related Emergency Room Visit, or Death</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Percentage of Participants who Experience COVID-19-Related Hospitalization, COVID-19 Related Emergency Room Visit, or Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Die Due to COVID-19</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Percentage of Participants Who Die Due to COVID-19</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2400</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV2</condition>
+  <arm_group>
+    <arm_group_label>LY3819253</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LY3819253 administered intravenously (IV).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered IV.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3819253</intervention_name>
+    <description>Administered IV.</description>
+    <arm_group_label>LY3819253</arm_group_label>
+    <other_name>LY-CoV555</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered IV.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Resident or facility staff in a skilled nursing or assisted living facility with at
+             least one confirmed case of direct SARS-CoV-2 detection less than or equal to (≤)7
+             days prior to randomization
+
+          -  Are men or non-pregnant women who agree to contraceptive requirements
+
+          -  Agree to the collection of nasal, mid-turbinate, oropharyngeal, and nasopharyngeal
+             swabs, and venous blood as specified in the schedule of activities
+
+          -  Have venous access sufficient to allow intravenous infusions and blood sampling
+
+          -  The participant or legally authorized representative give signed informed consent
+
+        Exclusion Criteria:
+
+          -  Recovered from confirmed COVID-19 disease
+
+          -  A prior history of a positive SARS-CoV-2 serology test
+
+          -  A history of convalescent COVID-19 plasma treatment
+
+          -  Participation in a previous SARS-CoV-2 vaccine trial
+
+          -  Previous receipt of SAR-CoV-2-specific monoclonal antibodies
+
+          -  Have any serious concomitant systemic disease, condition or disorder that, in the
+             opinion of the investigator, should preclude participation in this study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+    <email>Clinicaltrials.gov@lilly.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Unv of AL Sch of Med Div of Infectious Diseases</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Unv of AL Sch of Med Div of Infectious Diseases</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access Research</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Care Access Research</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Allergy and Asthma Clin of NW Ark</name>
+      <address>
+        <city>Bentonville</city>
+        <state>Arkansas</state>
+        <zip>72712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Allergy and Asthma Clin of NW Ark</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access Research LLC</name>
+      <address>
+        <city>Huntington Beach</city>
+        <state>California</state>
+        <zip>92648</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Care Access Research LLC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alta Bates SMC</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Alta Bates SMC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado-Anschultz Medical Campus</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>University of Colorado-Anschultz Medical Campus</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NIAID</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>NIAID</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NIAID</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>NIAID</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Belmont Village Lincoln Park</name>
+      <address>
+        <city>Lincoln Park</city>
+        <state>Illinois</state>
+        <zip>60614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Belmont Village Lincoln Park</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Family Medicine</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Family Medicine</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>University of Louisville</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access Rch Lake Charles</name>
+      <address>
+        <city>Lake Charles</city>
+        <state>Louisiana</state>
+        <zip>70601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Care Access Rch Lake Charles</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane University School of Medicine</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112 2715</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Tulane University School of Medicine</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NIAID - National Institute of Allergy &amp; Infectious Diseases</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>NIAID - National Institute of Allergy &amp; Infectious Diseases</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Care Access</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Paul IDA-CARe</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>St. Paul IDA-CARe</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Care Access</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>University of Mississippi Medical Center</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital &amp; Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Children's Hospital &amp; Medical Center</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access Research - Bronx</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Care Access Research - Bronx</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NIAD</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>NIAD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Valley Medical Primary Care</name>
+      <address>
+        <city>Centerville</city>
+        <state>Ohio</state>
+        <zip>45459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Valley Medical Primary Care</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Cin College of Med</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Univ of Cin College of Med</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>OSU Med Intl Med Houston Ctr</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>OSU Med Intl Med Houston Ctr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Donahoe Manor</name>
+      <address>
+        <city>Bedford</city>
+        <state>Pennsylvania</state>
+        <zip>15522</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Donahoe Manor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Belmont Village, West Univ</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Belmont Village, West Univ</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lillytrialguide.com/en-US/trial/6hAC2UjP12uxz1fFWVGSKC</url>
+    <description>A Study of LY3819253 (LY-CoV555) to Prevent SARS-CoV-2 Infection and COVID-19 in Nursing Home Residents and Staff (BLAZE-2)</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>July 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 4, 2020</study_first_posted>
+  <last_update_submitted>October 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Prevention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data are available 6 months after the primary publication and approval of the indication studied in the US and EU, whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>https://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

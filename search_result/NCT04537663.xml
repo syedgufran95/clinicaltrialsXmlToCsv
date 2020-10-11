@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1795">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04537663</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BCG-PRIME</org_study_id>
+    <nct_id>NCT04537663</nct_id>
+  </id_info>
+  <brief_title>Prevention Of Respiratory Tract Infection And Covid-19 Through BCG Vaccination In Vulnerable Older Adults</brief_title>
+  <acronym>BCG-PRIME</acronym>
+  <official_title>Bacillus Calmette-Guérin Vaccination To Prevent Serious Respiratory Tract Infection And Covid-19 In Vulnerable Elderly - An Adaptive Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UMC Utrecht</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UMC Utrecht</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      On March 11 2020 the World Health Organization (WHO) declared the coronavirus (SARS-CoV-2)
+      outbreak a pandemic. Worldwide, the number of confirmed cases continues to rise, leading to
+      significant morbidity and mortality. In the Netherlands, although the incidence is currently
+      low due to social distancing measures, recurrence of infections is expected once measures are
+      going to be lifted. Although individuals of any age can acquire SARS-CoV-2, adults of middle
+      and older age are at highest risk for developing severe COVID-19 disease. Moreover, recent
+      reports demonstrate that mortality rates rise significantly among patients 60 years and
+      older. Therefore, strategies to prevent SARS-CoV-2 infection or to reduce its clinical
+      consequences in vulnerable populations are urgently needed. Bacille Calmette-Guérin (BCG)
+      vaccine not only protects against tuberculosis, but also induces protection against various
+      respiratory infections, including those with a viral etiology. We hypothesize that BCG
+      vaccination reduces clinically relevant respiratory tract infections requiring medical
+      intervention, including COVID-19, in vulnerable elderly.
+
+      The objective of this trial is to determine the impact of BCG vaccination on the incidence of
+      clinically relevant respiratory infections or COVID-19 in vulnerable elderly.
+
+      The trial is designed as an adaptive multi-center double-blind randomized placebo-controlled
+      trial. The attempt is to include 5,200 to 7,000 vulnerable elderly, defined as ≥60 years of
+      age being discharged from hospital in the last 6 weeks, or visiting a medical outpatient
+      clinic, thrombosis care services, or chronic renal replacement departments. Patients with
+      contraindications to BCG vaccination as stipulated in the Summary of Product Characteristics
+      (SPC) and patients with a history of COVID-19 will be excluded. Participants will be
+      randomized between intracutaneous administration of BCG vaccine (Danish strain 1331) or
+      placebo (0.1ml 0.9% NaCl) in a 1:1 ratio.The trial has an adaptive primary endpoint. Based on
+      accrual of the two endpoints, the primary endpoint will be either (a) COVID-19 or (b)
+      clinically relevant respiratory tract infection requiring medical intervention, potentially
+      including COVID-19 episodes. The other will be declared secondary endpoint. Other secondary
+      endpoints include: all SARS-CoV-2 infections (including asymptomatic infections), influenza
+      infection, acute respiratory infection (ARI; all infections regardless of medical
+      intervention), ARI-related hospital admission, COVID-19 related hospital admission,
+      pneumonia, mental, physical and social functioning, serious adverse events and adverse
+      events, and death.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 25, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Placebo consists of intradermal injection of sterile 0.9% NaCl.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The trial has an adaptive primary endpoint. Based on predefined objective and quantitative criteria the primary endpoint will be either a clinically relevant respiratory tract infection, or COVID-19.</measure>
+    <time_frame>180 days</time_frame>
+    <description>Clinically relevant relevant respiratory tract infection is composed of clinical symptoms in combination with the need for medical intervention. Exact criteria for clinically relevant respiratory tract infection and COVID-19 are described in the protocol.
+A blinded adjudication committee will determine the status of the primary endpoints of all participants with a potential primary endpoint, based on information provided in a standardized narrative using data reported by the participant and from GP and hospital medical records when relevant. For detection of ARI, symptoms are checked on a weekly (from week 1-4) or bi-weekly basis (from week 4 onward).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of SARS-CoV-2 infection (irrespective the presence of symptoms)</measure>
+    <time_frame>180 days</time_frame>
+    <description>Cumulative incidence of SARS-CoV-2 infection regardless of symptomatology defined as having had COVID-19 as described under primary endpoints above and/or SARS-CoV-2 positive test in real time as part of the test-and-trace program of the Dutch government and/of documented SARS-CoV-2 seroconversion at 6 months. Seroconversion will be defined as antibody-positive at 6 months but negative at baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of asymptomatic, mild/moderate, and severe (requiring hospitalization) SARS-CoV-2 infection.</measure>
+    <time_frame>180 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Influenza infection</measure>
+    <time_frame>180 days</time_frame>
+    <description>Defined as either of 1) ARI + microbiological evidence of influenza infection, 2) seroconversion of influenza between enrolment and month 6.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>An acute respiratory tract infection</measure>
+    <time_frame>180 days</time_frame>
+    <description>Meeting the definition stated in the primary outcome. Irrespective of requiring an intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medically attended acute respiratory tract infection</measure>
+    <time_frame>180 days</time_frame>
+    <description>Meeting the definition stated in the primary outcome including the requirement of an intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute respiratory tract infection related hospital admission</measure>
+    <time_frame>180 days</time_frame>
+    <description>Meeting the definition stated in the primary outcome including the need of hospitalization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pneumonia diagnosed by a GP or medical specialist</measure>
+    <time_frame>180 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functioning in daily activities</measure>
+    <time_frame>180 days</time_frame>
+    <description>Using the Katz Activities of Daily Living (ADL) scale, from A (fully independent) to G (dependent in feeding, continence, transferring, going to toilet, dressing, and bathing)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious adverse events and adverse events.</measure>
+    <time_frame>180 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major cardiovascular events</measure>
+    <time_frame>180 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All cause 6-month mortality</measure>
+    <time_frame>180 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>History of falls</measure>
+    <time_frame>180 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life using the EQ5D quality of life instrument</measure>
+    <time_frame>180 days</time_frame>
+    <description>Using the EQ5D quality of life instrument, with questions on 4 domains (mobility, self-care, usual activities, pain discomfort) and the percepted health of the participant with 100 meaning the best health you can imagine, and 0 meaning the worst health you can imagine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activities in daily living</measure>
+    <time_frame>180 days</time_frame>
+    <description>Using the 6-item Lawton Activities of Daily Living questionnaire, with scores ranging from 0 (low function, dependent) to 8 (high function, independent) for women (0 through 5 for men)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">5200</enrollment>
+  <condition>Respiratory Tract Infections</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Bacille Calmette-Guérin (BCG)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intradermal injection of BCG-Vaccine SSI [Statens Serum Institut]) - Danish strain 1331.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Intradermal injection of sterile 0.9% NaCl.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bacille Calmette-Guérin (BCG)</intervention_name>
+    <description>Participants in the intervention group will be vaccinated with the licensed BCG vaccine (Danish strain 1331, SSI, Denmark) using the standard vaccination technique for this vaccine (intradermal injection in the left upper arm).</description>
+    <arm_group_label>Bacille Calmette-Guérin (BCG)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intradermal injection of sterile 0.9% NaCl.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥60 years
+
+          -  Having a chronic disease or having undergone major surgery
+
+          -  Meeting at least one of the following criteria:
+
+               1. Planned to be discharged from the hospital or discharged from the hospital less
+                  than 6 weeks ago; a hospital admission is defined as an overnight stay.
+                  Departments of interest are those that in the opinion of the principle
+                  investigator admit mostly vulnerable elderly and include but are not limited to:
+                  cardiology, pulmonology, internal medicine, neurology.
+
+               2. Visiting a medical outpatient clinic
+
+               3. Attending the thrombosis care service
+
+        Exclusion Criteria:
+
+          -  Fever (&gt;38 ºC) within the past 24 hours
+
+          -  Suspicion of current active viral or bacterial infection; the requirement to finish an
+             antibiotic course upon discharge is not an exclusion criterion when the infection is
+             controlled in the opinion of the attending physician
+
+          -  Vaccination with live vaccine in the past four weeks or planned vaccination with live
+             vaccine during the next four weeks
+
+          -  Severely immunocompromised participants. This exclusion category comprises:
+
+               1. known infection by the human immunodeficiency virus (HIV-1);
+
+               2. neutropenic with less than 500 neutrophils/mm3;
+
+               3. solid organ transplantation;
+
+               4. bone marrow transplantation;
+
+               5. hematological malignancy;
+
+               6. chemo-, radio- or immunotherapy for solid organ malignancy in the past 6 months;
+
+               7. primary immunodeficiency;
+
+               8. severe lymphopenia with less than 400 lymphocytes/mm3;
+
+               9. treatment with any immunosuppressant drugs such as anti-cytokine therapies, and
+                  treatment with oral or intravenous steroids defined as daily doses of &gt;10 mg/day
+                  or a cumulative dose of &gt;700 mg prednisone or equivalent for other
+                  corticosteroids, or probable use of oral or intravenous steroids in the following
+                  four weeks
+
+          -  Known history of a positive Mantoux or active TB; prior BCG vaccination is NOT an
+             exclusion criterion.
+
+          -  Born in a country with high incidence of TB; a list of non-eligible countries will be
+             created by the trial steering committee prior to the first enrolment.
+
+          -  Active participation in another research study that involves BCG administration
+
+          -  History of documented COVID-19 (self-reported by the participant: either confirmed by
+             a microbiological test or with clinical diagnosis during hospitalization)
+
+          -  Not able to perform the study procedures as judged by the attending physician
+
+          -  Legally incapacitated or unwilling to provide informed consent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marc Bonten, MD, PhD.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UMC Utrecht</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mihai Netea, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Radboud University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Corine de Haas</last_name>
+    <phone>0031627200025</phone>
+    <email>C.deHaas-3@umcutrecht.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Meander Medical Center</name>
+      <address>
+        <city>Amersfoort</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eefje Jong, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Amsterdam University Medical Center</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin Grobusch, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>OLVG</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kees Brinkman, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rijnstate hospital</name>
+      <address>
+        <city>Arnhem</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert-Jan Hassing, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Amphia hospital</name>
+      <address>
+        <city>Breda</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jan Kluijtmans, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hagahospital</name>
+      <address>
+        <city>Den Haag</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kees van Nieuwkoop, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Catharina hospital</name>
+      <address>
+        <city>Eindhoven</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Heidi Ammerlaan, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zuyderland Hospital</name>
+      <address>
+        <city>Geleen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Walther Sipers, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Martini hospital</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Henk Kramer, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center Groningen</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Barbara Munster Munster, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Leiden University Medical Center</name>
+      <address>
+        <city>Leiden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frits Rosendaal, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Maastricht University Medical Center</name>
+      <address>
+        <city>Maastricht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Coen Stehouwer, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Antonius hospital</name>
+      <address>
+        <city>Nieuwegein</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hazra Moeniralam, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Canisius-Wilhelmina Hospital</name>
+      <address>
+        <city>Nijmegen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ton Dofferhoff, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Radboud University Medical Center</name>
+      <address>
+        <city>Nijmegen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jacobien Hoogerwerf, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Erasmus Medical Center</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Annelies Verbon, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ikazia Hospital</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ad Dees Dees, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Maasstad Hospital</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rob Slingerland, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bernhoven hospital</name>
+      <address>
+        <city>Uden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kitty Slieker, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center Utrecht</name>
+      <address>
+        <city>Utrecht</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jan-Jelrik Oosterheert, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 3, 2020</study_first_posted>
+  <last_update_submitted>September 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>UMC Utrecht</investigator_affiliation>
+    <investigator_full_name>MJM Bonten</investigator_full_name>
+    <investigator_title>Prof. dr.</investigator_title>
+  </responsible_party>
+  <keyword>Bacillus Calmette-Guerin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2179">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04530617</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3421</org_study_id>
+    <nct_id>NCT04530617</nct_id>
+  </id_info>
+  <brief_title>Camostat and Artemisia Annua vs Placebo in COVID-19 Outpatients</brief_title>
+  <official_title>Randomized, Double-blind, Placebo-controlled, Multicenter, Multi-arm, Phase II Trial of Novel Agents for the Treatment of Mild to Moderate COVID-19 Positive Outpatients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Instituto Nacional de Cardiologia Ignacio Chavez</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital General de Mexico</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital General Dr. Manuel Gea González</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, double-blind, placebo-controlled, multi-arm, multicenter, phase II
+      trial design to allow a rapid efficacy and toxicity assessment of potential therapies
+      (camostat mesilate and artemisia annua) immediately after COVID-19 positive testing in mild
+      to moderate disease and high-risk factors such as diabetes, hypertension, and obesity among
+      others.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronavirus Disease 2019 (COVID-19) is a highly contagious disease, caused by a novel
+      enveloped RNA beta-coronavirus, also known as severe acute respiratory syndrome coronavirus-2
+      (SARS-CoV-2). This disease has caused a global health crisis.
+
+      While the majority of patients with COVID-19 develop a mild or uncomplicated illness,
+      approximately 20-30% of hospitalized patients have required intensive care support and 5% of
+      those have multi-organ failure or shock. The case fatality rate ranges from 1 to 4% and it is
+      higher among those with pre-existing comorbid conditions (high-risk) such as cardiovascular
+      disease, diabetes mellitus, obesity, chronic respiratory disease, hypertension, and cancer.
+
+      To date, treatments for COVID-19 in high-risk individuals remain experimental and therapeutic
+      strategies to deal with the infection are at best supportive, with prevention aimed at
+      reducing transmission in the community as the best weapon. No proven therapies have been
+      demonstrated to prevent progression of COVID-19 to severe illness in confirmed outpatients
+      with COVID-19 and this is a critical unmet need for high-risk individuals and warrants study.
+      Furthermore, there are no effective medications for the use in outpatients with confirmed
+      mild to moderate COVID-19 disease.
+
+      This is a randomized, double-blind, placebo-controlled, multi-arm, multicenter, phase II
+      trial design to allow a rapid efficacy and toxicity assessment of potential therapies,
+      camostat mesilate (serine protease inhibitor) and Artemisia annua (unknown mechanism)
+      immediately after COVID-19 positive testing in mild to moderate disease and high-risk factors
+      such as diabetes, hypertension, and obesity among others. The hypothesis of this study is
+      that the addition of agents that inhibit viral entry or replication of SARS-CoV-2 virus, such
+      as Artemisia annua and camostat, will reduce the rate of a composite outcome of
+      hospitalization due to COVID-19 pneumonia or the use of oxygen therapy; will be devoid of
+      additional moderate to severe toxicities; and will improve viral clearance at Day 14 in
+      high-risk individuals. The main hypothesis is that the clinical outcomes in COVID-19 infected
+      patients at higher risk of poor outcomes following infection will be improved compared to the
+      standard of care when introduced as an early intervention after diagnosis.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A randomized, placebo-controlled, parallel, multicenter, multi-arm, phase II trial of novel agents for treatment of high-risk COVID-19 positive outpatients. Subjects who meet the inclusion/exclusion criteria and have properly signed the informed consent will be randomized to the test group or placebo group in the ratio of 1:1:1:1.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>The masking of the protocol will be maintained throughout the duration of the study. This will be done with the use of a matched placebo and a non-continuous coding (tablets in the case of camostat and tea bags/coffer for Artemisia) that has the same description and dose as the interventions so that both, the investigators and the patient does not know the treatment assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of hospitalizations and oxygen use</measure>
+    <time_frame>14 days</time_frame>
+    <description>Decrease in a composite outcome of hospitalization and supplemental oxygen use at day 14 between treatment pairs.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">360</enrollment>
+  <condition>Covid19</condition>
+  <condition>Diabetes</condition>
+  <condition>Hypertension</condition>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Camostat mesilate</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>100 mg tablet, 600 mg/day. Oral, 2 tablets three times a day, after a meal (600 mg total daily dose) Days 1-14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Camostat Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matched placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Artemisia annua</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Tea 225mg per bag,1350 mg/day. Oral, one 8 oz brewed tea (two bags) three times a day, Days 1-14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Artemisia annua Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matched placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Camostat Mesilate</intervention_name>
+    <description>Tablets</description>
+    <arm_group_label>Camostat Placebo</arm_group_label>
+    <arm_group_label>Camostat mesilate</arm_group_label>
+    <other_name>Camostat</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Artemisia Annua Leaf</intervention_name>
+    <description>Tea bags</description>
+    <arm_group_label>Artemisia annua</arm_group_label>
+    <arm_group_label>Artemisia annua Placebo</arm_group_label>
+    <other_name>Artemisia annua</other_name>
+    <other_name>Artemisia</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥18 years
+
+          -  Laboratory-confirmed SARS-CoV-2 infection within 3 days (of proposed consent) or the
+             presence of symptoms or signs providing a high probability of COVID-19 disease who
+             have symptoms within 7 days prior to diagnosis as determined by Infectious Disease
+             specialist or treating physicians.
+
+          -  Outpatients. No previous hospitalization within the past 3 months.
+
+          -  Subjects must have at least one of the following high-risk features for clinical
+             deterioration:
+
+               -  Hypertension
+
+               -  Diabetes mellitus
+
+               -  Moderate to severe Chronic Obstructive Pulmonary Disease or asthma
+
+               -  Cancer patients who have received any immunosuppressive drugs within a year from
+                  enrollment.
+
+               -  Obesity as defined by a body mass index &gt; 30 kg/m2.
+
+               -  Living in a nursing home or long-term facility
+
+               -  Underlying serious heart condition as determined by the treating physician
+
+               -  Immunocompromised subject as defined by the treating physician or by the
+                  Infectious Disease specialist
+
+               -  Ability to provide informed consent by the patient or healthcare proxy.
+
+               -  Ability to return for repeated testing and observation to the hospital.
+
+               -  Patients must have adequate organ and marrow function measured within the last 30
+                  days as defined below:
+
+          -  platelets ≥100,000
+
+          -  aspartate transaminase or alanine transaminase ≤3 times institutional upper limit of
+             normal
+
+          -  creatinine ≤ 1.5 times institutional upper limit of normal OR
+
+          -  glomerular filtration rate ≥45 mL/min/1.73 m2 unless data exists supporting safe use
+             at lower kidney function values, no lower than 30 mL/min/1.73 m2
+
+        Exclusion Criteria:
+
+          -  Severe COVID-19 is defined by one or more of the following:
+
+               -  blood oxygen saturation ≤ 90%
+
+               -  partial pressure of arterial oxygen to fraction of inspired oxygen ratio &lt; 300
+
+               -  lung infiltrates ≥ 50% within 24 to 48 hours
+
+          -  Life-threatening COVID-19 is defined as one or more of the following:
+
+               -  respiratory failure
+
+               -  septic shock
+
+               -  multiple organ dysfunction or failure
+
+          -  Weight less than 45 kg.
+
+          -  Pregnant or breast-feeding females
+
+          -  Subjects on dialysis or with creatinine clearance &lt; 45 ml/min
+
+          -  Subjects who need antiviral administration due to severe viral diseases other than
+             COVID-19, such as HIV, hepatitis B, and hepatitis C
+
+          -  Existing Division of Microbiology and Infectious Disease Toxicity Scale for
+             determining the severity of adverse events grade 3 or greater.
+
+          -  Uncontrolled seizure disorder
+
+          -  Subjects with reflux esophagitis after chronic pancreatitis and gastrectomy surgery.
+
+          -  Patients with reflux esophagitis after surgery.
+
+          -  Known allergy to Artemisia annua or camostat mesilate.
+
+          -  Currently receiving any study medications for other indications.
+
+          -  Concurrent use of medication that would cause moderate or severe due to drug-drug
+             interactions with study medication.
+
+        Specifically:
+
+          -  Patients receiving Artemisia annua tea may not be currently taking strong inducers of
+             CYP2A6, including phenobarbital and rifampin.
+
+          -  Receipt in the 12 hours prior to enrollment, or planned administration during the
+             14-day study period that treating clinicians feel cannot be substituted for another
+             medication, of any of the following: amiodarone; cimetidine; dofetilide;
+             phenobarbital; phenytoin; or sotalol.
+
+          -  Cancer patients receiving active immunosuppressive treatment cannot be enrolled unless
+             they are on a treatment holiday with no antineoplastic treatment with 3 weeks of
+             enrollment.
+
+          -  Patients with genetic problems such as galactose intolerance, Lapp lactase deficiency,
+             or glucose-galactose malabsorption
+
+          -  Subjects who have a history of drug and/or alcohol abuse within 52 weeks before
+             screening
+
+          -  Enrollment on other experimental therapies for COVID-19.
+
+          -  Inability to receive enteral medications
+
+          -  Patients with psychiatric illness/social situations that would limit compliance with
+             study requirements.
+
+          -  Subjects who have a history of drug and/or alcohol abuse within 52 weeks before
+             screening
+
+          -  Any other condition that in the opinion of the treating physician justifies exclusion
+             from the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jose G Gotes Palazuelos, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jose G Gotes Palazuelos, MD</last_name>
+    <phone>+525554870900</phone>
+    <phone_ext>8337</phone_ext>
+    <email>jose.gotesp@incmnsz.mx</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>David Kershenobich Stalnikowitz, MD</last_name>
+    <phone>+525554870900</phone>
+    <phone_ext>6109</phone_ext>
+    <email>kesdhipa@yahoo.com</email>
+  </overall_contact_backup>
+  <link>
+    <url>http://coronavirus.jhu.edu/map.html</url>
+    <description>ohns Hopkins University of Medicine Coronavirus Resource Center Map</description>
+  </link>
+  <link>
+    <url>http://www.covid19treatmentguidelines.nih.gov/</url>
+    <description>14. COVID-19 Treatment Guidelines Panel. Coronavirus Disease 2019 (COVID-19) Treatment Guidelines. National Institutes of Health.</description>
+  </link>
+  <link>
+    <url>http://www.afro.who.int/news/who-supports-scientifically-proven-traditional-medicine?gclid=Cj0KCQjwl4v4BRDaARIsAFjATPl33iRfzJnqBsVQDc6PIIoDX-getuaRtwPYEEGF_Suop-Y1tbPr7dAaAkNYEALw_wcB</url>
+    <description>WHO supports scientifically-proven traditional medicine.</description>
+  </link>
+  <reference>
+    <citation>Becker RC. COVID-19 update: Covid-19-associated coagulopathy. J Thromb Thrombolysis. 2020 Jul;50(1):54-67. doi: 10.1007/s11239-020-02134-3. Review.</citation>
+    <PMID>32415579</PMID>
+  </reference>
+  <results_reference>
+    <citation>Del Rio C, Malani PN. COVID-19-New Insights on a Rapidly Changing Epidemic. JAMA. 2020 Apr 14;323(14):1339-1340. doi: 10.1001/jama.2020.3072.</citation>
+    <PMID>32108857</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sohrabi C, Alsafi Z, O'Neill N, Khan M, Kerwan A, Al-Jabir A, Iosifidis C, Agha R. World Health Organization declares global emergency: A review of the 2019 novel coronavirus (COVID-19). Int J Surg. 2020 Apr;76:71-76. doi: 10.1016/j.ijsu.2020.02.034. Epub 2020 Feb 26. Review. Erratum in: Int J Surg. 2020 May;77:217.</citation>
+    <PMID>32112977</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng J, Song Y. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med. 2020 Jul 1;180(7):934-943. doi: 10.1001/jamainternmed.2020.0994.</citation>
+    <PMID>32167524</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Xu XW, Wu XX, Jiang XG, Xu KJ, Ying LJ, Ma CL, Li SB, Wang HY, Zhang S, Gao HN, Sheng JF, Cai HL, Qiu YQ, Li LJ. Clinical findings in a group of patients infected with the 2019 novel coronavirus (SARS-Cov-2) outside of Wuhan, China: retrospective case series. BMJ. 2020 Feb 19;368:m606. doi: 10.1136/bmj.m606. Erratum in: BMJ. 2020 Feb 27;368:m792.</citation>
+    <PMID>32075786</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Giacomelli A, Pezzati L, Conti F, Bernacchia D, Siano M, Oreni L, Rusconi S, Gervasoni C, Ridolfo AL, Rizzardini G, Antinori S, Galli M. Self-reported Olfactory and Taste Disorders in Patients With Severe Acute Respiratory Coronavirus 2 Infection: A Cross-sectional Study. Clin Infect Dis. 2020 Jul 28;71(15):889-890. doi: 10.1093/cid/ciaa330.</citation>
+    <PMID>32215618</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Garg S, Kim L, Whitaker M, O'Halloran A, Cummings C, Holstein R, Prill M, Chai SJ, Kirley PD, Alden NB, Kawasaki B, Yousey-Hindes K, Niccolai L, Anderson EJ, Openo KP, Weigel A, Monroe ML, Ryan P, Henderson J, Kim S, Como-Sabetti K, Lynfield R, Sosin D, Torres S, Muse A, Bennett NM, Billing L, Sutton M, West N, Schaffner W, Talbot HK, Aquino C, George A, Budd A, Brammer L, Langley G, Hall AJ, Fry A. Hospitalization Rates and Characteristics of Patients Hospitalized with Laboratory-Confirmed Coronavirus Disease 2019 - COVID-NET, 14 States, March 1-30, 2020. MMWR Morb Mortal Wkly Rep. 2020 Apr 17;69(15):458-464. doi: 10.15585/mmwr.mm6915e3.</citation>
+    <PMID>32298251</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ortiz-Brizuela E, Villanueva-Reza M, González-Lara MF, Tamez-Torres KM, Román-Montes CM, Díaz-Mejía BA, Pérez-García E, Olivas-Martínez A, Rajme-López S, Martinez-Guerra BA, de-León-Cividanes NA, Fernández-García OA, Guerrero-Torres L, Torres-González L, Carrera-Patiño FA, Corral-Herrera EA, Hernández-Alemón AN, Tovar-Vargas MLÁ, Serrano-Pinto YG, Espejo-Ortiz CE, Morales-Ortega ML, Lozano-Cruz ÓA, Cárdenas-Fragoso JL, Vidal-Mayo JJ, Hernández-Gilsoul T, Rivero-Sigarroa E, Domínguez-Cherit G, Cervantes-Villar LE, Ramos-Cervantes MDP, Ibarra-González V, Calva-Mercado JJ, Sierra-Madero JG, López-Íñiguez Á, Ochoa-Hein E, Crabtree-Ramírez BE, Galindo-Fraga A, Guerrero-Almeida ML, Ruiz-Palacios GM, Gulías-Herrero A, Sifuentes-Osornio J, Kershenobich-Stalnikowitz D, Ponce-de-León A. CLINICAL AND EPIDEMIOLOGICAL CHARACTERISTICS OF PATIENTS DIAGNOSED WITH COVID-19 IN A TERTIARY CARE CENTER IN MEXICO CITY: A PROSPECTIVE COHORT STUDY. Rev Invest Clin. 2020;72(3):165-177. doi: 10.24875/RIC.20000211.</citation>
+    <PMID>32584326</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bhimraj A, Morgan RL, Shumaker AH, Lavergne V, Baden L, Cheng VC, Edwards KM, Gandhi R, Muller WJ, O'Horo JC, Shoham S, Murad MH, Mustafa RA, Sultan S, Falck-Ytter Y. Infectious Diseases Society of America Guidelines on the Treatment and Management of Patients with COVID-19. Clin Infect Dis. 2020 Apr 27. pii: ciaa478. doi: 10.1093/cid/ciaa478. [Epub ahead of print]</citation>
+    <PMID>32338708</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Yamaya M, Shimotai Y, Hatachi Y, Lusamba Kalonji N, Tando Y, Kitajima Y, Matsuo K, Kubo H, Nagatomi R, Hongo S, Homma M, Nishimura H. The serine protease inhibitor camostat inhibits influenza virus replication and cytokine production in primary cultures of human tracheal epithelial cells. Pulm Pharmacol Ther. 2015 Aug;33:66-74. doi: 10.1016/j.pupt.2015.07.001. Epub 2015 Jul 10.</citation>
+    <PMID>26166259</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hoffmann M, Kleine-Weber H, Schroeder S, Krüger N, Herrler T, Erichsen S, Schiergens TS, Herrler G, Wu NH, Nitsche A, Müller MA, Drosten C, Pöhlmann S. SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor. Cell. 2020 Apr 16;181(2):271-280.e8. doi: 10.1016/j.cell.2020.02.052. Epub 2020 Mar 5.</citation>
+    <PMID>32142651</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kawase M, Shirato K, van der Hoek L, Taguchi F, Matsuyama S. Simultaneous treatment of human bronchial epithelial cells with serine and cysteine protease inhibitors prevents severe acute respiratory syndrome coronavirus entry. J Virol. 2012 Jun;86(12):6537-45. doi: 10.1128/JVI.00094-12. Epub 2012 Apr 11.</citation>
+    <PMID>22496216</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhou Y, Vedantham P, Lu K, Agudelo J, Carrion R Jr, Nunneley JW, Barnard D, Pöhlmann S, McKerrow JH, Renslo AR, Simmons G. Protease inhibitors targeting coronavirus and filovirus entry. Antiviral Res. 2015 Apr;116:76-84. doi: 10.1016/j.antiviral.2015.01.011. Epub 2015 Feb 7.</citation>
+    <PMID>25666761</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Coote K, Atherton-Watson HC, Sugar R, Young A, MacKenzie-Beevor A, Gosling M, Bhalay G, Bloomfield G, Dunstan A, Bridges RJ, Sabater JR, Abraham WM, Tully D, Pacoma R, Schumacher A, Harris J, Danahay H. Camostat attenuates airway epithelial sodium channel function in vivo through the inhibition of a channel-activating protease. J Pharmacol Exp Ther. 2009 May;329(2):764-74. doi: 10.1124/jpet.108.148155. Epub 2009 Feb 3.</citation>
+    <PMID>19190233</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rowe SM, Reeves G, Hathorne H, Solomon GM, Abbi S, Renard D, Lock R, Zhou P, Danahay H, Clancy JP, Waltz DA. Reduced sodium transport with nasal administration of the prostasin inhibitor camostat in subjects with cystic fibrosis. Chest. 2013 Jul;144(1):200-207. doi: 10.1378/chest.12-2431.</citation>
+    <PMID>23412700</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Krishna S, Bustamante L, Haynes RK, Staines HM. Artemisinins: their growing importance in medicine. Trends Pharmacol Sci. 2008 Oct;29(10):520-7. doi: 10.1016/j.tips.2008.07.004. Epub 2008 Aug 25. Review.</citation>
+    <PMID>18752857</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rosenthal PJ. Artesunate for the treatment of severe falciparum malaria. N Engl J Med. 2008 Apr 24;358(17):1829-36. doi: 10.1056/NEJMct0709050. Review.</citation>
+    <PMID>18434652</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhang X, Zhao Y, Guo L, Qiu Z, Huang L, Qu X. Differences in chemical constituents of Artemisia annua L from different geographical regions in China. PLoS One. 2017 Sep 7;12(9):e0183047. doi: 10.1371/journal.pone.0183047. eCollection 2017.</citation>
+    <PMID>28880869</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Munyangi J, Cornet-Vernet L, Idumbo M, Lu C, Lutgen P, Perronne C, Ngombe N, Bianga J, Mupenda B, Lalukala P, Mergeai G, Mumba D, Towler M, Weathers P. Artemisia annua and Artemisia afra tea infusions vs. artesunate-amodiaquine (ASAQ) in treating Plasmodium falciparum malaria in a large scale, double blind, randomized clinical trial. Phytomedicine. 2019 Apr;57:49-56. doi: 10.1016/j.phymed.2018.12.002. Epub 2018 Dec 5.</citation>
+    <PMID>30668322</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Naesens L, Bonnafous P, Agut H, De Clercq E. Antiviral activity of diverse classes of broad-acting agents and natural compounds in HHV-6-infected lymphoblasts. J Clin Virol. 2006 Dec;37 Suppl 1:S69-75.</citation>
+    <PMID>17276373</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Li SY, Chen C, Zhang HQ, Guo HY, Wang H, Wang L, Zhang X, Hua SN, Yu J, Xiao PG, Li RS, Tan X. Identification of natural compounds with antiviral activities against SARS-associated coronavirus. Antiviral Res. 2005 Jul;67(1):18-23.</citation>
+    <PMID>15885816</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang C, Xuan X, Yao W, Huang G, Jin J. Anti-profibrotic effects of artesunate on bleomycin-induced pulmonary fibrosis in Sprague Dawley rats. Mol Med Rep. 2015 Jul;12(1):1291-7. doi: 10.3892/mmr.2015.3500. Epub 2015 Mar 17.</citation>
+    <PMID>25816117</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Berry SM, Alarid ET, Beebe DJ. One-step purification of nucleic acid for gene expression analysis via Immiscible Filtration Assisted by Surface Tension (IFAST). Lab Chip. 2011 May 21;11(10):1747-53. doi: 10.1039/c1lc00004g. Epub 2011 Mar 21.</citation>
+    <PMID>21423999</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wong CK, Lam CW, Wu AK, Ip WK, Lee NL, Chan IH, Lit LC, Hui DS, Chan MH, Chung SS, Sung JJ. Plasma inflammatory cytokines and chemokines in severe acute respiratory syndrome. Clin Exp Immunol. 2004 Apr;136(1):95-103.</citation>
+    <PMID>15030519</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mahallawi WH, Khabour OF, Zhang Q, Makhdoum HM, Suliman BA. MERS-CoV infection in humans is associated with a pro-inflammatory Th1 and Th17 cytokine profile. Cytokine. 2018 Apr;104:8-13. doi: 10.1016/j.cyto.2018.01.025. Epub 2018 Feb 2.</citation>
+    <PMID>29414327</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gee JR, Saltzstein DR, Kim K, Kolesar J, Huang W, Havighurst TC, Wollmer BW, Stublaski J, Downs T, Mukhtar H, House MG, Parnes HL, Bailey HH. A Phase II Randomized, Double-blind, Presurgical Trial of Polyphenon E in Bladder Cancer Patients to Evaluate Pharmacodynamics and Bladder Tissue Biomarkers. Cancer Prev Res (Phila). 2017 May;10(5):298-307. doi: 10.1158/1940-6207.CAPR-16-0167. Epub 2017 Mar 21.</citation>
+    <PMID>28325826</PMID>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>September 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Outpatients</keyword>
+  <keyword>High-risk</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Camostat</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>All IPD results in the publication</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

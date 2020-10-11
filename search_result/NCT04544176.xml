@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="538">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04544176</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20NS031</org_study_id>
+    <nct_id>NCT04544176</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Risk From Attending Outpatient Appointments</brief_title>
+  <official_title>Determining the Risk of Developing Symptomatic COVID-19 After Attending Hospital Outpatient Clinics</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nottingham University Hospitals NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Hospital of Wales</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Nottingham University Hospitals NHS Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      By using recent data on hospital attendance and COVID-19 laboratory tests, available within
+      two NHS trusts in Nottingham and Cardiff will enable the calculation of the risk of
+      developing COVID-19 infection after attending an outpatient hospital appointment. This will
+      assist in the restart planning when resuming face to face outpatient clinics.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Since March 2020, the novel coronavirus (COVID-19) pandemic has caused considerable
+      disruption to the provision of routine healthcare in the UK. A key priority for healthcare
+      providers when gaining control of COVID-19, is to restart the provision of urgent non-COVID
+      care. There are several barriers including a reluctance for people to attend hospital
+      appointments for fears of contracting COVID-19.
+
+      The investigators will calculate the incidence of infection in approximately 18,000 patients
+      at Notingham and 16,000 patients at Cardiff and calculate the risk of infection within 28
+      days of attending outpatients appointments. Controls will use data on patients who attended
+      the hospitals in 2019.
+
+      The study team will utilize the data held in the electronic systems of NUH and University
+      Hospital of Wales to perform a cohort and cross-sectional study. The cohort study will
+      comprise both an exposed cohort and unexposed cohort.
+
+      The exposed cohort will comprise patients who attended outpatient appointments during
+      (between 1/1/2020 and 30/6/2020) and whether they subsequently developed a positive or
+      negative PCR test for Sars-CoV2 result within 28-days of their attendance. The unexposed
+      cohort will work as a control group, comprising individuals who attended outpatient
+      appointments during the equivalent period in 2019.
+
+      The team will also determine whether Covid-19 has influenced the rate of patients not
+      attending or cancelling scheduled appointments throughout the pandemic comparing the 2020 and
+      2019 data.
+
+      Using data on patients' age, gender and nature of the appointment will enable the results to
+      be recorded accordingly.
+
+      All of this data will be retrospective, so will not require any additional data collection,
+      nor will it interfere with routine clinical care. Pseudo-anonymised data will be transferred
+      from University Hospital of Wales in Cardiff to Nottingham University Hospitals (NUH) Trust
+      via a password-protected, encrypted spreadsheet, with original patient identifiers removed,
+      and a unique code assigned, that only the researcher in Cardiff can use to trace back to the
+      individual, this is so all the analysis can be performed at NUH by a Nottingham based
+      statistician.
+
+      The study team consisting of clinicians, data analysts, epidemiologist and clinical
+      researchers will analyse this information to quantify the risk of infection which will help
+      inform the recovery plans and service provision during the restart of urgent and routine
+      non-COVID care.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 1, 2020</start_date>
+  <completion_date type="Anticipated">January 1, 2021</completion_date>
+  <primary_completion_date type="Actual">June 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>A microbiological diagnosis of COVID infection.</measure>
+    <time_frame>6 months</time_frame>
+    <description>Information will be collected on patients age, gender, nature of appointment and whether patients received a positive or negative COVID-19 test.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">34000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Cohort</arm_group_label>
+    <description>This group will include patients attending outpatient appointments who will be assessed as to whether they develop COVID-19 infection, and use this to quantify the risk of COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cross-Sectional</arm_group_label>
+    <description>This group will include all patients offered outpatient appointments. The rate of patients attending, not attending or cancelling their appointment throughout the pandemic will be assessed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observational</intervention_name>
+    <description>There will be no interventions in this study, it is purely observational using data already collected.</description>
+    <arm_group_label>Cohort</arm_group_label>
+    <arm_group_label>Cross-Sectional</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All individuals attending outpatient clinics will be included for analysis, this is
+        anticipated this to be in excess of 18,000 patients at NUH and around 16,000 patients at
+        Cardiff. To ensure a substantive number of patients are included for analysis and
+        comparison across the UK, 2 large hospitals (Nottingham University Hospitals and Cardiff
+        University Hospitals) will be participating in this study.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Exposed Cohort: outpatient attendance at NUH between 01/01/2020 - 22/06/2020 or at
+        University Hospital of Wales, Cardiff between 03/02/2020 - 30/06/2020.
+
+        Unexposed Cohort: outpatient attendance outpatient attendance at NUH between 01/01/2019 -
+        22/06/2019 or at University Hospital of Wales, Cardiff between 30/03/2019 - 30/06/2019.
+
+        Cross-sectional Cohort: outpatient appointment offered at NUH between 02/01/2020 -
+        31/05/2020 or at University Hospital of Wales, Cardiff between 03/02/2020 - 30/06/2020.
+
+        Exclusion Criteria:
+
+          -  Patients &lt;16
+
+          -  Inpatient stay prior to COVID-19 test
+
+          -  Attendance in outpatients which was part of an inpatient stay
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nikos Evangelou, FRCP, DPhil (Oxon)</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Nottingham</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Nottingham University Hospitals, NHS Trust</name>
+      <address>
+        <city>Nottingham</city>
+        <state>Nottinghamshire</state>
+        <zip>NG7 2UH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 10, 2020</study_first_posted>
+  <last_update_submitted>September 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3206">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04557358</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRE-3467</org_study_id>
+    <nct_id>NCT04557358</nct_id>
+  </id_info>
+  <brief_title>Impact in the Medical Care Among the Rheumatic Diseases Patients in a Tertiary Hospital in México During the COVID-19 Pandemic</brief_title>
+  <official_title>Impact in the Medical Care Among the Rheumatic Diseases Patients in a Tertiary Hospital in México During the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Medical Sciences and Nutrition, Salvador Zubiran</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Medical Sciences and Nutrition, Salvador Zubiran</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The National Institute of Medical Sciences and Nutrition is a national reference center for
+      rheumatic diseases that belongs to The National Institutes of Health, and has Federal
+      founding. More than 8,000 patients with a wide variety of rheumatologic diagnosis receive
+      medical care.
+
+      On March 2020, the WHO announced COVID-19 outbreak a pandemic. The first case was registered
+      in Mexico on February 2020. In March 2020, the Mexican Government requested that our
+      Institution should restrict health care to exclusively COVID-19 patients; accordingly,
+      outpatient consultations were, and up to August 2020 still, hold on.
+
+      Meanwhile, when possible, the Department of Immunology and Rheumatology has implemented an
+      &quot;on-demand&quot;, non-organized patient´s health care, through email and phone contact;
+      nonetheless, and due to the middle-low socioeconomic status of most of our patients and
+      limited technical resources available at our Institution, the attempt has been challenging.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The aim objective of this project is to explore patients perception about access to medical
+      care and to medications, access to communication with their primary rheumatologist and
+      patients risk perception about COVID-19 disease, for this a survey directed (questionnaire
+      locally developed) will apply and to explore how the reintegration at the usual medical care
+      has a positive impact in the patient´s disease activity, patient´s quality of life and
+      psychopathology (depression, anxiety and posttraumatic stress).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the pattern of the usual medical care among the rheumatic disease patients</measure>
+    <time_frame>At study inclusion (The first medical consultation posterior to open the external outpatient's service, post COVID-19 pandemic)</time_frame>
+    <description>To determinate the proportion of the rheumatic disease patients affected in their usual medical care during the COVID-19 pandemic in our Institution with the COVID-19 survey (locally development)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in the patient's activity disease</measure>
+    <time_frame>In the first medical consultation posterior to open the external outpatient's service (post COVID-19 pandemic) to 6 months follow-up</time_frame>
+    <description>Change in the activity disease measured as RAPID-3 of the Rheumatic disease patients in a 6 months follow-up. The results will express with a scale 0 to 30 a &gt; number &gt; disease activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the patient's activity disease measures by their rheumatologist</measure>
+    <time_frame>In the first medical consultation posterior to open the external outpatient's service (post COVID-19 pandemic) to 6 months follow-up</time_frame>
+    <description>Change in the activity disease measured by their rheumatologist (4 questions) of the rheumatic disease patients in a 6 months follow-up. The results will express with 3 categories (without activity, low activity, moderate activity, high activity)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in patient´s quality of life</measure>
+    <time_frame>In the first medical consultation posterior to open the external outpatient's service (post COVID-19 pandemic) to 6 months follow-up</time_frame>
+    <description>Change in the quality of life measured as WHOQOL-BREF of the Rheumatic disease patients in a 6 months follow-up. The results will express with a scale 0 to 100 a &gt; number &gt; quality of life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in patient´s depression and anxiety</measure>
+    <time_frame>In the first medical consultation posterior to open the external outpatient's service (post COVID-19 pandemic) to 6 months follow-up</time_frame>
+    <description>Change in the psychopathology measured as DASS-21 instrument (depression and anxiety) of the Rheumatic disease patients in a 6 months follow-up. The results will express with a scale 0 to 8 a cut of point &gt; 8 suggests depression and stress presence, and &gt; 5 suggests anxiety presence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in patient´s posttraumatic stress</measure>
+    <time_frame>In the first medical consultation posterior to open the external outpatient's service (post COVID-19 pandemic) to 6 months follow-up</time_frame>
+    <description>Change in the psychopathology measured as IER-R (posttraumatic stress) of the Rheumatic disease patients in a 6 months follow-up. The results will express with a scale 0 to 88 a cut of point &gt; 24 would be significant</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">346</enrollment>
+  <condition>Rheumatoid Arthritis</condition>
+  <condition>Quality of Life</condition>
+  <arm_group>
+    <arm_group_label>Rheumatic diseases outpatients</arm_group_label>
+    <description>All the rheumatic diseases outpatients from the National Institute of Medical Sciences and Nutrition that will assist their usual medical care posterior of stopped it during the COVID-19 pandemic.
+In order to explore how the patient´s disease activity, patient´s quality of life, and psychopathology will change with the reintegration at medical care, randomization 200 rheumatic diseases outpatients that will respond RAPID-3 (disease activity/disease severity), WHOQOL-BREF instrument (quality of life), DASS-21 instrument (depression and anxiety), IER-R (posttraumatic stress)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19 survey</intervention_name>
+    <description>A questionnaire locally developed to explore access to medical care and to medications, access to communication with their primary rheumatologist, and patients risk perception about COVID-19 disease</description>
+    <arm_group_label>Rheumatic diseases outpatients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>RAPID-3</intervention_name>
+    <description>The instrument measures function, pain, and patient global estimate of status, with correspond to activity disease</description>
+    <arm_group_label>Rheumatic diseases outpatients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>WHOQOL-BREF</intervention_name>
+    <description>The instrument measures the patient´s quality of life (4 dimensions: physics, phycological, social, and environment)</description>
+    <arm_group_label>Rheumatic diseases outpatients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>DASS-21 instrument (depression and anxiety)</intervention_name>
+    <description>The instrument measures the presence of depression and anxiety</description>
+    <arm_group_label>Rheumatic diseases outpatients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>IER-R (posttraumatic stress)</intervention_name>
+    <description>The instrument measures the presence of posttraumatic stress</description>
+    <arm_group_label>Rheumatic diseases outpatients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All the rheumatic diseases outpatients from the National Institute of Medical Sciences and
+        Nutrition that will assist their usual medical care posterior of stopped it during the
+        COVID-19 pandemic.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with a rheumatic disease diagnosis according to their primary rheumatologist
+             who agree to participate
+
+        Exclusion Criteria:
+
+          -  Patients with a not confirmed rheumatic disease
+
+          -  Patients lost to follow-up from the outpatient for &gt; 1 year period
+
+          -  Patients with pregnancy plans
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Tlalpan</state>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Virginia Pascual, MD</last_name>
+      <phone>00525555734111</phone>
+      <email>virtichu@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Irazú Contreras, Msc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 21, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Institute of Medical Sciences and Nutrition, Salvador Zubiran</investigator_affiliation>
+    <investigator_full_name>Virginia Pascual Ramos</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rheumatic Diseases</mesh_term>
+    <mesh_term>Collagen Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

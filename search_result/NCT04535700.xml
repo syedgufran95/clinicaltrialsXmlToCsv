@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2636">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04535700</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ESCORPIO</org_study_id>
+    <nct_id>NCT04535700</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial of Pioglitazone Treatment in Patients With Type 2 Diabetes Mellitus and Covid-19</brief_title>
+  <official_title>Non-blinded, Randomized and Controlled Clinical Trial of Pioglitazone Treatment in Patients With Type 2 Diabetes Mellitus and Covid-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundacion para la Investigacion Biomedica del Hospital Universitario Ramon y Cajal</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fundacion para la Investigacion Biomedica del Hospital Universitario Ramon y Cajal</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The treatment with pioglitazone added to the standard treatment of patients with DM2
+      hospitalized for COVID-19 may produce a decrease in the number of patients who progress to a
+      second phase of severe systemic inflammation.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      According to the latest studies, the evolution of the SARS-CoV-2 (COVID-19) infection shows
+      two clinically different phases: The first phase of viral and clinical infection of viriasis
+      (fever, myalgia, etc.) affects all patients and it is resolved in asymptomatic patients or
+      with clinically moderate-mild affectations. However, towards the end of the first week of
+      illness, a not inconsiderable number of patients progress towards a second phase of rapid and
+      abrupt deterioration of their respiratory and cardiac function.
+
+      More and more data indicate an important role of overactivated macrophages, interleukin 6
+      (IL6) and an excessive inflammatory response in the genesis of this second phase of
+      aggravation. Linking with this hypothesis, the adipose tissue densely infiltrated by
+      macrophages is the source of one third of the body's IL6, its production being even greater
+      in the fat of central disposition of male distribution. All of this could explain the worse
+      prognosis observed in men, obese and with type 2 diabetes (DM2).
+
+      Regarding the possible effect of pioglitazone on the expression of ACE2, there is little
+      literature, and less evidence, about the response of this receptor to treatment with
+      pioglitazone, and what is more important, its effect on COVID-19 infection.
+
+      Two studies have analyzed the expression of this receptor after administration of
+      pioglitazone in different murine models of liver and kidney disease. The conclusions of these
+      studies were that the administration of pioglitazone in rats with hepatic steatosis increased
+      the expression of ACE2. It is known that the increased expression of ACE2 facilitates the
+      entry of SARS-CoV-2 into the cell, in animal models it has been seen that ACE2 protects
+      against the development of respiratory distress syndrome and that severe cases of COVID-19
+      and SARS 2003 have been linked to the possible inhibition of ACE2 by the virus and the
+      increase in angiotensin II.
+
+      In conclusion, it is a safe and proven drug in patients with DM2, cheap, with years of
+      clinical experience. The use of pioglitazone added to the conventional treatment of patients
+      at high risk, such as patients with COVID-19 and DM2, could be accompanied by a better
+      evolution of the patients, avoiding or mitigating the inflammatory process that already
+      occurs before its onset. seems to trigger the second accelerated phase of the disease.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 7, 2020</start_date>
+  <completion_date type="Anticipated">April 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 10, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patients treated with pioglitazone, together with conventional treatment for COVID-19 infection, who during their admission evolve towards the need to receive support with mechanical ventilation, enter the ICU and / or die.</measure>
+    <time_frame>Through hospitalization period, an average of 10-20 days until hospital discharge</time_frame>
+    <description>Number of patients receive pioglitazone treatment during their hospital stay who receive support with mechanical ventilation, enter the ICU and / or die.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of pioglitazone treatment-Emergent Adverse Events in patients with DM2 and symptomatic SARS-CoV-2 infection.</measure>
+    <time_frame>Everyday through hospitalization period, an average of 10-20 days until hospital discharge</time_frame>
+    <description>Proportion of patients who develop heart failure or adverse reaction associated with treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biomarker analysis: systemic inflammation parameters during the administration of pioglitazone treatment.</measure>
+    <time_frame>Each 48 hours through hospitalization period, an average of 10-20 days until hospital discharge</time_frame>
+    <description>Changes in this inflammation parameter: C-reactive protein (in mg/dl)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biomarker analysis: systemic inflammation parameters during the administration of pioglitazone treatment.</measure>
+    <time_frame>Each 48 hours through hospitalization period, an average of 10-20 days until hospital discharge</time_frame>
+    <description>Changes in this inflammation parameter: D-dimer (in μg/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biomarker analysis: systemic inflammation parameters during the administration of pioglitazone treatment.</measure>
+    <time_frame>Each 48 hours through hospitalization period, an average of 10-20 days until hospital discharge</time_frame>
+    <description>Changes in this inflammation parameter: ferritin (in ng/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biomarker analysis: systemic inflammation parameters during the administration of pioglitazone treatment.</measure>
+    <time_frame>Each 48 hours through hospitalization period, an average of 10-20 days until hospital discharge</time_frame>
+    <description>Changes in this inflammation parameter: creatine kinase (CK) (in mg/dL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biomarker analysis: systemic inflammation parameters during the administration of pioglitazone treatment.</measure>
+    <time_frame>Each 48 hours through hospitalization period, an average of 10-20 days until hospital discharge</time_frame>
+    <description>Changes in this inflammation parameter: number of lymphocytes (in μL)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">76</enrollment>
+  <condition>Type 2 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>pioglitazone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care treatment</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pioglitazone 30 mg</intervention_name>
+    <description>Patients receive 30 mg/day of pioglitazone for the entire period they remain in hospital</description>
+    <arm_group_label>pioglitazone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>standard of care</intervention_name>
+    <description>Patients receive the standard of care, according to the hospital protocol for patients with type 2 diabetes mellitus hospitalized.</description>
+    <arm_group_label>Standard of care treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Adult patients &gt; 18 years
+
+          2. Confirmed diagnosis of COVID-19 or high clinical suspicion according to current
+             criteria.
+
+          3. Diagnosis prior to admission of DM2.
+
+          4. Patients who provide their informed consent to participate in the study
+
+        Exclusion Criteria:
+
+          1. Under 18 years
+
+          2. Known hypersensitivity to the active ingredient or any of the drug's excipients.
+
+          3. Known history of heart failure or situation at the time of initiation of the heart
+             failure study.
+
+          4. Hepatic failure.
+
+          5. Dialysis
+
+          6. Situation of diabetic ketoacidosis at the start of the study.
+
+          7. Diabetes mellitus different from type 2.
+
+          8. Active bladder cancer or a history of bladder cancer
+
+          9. Hematuria
+
+         10. Patients included in another experimental study with another drug.
+
+         11. Admission to the Intensive Care Unit.
+
+         12. Patients requiring mechanical ventilation at the time of inclusion
+
+         13. Pregnancy
+
+         14. Lactation
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jesús Marceliano Gómez Martín, Phd</last_name>
+    <phone>+34 91336800</phone>
+    <phone_ext>8726</phone_ext>
+    <email>jesusmarceliano.gomez@salud.madrid.org</email>
+  </overall_contact>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>pioglitazone</keyword>
+  <keyword>Covid19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pioglitazone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

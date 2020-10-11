@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1083">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04535063</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RValentini</org_study_id>
+    <nct_id>NCT04535063</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma as Potential Therapy for Severe COVID-19 Pneumonia</brief_title>
+  <official_title>Convalescent Plasma as Potential Therapy for Severe COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centro de Educación Medica e Investigaciones Clínicas Norberto Quirno</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centro de Educación Medica e Investigaciones Clínicas Norberto Quirno</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determinate feasibility, safety and outcome with convalescent plasma in patients with
+      severe COVID-19 penumonia
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 convalescent plasma will be infused to patients with severe COVID-19 pneumonia to
+      determine feasibility, safety and clinical outcome efficacy by survival at-28 days. Data will
+      be compared with match control arm patients without plasma infusion
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 18, 2020</start_date>
+  <completion_date type="Anticipated">February 25, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>patients with severe COVID19 pneumonia will be recruited to a single arm therapy group with convalescent plasma from recovered patients</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>28 days survival</measure>
+    <time_frame>28 days</time_frame>
+    <description>number of subjects surviving at 28 days from plasma infusion</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>efficacy of plasma infusion according to antibodies levels in the infuse bags</measure>
+    <time_frame>28 days</time_frame>
+    <description>comparison of clinical efficacy according antibodies levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical efficacy of plasma infusion according to frame time from symptoms onset and hospitalization</measure>
+    <time_frame>28 days</time_frame>
+    <description>we will search if clinical efficacy is better when the earlier the infusion is decided</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in clinical WHO ordinal scale from 1 to 10 points</measure>
+    <time_frame>14 days</time_frame>
+    <description>WHO clinical scale is a measure of patient progression through the health-care system with 1 point asymptomatic patient and 10 patient dead</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>severe pneumonia arm</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>patients with severe COVID19 pneumonia defined by: spontaneous breathing patients with respiratory failure requiring O2 nasal cannula more than 3 L/min or reservoir oxygen mask and SaO2 less than 95% or patients with critical pneumonia define by mechanical ventilation with less than 300 mmHg PaO2/FiO2 or shock or multi-organic dysfunction</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID19 convalescent plasma infusion</intervention_name>
+    <description>intravenous infusion of 300-600 mL of convalescent plasma with an antibody title more than 3 according to chemiluminescent microparticle immunoassay (Architect Plus Abbott)</description>
+    <arm_group_label>severe pneumonia arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult patients ≥18, and non-pregnant women
+
+          -  Severe or critical COVID-19 disease define by one or more of the following: blood
+             oxygen saturation ≤ 94% on supplemental oxygen by nasal cannula at least 3 L/min,
+             non-rebreathing mask (NRO2-mask) or on noninvasive ventilation; and pulmonary
+             infiltrates with &gt;50% increase within 24 to 48 hours in chest-X-ray or chest CT.
+             Life-threatening disease was defined as one or more of the following: respiratory
+             failure on mechanical ventilation with PaO2 / FiO2 less than 300 mm Hg, septic shock,
+             and/or multiple organ dysfunction.
+
+               -  10 days from the onset of symptoms or ≤ 7 days on mechanical ventilation. -
+
+        Exclusion Criteria:
+
+          -  More than 10 days from symptoms onset or more than 7 days on mechanical ventilation
+
+          -  Pregnancy
+
+          -  Contraindication for plasma infusion because anaphylaxis history
+
+          -  Patients with high risk of circulatory overload
+
+          -  Limitation of therapeutic efforts
+
+          -  Refractory shock define by norepinephrine dose more than 1 ug/k/min
+
+          -  SOFA score more than 15 points at the moment of the protocol inclusion i Coagulopathy
+             with requirements of plasma infusion
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Centro de Educación Médica e Investigaciones Clínicas</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>1425</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ricardo Valentini, MD</last_name>
+      <phone>00541152990600</phone>
+      <phone_ext>5983</phone_ext>
+      <email>rvalentini@cemic.edu.ar</email>
+    </contact>
+    <investigator>
+      <last_name>Ricardo Valentini, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Juan Dupont, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>José Fernández Grande, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jorge Solimano, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>August 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Centro de Educación Medica e Investigaciones Clínicas Norberto Quirno</investigator_affiliation>
+    <investigator_full_name>Ricardo Valentini</investigator_full_name>
+    <investigator_title>Medical Doctor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>we will to share results to compare data with other studies with convalescent plasma infusion in COVID 19 patients after finishing our study</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

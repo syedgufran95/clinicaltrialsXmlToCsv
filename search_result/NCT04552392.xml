@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3410">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04552392</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID</org_study_id>
+    <nct_id>NCT04552392</nct_id>
+  </id_info>
+  <brief_title>Psychological Impact of Institutional Quarantine as a Precautionary Measure Against COVID-19</brief_title>
+  <official_title>Psychological Impact of Institutional Quarantine - A Cross-Sectional Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Ram Manohar Lohia Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Dr. Ram Manohar Lohia Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Quarantine separates persons who have been potentially exposed to an infectious agent (and
+      thus at risk for disease) from the general community. However, it may create psychological,
+      emotional, and financial problems for some persons. The experience of those placed under
+      quarantine in terms of compliance, difficulties, emotional response and psychological impact
+      remains under-researched. In view of the increasing cases of COVID-19 in India and the rising
+      numbers of people being quarantined as a precautionary measure, it was imperative to assess
+      those quarantined for the psychological impact of the concerns regarding this illness and the
+      quarantine procedure. In India, no such study had been undertaken and our study thus filled
+      the research gap. The cross-sectional observational study aims at assessing the psychological
+      impact of quarantine on Indian BSF jawans (n=100). They would be assessed for depression,
+      anxiety, perceived stress level of impact, and impact of life events using Beck Depression
+      Inventory, State Trait Anxiety Inventory, Perceived Stress Scale, and Impact of Events
+      Scale-Revised. A qualitative interview schedule will also be carried out. Data would be
+      analysed.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Institutional quarantine separates persons who have been potentially exposed to an infectious
+      agent (and thus at risk for disease) from the general community. This may create
+      psychological, emotional, and financial problems for some persons. The experience of those
+      placed under quarantine in terms of compliance, difficulties, emotional response and
+      psychological impact remains under-researched.
+
+      In view of the increasing cases of COVID-19 in India and the rising numbers of people being
+      quarantined as a precautionary measure, it was imperative to assess those quarantined for the
+      psychological impact of the concerns regarding this illness and the quarantine procedure. In
+      India, no such study had been undertaken and our study would thus fill the research gap.
+
+      The cross-sectional observational study is aimed at assessing the psychological impact of
+      quarantine on Indian Border Security Force (BSF) soldiers (n=100).
+
+      The participants will be assessed for depression, anxiety, perceived stress level of impact,
+      and impact of life events using Beck Depression Inventory, State Trait Anxiety Inventory,
+      Perceived Stress Scale, and Impact of Events Scale-Revised respectively. A qualitative
+      interview schedule will be carried out.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 20, 2020</start_date>
+  <completion_date type="Anticipated">October 20, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 20, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>depression</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Beck Depression Inventory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>anxiety</measure>
+    <time_frame>Baseline</time_frame>
+    <description>State Trait Anxiety Inventory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>perceived stress</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Perceived Stress Scale</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>impact of life events</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Impact of Events Scale-Revised</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Quarantine</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No intervention</intervention_name>
+    <description>No intervention</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Jawana quarantined at Border Security Force Facility as a precautionary measure for
+        COVID-19
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Indian-origin adults between the age of 18-60 yrs quarantined at border security force
+             facility
+
+          -  Both genders would be included
+
+        Exclusion Criteria:
+
+          -  Any chronic co-morbid medical condition
+
+          -  Current Diagnosis of COVID-19
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pragya Sharma, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ram Manohar Lohia Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pragya Sharma, PhD</last_name>
+    <phone>+919871490946</phone>
+    <email>drpragya.cp@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>ITBP Chawala</name>
+      <address>
+        <city>Delhi</city>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pragya Sharma, PhD</last_name>
+      <phone>+919871490946</phone>
+      <email>drpragya.cp@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>India</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 17, 2020</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Dr. Ram Manohar Lohia Hospital</investigator_affiliation>
+    <investigator_full_name>Dr Pragya Sharma</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

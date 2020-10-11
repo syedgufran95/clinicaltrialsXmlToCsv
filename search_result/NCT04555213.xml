@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="745">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04555213</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NOX66-007</org_study_id>
+    <nct_id>NCT04555213</nct_id>
+  </id_info>
+  <brief_title>A Dose Escalation and Dose Expansion Study of NOX66 in the Treatment of COVID-19</brief_title>
+  <acronym>NOXCOVID</acronym>
+  <official_title>A Dose Escalation and Dose Expansion Study of NOX66 in the Treatment of COVID-19 Infection (NOXCOVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Noxopharm Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Noxopharm Limited</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase Ib, open-label, multicenter, study of NOX66, given rectally to hospitalized patients
+      with moderate systemic illness due to COVID-19 infection at high risk of developing severe
+      sepsis / septic shock.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Part 1 Dose Escalation: 400mg, 600mg, 800mg, 1200mg &amp; 1800mg Part 2 Dose Expansion : Recommended Phase 2 Dose</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events</measure>
+    <time_frame>60 Days</time_frame>
+    <description>Routine safety monitoring during the study period</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change of National Early Warning Score 2 units from baseline</measure>
+    <time_frame>60 Days</time_frame>
+    <description>Measurement of 7 clinical parameters (respiration rate, oxygen saturation, any supplemental oxygen, temperature, systolic blood pressure, heart rate, level of consciousness) to assess overall clinical condition.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in WHO-9 point ordinal scale</measure>
+    <time_frame>60 Days</time_frame>
+    <description>Assessment of WHO-9 point ordinal scale for clinical improvement (i.e., 0 = uninfected and 8 = death) category ordinal scale of clinical status from admission.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Dose Escalation Cohort 1 - NOX66 400mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NOX66 400 mg suppository OD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dos Escalation Cohort 2 - NOX66 600mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NOX66 600 mg suppository OD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Escalation Cohort 3 - NOX66 800mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NOX66 800 mg daily (400 mg suppository BID)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Escalation Cohort 4 - NOX66 1200mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NOX66 1200 mg daily (600 mg suppository BID)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Escalation Cohort 5 - NOX66 1800mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NOX66 1800 mg daily (600 mg suppository TID)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose Expansion - NOX66 Recommended Phase 2 Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose Expansion: NOX66 RP2D</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>NOX66</intervention_name>
+    <description>NOX66 Suppository</description>
+    <arm_group_label>Dos Escalation Cohort 2 - NOX66 600mg</arm_group_label>
+    <arm_group_label>Dose Escalation Cohort 1 - NOX66 400mg</arm_group_label>
+    <arm_group_label>Dose Escalation Cohort 3 - NOX66 800mg</arm_group_label>
+    <arm_group_label>Dose Escalation Cohort 4 - NOX66 1200mg</arm_group_label>
+    <arm_group_label>Dose Escalation Cohort 5 - NOX66 1800mg</arm_group_label>
+    <arm_group_label>Dose Expansion - NOX66 Recommended Phase 2 Dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:
+
+          1. Hospitalized patient with clinically diagnosis of SARS-CoV-2 virus infection per World
+             Health Organization criteria including positive nucleic acid test of any specimen
+             (e.g., respiratory, blood, or other bodily fluid) within 2 weeks prior to
+             screening.{Other confirmatory test results will be accepted upon approval from
+             Sponsor/CRO Medical Monitor prior to enrolment}.
+
+          2. Symptoms suggestive of moderate systemic illness with COVID-19, which could include
+             any of the following symptoms: fever, cough, sore throat, malaise, headache, muscle
+             pain, gastrointestinal symptoms, or shortness of breath at rest, or respiratory
+             distress.
+
+          3. Clinical signs indicative of moderate systemic COVID-19 illness (with high risk of
+             developing severe ARDS/septic shock) with an aggregate of NEWS-2 score of 4-6 or 3 in
+             one single parameter.
+
+        Key Exclusion Criteria:
+
+        Patients who meet any of the following criteria will be disqualified from entering the
+        study:
+
+          1. Patients who require endotracheal intubation and mechanical ventilation, oxygen
+             delivered by high-flow nasal cannula (heated, humidified, oxygen delivered via
+             reinforced nasal cannula at flow rates &gt;20 L/min with fraction of delivered oxygen ≥
+             0.5), non-invasive positive pressure ventilation, ECMO, or clinical diagnosis of
+             respiratory failure.
+
+          2. Presence of any of the following abnormal laboratory values at screening: aspartate
+             aminotransferase (AST) or alanine aminotransferase (ALT) &gt;5 x upper limit of normal
+             (ULN), platelets &lt;50,000/µL.
+
+          3. Treatment with anti-IL 6, anti-IL-6R antagonists, or with Janus kinase inhibitors in
+             the past 30 days or plans to receive during the study period.
+
+          4. Current treatment with conventional synthetic disease-modifying antirheumatic drugs
+             (DMARDs)/immunosuppressive agents.
+
+          5. Use of chronic oral corticosteroids for a non-COVID-19-related condition in a dose
+             higher than prednisone 10 mg or equivalent per day.
+
+          6. History of, or current autoimmune or inflammatory systemic or localized disease(s)
+             other than rheumatoid arthritis.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gisela Mautner, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Noxopharm Limited</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gisela Mautner, MD, PhD</last_name>
+    <phone>61 2 91442223</phone>
+    <email>Gisela.Mautner@noxopharm.com</email>
+  </overall_contact>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 18, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

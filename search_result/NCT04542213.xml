@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1796">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542213</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CEI-22-2020</org_study_id>
+    <nct_id>NCT04542213</nct_id>
+  </id_info>
+  <brief_title>Dipeptidyl Peptidase-4 Inhibitor (DPP4i) for the Control of Hyperglycemia in Patients With COVID-19</brief_title>
+  <acronym>Covid19DPP4i</acronym>
+  <official_title>Effect of the Combination of Dipeptidyl Peptidase-4 Inhibitor (DPP4i) and Insulin in Comparison to Insulin on Metabolic Control and Prognosis in Hospitalized Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Regional de Alta Especialidad del Bajio</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Regional de Alta Especialidad del Bajio</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has been a world
+      health issue during the last months, affecting mostly countries with a high metabolic risk,
+      like Mexico. Patients with type 2 diabetes (T2D) have an increased risk of any kind of
+      infection as well as an increased mortality risk. Hyperglycemia has been established as an
+      important predictor of mortality in patients with T2D and SARS-CoV-2. The standard treatment
+      of hyperglycemia in hospitalized patients has been basen on insulin schemes, but recently
+      evidence suggest the utility of some other drugs, reducing the risk of hypoglucemia and
+      increasing the probability of a proper metabolic control. The goal of this study is to
+      compare the utility of dipeptidyl peptidase-4 inhibitor (DPP4i) as a combination with insulin
+      on metabolic control and prognosis in hospitalized patients with SARS-CoV-2 and
+      hyperglycemia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has been a world
+      health issue during the last months, affecting mostly countries with a high metabolic risk,
+      like Mexico. Patients with type 2 diabetes (T2D) have an increased risk of any kind of
+      infection as well as an increased mortality risk. Hyperglycemia has been established as an
+      important predictor of mortality in patients with T2D and SARS-CoV-2. The standard treatment
+      of hyperglycemia in hospitalized patients has been basen on insulin schemes, but recently
+      evidence suggest the utility of some other drugs, reducing the risk of hypoglucemia and
+      increasing the probability of a proper metabolic control. DPP4 enzyme has an ubiquitous
+      distribution and has been considered as a pro-inflammatory enzyme, considering that DPP4
+      inhibitors could have and anti-inflammatory effect, as it has been shown in different works.
+      The goal os this study is to compare the utility of DPP4 inhibitor as a combination with
+      insulin on metabolic control and prognosis in hospitalized patients with SARS-CoV-2 and
+      hyperglycemia. For this purpose we will randomize patients with SARS-CoV-2 and hyperglycemia
+      to receive either the combination of DPP4i + insulin or insulin alone and will follow al
+      algorithm treatment to define metabolic control as well as prognosis.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study will include two parallel groups of intervention</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Physicians who will be providing health support will not be aware of the treatment that patients will be receiving regarding this protocol, also the principal investigator and the personal who will be measuring glucose levels and prognosis, will not be aware of the group of treatment, since all the patients will be receiving the same protocol of insulin administration</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Glucose levels</measure>
+    <time_frame>5-10 days</time_frame>
+    <description>Glucose levels during hospitalization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of patients who achieve metabolic control</measure>
+    <time_frame>5-10 days</time_frame>
+    <description>Patients who achieve fasting glucose levels below 140 mg/dl and posprandial levels below 180 mg/dl</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients who die or need mechanical ventilation</measure>
+    <time_frame>5-10 days</time_frame>
+    <description>If the patient requires mechanical ventilation or dies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C reactive protein levels</measure>
+    <time_frame>5-10 days</time_frame>
+    <description>C reactive protein measured at basal and at 5-10 days in mg/dl</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>Hyperglycemia</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>DPP4 inhibitor + insulin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients assigned to this group of treatment will receive Linagliptin 5mg orally once daily plus a basal-bolo insulin scheme</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Insulin scheme alone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients assigned to this group will receive only a basal-bolus insulin scheme</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Linagliptin tablet</intervention_name>
+    <description>Linagliptin 5mg once daily plus a basal-bolus insulin scheme</description>
+    <arm_group_label>DPP4 inhibitor + insulin</arm_group_label>
+    <other_name>Linagliptin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Insulin</intervention_name>
+    <description>Basal-bolus insulin scheme</description>
+    <arm_group_label>Insulin scheme alone</arm_group_label>
+    <other_name>Insulin group</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Hospitalized patients with confirmed infection by SARS-CoV-2
+
+          -  Hyperglycemia higher than 140 mg/dl
+
+          -  Patients accepting oral medications
+
+          -  Both sex
+
+          -  Older than 18 years of age
+
+          -  Patients who accept to participate in the study and sign the consent form
+
+        Exclusion Criteria:
+
+          -  Type 1 diabetes
+
+          -  Pregnancy
+
+          -  Hyperosmolar hyperglycemic state or diabetic ketoacidosis
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rodolfo Guardado, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Regional de Alta Especialidad del Bajìo</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rodolfo Guardado, PhD</last_name>
+    <phone>011-52-4772692000</phone>
+    <email>guardamen@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Regional de Alta Especialidad del Bajìo</name>
+      <address>
+        <city>Leòn</city>
+        <state>Guanajuato</state>
+        <zip>37660</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rodolfo Guardado, PhD</last_name>
+      <phone>011-52-4772672000</phone>
+      <email>guardamen@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Liz Jovanna Martinez, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Miguel A Garcia, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <reference>
+    <citation>DeFronzo RA. Pathogenesis of type 2 diabetes mellitus. Med Clin North Am. 2004 Jul;88(4):787-835, ix. Review.</citation>
+    <PMID>15308380</PMID>
+  </reference>
+  <reference>
+    <citation>Levetan CS, Passaro M, Jablonski K, Kass M, Ratner RE. Unrecognized diabetes among hospitalized patients. Diabetes Care. 1998 Feb;21(2):246-9.</citation>
+    <PMID>9539990</PMID>
+  </reference>
+  <reference>
+    <citation>Umpierrez GE, Isaacs SD, Bazargan N, You X, Thaler LM, Kitabchi AE. Hyperglycemia: an independent marker of in-hospital mortality in patients with undiagnosed diabetes. J Clin Endocrinol Metab. 2002 Mar;87(3):978-82.</citation>
+    <PMID>11889147</PMID>
+  </reference>
+  <reference>
+    <citation>McAlister FA, Majumdar SR, Blitz S, Rowe BH, Romney J, Marrie TJ. The relation between hyperglycemia and outcomes in 2,471 patients admitted to the hospital with community-acquired pneumonia. Diabetes Care. 2005 Apr;28(4):810-5.</citation>
+    <PMID>15793178</PMID>
+  </reference>
+  <reference>
+    <citation>Kes VB, Solter VV, Supanc V, Demarin V. Impact of hyperglycemia on ischemic stroke mortality in diabetic and non-diabetic patients. Ann Saudi Med. 2007 Sep-Oct;27(5):352-5.</citation>
+    <PMID>17921684</PMID>
+  </reference>
+  <reference>
+    <citation>Angeli F, Verdecchia P, Karthikeyan G, Mazzotta G, Del Pinto M, Repaci S, Gatteschi C, Gentile G, Cavallini C, Reboldi G. New-onset hyperglycemia and acute coronary syndrome: a systematic overview and meta-analysis. Curr Diabetes Rev. 2010 Mar;6(2):102-10. Review.</citation>
+    <PMID>20034367</PMID>
+  </reference>
+  <reference>
+    <citation>Noordzij PG, Boersma E, Schreiner F, Kertai MD, Feringa HH, Dunkelgrun M, Bax JJ, Klein J, Poldermans D. Increased preoperative glucose levels are associated with perioperative mortality in patients undergoing noncardiac, nonvascular surgery. Eur J Endocrinol. 2007 Jan;156(1):137-42.</citation>
+    <PMID>17218737</PMID>
+  </reference>
+  <reference>
+    <citation>Pomposelli JJ, Baxter JK 3rd, Babineau TJ, Pomfret EA, Driscoll DF, Forse RA, Bistrian BR. Early postoperative glucose control predicts nosocomial infection rate in diabetic patients. JPEN J Parenter Enteral Nutr. 1998 Mar-Apr;22(2):77-81.</citation>
+    <PMID>9527963</PMID>
+  </reference>
+  <reference>
+    <citation>McDonnell ME, Umpierrez GE. Insulin therapy for the management of hyperglycemia in hospitalized patients. Endocrinol Metab Clin North Am. 2012 Mar;41(1):175-201. doi: 10.1016/j.ecl.2012.01.001. Epub 2012 Feb 17. Review.</citation>
+    <PMID>22575413</PMID>
+  </reference>
+  <reference>
+    <citation>Stentz FB, Umpierrez GE, Cuervo R, Kitabchi AE. Proinflammatory cytokines, markers of cardiovascular risks, oxidative stress, and lipid peroxidation in patients with hyperglycemic crises. Diabetes. 2004 Aug;53(8):2079-86.</citation>
+    <PMID>15277389</PMID>
+  </reference>
+  <reference>
+    <citation>Corathers SD, Falciglia M. The role of hyperglycemia in acute illness: supporting evidence and its limitations. Nutrition. 2011 Mar;27(3):276-81. doi: 10.1016/j.nut.2010.07.013. Epub 2010 Sep 24. Review.</citation>
+    <PMID>20869205</PMID>
+  </reference>
+  <reference>
+    <citation>Feng W, Zong W, Wang F, Ju S. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): a review. Mol Cancer. 2020 Jun 2;19(1):100. doi: 10.1186/s12943-020-01218-1. Review.</citation>
+    <PMID>32487159</PMID>
+  </reference>
+  <reference>
+    <citation>Hamming I, Timens W, Bulthuis ML, Lely AT, Navis G, van Goor H. Tissue distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first step in understanding SARS pathogenesis. J Pathol. 2004 Jun;203(2):631-7.</citation>
+    <PMID>15141377</PMID>
+  </reference>
+  <reference>
+    <citation>Mossel EC, Wang J, Jeffers S, Edeen KE, Wang S, Cosgrove GP, Funk CJ, Manzer R, Miura TA, Pearson LD, Holmes KV, Mason RJ. SARS-CoV replicates in primary human alveolar type II cell cultures but not in type I-like cells. Virology. 2008 Mar 1;372(1):127-35. Epub 2007 Nov 26.</citation>
+    <PMID>18022664</PMID>
+  </reference>
+  <reference>
+    <citation>Gheblawi M, Wang K, Viveiros A, Nguyen Q, Zhong JC, Turner AJ, Raizada MK, Grant MB, Oudit GY. Angiotensin-Converting Enzyme 2: SARS-CoV-2 Receptor and Regulator of the Renin-Angiotensin System: Celebrating the 20th Anniversary of the Discovery of ACE2. Circ Res. 2020 May 8;126(10):1456-1474. doi: 10.1161/CIRCRESAHA.120.317015. Epub 2020 Apr 8. Review.</citation>
+    <PMID>32264791</PMID>
+  </reference>
+  <reference>
+    <citation>Allard R, Leclerc P, Tremblay C, Tannenbaum TN. Diabetes and the severity of pandemic influenza A (H1N1) infection. Diabetes Care. 2010 Jul;33(7):1491-3. doi: 10.2337/dc09-2215.</citation>
+    <PMID>20587722</PMID>
+  </reference>
+  <reference>
+    <citation>Fadini GP, Morieri ML, Longato E, Avogaro A. Prevalence and impact of diabetes among people infected with SARS-CoV-2. J Endocrinol Invest. 2020 Jun;43(6):867-869. doi: 10.1007/s40618-020-01236-2. Epub 2020 Mar 28.</citation>
+    <PMID>32222956</PMID>
+  </reference>
+  <reference>
+    <citation>Grasselli G, Zangrillo A, Zanella A, Antonelli M, Cabrini L, Castelli A, Cereda D, Coluccello A, Foti G, Fumagalli R, Iotti G, Latronico N, Lorini L, Merler S, Natalini G, Piatti A, Ranieri MV, Scandroglio AM, Storti E, Cecconi M, Pesenti A; COVID-19 Lombardy ICU Network. Baseline Characteristics and Outcomes of 1591 Patients Infected With SARS-CoV-2 Admitted to ICUs of the Lombardy Region, Italy. JAMA. 2020 Apr 28;323(16):1574-1581. doi: 10.1001/jama.2020.5394.</citation>
+    <PMID>32250385</PMID>
+  </reference>
+  <reference>
+    <citation>Guan WJ, Liang WH, Zhao Y, Liang HR, Chen ZS, Li YM, Liu XQ, Chen RC, Tang CL, Wang T, Ou CQ, Li L, Chen PY, Sang L, Wang W, Li JF, Li CC, Ou LM, Cheng B, Xiong S, Ni ZY, Xiang J, Hu Y, Liu L, Shan H, Lei CL, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Cheng LL, Ye F, Li SY, Zheng JP, Zhang NF, Zhong NS, He JX; China Medical Treatment Expert Group for COVID-19. Comorbidity and its impact on 1590 patients with COVID-19 in China: a nationwide analysis. Eur Respir J. 2020 May 14;55(5). pii: 2000547. doi: 10.1183/13993003.00547-2020. Print 2020 May.</citation>
+    <PMID>32217650</PMID>
+  </reference>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Cariou B, Hadjadj S, Wargny M, Pichelin M, Al-Salameh A, Allix I, Amadou C, Arnault G, Baudoux F, Bauduceau B, Borot S, Bourgeon-Ghittori M, Bourron O, Boutoille D, Cazenave-Roblot F, Chaumeil C, Cosson E, Coudol S, Darmon P, Disse E, Ducet-Boiffard A, Gaborit B, Joubert M, Kerlan V, Laviolle B, Marchand L, Meyer L, Potier L, Prevost G, Riveline JP, Robert R, Saulnier PJ, Sultan A, Thébaut JF, Thivolet C, Tramunt B, Vatier C, Roussel R, Gautier JF, Gourdy P; CORONADO investigators. Phenotypic characteristics and prognosis of inpatients with COVID-19 and diabetes: the CORONADO study. Diabetologia. 2020 Aug;63(8):1500-1515. doi: 10.1007/s00125-020-05180-x. Epub 2020 May 29. Erratum in: Diabetologia. 2020 Jul 2;:.</citation>
+    <PMID>32472191</PMID>
+  </reference>
+  <reference>
+    <citation>Bellido V, Suarez L, Rodriguez MG, Sanchez C, Dieguez M, Riestra M, Casal F, Delgado E, Menendez E, Umpierrez GE. Comparison of Basal-Bolus and Premixed Insulin Regimens in Hospitalized Patients With Type 2 Diabetes. Diabetes Care. 2015 Dec;38(12):2211-6. doi: 10.2337/dc15-0160. Epub 2015 Oct 12.</citation>
+    <PMID>26459273</PMID>
+  </reference>
+  <reference>
+    <citation>Pasquel FJ, Umpierrez GE. [Management of hyperglycemia in the hospitalized patient]. Medicina (B Aires). 2010;70(3):275-83. Review. Spanish. Erratum in: Medicina (B Aires). 2010;70(4):397.</citation>
+    <PMID>20529780</PMID>
+  </reference>
+  <reference>
+    <citation>Sokos GG, Nikolaidis LA, Mankad S, Elahi D, Shannon RP. Glucagon-like peptide-1 infusion improves left ventricular ejection fraction and functional status in patients with chronic heart failure. J Card Fail. 2006 Dec;12(9):694-9.</citation>
+    <PMID>17174230</PMID>
+  </reference>
+  <reference>
+    <citation>Guardado-Mendoza R, Cázares-Sánchez D, Evia-Viscarra ML, Jiménez-Ceja LM, Durán-Pérez EG, Aguilar-García A. Linagliptin plus insulin for hyperglycemia immediately after renal transplantation: A comparative study. Diabetes Res Clin Pract. 2019 Oct;156:107864. doi: 10.1016/j.diabres.2019.107864. Epub 2019 Sep 17.</citation>
+    <PMID>31539565</PMID>
+  </reference>
+  <reference>
+    <citation>Deane AM, Chapman MJ, Fraser RJ, Burgstad CM, Besanko LK, Horowitz M. The effect of exogenous glucagon-like peptide-1 on the glycaemic response to small intestinal nutrient in the critically ill: a randomised double-blind placebo-controlled cross over study. Crit Care. 2009;13(3):R67. doi: 10.1186/cc7874. Epub 2009 May 13.</citation>
+    <PMID>19439067</PMID>
+  </reference>
+  <reference>
+    <citation>Müssig K, Oncü A, Lindauer P, Heininger A, Aebert H, Unertl K, Ziemer G, Häring HU, Holst JJ, Gallwitz B. Effects of intravenous glucagon-like peptide-1 on glucose control and hemodynamics after coronary artery bypass surgery in patients with type 2 diabetes. Am J Cardiol. 2008 Sep 1;102(5):646-7. doi: 10.1016/j.amjcard.2008.06.029. Erratum in: Am J Cardiol. 2009 Apr 1;103(7):1043.</citation>
+    <PMID>18721530</PMID>
+  </reference>
+  <reference>
+    <citation>Chakkera HA, Weil EJ, Castro J, Heilman RL, Reddy KS, Mazur MJ, Hamawi K, Mulligan DC, Moss AA, Mekeel KL, Cosio FG, Cook CB. Hyperglycemia during the immediate period after kidney transplantation. Clin J Am Soc Nephrol. 2009 Apr;4(4):853-9. doi: 10.2215/CJN.05471008. Epub 2009 Apr 1.</citation>
+    <PMID>19339426</PMID>
+  </reference>
+  <reference>
+    <citation>Broxmeyer HE, Capitano M, Campbell TB, Hangoc G, Cooper S. Modulation of Hematopoietic Chemokine Effects In Vitro and In Vivo by DPP-4/CD26. Stem Cells Dev. 2016 Apr 15;25(8):575-85. doi: 10.1089/scd.2016.0026. Epub 2016 Mar 30.</citation>
+    <PMID>26943017</PMID>
+  </reference>
+  <reference>
+    <citation>Mulvihill EE, Drucker DJ. Pharmacology, physiology, and mechanisms of action of dipeptidyl peptidase-4 inhibitors. Endocr Rev. 2014 Dec;35(6):992-1019. doi: 10.1210/er.2014-1035. Epub 2014 Sep 12. Review.</citation>
+    <PMID>25216328</PMID>
+  </reference>
+  <reference>
+    <citation>Defronzo RA. Banting Lecture. From the triumvirate to the ominous octet: a new paradigm for the treatment of type 2 diabetes mellitus. Diabetes. 2009 Apr;58(4):773-95. doi: 10.2337/db09-9028.</citation>
+    <PMID>19336687</PMID>
+  </reference>
+  <reference>
+    <citation>Guardado-Mendoza R, Salazar-López SS, Álvarez-Canales M, Farfán-Vázquez D, Martínez-López YE, Jiménez-Ceja LM, Suárez-Pérez EL, Angulo-Romero F, Evia-Viscarra ML, Montes de Oca-Loyola ML, Durán-Pérez EG, Folli F, Aguilar-García A. The combination of linagliptin, metformin and lifestyle modification to prevent type 2 diabetes (PRELLIM). A randomized clinical trial. Metabolism. 2020 Mar;104:154054. doi: 10.1016/j.metabol.2019.154054. Epub 2019 Dec 28.</citation>
+    <PMID>31887309</PMID>
+  </reference>
+  <reference>
+    <citation>Meyerholz DK, Lambertz AM, McCray PB Jr. Dipeptidyl Peptidase 4 Distribution in the Human Respiratory Tract: Implications for the Middle East Respiratory Syndrome. Am J Pathol. 2016 Jan;186(1):78-86. doi: 10.1016/j.ajpath.2015.09.014. Epub 2015 Nov 18.</citation>
+    <PMID>26597880</PMID>
+  </reference>
+  <reference>
+    <citation>Ploquin MJ, Casrouge A, Madec Y, Noël N, Jacquelin B, Huot N, Duffy D, Jochems SP, Micci L, Lécuroux C, Boufassa F, Booiman T, Garcia-Tellez T, Ghislain M, Grand RL, Lambotte O, Kootstra N, Meyer L, Goujard C, Paiardini M, Albert ML, Müller-Trutwin M. Systemic DPP4 activity is reduced during primary HIV-1 infection and is associated with intestinal RORC(+) CD4(+) cell levels: a surrogate marker candidate of HIV-induced intestinal damage. J Int AIDS Soc. 2018 Jul;21(7):e25144. doi: 10.1002/jia2.25144.</citation>
+    <PMID>29987877</PMID>
+  </reference>
+  <reference>
+    <citation>Seys LJM, Widagdo W, Verhamme FM, Kleinjan A, Janssens W, Joos GF, Bracke KR, Haagmans BL, Brusselle GG. DPP4, the Middle East Respiratory Syndrome Coronavirus Receptor, is Upregulated in Lungs of Smokers and Chronic Obstructive Pulmonary Disease Patients. Clin Infect Dis. 2018 Jan 6;66(1):45-53. doi: 10.1093/cid/cix741.</citation>
+    <PMID>29020176</PMID>
+  </reference>
+  <reference>
+    <citation>Thomas L, Eckhardt M, Langkopf E, Tadayyon M, Himmelsbach F, Mark M. (R)-8-(3-amino-piperidin-1-yl)-7-but-2-ynyl-3-methyl-1-(4-methyl-quinazolin-2-ylm ethyl)-3,7-dihydro-purine-2,6-dione (BI 1356), a novel xanthine-based dipeptidyl peptidase 4 inhibitor, has a superior potency and longer duration of action compared with other dipeptidyl peptidase-4 inhibitors. J Pharmacol Exp Ther. 2008 Apr;325(1):175-82. doi: 10.1124/jpet.107.135723. Epub 2008 Jan 25.</citation>
+    <PMID>18223196</PMID>
+  </reference>
+  <reference>
+    <citation>He YL, Wang Y, Bullock JM, Deacon CF, Holst JJ, Dunning BE, Ligueros-Saylan M, Foley JE. Pharmacodynamics of vildagliptin in patients with type 2 diabetes during OGTT. J Clin Pharmacol. 2007 May;47(5):633-41.</citation>
+    <PMID>17442688</PMID>
+  </reference>
+  <reference>
+    <citation>Heise T, Graefe-Mody EU, Hüttner S, Ring A, Trommeshauser D, Dugi KA. Pharmacokinetics, pharmacodynamics and tolerability of multiple oral doses of linagliptin, a dipeptidyl peptidase-4 inhibitor in male type 2 diabetes patients. Diabetes Obes Metab. 2009 Aug;11(8):786-94. doi: 10.1111/j.1463-1326.2009.01046.x. Epub 2009 May 19.</citation>
+    <PMID>19476474</PMID>
+  </reference>
+  <reference>
+    <citation>Bergman AJ, Stevens C, Zhou Y, Yi B, Laethem M, De Smet M, Snyder K, Hilliard D, Tanaka W, Zeng W, Tanen M, Wang AQ, Chen L, Winchell G, Davies MJ, Ramael S, Wagner JA, Herman GA. Pharmacokinetic and pharmacodynamic properties of multiple oral doses of sitagliptin, a dipeptidyl peptidase-IV inhibitor: a double-blind, randomized, placebo-controlled study in healthy male volunteers. Clin Ther. 2006 Jan;28(1):55-72.</citation>
+    <PMID>16490580</PMID>
+  </reference>
+  <reference>
+    <citation>Kim D, Wang L, Beconi M, Eiermann GJ, Fisher MH, He H, Hickey GJ, Kowalchick JE, Leiting B, Lyons K, Marsilio F, McCann ME, Patel RA, Petrov A, Scapin G, Patel SB, Roy RS, Wu JK, Wyvratt MJ, Zhang BB, Zhu L, Thornberry NA, Weber AE. (2R)-4-oxo-4-[3-(trifluoromethyl)-5,6-dihydro[1,2,4]triazolo[4,3-a]pyrazin-7(8H)- yl]-1-(2,4,5-trifluorophenyl)butan-2-amine: a potent, orally active dipeptidyl peptidase IV inhibitor for the treatment of type 2 diabetes. J Med Chem. 2005 Jan 13;48(1):141-51.</citation>
+    <PMID>15634008</PMID>
+  </reference>
+  <reference>
+    <citation>Craddy P, Palin HJ, Johnson KI. Comparative effectiveness of dipeptidylpeptidase-4 inhibitors in type 2 diabetes: a systematic review and mixed treatment comparison. Diabetes Ther. 2014 Jun;5(1):1-41. doi: 10.1007/s13300-014-0061-3. Epub 2014 Mar 25.</citation>
+    <PMID>24664619</PMID>
+  </reference>
+  <reference>
+    <citation>Del Prato S, Taskinen MR, Owens DR, von Eynatten M, Emser A, Gong Y, Chiavetta S, Patel S, Woerle HJ. Efficacy and safety of linagliptin in subjects with type 2 diabetes mellitus and poor glycemic control: pooled analysis of data from three placebo-controlled phase III trials. J Diabetes Complications. 2013 May-Jun;27(3):274-9. doi: 10.1016/j.jdiacomp.2012.11.008. Epub 2013 Feb 9.</citation>
+    <PMID>23403068</PMID>
+  </reference>
+  <reference>
+    <citation>Karagiannis T, Paschos P, Paletas K, Matthews DR, Tsapas A. Dipeptidyl peptidase-4 inhibitors for treatment of type 2 diabetes mellitus in the clinical setting: systematic review and meta-analysis. BMJ. 2012 Mar 12;344:e1369. doi: 10.1136/bmj.e1369.</citation>
+    <PMID>22411919</PMID>
+  </reference>
+  <reference>
+    <citation>O'Brien P, O'Connor BF. Seprase: an overview of an important matrix serine protease. Biochim Biophys Acta. 2008 Sep;1784(9):1130-45. doi: 10.1016/j.bbapap.2008.01.006. Epub 2008 Jan 26. Review.</citation>
+    <PMID>18262497</PMID>
+  </reference>
+  <reference>
+    <citation>Deacon CF. Dipeptidyl peptidase-4 inhibitors in the treatment of type 2 diabetes: a comparative review. Diabetes Obes Metab. 2011 Jan;13(1):7-18. doi: 10.1111/j.1463-1326.2010.01306.x. Review.</citation>
+    <PMID>21114598</PMID>
+  </reference>
+  <reference>
+    <citation>Gross JL, Rogers J, Polhamus D, Gillespie W, Friedrich C, Gong Y, Monz BU, Patel S, Staab A, Retlich S. A novel model-based meta-analysis to indirectly estimate the comparative efficacy of two medications: an example using DPP-4 inhibitors, sitagliptin and linagliptin, in treatment of type 2 diabetes mellitus. BMJ Open. 2013 Mar 5;3(3). pii: e001844. doi: 10.1136/bmjopen-2012-001844.</citation>
+    <PMID>23468467</PMID>
+  </reference>
+  <reference>
+    <citation>Egan AG, Blind E, Dunder K, de Graeff PA, Hummer BT, Bourcier T, Rosebraugh C. Pancreatic safety of incretin-based drugs--FDA and EMA assessment. N Engl J Med. 2014 Feb 27;370(9):794-7. doi: 10.1056/NEJMp1314078. Erratum in: N Engl J Med. 2014 Jun 5;370(23):2253.</citation>
+    <PMID>24571751</PMID>
+  </reference>
+  <reference>
+    <citation>McGuire DK, Alexander JH, Johansen OE, Perkovic V, Rosenstock J, Cooper ME, Wanner C, Kahn SE, Toto RD, Zinman B, Baanstra D, Pfarr E, Schnaidt S, Meinicke T, George JT, von Eynatten M, Marx N; CARMELINA Investigators. Linagliptin Effects on Heart Failure and Related Outcomes in Individuals With Type 2 Diabetes Mellitus at High Cardiovascular and Renal Risk in CARMELINA. Circulation. 2019 Jan 15;139(3):351-361. doi: 10.1161/CIRCULATIONAHA.118.038352.</citation>
+    <PMID>30586723</PMID>
+  </reference>
+  <reference>
+    <citation>Rosenstock J, Perkovic V, Johansen OE, Cooper ME, Kahn SE, Marx N, Alexander JH, Pencina M, Toto RD, Wanner C, Zinman B, Woerle HJ, Baanstra D, Pfarr E, Schnaidt S, Meinicke T, George JT, von Eynatten M, McGuire DK; CARMELINA Investigators. Effect of Linagliptin vs Placebo on Major Cardiovascular Events in Adults With Type 2 Diabetes and High Cardiovascular and Renal Risk: The CARMELINA Randomized Clinical Trial. JAMA. 2019 Jan 1;321(1):69-79. doi: 10.1001/jama.2018.18269.</citation>
+    <PMID>30418475</PMID>
+  </reference>
+  <reference>
+    <citation>Raj VS, Mou H, Smits SL, Dekkers DH, Müller MA, Dijkman R, Muth D, Demmers JA, Zaki A, Fouchier RA, Thiel V, Drosten C, Rottier PJ, Osterhaus AD, Bosch BJ, Haagmans BL. Dipeptidyl peptidase 4 is a functional receptor for the emerging human coronavirus-EMC. Nature. 2013 Mar 14;495(7440):251-4. doi: 10.1038/nature12005.</citation>
+    <PMID>23486063</PMID>
+  </reference>
+  <reference>
+    <citation>Cockrell AS, Peck KM, Yount BL, Agnihothram SS, Scobey T, Curnes NR, Baric RS, Heise MT. Mouse dipeptidyl peptidase 4 is not a functional receptor for Middle East respiratory syndrome coronavirus infection. J Virol. 2014 May;88(9):5195-9. doi: 10.1128/JVI.03764-13. Epub 2014 Feb 26.</citation>
+    <PMID>24574399</PMID>
+  </reference>
+  <reference>
+    <citation>Kleine-Weber H, Schroeder S, Krüger N, Prokscha A, Naim HY, Müller MA, Drosten C, Pöhlmann S, Hoffmann M. Polymorphisms in dipeptidyl peptidase 4 reduce host cell entry of Middle East respiratory syndrome coronavirus. Emerg Microbes Infect. 2020 Jan 21;9(1):155-168. doi: 10.1080/22221751.2020.1713705. eCollection 2020.</citation>
+    <PMID>31964246</PMID>
+  </reference>
+  <reference>
+    <citation>Li K, Wohlford-Lenane C, Perlman S, Zhao J, Jewell AK, Reznikov LR, Gibson-Corley KN, Meyerholz DK, McCray PB Jr. Middle East Respiratory Syndrome Coronavirus Causes Multiple Organ Damage and Lethal Disease in Mice Transgenic for Human Dipeptidyl Peptidase 4. J Infect Dis. 2016 Mar 1;213(5):712-22. doi: 10.1093/infdis/jiv499. Epub 2015 Oct 20.</citation>
+    <PMID>26486634</PMID>
+  </reference>
+  <reference>
+    <citation>Peck KM, Cockrell AS, Yount BL, Scobey T, Baric RS, Heise MT. Glycosylation of mouse DPP4 plays a role in inhibiting Middle East respiratory syndrome coronavirus infection. J Virol. 2015 Apr;89(8):4696-9. doi: 10.1128/JVI.03445-14. Epub 2015 Feb 4.</citation>
+    <PMID>25653445</PMID>
+  </reference>
+  <reference>
+    <citation>Vankadari N, Wilce JA. Emerging WuHan (COVID-19) coronavirus: glycan shield and structure prediction of spike glycoprotein and its interaction with human CD26. Emerg Microbes Infect. 2020 Mar 17;9(1):601-604. doi: 10.1080/22221751.2020.1739565. eCollection 2020.</citation>
+    <PMID>32178593</PMID>
+  </reference>
+  <reference>
+    <citation>Bassendine MF, Bridge SH, McCaughan GW, Gorrell MD. COVID-19 and comorbidities: A role for dipeptidyl peptidase 4 (DPP4) in disease severity? J Diabetes. 2020 Sep;12(9):649-658. doi: 10.1111/1753-0407.13052. Epub 2020 May 27. Review.</citation>
+    <PMID>32394639</PMID>
+  </reference>
+  <reference>
+    <citation>Kawasaki T, Chen W, Htwe YM, Tatsumi K, Dudek SM. DPP4 inhibition by sitagliptin attenuates LPS-induced lung injury in mice. Am J Physiol Lung Cell Mol Physiol. 2018 Nov 1;315(5):L834-L845. doi: 10.1152/ajplung.00031.2018. Epub 2018 Sep 6.</citation>
+    <PMID>30188745</PMID>
+  </reference>
+  <reference>
+    <citation>Soare A, Györfi HA, Matei AE, Dees C, Rauber S, Wohlfahrt T, Chen CW, Ludolph I, Horch RE, Bäuerle T, von Hörsten S, Mihai C, Distler O, Ramming A, Schett G, Distler JHW. Dipeptidylpeptidase 4 as a Marker of Activated Fibroblasts and a Potential Target for the Treatment of Fibrosis in Systemic Sclerosis. Arthritis Rheumatol. 2020 Jan;72(1):137-149. doi: 10.1002/art.41058.</citation>
+    <PMID>31350829</PMID>
+  </reference>
+  <reference>
+    <citation>Beraldo JI, Benetti A, Borges-Júnior FA, Arruda-Junior DF, Martins FL, Jensen L, Dariolli R, Shimizu MH, Seguro AC, Luchi WM, Girardi ACC. Cardioprotection Conferred by Sitagliptin Is Associated with Reduced Cardiac Angiotensin II/Angiotensin-(1-7) Balance in Experimental Chronic Kidney Disease. Int J Mol Sci. 2019 Apr 20;20(8). pii: E1940. doi: 10.3390/ijms20081940.</citation>
+    <PMID>31010001</PMID>
+  </reference>
+  <reference>
+    <citation>Kagal UA, Angadi NB, Matule SM. Effect of dipeptidyl peptidase 4 inhibitors on acute and subacute models of inflammation in male Wistar rats: An experimental study. Int J Appl Basic Med Res. 2017 Jan-Mar;7(1):26-31. doi: 10.4103/2229-516X.198516.</citation>
+    <PMID>28251104</PMID>
+  </reference>
+  <reference>
+    <citation>Fadini GP, Morieri ML, Longato E, Bonora BM, Pinelli S, Selmin E, Voltan G, Falaguasta D, Tresso S, Costantini G, Sparacino G, Di Camillo B, Tramontan L, Cattelan AM, Vianello A, Fioretto P, Vettor R, Avogaro A. Exposure to dipeptidyl-peptidase-4 inhibitors and COVID-19 among people with type 2 diabetes: A case-control study. Diabetes Obes Metab. 2020 May 28. doi: 10.1111/dom.14097. [Epub ahead of print]</citation>
+    <PMID>32463179</PMID>
+  </reference>
+  <reference>
+    <citation>Pasquel FJ, Gianchandani R, Rubin DJ, Dungan KM, Anzola I, Gomez PC, Peng L, Hodish I, Bodnar T, Wesorick D, Balakrishnan V, Osei K, Umpierrez GE. Efficacy of sitagliptin for the hospital management of general medicine and surgery patients with type 2 diabetes (Sita-Hospital): a multicentre, prospective, open-label, non-inferiority randomised trial. Lancet Diabetes Endocrinol. 2017 Feb;5(2):125-133. doi: 10.1016/S2213-8587(16)30402-8. Epub 2016 Dec 8. Erratum in: Lancet Diabetes Endocrinol. 2017 Feb;5(2):e1. Lancet Diabetes Endocrinol. 2017 May;5(5):e3.</citation>
+    <PMID>27964837</PMID>
+  </reference>
+  <reference>
+    <citation>Umpierrez GE, Gianchandani R, Smiley D, Jacobs S, Wesorick DH, Newton C, Farrokhi F, Peng L, Reyes D, Lathkar-Pradhan S, Pasquel F. Safety and efficacy of sitagliptin therapy for the inpatient management of general medicine and surgery patients with type 2 diabetes: a pilot, randomized, controlled study. Diabetes Care. 2013 Nov;36(11):3430-5. doi: 10.2337/dc13-0277. Epub 2013 Jul 22.</citation>
+    <PMID>23877988</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Regional de Alta Especialidad del Bajio</investigator_affiliation>
+    <investigator_full_name>Rodolfo Guardado Mendoza</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hyperglycemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Insulin</mesh_term>
+    <mesh_term>Insulin, Globin Zinc</mesh_term>
+    <mesh_term>Linagliptin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Sharing of the data can be done, depending on the requested purposes</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Data will be available once the main results of the study are published, and in accordance with the journal</ipd_time_frame>
+    <ipd_access_criteria>Direct contact with the principal investigator</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 1, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/13/NCT04542213/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

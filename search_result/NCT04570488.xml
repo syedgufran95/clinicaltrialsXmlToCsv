@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2090">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04570488</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PAU COVID19 RCT</org_study_id>
+    <nct_id>NCT04570488</nct_id>
+  </id_info>
+  <brief_title>Predicting Favorable Outcomes in Hospitalized Covid-19 Patients</brief_title>
+  <official_title>Predicting Favorable Outcomes in Hospitalized Covid-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Testing use of predictive analytics to predict which COVID-19+ patients are at low risk for
+      an adverse event (ICU transfer, intubation, mortality, hospice discharge, re-presentation to
+      the ED, oxygen requirements exceeding nasal cannula at 6L/Min) in the next 96 hours
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To assess if display of low risk of adverse event in EPIC can safely reduce length of stay
+      and plan for discharge.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 15, 2020</start_date>
+  <completion_date type="Anticipated">May 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Display of risk score/ colored flag in Epic patient list column vs. no display (&quot;missing&quot;); will be viewable to all frontline workers</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Participant and data analyst(s) are blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reduction in days from first low-risk score to discharge</measure>
+    <time_frame>96 Hours</time_frame>
+    <description>Reduction in days from first low-risk score to discharge</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in length of stay (LOS)</measure>
+    <time_frame>96 hours</time_frame>
+    <description>Reduction in LOS for green patients that have not been in the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in GTD vs. LOS</measure>
+    <time_frame>96 hours</time_frame>
+    <description>Reduction in GTD vs. LOS for all green patients discharged alive vs all patients discharged alive</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>No change in 30 day re-ED presentation or hospital admission rate for cohort</measure>
+    <time_frame>96 hours</time_frame>
+    <description>No change in 30 day re-ED presentation or hospital admission rate for cohort</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Re-presentation to ED</measure>
+    <time_frame>96 hours</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Readmission to hospital</measure>
+    <time_frame>96 hours</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mortality</measure>
+    <time_frame>96 hours</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Postdischarge mortality</measure>
+    <time_frame>96 hours</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">12000</enrollment>
+  <condition>COVID</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>Adverse Event</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Display of risk score/ colored flag in Epic patient list column; will be viewable to all frontline workers</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No display (&quot;hidden&quot;) of risk score/ colored flag in Epic patient list column; not viewable to all frontline workers</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>EPIC risk score display</intervention_name>
+    <description>Display of risk score/ colored flag in Epic patient list column</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Adult hospitalized COVID19+ patients predicted to have no adverse event
+        at 96 events with a threshold at 90% PPV, with at least one low risk during their admission
+        who are discharged alive and have not been in the ICU -
+
+        Exclusion Criteria: Age &lt; 18 years not hospitalized for COVID19+.
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan Austrian, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ashley Bagheri, MS</last_name>
+    <phone>6465012560</phone>
+    <email>ashley.bagheri@nyulangone.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Austrian, MD</last_name>
+      <phone>212-263-7300</phone>
+      <email>Jonathan.Austrian@nyulangone.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

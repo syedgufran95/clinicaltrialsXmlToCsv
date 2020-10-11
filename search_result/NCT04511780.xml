@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2164">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04511780</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Local/2020/JYL-03</org_study_id>
+    <nct_id>NCT04511780</nct_id>
+  </id_info>
+  <brief_title>Psychological Impact of COVID-19 Outbreak on Caregivers</brief_title>
+  <acronym>PSY-CO-ICU</acronym>
+  <official_title>Psychological Impact of COVID-19 Outbreak on Caregivers Involved in Intensive Care Unit Patient Management: Impact on the Occurrence of Post-traumatic Stress Disorder, Anxiety, Depression and Burn Out Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Nīmes</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Nīmes</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Based on the experience of previous pandemics, countries reacted by applying different
+      upgrade strategies to prevent or delay the widespread of the disease. Therefore, measures
+      such as border closure, school closure, restrict social gathering (even shutdown of
+      workplaces), limit population movements, and confinement meaning quarantines at the scale of
+      cities or regions. In public hospitals, several measures have been decided to concentrate the
+      power of care on potential wave of admissions of patients with severe forms of Covid-19. In
+      this purpose, the number of available beds in Intensive Care Units (ICU) has been increased
+      by two-fold and scheduled non-emergency surgical procedure have been cancelled. That means:
+
+        1. For the most severe patients, new personals (physician such as anesthesiologists, nurses
+           of other units) have been transferred in ICUs.
+
+        2. For the less severe patients, personals of non-busy units have been transferred in
+           busier ones.
+
+      All these measures lead to major daily-life change sets that could be stressful. In the
+      general population, it has been well documented that quarantine or confinement or isolation
+      could lead to the occurrence of Post-Traumatic Stress Disorder (PTSD) syndrome in about 30%
+      overall population. Importantly, high depressive symptoms have been reported in 9% of
+      hospital staff. Numerous symptoms have been reported after quarantine or isolation such as
+      emotional disturbance, depression, stress, low mood, irritability, insomnia, and
+      post-traumatic stress symptoms.
+
+      In hospital setting, few studies have been performed for assessing the psychological impact
+      of quarantine and isolation. However, two studies reported a high prevalence of burn-out
+      syndrome (BOS) in ICU physician and PTSD syndrome and depression in ICU nurses. As the
+      consequences of all the measures decided and applied during Covid-19 pandemic could be
+      important on caregivers, the present study primarily aims at assessing the prevalence of PTSD
+      syndrome in a large population of caregivers implied or not in Intensive Care Units. The
+      secondary objective were 1) to assess the prevalence of severe depression and anxiety and BOS
+      2) to isolate potential factors associated with PTSD, severe depression, anxiety or BOS.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Post-Traumatic Stress Disorder</measure>
+    <time_frame>3-6 month after the Covid-19 outbreak</time_frame>
+    <description>PCL - 5 (Post-Traumatic Stress Disorder Checklist Scale, version DSM-5)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>anxiety and depression</measure>
+    <time_frame>3-6 month after the Covid-19 outbreak</time_frame>
+    <description>HADS scale (Hospital Anxiety and Depression Scale)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Burn out</measure>
+    <time_frame>3-6 month after the Covid-19 outbreak</time_frame>
+    <description>Score MBI (Burn out syndrome)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Critical Illness</condition>
+  <condition>Covid19</condition>
+  <condition>Stress Disorders, Post-Traumatic</condition>
+  <arm_group>
+    <arm_group_label>Caregivers</arm_group_label>
+    <description>• Caregivers (doctors senior and junior, nurses, aid nurses) involved in the staff (permanent or transient, full or partial time) of ICU patients during Covid-19 outbreak</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>questionnaire filling</intervention_name>
+    <description>assessment of post-traumatic stress, anxiety and burn out</description>
+    <arm_group_label>Caregivers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Caregivers (doctors senior and junior, nurses, aid nurses) involved in the staff (permanent
+        or transient, full or partial time) of ICU patients during Covid-19 outbreak
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Caregivers (doctors senior and junior, nurses, aid nurses) involved in the staff
+             (permanent or transient, full or partial time) of ICU patients during Covid-19
+             outbreak
+
+          -  Approved to participate
+
+        Exclusion Criteria:
+
+          -  Participation refusal
+
+          -  No internet connection for responding to the questionnaire with REDCAP file
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean Yves LEFRANT</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU de Nîmes</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jean Yves LEFRANT</last_name>
+    <phone>+33466683331</phone>
+    <email>jean.yves.lefrant@chu-nimes.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Intensive Care Unit, CHU d'Amiens</name>
+      <address>
+        <city>Amiens</city>
+        <zip>80054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yazine MAHJOUB</last_name>
+      <email>yazine.mahjoub@chu-amiens.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Hervé DUPONT</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive Care Unit, CHU d'Angers</name>
+      <address>
+        <city>Angers</city>
+        <zip>49933</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sigismond LASOCKI</last_name>
+      <email>sigismond.lasocki@chu-angers.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Besançon</name>
+      <address>
+        <city>Besançon</city>
+        <zip>25030</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sébastien PILI-FLOURY</last_name>
+      <email>spilifloury@chu-besancon.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Gael PITON</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Guillaume BESCH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Emmanuel SAMAIN</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Bordeaux, Hôpital Pellegrin</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Matthieu BIAIS</last_name>
+      <email>matthieu.biais@chu-bordeaux.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive care Unit CHU de Brest Hôpital Cavale Blanche</name>
+      <address>
+        <city>Brest</city>
+        <zip>29609</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier HUET</last_name>
+      <email>olivier.huet@chu-brest.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Caen</name>
+      <address>
+        <city>Caen</city>
+        <zip>14033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mar Olivier FISCHER</last_name>
+      <email>marcolivierfischer@yahoo.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Clermont Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <zip>63003</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean Etienne BAZIN</last_name>
+      <email>jebazin@chu-clermontferrand.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Emmanuel FUTIER</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP, Hôpital Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier LANGERON</last_name>
+      <email>olivier.langeron@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Nicolas MONGARDON</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de dijon</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21079</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Belaid BOUHEMAD</last_name>
+      <email>belaid.bouhemad@chu-dijon.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Grenoble, Hôpital Michalon</name>
+      <address>
+        <city>La Tronche</city>
+        <zip>38700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean François PAYEN</last_name>
+      <email>jfpayen@ujf-grenoble.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AP_HP, Hôpital du Kremlin Bicêtre</name>
+      <address>
+        <city>Le Kremlin-Bicêtre</city>
+        <zip>94275</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jacques DURANTEAU</last_name>
+      <email>jacques.duranteau@bct.aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive Care Unit, CHRU de Lille</name>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eric PIKNIS</last_name>
+      <email>eric.kipnis@chru-lille.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive Care Unit, CHU de Limoges</name>
+      <address>
+        <city>Limoges</city>
+        <zip>87042</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nathalie NATHAN-DENIZOT</last_name>
+      <email>nathalie.nathan@unilim.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux civils de Lyon, Hôpital de la Croix Rousse</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69317</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Frédéric AUBRUN</last_name>
+      <email>frederic.aubrun@chu-lyon.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux civils de Lyon, Hôpital Louis Pradel</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69394</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean Luc FELLAHI</last_name>
+      <email>jean-luc.fellahi@chu-lyon.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux civils de Lyon, Hôpital Edouard Herriot</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69437</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Thomas RIMMELE</last_name>
+      <email>Thomas.rimmele@chu-lyon.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HM, Hôpital Nord</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13005</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marc LEONE</last_name>
+      <email>marc.leone@ap-hm.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HM, Hôpital Timone adultes, Intensive Care Unit</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13005</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lionel VELLY</last_name>
+      <email>lionel.velly@ap-hm.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HM, Hôpital Timone adultes, Neurotraumatology</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nicolas BRUDER</last_name>
+      <email>nicolas.bruder@ap-hm.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HM, Hôpital e la Conception</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13385</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jacques ALBANESE</last_name>
+      <email>jacques.albanese@ap-hm.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Montpellier, Hôpital Guy de chauliac</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pierre François PERRIGAULT</last_name>
+      <email>pf-perrigault@chu-montpellier.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Gérald CHANQUES</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Montpellier, Hôpital Lapeyronie</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Xavier CAPDEVILA</last_name>
+      <email>x-capdevila@chu-montpellier.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Montpellier, Hôpital St Eloi SAR B</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Géralde CHANQUES</last_name>
+      <email>g-chanques@chu-montpellier.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU De Montpellier, Hôpital St Eloi-DAR B</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Audrey DE JONG</last_name>
+      <email>a-de_jong@chu-montpellier.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU De Montpellier, Hôpital St Eloi</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Samir JABER</last_name>
+      <email>s-jaber@chu-montpellier.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive Care Unit, CHU de Mulhouse</name>
+      <address>
+        <city>Mulhouse</city>
+        <zip>68051</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Guylaine LABRO</last_name>
+      <email>guylainelabro@hotmail.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive CAre Unit CHRU de Nancy, Hôpital Central</name>
+      <address>
+        <city>Nancy</city>
+        <zip>54000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Gérard AUDIBERT</last_name>
+      <email>g.audibert@chru-nancy.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive Care Unit, CHU de Nantes, Hôtel Dieu</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Antoine ROQUILLY</last_name>
+      <email>Antoine.ROQUILLY@chu-nantes.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive Care Unit, CHU de Nantes</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Karim ASEHNOUNE</last_name>
+      <email>karim.asehnoune@chu-nantes.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Nice</name>
+      <address>
+        <city>Nice</city>
+        <zip>06000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>ICHAI Carole</last_name>
+      <email>ichai@unice.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive care Unit CHU Nîmes</name>
+      <address>
+        <city>Nîmes</city>
+        <zip>30029</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean Yves LEFRANT</last_name>
+      <phone>+33466683331</phone>
+      <email>jean.yves.lefrant@chu-nimes.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP, Hôpital de la Pitié</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean Michel CONSTANTIN</last_name>
+      <email>jean-michel.constantin@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP, Hôpital Bichât</name>
+      <address>
+        <city>Paris</city>
+        <zip>75018</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Philippe MONTRAVERS</last_name>
+      <email>philippe.montravers@bch.aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Aurélie GOUEL</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP, Hôpital Lariboisière</name>
+      <address>
+        <city>Paris</city>
+        <zip>75475</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Etienne GAYAT</last_name>
+      <email>etienne.gayat@aphp.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Matthieu LE DORZE</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AP6HP, Hôpital St Loui</name>
+      <address>
+        <city>Paris</city>
+        <zip>75475</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Benoit PLAUD</last_name>
+      <email>benoit.plaud@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AP_HP, Hôpital G Pompidou</name>
+      <address>
+        <city>Paris</city>
+        <zip>75908</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bernard CHOLLEY</last_name>
+      <email>bernard.cholley@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP, Hôpital St Antoine</name>
+      <address>
+        <city>Paris</city>
+        <zip>75970</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>marc GARNIER</last_name>
+      <email>marcgarnier@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Perpignan</name>
+      <address>
+        <city>Perpignan</city>
+        <zip>66046</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier BARBOT</last_name>
+      <email>olivier.barbot@ch-perpignan.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Bordeaux, Hôpital Haut Leveque</name>
+      <address>
+        <city>Pessac</city>
+        <zip>33604</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier JOANNES BOYAU</last_name>
+      <email>olivier.joannes.boyau@chu-bordeaux.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Alexandre OUATTARA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive care Unit, Hôpitaux civils de Lyon, Lyon Sud</name>
+      <address>
+        <city>Pierre-Bénite</city>
+        <zip>69310</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bernard ALLAOUCHICHE</last_name>
+      <email>bernard.allaouchiche@univ-lyon1.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Poitiers</name>
+      <address>
+        <city>Poitiers</city>
+        <zip>86021</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Claire DAHYOT FIZELIER</last_name>
+      <email>claire.dahyot-fizelier@chu-poitiers.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Rémy BELLIER</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nathan FERRAND</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Thomas KERFORNE</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Corentin LACROIX</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive care Unit CHU de Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Philippe SEGUIN</last_name>
+      <email>philippe.seguin@chu-rennes.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Claude ECOFFEY</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rouen</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76031</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Benoit VEBER</last_name>
+      <email>Benoit.Veber@chu-rouen.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive Care Unit, CHU de Nantes, Hôpital Laennec</name>
+      <address>
+        <city>Saint-Herblain</city>
+        <zip>44800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Karim LAKHAL</last_name>
+      <email>Lakhal_karim@yahoo.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de St Etienne, Hôpital Nord</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <zip>42055</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jérôme MOREL</last_name>
+      <email>jerome.morel@chu-st-etienne.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intesive Care Unit CHRU de Strasbourg, Hôpital civil</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Intesive Care Unit CHRU de Strasbourg, Hôpital Hautepierre</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67098</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Julien POTTECHER</last_name>
+      <email>julien.pottecher@chru-strasbourg.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Toulouse</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olivier FOURCADE</last_name>
+      <email>fourcade.o@chu-toulouse.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive care unit CHU de Tours</name>
+      <address>
+        <city>Tours</city>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Francis REMERAND</last_name>
+      <email>f.remerand@chu-tours.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Marc LAFFON</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Intensive CAre Unit CHRU de Nancy, Hôpital de Brabois</name>
+      <address>
+        <city>Vandœuvre-lès-Nancy</city>
+        <zip>54511</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marie reine LOSSER</last_name>
+      <email>mr.losser@chru-nancy.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Philippe GUERCI</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Vesoul</name>
+      <address>
+        <city>Vesoul</city>
+        <zip>70014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bérangère VIVET</last_name>
+      <email>bvivet@hotmail.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 13, 2020</study_first_posted>
+  <last_update_submitted>August 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 13, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Critical Illness</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

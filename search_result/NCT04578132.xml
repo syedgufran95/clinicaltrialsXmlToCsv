@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1448">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04578132</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SOG-INM-2020-04</org_study_id>
+    <nct_id>NCT04578132</nct_id>
+  </id_info>
+  <brief_title>Description of the Population With Genitourinary Tumors and COVID-19</brief_title>
+  <acronym>SOGUGCOVID</acronym>
+  <official_title>Observational Retrospective-prospective Study in Patients With Genitourinary Tumors Presenting COVID-19 Infection (SOGUG-COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Spanish Oncology Genito-Urinary Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Spanish Oncology Genito-Urinary Group</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The identification of patients with genitourinary tumors who suffer from the infection by the
+      Serious Acute Respiratory Syndrome Corona-Virus 2 (SARS-CoV-2) virus can represent multiple
+      benefits both for themselves and for health professionals and the health system itself. We
+      would be able to know more precisely the clinical evolution of these type of patient, to know
+      their prognosis and being capable to select the most appropriate treatment modality for
+      future pandemics.
+
+      SOGUG-COVID is an observational prospective-retrospective trial purely epidemiological, that
+      aims to describe the population with genitourinary tumors (urothelial cancer, prostate
+      cancer, testicular cancer and kidney cancer) infected by COrona VIrus Disease 19 (COVID-19)
+      treated in Spanish hospitals, learn about the clinical presentation, therapeutic evolution
+      and prognosis of said intercurrent infectious process, as well as its possible relationship
+      with different clinical and therapeutic factors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will be carried out in Spanish hospitals, with principal investigators belonging to
+      the medical oncology services of the SOGUG group (Spanish Group of Genitourinary Oncology),
+      who will act as promoter. Once the patients have been selected, the variables of interest
+      will be collected and studied. The main variables to record will be:
+
+        1. Patient characteristics
+
+        2. Hospital center where the patient is recruited
+
+        3. Pathological history:
+
+           Concomitant pathology Usual drug treatment
+
+        4. Tumor pathology:
+
+           Tumor type, histology, and stage (initial and at diagnosis of infection) Cancer
+           diagnosis date Active cancer treatment or follow-up Participation in clinical trial Type
+           of treatment most recently received for the infection (Surgery; Radiotherapy;
+           Chemotherapy, Immunotherapy ...) Treatment lines, initiation and last dose received of
+           the most recent most recent cancer treatment
+
+        5. COVID-19 infection:
+
+           Confirmation date of COVID-19 infection PCR (Polymerase Chain Reaction) diagnostic test
+           Immunoglobulin G (IgG) or Immunoglobulin M (IgM) serological diagnostic test Present
+           symptoms, analytical alterations, thrombosis associated with COVID-19 infection,
+           complications of infection Date of onset and disappearance of symptoms Days of fever and
+           cough Radiological examination at the time of greatest severity Treatments received for
+           COVID-19 Status upon discharge Date of discharge / exitus Negative presence of virus by
+           PCR and PCR date
+
+        6. For patients who are receiving or have received immunotherapy treatments, additional
+           information will be collected:
+
+           Immunotherapy treatment line and type Start / end date and last dose previous infection
+           of the treatment with immunotherapy Adverse effects
+
+        7. Prospective follow-up data (6 months from patient inclusion):
+
+      Date of start or restart of cancer treatment after infection Change / suspension of cancer
+      treatment after COVID-19 Date of surgery in neoadjuvant patients Recurrence of COVID-19 Best
+      response obtained Date of progression to cancer treatment Current status and date of last
+      contact The study will use the data obtained from the patient's medical history, with no
+      plans to use other sources.
+
+      The assignment of a patient to a specific therapeutic strategy has already been decided in
+      advance by the usual clinical practice of medicine; The decision to prescribe a specific
+      treatment is clearly dissociated from the decision to include a patient in the study. No
+      intervention will be applied to patients, whether diagnostic or follow-up, that is not the
+      usual clinical practice. Epidemiological methods will be used to analyze the collected data.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 30, 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Baseline characteristics</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>Describe the population infected by COVID-19 with genitourinary tumors (urothelial cancer, prostate cancer, testicular cancer and kidney cancer) treated in Spanish hospitals, know the clinical presentation: Age, gender, cancer type. Categorical variables will be presented as counts and percentages.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of complications of COVID-19 intercurrent infection</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>Percentage of patients with complications associated to COVID-19 infection (classified by type and severity)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of complications of COVID-19 infection in patients stratified by oncological treatment</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>To assess the possible relationship of the different oncological treatments administered to these patients with the clinical evolution of the COVID-19 infection. Complications will be classified by type and severity in groups of patients stratified by the oncological treatment received.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of adverse events related to immunotherapy targeted to cancer (classified by type and severity)</measure>
+    <time_frame>Through study completion, average 1 year. Measured at 3 scenarios (during treatment, after treatment and therapies indicated after infection has passed)</time_frame>
+    <description>To specifically assess the impact of COVID-19 infection on the toxicity of immunotherapy treatment (mainly pneumonitis) and the impact of immunotherapy on the evolution of the infectious picture in patients with tumors of genitourinary origin. three different scenarios: during treatment, after treatment and in patients who receive treatment after the infection has passed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of complications of COVID-19 infection in patients with prostate cancer stratified by anti-androgenic oncological treatment</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>To evaluate in patients with Prostate Cancer (PCa) the impact of androgen deprivation therapy (ADT) and new antiandrogenic agents (NAH) with or without corticosteroids on the infection COVID-19 as mean of frequency in complications of COVID-19 infection classified by type and severity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 mortality rate in patients with genitourinary cancer</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>To assess the mortality associated with COVID-19 infection in the population with genitourinary tumors. Percentage of patients alive / dead at discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 complication rate in patients with genitourinary cancer</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>Evaluate the rate (percentage) of complications that have required hospital admission and / or ICU treatment. Complications will be classified by type and severity and represented as percentage of patients presenting them.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Asymptomatic rate</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>Describe the frequency of asymptomatic or minimally symptomatic COVID-19 infections.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of delays/modifications on cancer treatment schedule</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>delays / modifications in cancer follow-up or treatment regimens. The average delay time and the number of modifications will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression free survival in patients with genitourinary tumors that suffered COVID-19</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>It is expected to obtain data on time to progression and overall survival of cancer patients, which can be compared with the reference values for each type of tumor pathology</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival in patients with genitourinary tumors that suffered COVID-19</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>It is expected to obtain data on time to progression and overall survival of cancer patients, which can be compared with the reference values for each type of tumor pathology</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Covid19</condition>
+  <condition>Genito Urinary Cancer</condition>
+  <arm_group>
+    <arm_group_label>Genitourinary cancer patients that suffered COVID-19</arm_group_label>
+    <description>Patients diagnosed with genitourinary cancer (urothelial, kidney, prostate and germ) that suffered from COVID-19 infection prior to cancer treatment, during treatment, or after treatment.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients diagnosed with genitourinary cancer (urothelial, kidney, prostate and germ) that
+        suffered COVID-19 infection prior to cancer treatment, during treatment, or after
+        treatment.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients ≥18 years old.
+
+          -  Diagnosed with genitourinary cancer (urothelial, kidney, prostate and germ).
+
+          -  COVID-19 infection prior to cancer treatment, during treatment, or after treatment.
+
+          -  The COVID-19 infection must be confirmed by PCR or serology, regardless of whether or
+             not the patient requires hospitalization for the infection, additionally, a clinical
+             and / or radiological determination must be available in those patients who present
+             symptoms.
+
+        Exclusion Criteria:
+
+          -  Not applicable
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Miguel Ángel Climent, M.D., Ph.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Instituto Valenciano de Oncología</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Javier Puente, M.D., Ph.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Clínico San Carlos de Madrid</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Aránzazu González del Alba, M.D., Ph.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Universitario Puerta de Hierro-Majadahonda</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sergio Vázquez Estevez, M.D., Ph.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Universitario Lucus Augusti</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Natalia Vidal, M.D., Ph.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Clínico San Carlos de Madrid</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Institut Català d'Oncologia L'Hospitalet</name>
+      <address>
+        <city>Hospitalet de Llobregat</city>
+        <state>Barcelona</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Althaia</name>
+      <address>
+        <city>Manresa</city>
+        <state>Barcelona</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Parc Taulí</name>
+      <address>
+        <city>Sabadell</city>
+        <state>Barcelona</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Puerta de Hierro-Majadahonda</name>
+      <address>
+        <city>Majadahonda</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Badajoz</name>
+      <address>
+        <city>Badajoz</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Mar</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Vall d Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Burgos</name>
+      <address>
+        <city>Burgos</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Ciudad Real</name>
+      <address>
+        <city>Ciudad Real</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Reina Sofía</name>
+      <address>
+        <city>Córdoba</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Catalán de Oncología- Girona</name>
+      <address>
+        <city>Girona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Lucus Augusti</name>
+      <address>
+        <city>Lugo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fundación Jiménez Díaz</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital 12 de Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico San Carlos de Madrid</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Infanta Leonor,</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Gregorio Marañón</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario HM Sanchinarro</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Princesa</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Quironsalud</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramón y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario Universitario Ourense</name>
+      <address>
+        <city>Orense</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universidad de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Virgen Macarena</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Nuestra Señora del Prado</name>
+      <address>
+        <city>Talavera De La Reina</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Virgen de la Salud</name>
+      <address>
+        <city>Toledo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Dr. Peset</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Valenciano de Oncología</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Txagorritxu</name>
+      <address>
+        <city>Vitoria</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Miguel Servet</name>
+      <address>
+        <city>Zaragoza</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 7, 2020</study_first_posted>
+  <last_update_submitted>October 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Urothelial cancer</keyword>
+  <keyword>prostate cancer</keyword>
+  <keyword>Germ line cancer</keyword>
+  <keyword>Kidney cancer</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Urogenital Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

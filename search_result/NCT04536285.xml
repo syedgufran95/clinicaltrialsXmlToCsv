@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1327">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04536285</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FMASU P59/2020</org_study_id>
+    <nct_id>NCT04536285</nct_id>
+  </id_info>
+  <brief_title>Hospitalized Children and Adolescent Patients With Type 1 Diabetes During the COVID-19 Pandemic in Egypt</brief_title>
+  <official_title>Clinical Characteristics and Outcome of Hospitalized Children and Adolescent Patients With Type 1 Diabetes During the COVID-19 Pandemic: Data From a Single Center Surveillance Study in Egypt</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ain Shams University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ain Shams University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Although reports showed that children with well controlled diabetes do not appear to have
+      increased risk of infection with SARS-CoV-2, however data are scarce regarding the extent to
+      which clinical and demographic data of patient could modify the outcome and severity of the
+      disease. Additionally, the link between covid-19 and diabetes remains controversial.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Data from poorly controlled patients with type 1 diabetes remains controversial regarding
+      whether diabetes itself could increases the susceptibility of infection with SARS-CoV-2 and
+      subsequently impacts the outcomes in these patients , or the SARS-CoV-2 subsequently affects
+      the risk of type 1 diabetes and increase in the prevalence of severe DKA.
+
+      Poorly controlled diabetes and chronic hyperglycemia creates a state of low grade chronic
+      inflammation, which may explain the underlying mechanism of increased susceptibility to
+      infection and infer the outcome in patients with diabetes .
+
+      Poorly controlled diabetes has been linked to multiple derangements of immune system
+      including inhibition of lymphocyte proliferation in response to different stimuli, as well as
+      impaired monocyte/macrophage function together with increased synthesis of pro-inflammatory
+      cytokines and adhesion molecules that mediate tissue inflammation .
+
+      Few data links the association between development of diabetic ketoacidosis in patients with
+      COVID-19, where the infection could trigger higher stressful conditions, with the release of
+      stress hormones leading to increased blood glucose levels and abnormal glucose variability .
+
+      The extent to which clinical and demographic data of patients with type 1 diabetes modifies
+      the outcome and severity of the disease seems entirely unclear and is the question of several
+      researches.
+
+      • Study Tools:
+
+      All patients admitted to Pediatrics Hospital, Ain Shams University in the period between May
+      to August 2020 will be subjected to:
+
+      1- Detailed history 2. Thorough clinical examination: To assess the inclusion and exclusion
+      criteria. A thorough clinical review to assess organ involvements and clinical and laboratory
+      characteristics as well as the outcome measures in the studied cohort.
+
+      3. Data collection: Demographic and data will be extracted from patients inpatient files and
+      reports
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Actual">August 31, 2020</completion_date>
+  <primary_completion_date type="Actual">August 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical characteristic of pediatric and adolescent patients with type 1 diabetes hospitalized with COVID -19.</measure>
+    <time_frame>4 months</time_frame>
+    <description>complications and comorbidities associated with diabetes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Laboratory characteristic of pediatric and adolescent patients with type 1 diabetes hospitalized with COVID -19.</measure>
+    <time_frame>4 months</time_frame>
+    <description>Acute phase reactants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prognosis of pediatric and adolescent patients with type 1 diabetes hospitalized with COVID -19.</measure>
+    <time_frame>4 month</time_frame>
+    <description>Intensive care admission</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of new onset type 1 diabetes among confirmed cases of Covid-19 infection among children and adolescents</measure>
+    <time_frame>4 months</time_frame>
+    <description>Incidence of new onset type 1 diabetes among confirmed cases of Covid-19 infection among children and adolescents</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presentation of diabetes and its acute complications among pediatric and adolescent patients with type 1 diabetes during COVID-19 Pandemic in Egypt</measure>
+    <time_frame>4 month</time_frame>
+    <description>Impact of Covid-19 pandemic on presentation of diabetes and its acute complications among pediatric and adolescent patients with type 1 diabetes</description>
+  </secondary_outcome>
+  <enrollment type="Actual">36</enrollment>
+  <condition>Type 1 Diabetes</condition>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All diabetic patients admitted to Pediatrics Hospital, Ain Shams University in the period
+        between May to August 2020.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients with type 1 diabetes admitted to Pediatrics Hospital, Ain Shams
+             University in the period between May to July 2020.
+
+          -  Age: less than 18 years old.
+
+        Exclusion Criteria:
+
+        • Children with other forms of diabetes, including: type 2, monogenic forms and secondary
+        diabetes
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yasmine Elhenawy</last_name>
+    <role>Study Director</role>
+    <affiliation>Ain Shams University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Pediatrics and Adolescents Diabetes Unit (PADU), Pediatrics Hospital, Faculty of Medicine, Ain Shams University</name>
+      <address>
+        <city>Cairo</city>
+        <zip>11765</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ain Shams University</investigator_affiliation>
+    <investigator_full_name>Eman Monir Sherif</investigator_full_name>
+    <investigator_title>Professor of Pediatrics</investigator_title>
+  </responsible_party>
+  <keyword>Type 1 Diabetes</keyword>
+  <keyword>Covid 19</keyword>
+  <keyword>Diabetic ketoacidosis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

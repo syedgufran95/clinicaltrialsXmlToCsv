@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1405">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04505605</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LPSARS2</org_study_id>
+    <nct_id>NCT04505605</nct_id>
+  </id_info>
+  <brief_title>Study of a Possible Respiratory Degradation Prognosis Caused by Biomarkers in Severe Forms of COVID-19 Pneumonia</brief_title>
+  <acronym>LPSARS2</acronym>
+  <official_title>Study of a Possible Respiratory Degradation Prognosis Caused by Biomarkers in Severe Forms of COVID-19 Pneumonia: the LPSARS2 Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Groupe Hospitalier Paris Saint Joseph</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centre Hospitalier Victor Dupouy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Groupe Hospitalier Paris Saint Joseph</source>
+  <brief_summary>
+    <textblock>
+      Respiratory infection with the SARS-CoV2 virus is associated with a major risk of viral
+      pneumonia that can lead to respiratory distress requiring resuscitation. In the most severe
+      forms, it may require a mechanical ventilation or even lead to an acute respiratory distress
+      syndrome with a particularly poor prognosis. The SARS-CoV2 is a single-stranded RNA virus of
+      positive polarity and belongs to the beta genus of Coronaviruses. SARS-CoV2 is responsible
+      for the third epidemic in less than twenty years secondary to a Coronavirus (SARS-CoV then
+      MERS-CoV) and if the mortality associated with it is lower than that of previous strains,
+      particularly MERS-CoV (Middle East Respiratory Syndrome), its spread is considerably bigger.
+      As a result, the number of patients developing respiratory distress that require an invasive
+      mechanical ventilation is high, with prolonged ventilation duration in these situations.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The mechanisms responsible for alveolar damage during viral pathologies, particularly
+      Coronavirus, are very similar to those observed during acute respiratory distress syndromes
+      in adults. Macrophages present in the pulmonary parenchyma appear to play a central role in
+      the severity of the inflammatory response and the production of proinflammatory mediators,
+      notably chemokines leading to secondary leukocyte infiltration. The recent monocytic origin
+      could explain the particular severity of this inflammatory response whose usual control is no
+      longer assured. The alteration of infectious control by alveolar macrophages during ageing
+      also tends to confirm the central role of these cells in the pattern of respiratory distress
+      observed during COVID-19 infection, which is particularly severe in the elderly.
+
+      In many situations, the endotoxin (or lipopolysaccharide, LPS) plays a major role in the
+      pathophysiology and even the severity of respiratory damage, in particular, due to the
+      existence of circulating endotoxin from the pathogenic agent responsible (Gram-negative
+      bacteria), but also due to translocation of digestive origin in the context of sepsis
+      (systemic inflammatory response) which is associated with (if not responsible for)
+      respiratory aggression. Such an alteration of the mucous membrane is particularly noticeable
+      in cases of obesity. The importance of this mechanism during pulmonary aggression of viral
+      origin is, on the other hand, unknown.
+
+      Few data are available on the prediction of early onset of respiratory distress syndrome in
+      low respiratory infection in the absence of mechanical ventilation.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 14, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluation of the dosage of biomarkers</measure>
+    <time_frame>6 months = study duration</time_frame>
+    <description>The study aims at evaluating the interests of the biomarkers dosage: endotoxin (LPS) and circulating cytokines (HMGB1 or RAGE) in the prediction of respiratory degradation through a severe form of COVID-19 acquired pneumonia that requires a hospitalization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Link between the biomarkers</measure>
+    <time_frame>6 months = study duration</time_frame>
+    <description>The study will be also focusing on the search for a correlation between the biomarkers by blood samples that will be taken on each hospitalized patients.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Community-acquired Pneumonia</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Patient hospitalized without being transferred in the ICU</arm_group_label>
+    <description>A blood sample on a dry tube with 5 ml separating gel in addition to the blood test made on the basis of the usual medical care, will be taken on D1 (day of the enrollment = the day of hospitalization in the healthcare institution). The total volume of blood collected as part of the research is therefore 5 ml.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patient directly hospitalized in the ICU</arm_group_label>
+    <description>A blood sample on a dry tube with a 5 ml separating gel in addition to the blood test made on the basis of the usual medical care, will be taken on D1 and D3 of the admission to intensive care. The total volume of blood collected for research is therefore 10 ml.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patient transferred from an other hospital service to the ICU</arm_group_label>
+    <description>A blood sample on a dry tube with 5 ml separating gel in addition to the blood test that will be taken at D1 and D3 of the patient's admission to the intensive care unit, even if it has already been included in the study during the patient's admission to the unit (D1 hospitalization). The total volume of blood collected for the research is therefore 15 ml.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Blood samples</intervention_name>
+    <description>A blood sample will be collected on a dry tube with 5mL separating gel on each enrolled patients. Those will be made depending on the patients hospitalization.</description>
+    <arm_group_label>Patient directly hospitalized in the ICU</arm_group_label>
+    <arm_group_label>Patient hospitalized without being transferred in the ICU</arm_group_label>
+    <arm_group_label>Patient transferred from an other hospital service to the ICU</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples on a dry tube with 5mL separating gel are collected, depending on patient
+      hospitalization procedure.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient aged from 18 years, infected by the COVID-19 and suffers from a severe form of
+        COVID 19 acquired pneumonia that requires an hospitalization.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient aged from 18 years old
+
+          -  French-speaking patient
+
+          -  Patient whose COVID-19 respiratory infection was confirmed by laboratory tests (either
+             by a PCR and any other commercial or public health tests) or a scanner, that requires
+             a hospitalization in a healthcare institution.
+
+        Exclusion Criteria:
+
+          -  Patient/ relative or proxy person opposed to the study participation
+
+          -  Patient under guardianship or curators
+
+          -  Patient deprived of liberty
+
+          -  Patient under the safeguard of justice.
+
+          -  Dying / Moribund patient
+
+          -  Pregnant or breastfeeding woman
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Paris Saint-Joseph</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile De France</state>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 10, 2020</study_first_posted>
+  <last_update_submitted>August 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>pneumonia</keyword>
+  <keyword>community acquired pneumonia</keyword>
+  <keyword>biomarkers</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

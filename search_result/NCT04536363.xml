@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="246">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04536363</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CEIS-2020-089</org_study_id>
+    <nct_id>NCT04536363</nct_id>
+  </id_info>
+  <brief_title>Cri Analog PG1 Effectiveness and Safety in Covid-19</brief_title>
+  <acronym>PGE1-COVID19</acronym>
+  <official_title>Effectiveness and Safety of the Administration of Intravenous Prostaglandin E1 Analog in the Reduction of Mortality and Complications of Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alonso Vera Torres</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fundación Santa Fe de Bogota</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Clinical trial aim to evaluate the effectiveness and safety of the administration of the
+      intravenous prostaglandin E1 analog in the reduction of mortality and complications of
+      patients with COVID-19 diagnosis. Therefore the investigators propose an open randomized
+      clinical trial in the Fundación Santa Fe de Bogota
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 is a public health problem that has spread throughout the world and has forced
+      different scientific societies to consider effective measures to control the increasing
+      spread of the disease. This disease is presumed to follow a virologic pattern similar to
+      SARS-CoV-1 (Severe acute respiratory syndrome coronavirus 1) . The disease spectrum includes
+      asymptomatic stage and pre-symptomatic , mild infection uncomplicated, mild and severe
+      pneumonia and the acute Respiratory distress syndrome (ARDS) constituting the point of no
+      return characterized by ventilatory mechanics preserved with severe refractory hypoxemia. The
+      pulmonary involvement of patients with COVID-19 causes an endothelial injury, which can be
+      associated with changes in vascular permeability, manifesting as thrombotic, venous and
+      arterial disease in patients with COVID-19. Alprostadil, a prostaglandin E1 analog that has a
+      vasodilator mechanism, inhibitory property of platelet aggregation and inducer of
+      bronchodilation, promises to prevent complications of SARS-CoV2. In addition to that
+      Alprostadil has been used in other clinical trials as treatment for the acute respiratory
+      distress syndrome caused by Influenza, in which it showed no harm or benefit, nonetheless the
+      pathophysiology of the acute distress respiratory syndrome caused by Influenza and COVID-19
+      are similar in macroscopic changes but very different in microscopic changes which is why it
+      is important to evaluate the effectiveness and safety of the administration of intravenous
+      prostaglandin E1 analog in the reduction of mortality and complications of patients with
+      COVID-19 diagnosis. Therefore the investigators propose an open randomized clinical trial,
+      where patients in the intensive care unit of the Fundación Santa Fe de Bogotá are randomized
+      into two groups, where one is going to be treated with standardized treatment after the
+      guidelines recommendations of the Colombian Infectology Society and the other one is going to
+      receive the same standardized treatment and Alprostadil infusion for a maximum of 7 days.
+      During the infusion of the Alprostadil the patient will be carefully monitored by the
+      intensive care unit team. After the Infusion the patient will be followed up for 30 days in
+      which the mortality and hypoxemia resolution will be monitored.
+
+      Key words: COVID-19, Prostaglandin E1 Analogue, Alprostadil, Mortality, Acute respiratory
+      distress syndrome
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2020</start_date>
+  <completion_date type="Anticipated">March 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Study type: Open randomized clinical trial. Study phase: Phase II Design: Experimental in parallel Two management groups Intermediate analysis will be carried out when completing 20%, 40%, 60% and 80% of the planned sample. All adjusted statistical analysis will be carried out conditionally, predicting the effect of the stratification of the randomization process.
+The statistical analysis will be carried out in accordance with the principle of &quot;intention to treat&quot;</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>There are no masking techniques in assigning treatment to patients, as this is an open study. Nor is any procedure for urgently opening emergency codes applicable. The statistical analysis will be carried out without the epidemiologist in charge knowing or being able to identify the group of origin of the patients (control / intervention). To guarantee this, the data of the patients will be reported to the epidemiologist without any identification data and through a code whose sole knowledge at the time of delivery will be the responsibility of the principal investigator. Interim comparisons and analysis will be carried out for mortality and adverse events in the following follow-up stages according to the number of patients achieved: 20%, 40%, 60%, 80% and final.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>6 month</time_frame>
+    <description>Death during or at the end of the intervention</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hypoxemia Resolution</measure>
+    <time_frame>6 month</time_frame>
+    <description>Sat O2&gt; 90% to the environment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days from admission to intensive care unit and administration of ANALOG PGE1</measure>
+    <time_frame>6 month</time_frame>
+    <description>Number of days from admission to intensive care unit until administration of ANALOG PGE1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU stay</measure>
+    <time_frame>6 month</time_frame>
+    <description>Specify number of days of ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days with high flow oxygen</measure>
+    <time_frame>6 month</time_frame>
+    <description>Record days that the patient has received oxygen through a high flow system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of invasive mechanical ventilation prior to administration of PGE1 ANALOG</measure>
+    <time_frame>6 month</time_frame>
+    <description>Number of days during which the patient was under invasive or non-invasive mechanical ventilation prior to the administration of PGE1 ANALOG</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution time of the disease</measure>
+    <time_frame>6 month</time_frame>
+    <description>Time from the onset of symptoms to the day of admission</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">284</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Standard therapeutic protocol</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Dexamethasone (4mg ampoule, intravenous)
+Tocilizumab (8 mg / kg (maximum dose 800 mg) IV, maximum 3)
+Empirical Antibiotic Therapy in patients with suspected pneumonia (according to management guidelines)
+Enoxaparin (40mg prefilled syringe)
+Enoxaparin (20mg, 40mg, 60mg, 80mg prefilled syringe)
+Low molecular weight heparin (5000IU prefilled syringe)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Therapeutic Protocol + PGE1 Analog</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Analog of PGE1 + Standard therapeutic protocol
+Standard medical treatment:
+Dexamethasone (4mg ampoule, intravenous)
+Tocilizumab (8 mg / kg (maximum dose 800 mg) IV, maximum 3)
+Empirical Antibiotic Therapy in patients with suspected pneumonia (according to management guidelines)
+Enoxaparin (40mg prefilled syringe)
+Enoxaparin (20mg, 40mg, 60mg, 80mg prefilled syringe)
+Low molecular weight heparin (5000IU prefilled syringe)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Analogs, Prostaglandin E1</intervention_name>
+    <description>Analog of PGE1:
+Infusion starting dose: 0.05 -0.01 mcg per kilogram of weight per minute in infusion continues, maximum 7 days, until achieving the desired clinical response (increase in PaO2), at that time decrease the infusion rate to the lowest dose possible to keep answer. This can be accomplished by decreasing the dose from 0.1 to 0.05 to 0.025 to 0.01 mcg / kg / min.
+If the response to 0.05 mcg / kg / min is inadequate, the dose can be increased to 0.4 mcg / kg / min, although in general high doses do not produce better effects. Maximum continuous infusion for up to 7 days</description>
+    <arm_group_label>Standard Therapeutic Protocol + PGE1 Analog</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard therapeutic protocol</intervention_name>
+    <description>Standard medical treatment is governed by current recommendations of national scientific societies and the Ministry of Health and Social Protection and may be modified throughout the course of the study according to the available evidence. In addition, the criteria of the treating physician are taken into account.
+Among the alternatives proposed by the current clinical practice guidelines are:
+Dexamethasone (4mg ampoule, intravenous) Dose: 6mg intravenous every day for a maximum of 10 days
+Tocilizumab Dose: 8 mg / kg (maximum dose of 800 mg) IV, maximum 3 doses 8 to 12 hours apart
+Empirical Antibiotic Therapy in patients with suspected pneumonia (according to management guidelines)
+Enoxaparin (40mg prefilled syringe) Dose: 40mg subcutaneously every 24 hours
+Enoxaparin (20mg, 40mg, 60mg, 80mg prefilled syringe) Dose: 1mg / kg every 12 hours
+Low molecular weight heparin (5000IU prefilled syringe) Dose: 5,000 IU subcutaneous every 12 hours</description>
+    <arm_group_label>Standard Therapeutic Protocol + PGE1 Analog</arm_group_label>
+    <arm_group_label>Standard therapeutic protocol</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient older than 18 years of age
+
+          -  COVID19 diagnosis:
+
+               -  RT PCR for COVID-19 positive in respiratory tract sample (nasopharyngeal swab,
+                  sputum, bronchoalveolar lavage)
+
+               -  At least 2 of the following symptoms: cough, odynophagia, dyspnea, asthenia,
+                  adynamia, gastrointestinal symptoms.
+
+               -  Findings compatible with viral pneumonia on chest tomography or chest
+                  radiography.
+
+          -  Risk of respiratory deterioration given by at least 1 of the following:
+
+          -  Hypoxemia: PaO2 &lt;60 mmHg, SaO2 &lt;90% or supplemental O2 requirement to maintain SaO2&gt;
+             90%
+
+          -  Call Score ≥ 9 points
+
+          -  FR&gt; 30 / min
+
+          -  PaO2 / FiO2 less than 200
+
+          -  Intubated patients without deterioration of other organs (without acute kidney injury,
+             without elevated transaminases).
+
+          -  Progression of radiological findings of pneumonia.
+
+          -  Patients with moderate or severe oxygenation disorder, with diaphragm of 200-100 and
+             &lt;100 respectively, who require supplemental oxygen at high flow (non-rebreathing mask
+             or high flow cannula).
+
+          -  Complete record of medical history, allergies, and medical conditions that preclude
+             the use of prostaglandin E1 analogs have been ruled out.
+
+          -  Voluntary participation in the study, demonstrating fullness through informed consent.
+
+        Exclusion Criteria:
+
+          1. Allergy or sensitivity to PEG1 analog or components
+
+          2. Arterial hypotension defined as blood pressure less than 90/60 mm of mercury or mean
+             arterial pressure less than 65mm of mercury or BP requirement &lt;80/50 mmHg or TAM 60
+             mmHg with norepinephrine requirement greater than 0.1 mcg / kg / min
+
+          3. Severe hypertension defined as systolic blood pressure greater than or equal to 180 mm
+             of mercury and / or diastolic blood pressure greater than or equal to 110 mm of
+             mercury
+
+          4. Bradycardia defined as heart rate less than 60 beats per minute
+
+          5. Previous events of priapism or penile anatomical changes
+
+          6. Sickle cell disease, multiple myeloma, leukemia, polycythemia vera, thrombocythemia
+             predisposing to priapism
+
+          7. Hemorrhagic diathesis
+
+          8. Active peptic ulcer, trauma, or recent brain hemorrhage.
+
+          9. Abnormal pulmonary venous return with obstruction
+
+         10. Pregnancy: A pregnancy test will be performed upon admission of the patient to the
+             study (if applicable).
+
+         11. Heart failure with NYHA functional class&gt; 1
+
+         12. Hemodynamically relevant arrhythmia: That generates hypotension, chest pain,
+             dysfunction, sensory disturbance or other signs of low output
+
+         13. Mitral and / or aortic stenosis and / or insufficiency of either
+
+         14. Unstable angina
+
+         15. Acute Myocardial Infarction in the last 6 months
+
+         16. Ischemic or hemorrhagic cerebrovascular event in the last 6 months
+
+         17. Child B or C or decompensated liver cirrhosis
+
+         18. Chronic kidney disease in renal replacement therapy
+
+         19. Serious medical condition or laboratory findings that, in the investigator's judgment,
+             may compromise patient safety during participation in the study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alonso Vera Torres, MD</last_name>
+    <phone>+573107632766</phone>
+    <email>Alonso.Vera@fsfb.org.co</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jose De la Hoz, MD</last_name>
+    <phone>3507084846</phone>
+    <email>jose.delahoz@fsfb.org.co</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Fundación Santa Fe de Bogota</investigator_affiliation>
+    <investigator_full_name>Alonso Vera Torres</investigator_full_name>
+    <investigator_title>Trasplantation surgery</investigator_title>
+  </responsible_party>
+  <keyword>Prostaglandin E1</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>Mortality</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alprostadil</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

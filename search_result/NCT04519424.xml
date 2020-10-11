@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1339">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04519424</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CSL324_COVID-19</org_study_id>
+    <nct_id>NCT04519424</nct_id>
+  </id_info>
+  <brief_title>CSL324 in COVID-19</brief_title>
+  <official_title>A Phase 2, Multicenter, Double-blind, Randomized, Placebo-controlled Study to Evaluate CSL324 in Coronavirus Disease 2019 (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CSL Behring</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CSL Behring</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 2, prospective, multicenter, randomized, double blind, placebo controlled,
+      parallel group study to evaluate the safety and efficacy of intravenous (IV) administration
+      of CSL324, administered in combination with SOC treatment, in subjects with COVID 19.
+
+      For the purposes of this study, standard of care (SOC) may include any written or established
+      treatment protocol followed at the study site for the treatment of severe COVID-19 or its
+      complications, including off-label use of marketed pharmaceutical products and / or products
+      with emergency use authorization granted for the treatment of COVID-19 (ie, not yet marketed)
+      (eg, remdesivir).
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of subjects progressing to endotracheal intubation or death prior to endotracheal intubation</measure>
+    <time_frame>Randomization to Day 28</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of deaths from all causes</measure>
+    <time_frame>Randomization to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects intubated</measure>
+    <time_frame>Randomization to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median length of stay in hospital</measure>
+    <time_frame>Randomization to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and proportion of subjects with at least a 2-point improvement in the National Institute of Allergy and Infectious Diseases (NIAID) ordinal scale</measure>
+    <time_frame>Randomization to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and proportion of subjects within each of the categories of the NIAID ordinal scale</measure>
+    <time_frame>Daily up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects using continuous positive airway pressure (CPAP) or bilevel positive airway pressure (BiPAP)</measure>
+    <time_frame>Randomization to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects using high-flow nasal cannula (HFNC)</measure>
+    <time_frame>Randomization to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects using extracorporeal membrane oxygenation (ECMO)</measure>
+    <time_frame>Randomization to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Change in Sequential Organ Failure Assessment (SOFA) score</measure>
+    <time_frame>Randomization to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SOFA score and in individual components of the SOFA score</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and proportion of subjects experiencing adverse events (AEs)</measure>
+    <time_frame>Up to 60 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and proportion of subjects experiencing serious adverse events (SAEs)</measure>
+    <time_frame>Up to 60 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and proportion of subjects experiencing adverse events of special interest (AESIs)</measure>
+    <time_frame>Up to 60 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of anti-CSL324 antibodies</measure>
+    <time_frame>Up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum concentration (Cmax) of CSL324</measure>
+    <time_frame>Up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to reach maximum concentration (Tmax) of CSL324</measure>
+    <time_frame>Up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the concentration-time curve (AUC0-last) of CSL324</measure>
+    <time_frame>Up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trough concentration (Ctrough) of CSL324</measure>
+    <time_frame>Before dose on Day 4 and Day 8</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">124</enrollment>
+  <condition>Coronavirus Disease 2019 (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>CSL324</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CSL324 administered intravenously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Normal saline administered intravenously</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CSL324</intervention_name>
+    <description>Recombinant anti-granulocyte colony-stimulating factor (G-CSF) receptor monoclonal antibody</description>
+    <arm_group_label>CSL324</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Normal saline (0.9% sodium chloride)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥ 18 years at the time informed consent is obtained
+
+          -  Positive for SARS-CoV-2 infection determined by a diagnostic test approved by the Food
+             and Drug Administration (FDA) or allowed under an emergency use authorization
+
+          -  Chest computed tomography (CT) scan or X ray results confirming interstitial pneumonia
+
+          -  Meets ≥ 1 of the following criteria (subjects improving while on respiratory support
+             still qualify):
+
+               -  Respiratory rate &gt; 30 breaths per minute
+
+               -  Peripheral (capillary) oxygen saturation (SpO2) ≤ 93% on room air
+
+               -  Partial pressure of oxygen in arterial blood (PaO2) to fraction of inspired
+                  oxygen (FiO2) ratio (PaO2 / FiO2) &lt; 300
+
+               -  SpO2 / FiO2 ratio &lt; 218 (if PaO2 / FiO2 ratio is not available)
+
+               -  Radiographic lung infiltrates &gt; 50%
+
+        Exclusion Criteria:
+
+          -  Currently enrolled, planning to enroll, or participated, within the last 30 days, in a
+             clinical study requiring administration of an investigational product (ie, not yet
+             marketed), including expanded access or compassionate use
+
+               -  Exceptions:
+
+                    -  Administration of investigational product with emergency use authorization
+                       granted for treatment of COVID 19 (eg, remdesivir) is permitted
+
+                    -  Convalescent plasma as part of approved special access programs such as
+                       expanded access, emergency IND, or compassionate use is permitted
+
+          -  Pregnant or breastfeeding (female subjects)
+
+          -  Intubated and requires mechanical ventilation (including ECMO) at time of
+             randomization
+
+               -  Exception: use of HFNC oxygen and noninvasive ventilation are permitted
+
+          -  Endotracheal intubation is imminent, in the opinion of the investigator
+
+          -  Not expected to survive for more than 48 hours after hospital admission, in the
+             opinion of the investigator
+
+          -  Presence of any of the following comorbid conditions before randomization and prior to
+             SARS-CoV-2 infection:
+
+               -  New York Heart Association class IV heart failure
+
+               -  Stage 4 or 5 chronic kidney disease or requires renal replacement therapy
+
+               -  Biopsy proven cirrhosis, portal hypertension or hepatic encephalopathy
+
+               -  Stage IV malignancy
+
+               -  Chronic lung disease requiring home oxygen
+
+               -  Active tuberculosis
+
+          -  History or evidence of pulmonary alveolar proteinosis
+
+          -  Confirmed diagnosis or clinical suspicion of bacterial pneumonia or active
+             uncontrolled bacterial, fungal, or non SARS-CoV-2 viral infection at Screening
+
+          -  Absolute neutrophil count (ANC) value &lt; 5 × 109 cells/L at Screening (can be lowered
+             up to &lt; 1.5 × 109 cells/L after Independent Data Monitoring Committee review of safety
+             data, if CSL324 induced neutropenia is not assessed as a safety concern)
+
+          -  Currently receiving a prohibited therapy including G-CSF, granulocyte-macrophage
+             colony-stimulating factor (GM-CSF), or antibody against interleukin 6 (IL-6) / IL 6
+             receptor (anti IL-6 / 6R)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Memorial Health University Medical Center</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 19, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>CSL will consider requests to share Individual Patient Data (IPD) from systematic review groups or bona-fide researchers. For information on the process and requirements for submitting a voluntary data sharing request for IPD, please contact CSL at clinicaltrials@cslbehring.com.
+Applicable country specific privacy and other laws and regulations will be considered and may prevent sharing of IPD.
+If the request is approved and the researcher has executed an appropriate data sharing agreement, IPD that has been appropriately anonymized will be available.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>IPD requests may be submitted to CSL no earlier than 12 months after publication of the results of this study via an article made available on a public website.</ipd_time_frame>
+    <ipd_access_criteria>Requests may only be made by systematic review groups or bona-fide researchers whose proposed use of the IPD is non-commercial in nature and has been approved by an internal review committee.
+An IPD request will not be considered by CSL unless the proposed research question seeks to answer a significant and unknown medical science or patient care question as determined by CSL's internal review committee.
+The requesting party must execute an appropriate data sharing agreement before IPD will be made available.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

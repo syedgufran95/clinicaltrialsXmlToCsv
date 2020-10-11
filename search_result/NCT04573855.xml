@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="704">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04573855</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PCL04/2020</org_study_id>
+    <nct_id>NCT04573855</nct_id>
+  </id_info>
+  <brief_title>TREATMENT WITH ANTI-SARS-COV-2 IMMUNOGLOBULIN IN PATIENTS WITH COVID-19</brief_title>
+  <official_title>TREATMENT WITH ANTI-SARS-COV-2 IMMUNOGLOBULIN IN PATIENTS WITH COVID-19: A PHASE I / II STUDY</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>D'Or Institute for Research and Education</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>D'Or Institute for Research and Education</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Phase I/II clinical trial for safety and efficacy evaluation of treatment with
+      anti-SARS-CoV-2 equine immunoglobulin (F(ab')2) in hospitalized patients with COVID-19 not
+      requiring of invasive ventilation support.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of adverse events related to the infusion of anti-SARS-CoV-2 immunoglobulin through CTCAE v4.0.</measure>
+    <time_frame>28 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clearence of viral RNA evaluated by RT-PCR</measure>
+    <time_frame>72 h</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of viral load evaluated by area under the curve of RT-PCR values</measure>
+    <time_frame>Day 0, Day 3, Day 7 and Day 14</time_frame>
+    <description>Viral load reduction evaluated by area under the curve of RT-PCR values</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>For as long as the duration of the hospital stay</time_frame>
+    <description>number of days between admission and discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Orotracheal Intubation Rate</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of patients who progressed to the use of invasive mechanical ventilation and require orotracheal intubation throughout hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infusional reaction rate</measure>
+    <time_frame>28 days</time_frame>
+    <description>number of patients who experienced adverse events after the immunoglobulin infusion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate</measure>
+    <time_frame>28 days</time_frame>
+    <description>number of deceased patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of adverse events</measure>
+    <time_frame>28 days</time_frame>
+    <description>Frequency of adverse events classified following CTCAE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of clinical status</measure>
+    <time_frame>Day 0, Day 14, Day 21 and Day 28</time_frame>
+    <description>Results of a 7-point ordinal severity scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modulation of serum and cellular inflammatory marker</measure>
+    <time_frame>Day 0, Day 3 and Day 7.</time_frame>
+    <description>Exploratory analysis of the variation of inflammatory markers by ELISA/Luminex and flow cytometry, compared to baseline levels</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">41</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Anti-SARS-CoV-2 immunoglobulin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with Anti-SARS-CoV-2 immunoglobulin</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Anti-SARS-CoV-2 immunoglobulin</intervention_name>
+    <description>Treatment with Anti-SARS-CoV-2 immunoglobulin</description>
+    <arm_group_label>Anti-SARS-CoV-2 immunoglobulin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Inpatients diagnosed with COVID-19 by RT-PCR;
+
+          -  Time between symptom onset and inclusion ≤ 10 days;
+
+          -  Age ≥ 18 years and &lt;75 years
+
+          -  No indication of invasive ventilatory support at the time of randomization;
+
+          -  Signature of the Informed Consent Form.
+
+        Exclusion Criteria:
+
+          -  Pregnant or lactating women
+
+          -  Severe comorbidity: Severe heart disease, severe COPD or O2-dependent COPD, terminal
+             cancer.
+
+          -  Any confirmed or suspected immunosuppressive or immunodeficiency state, including HIV
+             (regardless of treatment, CD4 count or viral load status); asplenia; severe recurrent
+             infections and chronic use (more than 14 days) of immunosuppressive medication in the
+             last 6 months, except for topical steroids or short-term oral steroids (cycle lasting
+             ≤14 days);
+
+          -  History of anaphylaxis or severe allergic reaction;
+
+          -  Previous use of any heterologous serum;
+
+          -  Participation in trials of prophylactic drugs or vaccines for COVID-19;
+
+          -  Administration of immunoglobulins and / or any blood products in the previous three
+             months.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 2, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

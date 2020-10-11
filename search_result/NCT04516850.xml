@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1572">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516850</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID19-GeneExp</org_study_id>
+    <nct_id>NCT04516850</nct_id>
+  </id_info>
+  <brief_title>HSD3B1 Gene Polymorphisms With Outcomes in SARS-CoV-2 Infected Patients</brief_title>
+  <official_title>An Exploratory Analysis of the Expression of Receptors and Activating Proteases Mediating SARS-CoV-2 Entry and the Association Between HSD3B1 Gene Polymorphisms With Outcomes in SARS-CoV-2 Infected Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ricardo Pereira Mestre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institute of Oncology Research (IOR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Istituto Cantonale di Patologia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oncology Institute of Southern Switzerland</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study includes 2 sub-projects.
+
+      Sub-project 1: The aim is to evaluate the expression of receptors and activating proteases
+      mediating SARS-CoV-2 entry and spreading in the local population of Ticino.
+
+      Sub-project 2: The aim is to investigate the association between the HSD3B1 gene variations
+      and outcome of COVID-19 in the local population of Ticino.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sub-project 1:
+
+      This is an observational retrospective study that aims to evaluate the expression of
+      receptors and activating proteases mediating SARS-CoV-2 entry and spreading in the local
+      population of Ticino. The level of expression of these factors will be compared between
+      infected and non-infected subjects. The sub-project will examine RNA samples from
+      nasopharyngeal swabs taken from subjects tested for COVID-19.
+
+      Sub-project 2:
+
+      This is a haplotype- and diplotype-based case-control retrospective study that aims to
+      investigate the association between the HSD3B1 gene variations and outcome of COVID-19 in the
+      local population of Ticino. The gene status of HSD3B1 will be defined and compared between
+      two groups of patients: the patients who experienced a severe SARS-CoV-2 infection (severe
+      pulmonary insufficiency, ICU admission, eventually death) and the group with a mild-moderate
+      COVID-19 disease without pulmonary insufficiency and oxygen need.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">August 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Expression of receptors and activating proteases</measure>
+    <time_frame>1 year</time_frame>
+    <description>Determination of the level of expression of the mRNA genes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevalencen of olymorphisms of the HSD3B1</measure>
+    <time_frame>1 year</time_frame>
+    <description>Determination of the prevalence of polymorphisms of the HSD3B1 patients with severe and mild-moderate SARS-CoV-2 infection</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Association of polymorphisms of the HSD3B1</measure>
+    <time_frame>1 year</time_frame>
+    <description>Evaluation of the association of polymorphisms of the HSD3B1 with clinico-pathological parameters</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Patients tested for COVID-19</arm_group_label>
+    <description>The nasopharyngeal swabs taken from patients tested for Covid-19 who resulted infected and non-infected will be analyzed to evaluate the expression of receptors and activating proteases mediating SARS-CoV-2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with mild-moderate and severe SARS-CoV-2 infection</arm_group_label>
+    <description>Formalin-fixed paraffin will be analysed to determine the association between polymorphism of the HSD3B1 gene and outcomes in COVID-19 affected patients</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Expression of receptors and activating proteases</intervention_name>
+    <description>Level of expression of the mRNA of the genes encoding ACE2, TMPRSS2, TMPRSS4 and AR along with reference genes (beta-actin and EPCAM) in nasopharyngeal swabs taken from patients tested for COVID-19</description>
+    <arm_group_label>Patients tested for COVID-19</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Polymorphism of the HSD3B1</intervention_name>
+    <description>Formalin-fixed paraffin embedded tissue blocks will be amplified using polymerase chain reaction (PCR) based experiments followed by direct sequencing (Sanger sequencing)</description>
+    <arm_group_label>Patients with mild-moderate and severe SARS-CoV-2 infection</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Sub-project 1: nasopharyngeal swabs
+
+      Sub-project 2: tissue samples
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects tested for COVID-19
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Sub-project 1
+
+        Inclusion Criteria:
+
+          -  Availability of RNA extracted from nasopharyngeal swabs taken from subjects tested for
+             COVID-19;
+
+          -  Subject is aged 18 years or over;
+
+          -  Written informed consent (for SARS-CoV-2 positive patients only; see §5 for further
+             details).
+
+        Exclusion Criteria:
+
+        - Documented refusal.
+
+        Sub-project 2
+
+        Inclusion Criteria:
+
+          -  Female and male hospitalized SARS-CoV-2 patients;
+
+          -  Patient is aged 18 years or over;
+
+          -  Availability of archival tissue samples collected at any time before SARS-CoV-2
+             infection for any clinical reason;
+
+          -  Clinico-pathological characteristics of the COVID-19 and clinical outcomes recorded in
+             the EOC and Clinica Luganese Moncucco database;
+
+          -  Written informed consent (see §5 for further details).
+
+        Exclusion Criteria:
+
+        - Documented refusal.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ricardo Pereira Mestre, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Oncology Institute of Southern Switzerland (IOSI)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ricardo Pereira Mestre, MD</last_name>
+    <phone>+41 (0)91 811 8446</phone>
+    <email>ricardo.pereiramestre@eoc.ch</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Oncology Institute of Southern Switzerland (IOSI)</name>
+      <address>
+        <city>Bellinzona</city>
+        <zip>6500</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ricardo Pereira Mestre, MD</last_name>
+      <phone>+41 (0)91 811 8446</phone>
+      <email>ricardo.pereiramestre@eoc.ch</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Luganese Moncucco</name>
+      <address>
+        <city>Lugano</city>
+        <zip>6900</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Christian Garzoni, MD</last_name>
+      <phone>41 (0)91 960 87 12</phone>
+      <email>christian.garzoni@moncucco.ch</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>August 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Oncology Institute of Southern Switzerland</investigator_affiliation>
+    <investigator_full_name>Ricardo Pereira Mestre</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

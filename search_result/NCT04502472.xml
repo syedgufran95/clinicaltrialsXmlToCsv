@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="938">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04502472</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Inova COVID-19 CCP</org_study_id>
+    <nct_id>NCT04502472</nct_id>
+  </id_info>
+  <brief_title>Open-label Treatment of Severe Coronavirus Disease 2019 (COVID-19) With Convalescent Plasma</brief_title>
+  <acronym>Inova-CCP</acronym>
+  <official_title>Open-label Treatment of Severe Coronavirus Disease 2019 (COVID-19) With Convalescent Plasma Collected From Individuals With Documented Infection and Recovery From COVID-19 (SARS-CoV-2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Inova Health Care Services</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Inova Health Care Services</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We hypothesize that use of convalescent plasma donated from individuals recovered from
+      Coronavirus Disease 2019 (COVID-19) will help expedite recovery of individuals with active,
+      severe COVID-19 infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this research study is to see if convalescent plasma is safe and effective for
+      the treatment of patients acutely ill with COVID-19. The researchers want to confirm the
+      right dose levels of immunoglobulins/antibodies (immune proteins) and find out what
+      therapeutic effects plasma donated by recovered individuals like you has on people severely
+      sick with COVID-19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 6, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Phase 1 will be recruitment and enrollment of plasma donors. Phase 2 will be continued recruitment and enrollment of plasma donors, with the addition of recruitment and enrollment of plasma recipients.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change is clinical status</measure>
+    <time_frame>Time of plasma infusion (day 0) compared to day 7</time_frame>
+    <description>Change is clinical status as captured by 7-point ordinal scale to include
+Death
+Hospitalized, requiring mechanical ventilation or ECMO
+Hospitalized, requiring non-invasive ventilation or high flow oxygen
+Hospitalized, requiring supplemental oxygen
+Hospitalized, not requiring supplemental oxygen--requiring ongoing medical care (COVID-19 related or otherwise)
+Hospitalized, not requiring supplemental oxygen-not requiring ongoing medical care (COVID-19 related or otherwise).
+Not Hospitalized</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transfusion related events</measure>
+    <time_frame>Within 6 hours of infusion</time_frame>
+    <description>Presence of any adverse events related to plasma infusion</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change is clinical status</measure>
+    <time_frame>Time of plasma infusion (day 0 prior to first infusion) to days 14, 21, and 28</time_frame>
+    <description>Change in 7-point ordinal scale score from time of plasma infusion (day 0-prior to first infusion) to days 14, 21, and 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOFA score at days 0, 7, 14, 21, 28</measure>
+    <time_frame>Days 0, 7, 14, 21, 28</time_frame>
+    <description>Assess change in Sequential Organ Failure Assessment (SOFA) score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of Hospital Stay</measure>
+    <time_frame>Days 7, 14, 21, 28</time_frame>
+    <description>Total duration of hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supplemental oxygen</measure>
+    <time_frame>Days 7, 14, 21, 28</time_frame>
+    <description>Time to discontinuation of supplemental oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical Ventilation</measure>
+    <time_frame>Days 7, 14, 21, 28</time_frame>
+    <description>Need for mechanical ventilation (for those patients not on the ventilator)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in mechanical ventilation status</measure>
+    <time_frame>Days 7, 14, 21, 28</time_frame>
+    <description>Time to liberation from mechanical ventilation (for patients on a ventilator)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Day 28</time_frame>
+    <description>All-cause Mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in inflammatory markers</measure>
+    <time_frame>Day 0 to days 7, 14, 21, 28</time_frame>
+    <description>Change in standard of care inflammatory markers (ferritin, LDH, CRP, D-dimer)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Recipient of COVID-19 Convalescent Plasma (CCP) Transfusion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients hospitalized with COVID-19 infection with severe or life-threatening clinical syndrome and meet eligibility criteria</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent plasma transfusion</intervention_name>
+    <description>Transfusion of COVID-19 convalescent plasma to participants currently hospitalized with COVID-19 infection with severe or life-threatening clinical syndrome.</description>
+    <arm_group_label>Recipient of COVID-19 Convalescent Plasma (CCP) Transfusion</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Phase 1 Inclusion Criteria:
+
+        Inclusion Criteria for Convalescent Plasma Donors:
+
+        - Outpatients 18 years old and older who have recovered from COVID-19:
+
+          -  Have proof of Original Positive SARS-CoV-2 NAT nasopharyngeal (NP) test result
+
+          -  Complete resolution of symptoms at least 14 days prior to donation
+
+          -  Negative SARS-CoV-2 NAT nasopharyngeal (NP) specimen at screening visit
+
+          -  Able to meet standard criteria for blood donation
+
+          -  Clinically stable based on provider assessment
+
+        Phase 1 Exclusion Criteria:
+
+        Exclusion criteria:
+
+          -  Inability to complete or contraindication to donation based on Donor History -
+
+          -  Questionnaire (DHQ), FDA approved standard blood donation form
+
+          -  Hb&lt;13.0 g/dL for males
+
+          -  Hb&lt;12.5 g/dL for females
+
+          -  History of 3 more pregnancies unless HLA antibody testing is performed and deemed
+             acceptable by director of blood donor services (to reduce risks of transfusion Related
+             Acute Lung Injury in recipients). The presence of any transfusion transmitted diseases
+             is based on history or test results from blood sample collected from the donor at time
+             of plasma collection in accordance to standard practice.
+
+          -  Female subjects who are pregnant by self-report.
+
+          -  Receipt of pooled immunoglobulin in past 30 days
+
+        PHASE 2: Inclusion Criteria for Recipients of COVID-19 Convalescent Plasma:
+
+          -  Patients in the Inova Health System with confirmed COVID-19 by PCR testing
+
+          -  Age ≥ 13 years
+
+          -  Currently hospitalized with COVID-19 infection with severe or life-threatening
+             clinical syndrome as follows:
+
+          -  Severe COVID-19: (three or more of the following)
+
+               -  Dyspnea
+
+               -  Respiratory rate ≥ 30/min
+
+               -  Blood oxygen saturation (SpO2) ≤ 94% on room air
+
+               -  Partial pressure of arterial oxygen to fraction of inspired oxygen (P:F) ratio &lt;
+                  300
+
+               -  Pulmonary infiltrates &gt; 50% of lung parenchyma within 24 to 48 hours
+
+          -  Life-threatening disease is defined as: (one of the following)
+
+               -  Respiratory failure
+
+               -  Septic shock, and/or
+
+               -  Multiple organ dysfunction or failure
+
+          -  Patient must provide informed consent or have health care power of attorney/next of
+             kin provide consent if he/she cannot.
+
+        PHASE 2 Exclusion Criteria:
+
+          -  Contraindication to receive plasma as deemed by the treating physician
+
+          -  Severe hypercoagulable state (documented in medical chart or by treating physician
+             assessment)
+
+          -  Absolute IgA deficiency
+
+          -  Prior history of Transfusion Related Acute Lung Injury (TRALI)
+
+          -  Inability to tolerate plasma volume due to severe systolic or diastolic heart failure
+             despite slower infusion and diuretic administration
+
+          -  Positive pregnancy test (HCG)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anne Brown, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Inova Health System</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Merte Lemme-Woldehanna, BS</last_name>
+    <phone>703-776-2020</phone>
+    <email>Merte.LemmaWoldeHanna@inova.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Edwinia Battle, BSN</last_name>
+    <phone>703-776-3067</phone>
+    <email>edwinia.battle@inova.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Inova Fairfax Medical Campus</name>
+      <address>
+        <city>Falls Church</city>
+        <state>Virginia</state>
+        <zip>22042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Merte Lemma-Woldehanna, BS</last_name>
+      <email>edwinia.battle@inova.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Edwinia Battle, BSN</last_name>
+      <email>edwinia.battle@inova.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Anne W Brown, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Marano G, Vaglio S, Pupella S, Facco G, Catalano L, Liumbruno GM, Grazzini G. Convalescent plasma: new evidence for an old therapeutic tool? Blood Transfus. 2016 Mar;14(2):152-7. doi: 10.2450/2015.0131-15. Epub 2015 Nov 6. Review.</citation>
+    <PMID>26674811</PMID>
+  </reference>
+  <reference>
+    <citation>Mair-Jenkins J, Saavedra-Campos M, Baillie JK, Cleary P, Khaw FM, Lim WS, Makki S, Rooney KD, Nguyen-Van-Tam JS, Beck CR; Convalescent Plasma Study Group. The effectiveness of convalescent plasma and hyperimmune immunoglobulin for the treatment of severe acute respiratory infections of viral etiology: a systematic review and exploratory meta-analysis. J Infect Dis. 2015 Jan 1;211(1):80-90. doi: 10.1093/infdis/jiu396. Epub 2014 Jul 16. Review.</citation>
+    <PMID>25030060</PMID>
+  </reference>
+  <reference>
+    <citation>Maiztegui JI, Fernandez NJ, de Damilano AJ. Efficacy of immune plasma in treatment of Argentine haemorrhagic fever and association between treatment and a late neurological syndrome. Lancet. 1979 Dec 8;2(8154):1216-7.</citation>
+    <PMID>92624</PMID>
+  </reference>
+  <reference>
+    <citation>Soo YO, Cheng Y, Wong R, Hui DS, Lee CK, Tsang KK, Ng MH, Chan P, Cheng G, Sung JJ. Retrospective comparison of convalescent plasma with continuing high-dose methylprednisolone treatment in SARS patients. Clin Microbiol Infect. 2004 Jul;10(7):676-8.</citation>
+    <PMID>15214887</PMID>
+  </reference>
+  <reference>
+    <citation>Hung IF, To KK, Lee CK, Lee KL, Chan K, Yan WW, Liu R, Watt CL, Chan WM, Lai KY, Koo CK, Buckley T, Chow FL, Wong KK, Chan HS, Ching CK, Tang BS, Lau CC, Li IW, Liu SH, Chan KH, Lin CK, Yuen KY. Convalescent plasma treatment reduced mortality in patients with severe pandemic influenza A (H1N1) 2009 virus infection. Clin Infect Dis. 2011 Feb 15;52(4):447-56. doi: 10.1093/cid/ciq106. Epub 2011 Jan 19.</citation>
+    <PMID>21248066</PMID>
+  </reference>
+  <reference>
+    <citation>Arabi Y, Balkhy H, Hajeer AH, Bouchama A, Hayden FG, Al-Omari A, Al-Hameed FM, Taha Y, Shindo N, Whitehead J, Merson L, AlJohani S, Al-Khairy K, Carson G, Luke TC, Hensley L, Al-Dawood A, Al-Qahtani S, Modjarrad K, Sadat M, Rohde G, Leport C, Fowler R. Feasibility, safety, clinical, and laboratory effects of convalescent plasma therapy for patients with Middle East respiratory syndrome coronavirus infection: a study protocol. Springerplus. 2015 Nov 19;4:709. doi: 10.1186/s40064-015-1490-9. eCollection 2015.</citation>
+    <PMID>26618098</PMID>
+  </reference>
+  <reference>
+    <citation>van Griensven J, Edwards T, Baize S; Ebola-Tx Consortium. Efficacy of Convalescent Plasma in Relation to Dose of Ebola Virus Antibodies. N Engl J Med. 2016 Dec 8;375(23):2307-2309. doi: 10.1056/NEJMc1609116. Epub 2016 Nov 14.</citation>
+    <PMID>27959686</PMID>
+  </reference>
+  <reference>
+    <citation>WHO. Use of convalescent whole blood or plasma collected from patients recovered from Ebola virus disease for transfusion, as an empirical treatment during outbreaks. 2014 http://apps.who.int/iris/rest/bitstreams/604045/retrieve (accessed 3/27/2020).</citation>
+  </reference>
+  <reference>
+    <citation>WHO. Clinical management of severe acute respiratory infection when novel coronavirus (nCoV) infection is suspected 2020. https://www.who.int/docs/default-source/coronaviruse/clinical-management-of-novel-cov.pdf (accessed 3/27/20).</citation>
+  </reference>
+  <reference>
+    <citation>Chen L, Xiong J, Bao L, Shi Y. Convalescent plasma as a potential therapy for COVID-19. Lancet Infect Dis. 2020 Apr;20(4):398-400. doi: 10.1016/S1473-3099(20)30141-9. Epub 2020 Feb 27.</citation>
+    <PMID>32113510</PMID>
+  </reference>
+  <reference>
+    <citation>Lauer SA, Grantz KH, Bi Q, Jones FK, Zheng Q, Meredith HR, Azman AS, Reich NG, Lessler J. The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Ann Intern Med. 2020 May 5;172(9):577-582. doi: 10.7326/M20-0504. Epub 2020 Mar 10.</citation>
+    <PMID>32150748</PMID>
+  </reference>
+  <reference>
+    <citation>Amanat F, Nguyen T, Chromikova V, et al. A serological assay to detect SARS-CoV-2 seroconversion in humans. BMJ Yale 2020. https://doi.org/10.1101/2020.03.17.20037713</citation>
+  </reference>
+  <reference>
+    <citation>Epstein J, Burnouf T. Points to consider in the preparation and transfusion of COVID-19 convalescent plasma. Vox Sang. 2020 Apr 22. doi: 10.1111/vox.12939. [Epub ahead of print]</citation>
+    <PMID>32319102</PMID>
+  </reference>
+  <reference>
+    <citation>Beigel JH, Tebas P, Elie-Turenne MC, Bajwa E, Bell TE, Cairns CB, Shoham S, Deville JG, Feucht E, Feinberg J, Luke T, Raviprakash K, Danko J, O'Neil D, Metcalf JA, King K, Burgess TH, Aga E, Lane HC, Hughes MD, Davey RT; IRC002 Study Team. Immune plasma for the treatment of severe influenza: an open-label, multicentre, phase 2 randomised study. Lancet Respir Med. 2017 Jun;5(6):500-511. doi: 10.1016/S2213-2600(17)30174-1. Epub 2017 May 15. Erratum in: Lancet Respir Med. 2017 Jul;5(7):e26.</citation>
+    <PMID>28522352</PMID>
+  </reference>
+  <reference>
+    <citation>Wang Y, Fan G, Horby P, Hayden F, Li Q, Wu Q, Zou X, Li H, Zhan Q, Wang C, Cao B; CAP-China Network. Comparative Outcomes of Adults Hospitalized With Seasonal Influenza A or B Virus Infection: Application of the 7-Category Ordinal Scale. Open Forum Infect Dis. 2019 Feb 15;6(3):ofz053. doi: 10.1093/ofid/ofz053. eCollection 2019 Mar.</citation>
+    <PMID>30895200</PMID>
+  </reference>
+  <reference>
+    <citation>Vincent JL, Moreno R, Takala J, Willatts S, De Mendonça A, Bruining H, Reinhart CK, Suter PM, Thijs LG. The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure. On behalf of the Working Group on Sepsis-Related Problems of the European Society of Intensive Care Medicine. Intensive Care Med. 1996 Jul;22(7):707-10.</citation>
+    <PMID>8844239</PMID>
+  </reference>
+  <reference>
+    <citation>Woelfel R, Corman VM, Guggemos W, et al. Clinical presentation and virological assessment of hospitalized cases of coronavirus disease 2019 in a travel-associated transmission cluster. BMJ Yale 2020. https://doi.org/10.1101/2020.03.05.20030502</citation>
+  </reference>
+  <reference>
+    <citation>Pandey S, Vyas GN. Adverse effects of plasma transfusion. Transfusion. 2012 May;52 Suppl 1:65S-79S. doi: 10.1111/j.1537-2995.2012.03663.x. Review.</citation>
+    <PMID>22578374</PMID>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>August 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

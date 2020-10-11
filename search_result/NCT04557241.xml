@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1184">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04557241</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Indiana_CTSI_Agley_2020</org_study_id>
+    <nct_id>NCT04557241</nct_id>
+  </id_info>
+  <brief_title>Brief Informational Intervention for COVID-19 Misinformation Prophylaxis</brief_title>
+  <official_title>Brief Informational Intervention for COVID-19 Misinformation Prophylaxis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Indiana Clinical and Translational Sciences Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      As the coronavirus disease 2019 (COVID-19) pandemic has continued to affect life in the
+      United States, the important role of non-pharmaceutical preventive behaviors (such as wearing
+      a face mask) in reducing harm has become clear. In parallel to the pandemic, researchers have
+      observed an &quot;infodemic&quot; of misinformed or inconsistent narratives about COVID-19. There is
+      growing evidence that misinformed COVID-19 narratives are associated with a wide variety of
+      undesirable behavior (e.g., burning down cell towers). Further, individuals' adherence to
+      recommended COVID-19 preventive guidelines has been inconsistent, and such mandates have
+      engendered opposition and controversy. Recent research suggests the possibility that trust in
+      science and scientists may be an important thread to weave throughout these seemingly
+      disparate components of the modern public health landscape. Thus, this paper describes the
+      protocol for a randomized trial of a brief, digital intervention to increase trust in
+      science.
+
+      The objective of this trial is to examine if exposure to a curated infographic can increase
+      trust in science, reduce believability of misinformed narratives, and increase likelihood to
+      engage in preventive behaviors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators propose a single-stage, randomized, superiority trial with 2 parallel
+      groups allocated with a 1:1 ratio. The comparator in this study will be a control (&quot;placebo&quot;)
+      infographic that is completely unrelated to science (e.g., about cats), but that is developed
+      using the same communication and graphical style.
+
+      Subjects will be recruited using the Prolific data collection platform, which is one of two
+      primary online crowdsourced research platforms (the other is Amazon's Mechanical Turk, or
+      mTurk).
+
+      To be included, participants must be identified by Prolific as part of a
+      nationally-representative sample. Participants will also be required to be age 18 or older,
+      and to reside in the United States. Individuals who decline to digitally sign the informed
+      consent document will be excluded and replaced. Per recent best practice recommendations for
+      crowdsourced digital research, attention checks and screens for &quot;bots&quot; and international
+      users with virtual private networks to mimic US IP addresses will be embedded within the
+      instruments, and failure of more than one attention check, or any bot/location check will
+      result in subject exclusion and replacement. Replacements will be drawn in such a way as to
+      preserve the representativeness of the sample.
+
+      Missing data will be addressed using either full information maximum likelihood or Markov
+      Chain Monte Carlo multiple imputation strategies. When there is a violation of missing at
+      random (which is unlikely) in preliminary analyses, the investigators will incorporate
+      strategies representing the missingness. The researchers will further explore data quality in
+      terms of outliers, measurement error, non-normality, and variance heterogeneity. Robust
+      methods of analysis (e.g., Huber-White robust standard errors) will be used, as appropriate.
+      For all multi-item measures, reliability will be evaluated prior to computation of the
+      variable.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Although this is, in practice, a double-blind study since participants will be unaware that they are randomized and all study mechanics will be processed by computer, analysts will not be blinded to the meaning of the assignment variable. However, two independent consultant analysts have been retained to verify all results and subsequent interpretation.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in trust in science</measure>
+    <time_frame>Pre-intervention and immediately post-intervention</time_frame>
+    <description>21-item scale developed by Nadelson et al [1] called the Trust in Science Inventory. It is scored from 1 to 5, where 1 indicates low trust and 5 indicates high trust.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Believability profiles</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Will be computed using latent profile analysis of believability measures. These measures were developed and first used in our recent study of COVID-19 narratives [2]. Response options for these measures used well-established semantic differential responses for believability of different statements (e.g., as in Herzberg et al.) [3] ranging from [1: Extremely unbelievable] to [7: Extremely believable]. Exact measures used to generate profiles for this study will be available in the published protocol paper (to be submitted).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Preventive behavioral intentions</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>A series of six questions based on the US Centers for Disease Control and Prevention's recommended COVID-19 preventive behaviors. [4] Questions will be written according to Azjen's guide to intention questionnaires [5].</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Political orientation (covariate 1)</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Scale variable (0: Conservative to 10: Liberal) as in our prior work [2, 6]</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Religious commitment (covariate 2)</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Scale variable (0: Low commitment to 10: High commitment) as in our prior work [2, 6]</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Sociodemographics (covariates 3 through 6)</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Race/ethnicity, gender, age, and education level using standardized questions</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>COVID-19 diagnosis (covariates 7 and 8)</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Two self report questions. The first asks whether the respondent has been diagnosed with COVID-19, and the second asks more broadly whether the respondent believes they have had COVID-19. Question wording will be per Bruine de Bruin (2020) [7].</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Perceived severity of COVID-19 (covariate 9)</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Based on the Health Belief Model as used in Yıldırıma &amp; Gülerc [8].</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Self-efficacy to act regarding COVID-19</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Based on the Health Belief Model as used in Yıldırıma &amp; Gülerc [8].</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Normative beliefs about friends' and family's COVID-19 behaviors</measure>
+    <time_frame>Immediately post-intervention</time_frame>
+    <description>Single item from Chambon et al [9].</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>COVID19 Behavioral Prophylaxis</condition>
+  <arm_group>
+    <arm_group_label>Brief Intervention arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The primary intervention in this study will be an infographic that is designed to build trust in the scientific process (as described in the Intervention section). This arm will introduce the intervention and then instruct the participant to review it carefully (including a mandated pause on the infographic screen) before continuing to the remaining data collection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Control arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The comparator in this study will be a control (&quot;placebo&quot;) infographic that is completely unrelated to science (As described in the Placebo Control section). This arm will introduce the control infographic and then instruct the participant to review it carefully (including a mandated pause on the infographic screen) before continuing to the remaining data collection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Brief informational infographic</intervention_name>
+    <description>The primary intervention in this study will be an infographic that is designed to build trust in the scientific process. Infographics are preferable to narratives or text because they center visuals as part of the storytelling process and facilitate cognitive information processing, knowledge absorption, and enhanced persuasion. The study's infographic design will follow best practices in health communication. The message will be simple and jargon free. Visuals will include individuals (scientists), charts, text, and numbers. Attention will be paid to images, color, frames, representation, and composition (e.g., how the elements in the infographic are organized to show their relationship to each other).</description>
+    <arm_group_label>Brief Intervention arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Placebo control (non-behavioral infographic)</intervention_name>
+    <description>The comparator in this study will be a control (&quot;placebo&quot;) infographic that is completely unrelated to science (e.g., about cats), but that is developed using the same communication and graphical style.</description>
+    <arm_group_label>Placebo Control arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  To be included, participants must be identified by Prolific as part of a
+             nationally-representative sample. Participants will also be required to be age 18 or
+             older, and to reside in the United States.
+
+        Exclusion Criteria:
+
+          -  Individuals who decline to digitally sign the informed consent document will be
+             excluded and replaced. Per recent best practice recommendations for crowdsourced
+             digital research, attention checks and screens for &quot;bots&quot; and international users with
+             virtual private networks to mimic US internet protocol addresses will be embedded
+             within the instruments, and failure of more than one attention check, or any
+             bot/location check will result in subject exclusion and replacement.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jon Agley, PhD, MPH</last_name>
+    <phone>812-855-3123</phone>
+    <email>jagley@indiana.edu</email>
+  </overall_contact>
+  <reference>
+    <citation>Nadelson L, Jorcyk C, Yang D, et al. I just don't trust them: The development and validation of an assessment instrument to measure trust in science and scientists. School Science and Mathematics. 2014;114(2):76-86.</citation>
+  </reference>
+  <reference>
+    <citation>Agley J, Xiao Y. Existence of differential belief profiles of COVID-19 narratives: The role of trust in science. Research Square. 2020;Preprint.</citation>
+  </reference>
+  <reference>
+    <citation>Herzberg KN, Sheppard SC, Forsyth JP, Credé M, Earleywine M, Eifert GH. The Believability of Anxious Feelings and Thoughts Questionnaire (BAFT): a psychometric evaluation of cognitive fusion in a nonclinical and highly anxious community sample. Psychol Assess. 2012 Dec;24(4):877-91. doi: 10.1037/a0027782. Epub 2012 Apr 9.</citation>
+    <PMID>22486595</PMID>
+  </reference>
+  <reference>
+    <citation>CDC. How to protect yourself &amp; others. Centers for Disease Control and Prevention. https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html. Published 2020. Accessed July 17, 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Ajzen I. Theory of planned behavior questionnaire. Measurement Instrument Database for Social Science. https://www.midss.org/sites/default/files/tpb.construction.pdf. Published 2013. Accessed July 17, 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Agley J. Assessing changes in US public trust in science amid the COVID-19 pandemic. Public Health. 2020 Jun;183:122-125. doi: 10.1016/j.puhe.2020.05.004. Epub 2020 May 13.</citation>
+    <PMID>32405095</PMID>
+  </reference>
+  <reference>
+    <citation>Bruine de Bruin W. Age differences in COVID-19 risk perceptions and mental health:Evidence from a national US survey conducted in March 2020. J Gerontol B Psychol Sci Soc Sci. 2020 May 29. pii: gbaa074. doi: 10.1093/geronb/gbaa074. [Epub ahead of print]</citation>
+    <PMID>32470120</PMID>
+  </reference>
+  <reference>
+    <citation>Yıldırım M, Güler A. COVID-19 severity, self-efficacy, knowledge, preventive behaviors, and mental health in Turkey. Death Stud. 2020 Jul 16:1-8. doi: 10.1080/07481187.2020.1793434. [Epub ahead of print]</citation>
+    <PMID>32673183</PMID>
+  </reference>
+  <reference>
+    <citation>Chambon M, Dalege J, Elberse JE, Harreveld Fv. A psychological network approach to factors related to preventive behaviors during pandemics: A European COVID-19 study. PsyArXiv. 2020:https://doi.org/10.31234/osf.io/es31245v.</citation>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 21, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Jon Agley</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>misinformation</keyword>
+  <keyword>trust</keyword>
+  <keyword>prevention</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Fully de-identified data (full dataset) will be made available along with the publication of the primary results paper from this study.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Fully de-identified data will be made available along with the publication of the primary results paper from this study.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

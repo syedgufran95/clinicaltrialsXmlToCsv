@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2662">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04559113</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LGH005</org_study_id>
+    <nct_id>NCT04559113</nct_id>
+  </id_info>
+  <brief_title>Methylprednisolone in COVID-19 Patients (Methyl19LGH)</brief_title>
+  <acronym>Methyl19LGH</acronym>
+  <official_title>Perks of Methylprednisolone for Hospitalized COVID-19 Patients: A Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lahore General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lahore General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In COVID-19 deep airway and alveolar destruction occurred due to inflammatory reaction
+      resulting into severe pneumonia. In COVID-19, lung injury is not only due to viral damage to
+      tissue, but it is also due to immune response that leads to activation of inflammatory cells
+      and release of cytokines. In COVID-19 acute respiratory distress syndrome ARDS is produced
+      due to mucinous or cellular fibromyxoid exudates, desquamation of pneumocytes and alveolar
+      damage and hyaline membrane development and within 5-7 days disease become more aggressive
+      due to pneumonia and respiratory failure. It is important to start the prompt and strengthen
+      treatment for suppression of inflammatory response and cytokine storm. Methylprednisolone are
+      the traditional immunosuppressive drugs. They are important and effective to delay the
+      pneumonia progression and treating the ARDS.
+
+      Corticosteroids are broadly used as treatment for ARDS and there was an evidence for its
+      efficacy for treating SARS and decreasing mortality of SARS in the past. However for COVID-19
+      corticosteroids efficacy and safety usage is still under clinical trials
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All new decision and new interventions that are made for decreasing dependency of ventilator
+      in patients and decreasing patients mortality would have played a great role on global public
+      health. The aim of the study is to address the efficacy of methlyprednisolone for the
+      treatment of COVID-19 patients and its clinical outcome at a tertriary care hospital.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>quasi-experimental</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical response after administration</measure>
+    <time_frame>10 days</time_frame>
+    <description>Clinical improvement of COVID-19 patients by methylprednisolone.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical response to treatment</measure>
+    <time_frame>28 days</time_frame>
+    <description>Overall survival of COVID-19 patients after drug administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days of hospital admission either in ICU or HDUs till date of discharge</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <arm_group>
+    <arm_group_label>Group intervene with Methylprednisolone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Review effect of Methylprednisolone as clinical trial among hospitalized patients with COVID-19 infection.
+Anyone of the following Corticosteroids dose will be given to moderate disease patients of COVID-19
+0.5mg to 1mg/Kg methylprednisolone or equivalent dexamethasone dose (to a maximum of 20mg) given daily x 5 to 7-days or
+Methylprednisolone 1 mg/kg daily IV for 5 days followed by 40 mg daily x 3 days, followed by 10 mg daily x 2 day. *Note: in Diabetic patients' dose of methyl prednisolone should be divided in doses preferably 40mg BD.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methylprednisolone Injectable Product</intervention_name>
+    <description>0.5mg to 1mg/Kg methylprednisolone or equivalent dexamethasone dose (to a maximum of 20mg) given daily x 5 to 7-days or
+Methylprednisolone 1 mg/kg daily IV for 5 days followed by 40 mg daily x 3 days, followed by 10 mg daily x 2 day.</description>
+    <arm_group_label>Group intervene with Methylprednisolone</arm_group_label>
+    <other_name>solu madrol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients of all ages, males, and females who will be diagnosed COVID-19 positive
+             by RT-PCR with moderate illness.
+
+          -  Patients having classical radiological lesions of COVID-19 on X-ray chest or HRCT
+             chest.
+
+          -  Respiratory rate &gt; 22/ min and &gt;50% of radiological involvement of lung with typical
+             lesions.
+
+          -  FiO2 remain static or improving, along with &gt; 30% deranged ≥ 2 biochemical markers CRP
+             &gt; 20 mg/l, LDH &gt; 600 U/L, D.Dimer &gt; 0.5mg/l or 500 ng/ml, Serum Ferritin &lt; 500 ng/ml
+             or mcg/l will be included in clinical trial.
+
+        Exclusion Criteria:
+
+          -  Heart failure,
+
+          -  Cardiac arrest
+
+          -  Decompensated liver cirrhosis,
+
+          -  Decompensated psychiatric disorder
+
+          -  Contraindication for corticosteroids
+
+          -  Leukopenia &lt;1000/mm or neutropenia &lt;500/mm
+
+          -  Recent or history of bone marrow or solid organ transplantation
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sardar Al-Fareed Zafar, FCPS</last_name>
+    <role>Study Director</role>
+    <affiliation>Post-Graduate Medical Institute, Lahore General Hospital, Lahore Pakistan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Muhammad Irfan Malik, FCPS</last_name>
+    <phone>03334367220</phone>
+    <email>drmirfanmalik@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sardar Al-Fareed Zafar, FCPS</last_name>
+    <phone>03214056891</phone>
+    <email>alfareedivf@hotmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Muhammad Irfan Malik</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punjab</state>
+        <zip>54500</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Muhammad Irfan malik, FCPS</last_name>
+      <phone>03334367220</phone>
+      <email>drmirfanmalik@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <reference>
+    <citation>Wang Y, Jiang W, He Q, Wang C, Wang B, Zhou P, Dong N, Tong Q. A retrospective cohort study of methylprednisolone therapy in severe patients with COVID-19 pneumonia. Signal Transduct Target Ther. 2020 Apr 28;5(1):57. doi: 10.1038/s41392-020-0158-2.</citation>
+    <PMID>32341331</PMID>
+  </reference>
+  <reference>
+    <citation>Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, Liu S, Zhao P, Liu H, Zhu L, Tai Y, Bai C, Gao T, Song J, Xia P, Dong J, Zhao J, Wang FS. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med. 2020 Apr;8(4):420-422. doi: 10.1016/S2213-2600(20)30076-X. Epub 2020 Feb 18. Erratum in: Lancet Respir Med. 2020 Feb 25;:.</citation>
+    <PMID>32085846</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Lahore General Hospital</investigator_affiliation>
+    <investigator_full_name>Dr. M.Irfan Malik</investigator_full_name>
+    <investigator_title>Associate Professor of Pulmonology / Focal Person COVID-19</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Methylprednisolone</keyword>
+  <keyword>Clinical outcome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Methylprednisolone Acetate</mesh_term>
+    <mesh_term>Methylprednisolone Hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone</mesh_term>
+    <mesh_term>Prednisolone acetate</mesh_term>
+    <mesh_term>Prednisolone hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone phosphate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

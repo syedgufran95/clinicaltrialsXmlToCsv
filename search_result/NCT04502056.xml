@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="436">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04502056</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2029880</org_study_id>
+    <nct_id>NCT04502056</nct_id>
+  </id_info>
+  <brief_title>Covid-19 Messaging to Underserved Communities - 2nd Experiment</brief_title>
+  <official_title>Covid-19 Messaging to Underserved Communities - 2nd Experiment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Bureau of Economic Research, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harvard University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Bureau of Economic Research, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to build off results from our first experiment (NCT04371419) , and
+      test whether messages that acknowledge racial injustice on behalf of institutions affect the
+      retention of knowledge and movement of beliefs and behavior with respect to Covid-19. The
+      investigators will also test the effect of concordance of providers and whether highlighting
+      the unequal burden of the disease has additional effects on knowledge, beliefs and behavior
+      regarding covid-19. The sample will include African American and white adult Americans and
+      oversample those with less than a college degree.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Recent data have shown that covid19 is disproportionately infecting and killing African
+      Americans and Latinx people in the United States. Moreover, since our last experiment, the
+      killing of George Floyd by Minnesota police has raised awareness of structural racism in the
+      United States.
+
+      The aim of the study is to build off results from our first experiment (NCT04371419) , and
+      test whether messages that acknowledge racial injustice on behalf of institutions affect the
+      retention of knowledge and movement of beliefs and behavior with respect to Covid-19. The
+      investigators will also test the effect of concordance of providers and whether highlighting
+      the unequal burden of the disease has additional effects on knowledge, beliefs and behavior
+      regarding covid-19.The sample will include African American and white adult Americans and
+      oversample those with less than a college degree.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The number of participants with knowledge of COVID related symptoms and transmission as assessed by a questionnaire we've developed specifically relevant to the intervention videos we are using for the project.</measure>
+    <time_frame>immediately following the intervention</time_frame>
+    <description>We discuss asymptomatic transmission as well as the common symptoms of cough, fever, shortness of breath and loss of taste/smell.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The number of participants with knowledge of COVID related symptoms and transmission as assessed by a questionnaire we've developed specifically relevant to the intervention videos we are using for the project.</measure>
+    <time_frame>At a follow-up within 2 weeks following the intervention</time_frame>
+    <description>We discuss asymptomatic transmission as well as the common symptoms of cough, fever, shortness of breath and loss of taste/smell.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Behavioral outcome 1: Number of participants who report behavior change related to messages provided in the intervention videos; measured via a specific questionnaire instrument we've developed to correspond to the intervention.</measure>
+    <time_frame>immediately following the intervention</time_frame>
+    <description>Specific behaviors include physical distancing, mask wearing and hand hygiene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Behavioral outcome 1: Number of participants who report behavior change related to messages provided in the intervention videos; measured via a specific questionnaire instrument we've developed to correspond to the intervention.</measure>
+    <time_frame>At a follow-up within 2 weeks following the intervention</time_frame>
+    <description>Specific behaviors include physical distancing, mask wearing and hand hygiene.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Behavioral outcome 2: Willingness to pay (WTP) for masks</measure>
+    <time_frame>immediately following the intervention</time_frame>
+    <description>WTP: the participants will be asked to choose between two masks vs an unrestricted gift card. They will be asked what amount of gift card would make them just as happy to receive two mask versus the gift card.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Behavioral outcome 3: Number of people who click on links for additional information on the covid-19 behaviors</measure>
+    <time_frame>immediately following the intervention</time_frame>
+    <description>Links will include testing locations, state public health hotline and symptom tracker.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Behavioral outcome 4: The amount of money donated to a COVID-19 relief fund.</measure>
+    <time_frame>immediately following the intervention</time_frame>
+    <description>The measurement tool are donations. The participant will be asked to decide how much of $1,000 (provided by the investigators) would be donated to two charity, one focusing on COVID relief and one on Alzheimer research.</description>
+  </primary_outcome>
+  <number_of_arms>17</number_of_arms>
+  <enrollment type="Anticipated">20000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>AMA RI - B- B - R</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging racial injustice read by an African American individual. The messenger / doctor in the follow-up AMA videos will also be African American - the message on Covid will include information on the disproportionate impact on communities of color .</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA RI - B - B - N</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging racial injustice read by an African American individual. The messenger / doctor in the follow-up AMA videos will also be African American - the message on Covid will not include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA RI - B- W - R</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging racial injustice read by an African American individual. The messenger / doctor in the follow-up AMA videos will be white - the message on Covid will include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA RI - B- W - N</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging racial injustice read by an African American individual. The messenger / doctor in the follow-up AMA videos will be white - the message on Covid will not include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA RI - W - B - R</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging racial injustice read by a white individual. The messenger / doctor in the follow-up AMA videos will be African American - the message on Covid will include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA RI - W - B - N</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging racial injustice read by a white individual. The messenger/doctor in the follow-up AMA videos will be African American - the message on Covid will not include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA RI - W - W - R</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging racial injustice read by a white individual. The messenger / doctor in the follow-up AMA videos will be white - the message on Covid will include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA RI - W - W - N</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging racial injustice read by a white individual. The messenger / doctor in the follow-up AMA videos will be white - the message on Covid will not include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA DP - B- B - R</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging drug pricing read by an African American individual. The messenger / doctor in the follow-up AMA videos will also be African American - the message on Covid will include information on the disproportionate impact on communities of color .</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA DP - B- B - N</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging drug pricing read by an African American individual. The messenger / doctor in the follow-up AMA videos will also be African American - the message on Covid will not include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA DP - B- W - R</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging drug pricing read by an African American individual. The messenger / doctor in the follow-up AMA videos will also be white - the message on Covid will include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA DP - B- W - N</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging drug pricing read by an African American individual. The messenger / doctor in the follow-up AMA videos will also be white - the message on Covid will not include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA DP - W- B - R</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging drug pricing read by a white individual. The messenger / doctor in the follow-up AMA videos will be African American - the message on Covid will include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA DP - W- B - N</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging drug pricing read by a white individual. The messenger / doctor in the follow-up AMA videos will be African American - the message on Covid will not include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA DP - W- W - R</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging drug pricing read by a white individual. The messenger / doctor in the follow-up AMA videos will be white - the message on Covid will include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AMA DP - W- W - N</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Respondents will be randomized to an AMA statement acknowledging drug pricing read by a white individual. The messenger / doctor in the follow-up AMA videos will be white - the message on Covid will not include information on the disproportionate impact on communities of color.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The messages will not be related to Covid.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Acknowledgement Racial Injustice AMA</intervention_name>
+    <description>Investigators will examine whether acknowledgements of racial inequality are helpful towards improving knowledge retention and behaviors associated with the intervention among participants. In this arm, participants will receive a AMA statement on racial injustice.</description>
+    <arm_group_label>AMA RI - B - B - N</arm_group_label>
+    <arm_group_label>AMA RI - B- B - R</arm_group_label>
+    <arm_group_label>AMA RI - B- W - N</arm_group_label>
+    <arm_group_label>AMA RI - B- W - R</arm_group_label>
+    <arm_group_label>AMA RI - W - B - N</arm_group_label>
+    <arm_group_label>AMA RI - W - B - R</arm_group_label>
+    <arm_group_label>AMA RI - W - W - N</arm_group_label>
+    <arm_group_label>AMA RI - W - W - R</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>African American Sender Acknowledgement</intervention_name>
+    <description>Investigators will also vary the messenger of the acknowledgement sender. In this arm participants receive a African American sender in acknowledgment of AMA</description>
+    <arm_group_label>AMA DP - B- B - N</arm_group_label>
+    <arm_group_label>AMA DP - B- B - R</arm_group_label>
+    <arm_group_label>AMA DP - B- W - N</arm_group_label>
+    <arm_group_label>AMA DP - B- W - R</arm_group_label>
+    <arm_group_label>AMA RI - B - B - N</arm_group_label>
+    <arm_group_label>AMA RI - B- B - R</arm_group_label>
+    <arm_group_label>AMA RI - B- W - N</arm_group_label>
+    <arm_group_label>AMA RI - B- W - R</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>African American Sender in Informational Videos.</intervention_name>
+    <description>Investigators will vary the sender of the informational covid-19 videos. In this arm, participants receive a African American sender in informational videos.</description>
+    <arm_group_label>AMA DP - B- B - N</arm_group_label>
+    <arm_group_label>AMA DP - B- B - R</arm_group_label>
+    <arm_group_label>AMA DP - W- B - N</arm_group_label>
+    <arm_group_label>AMA DP - W- B - R</arm_group_label>
+    <arm_group_label>AMA RI - B - B - N</arm_group_label>
+    <arm_group_label>AMA RI - B- B - R</arm_group_label>
+    <arm_group_label>AMA RI - W - B - N</arm_group_label>
+    <arm_group_label>AMA RI - W - B - R</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Racial Inequality Highlighted</intervention_name>
+    <description>Investigators will include information on race-specific covid-19 cases and deaths in one variation in the messaging. In this arm, participants receive disproportionate race-specific Covid-19 facts</description>
+    <arm_group_label>AMA DP - B- B - R</arm_group_label>
+    <arm_group_label>AMA DP - B- W - R</arm_group_label>
+    <arm_group_label>AMA DP - W- B - R</arm_group_label>
+    <arm_group_label>AMA DP - W- W - R</arm_group_label>
+    <arm_group_label>AMA RI - B- B - R</arm_group_label>
+    <arm_group_label>AMA RI - B- W - R</arm_group_label>
+    <arm_group_label>AMA RI - W - B - R</arm_group_label>
+    <arm_group_label>AMA RI - W - W - R</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>AMA Acknowledgement Drug Pricing</intervention_name>
+    <description>Investigators will examine whether acknowledgements of racial inequality are helpful towards improving knowledge retention and behaviors associated with the intervention among participants. In this arm, participants receive AMA information on drug pricing</description>
+    <arm_group_label>AMA DP - B- B - N</arm_group_label>
+    <arm_group_label>AMA DP - B- B - R</arm_group_label>
+    <arm_group_label>AMA DP - B- W - N</arm_group_label>
+    <arm_group_label>AMA DP - B- W - R</arm_group_label>
+    <arm_group_label>AMA DP - W- B - N</arm_group_label>
+    <arm_group_label>AMA DP - W- B - R</arm_group_label>
+    <arm_group_label>AMA DP - W- W - N</arm_group_label>
+    <arm_group_label>AMA DP - W- W - R</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>White Sender in Acknowledgement</intervention_name>
+    <description>Investigators will also vary the messenger of the acknowledgement sender. In this arm, participants receive a white sender in the acknowledgement</description>
+    <arm_group_label>AMA DP - W- B - N</arm_group_label>
+    <arm_group_label>AMA DP - W- B - R</arm_group_label>
+    <arm_group_label>AMA DP - W- W - N</arm_group_label>
+    <arm_group_label>AMA DP - W- W - R</arm_group_label>
+    <arm_group_label>AMA RI - W - B - N</arm_group_label>
+    <arm_group_label>AMA RI - W - B - R</arm_group_label>
+    <arm_group_label>AMA RI - W - W - N</arm_group_label>
+    <arm_group_label>AMA RI - W - W - R</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>White Sender in Informational Videos</intervention_name>
+    <description>Investigators will vary the messenger of the informational covid-19 videos. In this arm, participants receive white sender in the informational video</description>
+    <arm_group_label>AMA DP - B- W - N</arm_group_label>
+    <arm_group_label>AMA DP - B- W - R</arm_group_label>
+    <arm_group_label>AMA DP - W- W - N</arm_group_label>
+    <arm_group_label>AMA DP - W- W - R</arm_group_label>
+    <arm_group_label>AMA RI - B- W - N</arm_group_label>
+    <arm_group_label>AMA RI - B- W - R</arm_group_label>
+    <arm_group_label>AMA RI - W - W - N</arm_group_label>
+    <arm_group_label>AMA RI - W - W - R</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>No Racial Inequality Highlighting</intervention_name>
+    <description>In this arm, the disproportionate burden of Covid-19 on communities of color will not be highlighted</description>
+    <arm_group_label>AMA DP - B- B - N</arm_group_label>
+    <arm_group_label>AMA DP - B- W - N</arm_group_label>
+    <arm_group_label>AMA DP - W- B - N</arm_group_label>
+    <arm_group_label>AMA DP - W- W - N</arm_group_label>
+    <arm_group_label>AMA RI - B - B - N</arm_group_label>
+    <arm_group_label>AMA RI - B- W - N</arm_group_label>
+    <arm_group_label>AMA RI - W - B - N</arm_group_label>
+    <arm_group_label>AMA RI - W - W - N</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Placebo videos</intervention_name>
+    <description>Videos not related to covid-19 will be shown</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  adults who self-identify as African American or white.
+
+          -  an oversample of individuals with less than a college education
+
+        Exclusion Criteria:
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>JPAL North America</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Massachusetts</state>
+        <zip>02138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Bureau of Economic Research, Inc.</investigator_affiliation>
+    <investigator_full_name>Esther Duflo</investigator_full_name>
+    <investigator_title>Abdul Latif Jameel Professor of Poverty Alleviation and Development Economics, MIT; Co-Director, Abdul Latif Jameel Poverty Action Lab</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

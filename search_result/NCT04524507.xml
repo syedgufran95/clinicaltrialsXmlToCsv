@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="361">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04524507</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-1544</org_study_id>
+    <nct_id>NCT04524507</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Antibody Plasma Research Study in Hospitalized Patients</brief_title>
+  <acronym>UNC CCP RCT</acronym>
+  <official_title>IGHID 12021 - A Randomized, Phase II Study Comparing the Efficacy and Safety of Standard Versus High-Titer Anti-SARS-CoV2 Neutralizing Antibody Plasma in Hospitalized Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of North Carolina, Chapel Hill</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of North Carolina, Chapel Hill</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to find out if CCP is safe and to determine the safest
+      and most effective level of anti-viral antibody when given to people admitted to the hospital
+      with confirmed COVID-19 infection. Participants enrolled on this study will be transfused
+      with 2 units of CCP through an IV. These units will be given one at a time 4 to 24 hours
+      apart. Participants will be randomized to receive either 2 units with standard antibody
+      levels as recommended by the FDA or 2 units with an antibody level higher than that
+      recommended by the FDA. This study is experimental and CCP is investigational and has not
+      been approved by the FDA for the treatment of COVID-19. The CCP is collected per FDA
+      guidelines from persons recovered from COVID-19 infection. The plasma contains antibodies and
+      possibly other properties that inhibit the virus. The investigators do not know if the level
+      of antibodies present in the CCP will make a difference in how the participant's body is able
+      to fight the infection and hope to learn that in this study.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This randomized, double-blinded, phase 2 trial will assess the efficacy and safety of
+      anti-SARS-CoV-2 convalescent plasma in hospitalized patients with less than 8 days of
+      symptoms. Eligible participants will receive institutional-guided standard-of-care (SOC) and
+      ABO-compatible convalescent COVID-19 plasma (CCP). The CCP units will be tested for the
+      presence of anti-SARS-CoV-2 antibodies and pre-assigned as high-titer (CCP1) or
+      standard-titer (CCP2) in a 1:1 randomization. Participants and clinical investigators will be
+      blinded to the CCP titer group identities.
+
+      The investigators plan to enroll approximately 56 participants (28 in each group) at
+      UNC-Chapel Hill. Participants will be randomized within 48 hours of admission to a COVID
+      service and will receive convalescent plasma within 24 hours of randomization. At least two
+      units of CCP will be transfused 4-24 hours apart on study Day 0. If available, a third unit
+      may be administered. All participants will undergo a series of safety and efficacy
+      assessments pre-, during, and post-transfusion. Samples for research will be collected on Day
+      0 through Day 28, unless previously discharged. Additionally, after discharge, participants
+      can provide longitudinal samples collected at 1, 3, and 6-month timepoints after the
+      infusion.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 27, 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study has 2 treatment arms and participants will be assigned/randomized to one arm:
+CCP1 - CCP tested for the presence of anti-SARS-CoV-2 antibodies and assigned high-titer
+CCP2 - CCP tested for the presence of anti-SARS-CoV-2 antibodies and assigned standard-titer</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>This study is double-blinded so neither the participant nor the study team/investigators will know which plasma treatment (CCP1 or CCP2) that the participant is receiving.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cumulative Incidence of Serious Adverse Events (SAEs) at study Day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>Total number of SAEs among all participants at Day 14; Definition of SAE per protocol and will only be included if related to CCP: 1. Death. 2. Life-threatening (immediate risk of death). 3. Prolongation of existing hospitalization. 4. Persistent or significant disability or incapacity. OR 5. Important medical events that may not result in death, be life threatening, or require intervention or escalation of care may be considered a serious adverse event when, based upon appropriate medical judgment, they may jeopardize the subject and may require medical or surgical intervention to prevent one of the outcomes listed in this definition. Examples of such medical events include allergic bronchospasm requiring intensive treatment in an emergency room or at home, blood dyscrasias, or convulsions that do not result in inpatient hospitalization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Days to hospital discharge (or discharge equivalent) following first dose of CCP</measure>
+    <time_frame>28 days</time_frame>
+    <description>Average number of days to hospital discharge following first dose of CCP among all participants</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">56</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>High-Titer (CCP1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Within 8 days of COVID symptom onset and no more than 48 hours following hospitalization, participants will be randomized to and receive high-titer ABO-compatible convalescent COVID-19 plasma (CCP1) within 24 hours following random assignment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard-Titer (CCP2)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Within 8 days of COVID symptom onset and no more than 48 hours following hospitalization, participants will be randomized to and receive standard-titer ABO-compatible convalescent COVID-19 plasma (CCP2) within 24 hours following random assignment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>High-titer Convalescent COVID-19 Plasma (CCP1)</intervention_name>
+    <description>At least two units of CCP transfused 4-24 hours apart on Study Day 0. A third unit may be administered, if available.</description>
+    <arm_group_label>High-Titer (CCP1)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Standard-titer Convalescent COVID-19 plasma (CCP2)</intervention_name>
+    <description>At least two units of CCP transfused 4-24 hours apart on Study Day 0. A third unit may be administered, if available.</description>
+    <arm_group_label>Standard-Titer (CCP2)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age at least 18 years
+
+          2. Ability and willingness of participant or Legally Authorized Representative (LAR) to
+             give written informed consent.
+
+          3. Laboratory confirmed diagnosis of infection with SARS-CoV-2 by PCR
+
+          4. Hospitalized for COVID-19 with one or more respiratory or gastrointestinal (GI)
+             symptoms:
+
+               -  COVID-19 associated respiratory symptoms include but are not limited to: cough,
+                  shortness of breath, difficulty breathing, or sore throat
+
+               -  COVID-19 associated GI symptoms include but are not limited to: loss of taste,
+                  loss of sense of smell, diarrhea, nausea, or vomiting,
+
+        Note: Respiratory and GI symptoms other than those listed above, must be noted as
+        acceptable and signed by study PI or designee.
+
+        Exclusion Criteria:
+
+          1. Receipt of pooled immunoglobulin in past 30 days
+
+          2. Current or prior enrollment in a SARS-CoV-2 antibody or T-cell therapeutic study.
+
+             Note: Patients enrolled on other randomized controlled trials of pharmaceutical and/or
+             non-pharmaceutical interventions for COVID and meeting eligibility criteria will not
+             be excluded, as determined by study PI (or designee) on a case-by-case basis and as
+             allowed by eligibility criteria of the other trials.
+
+          3. Contraindication to transfusion or history of prior reactions to transfusion blood
+             products. This may include religious or cultural objections to receiving blood
+             products and transfusions.
+
+          4. ABO-compatible titered plasma is not available
+
+          5. &gt; 10 days from noted COVID-related subjective or objective fever at randomization.
+             Patients without subjective or objective fever, &gt; 10 days from symptom onset as
+             determined by study PI.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Luther A Bartelt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UNC-Chapel Hill</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David M Margolis, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UNC-Chapel Hill</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>JoAnn Kuruc, RN, MSN</last_name>
+    <phone>919-966-8533</phone>
+    <email>joann_kuruc@med.unc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Brian Gurney, ACNP, FNP</last_name>
+    <phone>919-843-6848</phone>
+    <email>brian_gurney@med.unc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of North Carolina Health Care</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>JoAnn Kuruc, RN, MSN</last_name>
+      <phone>919-966-8533</phone>
+      <email>joann_kuruc@med.unc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Brian Gurney, ACNP, FNP</last_name>
+      <phone>919-843-6848</phone>
+      <email>brian_gurney@med.unc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Luther A Bartelt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David M Margolis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David van Duin, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 24, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Infection</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Randomized</keyword>
+  <keyword>Hospitalized</keyword>
+  <keyword>Plasma</keyword>
+  <keyword>Neutralizing</keyword>
+  <keyword>Antibody</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified individual data that supports the results will be shared beginning 12 to 24 months following publication provided the investigator/researcher who proposes to use the data has approval from an Institutional Review Board (IRB), Independent Ethics Committee (IEC), or Research Ethics Board (REB), as applicable, and executes a data use/sharing agreement with UNC.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>12-24 months after publication</ipd_time_frame>
+    <ipd_access_criteria>Investigators/researchers who propose to use study data will need to have IRB, IEC, or REB approval and an executed data use/sharing agreement with UNC.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

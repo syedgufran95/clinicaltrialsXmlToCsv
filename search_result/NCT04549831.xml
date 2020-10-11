@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="156">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04549831</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16917</org_study_id>
+    <nct_id>NCT04549831</nct_id>
+  </id_info>
+  <brief_title>Genetic Bases of COVID-19 Clinical Variability</brief_title>
+  <acronym>GEN-COVID</acronym>
+  <official_title>Identification of the Genetic Bases Determining COVID-19 Clinical Variability in the Italian Population</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Siena</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Policlinico San Matteo Pavia Fondazione IRCCS</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ospedale San Donato, Arezzo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ospedale della Misericordia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Azienda Ospedaliera Ospedale Maggiore di Crema</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Modena and Reggio Emilia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ASST Fatebenefratelli Sacco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Azienda Ospedaliera di Perugia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ospedale dell'Angelo, Venezia-Mestre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Azienda Ulss 2 Marca Trevigiana</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cardarelli Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Azienda Ospedaliera dei Colli</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la Ricerca sul Cancro, Genoa, Italy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Istituto Giannina Gaslini</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Istituti Ospitalieri di Cremona</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>IRCSS Lazzaro Spallanzani, Roma</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ASST Santi Paolo e Carlo, Milano</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ASST Valtellina e Alto Lario</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Azienda USL Toscana Sud-Est</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ULSS1 Dolomiti, Belluno</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ASST Spedali Civili, Brescia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>IRCCS Casa Sollievo della Sofferenza, San Giovanni Rotondo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fondazione Policlinico Universitario Agostino Gemelli IRCCS</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ospedale Luigi Curto, Polla</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Istituto Auxologico Italiano</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>CEINGE Biotecnologie Avanzate, Napoli</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Siena</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      GEN-COVID multicenter study aims to identify the genetic variants of the host genome
+      responsible for the clinical variability of patients with COVID-19. This variability to date
+      is only partially related to the age and comorbidities of patients. The primary objective of
+      the study is therefore to identify genetic variants associated with the severity of the
+      disease, while the secondary objective consists in the identification of variants associated
+      with longitudinal disease trajectories.
+
+      This is a laboratory study that involves the conduct of genetic investigations, including
+      whole exome sequencing and genome wide association studies, on human biological material from
+      patients affected by COVID-19.
+
+      Clinical information useful to describe the level of disease severity will be also collected
+      for each enrolled patient.
+
+      A total of at least 2,000 COVID-19 patients is expected to be included.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The outbreak of the coronavirus disease 2019 (COVID-19), the Severe Acute Respiratory
+      Syndrome caused by SARS-CoV-2, that first appeared in December 2019 in Wuhan, Huanan, Hubei
+      Province of China, has resulted in millions of cases worldwide within a few short months, and
+      rapidly evolving into a real pandemic. The COVID-19 pandemic represents an enormous challenge
+      to the world's healthcare systems. Among the European countries, Italy was the first to
+      experience the epidemic wave of SARS-CoV-2 infection, accompanied by a severe clinical
+      picture and a mortality rate reaching 14%.
+
+      The disease is characterized by a highly heterogeneous phenotypic response to SARS-CoV-2
+      infection, with the large majority of infected individuals having only mild or even no
+      symptoms. However, the severe cases can rapidly evolve towards a critical respiratory
+      distress syndrome and multiple organ failure. The symptoms of COVID-19 range from fever,
+      cough, sore throat, congestion, and fatigue to shortness of breath, hemoptysis, pneumonia
+      followed by respiratory disorders and septic shocks.
+
+      The GEN-COVID is a multicentre academic observational study designed to collect and
+      systematize biological samples and clinical data across multiple hospitals and healthcare
+      facilities in Italy with the purpose of deriving patient-level phenotypic and genotypic data.
+      The project aims to identify the genetic determinants of COVID-19 clinical variability
+      studying host genetics. Genetic analyses will include Genome Wide Association Studies,
+      performed by the Institute of Molecular Medicine in Finland (FIMM), and Whole Exome
+      Sequencing (WES) performed by the University of Siena. SARS-CoV-2 infected individuals (swab
+      virus PCR-positive) showing clinical different severity will be collected. In particular
+      enrolled subjects will include only adults (subjects with age higher or equal to 18 years)
+      with the following clinical status types: asymptomatic individuals, home care patients with
+      mild symptoms and hospitalized patients (i-those requiring invasive ventilation; ii-those
+      requiring non-invasive ventilation i.e. CPAP and BiPAP, and high-flows oxygen therapy; iii-
+      those requiring conventional oxygen therapy, and iv-those not requiring oxygen therapy).
+
+      Funding. MIUR project &quot;Dipartimenti di Eccellenza 2018-2020&quot; to Department of Medical
+      Biotechnologies University of Siena, Italy; Private donors for COVID research (Italian D.L.
+      n.18 March 17, 2020).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 8, 2020</start_date>
+  <completion_date type="Anticipated">April 8, 2026</completion_date>
+  <primary_completion_date type="Anticipated">April 8, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To identify the genetic determinants of COVID-19 severity</measure>
+    <time_frame>6 years</time_frame>
+    <description>Identification of one or more candidate gene(s) responsible for the severe outcome and subsequent use of it/them for prognostic purposes and preventive treatment and/or care.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To identify the genetic determinants of COVID-19 clinical trajectories.</measure>
+    <time_frame>6 years</time_frame>
+    <description>Identification of candidate gene(s) responsible for the COVID-19 clinical trajectories.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 PCR positive individuals</arm_group_label>
+    <description>Adult (&gt; o equal to 18 years) SARS-CoV-2 PCR positive individuals with different clinical outcome: from asymptomatic to severely affected COVID-19 patients.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Massive parallel sequencing of host genome</intervention_name>
+    <description>Massive parallel sequencing and genotyping of host genome of individuals infected with SARS-CoV-2 and showing different clinical outcomes from asymptomatic to severely affected patients in order to identify the genetic determinants of severe COVID-19 and the genetic protective factors.</description>
+    <arm_group_label>SARS-CoV-2 PCR positive individuals</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Whole blood and derivates such as plasma, serum, DNA, lymphocytes, lymphoblastic cell lines,
+      naso/oro-pharyngeal swab and derivates such as RNA, DNA.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Hospitalized patients, outpatients, asymptomatic individuals
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age &gt; or equal to 18
+
+          -  SARS-CoV-2 PCR positive on swab
+
+        Exclusion Criteria:
+
+          -  none
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francesca Mari, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Siena</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alessandra Renieri, MD, PhD</last_name>
+    <phone>00390577233303</phone>
+    <email>alessandra.renieri@unisi.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Siena</name>
+      <address>
+        <city>Siena</city>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alessandra Renieri, MD, PhD</last_name>
+      <phone>00390577233303</phone>
+      <email>alessandra.renieri@unisi.it</email>
+    </contact>
+    <investigator>
+      <last_name>Francesca Mari, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <link>
+    <url>http://doi.org/10.1101/2020.07.24.20161307</url>
+    <description>Employing a Systematic Approach to Biobanking and Analyzing Genetic and Clinical Data for Advancing COVID-19 Research</description>
+  </link>
+  <link>
+    <url>http://sites.google.com/dbm.unisi.it/gen-covid</url>
+    <description>GEN-COVID: Impact of Host Genome on COVID-19 clinical variability</description>
+  </link>
+  <reference>
+    <citation>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.</citation>
+    <PMID>31978945</PMID>
+  </reference>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 15, 2020</study_first_posted>
+  <last_update_submitted>September 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Azienda Ospedaliera Universitaria Senese</investigator_affiliation>
+    <investigator_full_name>Francesca Mari</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Host Genetics</keyword>
+  <keyword>Genetic susceptibility</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Relevant information coming from the genetic results of the study will be made available to the scientific community through the Network of Italian Genomes (NIG)</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Already available</ipd_time_frame>
+    <ipd_access_criteria>Publicly available</ipd_access_criteria>
+    <ipd_url>http://nigdb.cineca.it</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

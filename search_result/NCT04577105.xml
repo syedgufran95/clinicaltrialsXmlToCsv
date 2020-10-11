@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2251">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04577105</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-1177</org_study_id>
+    <nct_id>NCT04577105</nct_id>
+  </id_info>
+  <brief_title>Risk Factors and Computed Tomography Findings in COVID-19.</brief_title>
+  <official_title>Risk Factors, Prognosis and Findings by Computed Tomography in Patients Infected by COVID-19 and Its Association With Severity.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto Nacional de Cardiologia Ignacio Chavez</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instituto Nacional de Cardiologia Ignacio Chavez</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the SARS-CoV2 pandemic, imaging studies proved its diagnostic utility to determine the
+      severity of lung involvement. Computed tomography (CT) is a state-of-the-art study proven to
+      be a highly sensitive diagnostic test complemented by RT-PCR testing to determine the disease
+      and the degree of severity.
+
+      In March 2020, the Dutch Society of Radiology developed a standardized assessment scheme for
+      COVID-19 lung disease, called CO-RADS. This system proposes a level of suspicion of pulmonary
+      involvement of COVID-19, based on the simple chest tomography findings. The level of
+      suspicion ranges from very low (CO-RADS 1) to very high (CO-RADS 5), with two additional
+      categories involving a technically deficient study (CO-RADS 0) and a positive RT-PCR test for
+      SARS -CoV-2 known before tomography (CO-RADS 6).
+
+      For its part, acute respiratory damage secondary to SARS-COV2 pneumonia causes acute
+      respiratory distress syndrome, which warrants immediate medical attention. During the
+      evaluation and triage of patients with suspected or confirmed SARS-COV2 infection, it is a
+      challenge for health personnel given that the severity and clinical presentation is highly
+      variable. The patient's risk stratification is carried out using previously established and
+      validated risk scales and is a fundamental tool for making clinical decisions. Some of the
+      risk indices and scales have been developed and used in the pandemic epicenters, such as
+      China and Europe. Useful for the clinician is the national early warning scale (NEWS 2),
+      severe disease risk assessment score (COVID-GRAM), the rapid severity index for COVID-19
+      (qCSI), evaluation score of Modified sequential organ failure (mSOFA), the sepsis-induced
+      coagulopathy score (SIC), the ROX index as a predictor of success to the high-flow nasal
+      cannula. The evaluation of the risk of thrombotic complications such as the Padua risk, of
+      cardiac complications such as QT segment prolongation, through the Tisdale risk score.
+
+      Risk stratification is essential in the current COVID-19 pandemic situation; upon admission,
+      the clinician will discern if the patient requires in-hospital medical treatment, the risk of
+      severe disease, and progression to assisted mechanical ventilation.
+
+      This work aims to establish whether the severity of the findings identified by cardiac
+      tomography upon admission and the risk established by the different established prognostic
+      indices.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction
+
+      In the SARS-CoV2 pandemic, imaging studies proved its diagnostic utility to determine the
+      severity of lung involvement. Computed tomography (CT) is a state-of-the-art study proven to
+      be a highly sensitive diagnostic test complemented by RT-PCR testing to determine the disease
+      and the degree of severity.
+
+      In March 2020, the Dutch Society of Radiology developed a standardized assessment scheme for
+      COVID-19 lung disease, called CO-RADS. This system proposes a level of suspicion of pulmonary
+      involvement of COVID-19, based on the simple chest tomography findings. The level of
+      suspicion ranges from very low (CO-RADS 1) to very high (CO-RADS 5), with two additional
+      categories involving a technically deficient study (CO-RADS 0) and a positive RT-PCR test for
+      SARS -CoV-2 known before tomography (CO-RADS 6).
+
+      Acute respiratory damage secondary to SARS-COV2 pneumonia causes acute respiratory distress
+      syndrome, which must meet the Berlin criteria. The evaluation and triage of patients with
+      suspected or confirmed SARS-COV2 infection is a challenge for emerging healthcare systems.
+      The risk stratification of the patient is carried out with previously established and
+      validated risk scales.
+
+      However, scales such as the national early warning scale (NEWS 2) are an option for health
+      personnel, NEWS 2 determines the degree of illness of a patient and promotes intensive care
+      intervention. It includes assessing oxygen saturation, hypercapnic respiratory failure
+      (usually chronic obstructive pulmonary disease), confusion, disorientation, delirium, or any
+      reduction in the Glasgow coma scale as potential findings of clinical deterioration. With a
+      score of 0-4, it grants a low risk. It recommends the evaluation carried out by a competent
+      registered nurse or equivalent to decide the change in the frequency of clinical follow-up or
+      the intensification of care, on the contrary with a score of more than 7, grants high risk
+      and recommends Emergency Assessment by a clinical or intensive care team and is usually
+      transferred to a higher level of care.
+
+      Predicting the development of severe pneumonia and the need for ventilatory support is vital
+      for the clinician, as is the scale of COVID-GRAM; which assesses abnormalities in
+      radiography, age of the patient, hemoptysis, dyspnea, state of consciousness, number of
+      comorbidities, neutrophil/lymphocyte index, lactic dehydrogenase and direct bilirubin. It
+      establishes three risk groups: the mild one with a risk of critical illness of less than 1.7%
+      and the high risk of more than 40.4%.
+
+      The even more simplified rapid severity index for COVID-19 (qCSI) predicts the risk of acute
+      respiratory disease in 24 hours in patients admitted from the emergency department. Only the
+      heart rate, oxygen saturation, and oxygen flow to the patient are quantified. A score less
+      than or equal to 3 gives a low risk with a critical illness risk of 4%, while a score of
+      10-12 gives a high risk and a critical illness probability of 57%.
+
+      Regarding sepsis evaluation, the mSOFA scale implemented in 2010 and validated in 2019 can
+      predict in-hospital mortality and 30 days, with a minimum score of 0-7 that translates
+      mortality of 0% and a score greater than 11 translates mortality of 58%. The risk of
+      coagulopathy induced by sepsis secondary to COVID-19 will be present, and the sepsis-induced
+      coagulopathy score scale (SIC) refers to the diagnosis of coagulopathy when the score is more
+      significant than four, or the INR is greater than or equal to 3.
+
+      On the other hand, oxygen therapy is a cornerstone in the treatment of respiratory distress
+      secondary to SARS-COV2 pneumonia; therapy with high flow nasal cannula (CNAF) in the
+      treatment of acute respiratory failure (ARF), the ROX index (IROX) has been proposed as a
+      predictor of the success of CNAF at 2, 6 and 12 h of a treatment since it is essential to
+      have tools that allow us to detect failure early of the technique since a delay in intubation
+      can lead to increased mortality. A ROX index less than 3.85 predicts a high risk of the need
+      for intubation, and a value of 4.88 predicts a low risk of intubation.
+
+      In the present pandemic, numerous reports of the coexistence of a hyper coagulant state
+      secondary to COVID-19 infection have become evident, so evaluating the thrombotic risk and
+      initiation of anticoagulation is essential and accepted in the standard treatment in patients
+      with SARS infection -COV2. The Padua Risk is used; it is a simple risk assessment (MSER) that
+      can help clinicians discriminate between the high and low risk of venous thrombus embolism
+      (VTE). A score greater than or equal to four was not associated with VTE during or after
+      hospitalization; however, a Padua score of ≥4 was associated with higher mortality.
+
+      Regarding the therapeutics to be used, all drugs' adverse effect is known, which is why it is
+      necessary to scrutinize some used in SARS-CoV2 infection, such as the use of certain
+      antimalarials, antibiotics, and antivirals-leading to alterations in heart rhythm, the
+      Tisdale risk score for the risk of QT segment prolongation more significant than 500 ms
+      during hospitalization. A Tisdale score less than 6 translates to a low risk of QT
+      prolongation, while a score of more than 11 translates to high risk, and it is recommended to
+      consult with the pharmacist, adjust the risk factors as much as possible and use alternative
+      medications if possible.
+
+      Risk stratification is essential in the current COVID-19 pandemic situation; upon admission,
+      the clinician will discern if the patient requires in-hospital medical treatment, the risk of
+      severe disease, and progression to assisted mechanical ventilation. This work aims to
+      establish whether the severity of the findings identified by cardiac tomography upon
+      admission and the risk established by the different established prognostic indices.
+
+      Problem Statement
+
+      The severity of the disease is influenced by comorbidities resulting from complications or
+      death in any disease. In SARS-CoV2, it is known that conditions such as diabetes mellitus,
+      obesity, systemic arterial hypertension, neoplastic or autoimmune disease can increase the
+      risks of fatal outcomes. However, timely decisions to offer optimal therapy are a priority in
+      the present global health situation.
+
+      In this COVID-19 pandemic, the risk indices and scales are of vital importance in the correct
+      risk stratification of the patient with SARS-CoV2 infection, which leads to a better medical
+      approach decision, which therefore leads to better outcomes.
+
+      Research Question
+
+      Will the prognostic indices and the specific staging allow us to identify with greater
+      certainty a clinical state of severity in patients infected with SARS-CoV2?
+
+      Justification
+
+      Despite the significant advances in basic and clinical research during this year, severe
+      SARS-CoV2 pneumonia and sepsis with multiple organ failure have been the leading cause of
+      morbidity and mortality in intensive care units worldwide. The analysis of the
+      pathophysiological mechanisms responsible for this pandemic has allowed us to recognize some
+      critical points for its control and therapeutic management; however, it is necessary to
+      search for new, mainly preventive treatments where the critical measures of timely
+      recognition of patients who can evolve to a deleterious condition.
+
+      The management and therapeutic decision granted to patients admitted for COVID-19 infection
+      in a hospital should be uniformly known by the health personnel who treat them. However, for
+      those specific points are required, easy to obtain at any healthcare center's disposition.
+
+      Although many indices allow follow-up to regulate medical behavior, many fatal outcomes were
+      related to the non-standardization and interpretation of the clinical data that the patient
+      had at the time of requesting medical attention. The use of imaging studies when suspected of
+      COVID-19 was a universal decision that allowed to regulate therapeutic decisions and
+      hospitalization of the patient. The ambiguity and variability of the clinical expression that
+      patients infected with SARS-CoV2 presented at the time of the first evaluation in the
+      emergency department are known.
+
+      It is necessary to analyze the performance of the various indices and the data provided by
+      tomography to determine if there are relevant parameters from the beginning that subsequently
+      led them to be critically ill.
+
+      This study intends to evaluate the correlation of the severity indices by computed tomography
+      and the clinical risk indices. These clinical and laboratory variables are evaluated in the
+      patient's first contact concerning their health status and clinical outcome.
+
+      Goals
+
+      Overall objective:
+
+      • Determine the severity and prognosis of COVID-19 through computed tomography evaluation and
+      the patient's various risk indices in their initial medical evaluation.
+
+      Particular objectives:
+
+        -  Describe the findings in lung computed tomography in COVID-19 (ground glass, pleural
+           effusion, pneumothorax, areas of condensation, etc.).
+
+        -  Calculate CO-RADS
+
+        -  Calculate the score for pneumonia severity (CURB-65).
+
+        -  Calculate the COVID-GRAM score.
+
+        -  Calculate the neutrophil/lymphocyte ratio.
+
+        -  Calculate the modified sequential organ failure assessment (mSOFA) score.
+
+        -  Calculate the sepsis-induced coagulopathy (SIC) score
+
+        -  Calculate the ROX ratio
+
+        -  Calculate the rapid COVID-19 severity index (qCSI)
+
+        -  Calculate the arterial alveolus gradient score.
+
+        -  Calculate Tisdale score for risk of QT prolongation.
+
+        -  Calculate the Berlin score for ARDS.
+
+      Hypothesis
+
+      Alternative hypothesis:
+
+      The CO-RADS by computed tomography and the combined initial risk stratification indices
+      establish severity and prognosis in patients with COVID-19 infection.
+
+      Materials and methods
+
+      Study design.
+
+      It is a retrospective, observational, comparative, and cross-sectional study at the Ignacio
+      Chávez National Institute of Cardiology. Patients will be evaluated in whom, through the
+      initial triage, a computed tomography (CT) scan was requested due to suspected pneumonia due
+      to COVID-19, between April 1 and August 28, 2020.
+
+      Sample size calculation
+
+      This is a study calculated to determine the severity using computed tomography and its
+      correlation with the indices, with which 236 subjects have been calculated in the recruitment
+      of patients with an objective sample. This method approaches the calculation of the different
+      forecasts determined by correlation.
+
+      Origin of the subjects.
+
+      Patients admitted to the emergency department, coronary unit, or post-surgical therapy unit
+      of the National Institute of Cardiology Ignacio Chávez.
+
+      Analysis strategy
+
+      Continuous variables will be expressed as mean with standard deviation; categorical variables
+      are expressed as frequencies and percentages. The normality of the variables will be
+      evaluated using the Shapiro-Wilk test. Those variables with normal distribution will be
+      analyzed with parametric tests (Student's t-test). Various non-parametric tests
+      (Mann-Whitney, Kruskal-Wallis test, or Wilcoxon signed-rank test depending on the particular
+      case) will be used to contrast variables without Gaussian distribution. For the multivariate
+      analysis, binary logistic regression analysis or a multivariate regression escalation will be
+      performed depending on the findings.
+
+      Ethical considerations
+
+      This protocol will be sent for review by the Ethics and Research Committees of the Ignacio
+      Chávez National Institute of Cardiology and will be based on the Declaration of Helsinki's
+      recommendations. The anonymity of all patients will be preserved. It is an observational
+      study without intervention, so that it will be initiated through the authorization of the
+      Research Committee's decision.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 1, 2020</start_date>
+  <completion_date type="Actual">October 1, 2020</completion_date>
+  <primary_completion_date type="Actual">August 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assessment of the level of suspicion of SARS-CoV2 infection</measure>
+    <time_frame>At hospital admission</time_frame>
+    <description>CO-RADS will categorize the level of suspicion of COVID-19. Very low (CO-RADS 1) to very high (CO-RADS 5), with two additional categories involving a technically deficient study (CO-RADS 0) and a positive RT-PCR test for SARS-CoV- 2 known before tomography (CO-RADS 6).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate the severity degree of pulmonary affection by chest computed tomography</measure>
+    <time_frame>At hospital admission</time_frame>
+    <description>It will be a semi-quantitative assessment of lung lobe lesions' extent considering five lobes (upper right lobes, middle lobe, lower right lobe, upper left lobe, and lower left lobe). Each of these lobes, depending on their condition, is scored from 1 to 5, with 1 &lt;5%, 2 from 5 to 25%, 3&gt; 25 to 50%, 4 from&gt; 50 to 75% and the number 5 greater than 75%. With this, it is grouped into mild affection from 1 to 5 points, moderate from 5 to 15 points, and greater than 15 points as severe affection</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of patients requiring endotracheal intubation</measure>
+    <time_frame>From admission to discharge, up to 1 week</time_frame>
+    <description>The requirement for orotracheal intubation and the start of assisted mechanical ventilation after admission will be evaluated</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Death from any cause</measure>
+    <time_frame>From admission to discharge, up to 1 week</time_frame>
+    <description>Patients who present fatal descent during hospitalization will be evaluated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Modified Sequential Organ Failure Assessment (mSOFA)</measure>
+    <time_frame>At hospital admission</time_frame>
+    <description>The evaluation of multiple organ failure secondary to sepsis will be carried out using the mSOFA scale, which can predict in-hospital mortality and 30 days, with a minimum score of 0-7 that translates mortality of 0% and a score greater than 11 translates mortality of 58%.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sepsis-induced coagulopathy (SIC)</measure>
+    <time_frame>At hospital admission</time_frame>
+    <description>The sepsis-induced coagulopathy score scale (SIC) refers to the diagnosis of coagulopathy when the score is greater than 4 or the INR is greater than or equal to 3.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>National Early Warning Scale (NEWS 2)</measure>
+    <time_frame>At hospital admission</time_frame>
+    <description>A score of 0-4 confers a low risk; on the contrary, a score of more than 7 gives a high risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-GRAM severe illness risk score</measure>
+    <time_frame>At hospital admission</time_frame>
+    <description>It establishes three risk groups: the mild one with a risk of critical illness of less than 1.7% and the high risk of more than 40.4%.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rapid Severity Index for COVID-19 (qCSI)</measure>
+    <time_frame>At hospital admission</time_frame>
+    <description>A score less than or equal to 3 gives a low risk with a critical illness risk of 4%, while a score of 10-12 gives a high risk and a critical illness probability of 57%.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophil-Lymphocyte Ratio (NLR)</measure>
+    <time_frame>At hospital admission</time_frame>
+    <description>A ratio of 6-8 translates mild physiological stress, while a ratio of more than 18 a severe physiological stress level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alveolar-arterial gradient of oxygen</measure>
+    <time_frame>At hospital admission</time_frame>
+    <description>The gradient Aa O2 = [(FiO2) × (Atmospheric pressure - Pressure of H2O) - (PaCO2 / 0.8)] - PaO2 of ABG is calculated and a normal gradient with age is estimated with the following formula: Estimate of normal gradient = (Age / 4) + 4. The gradient is increased in conditions such as ARDS, PE, and cardiac failure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Berlin Criteria for Acute Respiratory Distress Syndrome</measure>
+    <time_frame>At hospital admission</time_frame>
+    <description>Required criteria (must have all three of the following): Timing within 1 week of clinical insult or new/worsening respiratory symptoms, Chest XR shows bilateral opacities not fully explained by effusions, lobar/lung collapse, or nodules Respiratory failure not fully explained by cardiac failure/fluid overload Risk factor (one of the following): Risk factor for ARDS present (e.g. pneumonia, trauma, sepsis, pancreatitis).
+Objective assessment (Echo) excludes hydrostatic edema.
+Severity (based on oxygenation, select one of the following): Mild: PaO₂/FiO₂ &gt;200 to ≤300 mmHg with PEEP OR CPAP ≥5 cm H₂O, Moderate: PaO₂/FiO₂ &gt;100 to ≤200 mmHg with PEEP ≥5 cm H₂O and Severe: PaO₂/FiO₂ ≤100 mmHg with PEEP ≥5 cm H₂O</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">233</enrollment>
+  <condition>Covid19</condition>
+  <condition>ARDS</condition>
+  <condition>Pneumonia, Viral</condition>
+  <condition>Computed Tomography</condition>
+  <arm_group>
+    <arm_group_label>Suspected, probable, or confirmed COVID-19 case</arm_group_label>
+    <description>Patients who come to the emergency room with symptoms compatible with a suspected, probable, or confirmed case of SARS-CoV2 infection, in which a chest computed tomography (CT) scan was requested for suspected COVID-19 pneumonia, will be evaluated. On April 1 and August 28, 2020.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Simple chest tomography</intervention_name>
+    <description>The images were acquired with a Siemens 256-slice multidetector tomograph (SOMATOM DEFINITION FLASH 128x2) following the recommended parameters for low-dose simple chest tomography. The chest topogram was acquired using 35 mA, 100 Kv, and 6 mm slices, then the chest tomographic slices holding inspiration in a cephalocaudal direction with 80 mA, 100 Kv, a duration of 2.24 seconds, a pitch of 1, and slices 1 mm with a total of 110 DLP, which is calculated with the conversion factor for thorax a total of 1.5 mSv. Multiplanar reconstructions with Kernel filters B26f, B50f, and B70 for mediastinum and lung, respectively, at 1 mm slices.</description>
+    <arm_group_label>Suspected, probable, or confirmed COVID-19 case</arm_group_label>
+    <other_name>CT</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients admitted to the emergency department, coronary unit, or post-surgical therapy unit
+        of the National Institute of Cardiology Ignacio Chávez.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients who go to the emergency department meet the criteria for a suspected,
+             probable, or confirmed case of COVID-19 infection.
+
+          -  Patients who have undergone a simple chest tomography during their stay in the INC
+             Emergency Department.
+
+          -  Patients whose information and data availability can be obtained through the triage's
+             electronic clinical record carried out in the emergency department and coronary unit.
+
+          -  Patients with clinical data, laboratory data, oxygen saturation, and inspired oxygen
+             fraction are necessary to evaluate prognostic indices.
+
+          -  Test for SARS-CoV2 infection by RT-PCR reported as positive, negative, or not
+             performed, but with suspicion of COVID-19.
+
+          -  Patients who have had an arterial blood gas.
+
+        Exclusion Criteria:
+
+          -  Patients with incomplete clinical, laboratory, blood gas parameters.
+
+          -  Patients in whom saturation and initial FiO2 are not reported.
+
+          -  Patients referred to another Hospital during their initial evaluation.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sergio Andres Criales Vera, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Insituto Nacional de Cardiologia Ignacio Chavez</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Instituto Nacional Ignacio Chavez</name>
+      <address>
+        <city>Ciudad de mexico</city>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <reference>
+    <citation>Pan F, Ye T, Sun P, Gui S, Liang B, Li L, Zheng D, Wang J, Hesketh RL, Yang L, Zheng C. Time Course of Lung Changes at Chest CT during Recovery from Coronavirus Disease 2019 (COVID-19). Radiology. 2020 Jun;295(3):715-721. doi: 10.1148/radiol.2020200370. Epub 2020 Feb 13.</citation>
+    <PMID>32053470</PMID>
+  </reference>
+  <reference>
+    <citation>Song J, Tian J, Zhang L, Qu X, Qian W, Zheng B, Zhang L, Zhao J, Niu M, Zhou M, Cui L, Liu Y, Zhao M. Development and validation of a prognostic index for efficacy evaluation and prognosis of first-line chemotherapy in stage III-IV lung squamous cell carcinoma. Eur Radiol. 2019 May;29(5):2388-2398. doi: 10.1007/s00330-018-5912-2. Epub 2019 Jan 14.</citation>
+    <PMID>30643941</PMID>
+  </reference>
+  <reference>
+    <citation>Ye Z, Zhang Y, Wang Y, Huang Z, Song B. Chest CT manifestations of new coronavirus disease 2019 (COVID-19): a pictorial review. Eur Radiol. 2020 Aug;30(8):4381-4389. doi: 10.1007/s00330-020-06801-0. Epub 2020 Mar 19. Review.</citation>
+    <PMID>32193638</PMID>
+  </reference>
+  <reference>
+    <citation>Hani C, Trieu NH, Saab I, Dangeard S, Bennani S, Chassagnon G, Revel MP. COVID-19 pneumonia: A review of typical CT findings and differential diagnosis. Diagn Interv Imaging. 2020 May;101(5):263-268. doi: 10.1016/j.diii.2020.03.014. Epub 2020 Apr 3. Review.</citation>
+    <PMID>32291197</PMID>
+  </reference>
+  <reference>
+    <citation>Sánchez-Oro R, Torres Nuez J, Martínez-Sanz G. Radiological findings for diagnosis of SARS-CoV-2 pneumonia (COVID-19). Med Clin (Barc). 2020 Jul 10;155(1):36-40. doi: 10.1016/j.medcli.2020.03.004. Epub 2020 Apr 3. English, Spanish.</citation>
+    <PMID>32321656</PMID>
+  </reference>
+  <reference>
+    <citation>Prytherch DR, Smith GB, Schmidt PE, Featherstone PI. ViEWS--Towards a national early warning score for detecting adult inpatient deterioration. Resuscitation. 2010 Aug;81(8):932-7. doi: 10.1016/j.resuscitation.2010.04.014.</citation>
+    <PMID>20637974</PMID>
+  </reference>
+  <reference>
+    <citation>ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012 Jun 20;307(23):2526-33. doi: 10.1001/jama.2012.5669.</citation>
+    <PMID>22797452</PMID>
+  </reference>
+  <reference>
+    <citation>Fan E, Brodie D, Slutsky AS. Acute Respiratory Distress Syndrome: Advances in Diagnosis and Treatment. JAMA. 2018 Feb 20;319(7):698-710. doi: 10.1001/jama.2017.21907. Review.</citation>
+    <PMID>29466596</PMID>
+  </reference>
+  <reference>
+    <citation>Barbar S, Noventa F, Rossetto V, Ferrari A, Brandolin B, Perlati M, De Bon E, Tormene D, Pagnan A, Prandoni P. A risk assessment model for the identification of hospitalized medical patients at risk for venous thromboembolism: the Padua Prediction Score. J Thromb Haemost. 2010 Nov;8(11):2450-7. doi: 10.1111/j.1538-7836.2010.04044.x.</citation>
+    <PMID>20738765</PMID>
+  </reference>
+  <results_reference>
+    <citation>Chung M, Bernheim A, Mei X, Zhang N, Huang M, Zeng X, Cui J, Xu W, Yang Y, Fayad ZA, Jacobi A, Li K, Li S, Shan H. CT Imaging Features of 2019 Novel Coronavirus (2019-nCoV). Radiology. 2020 Apr;295(1):202-207. doi: 10.1148/radiol.2020200230. Epub 2020 Feb 4.</citation>
+    <PMID>32017661</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ding X, Xu J, Zhou J, Long Q. Chest CT findings of COVID-19 pneumonia by duration of symptoms. Eur J Radiol. 2020 Jun;127:109009. doi: 10.1016/j.ejrad.2020.109009. Epub 2020 Apr 18.</citation>
+    <PMID>32325282</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Shi H, Han X, Jiang N, Cao Y, Alwalid O, Gu J, Fan Y, Zheng C. Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis. 2020 Apr;20(4):425-434. doi: 10.1016/S1473-3099(20)30086-4. Epub 2020 Feb 24.</citation>
+    <PMID>32105637</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhou Z, Guo D, Li C, Fang Z, Chen L, Yang R, Li X, Zeng W. Coronavirus disease 2019: initial chest CT findings. Eur Radiol. 2020 Aug;30(8):4398-4406. doi: 10.1007/s00330-020-06816-7. Epub 2020 Mar 24.</citation>
+    <PMID>32211963</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Prokop M, van Everdingen W, van Rees Vellinga T, Quarles van Ufford H, Stöger L, Beenen L, Geurts B, Gietema H, Krdzalic J, Schaefer-Prokop C, van Ginneken B, Brink M; COVID-19 Standardized Reporting Working Group of the Dutch Radiological Society. CO-RADS: A Categorical CT Assessment Scheme for Patients Suspected of Having COVID-19-Definition and Evaluation. Radiology. 2020 Aug;296(2):E97-E104. doi: 10.1148/radiol.2020201473. Epub 2020 Apr 27.</citation>
+    <PMID>32339082</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Vincent JL, Moreno R, Takala J, Willatts S, De Mendonça A, Bruining H, Reinhart CK, Suter PM, Thijs LG. The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure. On behalf of the Working Group on Sepsis-Related Problems of the European Society of Intensive Care Medicine. Intensive Care Med. 1996 Jul;22(7):707-10.</citation>
+    <PMID>8844239</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Roca O, Caralt B, Messika J, Samper M, Sztrymf B, Hernández G, García-de-Acilu M, Frat JP, Masclans JR, Ricard JD. An Index Combining Respiratory Rate and Oxygenation to Predict Outcome of Nasal High-Flow Therapy. Am J Respir Crit Care Med. 2019 Jun 1;199(11):1368-1376. doi: 10.1164/rccm.201803-0589OC.</citation>
+    <PMID>30576221</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Santamarîa Herrero SA. [Alveolar-arterial gradient of oxygen in COPD patients]. An Med Interna. 2001 Mar;18(3):115-6. Spanish.</citation>
+    <PMID>11594172</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liang W, Liang H, Ou L, Chen B, Chen A, Li C, Li Y, Guan W, Sang L, Lu J, Xu Y, Chen G, Guo H, Guo J, Chen Z, Zhao Y, Li S, Zhang N, Zhong N, He J; China Medical Treatment Expert Group for COVID-19. Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19. JAMA Intern Med. 2020 Aug 1;180(8):1081-1089. doi: 10.1001/jamainternmed.2020.2033.</citation>
+    <PMID>32396163</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zahorec R. Ratio of neutrophil to lymphocyte counts--rapid and simple parameter of systemic inflammation and stress in critically ill. Bratisl Lek Listy. 2001;102(1):5-14. English, Slovak.</citation>
+    <PMID>11723675</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Iba T, Nisio MD, Levy JH, Kitamura N, Thachil J. New criteria for sepsis-induced coagulopathy (SIC) following the revised sepsis definition: a retrospective analysis of a nationwide survey. BMJ Open. 2017 Sep 27;7(9):e017046. doi: 10.1136/bmjopen-2017-017046.</citation>
+    <PMID>28963294</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Helmholz HF Jr. The abbreviated alveolar air equation. Chest. 1979 Jun;75(6):748.</citation>
+    <PMID>436542</PMID>
+  </results_reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 6, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Instituto Nacional de Cardiologia Ignacio Chavez</investigator_affiliation>
+    <investigator_full_name>Maria Elena Soto, MsC and PhD</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>Risk Factors</keyword>
+  <keyword>SARS-CoV2</keyword>
+  <keyword>Computed Tomography</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

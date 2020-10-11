@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1627">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04368988</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2019nCoV-101</org_study_id>
+    <nct_id>NCT04368988</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Safety and Immunogenicity of a SARS-CoV-2 rS Nanoparticle Vaccine With/Without Matrix-M Adjuvant</brief_title>
+  <official_title>A 2-Part, Phase 1/2, Randomized, Observer-Blinded Study To Evaluate The Safety And Immunogenicity Of A SARS-CoV-2 Recombinant Spike Protein Nanoparticle Vaccine (SARS-CoV-2 rS) With Or Without MATRIX-M™ Adjuvant In Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novavax</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Coalition for Epidemic Preparedness Innovations (CEPI)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Novavax</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      2019nCoV-101 is a 2-part, randomized, observer-blinded, placebo-controlled, Phase 1/2 trial.
+      Part 1 (Phase 1) of the study is designed to evaluate the safety and immunogenicity of
+      SARS-CoV-2 rS nanoparticle vaccine with or without Matrix-M adjuvant in 131 healthy
+      participants ≥ 18 to 59 (inclusive) years of age at 2 sites in Australia. An interim analysis
+      of Part 1 safety and immunogenicity will be performed prior to optional expansion to Part 2.
+      Part 2 (Phase 2) of the study is designed to evaluate the immunogenicity, safety, and
+      preliminary efficacy of a single construct of SARS-CoV-2 rS nanoparticle vaccine with
+      Matrix-M adjuvant in up to 1,500 healthy participants ≥ 18 to 84 (inclusive) years of age at
+      up to 40 sites across Australia and/or the United States.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 25, 2020</start_date>
+  <completion_date type="Anticipated">November 18, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Participants with Solicited Adverse Events (AEs) - Phase 1</measure>
+    <time_frame>28 days</time_frame>
+    <description>Percentage of participants with solicited AEs (local, systemic) for 7 days following each primary vaccination (Days 0, 21) by severity score, duration, and peak intensity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Laboratory Values (Serum Chemistry, Hematology) - Phase 1</measure>
+    <time_frame>28 days</time_frame>
+    <description>Safety laboratory values (serum chemistry, hematology) by FDA toxicity scoring (absolute and change from baseline where identified) at 7 days after each vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum Immunoglobulin G (IgG) Antibody Levels Expressed as Geometric Mean Titers (GMTs) - Phase 1</measure>
+    <time_frame>35 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by enzyme-linked immunosorbent assay (ELISA) expressed as GMTs through Day 35.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum IgG Antibody Levels Expressed as Geometric Mean Fold Rises (GMFRs) - Phase 1</measure>
+    <time_frame>35 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMFRs through Day 35.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum IgG Antibody Levels Expressed as Seroconversion Rates (SCRs) - Phase 1</measure>
+    <time_frame>35 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as SCRs through Day 35. SCR is the proportion of participants with ≥4-fold rises in ELISA units.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum IgG Antibody Levels Expressed as GMTs - Phase 2</measure>
+    <time_frame>Day 35</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMTs for the two-dose regimens by dose at Day 35 regardless of baseline immune status and stratified by baseline immune status.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum IgG Antibody Levels Expressed as GMFRs - Phase 2</measure>
+    <time_frame>Day 35</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMFRs for the two-dose regimens by dose at Day 35 regardless of baseline immune status and stratified by baseline immune status.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum IgG Antibody Levels Expressed as SCRs - Phase 2</measure>
+    <time_frame>Day 35</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as SCRs (≥4-fold rises) for the two-dose regimens by dose at Day 35 regardless of baseline immune status and stratified by baseline immune status.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participants with Solicited Adverse Events (AEs) - Phase 2</measure>
+    <time_frame>28 days</time_frame>
+    <description>Percentage of participants with solicited AEs (local, systemic) for 7 days following each primary vaccination (Days 0 and 21) by severity score, duration, and peak intensity. Unsolicited AEs (eg, treatment-emergent, serious, suspected unexpected serious, those of special interest, all medically attended adverse events [MAAEs]) through the 35 days by Medical Dictionary for Regulatory Activities (MedDRA) classification, severity score, and relatedness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participants with Unsolicited AEs - Phase 2</measure>
+    <time_frame>35 days</time_frame>
+    <description>Percentage of participants with unsolicited AEs (eg, treatment-emergent, serious, suspected unexpected serious, those of special interest, all medically attended adverse events [MAAEs]) through the 35 days by Medical Dictionary of Regulatory Activities (MedDRA) classification, severity score, and relatedness.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Unsolicited AEs - Phase 1</measure>
+    <time_frame>49 days</time_frame>
+    <description>Percentage of participants with unsolicited AEs (eg, treatment-emergent, serious, suspected unexpected serious, those of special interest, all MAAEs) through the first 49 days by MedDRA classification, severity score, and relatedness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Abnormal Vital Signs - Phase 1</measure>
+    <time_frame>21 days</time_frame>
+    <description>Percentage of participants with vital sign abnormalities on the day of vaccination by severity scoring immediately following vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from Baseline in Body Temperature - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Mean changes from baseline in body temperature by treatment group and visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from Baseline in Blood Pressure - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Mean changes from baseline in blood pressure by treatment group and visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from Baseline in Pulse Rate - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Mean changes from baseline in pulse rate by treatment group and visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with MAAEs - Phase 1</measure>
+    <time_frame>105 days</time_frame>
+    <description>Percentage of participants with MAAEs, defined as AEs that lead to an unscheduled visit to a healthcare practitioner, through Day 105 by MedDRA classification, severity score, and relatedness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Related MAAEs; Serious Adverse Events (SAEs); and Adverse Events of Special Interest (AESI) - Phase 1</measure>
+    <time_frame>386 days</time_frame>
+    <description>Percentage of participants with MAAEs assessed as related to study vaccine, SAEs, and AESIs until the end of the study (EOS) by MedDRA classification and severity score. All SAEs and AESI, defined as potential immune-mediated medical conditions or AEs relevant to COVID-19, by MedDRA classification, severity score, and relatedness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as GMTs at Multiple Time Points - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMTs at multiple time points through Day 189.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as GMFRs at Multiple Time Points - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMFRs at multiple time points through Day 189.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as SCRs at Multiple Time Points - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as SCRs (proportion of participants with ≥2-fold and ≥4-fold rises in antibody levels) at multiple time points through Day 189.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed by Seroresponse Rates (SRRs) at Multiple Time Points - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as SRRs (proportion of participants with rises in ELISA units exceeding the 95th percentile of placebo participants) at multiple time points through Day 189.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Angiotensin-Converting Enzyme 2 (ACE2) Receptor Binding Inhibition Assay Expressed as GMTs - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as GMTs at multiple time points through Day 189.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACE2 Receptor Binding Inhibition Assay Expressed as GMFRs - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as GMFRs at multiple time points through Day 189.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACE2 Receptor Binding Inhibition Assay Expressed as SCRs - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as SCRs at multiple time points through Day 189.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACE2 Receptor Binding Inhibition Assay Expressed as SRRs - Phase 1</measure>
+    <time_frame>189 days</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as SRRs at multiple time points through Day 189.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Activity Expressed as GMTs - Phase 1</measure>
+    <time_frame>49 days</time_frame>
+    <description>Neutralizing antibody activity as detected by microneutralization assay (MN) expressed as GMTs at multiple time points through Day 49.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Activity Expressed as GMFRs - Phase 1</measure>
+    <time_frame>49 days</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as GMFRs at multiple time points through Day 49.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Activity Expressed as SCRs - Phase 1</measure>
+    <time_frame>49 days</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as SCRs at multiple time points through Day 49.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Activity Expressed as SRRs - Phase 1</measure>
+    <time_frame>49 days</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as SRRs at multiple time points through Day 49.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Cell-Mediated (T helper 1 [Th1]/T helper 2 [Th2]) Pathways - Phase 1</measure>
+    <time_frame>28 days</time_frame>
+    <description>Cell-mediated (Th1/Th2) pathways as measured by whole blood (flow cytometry) and/or in vitro peripheral blood mononuclear cell (PBMC) stimulation (eg, enzyme-linked immunospot [ELISpot], cytokine staining) with SARS-CoV-2 rS protein(s) through Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as GMTs - Phase 2</measure>
+    <time_frame>35 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMTs for the single-dose regimens compared to the two-dose regimens and to placebo through Day 35 regardless of baseline immune status and stratified by baseline immune status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as GMFRs - Phase 2</measure>
+    <time_frame>35 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMFRs for the single-dose regimens compared to the two-dose regimens and to placebo through Day 35 regardless of baseline immune status and stratified by baseline immune status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as SCRs (≥ 4-fold change) - Phase 2</measure>
+    <time_frame>35 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as SCRs (≥ 4-fold change) for the single-dose regimens compared to the two-dose regimens and to placebo through Day 35 regardless of baseline immune status and stratified by baseline immune status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as GMTs at Multiple Time Points - Phase 2</measure>
+    <time_frame>217 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMTs at multiple time points through Day 217 for the single-dose regimens compared to the two-dose regimens and to placebo, stratified by baseline immune response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as GMFRs at Multiple Time Points - Phase 2</measure>
+    <time_frame>217 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMFRs at multiple time points through Day 217 for the single-dose regimens compared to the two-dose regimens and to placebo, stratified by baseline immune response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as SCRs (≥ 4-fold change) at Multiple Time Points - Phase 2</measure>
+    <time_frame>217 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as SCRs (≥ 4-fold change) at multiple time points through Day 217 for the single-dose regimens compared to the two-dose regimens and to placebo, stratified by baseline immune response.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACE2 Receptor Binding Inhibition Assay Expressed as GMTs - Phase 2</measure>
+    <time_frame>217 days</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as GMTs at multiple time points through Day 217 for the single-dose regimens compared to the two-dose regimens and to placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACE2 Receptor Binding Inhibition Assay Expressed as GMFRs - Phase 2</measure>
+    <time_frame>217 days</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as GMFRs at multiple time points through Day 217 for the single-dose regimens compared to the two-dose regimens and to placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ACE2 Receptor Binding Inhibition Assay Expressed as SCRs - Phase 2</measure>
+    <time_frame>217 days</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as SCRs (≥ 4-fold change) at multiple time points through Day 217 for the single-dose regimens compared to the two-dose regimens and to placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Activity Expressed as GMTs - Phase 2</measure>
+    <time_frame>217 days</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as GMTs at Days 35 and 217 relative to baseline in a subset of subjects by absolute titers and change from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Activity Expressed as GMFRs - Phase 2</measure>
+    <time_frame>217 days</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as GMFRs at Days 35 and 217 relative to baseline in a subset of subjects by absolute titers and change from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Activity Expressed as SCRs (≥ 4-fold change) - Phase 2</measure>
+    <time_frame>217 days</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as SCRs (≥ 4-fold change) at Days 35 and 217 relative to baseline in a subset of subjects by absolute titers and change from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as GMTs - Phase 2 Boost</measure>
+    <time_frame>217 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMTs at Days 189 and 217 for boosting assessment with either placebo or active boost.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Serum IgG Antibody Levels Expressed as GMFRs - Phase 2 Boost</measure>
+    <time_frame>217 days</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMFRs at Days 189 and 217 for boosting assessment with either placebo or active boost.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with MAAEs - Phase 2</measure>
+    <time_frame>217 days</time_frame>
+    <description>All MAAEs, defined as AEs that lead to an unscheduled visit to a healthcare practitioner, through Day 217 by MedDRA classification, severity score, and relatedness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Related MAAEs; SAEs; and AESIs - Phase 2</measure>
+    <time_frame>357 days</time_frame>
+    <description>Percentage of participants with MAAEs assessed as related to study vaccine, SAEs, and AESIs until the end of the study (EOS) by MedDRA classification and severity score. All SAEs and AESI, defined as potential immune-mediated medical conditions or AEs relevant to COVID-19, by MedDRA classification, severity score, and relatedness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Abnormal Vital Signs - Phase 2</measure>
+    <time_frame>21 days</time_frame>
+    <description>Percentage of participants with vital sign abnormalities on the day of vaccination by severity scoring immediately following vaccination. Descriptive statistics (mean, standard deviation, change from baseline) by treatment group, by visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from Baseline in Body Temperature - Phase 2</measure>
+    <time_frame>189 days</time_frame>
+    <description>Mean changes from baseline in body temperature by treatment group and visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from Baseline in Blood Pressure - Phase 2</measure>
+    <time_frame>189 days</time_frame>
+    <description>Mean changes from baseline in blood pressure by treatment group and visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from Baseline in Pulse Rate - Phase 2</measure>
+    <time_frame>189 days</time_frame>
+    <description>Mean changes from baseline in pulse rate by treatment group and visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with SARS-CoV-2 Positivity - Phase 2</measure>
+    <time_frame>161 days</time_frame>
+    <description>Percentage of participants with SARS-CoV-2 positivity as diagnosed by qualitative polymerase chain reaction (PCR) following COVID-19 symptoms assessment from Day 28 through 6 months with severity classification, overall and by age strata (18-59, 60-84 years).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of SARS-CoV-2 by Qualitative PCR - Phase 2</measure>
+    <time_frame>161 days</time_frame>
+    <description>Assessment of SARS-CoV-2 by qualitative PCR based on routine screening by self- collection (nasal mid-turbinate or saliva) from Day 28 through 6 months without symptomatology to further describe epidemiologic evolution of the pandemic and potential effect of vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Cell-Mediated (Th1/Th2) Pathways - Phase 2</measure>
+    <time_frame>28 days</time_frame>
+    <description>Assessment of cell-mediated (Th1/Th2) pathways as measured by whole blood (flow cytometry) and/or in vitro PBMC stimulation (eg, ELISpot, cytokine staining) with SARS-CoV-2 rS protein(s) through Day 28.</description>
+  </secondary_outcome>
+  <number_of_arms>10</number_of_arms>
+  <enrollment type="Anticipated">1631</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Placebo - Phase 1</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 doses of Placebo (Saline), 1 dose each on Days 0 and 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 rS - 25 μg without Matrix-M - Phase 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 doses of SARS-CoV-2 rS - 25 μg, 1 dose each on Days 0 and 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 rS - 5 μg + 50 μg Matrix-M - Phase 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 doses of SARS-CoV-2 rS - 5 μg + 50 μg Matrix-M (mixed together for each injection), 1 dose each on Days 0 and 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 rS - 25 μg + 50 μg Matrix-M - Phase 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 doses of SARS-CoV-2 rS - 25 μg + 50 μg Matrix-M (mixed together for each injection), 1 dose each on Days 0 and 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 rS - 25 μg + 50 μg Matrix-M then Placebo - Phase 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 dose of SARS-CoV-2 rS - 25 μg + 50 μg Matrix-M (mixed together for injection), on Day 0 followed by 1 dose of Placebo on Day 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo - Phase 2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>3 doses of Placebo (Saline), 1 dose each on Days 0, 21, and 189.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 rS - 5/5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 doses of SARS-CoV-2 rS - 5 μg + 50 μg Matrix-M (co-formulated), 1 dose each on Days 0 and 21, followed by 1 dose of Placebo on Day 189.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 rS - Alternating 5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 dose of SARS-CoV-2 rS - 5 μg + 50 μg Matrix-M (co-formulated) on Day 0 then 1 dose of Placebo on Day 21 followed by 1 dose of SARS-CoV-2 rS - 5 μg + 50 μg Matrix-M (co-formulated) on Day 189.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 rS - 25/25 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 doses of SARS-CoV-2 rS - 25 μg + 50 μg Matrix-M (co-formulated), 1 dose each on Days 0 and 21, followed by 1 dose of Placebo on Day 189.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 rS - Alternating 25/5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 dose of SARS-CoV-2 rS - 25 μg + 50 μg Matrix-M (co-formulated) on Day 0 then 1 dose of Placebo on Day 21 followed by 1 dose of SARS-CoV-2 rS - 5 μg + 50 μg Matrix-M (co-formulated) on Day 189.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 rS - Phase 1</intervention_name>
+    <description>Alternating intramuscular (deltoid) injections of SARS-CoV-2 rS (0.6 mL) on Days 0 and 21.</description>
+    <arm_group_label>SARS-CoV-2 rS - 25 μg without Matrix-M - Phase 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 rS/Matrix-M Adjuvant - Phase 1</intervention_name>
+    <description>Alternating intramuscular (deltoid) injections of SARS-CoV-2 rS mixed with Matrix-M adjuvant (0.6 mL) on Days 0 and 21.</description>
+    <arm_group_label>SARS-CoV-2 rS - 25 μg + 50 μg Matrix-M - Phase 1</arm_group_label>
+    <arm_group_label>SARS-CoV-2 rS - 5 μg + 50 μg Matrix-M - Phase 1</arm_group_label>
+    <other_name>NVX-CoV2373</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Normal saline solution (NSS), Placebo - Phase 1</intervention_name>
+    <description>Alternating intramuscular (deltoid) injections of placebo (0.6 mL) on Days 0 and 21.</description>
+    <arm_group_label>Placebo - Phase 1</arm_group_label>
+    <other_name>Sodium chloride solution for injection, 0.9%</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Normal saline solution (NSS), Placebo - Phase 2</intervention_name>
+    <description>Alternating intramuscular (deltoid) injections of placebo (0.5 mL) on Days 0, 21, and 189.</description>
+    <arm_group_label>Placebo - Phase 2</arm_group_label>
+    <other_name>Sodium chloride solution for injection, 0.9%</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 rS/Matrix-M Adjuvant, Day 0 - Phase 1</intervention_name>
+    <description>Intramuscular (deltoid) injection of SARS-CoV-2 rS mixed with Matrix-M adjuvant (0.6 mL) on Day 0.</description>
+    <arm_group_label>SARS-CoV-2 rS - 25 μg + 50 μg Matrix-M then Placebo - Phase 1</arm_group_label>
+    <other_name>NVX-CoV2373</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Normal saline solution (NSS), Placebo, Day 21 - Phase 1</intervention_name>
+    <description>Intramuscular injection of placebo (0.6 mL) in alternate deltoid on Day 21.</description>
+    <arm_group_label>SARS-CoV-2 rS - 25 μg + 50 μg Matrix-M then Placebo - Phase 1</arm_group_label>
+    <other_name>Sodium chloride solution for injection, 0.9%</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 rS/Matrix-M Adjuvant, Days 0 and 21 - Phase 2</intervention_name>
+    <description>Alternating intramuscular (deltoid) injections of SARS-CoV-2 rS co-formulated with Matrix-M adjuvant (0.5 mL) on Days 0 and 21.</description>
+    <arm_group_label>SARS-CoV-2 rS - 25/25 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <arm_group_label>SARS-CoV-2 rS - 5/5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <other_name>NVX-CoV2373</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Normal saline solution (NSS), Placebo, Day 189 - Phase 2</intervention_name>
+    <description>Intramuscular injection of placebo (0.5 mL) in alternating deltoid on Day 189.</description>
+    <arm_group_label>SARS-CoV-2 rS - 25/25 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <arm_group_label>SARS-CoV-2 rS - 5/5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <other_name>Sodium chloride solution for injection, 0.9%</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 rS/Matrix-M Adjuvant, Day 0 - Phase 2</intervention_name>
+    <description>Intramuscular (deltoid) injection of SARS-CoV-2 rS co-formulated with Matrix-M adjuvant (0.5 mL) on Day 0.</description>
+    <arm_group_label>SARS-CoV-2 rS - Alternating 25/5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <arm_group_label>SARS-CoV-2 rS - Alternating 5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <other_name>NVX-CoV2373</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Normal saline solution (NSS), Placebo, Day 21 - Phase 2</intervention_name>
+    <description>Intramuscular injection of placebo (0.5 mL) in alternating deltoid on Day 21.</description>
+    <arm_group_label>SARS-CoV-2 rS - Alternating 25/5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <arm_group_label>SARS-CoV-2 rS - Alternating 5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <other_name>Sodium chloride solution for injection, 0.9%</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 rS/Matrix-M Adjuvant - Day 189 - Phase 2</intervention_name>
+    <description>Intramuscular injection of SARS-CoV-2 rS co-formulated with Matrix-M adjuvant (0.5 mL) in alternating deltoid on Day 189.</description>
+    <arm_group_label>SARS-CoV-2 rS - Alternating 25/5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <arm_group_label>SARS-CoV-2 rS - Alternating 5 μg + 50 μg Matrix-M - Phase 2</arm_group_label>
+    <other_name>NVX-CoV2373</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (Part 1):
+
+          -  Healthy adult males or females between 18 and 59 years of age, inclusive, at
+             screening. Healthy status will be determined by the investigator based on medical
+             history, clinical laboratory results, vital sign measurements, and physical
+             examination at screening.
+
+          -  The participant has a body mass index 17 to 35 kg/m2, inclusive, at screening.
+
+          -  Willing and able to give informed consent prior to study enrollment and comply with
+             study procedures.
+
+          -  Female participants of childbearing potential (defined as any female who has
+             experienced menarche and who is NOT surgically sterile [ie, hysterectomy, bilateral
+             tubal ligation, or bilateral oophorectomy] or postmenopausal [defined as amenorrhea at
+             least 12 consecutive months or documented plasma follicle-stimulating hormone (FSH)
+             level ≥40 mIU/mL]) must agree to be heterosexually inactive from at least 21 days
+             prior to enrollment and through 6 months after the last vaccination OR agree to
+             consistently use any of the described methods of contraception from at least 21 days
+             prior to enrollment and through 6 months after the last vaccination.
+
+        Exclusion Criteria (Part 1):
+
+          -  Any ongoing, symptomatic acute or chronic illness requiring medical or surgical care,
+             inclusive of changes in medication in the past 2 months indicating that chronic
+             illness/disease is not stable (at the discretion of the investigator). This includes
+             any current workup of undiagnosed illness that could lead to a new condition.
+
+          -  Chronic disease inclusive of: a) hypertension uncontrolled for age according to the
+             Eighth Joint National Committee (JNC 8) guidelines; b) congestive heart failure by New
+             York Heart Association (NYHA) functional classification of greater or equal to II; c)
+             chronic obstructive pulmonary disease by Global Initiative for Obstructive Lung
+             Disease (GOLD) classification of greater or equal to 2; d) recent (within 6 months
+             prior to first study vaccination) exacerbation of coronary artery disease as
+             manifested by cardiac intervention, addition of new cardiac medications for control of
+             symptoms, or unstable angina; e) asthma (diagnosed by spirometry showing reversibility
+             of disease and must meet at least the Step 1 classification with current
+             prescription/use of medications to control symptoms); f) diabetes requiring use of
+             medicine (insulin or oral) or not controlled with diet.
+
+          -  Participation in research involving an investigational product (drug/biologic/device)
+             within 45 days prior to first study vaccination.
+
+          -  History of a confirmed diagnosis of SARS or COVID-19 disease (confirmed by a specific
+             test for each disease) or known exposure to a SARS-CoV-2 positive confirmed close
+             contact (eg, family member, housemate, daycare provider, aged parent requiring care),
+             at the discretion of the investigator.
+
+          -  Currently working in an occupation with a high risk of exposure to SARS-CoV-2 (eg,
+             healthcare worker, emergency response personnel).
+
+          -  Currently taking any product (investigational or off-label) for prevention of COVID-19
+             disease.
+
+          -  Positive rapid test for SARS-CoV-2 (either ELISA IgG or PCR) at screening or prior to
+             first vaccination. Testing may be repeated during the screening period if exposure to
+             SARS-CoV-2 is suspected, at the discretion of the investigator.
+
+          -  Received influenza vaccination within 14 days prior to first study vaccination, or any
+             other vaccine within 4 weeks prior to first study vaccination.
+
+          -  Any autoimmune or immunodeficiency disease/condition (iatrogenic or congenital).
+
+          -  Chronic administration (defined as more than 14 continuous days) of immunosuppressant,
+             systemic glucocorticosteroids, or other immune-modifying drugs within 90 days prior to
+             first study vaccination; or anticipation of the need for immunosuppressive treatment
+             within 6 months after last vaccination.
+
+          -  Received immunoglobulin, blood-derived products, or other immunosuppressant drugs
+             within 90 days prior to first study vaccination.
+
+          -  Any acute illness concurrent or within 14 days prior to first study vaccination
+             (medical history and/or physical examination) or documented temperature of &gt;38°C
+             during this period. This includes respiratory or constitutional symptoms consistent
+             with SARS-CoV-2 (COVID-19) exposure (ie, cough, sore throat, difficulty breathing).
+
+          -  Known disturbance of coagulation (iatrogenic or congenital).
+
+          -  Evidence of Hepatitis B or C or HIV by laboratory testing.
+
+          -  A positive test result for drugs of abuse (except a positive test result associated
+             with prescription medication that has been reviewed and approved by the investigator)
+             or alcohol at screening.
+
+          -  Any neurological disease or history of significant neurological disorder (eg,
+             meningitis, seizures, multiple sclerosis, vasculitis, migraines, Guillain-Barré
+             syndrome [genetic/congenital or acquired]).
+
+          -  Active cancer (malignancy) within 5 years prior to first study vaccination (with the
+             exception of adequately treated non-melanomatous skin carcinoma, at the discretion of
+             the investigator)
+
+          -  Vital sign (blood pressure, pulse, temperature) abnormalities of toxicity grade &gt;1.
+
+          -  Clinical laboratory abnormalities of toxicity grade &gt;1 for selected serum chemistry
+             and hematology parameters
+
+          -  Any known allergies to products contained in the investigational product or latex
+             allergy.
+
+          -  Women who are pregnant, breastfeeding or who plan to become pregnant during the study.
+
+          -  History of alcohol abuse or drug addiction within 1 year prior to the first study
+             vaccination.
+
+          -  Any condition that, in the opinion of the investigator, would pose a health risk to
+             the participant if enrolled or could interfere with evaluation of the study vaccine or
+             interpretation of study results (including neurologic or psychiatric conditions deemed
+             likely to impair the quality of safety reporting).
+
+          -  Study team member or first-degree relative of any study team member (inclusive of
+             sponsor, PPD, and site personnel involved in the study).
+
+        Inclusion Criteria (Part 2):
+
+          -  Healthy adult males or females between 18 and 84 years of age, inclusive, at screening
+             who are of legal adult age in their local jurisdiction. Healthy status will be
+             determined by the investigator based on medical history, clinical laboratory results,
+             vital sign measurements, and physical examination at screening.
+
+          -  The participant has a body mass index 17 to 35 kg/m2, inclusive, at screening.
+
+          -  Willing and able to give informed consent prior to study enrollment and comply with
+             study procedures.
+
+          -  Female participants of childbearing potential (defined as any female who has
+             experienced menarche and who is NOT surgically sterile [ie, hysterectomy, bilateral
+             tubal ligation, or bilateral oophorectomy] or postmenopausal [defined as amenorrhea at
+             least 12 consecutive months or documented plasma FSH level ≥40 mIU/mL]) must agree to
+             be heterosexually inactive from at least 21 days prior to enrollment and through 6
+             months after the last vaccination OR agree to consistently use any of the following
+             methods of contraception from at least 21 days prior to enrollment and through 6
+             months after the last vaccination.
+
+        Exclusion Criteria (Part 2):
+
+          -  Participants who are having any current workup of undiagnosed illness within the last
+             8 weeks, which is either participant-reported or has been clinician-assessed, that
+             could lead to a new condition diagnosis.
+
+          -  Participation in research involving an investigational product (drug/biologic/device)
+             within 45 days prior to first study vaccination.
+
+          -  History of a confirmed diagnosis of SARS or history of a confirmed diagnosis of
+             COVID-19 disease resulting in medical intervention.
+
+          -  Received influenza vaccination within 14 days prior to first study vaccination, or any
+             other vaccine within 4 weeks prior to first study vaccination.
+
+          -  Have clinically significant chronic cardiovascular, endocrine, gastrointestinal/
+             hepatic, renal, neurological, respiratory, or other medical disorders not excluded by
+             other exclusion criteria, that are assessed by the Investigator as being clinically
+             unstable within the prior 4 weeks evidenced by: a) hospitalization for the condition,
+             including day surgical interventions, b) new significant organ function deterioration,
+             c) needing addition of new treatments or major dose adjustments of current treatments.
+
+          -  Diabetes mellitus requiring insulin therapy (either type 1 or type 2 diabetes
+             mellitus).
+
+          -  Chronic obstructive pulmonary disease with a history of an acute exacerbation of any
+             severity in the prior year.
+
+          -  Any history of congestive heart failure.
+
+          -  Any history of chronic kidney disease (the presence of impaired or reduced kidney
+             function lasting at least 3 months). Clinical validation of potential cases of chronic
+             kidney disease should be conducted.
+
+          -  Evidence of unstable coronary artery disease as manifested by cardiac intervention,
+             addition of new cardiac medications for control of symptoms, or unstable angina in the
+             past 3 months.
+
+          -  History of chronic neurological disorders that have required prior specialist
+             physician review for diagnosis and management (such as multiple sclerosis, dementia,
+             transient ischemic attacks, Parkinson's disease, degenerative neurological conditions,
+             neuropathy, and epilepsy) or a history of stroke or previous neurological disorder
+             within 12 months with residual symptoms. Participants with a history of migraine or
+             chronic headaches or nerve root compression that have been stable on treatment for the
+             last 4 weeks are not excluded.
+
+          -  Any autoimmune or immunodeficiency disease/condition (iatrogenic or congenital).
+
+          -  Chronic administration (defined as more than 14 continuous days) of
+             immunosuppressants, systemic glucocorticosteroids reaching an immunosuppressive dose,
+             or other immune-modifying drugs within 90 days prior to first study vaccination.
+
+          -  Received immunoglobulin, blood-derived products, or other immunosuppressant drugs
+             within 90 days prior to first study vaccination.
+
+          -  Known disturbance of coagulation (iatrogenic or congenital).
+
+          -  Active cancer (malignancy) within 5 years prior to first study vaccination (with the
+             exception of adequately treated non-melanomatous skin carcinoma, at the discretion of
+             the investigator).
+
+          -  Any known allergies to products contained in the investigational product or latex
+             allergy.
+
+          -  Women who are breastfeeding or who plan to become pregnant during the study.
+
+          -  History of alcohol abuse or drug addiction within one year prior to the first study
+             vaccination.
+
+          -  Any condition that, in the opinion of the investigator, would pose a health risk to
+             the subject if enrolled or could interfere with evaluation of the study vaccine or
+             interpretation of study results (including neurologic or psychiatric conditions deemed
+             likely to impair the quality of safety reporting).
+
+          -  Study team member or first-degree relative of any study team member (inclusive of
+             sponsor, PPD, and site personnel involved in the study).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>84 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Biljana Georgievska</last_name>
+    <phone>61 3 8593 9817</phone>
+    <email>B.Georgievska@nucleusnetwork.com.au</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research-(Savannah Georgia) - Platinum - PPDS - Phase 2</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Ailey</last_name>
+      <phone>405-227-7047</phone>
+      <email>sailey@mcrmed.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul Bradley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Clinical Research - Meridian - ERN-PPDS - Phase 2</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Audra Weslowski</last_name>
+      <phone>208-377-8653</phone>
+      <email>aweslowski@velocityclinical.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Turner</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multipsecialty Research, LLC - Phase 2</name>
+      <address>
+        <city>Newton</city>
+        <state>Kansas</state>
+        <zip>67114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Justin Phillips</last_name>
+      <phone>316-283-7403</phone>
+      <email>justin.phillips@amrllc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Richard Glover, II</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Research, LLC - Phase 2</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Meenakshi (Kavya) Natesan</last_name>
+      <phone>316-689-6645</phone>
+      <email>kavya.natesan@amrllc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Terry Klein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Central Kentucky Research Associates Inc - Phase 2</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40509</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joy Soper</last_name>
+      <phone>859-264-8799</phone>
+      <email>joy.soper@amrllc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Adams</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research-(Rockville Maryland) - Platinum - PPDS - Phase 2</name>
+      <address>
+        <city>Rockville</city>
+        <state>Maryland</state>
+        <zip>20854</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Courtney Heisey</last_name>
+      <phone>816-835-3481</phone>
+      <email>cheisey@mcrmed.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ira Berger</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Clinical Research US, Inc. - Cincinnati - Phase 2</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45236</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeanne Blevins</last_name>
+      <phone>513-247-5594</phone>
+      <email>jeanne.blevins@synexus-us.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul Nugent</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rapid Medical Research Inc - ERN-PPDS - Phase 2</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Hoagland</last_name>
+      <phone>216-682-0320</phone>
+      <phone_ext>242</phone_ext>
+      <email>lisa.hoagland@rapidmedicalresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mary Beth Manning</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Paratus Clinical Research - Canberra - Phase 2</name>
+      <address>
+        <city>Bruce</city>
+        <state>Australian Capital Territory</state>
+        <zip>2617</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ashlee Innes</last_name>
+      <phone>+61484007388</phone>
+      <email>ashlee.innes@paratusclinical.com</email>
+    </contact>
+    <investigator>
+      <last_name>Amber Leah</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Paratus Clinical Research - Western Sydney - Phase 2</name>
+      <address>
+        <city>Blacktown</city>
+        <state>New South Wales</state>
+        <zip>2148</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gemma Blunt</last_name>
+      <phone>+61286088668</phone>
+      <email>gemma.blunt@paratusclinical.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fiona Napier-Flood</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Paratus Clinical Research - Central Coast - Phase 2</name>
+      <address>
+        <city>Kanwal</city>
+        <state>New South Wales</state>
+        <zip>2259</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Monica Harris</last_name>
+      <phone>+61243479185</phone>
+      <email>monica.harris@paratusclinical.com</email>
+    </contact>
+    <investigator>
+      <last_name>Joshua Kim</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Australian Clinical Research Network - Phase 2</name>
+      <address>
+        <city>Maroubra</city>
+        <state>New South Wales</state>
+        <zip>2035</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arianna Mahfoud</last_name>
+      <phone>+61283470645</phone>
+      <email>adrianna@acrn.com.au</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Arya</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Scientia Clinical Research Limited - Phase 2</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Nelson</last_name>
+      <phone>610438008816</phone>
+      <email>lisa.nelson@scientiaclinicalresearch.com.au</email>
+    </contact>
+    <investigator>
+      <last_name>Charlotte Lemech</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Q Pharm Pty Limited - Phase 1 and Phase 2</name>
+      <address>
+        <city>Herston</city>
+        <state>Queensland</state>
+        <zip>4006</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Biljana Georgievska</last_name>
+      <phone>61 3 8593 9817</phone>
+      <email>B.Georgievska@nucleusnetwork.com.au</email>
+    </contact>
+    <investigator>
+      <last_name>Paul Griffin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of the Sunshine Coast, Health Hub Morayfield - Phase 2</name>
+      <address>
+        <city>Morayfield</city>
+        <state>Queensland</state>
+        <zip>4506</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Piplica</last_name>
+      <phone>+61754431033</phone>
+      <email>spiplica@usc.edu.au</email>
+    </contact>
+    <investigator>
+      <last_name>Scott Kitchener</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of the Sunshine Coast - Phase 2</name>
+      <address>
+        <city>Sippy Downs</city>
+        <state>Queensland</state>
+        <zip>4556</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Piplica</last_name>
+      <phone>+61754431033</phone>
+      <email>spiplica@usc.edu.au</email>
+    </contact>
+    <investigator>
+      <last_name>Susan Thackwray</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Barwon Health - Phase 2</name>
+      <address>
+        <city>Geelong</city>
+        <state>Victoria</state>
+        <zip>3220</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathryn Ellis</last_name>
+      <phone>+61342152878</phone>
+      <email>kathryc@barwonhealth.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Eugene Athan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Clinical Studies - Phase 1 and Phase 2</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3181</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Biljana Georgievska</last_name>
+      <phone>61 3 8593 9817</phone>
+      <email>B.Georgievska@nucleusnetwork.com.au</email>
+    </contact>
+    <investigator>
+      <last_name>Jason Lickliter</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2020</verification_date>
+  <study_first_submitted>April 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 30, 2020</study_first_posted>
+  <last_update_submitted>September 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pharmaceutical Solutions</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

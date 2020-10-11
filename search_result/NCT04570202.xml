@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2881">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04570202</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DR200160-HARD-COVID-19</org_study_id>
+    <secondary_id>2020-A01642-37</secondary_id>
+    <secondary_id>1-20-046 ID 48680</secondary_id>
+    <nct_id>NCT04570202</nct_id>
+  </id_info>
+  <brief_title>Health cAre woRkers exposeD to COVID-19</brief_title>
+  <acronym>HARD-COVID19</acronym>
+  <official_title>Symptoms of Depression, Stress and Burnout, and Long-term Psychological Impact in Health Care Professionals Exposed to the Novel Coronavirus Disease 2019 Outbreak (HARD-COVID-19 - Health cAre woRkers exposeD to covID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Tours</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institut National de la Santé Et de la Recherche Médicale, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Tours</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hospital health workers involved in the coronavirus epidemic are facing several challenges
+      such as direct exposure and involvement in the resolution of major public health emergencies,
+      exposure to potentially fatal contamination, physical exhaustion , unadjusted work
+      organizations, the unusual number of deaths among patients, colleagues and close relatives,
+      and significant ethical challenges in decision-making.
+
+      Preliminary data suggests that frontline and lay professionals suffer from different types of
+      psychological distress. These data highlight the importance of screening for psychological
+      distress in response to the scale of the pandemic and the provision of targeted psychological
+      interventions, such as Eye Movement Desensitization and Reprocessing (EMDR, desensitization
+      and neuro-emotional integration by eye movements), to improve the psychological well-being of
+      healthcare workers exposed to COVID-19.
+
+      This project is both a cohort study with the proposal of a randomized trial to evaluate an
+      intervention adapted to the exceptional circumstances of the crisis. As such, it is designed
+      as Trial(s) Within Cohort design (TWIC).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hospital health workers involved in the coronavirus epidemic are facing several challenges
+      such as direct exposure and involvement in the resolution of major public health emergencies,
+      exposure to potentially fatal contamination, physical exhaustion, unadjusted work
+      organizations, the unusual number of deaths among patients, colleagues and close relatives,
+      and significant ethical challenges in decision-making. Preliminary data from China suggests
+      that frontline and lay professionals suffer from different types of psychological distress. A
+      study of the mental health of 230 frontline medical staff in the COVID-19 outbreak found a
+      high prevalence of anxiety and stress disorder (up to 25%).
+
+      These data highlight the importance of screening for psychological distress in response to
+      the scale of the pandemic and the provision of targeted psychological interventions, such as
+      EMDR (desensitization and neuro-emotional integration by eye movements), to improve the
+      psychological well-being of healthcare workers exposed to COVID-19. EMDR is a therapy which
+      for nearly 30 years has demonstrated, through well-conducted international experimental
+      studies with a high level of evidence including a recent meta-analysis from 2019, its
+      effectiveness in the treatment of post-traumatic stress disorder and depression. Its use is
+      recommended by the French National Authority for Health and the World Health Organization. In
+      France, more than 1,700 therapists practice it. While the evidence for the effectiveness of
+      EMDR is strong and its feasibility adapted to a crisis such as the COVID-19 pandemic, its use
+      has not been evaluated at the population level in the context of an exceptional health
+      crisis.
+
+      This project is both a cohort study with the proposal of a randomized trial to evaluate an
+      intervention adapted to the exceptional circumstances of the crisis. As such, it is designed
+      as Trial(s) Within Cohort design (TWIC).
+
+      In addition, this project is also built to allow health professionals involved in the fight
+      against COVID-19 to have regular access to self-administered screening with immediate
+      feedback concerning the most frequent psychological symptoms, this method of screening and
+      monitoring psychological distress in the context of a pandemic is not currently implemented
+      in France.
+
+      The objectives of the study are as follows:
+
+        1. / Create a cohort of French hospital health personnel involved in the care of COVID-19
+           patients in which we will:
+
+             -  offer a self-administered mass screening test for common psychiatric disorders
+                likely to occur in this context, and estimate the frequency of occurrence of common
+                psychological symptoms in the short and long term (depression, burnout,
+                post-traumatic stress);
+
+             -  estimate the evolution over a year of the aforementioned symptoms and try to
+                explain these trajectories.
+
+        2. / To evaluate, in a randomized controlled trial, the effectiveness of 12 sessions of a
+           specific therapeutic intervention combining &quot;EMDR + usual care&quot; compared to &quot;usual care&quot;
+           alone in eligible participants (those screened positive for psychological symptoms) .
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 15, 2020</start_date>
+  <completion_date type="Anticipated">July 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 15, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Trials Within Cohort (TWIC) :
+Participants are included within a cohort. They are screened using an online self-administered questionnaire for psychological distress (Post-Traumatic Stress Disorder, Burnout, Depression) every three months for one year.
+People who are positive after screening (at M0 or M3 or M6) will be eligible for the trial and some of them will be randomly assigned to the treatment group. The rest of the cohort will be the second arm (control group).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Efficacy on symptoms of Post-Traumatic Stress Disorder</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>This study is investigating three different conditions (PTSD, Depression and Burnout) each assessed with its own primary endpoint. Thus, the trial will have three primary endpoints.
+Change over a 6 months period in symptoms of PTSD measured by the Post-Traumatic Stress Disorder Checklist Scale for Diagnostic and Statistical Manual of mental disorders fifth edition ((DSM-5), PCL-5). The PCL-5 score is on a scale from 0 to 80. The higher the score, the higher the level of PTSD symptoms are.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Efficacy on symptoms of Burnout</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>Change over a 6 months period in symptoms of Burnout measured by the Professional Quality Of Life questionnaire (ProQOL). The ProQOL score is on a scale from 30 to 150. The higher the score, the higher the level of Burnout symptoms are.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Efficacy on symptoms of Depression</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>Change over a 6 months period in symptoms of depression measured by the Patient Health Questionnaire (PHQ-9). The PHQ-9 score is on a scale from 0 to 27. The higher the score, the higher the level of depression symptoms are.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Short-term efficacy on symptoms of PTSD</measure>
+    <time_frame>From inclusion to 3 months after inclusion</time_frame>
+    <description>Change over a 3 months period in symptoms of PTSD measured by the Post-Traumatic Stress Disorder Checklist Scale for Diagnostic and Statistical Manual of mental disorders fifth edition ((DSM-5), PCL-5). The PCL-5 score is on a scale from 0 to 80. The higher the score, the higher the level of PTSD symptoms are.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short-term efficacy on symptoms of Burnout</measure>
+    <time_frame>From inclusion to 3 months after inclusion</time_frame>
+    <description>Change over a 3 months period in symptoms of Burnout measured by the Professional Quality Of Life questionnaire (ProQOL). The ProQOL score is on a scale from 30 to 150. The higher the score, the higher the level of Burnout symptoms are.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short-term efficacy on symptoms of Depression</measure>
+    <time_frame>From inclusion to 3 months after inclusion</time_frame>
+    <description>Change over a 3 months period in symptoms of depression measured by the Patient Health Questionnaire (PHQ-9). The PHQ-9 score is on a scale from 0 to 27. The higher the score, the higher the level of depression symptoms are.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Long-term efficacy on symptoms of PTSD</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Change over a 12 months period in symptoms of PTSD measured by the Post-Traumatic Stress Disorder Checklist Scale for Diagnostic and Statistical Manual of mental disorders fifth edition ((DSM-5), PCL-5) for the participants who will be enrolled in the trial at M0 of the cohort. The PCL-5 score is on a scale from 0 to 80. The higher the score, the higher the level of PTSD symptoms are.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Long-term efficacy on symptoms of Burnout</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Change over a 12 months period in symptoms of Burnout measured by the Professional Quality Of Life questionnaire (ProQOL) for the participants who will be enrolled in the trial at M0 of the cohort. The ProQOL score is on a scale from 30 to 150. The higher the score, the higher the level of Burnout symptoms are.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Long-term efficacy on symptoms of Depression</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Change over a 12 months period in symptoms of depression measured by the Patient Health Questionnaire (PHQ-9) for the participants who will be enrolled in the trial at M0 of the cohort. The PHQ-9 score is on a scale from 0 to 27. The higher the score, the higher the level of depression symptoms are.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy on symptoms of Anxiety</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>Change over a 6 months period in anxiety measured by the Generalized Anxiety Disorder-7 questionnaire (GAD-7). The GAD-7 score is on a scale from 0 to 21. The higher the score, the higher the level of anxiety symptoms are.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Long-term efficacy on symptoms of Anxiety</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Change over a 12 months period in anxiety measured by the Generalized Anxiety Disorder-7 questionnaire (GAD-7) for the participants who will be enrolled in the trial at M0 of the cohort. The GAD-7 score is on a scale from 0 to 21. The higher the score, the higher the level of anxiety symptoms are.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy on suicide attempts</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>Number of suicide attempts over a 6-month period from baseline</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Efficacy on suicidal ideation</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>Changes in the level of suicidal ideation over a 6 months period from baseline measured by Visual Analog Scale (VAS). The VAS is on a scale from 0 to 10. The higher the VAS score, the higher suicidal ideation level is.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Long-term efficacy on suicidal ideation</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Changes in the level of suicidal ideation over a 12 months period from baseline measured by Visual Analog Scale (VAS) for the participants who are enrolled in the trial at M0 of the cohort. The VAS is on a scale from 0 to 10. The higher the VAS score, the higher suicidal ideation level is.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Efficacy on the impact of health on functioning: Role Emotional</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>Change in the impact of health on functioning (Role Emotional (RE) subdomain of the MOS Short Form-36 health survey v1.3 (SF-36)) over a 6 months period from baseline. The RE score is on a scale from 0 to 100. The higher the score, the better Role Emotional is.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Long-term efficacy on the impact of health on functioning: Role Emotional</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Change in the impact of health on functioning (Role Emotional (RE) subdomain of the MOS Short Form-36 health survey v1.3 (SF-36)) over a 12 months period from baseline for the participants who are enrolled in the trial at M0 of the cohort. The RE score is on a scale from 0 to 100. The higher the score, the better Role Emotional is.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Efficacy on the impact of health on functioning: Role Physical</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>Change in the impact of health on functioning (Role Physical (RP) subdomain of the MOS Short Form-36 health survey v1.3 (SF-36)) over a 6 months period from baseline. The RP score is on a scale from 0 to 100. The higher the score, the better Role Physical is.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Long-term efficacy on the impact of health on functioning: Role Physical</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Change in the impact of health on functioning (Role Physical (RP) subdomain of the MOS Short Form-36 health survey v1.3 (SF-36)) over a 12 months period from baseline for the participants who are enrolled in the trial at M0 of the cohort. The RP score is on a scale from 0 to 100. The higher the score, the better Role Physical is.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Substance use</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>Evolution of substance use over 6 months</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Long-term substance use</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Evolution of substance use over 12 months for the participants who are enrolled in the trial at M0 of the cohort</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Medication use</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>Evolution of medication use over 6 months</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Long-term medication use</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Evolution of medication use over 12 months for the participants who are enrolled in the trial at M0 of the cohort</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Health care utilization</measure>
+    <time_frame>From inclusion to 6 months after inclusion</time_frame>
+    <description>Number of consultations of health professionals within the period of follow-up (general practitioner, psychiatrist, psychotherapist, psychologist, professionals who are practicing alternative medicines); Occurrence of EMDR therapy within the control group; Number of visits at the emergency unit of a hospital; Number of nights spent in hospital as a patient (short-term); Number of nights spent in rehabilitation facilities as a patient.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Long-term health care utilization</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Number of consultations of health professionals within the period of follow-up (general practitioner, psychiatrist, psychotherapist, psychologist, professionals who are practicing alternative medicines); Occurrence of EMDR therapy within the control group; Number of visits at the emergency unit of a hospital; Number of nights spent in hospital as a patient (short-term); Number of nights spent in rehabilitation facilities as a patient. For the participants who are enrolled in the trial at M0 of the cohort</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Acceptability of EMDR in the EMDR group</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Proportion of those who will be offered EMDR and will actually receive EMDR</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Compliance in the EMDR group</measure>
+    <time_frame>From inclusion to 12 months after inclusion</time_frame>
+    <description>Number of sessions attended over the total planned number</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">900</enrollment>
+  <condition>Depression</condition>
+  <condition>Burnout, Professional</condition>
+  <condition>Post Traumatic Stress Disorder</condition>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Subject from this group are screened positive for psychological distress but they will only receive standard of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Eye Movement Desensitization &amp; Reprocessing Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subject from this group are screened positive for psychological distress. They will receive 12 sessions of Eye Movement Desensitization &amp; Reprocessing therapy by a trained therapist over three months in addition to standard of care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>EMDR</intervention_name>
+    <description>The EMDR therapy is organized in eight different phases, requiring attending multiple sessions, usually 12 separate sessions.</description>
+    <arm_group_label>Eye Movement Desensitization &amp; Reprocessing Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria in the cohort:
+
+          -  ≥ 18 years of age.
+
+          -  French speaking.
+
+          -  Health care workers: physicians, residents in medicine or pharmacy, dentist residents,
+             nurses, auxiliary nurses, pharmacist, dentist, midwife, physiotherapists,
+             radiographers, ambulance attendants, hospital porters, medical students, pharmacy
+             students, dentist students, midwife students, nursing students, auxiliary nursing
+             students, physiotherapist students, radiographer students.
+
+          -  Working in metropolitan French public or private hospitals.
+
+          -  Have taken care of patients with COVID-19.
+
+          -  Participants covered by or entitled to social security.
+
+          -  Written informed consent obtained from the participant.
+
+          -  Ability for participant to comply with the requirements of the study.
+
+        Inclusion criteria in the EMDR trial:
+
+          -  Participant involved in the cohort study.
+
+          -  Participant who are screened positive for PTSD (≥ 40 on PCL-5), depression (≥ 15 on
+             PHQ-9), or on one of the burnout dimensions (≤ 22 on compassion satisfaction
+             dimension, ≥ 42 on burnout dimension, or ≥ 42 on compassion fatigue dimension, as
+             measured using the ProQOL) at M0 or M3 or M6.
+
+        Exclusion Criteria in the cohort:
+
+          -  none
+
+        Exclusion criteria in the EMDR trial:
+
+          -  none
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wissam EL-HAGE, MD-PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>University Hospital of TOURS</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Wissam EL-HAGE, MD-PhD</last_name>
+    <phone>+332 47 47 80 43</phone>
+    <email>wissam.elhage@univ-tours.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Wiebe de JONG, MSc</last_name>
+    <phone>+33 2 47 47 46 80</phone>
+    <email>w.dejong@chu-tours.fr</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid-19 pandemic</keyword>
+  <keyword>Severe Acute Respiratory Syndrome CoronaVirus 2 (SARS-CoV-2)</keyword>
+  <keyword>Healthcare Professionals</keyword>
+  <keyword>Psychological Distress</keyword>
+  <keyword>Post-Traumatic Stress Disorder</keyword>
+  <keyword>Burnout</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Eye Movement Desensitization &amp; Reprocessing</keyword>
+  <keyword>Randomized Controlled Trial</keyword>
+  <keyword>Cohort</keyword>
+  <keyword>Trials Within Cohort</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Burnout, Professional</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+    <mesh_term>Burnout, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

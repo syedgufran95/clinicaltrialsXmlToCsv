@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1436">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527211</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Epi1JaveCali</org_study_id>
+    <nct_id>NCT04527211</nct_id>
+  </id_info>
+  <brief_title>Effectiveness and Safety of Ivermectin for the Prevention of Covid-19 Infection in Colombian Health Personnel</brief_title>
+  <acronym>IveprofCovid19</acronym>
+  <official_title>Effectiveness and Safety of Ivermectin for the Prevention of Covid-19 Infection in Colombian Health Personnel at All Levels of Care, During the 2020 Pandemic: A Randomized Clinical Controled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Javeriana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Javeriana University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It will be performed a randomized, multicenter, triple-masked, placebo-controlled clinical
+      experiment to determine the effectiveness and safety of the administration to of ivermectin
+      at a dose of 200 mcg/kg once a week for 7 weeks in a prophylactic treatment against SARS
+      COV-2 infection in 550 Colombian health workers during the COVID-19 pandemic.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction: In less than four months, an outbreak of severe pneumonia, initially identified
+      in Wuhan (China), has spread to more than 185 countries and territories, leaving more than
+      1,835,000 people compromised and 113,362 deaths, according to statistics provided by Johns
+      Hopkins University (1). Additionally, this outbreak has collapsed health systems in some
+      countries and has begun to have a huge impact on the global economy.
+
+      The etiological agent, an RNA virus of the Coronaviridae family called SARS COV-2, is
+      characterized by having a high contagion index (R0 = 1, 4 - 5, 5) (2), high virulence and
+      lethality rates that can go up to 10% in some populations. The contagion of health workers
+      has led to the loss of subjects with high social value to face the pandemic further weakening
+      health systems. Because it is necessary to wait several months for the development, testing,
+      approval and commercialization of a SARS COV-2 vaccine, there has been an urgent need to
+      identify drugs that can offer a prophylactic effect for health workers who have high risk of
+      being infected with the virus.
+
+      Recently, the in vitro antiviral effect of ivermectin was described to inhibit the invasive
+      cellular action of SARS COV-2 (3), an effect explained by the HTA (Host Target Antivirals)
+      model. Given the known safety and effectiveness of ivermectin in the treatment of parasitic
+      infections in humans, this drug could be used prophylactically in health workers if the
+      effects described on in-vitro studies are also present on in-vivo scenarios. However, so far,
+      no study has shown the antiviral effects that ivermectin could have against SARS COV-2 or its
+      effectiveness in reducing health complications caused by this virus in humans.
+
+      Objective: To determine the effectiveness and safety of the administration of ivermectin at a
+      dose of 200 mcg/kg once a week for 7 weeks in a prophylactic treatment against SARS COV-2
+      infection in Colombian health workers during the COVID-19 pandemic.
+
+      Methods: It will be performed a randomized, multicenter, triple-masked, placebo-controlled
+      clinical experiment to determine the relative risk of SARS COV-2 infection, seroconversion,
+      and clinically presenting disease. In addition, the relative risk of requiring
+      hospitalization or entering the intensive care unit was evaluated in doctors, nurses,
+      respiratory therapists and assistants who have direct contact with patients with COVID-19.
+      After being exposed to ivermectin prophylaxis or placebo for seven weeks, the results will be
+      measured at eight weeks, with interim analyses to monitor the safety of the participating
+      subjects.
+
+      Keywords: Coronavirus 2019, COVID-19, SARS-CoV2, ivermectin, prophylaxis, treatment, health
+      workers.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 7, 2020</start_date>
+  <completion_date type="Anticipated">December 16, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>It will be performed a randomized, multicenter, triple-masked, placebo-controlled clinical experiment to determine the relative risk of SARS COV-2 infection, seroconversion, and clinically presenting disease.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Simple randomization will be done with a random number generator and masking will be maintained by concealing the allocation with opaque envelopes. The active medicine as the control will have the same presentation, color and taste, it will be differentiated by a pre-established code from the maker. This will maintain the concealment of patients, caregivers and evaluators. At the central level, only an intervention safety coordinator will know the assignment of each patient in case serious adverse events occur and the concealment needs to be lifted. The outcomes of interest will be obtained from the clinical history of the patients and through direct measurement in the follow-up visits.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical development of covid-19 disease during the intervention period</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Development of of the disease according to the definitions of cases found in the guidelines from the Colombian National Institute of Health</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Indicate if the patient had positive serological antibodies at the end of the study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization requirement</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Need for hospitalization independent of the level of complexity due to covid-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive Care Unit Requirement</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>ICU need due to Covid-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of the intervention</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Adverse effect due to medication or placebo</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">550</enrollment>
+  <condition>Covid19</condition>
+  <condition>Healthcare Worker Patient Transmission</condition>
+  <arm_group>
+    <arm_group_label>Ivermectin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Oral administration of ivermectin 200 mcg/kg every week for seven weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Oral administration of placebo of similar characteristics every week for seven weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin</intervention_name>
+    <description>Oral administration of ivermectin 200 mcg/kg every week for seven weeks</description>
+    <arm_group_label>Ivermectin</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects over 18 years old of any sex who work as health care workers, laboriously
+             active during the recruitment of the study in health services that do not screen for
+             the exclusion of acutely ill patients.
+
+          -  Subjects who have not presented general symptoms such as general discomfort, fever,
+             cough, dyspnoea or muscle pain in the last week.
+
+          -  Subjects with negative COVID-19 serological antibody diagnostic tests.
+
+        Exclusion Criteria:
+
+          -  Subjects considered as a resolved case of COVID-19 infection, according to guidelines
+             from the Colombian National Institute of Health.
+
+          -  Health personnel with social distancing due to close contact without personal
+             protective equipment with confirmed patients of infection, or who are taking any
+             medication as possible prophylaxis for COVID-19 (example; chloroquine,
+             hydroxychloroquine, azithromycin)
+
+          -  Health workers who have permits or temporary withdrawal from their hospital work for
+             more than one week during the first month of the study.
+
+          -  Subjects with known allergy to ivermectin.
+
+          -  Women in a state of pregnancy or lactation.
+
+          -  |Subjects with a body mass index less than 18.5 and greater than 35.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eduar D. Echeverri, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pontificia Universidad Javeriana</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eduar D. Echeverri, Dr.</last_name>
+    <phone>+57 3004634032</phone>
+    <email>echeverri.eduar@javeriana.edu.co</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julian Santaella, PhD</last_name>
+    <phone>+57 3167401868</phone>
+    <email>juliansantaella@javeriana.edu.co</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Pontificia Universidad Javeriana</name>
+      <address>
+        <city>Cali</city>
+        <state>Valle Del Cauca</state>
+        <zip>760501</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eduar d Echeverri, Dr.</last_name>
+      <phone>3004634032</phone>
+      <email>dr.echeverri@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Julian Santaella, PhD</last_name>
+      <phone>3167401868</phone>
+      <email>juliansantaella@javeriana.edu.co</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Colombia</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>August 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 26, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Javeriana University</investigator_affiliation>
+    <investigator_full_name>Eduar d. Echeverri</investigator_full_name>
+    <investigator_title>MD Spec. and Clinical Epidemiologist</investigator_title>
+  </responsible_party>
+  <keyword>prophylaxis</keyword>
+  <keyword>ivermectin</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>health workers</keyword>
+  <keyword>SARS-CoV2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

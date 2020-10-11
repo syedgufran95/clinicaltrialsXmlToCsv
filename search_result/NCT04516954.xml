@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="608">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516954</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ISC.20.11.1</org_study_id>
+    <nct_id>NCT04516954</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma for COVID-19 Patients</brief_title>
+  <acronym>CPCP</acronym>
+  <official_title>Assessment of the Safety of Convalescent Plasma to Treat COVID-19 Patients With Moderate and Above Illness</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vinmec Research Institute of Stem Cell and Gene Technology</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Hygiene and Epidemiology, Vietnam</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Hospital for Tropical Diseases, Hanoi, Vietnam</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Hematology and Blood Transfusion, Vietnam</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vinmec Research Institute of Stem Cell and Gene Technology</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators propose to evaluate intravenous administration of convalescent plasma (CP)
+      obtained from COVID19 survivors in COVID19 patients who are in the medium stage. Supportive
+      data exist for use of convalescent plasma in the treatment of COVID19 and other overwhelming
+      viral illnesses. The study team wants to test the hypothesis that treatment with COVID19 CP
+      will demonstrate salutary effects on COVID19 disease severity/duration, with the primary
+      objective to reduce mortality. In addition, a major secondary objective to reduce the
+      requirement for and/or duration of mechanical ventilation. The first phase is to test the
+      safety of CP therapy.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronaviruses are among the most common causes of the common cold in humans.1,2 In recent
+      decades, coronavirus has caused several epidemic worldwide with a vast number of deaths such
+      as severe acute respiratory syndrome-SARS (2003) with 8098 people infected and 774 people
+      died over 29 countries. The disease caused by SARS CoV-2 (COVID19) is manifest by fever,
+      fatigue, dry cough, pharyngitis, and headache. In addition to the common clinical
+      presentation of respiratory distress, and increasing frequency of cardiovascular
+      manifestations has become evident.
+
+      In this context, the investigators propose to evaluate the safety of intravenous
+      administration of convalescent plasma (CP) obtained from COVID19 survivors in patients
+      requiring hospitalization for symptomatic &quot;high risk&quot; COVID19 disease. The study team wants
+      to test the hypothesis that treatment with COVID19 CP will demonstrate salutary effects on
+      COVID19 disease severity/duration, with the primary objective to reduce mortality. In
+      addition, a major secondary objective to reduce the requirement for and/or duration of
+      mechanical ventilation This is a single-arm, non-randomized, open-label treatment of eligible
+      subjects defined as those who satisfy all inclusion criteria.
+
+      Written informed consent will be obtained all eligible subjects prior to participation.
+
+      Convalescent plasma will be obtained from male donors, nulliparous females, or female donors
+      negative for HLA antibodies at least 14 days following recovery from COVID-19 infection.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">August 1, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate the safety</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>Number of Adverse Events (AEs), and Serious Adverse Events (SAEs) of COVID 19 Patients:
+Incidence of Treatment-Emergent Adverse Events (Data on the number of participants with treatment related adverse events will be assessed to determine the safety and tolerability of convalescent plasma)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in requirement for mechanical ventilatory support</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>Change in the duration of mechanical ventilation in COVID 19 patients compared with historic precedent cohorts</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>COVID 19</condition>
+  <arm_group>
+    <arm_group_label>Convalescent COVID 19 Plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A total of 500 ml of convalescent COVID 19 plasma will be transfused intravenously per subject</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent COVID 19 Plasma</intervention_name>
+    <description>A total of 500 ml of convalescent COVID 19 plasma will be transfused intravenously per subject</description>
+    <arm_group_label>Convalescent COVID 19 Plasma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 18-75 years
+
+          -  SARS-CoV-19 PCR positive
+
+          -  Medium stage
+
+          -  Time from onset to screening ≤ 21 days, the SARS-CoV-2 test is still positive
+
+        Exclusion Criteria:
+
+          -  Patients with a history of autoimmune disease or IgA deficiency
+
+          -  Patients with a history of allergy
+
+          -  Multi-organ/system failure
+
+          -  Pregnant or breastfeeding at the time of study
+
+          -  Cancer, history of heart failure, stroke, bronchial asthma
+
+          -  Multi-organ/system failure with indications for dialysis, severe hypoxia, failure with
+             conventional treatment methods, indications for ECMO.
+
+          -  The patient is infected with multidrug-resistant bacteria.
+
+          -  The patient is participating in another study.
+
+          -  Time from onset to screening&gt; 21 days
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Vinmec Research Institute of Stem cell and Gene Technology</name>
+      <address>
+        <city>Hanoi</city>
+        <zip>10000</zip>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Vietnam</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>August 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 20, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

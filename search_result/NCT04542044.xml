@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1730">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542044</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCER2020-01518</org_study_id>
+    <nct_id>NCT04542044</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Safety and Outcomes of Outpatient Management With Mild to Moderate COVID-19 Pneumonia</brief_title>
+  <acronym>PneumoCoV-Ambu</acronym>
+  <official_title>Evaluation of the Safety and Outcomes of Outpatient Management With Mild to Moderate COVID-19 Pneumonia (PneumoCoV-Ambu)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Geneva</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Geneva</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the strategy of investigators for outpatients
+      SARS-CoV-2 moderate pneumonia management in terms of efficacy and patient safety. The
+      investigators ultimate goal is to validate first wave management strategy in order to support
+      the investigators future approach in the event of a second wave, and spare the hospital
+      resources by safely keeping at home as many patients as possible.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators focused on participants consulting in the emergency department at the HUG
+      who remained in an outpatient setting, with pneumonia and moderate illness, defined by
+      individuals who have evidence of lower respiratory disease by clinical assessment or imaging
+      and a saturation of oxygen (SaO2) &gt;93% on room air and no other hospitalization criteria
+      (CURB 65 score below 2points).
+
+      For patients' follow-up, the investigators have created an aftercare ambulatory unit, open
+      5/7 days. The investigators were able to conduct 64 consultations between April 2 and May 5,
+      2020. Every participant had suspected or confirmed SARS-CoV-2 pulmonary tract infection.
+
+      The follow-up data was entered into DPI (patient's medical record at HUG) on a specific
+      consultation form. Patients followed in the investigators consultation were contacted between
+      30 and 60 days after diagnosis by the Covicare team. The Covicare team is call-center
+      composed of medical students and primary care physicians who remotely followed patients with
+      COVID-19 by calling them by phone or telemedicine every day or every other day depending on
+      patients' needs and health status. The investigators will export data from RedCap concerning
+      post-hospitalization, satisfaction survey on our care and oral consent for use of data (ARGOS
+      study CCER number 2020-01273).
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 2, 2020</start_date>
+  <completion_date type="Actual">June 30, 2020</completion_date>
+  <primary_completion_date type="Actual">May 5, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Secondary hospitalization(s) or death COVID-19 related</measure>
+    <time_frame>30 to 60 days from diagnosis</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>severity of COVID-19 disease</measure>
+    <time_frame>30 to 60 days from diagnosis</time_frame>
+    <description>severity of COVID-19 disease on a 7-points ordinal scale (1: not hospitalized, no limitation of activities; 2: not hospitalized, limitation of activities; 3: hospitalized, not requiring supplementary oxygen; 4: hospitalized, requiring supplementary oxygen; 5: hospitalized, on non-invasive mechanical ventilation; 6: hospitalized, on invasive mechanical ventilation or ECMO; 7: death),</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>patient satisfaction with management strategies</measure>
+    <time_frame>30 to 60 days from diagnosis</time_frame>
+    <description>Satisfaction Survey of outpatient management</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Saved costs</measure>
+    <time_frame>30 days</time_frame>
+    <description>estimation of saved costs compared with a strategy of hospitalization of all COVID-19 related pneumonia cases.</description>
+  </secondary_outcome>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Covid19</condition>
+  <condition>Pneumonia</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>management strategy of outpatient with mild to moderate SARS-CoV-2 pneumonia</intervention_name>
+    <description>Data collected with a cohorte of SARS-CoV-2 pneumonia in an outpatient basis</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with SARS-CoV-2 pneumonia without hospitalization criteria at primary consultation
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All persons with suspected or confirmed SARS-CoV-2 pneumonia who consulted in the
+             emergency department of the HUG without criteria for hospitalization4 (Pneumonia with
+             CURB-65 &gt;= 2 or new O2 dependency or increased O2 requirements or sustained
+             respiratory rate≥20 min or decompensated comorbidity or major alteration of the
+             general state) and who have been scheduled for outpatient follow-up in HUG.
+
+        Exclusion Criteria:
+
+          -  Patients with hospitalization criteria
+
+          -  Refusal to consent documentation found in the computerized patient record or oral
+             refusal consent during follow up call.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Geneva University Hospital</name>
+      <address>
+        <city>Geneva</city>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital, Geneva</investigator_affiliation>
+    <investigator_full_name>Chevallier-Lugon Chloé</investigator_full_name>
+    <investigator_title>Chief resident</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>June 24, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/44/NCT04542044/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

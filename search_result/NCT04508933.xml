@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2084">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04508933</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0308202247</org_study_id>
+    <nct_id>NCT04508933</nct_id>
+  </id_info>
+  <brief_title>Comparison of Extra Vascular Lung Water Index in Covid-19 ARDS and &quot;Typical&quot;ARDS Patients</brief_title>
+  <official_title>Comparison of Extra Vascular Lung Water Index in Covid-19 ARDS and &quot;Typical&quot;ARDS Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istanbul University-Cerrahpasa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istanbul University-Cerrahpasa</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Covid-19 also primarily affects endothelium that line up the alveoli. The resulting hypoxemia
+      may differ from &quot;typical&quot; Acute Respiratory Distress Syndrome (ARDS) due to maldistribution
+      of perfusion related to the ventilation. Thus, pathophysiology of Covid-19 ARDS is different,
+      which requires different interventions than typical ARDS. The investigators will assess
+      whether extravascular lung water index and permeability of the alveolar capillary differs
+      from typical ARDS with transpulmonary thermodilution (TPTD) technique. Extravascular Lung
+      Water Index (EVLWI) and Pulmonary Vascular Permeability Index (PVPI) will be compared.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Extravascular Lung Water Index</measure>
+    <time_frame>1 day</time_frame>
+    <description>The amount of fluid accumulated in the lung measured by transpulmonary thermodilution (ml/kg)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pulmonary vascular permeability index</measure>
+    <time_frame>1 day</time_frame>
+    <description>Integrity of the alveolocapillary barrier measured by transpulmonary thermodilution</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Respiratory Distress Syndrome, Adult</condition>
+  <condition>Ventilation Perfusion Mismatch</condition>
+  <condition>Pulmonary Edema</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Typical ARDS</arm_group_label>
+    <description>ARDS due to non Covid19 causes</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>C-ARDS</arm_group_label>
+    <description>ARDS due to Covid19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Extravascular Lung Water Index</intervention_name>
+    <description>Measurement of the EVLWI</description>
+    <arm_group_label>C-ARDS</arm_group_label>
+    <arm_group_label>Typical ARDS</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Pulmonary Vascular Permeability Index</intervention_name>
+    <description>Measurement of the PVPI</description>
+    <arm_group_label>C-ARDS</arm_group_label>
+    <arm_group_label>Typical ARDS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients with ARDS in the adult ICU that have a TPTD catheter inserted since 2018 will
+        be eligible for recruitment
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  ARDS defined by Berlin Criteria longer than 24 hours
+
+          -  Undergoing mechanical ventilation
+
+          -  Noradrenaline demand &gt;0.1 mcg/kg/min
+
+        Exclusion Criteria:
+
+          -  Not meeting ARDS criteria
+
+          -  Noninvasive mechanical ventilation
+
+          -  ARDS resolved shorter than 24 hours
+
+          -  Shock resolved
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yalım Dikmen, Prof</last_name>
+    <role>Study Director</role>
+    <affiliation>Istanbul University-Cerrahpaşa, Cerrahpaşa Faculty of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Olcay Dilken, MD</last_name>
+    <phone>+90 554 737 87 09</phone>
+    <email>olcaydilken@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Istanbul University-Cerrahpaşa</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <results_reference>
+    <citation>Monnet X, Teboul JL. Transpulmonary thermodilution: advantages and limits. Crit Care. 2017 Jun 19;21(1):147. doi: 10.1186/s13054-017-1739-5. Review.</citation>
+    <PMID>28625165</PMID>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 11, 2020</study_first_posted>
+  <last_update_submitted>August 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istanbul University-Cerrahpasa</investigator_affiliation>
+    <investigator_full_name>Olcay Dilken</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>ards</keyword>
+  <keyword>covid19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Pulmonary Edema</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Data available on reasonable request</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

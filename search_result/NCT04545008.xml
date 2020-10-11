@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1252">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04545008</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00100394</org_study_id>
+    <nct_id>NCT04545008</nct_id>
+  </id_info>
+  <brief_title>Trial of Famotidine &amp; N-Acetyl Cysteine for Outpatients With COVID-19</brief_title>
+  <official_title>A Phase I Clinical Trial of the Combination of Famotidine (FAM) and Oral N-Acetyl Cysteine (NAC) Open Label for Outpatient Treatment of Subjects With Newly Diagnosed SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Prisma Health-Upstate</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Clemson University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Prisma Health-Upstate</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this trial is to assess the safety and toxicity profile of the combination of
+      famotidine and oral n-acetyl cysteine in adult outpatients with newly diagnosed SARS-CoV-2
+      infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase I trial enrolling subjects with newly diagnosed SARS-CoV-2 infection who do
+      not require hospitalization. Exclusion criteria have been written to exclude patients who
+      would be expected to have increased risk from either medication alone. Subjects will be
+      assigned a dose combination of famotidine and n-acetyl cysteine. In addition to assessing the
+      safety and toxicities profiles of the combination of drugs we will be measuring certain
+      endpoints to assess possible efficacy. These endpoint include the following: rates of
+      hospitalization; time to complete remission of symptoms, e.g, fever, respiratory symptoms,
+      etc.; severity of symptoms with validated survey instruments; cytokine values in serum and
+      urine; and markers of inflammation and oxidative stress.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v5.0</measure>
+    <time_frame>0 to 3 months</time_frame>
+    <description>Data will be collected and entered into Case Report Form in local REDCap sever to include MedDRA Code, Grade and all other data required by NIH per Memorandum, &quot;Guidance for Collection of Adverse Events Related to COVID-19 Infection&quot; dated on 25 March 2020. All data will be reported per this memorandum and in accordance with all applicable Institutional Review Board and FDA requirements.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Hospitalization</measure>
+    <time_frame>0 to 3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Symptom Resolution</measure>
+    <time_frame>0 to 3 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>12</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Low Dose N-Acetyl Cysteine Alone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 600 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 1,200 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low Dose N-Acetyl Cysteine and Low Dose Famotidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 600 mg three times daily Famotidine 20 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Dose N-Acetyl Cysteine Alone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 1,800 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine and Low Dose Famotidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 1,200 mg three times daily Famotidine 20 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low Dose N-Acetyl Cysteine and Medium Dose Famotidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 600 mg three times daily Famotidine 40 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Dose N-Acetyl Cysteine and Low Dose Famotidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 1,800 mg three times daily Famotidine 20 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine and Medium Dose Famotidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 1,200 mg three times daily Famotidine 40 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low Dose N-Acetyl Cysteine and High Dose Famotidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 600 mg three times daily Famotidine 80 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Dose N-Acetyl Cysteine and Medium Dose Famotidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 1,800 mg three times daily Famotidine 40 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine and High Dose Famotidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 1,200 mg three times daily Famotidine 80 mg three times daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Dose N-Acetyl Cysteine and High Dose Famotidine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-Acetyl Cysteine 1,800 mg three times daily Famotidine 80 mg three times daily</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Famotidine</intervention_name>
+    <description>Oral Famotidine</description>
+    <arm_group_label>High Dose N-Acetyl Cysteine and High Dose Famotidine</arm_group_label>
+    <arm_group_label>High Dose N-Acetyl Cysteine and Low Dose Famotidine</arm_group_label>
+    <arm_group_label>High Dose N-Acetyl Cysteine and Medium Dose Famotidine</arm_group_label>
+    <arm_group_label>Low Dose N-Acetyl Cysteine and High Dose Famotidine</arm_group_label>
+    <arm_group_label>Low Dose N-Acetyl Cysteine and Low Dose Famotidine</arm_group_label>
+    <arm_group_label>Low Dose N-Acetyl Cysteine and Medium Dose Famotidine</arm_group_label>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine and High Dose Famotidine</arm_group_label>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine and Low Dose Famotidine</arm_group_label>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine and Medium Dose Famotidine</arm_group_label>
+    <other_name>Pepcid AC</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>N-Acetyl cysteine</intervention_name>
+    <description>Oral N-Acetyl Cysteine</description>
+    <arm_group_label>High Dose N-Acetyl Cysteine Alone</arm_group_label>
+    <arm_group_label>High Dose N-Acetyl Cysteine and High Dose Famotidine</arm_group_label>
+    <arm_group_label>High Dose N-Acetyl Cysteine and Low Dose Famotidine</arm_group_label>
+    <arm_group_label>High Dose N-Acetyl Cysteine and Medium Dose Famotidine</arm_group_label>
+    <arm_group_label>Low Dose N-Acetyl Cysteine Alone</arm_group_label>
+    <arm_group_label>Low Dose N-Acetyl Cysteine and High Dose Famotidine</arm_group_label>
+    <arm_group_label>Low Dose N-Acetyl Cysteine and Low Dose Famotidine</arm_group_label>
+    <arm_group_label>Low Dose N-Acetyl Cysteine and Medium Dose Famotidine</arm_group_label>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine</arm_group_label>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine and High Dose Famotidine</arm_group_label>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine and Low Dose Famotidine</arm_group_label>
+    <arm_group_label>Medium Dose N-Acetyl Cysteine and Medium Dose Famotidine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age &gt; 18
+
+          -  performance of a SARS-CoV-2 test within 1 day of enrollment, N.B., must be positive to
+             proceed to treatment phase of the trial
+
+        Exclusion Criteria:
+
+          -  All patients under 18
+
+          -  Known allergy to N-Acetyl Cysteine
+
+          -  Known allergy to famotidine or other H2-receptor antagonists
+
+          -  Pregnant or Nursing Mothers
+
+          -  Laboratory Evidence or History of Renal Impairment (eGFR &lt; 30 mL/min/1.73 m2)
+
+          -  Taking H2-receptor antagonists, hydroxychloroquine or chloroquine.
+
+          -  Patient has been admitted to the hospital prior to study enrollment
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>John J O'Connell, M.D.</last_name>
+    <phone>(864)679-3900</phone>
+    <email>John.O'Connell@PrismaHealth.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julie Martin, DNP</last_name>
+    <phone>(864)679-3900</phone>
+    <email>Julie.Martin@PrismaHealth.org</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 10, 2020</study_first_posted>
+  <last_update_submitted>September 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>outpatient</keyword>
+  <keyword>famotidine</keyword>
+  <keyword>n-acetyl cysteine</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acetylcysteine</mesh_term>
+    <mesh_term>Famotidine</mesh_term>
+    <mesh_term>N-monoacetylcystine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

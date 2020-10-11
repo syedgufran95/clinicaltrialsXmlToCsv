@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2811">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04546581</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INSIGHT 013</org_study_id>
+    <nct_id>NCT04546581</nct_id>
+  </id_info>
+  <brief_title>Inpatient Treatment With Anti-Coronavirus Immunoglobulin (ITAC)</brief_title>
+  <official_title>An International Multicenter, Adaptive, Randomized Double-Blind, Placebo-Controlled Trial of the Safety, Tolerability and Efficacy of Anti-Coronavirus Hyperimmune Intravenous Immunoglobulin for the Treatment of Adult Hospitalized Patients at Onset of Clinical Progression of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The International Network for Strategic Initiatives in Global HIV Trials</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This protocol will serve as a platform for assessing treatments for adult patients
+      hospitalized for medical management of COVID-19 without related serious end-organ failure.
+      Trials will involve sites around the world strategically chosen to ensure rapid enrollment.
+      This trial will compare hyperimmune intravenous immunoglobulin (hIVIG) with matched placebo,
+      when added to standard of care (SOC), for preventing further disease progression and
+      mortality related to COVID-19. SOC will include remdesivir unless it is contraindicated for
+      an individual patient.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary endpoint of this trial in hospitalized patients is an ordinal outcome based on
+      the patient's clinical status on Day 7. It includes 7 mutually exclusive categories capturing
+      the range of organ dysfunction that may be associated with progression of COVID-19, such as
+      respiratory dysfunction and coagulation-related complications. The ordinal endpoint is
+      defined as follows:
+
+      7. Death
+
+      6. End-organ failure
+
+      5. Life-threatening end-organ dysfunction
+
+      4. Serious end-organ dysfunction
+
+      3. Moderate end-organ dysfunction
+
+      2. Limiting symptoms due to COVID-19
+
+      1. No limiting symptoms due to COVID-19
+
+      Secondary endpoints include time to the 3 least favorable categories, time to the 2 most
+      favorable categories, and the pulmonary only and thrombotic only components of the primary
+      ordinal outcome. Mortality, adverse events (AEs), including infusion reactions, and
+      biological correlates of therapeutic activity are also assessed. Because there is no
+      established endpoint for evaluating the clinical efficacy of treatments for COVID-19, other
+      clinically relevant outcomes, including outcomes used in other COVID-19 treatment trials,
+      will be recorded. Thus, the randomized groups (hIVIG + SOC versus placebo + SOC ) can be
+      compared for multiple outcomes, and results can be compared or combined with other trials.
+
+      Participants will be randomized (1:1) to a single infusion of hIVIG + SOC or placebo + SOC on
+      the day of randomization (Day 0). Participants taking remdesivir prior to randomization may
+      be enrolled if eligibility criteria are met. Randomized participants who were not taking
+      remdesivir before randomization will start taking remdesivir immediately following the
+      infusion of hIVIG or placebo unless remdesivir is contraindicated. Participants will be
+      followed for 28 days and, if the trial goes to completion, the primary analysis will be
+      completed after all participants are followed for 28 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ordinal Outcome Scale - Day 7</measure>
+    <time_frame>7 days</time_frame>
+    <description>The primary objective is to compare the clinical status of patients in each group on day 7 of follow-up using the primary ordinal outcome with 7 mutually exclusive categories:
+7. Death 6. End-organ failure 5. Life-threatening end-organ dysfunction 4. Serious end-organ dysfunction 3. Moderate end-organ dysfunction 2. Limiting symptoms due to COVID-19
+1. No limiting symptoms due to COVID-19
+Outcome is reported as the percent of participants in each of 7 categories.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality through Day 28</measure>
+    <time_frame>28 days</time_frame>
+    <description>Outcome reported as the percent of participants who expire for any reason by day 28 post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ordinal Outcome Scale</measure>
+    <time_frame>3 days, 5 days, 14 days, and 28 days</time_frame>
+    <description>A secondary outcome is to compare the clinical status of patients in each group on day 3, 5, 14, and 28 of follow-up using the primary ordinal outcome.
+Outcome is reported as the percent of participants in each of 7 categories.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in National Early Warning Score (NEWS)</measure>
+    <time_frame>7 days</time_frame>
+    <description>The National Early Warning Score (NEWS) is used to determine the degree of illness of a patient and prompt critical care intervention. The score takes into account respiratory rate, oxygen saturation, use of respiratory support, body temperature, blood pressure, and heart rate. These data are entered into a program to calculate a NEW score. Scores range from -3 to +3 with scores closer to zero representing a lower degree of illness. Scores will be collected at baseline and day 7 and the change in score at these 2 time points will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Worsening</measure>
+    <time_frame>7 days, 14 days, and 28 days</time_frame>
+    <description>Time to worsening is defined as the 3 least favorable categories on the primary ordinal scale. Outcome is reported as the percent of participants in each arm who are characterized as categories 5, 6, and 7 on the primary ordinal scale at 7, 14, and 28 days post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discharge Status</measure>
+    <time_frame>7 days, 14 days, and 28 days</time_frame>
+    <description>Outcome is reported as the percent of participants in each arm who are alive and discharged from the hospital to home or rehabilitation at days 7, 14, and 28 post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days Alive Outside the Hospital</measure>
+    <time_frame>28 days</time_frame>
+    <description>Outcome is reported as the mean number of days alive and outside the hospital from study entry to Day 28 for participants in each arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary-only Components of the Primary Ordinal Outcome</measure>
+    <time_frame>3 days, 5 days, 7 days, 14 days, and 28 days</time_frame>
+    <description>A secondary outcome is to compare the clinical status of patients in each group on day 3, 5, 7, 14, and 28 post treatment limited to using the pulmonary elements of the primary ordinal outcome (e.g., requirement for invasive ventilation). Outcome is reported as the percent of participants in each arm who fall into each of the 7 categories of the primary ordinal outcome with regard to their pulmonary dysfunction only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thrombotic Components of the Primary Ordinal Outcome</measure>
+    <time_frame>3 days, 5 days, 7 days, 14 days, and 28 days</time_frame>
+    <description>A secondary outcome is to compare the clinical status of patients in each group on day 3, 5, 7, 14, and 28 post treatment limited to using the thrombotic conditions (e.g., arterial thrombosis) in the primary ordinal outcome. Outcome is reported as the percent of participants in each arm who fall in each of the 7 categories of the primary ordinal outcome with regard to thrombotic conditions only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to recovery</measure>
+    <time_frame>7 days, 14 days, and 28 days</time_frame>
+    <description>Time to recovery is defined as the 2 most favorable categories on the primary ordinal scale.
+Outcome is reported as the percent of participants in each arm who are characterized as categories 1 or 2 at 7, 14, and 28 days post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Organ Dysfunction</measure>
+    <time_frame>28 days</time_frame>
+    <description>Clinical organ dysfunction is defined by new onset of any one or more of the following. Outcome is reported as the percent of participants in each arm who meet any 1 of the following criteria by day 28 post treatment.
+A) Respiratory dysfunction B) Cardiac and vascular dysfunction C) Renal dysfunction D) Hepatic dysfunction E) Neurological dysfunction F) Haematological dysfunction G) Serious infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability - Adverse Events</measure>
+    <time_frame>7 days</time_frame>
+    <description>Outcome is reported as the percent of participants in each arm who experience a new grade 3 or 4 event, a serious adverse event (SAE), or death through day 7 (primary safety endpoint) post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability - Infusion Reactions, Interruptions, or Cessation</measure>
+    <time_frame>approximately 2 hours</time_frame>
+    <description>Outcome is reported as the percent of participants in each arm for who had any grade of reaction during the infusion or within 2 hours afterwards, for whom the infusion is interrupted prior to completion, or for whom the infusion is stopped prior to completion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability - Serious Adverse Events</measure>
+    <time_frame>28 days</time_frame>
+    <description>Outcome is reported as the percent of participants in each arm who experience a serious adverse event (SAE) or death through day 28 post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability - Prevalence of Adverse Events</measure>
+    <time_frame>1 day, 3 days, 7 days, and 28 days</time_frame>
+    <description>Outcome is reported as the percent of participants in each arm who experience an adverse event (AE) of any grade present (new or continuing) on days 1, 3, 7, and 28 post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neutralizing Antibody Level</measure>
+    <time_frame>1 day, 3 days, 7 days, and 28 days</time_frame>
+    <description>Outcome reported as the change in anti-SARS-CoV-2 IgG antibody level in blood from baseline to 1, 3, 7, and 28 days post treatment. Outcome is reported in units of antibody titer.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>COVID</condition>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2</condition>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <arm_group>
+    <arm_group_label>Intervention Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this group will receive the investigational product and standard of care (SOC).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants in this group will receive a placebo and standard of care (SOC).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG)</intervention_name>
+    <description>Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.</description>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants will receive a single infusion of the placebo (saline).</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  SARS-CoV-2 infection documented by PCR or other nucleic acid test (NAT) within 3 days
+             prior to randomization OR documented by NAT more than 3 days prior to randomization
+             AND progressive disease suggestive of ongoing SARS-CoV-2 infection
+
+          -  Symptomatic COVID-19 disease
+
+          -  Duration of symptoms attributable to COVID-19 ≤ 12 days
+
+          -  Requiring inpatient hospital medical care for clinical manifestations of COVID-19
+             (admission for public health or quarantine only is not included)
+
+          -  Willingness to abstain from participation in other COVID-19 treatment trials until
+             after study Day 7
+
+          -  Provision of informed consent by participant or legally authorized representative
+
+        Exclusion Criteria:
+
+          -  Prior receipt of SARS-CoV-2 hIVIG or convalescent plasma from a person who recovered
+             from COVID-19 at any time
+
+          -  Prior receipt of standard IVIG (not hyperimmune to SARS-CoV-2) within 45 days
+
+          -  Current or predicted imminent (within 24 hours) requirement for any of the following:
+
+               1. Invasive ventilation
+
+               2. Non-invasive ventilation
+
+               3. Extracorporeal membrane oxygenation
+
+               4. Mechanical circulatory support
+
+               5. Continuous vasopressor therapy
+
+          -  History of allergy to IVIG or plasma products
+
+          -  History of selective IgA deficiency with documented presence of anti-IgA antibodies
+
+          -  Any medical conditions for which receipt of the required volume of intravenous fluid
+             may be dangerous to the patient (includes New York Association Class III or IV stage
+             heart failure)
+
+          -  Any of the following thrombotic or procoagulant disorders:
+
+               1. Acute coronary syndromes, cerebrovascular syndromes and pulmonary or deep venous
+                  thrombosis within 28 days of randomization
+
+               2. History of prothrombin gene mutation 20210, homozygous Factor V Leiden mutations,
+                  antithrombin III deficiency, protein C deficiency, protein S deficiency or
+                  antiphospholipid syndrome
+
+          -  Any condition for which, in the opinion of the investigator, participation would not
+             be in the best interest of the subject or that could prevent, limit, or confound the
+             protocol-specified assessments
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Neaton, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jacqueline Nordwall</last_name>
+    <phone>612-626-8893</phone>
+    <email>jacquie@ccbr.umn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Eileen Denning</last_name>
+    <phone>612-626-8049</phone>
+    <email>edenning@umn.ed</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Denver Public Health</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Edward Gardner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de Agudos JM Ramos Mejia</name>
+      <address>
+        <city>Buenos Aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Marcelo Losso, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHIP Department of Infectious Diseases</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Jens Lundgren, MD, DMSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University College London (UCL)</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Sarah Prett, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Denmark</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2020</verification_date>
+  <study_first_submitted>September 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

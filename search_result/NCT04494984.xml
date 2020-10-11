@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1290">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04494984</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT-INM005-01</org_study_id>
+    <nct_id>NCT04494984</nct_id>
+  </id_info>
+  <brief_title>A Study to Investigate the Pharmacokinetics, Efficacy and Safety of INM005 in Patients With COVID-19.</brief_title>
+  <official_title>A Stage 2/3, Adaptive, Randomized, Controlled, Double-blind Study to Investigate the Pharmacokinetics, Efficacy and Safety of the Hyperimmune Equine Serum (INM005) in Adult Patients With Moderate to Severe Confirmed SARS-CoV2 Disease.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Inmunova S.A.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Inmunova S.A.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to analyze the efficacy and safety of passive immunotherapy by administering
+      an equine hyperimmune serum (INM005) against the SARS-CoV2 RBD to Covid19 patients.
+      Improvement of the clinical course 28 days after the start of treatment will be evaluated.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The pandemic caused by the new coronavirus has generated a situation unprecedented in recent
+      history, with several million infected and hundreds of thousands of deaths. This disease is
+      easily transmissible by air. Although a high percentage of cases present mild clinical
+      presentation, approximately 15% of patients present moderate to severe cases and 5% require
+      critical care, with respiratory assistance and a high risk of mortality. No effective
+      therapies for the treatment or prevention of SARS.CoV2 have been identified yet. Preliminary
+      evidence indicates that passive immunotherapy with convalescent plasma could alter the
+      clinical course of this infection in a favorable manner. This strategy, even if confirmed as
+      successful, requires voluntary donation by patients who have recovered, not all of whom are
+      eligible as donors, since the antibody response varies in magnitude in different patients.
+      This adaptive stage II/III study aims to analyze the efficacy and safety of passive
+      immunotherapy by administering a purified Fab fraction of equine hyperimmune serum (INM005)
+      generated from antigenic stimulation with the SARS-CoV2 RBD protein, with the objective of
+      neutralizing the interaction of SARS-CoV-2 with its cellular receptor, thus preventing the
+      multiplication of the virus. The safety of this type of equine hyperimmune sera has already
+      been demonstrated in previous and ongoing protocols with a biologically equivalent product
+      against the E. Coli shiga toxin to treat patients with Hemolytic Uremic Syndrome
+      (CT-INM004-01 and CT-INM004-02). In the present study, eligible patients will with moderate
+      to severe symptoms of COVID-19 that require hospitalization will receive two 4 mg/kg doses of
+      INM005, two days apart, with the aim of improving the clinical course of COVID-19 28 days
+      after the start of treatment with the study drug.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 27, 2020</start_date>
+  <completion_date type="Anticipated">November 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 2020</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>This study will be an adaptive phase 2/3 investigation. First, 12 subjects will be randomly assigned to receive 1 of the 2 treatment regimens (study drug or placebo) in a 1:1 ratio. After the first 6 subjects have been enrolled and have completed 24 hours post treatment of 2nd dose, the IDMC will review the safety data and will inform whether to continue with staggered enrollment. Randomization ratio for subjects in the following stage will be 1:1. The independent data monitoring committee (IDMC) will review safety data after 12, 24, 48 and 96 patients have been enrolled in each arm. The study will then enroll a total of 121 patients in each arm. An interim analysis will be performed after 80% of recruitment has been reached (n=194). The IDMC will analyze the rate of events in the group under &quot;standard of care&quot;.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>A Double-blind, Placebo-controlled, sealed-envelope based. Access to unblinded interim results will be limited to the DMC and unblinded statistician</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical changes in COVID-19 symptoms</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The primary endpoint will be the proportion of patients who show a change in symptoms 28 days after the administration of the first dose. A responding subject is defined as a subject with improvement in at least 2 categories on the 8-point World Health Organization (WHO) ordinal scale of clinical status or a subject who is discharged.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics evaluation of INM005</measure>
+    <time_frame>1 week</time_frame>
+    <description>INM005 product concentration in serum at different time points after dosing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression of disease</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Time to achieve a change in at least 2 categories on the 8-point WHO ordinal scale of clinical status.
+Time to discharge (days). Time to intensive care unit (ICU) discharge (days).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease progression</measure>
+    <time_frame>up to 2 weeks</time_frame>
+    <description>Proportion of patients who present change in at least 2 categories on the 8-point WHO ordinal scale of clinical status at 7 and 14 days after the start of the treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discharge</measure>
+    <time_frame>up to 4 weeks</time_frame>
+    <description>Proportion of patients discharged at 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive care unit (ICU) hospitalization</measure>
+    <time_frame>up to 4 weeks</time_frame>
+    <description>Proportion of patients who require ICU hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation assistance (MVA)</measure>
+    <time_frame>up to 4 weeks</time_frame>
+    <description>Proportion of patients who require MVA</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>up to 4 weeks</time_frame>
+    <description>Proportion of patients who die due to complications from COVID19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in viral load</measure>
+    <time_frame>up to 3 weeks</time_frame>
+    <description>Change in viral load from baseline to 7 and 21 days after the start of the treatment.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Anti SARS-CoV2 antibodies levels</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Measurement of anti SARS-CoV2 antibodies titer levels. IgG (0, 21 days)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in Troponin T levels</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Changes in Troponin T levels will be evaluated at 7 and 21 days as a measurement of disease progression</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in D-dimer levels</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Changes in D-dimer levels will be evaluated at 7 and 21 days as a measurement of disease progression</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in Ferritin levels</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Changes in Ferritin levels will be evaluated at 7 and 21 days as a measurement of disease progression</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in LDH levels</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Changes in LDH levels will be evaluated at 7 and 21 days as a measurement of disease progression</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in C-reactive protein levels</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Changes in C-reactive protein levels will be evaluated at 7 and 21 days as a measurement of disease progression</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>Measurement of anti-INM005 antibodies: baseline and 21 days</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">242</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Active</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will receive a 1st intravenous dose of 4 mg/kg INM005 (Anti-SARS-CoV-2 hyperimmune equine immunoglobulin F[ab']2 fragments) and a 2nd intravenous dose of 4 mg/kg of INM005. Each dose will be separated by 48 h (± 2 h).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects will receive a 1st intravenous dose of Placebo and a 2nd intravenous dose of Placebo. Each dose will be separated by 48 h (± 2 h).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>INM005</intervention_name>
+    <description>The IMP dose to be studied will be 4 mg of protein/kg of subject's weight. The IMP will be added to the 100 mL infusion bag of saline solution. Doses will be administered as an infusion at 2.0 mL/min over 50 min with an interval of 48 h between doses.</description>
+    <arm_group_label>Active</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo substance will be added to the 100 mL infusion bag of saline solution. Doses will be administered as an infusion at 2.0 mL/min over 50 min with an interval of 48 h between doses.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Subjects of both sexes aged 18 to 79 years of age
+
+          2. SARS-CoV-2 infection confirmed by PCR for virus detection
+
+          3. Patients with moderate or severe disease by NIH definition, which requires
+             hospitalization.
+
+          4. Acceptance to participate in the study by the signature of the informed consent by a
+             subject or their relative, if applicable
+
+          5. Be within 10 days of the onset of symptoms at the time of the Screening visit
+             according to a case definition from the National Ministry of Health
+
+          6. Female patients of child-bearing age with negative pregnancy test
+
+        Exclusion Criteria:
+
+          1. Patients who have received treatment with plasma from COVID-19 convalescents.
+
+          2. Patients who are participating in other therapeutic clinical trials
+
+          3. Patients who require mechanical respiratory assistance or are hospitalized in the ICU
+             at the time of the screening visit.
+
+          4. History of anaphylaxis, prior administration of equine serum (por example,
+             anti-tetanus serum or anti-ophidic serum or anti-arachnid toxin serum) or allergic
+             reaction due to contact or exposure to horses.
+
+          5. Pregnant or breastfeeding women
+
+          6. Patients who, at the doctor's discretion, are likely to die within the next 30 days
+             due to a concomitant disease other than the study disease
+
+          7. Patients who are expected to be referred to another institution within 72 hours of
+             enrollment, which prevents proper follow-up of that patient.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Santiago Sanguineti, Ph.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Inmunova S.A.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mariana Colonna, MSc.</last_name>
+    <phone>+ 54 9 1161718697</phone>
+    <email>mcolonna@inmunova.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Santiago Sanguineti, Ph.D.</last_name>
+    <phone>+54 9 11 4564-3625</phone>
+    <email>ssanguineti@inmunova.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital de Cuenca Alta</name>
+      <address>
+        <city>Cañuelas</city>
+        <state>Buenos Aires</state>
+        <zip>B1814</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Beatriz Firmenich</last_name>
+      <phone>+54 11 3279- 3921</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Medico Platense</name>
+      <address>
+        <city>La Plata</city>
+        <state>Buenos Aires</state>
+        <zip>B1900AVG</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gustavo Chaparro, MD</last_name>
+      <phone>+54 221 425-8390</phone>
+      <phone_ext>423</phone_ext>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Guemes</name>
+      <address>
+        <city>Ciudad Autonoma de Buenos Aires</city>
+        <zip>C1180AAD</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Estela Izquierdo, MD</last_name>
+      <phone>+54 11 4959 8300</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Italiano de Buenos Aires</name>
+      <address>
+        <city>Ciudad Autonoma de Buenos Aires</city>
+        <zip>C1199ABH</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Augusto Perez, MD</last_name>
+      <phone>+54 11 4959 0200</phone>
+      <phone_ext>8425</phone_ext>
+      <email>cepi@hospitalitaliano.org.ar</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Muñiz</name>
+      <address>
+        <city>Ciudad Autonoma de Buenos Aires</city>
+        <zip>C1282AEN</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ines Zapiola</last_name>
+      <phone>+54 11 4304 2180</phone>
+      <phone_ext>268</phone_ext>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Pirovano</name>
+      <address>
+        <city>Ciudad Autonoma de Buenos Aires</city>
+        <zip>C1428</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Fernando Grittini, MD</last_name>
+      <phone>+54 11 4546-4319</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 31, 2020</study_first_posted>
+  <last_update_submitted>July 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

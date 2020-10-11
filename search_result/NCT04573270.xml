@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1708">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04573270</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00043080</org_study_id>
+    <nct_id>NCT04573270</nct_id>
+  </id_info>
+  <brief_title>Mesenchymal Stem Cells for the Treatment of COVID-19</brief_title>
+  <official_title>A Pilot Phase Study Evaluating the Effects of a Single Mesenchymal Stem Cell Injection in Patients With Suspected or Confirmed COVID-19 Infection and Healthcare Providers Exposed to Coronavirus Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Thomas Advanced Medical LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>HeartStem Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Thomas Advanced Medical LLC</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This double blind, placebo controlled, multi-arm, multi-site study investigates the safety
+      and efficacy of stem cell therapy for the treatment of patients admitted to hospital
+      suffering complications from COVID-19 and the treatment of healthy subjects (healthcare
+      providers) for prophylactic effect following those patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Recent preliminary data from Wuhan/China have claimed that intravenous injections of
+      mesenchymal stem cells derived from human umbilical chords have resulted in complete recovery
+      of COVID-19 infected elderly patients with respiratory failure.
+
+      This study investigates the efficacy and safety of a single umbilical cord derived stem cell
+      intravenous injection in patients with suspected or confirmed COVID-19 infection with fever
+      and respiratory illness.
+
+      A second arm will test efficacy and safety of a single umbilical cord derived stem cell
+      intravenous injection to healthcare providers at high exposure rates to COVID-19 infection.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 24, 2020</start_date>
+  <completion_date type="Actual">September 1, 2020</completion_date>
+  <primary_completion_date type="Actual">August 20, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This study is a randomized assignment, double-blind, placebo-controlled, multi-arm, multi-site study located at Southern California Hospitals at Culver City and Hollywood.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Survival Rates</measure>
+    <time_frame>30 Days</time_frame>
+    <description>Survival Rate in COVID-19 infected patients admitted to hospital for complications</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Contraction Rates</measure>
+    <time_frame>30 Days</time_frame>
+    <description>Contraction Rate of COVID-19 in healthy healthcare workers following patients admitted to hospital for complications due to COVID-19</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Covid19</condition>
+  <condition>Prophylaxis</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 Patients Experimental</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>13 COVID-19 infected subjects (Patients admitted to hospital suffering complications from COVID-19) will be randomized and equally distributed between placebo and experimental intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 Patients Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>13 COVID-19 infected subjects (Patients admitted to hospital suffering complications from COVID-19) will be randomized and equally distributed between placebo and experimental intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthcare Providers Experimental</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>7 healthy subjects (healthcare providers following patients admitted to hospital suffering complications from COVID-19) will be randomized and equally distributed between placebo and experimental intervention.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthcare Providers Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>7 healthy subjects (healthcare providers following patients admitted to hospital suffering complications from COVID-19) will be randomized and equally distributed between placebo and experimental intervention.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PrimePro</intervention_name>
+    <description>Intravenous Injection</description>
+    <arm_group_label>COVID-19 Patients Experimental</arm_group_label>
+    <arm_group_label>Healthcare Providers Experimental</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intravenous Injection</description>
+    <arm_group_label>COVID-19 Patients Placebo</arm_group_label>
+    <arm_group_label>Healthcare Providers Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 18 and older
+
+          -  Ability to provide informed consent
+
+        Exclusion Criteria:
+
+          -  Active or recent malignancy (within last 2 years)
+
+          -  Inability to provide informed consent
+
+          -  Current enrollment in any other COVID-19 treatment study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ernst R Von Schwarz, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>HeartStem Institute, Southern California Hospital at Culver City</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Southern California Hospital at Culver City / Southern California Hospital at Hollywood</name>
+      <address>
+        <city>Culver City</city>
+        <state>California</state>
+        <zip>92032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 2, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stem cell therapy</keyword>
+  <keyword>umbilical cord stem cells</keyword>
+  <keyword>amniotic stem cells</keyword>
+  <keyword>stem cells</keyword>
+  <keyword>MSC</keyword>
+  <keyword>Mesenchymal Stem Cell</keyword>
+  <keyword>Medicinal Signaling Cell</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Data will be blinded and password protected. Research publications will be produced for medical journals. Participating Investigators will have password protected access only.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

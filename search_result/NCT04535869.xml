@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="405">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04535869</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MS.20.08.1214</org_study_id>
+    <nct_id>NCT04535869</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Direct Anti HCV Drugs in the Treatment of SARS-COV-2 (COVID-19)</brief_title>
+  <acronym>CCOVID-19</acronym>
+  <official_title>Efficacy and Safety of Direct Anti HCV Drugs in the Treatment of SARS-COV-2 (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mansoura University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mansoura University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID 19 which started from a zoonotic transmission related to crowded markets was confirmed
+      to have a high potential for transmission to close contacts on 20 January 2020 by the
+      National Health Commission of China and it was announced as a pandemic by the WHO on 11 March
+      2020.
+
+      There is currently no clinically proven specific antiviral agent available for SARS-CoV-2
+      infection. Supportive treatment, including oxygen therapy, conservation fluid management, and
+      broad-spectrum antibiotics to cover secondary bacterial infection, remains the most important
+      management strategy.
+
+      Interestingly, sofosbuvir has recently been proposed as an antiviral for the SARS-CoV-2 based
+      on the similarity between the replication mechanisms of the HCV and the coronaviruses.
+
+      Aim of our study is to assess the safety and efficacy of of the addition of HCV treatment to
+      the standard regimen for the treatment of patients according to MOHP protocol.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SARS-CoV-2 infection have a wide clinical spectrum ranging between asymptomatic infection,
+      mild upper respiratory tract symptoms, and severe viral pneumonia (fever, malaise, dry cough,
+      shortness of breath, and respiratory distress) that may result in respiratory failure and
+      finally death.
+
+      There is currently no clinically proven specific antiviral agent available for SARS-CoV-2
+      infection. Supportive treatment, including oxygen therapy, conservation fluid management, and
+      broad-spectrum antibiotics to cover secondary bacterial infection, remains the most important
+      management strategy.
+
+      For direct antiviral treatment of SARS-CoV-2, the China International Exchange and Promotive
+      Association for Medical and Health Care (CPAM) recommended usage of lopinavir; ritonavir.
+      Their recommendation was based on weak evidence from retrospective cohort, historically
+      controlled studies, case reports, and case series reporting a clinical benefit of lopinavir;
+      ritonavir in the management of other coronavirus infection [i.e., SARS-CoV 1 and Middle East
+      respiratory syndrome coronavirus (MERS-CoV)] .
+
+      However, the first randomized clinical trial with lopinavir/ritonavir demonstrated no benefit
+      over standard care in 199 hospitalized adults with severe COVID-19. There is no evidence to
+      support the use of other antiretrovirals, including protease inhibitors; indeed, structural
+      analysis demonstrates no darunavir binding to COVID-19 protease A group of Korean physicians
+      experienced in SARS-CoV-2 infected patients' treatment developed recommendations for the
+      treatment of COVID-19. According to them, antiviral medications lopinavir 400 mg; ritonavir
+      100 mg, or chloroquine is considered to be used in older patients or patients with chronic
+      health conditions and life-threatening symptoms. If chloroquine is unavailable,
+      hydroxychloroquine is recommended. Both of them have reported the ability of inhibition of
+      SARS-CoV-2 in vitro.
+
+      CPAM guidelines included them as they were associated with reduced progression of the disease
+      and decreased duration of symptoms. In an open-label study of 36 patients with COVID-19, the
+      use of hydroxychloroquine (200 mg three times per day for 10 days) was associated with a
+      higher rate of undetectable SARS-CoV-2 RNA on nasopharyngeal specimens at day 6 compared with
+      no specific treatment (70 versus 12.5 percent). In this study, the use of azithromycin in
+      combination with hydroxychloroquine appeared to have an additional benefit, but there are
+      methodologic concerns about the control groups for the study, and the biologic basis for
+      using azithromycin in this setting is unclear. In the United States, the FDA issued an
+      emergency use authorization to allow the use of these agents in adolescents or adults
+      hospitalized for COVID-19.
+
+      One of the studies done on SARS-COV-1 strongly suggested that using ribavirin as therapy
+      should be reconsidered until further animal studies clarify the effects of ribavirin on
+      cytokine and chemokine profiles during infection and until ribavirin can be demonstrated to
+      have a significant effect on reducing viral replication in vivo. Data from a molecular
+      docking experiment using the SARS-CoV-2 RNA dependent RNA polymerase (RdRp) model identified
+      the tight binding of sofosbuvir and ribavirin to the coronavirus RdRp, thereby suggesting
+      possible efficacy of sofosbuvir and ribavirin in treating the COVID-19 infection.
+
+      A three-dimensional model of the SARS-CoV-2 (aka 2019-nCoV) 3C-like protease (3CL ) was
+      prepared then performed virtual screening for purchasable drugs checking the actions,
+      targets, and side effects of the 16 candidates. Velpatasvir and ledipasvir are examples of
+      these drugs ( which are inhibitors of the NS5A protein of the hepatitis C virus (HCV). Both
+      are marketed as approved drugs in combination with sofosbuvir, which is a prodrug nucleotide
+      analog inhibitor of RNA-dependent RNA polymerase (RdRp, or NS5B).
+
+      Interestingly, sofosbuvir has recently been proposed as an antiviral for the SARS-CoV-2 based
+      on the similarity between the replication mechanisms of the HCV and the coronaviruses.
+
+      Based on this data it was suggested that these dual-component HCV drugs, Epclusa
+      (velpatasvir/sofosbuvir) and Harvoni (ledipasvir/sofosbuvir), may be attractive candidates to
+      repurpose because they may inhibit two coronaviral enzymes. A drug that can target two viral
+      proteins substantially reduces the ability of the virus to develop resistance. These
+      direct-acting antiviral drugs are also associated with very minimal side effects and are
+      conveniently orally administered.
+
+      The aim of this study is to assess the safety and efficacy of the addition of HCV treatment
+      to the standard regimen for the treatment of COVID-19 patients according to MOHP protocol .
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 4, 2020</start_date>
+  <completion_date type="Anticipated">September 3, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>rate of virological cure by Rt -PCR for COVID -19using the triple therapy as compared to standard treatment</measure>
+    <time_frame>for every case must be done after 2 weeks from the start of treatment.</time_frame>
+    <description>All PCR for COVID must be negative</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>resolution of pneumonia BY high resolution Computed tomography</measure>
+    <time_frame>Computed tomography must be done after 2 weeks to detect resolution of pneumonia</time_frame>
+    <description>clinical status as assessed by earlier resolution of pneumonia in the intervention arm when compared to the control group</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>A)standard therapy group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No intervention COVID- 19 patients who received a standard therapy group according to the ministry of health protocol</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>B)Standard Therapy group plus Ant-HCV drugs</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Intervention COVID- 19 patients who received a standard therapy group according to the ministry of health protocol plus sofosbuvir 400 mg and Daclatasvir 200mg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sofosbuvir 400 MG plus Daclatasvir 200mg</intervention_name>
+    <description>This group which receive sofosbuvir and daclatasvir for 14 days plus standard therapy</description>
+    <arm_group_label>B)Standard Therapy group plus Ant-HCV drugs</arm_group_label>
+    <other_name>Direct antiviarl agents</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All cases positive for COVID-19
+
+          -  Male and non-pregnant female patients,
+
+          -  18 years of age or older,
+
+          -  All moderate and severe caseswith pneuomnia.
+
+        Exclusion Criteria:
+
+          -  Known allergy or hypersensitivity to the used medications
+
+          -  Known severe liver disease
+
+          -  Use of medications that are contraindicated with the trial medications and that could
+             not be replaced or stopped during the trial period
+
+          -  Pregnancy or breast-feeding or known active HCV infection, because of concerns about
+             the development of resistance
+
+          -  History of bone marrow transplant
+
+          -  Known G6PD deficiency
+
+          -  Chronic hemodialysis or Glomerular Filtration Rate &lt; 20ml/min
+
+          -  Psoriasis
+
+          -  Porphyria
+
+          -  Concomitant use of digitalis, flecainide, amiodarone, procainamide, or propafenone
+
+          -  Known history of long QT syndrome
+
+          -  Current known QTc&gt;500 msec
+
+          -  Pregnant or nursing
+
+          -  Weight &lt; 35kg
+
+          -  Seizure disorder
+
+          -  Patients receiving Amiodarone.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Mahmoud El-Bendary, M.D</last_name>
+    <phone>00201002592205</phone>
+    <email>mmelbendary@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hatem Elalfy, M.D</last_name>
+    <phone>00201224790518</phone>
+    <email>elalfy_hatem66@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mansoura Faculty of Medicine</name>
+      <address>
+        <city>Mansoura</city>
+        <state>Dakahlyia</state>
+        <zip>35516</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mahmoud El-Bendary, M.D</last_name>
+      <phone>00201002592205</phone>
+      <email>mmelbendary@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>Hallin RW. Femoropopliteal versus femorotibial bypass grafting for lower extremity revascularization. Am Surg. 1976 Jul;42(7):522-6.</citation>
+    <PMID>937862</PMID>
+  </reference>
+  <reference>
+    <citation>Depo-Provera may be linked to uterine cancer, preliminary data imply. Fam Plann Perspect. 1979 Jan-Feb;11(1):47.</citation>
+    <PMID>105932</PMID>
+  </reference>
+  <reference>
+    <citation>O'Brien PJ, Hawco FJ. Hydroxyl-radical formation during prostaglandin formation catalysed by prostaglandin cyclo-oxygenase [proceedings]. Biochem Soc Trans. 1978;6(6):1169-71.</citation>
+    <PMID>105949</PMID>
+  </reference>
+  <reference>
+    <citation>Kirkegaard C, Faber J, Hummer L, Rogowski P. Increased levels of TRH in cerebrospinal fluid from patients with endogenous depression. Psychoneuroendocrinology. 1979 Jul;4(3):227-35.</citation>
+    <PMID>117477</PMID>
+  </reference>
+  <results_reference>
+    <citation>Phelan AL, Katz R, Gostin LO. The Novel Coronavirus Originating in Wuhan, China: Challenges for Global Health Governance. JAMA. 2020 Feb 25;323(8):709-710. doi: 10.1001/jama.2020.1097.</citation>
+    <PMID>31999307</PMID>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mansoura University</investigator_affiliation>
+    <investigator_full_name>Mahmoud Elbendary</investigator_full_name>
+    <investigator_title>Professor of Tropical Medicine and Hepatogastroenterology</investigator_title>
+  </responsible_party>
+  <keyword>COVID</keyword>
+  <keyword>Anti- HCV drugs,</keyword>
+  <keyword>Sofosbuvir</keyword>
+  <keyword>Daclatasvir</keyword>
+  <keyword>DAAs</keyword>
+  <keyword>Efficacy</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sofosbuvir</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

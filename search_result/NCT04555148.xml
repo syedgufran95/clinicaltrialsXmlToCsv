@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="628">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04555148</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GC5131A-HIG_P0201</org_study_id>
+    <nct_id>NCT04555148</nct_id>
+  </id_info>
+  <brief_title>COVIDIG (COVID-19 Hyper-ImmunoGlobulin)</brief_title>
+  <official_title>A Prospective, Open-label, Randomized, Multi-center, Phase 2a Study to Evaluation the Dose Response, Efficacy and Safety of Hyper-Ig (Hyper-immunoglobulin) GC5131 in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Green Cross Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Green Cross Corporation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to evaluate the efficacy and safety of 5131A for hospitalized
+      patients of COVID-19.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">September 20, 2020</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ordinal scale outcome</measure>
+    <time_frame>7, 14, 21, 28 days</time_frame>
+    <description>The percent of participants reduced by 2 points or more</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Viral negative</measure>
+    <time_frame>1, 3, 5, 7, 10 days</time_frame>
+    <description>The percents of negative patients for COVID-19 virus</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in NEWS</measure>
+    <time_frame>7, 14, 21, 28 days</time_frame>
+    <description>The change of NEWS from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>The percent of participants</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Saline</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low dose Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low dose treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium dose Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Medium dose Treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High dose Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High dose Treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>GC5131</intervention_name>
+    <description>COVID19 Hyper-Immunoglobulin</description>
+    <arm_group_label>High dose Treatment</arm_group_label>
+    <arm_group_label>Low dose Treatment</arm_group_label>
+    <arm_group_label>Medium dose Treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  The COVID-19 patient who diagnosed by PCR within 3 days prior to randomized And who is
+             hospitalized with COVID-19 related symptoms
+
+          -  The subject who has symptoms of COVID-19 within 7 days
+
+          -  The subject with pneumonia confirmed by imaging diagnosis related to COVID-19 OR a
+             70-year-old or older OR 60-year-old or older with underlying disease (diabetes or
+             hypertension or obesity or smoker)
+
+          -  Willing and able to provide written informed consent prior to performing study
+             procedures
+
+        Exclusion Criteria:
+
+          -  asymptomatic patient
+
+          -  The subject who requiring mechanical ventilation or ECMO
+
+          -  The subject who are underlying oxygen therapy before affected by COVID-19
+
+          -  The subject who have received antiviral drugs for other disease within 4 weeks
+
+          -  History of allergy to IVIG or plasma products
+
+          -  The subject who received IVIG or convalescent plasma from a person who recovered from
+             COVID-19
+
+          -  IgA deficiency
+
+          -  Cretinine &gt; 2 X ULN
+
+          -  The subject with a history of thrombosis or high risk of thromboembolism
+
+          -  The subject with reduced heart function [NYHA (New York Heart Association) Functional
+             Class III or IV]; or cerebral cardiovascular disorder or a patient with the medical
+             history (ischemic disease, cardiovascular disease, cerebrovascular disorder, blood
+             vessel disorder, etc.)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kyoung Ran Peck, Dr.</last_name>
+      <phone>82-2-3410-3631</phone>
+      <email>krpeck@skku.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kyoung Ran Peck, Dr.</last_name>
+      <phone>82-02-3410-3631</phone>
+      <email>krpeck@skku.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 18, 2020</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

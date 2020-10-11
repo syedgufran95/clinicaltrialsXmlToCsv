@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="748">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04530370</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ossamahamdyresearcher7</org_study_id>
+    <nct_id>NCT04530370</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Recovered Covid 19 Plasma Transfusion to Covid 19 Severly Ill Patients</brief_title>
+  <official_title>Efficacy and Safety of Recovered Covid 19 Plasma Transfusion to Covid 19 Severly Ill Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>South Valley University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>South Valley University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The discovery of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and the
+      outbreak of coronavirus disease 2019 (COVID-19) are causing public health emergencies. A
+      handful pieces of literature have summarized its clinical and radiologic features, whereas
+      therapies for COVID-19 are rather limited. To evaluate the efficacy of convalescent plasma
+      therapy in COVID-19 patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is a highly contagious pulmonary disease caused by a
+      newly discovered strains of coronavirus family. The clinical pictures could range from a
+      symptomatic to severe and can lead to hospitalization, breathing difficulties and death.
+      Unfortunately, no vaccine or specific treatment is available so far. 1 There have been
+      encouraging clinical researches using immunotherapy as a recent treatment modality against
+      Covid 19 viral infections. Of particular interest, is passive immunotherapy which is the
+      passive transfer of readymade antibodies (humoral immunity) from recovered individuals to
+      patients in active illness. 2 Plasma of recovered patients, a classic cell transfer therapy,
+      has been used successfully to prevent and treat many infectious diseases in the past
+      including: H1N1 pandemic influenza A, avian influenza A (H5N1), SARS-CoV and, Ebola virus
+      disease, MERS-CoV respiratory syncytial virus, Zika viruses, human cytomegalovirus and
+      rabies. Unfortunately, recovered plasma did not show successful results in combating Ebola
+      outbreak3 Neutralizing antibody from recovered SARS patients could interfere with SARS-CoV-2
+      from penetrating through host cells in vitro. 4 Moreover, neutralizing antibodies (NAbs) from
+      recovered SARS-CoV patients were highly correlated, peaking at month 4 after the onset of
+      disease, could be titrated in plasma of 90% of patients for as long as 2 years, decreasing
+      gradually thereafter.5
+
+      SARS-CoV-2 is a member of β-coronavirus family. It is a single-stranded RNA genome consists
+      of 30 kb nucleotides, which transcript 4 main structural proteins: spike (S), membrane (M),
+      envelope (E), and nucleocapsid (N) proteins. The virus characteristic appearance stems from,
+      the S protein which is club shape glycoprotein radiating in a crown like configuration. 6
+      Genome researches have shown that interlocking between the receptor-binding domain of S
+      protein and the angiotensin-converting enzyme 2 (ACE2) facilitates SARS-CoV-2 entry into the
+      host cells. 7 The similarity of the receptor-binding sites between SARS-CoV-2 and SARS-CoV
+      explains their shared pathogenicity and biological traits. Moreover, both covid-19 and SARS
+      share common clinical (fever, cough, body aches, and dyspnea) and typical radiological
+      manifestations (multifocal ground-glass opacities (GGOs) and subsegmental areas of
+      consolidation). 8 Nevertheless, both viruses are highly contagious with incubation period
+      range from several days to two weeks.
+
+      Patients with SARS-CoV-2 infection produce different antibodies against different viral
+      antigenic proteins (epitomes), and some of these antibodies mediate their action by virus
+      neutralization or by phagocytosis and antibody gated cell toxicity.9 There have been
+      published studies claiming successful patient outcome after transfusion of recovered plasma.
+      One study showed improved clinical pictures, higher discharge rate. 10 Another study
+      demonstrated that viral RNA disappeared in patient serums a week post transfusion. 11 Another
+      study compared the clinical improvement of recovered plasma transfusion with steroids in SARS
+      patients with critical condition. They observed that recovered plasma patients had a high
+      hospital discharge rate, better clinical outcome than the steroid group, with no transfusion
+      related unwanted effects.12 A large meta-analysis of 1703 influenza pneumonia patients who
+      had been transfused recovered plasma, showed a marked decrease of viral load and 21% decrease
+      in mortality. 13 There are fast growing numbers of new COVID-19 cases every day, and
+      disease-related morbidity and mortality is increasing. The purpose of our study was to test
+      the efficacy and safety of transfusing plasma from patients who have recovered from COVID-19,
+      to patients with COVID-19 in severe condition.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 29, 2020</start_date>
+  <completion_date type="Anticipated">September 1, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 2020</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Satisfactory outcome</measure>
+    <time_frame>5 days</time_frame>
+    <description>Patients' response to recovered Covid 19 plasma (RCP) during 5 days after transfusion, was our primary goal. It was categorized into either satisfactory or unsatisfactory outcomes. We defined satisfactory outcome as two or more of the following 4 conditions/ or otherwise unsatisfactory: 1. respiratory frequency &lt; 30/min, 2. Sustain blood oxygen saturation ≥93% on room air, 3. partial pressure of arterial oxygen to fraction of inspired oxygen ratio &gt; 300 mmHg, 4. Regression of pulmonary infiltrates occupying less than 50% of both lungs.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Recovered covid 19 plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>controlled</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>recovered covid 19 patients plasma</intervention_name>
+    <description>we transfused 150 ml of recovered covid 19 plasma to severely ill patients with confirmed covid 19 disease</description>
+    <arm_group_label>Recovered covid 19 plasma</arm_group_label>
+    <arm_group_label>controlled</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  patients ≥ 18 years, with confirmed laboratory covid-19, and have one or more of the
+             following 4 conditions:
+
+               -  1. respiratory frequency ≥ 30/min,
+
+               -  2. blood oxygen saturation ≤ 93% on room air,
+
+               -  3. partial pressure of arterial oxygen to fraction of inspired oxygen ratio &lt; 300
+                  mmHg,
+
+               -  4. pulmonary infiltrates occupying more than 50% of both lungs.
+
+        Exclusion criteria
+
+          -  Any patient with prior allergic history to plasma or
+
+          -  allergy to plasma products or
+
+          -  septic shock or
+
+          -  multiple organ failure.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gad s Gad, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>South Valley University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ossama h salman, MD,PhD</last_name>
+    <phone>+201223001113</phone>
+    <email>ossamas@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>South Valley University</name>
+      <address>
+        <city>Qinā</city>
+        <zip>83523</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gad S Gad, MD</last_name>
+      <phone>+201099075675</phone>
+      <email>Kmashson@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>South Valley University</investigator_affiliation>
+    <investigator_full_name>Ossama Hamdy Salman</investigator_full_name>
+    <investigator_title>clinical professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

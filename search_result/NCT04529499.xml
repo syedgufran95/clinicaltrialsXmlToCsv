@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="290">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04529499</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CVD-04-CD-001</org_study_id>
+    <nct_id>NCT04529499</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial Evaluating the Efficacy and Safety of Favipiravir in Moderate to Severe COVID-19 Patients</brief_title>
+  <official_title>A Multi-center, Randomized, Double Blind, Placebo Controlled Clinical Trial Evaluating the Efficacy and Safety of Favipiravir in Moderate to Severe COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Reddy's Laboratories Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Dr. Reddy's Laboratories Limited</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, interventional, multi-centre, phase III, randomized, double blind,
+      placebo-controlled, parallel design trial to evaluate the efficacy, safety and tolerability
+      of favipiravir as adjunct ('add on') to supportive care, in comparison to placebo with
+      supportive care, in the acute treatment of patients who have tested positive for SARS-CoV-2
+      and presenting with moderate to severe COVID-19.
+
+      This study will be conducted in two parts; Stage I - Main study and Stage II - Extended
+      Follow up.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Stage I - Main Study:
+
+      All the eligible patients will be randomized to receive either favipiravir + supportive care
+      or placebo + supportive care. The treatment duration with the IMP will be for a period of 10
+      consecutive days. If the patient is discharged before Day 10, the patient will be required to
+      continue the remainder of the treatment course of the assigned IMP at home. Patients in both
+      the groups will receive supportive care, as appropriate. The duration of supportive care will
+      be based upon Investigator's judgement and as per individual patient's requirement. The study
+      data collection period will be up to 28 (+2) days.
+
+      Day 10 will be considered as the End of treatment (EOT) assessment.
+
+        1. If the patient remains in the hospital until Day 10, the EOT will be performed at the
+           site and all the scheduled assessments for Day 10 will be performed
+
+        2. If the patient is discharged before Day 10, the EOT can be performed either as an onsite
+           visit or will be performed at the patient's home :
+
+             1. On-site visit: If the patient is able to visit the hospital on Day 10, procedures
+                for an unscheduled visit will be performed.
+
+                OR
+
+             2. At home: If the patient is unable to visit the hospital for the EOT, study nurse or
+                phlebotomist will visit the patient at his/her residence to collect blood sample
+                for safety assessments. A telephonic follow up will be performed to enquire on
+                treatment emergent AEs experienced, concomitant medication and COVID-19 associated
+                symptom for assessment of clinical relapse.
+
+      Day 28 will be considered the end of study visit. If patient is discharged from the hospital
+      before Day 28, the assessments mentioned in the end of study visit (Day 28) will be performed
+      before the patient is discharged. After discharge, telephonic follow up will be performed on
+      Day 10 (applicable only for patients who are discharged earlier than Day 10 and if patients
+      are unable to visit the site for EOT on Day 10), Day 14, Day 21 and Day 28. The telephonic
+      follow up will be as applicable for the individual patient, depending upon the actual day
+      when (s)he is discharged. A 2-day window period is allowed for telephonic follow up.
+
+      In case the patient remains admitted in the hospital beyond Study Day 28, the end of study
+      assessments will be performed for the patient on Day 28 (+2) days.
+
+      Stage I of the study will be completed when the 'Day 28' assessment is completed either as an
+      in-patient assessment if the patient is still hospitalized, or as a telephonic follow up
+      assessment if the patients are discharged earlier to Day 28.
+
+      Once all the patients complete the Stage I of the study, the database would be locked, and
+      analysis will be performed.
+
+      Stage II - Extended Follow Up:
+
+      All the patients will be followed up for AEs or for 'clinical relapse' of COVID 19. Two
+      telephonic follow up assessments will be performed on Day 42 and Day 60. An additional visit
+      to the hospital (for further assessment) may be scheduled for such patients, if required.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 20, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>780 patients are randomized into two treatment groups at a 1:1 ratio, so as to have approximately 390 patients in favipiravir + supportive care group and 390 patients in placebo + supportive care group.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>This is a prospective, interventional, multi-centre, phase III, randomized, double blind, placebo-controlled, parallel design trial to evaluate the efficacy, safety and tolerability of favipiravir as adjunct ('add on') to supportive care, in comparison to placebo with supportive care, in the acute treatment of patients who have tested positive for SARS-CoV-2 and presenting with moderate to severe COVID-19.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary Efficacy Endpoint: Time to resolution of hypoxia (Stage I)</measure>
+    <time_frame>1-28 days</time_frame>
+    <description>This endpoint will be considered to have been met when the patient has attained a score of 4 or lower on the 10-point ordinal scale of clinical status used by WHO in the SOLIDARITY trial (maintaining a blood oxygen saturation of ≥ 95% at rest on room air at sea level) when evaluated over a period of 24 hours.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to alleviation of symptoms (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Time (No. of days) from randomization to the earliest time when ALL COVID-19 associated symptoms (fever, chills, cough, sore throat, malaise, headache, muscle pain, gastrointestinal symptoms - specifically diarrhoea and vomiting, shortness of breath or dyspnoea) are scored by the Investigator/trained study personnel as either '0=absent' or 'mild =1' in assessments over a period of 24 hours, when assessed from baseline to Day 28 or discharge from hospital (if discharge happens earlier than Day 28).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients with score of 0 = absent or mild = 1 (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Percentage of patients with score of either '0=absent' or 'mild =1' over a period of 24 hours, for ALL COVID-19 associated symptoms, by Days 4, 7, 10, 14, 21 and 28 or discharge (if discharge happens earlier than one or more of the above-mentioned timepoints)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to improvement in each of the symptoms (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Time to improvement in EACH of the symptoms of fever, chills, cough, sore throat, malaise, headache, muscle pain, gastrointestinal symptoms- specifically diarrhoea and vomiting, shortness of breath or dyspnoea by at least 1 grade over baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients reporting a 'clinical relapse' (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Percentage of patients reporting a clinical relapse of COVID-19 when assessed from day of discharge to 27 days after randomization (Day 28).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to negative conversion of detectable SARS-CoV 2 (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Time (no. of days) to negative conversion of detectable SARS-CoV 2 viral RNA in the RT-PCR assays of respiratory sample, from randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients showing negative conversion of detectable SARS-CoV 2 (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Percentage of patients showing negative conversion of detectable SARS-CoV-2 viral RNA in the RT-PCR assays of respiratory sample on Days 5, 10 and 28 or discharge (if discharge happens earlier than one or more of the above-mentioned timepoints)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes over time in patient's clinical status on the 10-point ordinal scale of clinical status (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Changes over time in patient's clinical status on the 10-point ordinal scale used in the SOLIDARITY trial by WHO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes over time in patient's clinical status on the 8-point ordinal scale of clinical status (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Changes over time in patient's clinical status on the 8-point ordinal scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes over time in findings on chest X-ray (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Changes over time in findings on chest X-ray</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes over time in the National Early Warning Score-2 (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Changes over time in the National Early Warning Score-2 (NEWS-2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients requiring ICU management, high flow nasal oxygen and mechanical ventilation (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Percentage of patients requiring, until Day 28 or discharge from hospital (if discharge happens earlier)
+Management in intensive care unit
+High Flow Nasal Oxygen or Non-invasive mechanical ventilation
+Invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time (no. of days) from randomization to ICU management, high flow nasal oxygen and mechanical ventilation (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Time (no. of days) from randomization to:
+Management in intensive care unit
+High Flow Nasal Oxygen or Non-invasive mechanical ventilation
+Invasive mechanical ventilation over an assessment period from randomization until Day 28 or discharge from hospital (if discharge happens earlier)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration (no. of days) the patient requires CU management, high flow nasal oxygen and mechanical ventilation (Stage I)</measure>
+    <time_frame>1-28 days.</time_frame>
+    <description>Duration (no. of days) the patient requires:
+Management in intensive care unit
+Oxygen supplementation
+High Flow Nasal Oxygen
+Non-invasive mechanical ventilation
+Invasive mechanical ventilation over an assessment period from randomization until Day 28 or discharge from hospital (if discharge happens earlier)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Patients dying (all cause and due to COVID-19) (Stage I)</measure>
+    <time_frame>1-28 days</time_frame>
+    <description>Percentage of Patients:
+dying from any cause
+dying from a COVID-19 associated complication over an assessment period from randomization until Day 28 or discharge from hospital (if discharge happens earlier)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of 'clinical relapse' (Stage I + Stage II)</measure>
+    <time_frame>1 - 60 days</time_frame>
+    <description>Percentage of patients reporting a 'clinical relapse' of COVID-19 when assessed from day of discharge to 59 days after the day of start of study treatment (Day 60).
+Note: 'Clinical relapse' is defined as either the reappearance or worsening of severity (over the assessment on the day of discharge) of one or more of the above-mentioned COVID-19 associated symptoms, or the appearance of any of these symptoms (due to COVID 19 infection) for the first time after discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment emergent adverse events (Stage I + Stage II)</measure>
+    <time_frame>1 - 60 days</time_frame>
+    <description>Number (and percentage) of patients reporting treatment emergent adverse events (TEAEs) (by MedDRA system organ class and preferred term)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">780</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>favipiravir + supportive care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Frequency: Twice daily (morning and evening) Dosage Form: Tablets. Tablet Strength 200 mg. Dosage: 1,800 mg BID on Day 1 + 800 mg BID for next 9 days (maximum). On Day 1, the second dose will be administered with at least a 4-hour interval from administration of the first dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo with Standard of Care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Frequency: Twice daily (morning and evening) Dosage Form: Tablets Dosage: 9 tablets for BID on Day 1 + 4 tablets BID for next 9 days (maximum). On Day 1, the second dose will be administered with at least a 4-hour interval from administration of the first dose.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AVIGAN</intervention_name>
+    <description>Patients will be randomized to the favipiravir + supportive care group in a 1:1 ratio</description>
+    <arm_group_label>favipiravir + supportive care</arm_group_label>
+    <other_name>Favipiravir</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Comparator</intervention_name>
+    <description>Patients will be randomized to the placebo + supportive care group in a 1:1 ratio</description>
+    <arm_group_label>Placebo with Standard of Care</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Male and female patients aged 21 to 80 years (both inclusive)
+
+          2. Patients who have tested positive for SARS-CoV-2 by Reverse Transcriptase-Polymerase
+             Chain Reaction (RT-PCR) assay using a respiratory tract sample (either nasopharyngeal
+             swab OR oropharyngeal swab OR nasal aspirate OR tracheobronchial aspirate) collected
+             within 72 hours of randomization
+
+          3. Patients should be hospitalized
+
+          4. Patients having moderate or severe COVID-19* with a score of &gt; 4 on the 10-point
+             ordinal scale of clinical status used by WHO in the SOLIDARITY trial at baseline
+             assessment [i.e., patients with blood oxygen saturation (SpO2) &lt;95% at rest on room
+             air at sea level and requiring supplemental oxygen].
+
+             *Note: This includes patients clinically assigned as:
+
+             I. 'moderate' COVID-19
+
+               1. symptoms which could include fever, cough, sore throat, malaise, headache, muscle
+                  pain, gastrointestinal symptoms or shortness of breath with exertion and/or
+                  clinical signs, such as respiratory rate ≥20 breaths per minute or heart rate ≥90
+                  beats per minute AND
+
+               2. blood oxygen saturation (SpO2) of 94% at rest on room air at sea level
+
+             II. 'severe' COVID-19
+
+               1. symptoms which could include any symptom of moderate illness or shortness of
+                  breath at rest, or respiratory distress and/or clinical signs, such as
+                  respiratory rate ≥30 per minute or heart rate ≥125 per minute AND
+
+               2. blood oxygen saturation (SpO2) ≤93% on room air at sea level or PaO2/FiO2 &lt;300*
+
+             The above-mentioned definitions of COVID-19 severity are adapted from the FDA Guidance
+             document &quot;COVID-19: Developing Drugs and Biological Products for Treatment or
+             Prevention - Guidance for Industry Final Document&quot; dated May 2020.
+
+          5. Female patients of childbearing potential*
+
+               1. must have a negative serum pregnancy test at screening
+
+               2. should not be lactating; and not planning to become pregnant/breast feed during
+                  the treatment period and for 7 days after the last dose of study medication.
+
+               3. should commit to the use of TWO forms of study-acceptable contraception methods,
+                  including a barrier method (eg. diaphragm) along with one or more of the
+                  following methods of contraception for the duration of the treatment period and
+                  for 7 days after the last dose of study medication: i) hormonal methods
+                  [insertable, injectable, transdermal, or combination oral (estrogen+ progestin)],
+                  or ii) intrauterine contraceptive device
+
+             Note: Female patients who are sexually abstinent or whose male sexual partner has
+             undergone vasectomy at least three months prior to the start of study treatment in the
+             trial may be enrolled at the Investigator's discretion, provided that they are
+             counseled to remain sexually inactive for the duration of the study and understand the
+             possible risks involved in getting pregnant during the study. Patients must also agree
+             to use TWO forms of study-acceptable contraception methods should they become sexually
+             active during the treatment period and for 7 days after the last dose of study
+             medication.
+
+             *Note: A female patient is considered of childbearing potential unless she is:
+
+               1. postmenopausal for at least 12 months prior to study product administration, or
+
+               2. without a uterus and/or both ovaries or has been surgically sterilized (i.e,
+                  tubal ligation or has a fallopian tube blocking coil) for at least 6 months prior
+                  to study product administration.
+
+          6. Male patients should agree to abstain from sexual intercourse or to use double-barrier
+             contraception (e.g. condom with spermicide) for the duration of the treatment period
+             in the study and for at least 7 days after receiving the last dose of study
+             medication. Male patients should also avoid semen donation or providing semen for
+             in-vitro fertilization during the above-mentioned duration.
+
+          7. Able and willing to provide informed consent
+
+          8. Able to understand the trial requirements and comply with trial medications and
+             assessments in the opinion of the Investigator
+
+          9. Should not have received investigational treatment from participation in another
+             clinical trial within 30 days prior to randomization in the current trial and agrees
+             not to participate in other clinical studies during the entire study period
+
+        Exclusion Criteria:
+
+          1. Critically ill patients, defined as those who are candidates for endotracheal
+             intubation and mechanical ventilation, oxygen delivered by high- flow nasal cannula,
+             (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20
+             L/min with fraction of delivered oxygen ≥0.5), non-invasive positive pressure
+             ventilation, Extracorporeal Membrane Oxygenation (ECMO) , or clinical diagnosis of
+             respiratory failure (i.e., clinical need for one of the preceding therapies, but
+             preceding therapies not able to be administered in setting of resource limitation) and
+             those with shock (defined by systolic blood pressure (BP) &lt;90 mm Hg, or diastolic BP
+             &lt;60 mm Hg or requiring vasopressors) or multi-organ dysfunction/failure, at baseline
+
+             Note: The above-mentioned definition of 'critically ill' COVID-19 patients is as
+             defined in the FDA Guidance document &quot;COVID-19: Developing Drugs and Biological
+             Products for Treatment or Prevention - Guidance for Industry Final Document&quot; dated May
+             2020
+
+          2. Patients in whom the first onset of symptoms/signs suggestive of COVID-19 illness was
+             observed &gt;10 days earlier to the baseline assessment and randomization
+
+          3. Patients who have used interferon beta 1-a (IFN-β-1a) preparations or drugs with
+             reported anti-viral action against SARS-CoV-2 (hydroxychloroquine sulfate, chloroquine
+             phosphate, lopinavir-ritonavir combination drugs, ciclesonide, nafamostat mesylate,
+             camostat mesylate) within 8 days after development of fever (≥37.5°C)
+
+             Note: The above-mentioned exclusion criterion is not applicable in case of patients
+             with history of human immunodeficiency virus infection or infective hepatitis in whom
+             use of anti-viral drugs or interferons are prescribed for treatment of the underlying
+             condition and who are currently receiving one or more of these medications (as
+             maintenance treatment) at the time of randomization. The infection episode in question
+             is a relapse of, or reinfection with SARS-CoV-2
+
+          4. Patients suspected to have a complication of congestive cardiac failure based on
+             Investigator's clinical judgement
+
+          5. Patients with moderate and severe hepatic dysfunction equivalent to Grade B and Grade
+             C in the Child-Pugh classification respectively
+
+          6. Patients with alanine aminotransferase (ALT) and aspartate aminotransferase (AST)
+             levels &gt; 5 times upper limit of normal (ULN) at screening evaluation
+
+          7. Patients with renal impairment requiring dialysis
+
+          8. Patients with serum uric acid higher than the ULN at screening evaluation
+
+          9. Patients with history of hereditary xanthinuria
+
+         10. Patients who have been diagnosed with xanthine urinary calculus
+
+         11. Patients with a history of gout or patients who are currently being treated for gout
+
+         12. Patients who are taking immunosuppressants
+
+         13. Patients who were administered Favipiravir in the past 30 days
+
+         14. Patients with known hypersensitivity reaction to Favipiravir
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sagar Munjal, MD, MS</last_name>
+    <role>Study Director</role>
+    <affiliation>Vice President/Head of Clinical Development,Operations &amp; Medical Affairs</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Srinivas Shenoy, MD</last_name>
+    <phone>609-955-0249</phone>
+    <email>srinivasshenoyb@drreddys.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Carmela Fritz</last_name>
+    <phone>908-552-5976</phone>
+    <email>cfritz@promiuspharma.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Jaber Al-Ahmad Al-Sabah Hospital (South Surra)</name>
+      <address>
+        <city>Kuwait City</city>
+        <zip>47781</zip>
+        <country>Kuwait</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Al Youha</last_name>
+      <phone>+965 94008686</phone>
+      <email>salyouhah@moh.gov.kw</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sulaiman Al Mazeedi</last_name>
+      <phone>+965 99012478</phone>
+      <email>smazeedi@moh.gov.kw</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Salman Khalifa Al-Sabah, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mishref Field Hospital (Mishref)</name>
+      <address>
+        <city>Kuwait City</city>
+        <zip>90005</zip>
+        <country>Kuwait</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Al Youha</last_name>
+      <phone>+965 94008686</phone>
+      <email>salyouhah@moh.gov.kw</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sulaiman Al Mazeedi</last_name>
+      <phone>+965 99012478</phone>
+      <email>smazeedi@moh.gov.kw</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Mohammad S. M. D. AlHumaidan, MBBS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Kuwait</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 27, 2020</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>AVIGAN</keyword>
+  <keyword>Favipiravir</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Phase 3</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

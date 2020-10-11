@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1552">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516486</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200418</org_study_id>
+    <nct_id>NCT04516486</nct_id>
+  </id_info>
+  <brief_title>Coronavirus Studied by Metagenomics in ARDS COVID-19 Patients</brief_title>
+  <acronym>COMETS</acronym>
+  <official_title>Characterization and Prognostic Impact of Inflammatory Responses by Host Transcriptomics and Co-infection by Metagenomics in Patients With ARDS COVID-19 in Intensive Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pandemic SARS-CoV-2 (COVID-19) respiratory infection is responsible for more than 4,000
+      deaths, mainly (67%) secondary to acute respiratory distress syndromes (ARDS). ARDS is
+      usually associated with a mortality of around 40%, but this rate reaches 61% in patients
+      infected with SARS-CoV-2. Two endotypes have been described in patients with ARDS: one,
+      hyper-inflammatory, associated with very high mortality (51%); the second, slightly
+      inflammatory (immunoparalysis), associated with much lower mortality (19%). In COVID-19
+      patients, distinct immune response profiles have also been observed. Some patients present
+      deep lymphopenia and/or prolonged viral excretions associated with more frequent occurrence
+      of co-infections (+ 29% of virus, + 23% of bacteria, + 10% of fungi). The latter group may be
+      at higher risk in terms of mortality. The intensity of the inflammatory response and/or
+      microbial coinfections therefore appear as risk factors for severity and mortality in
+      patients infected with SARS-CoV-2 which determine the course of the disease. To adapt early
+      optimal therapeutic management to each forms of the disease, it is essential to be able to
+      characterize these profiles on the microbiological and inflammatory level.
+
+      With a committed network of 6 intensive-care units across eastern and northern Ile-de-France,
+      180 patients with ARDS and infected with SARS-CoV-2 are being enrolled. For these patients, a
+      nasopharyngeal swab is collected at inclusion; followed by a new nasopharyngeal swab and a
+      deep respiratory sample once a week, until D28, for an exploration of co-infections and for
+      monitoring the viral load of SARS-CoV-2. The rest of each of these samples are collected for
+      the study. In parallel, the clinical data usually collected in the context of intensive care
+      will be collected on a CRF. They will allow to calculate risk scores such as SOFA.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Clinical metagenomics is a technique that has the ability to explore the host's inflammatory
+      response by transcriptomics and the co-infection(s) of all microorganisms. For this, an
+      accredited method according to standard 15189 and used in diagnostic routine for the
+      exploration of complex infections will be used. In practice, the samples will be
+      pre-extracted (chemical, enzymatic and mechanical lysis) then extracted using QiaSymphony
+      (Qiagen). The library will be prepared jointly by Nextera XT kit for DNA and Stranded TruSeq
+      Total RNA (Illumina) then sequenced by NovaSeq (Illumina). The metagenomic and transcriptomic
+      analysis will be performed by our MetaMIC software, supplemented with a specific module
+      recently added for the analysis of SARS-CoV-2 genetic variability and its dynamics over time.
+      Finally, an unsupervised data-mining analysis will be carried out to establish the presence
+      of the &quot;hyperinflammatory&quot; and &quot;immunoparalysis&quot; groups, then allow the analysis of the
+      determinants guiding their clustering. Each group will be analyzed according to its clinical,
+      biological and virological data to determine specific prognostic markers.
+
+      The proposed project will therefore comprehensively assess the dynamics of SARS-CoV-2
+      infection, the inflammatory profile and the microbiological documentation of COVID-19
+      patients in ARDS by metagenomics / transcriptomics with the aim of detecting profiles of
+      patients at higher risk, to understand the mechanisms of severe forms of the disease and to
+      allow a more precise and earlier evaluation of the prognosis, as well as an adaptation of the
+      management.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 9, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Actual">May 24, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Identify two endotypes (hyper-inflammatory and co-infections) and quantify their prognostic value in terms of short-term mortality (Day 28) in patients treated for ARDS infected with SARS-Cov2.</measure>
+    <time_frame>Day 0 to Day 28 (longitudinal study)</time_frame>
+    <description>Unsupervised Transcriptomic analysis to explore the presence of 2 different groups of patients in the cohort.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Nature of viral, bacterial and fungal co-infections in the different clusters identified</measure>
+    <time_frame>Day 0 to Day 28</time_frame>
+    <description>Shotgun Metagenomics analysis of respiratory samples to explore viruses, bacteria, fungi, parasites in relation with severity of the disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of SARS CoV-2 viral replication dynamics in the different clusters identified</measure>
+    <time_frame>Day 0 to Day 28</time_frame>
+    <description>Quantification based on metagenomics through time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>4. Characterization of the viral genetic determinants selected over time in the different clusters identified</measure>
+    <time_frame>Day 0 to Day 28</time_frame>
+    <description>Viral genomic comparison and machine learning to assess the role of the mutations (quasispecies) in the severity of the disease</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Respiratory Distress Syndrome, Adult</condition>
+  <condition>COVID-19</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>retrospective metagenomics on clinical samples collected during hospitalization</intervention_name>
+    <description>Massive sequencing of respiratory samples (restrospective)</description>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Nasopharyngeal Swab, Bronchoalveolar lavage
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient admitted to intensive care for ARDS (Berlin definition) documented at SARS-CoV-2
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient admitted to intensive care for ARDS (Berlin definition) documented at
+             SARS-CoV-2
+
+          -  Major patient (age ≥ 18 years)
+
+          -  Collection of the non-opposition of the patient or his support person, family member
+             or close friend (newsletter)
+
+        Exclusion Criteria:
+
+          -  Minor patient
+
+          -  Refusal to participate in the study
+
+          -  Patient protected by law
+
+          -  Prisoner
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christophe Rodriguez, PharmD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>CHU Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>June 2020</verification_date>
+  <study_first_submitted>June 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>August 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Metagenomics</keyword>
+  <keyword>Viral genomic</keyword>
+  <keyword>Transcriptomic</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>ARDS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

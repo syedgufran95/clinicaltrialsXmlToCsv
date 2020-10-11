@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1792">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04558645</url>
+  </required_header>
+  <id_info>
+    <org_study_id>91610558-604.01.02</org_study_id>
+    <nct_id>NCT04558645</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Physical Activity and Quality of Life of Patients With Type 1 Diabetes Mellitus During the Covid-19 Pandemic</brief_title>
+  <official_title>Evaluation of Physical Activity, Quality of Life and Depression of Patients With Type 1 Diabetes Mellitus During the Covid-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gazi University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gazi University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      During the COVID-19 pandemic, the time spent at the home of patients has increased because of
+      national quarantine policies and patients' fear of getting sick. For this reason, in this
+      ongoing process, patients have been unable to go to work regularly due to their chronic
+      diseases (being on administrative leave) and their fear of going out. These reasons have
+      prevented being physically active. The aim of the study is to evaluate the physical activity
+      level, quality of life, glucose control, anxiety, depression, fear of hypoglycemia and
+      loneliness perceptions of patients with type 1 diabetes mellitus during the COVID-19 pandemic
+      period and compared with healthy controls.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 18, 2020</start_date>
+  <completion_date type="Anticipated">December 18, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 18, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Physical activity level</measure>
+    <time_frame>Five minutes</time_frame>
+    <description>Physical activity level using International Physical Activity Questionnaire - Short Form (IPAQ-SF) will be evaluated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General Quality of life</measure>
+    <time_frame>Ten minutes</time_frame>
+    <description>Quality of life using Short Form Health Survey (SF-36) will be evaluated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Depression</measure>
+    <time_frame>Three minutes</time_frame>
+    <description>Depression using Hospital Anxiety and Depression Scale will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety</measure>
+    <time_frame>Three minutes</time_frame>
+    <description>Anxiety using Hospital Anxiety and Depression Scale will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported hypoglycemia</measure>
+    <time_frame>Last seven day</time_frame>
+    <description>It will be questioned how many times patients have had hypoglycemic attacks (&lt;4 mmol/L and common symptoms) in the last 7 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Loneliness</measure>
+    <time_frame>Three minutes</time_frame>
+    <description>Loneliness using UCLA Loneliness Scale Short Form (ULS-8) will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypoglisemia fear</measure>
+    <time_frame>Five minutes</time_frame>
+    <description>Hypoglisemia fear using Hypoglisemia Fear Survey (HFS) will be evaluated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dyspnea</measure>
+    <time_frame>Two minutes</time_frame>
+    <description>Dyspnea during daily life activites using Modified Medical Research Dyspnea Scale will be evaluated.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Type 1 Diabetes Mellitus</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Patients with type 1 diabetes mellitus</arm_group_label>
+    <description>Patients with Type 1 diabetes mellitus willing to participate in the study</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <description>Healthy controls without chronic disease willing to participate in the study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Online Survey</intervention_name>
+    <description>Online surveys will be applied to all participants</description>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Patients with type 1 diabetes mellitus</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with type 1 diabetes mellitus and healthy controls between 18-65 years
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Having been diagnosed with Type 1 Diabetes Mellitus
+
+          -  Willing to participate in the study
+
+          -  Participants whose native language is Turkish
+
+        Exclusion Criteria:
+
+          -  Unwilling to participate in the study
+
+          -  Having a cognitive disorder
+
+          -  Not being literate
+
+          -  Individuals who do not have sufficient knowledge and functional levels to fill out the
+             online form
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zeliha ÇELİK, MSc</last_name>
+    <role>Study Chair</role>
+    <affiliation>Gazi University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Meral BOŞNAK GÜÇLÜ, Prof</last_name>
+    <role>Study Director</role>
+    <affiliation>Gazi University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Füsun BALOŞ TÖRÜNER, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Gazi University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zeliha ÇELİK, MSc</last_name>
+    <phone>+903122162647</phone>
+    <email>zelihacelik1@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Meral BOŞNAK GÜÇLÜ, Prof</last_name>
+    <phone>+903122162647</phone>
+    <email>meralbosnak@gazi.edu.tr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Zeliha ÇELİK</name>
+      <address>
+        <city>Ankara</city>
+        <state>Çankaya</state>
+        <zip>06490</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zeliha ÇELİK</last_name>
+      <phone>+903122162647</phone>
+      <email>zelihacelik1@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Gazi University</investigator_affiliation>
+    <investigator_full_name>Zeliha ÇELİK</investigator_full_name>
+    <investigator_title>Research assistant</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2948">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04553575</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PO20124*</org_study_id>
+    <nct_id>NCT04553575</nct_id>
+  </id_info>
+  <brief_title>CoViD-19 Patient in Reims University Hospital in March to April 2020</brief_title>
+  <acronym>COVID-Reims</acronym>
+  <official_title>Follow-up CoViD-19 Patients Hospitalized in Reims University Hospital Between the 01/03/2020 and 30/04/2020</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CHU de Reims</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CHU de Reims</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Medical context: Follow-up of a retrospective cohort of 499 cases of CoViD-19, hospitalized
+      at the University Hospital of Reims during the health crisis, prospectively up to two years
+      of follow-up.
+
+      Possible intervention for serological monitoring, leading to a change from category 3 to
+      category 2 (French law on human person research)
+
+      Aim of the study: To know the factors of gravity of CoViD-19, to know its prognostic factors,
+      to see how the evolution of the treatments implemented have influenced the fate of the
+      patients.
+
+      Material and methods:
+
+      Type of study: cohort study Population: Patients in the CoViD-19 cohort - Reims Calendar:
+      September 2020 - July 2022
+
+      Expected results: Better knowledge of the cares of patients with CoViD-19
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 25, 2020</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Years</target_duration>
+  <primary_outcome>
+    <measure>Health status in the 2 years after CoViD-19 diagnosis</measure>
+    <time_frame>2 years follow up</time_frame>
+    <description>status : dead or alive persistante respiratory distress (yes / no)</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">499</enrollment>
+  <condition>Coronavirus Infections</condition>
+  <arm_group>
+    <arm_group_label>CoViD-19 patients cohort</arm_group_label>
+    <description>Patients are followed for 2 years after diagnosis. The only one intervention is blood samples withdrawn for serologies</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>serology</intervention_name>
+    <description>biological blood samples withdrawn at 6, 12 and 24 months</description>
+    <arm_group_label>CoViD-19 patients cohort</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      blood samples
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient hospitalized for CoViD-19 infection during the health crisis, in a short-stay
+        service of Reims University Hospital and included in Covid-19 Cohort
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient hospitalized for CoViD-19 infection during the health crisis, in a short-stay
+             service of Reims University Hospital and included in Covid-19 Cohort
+
+          -  Age &gt; 18 years
+
+          -  Patient who benefit from the national health insurance coverage
+
+          -  patient agree for participation (consent form signed)
+
+        Exclusion Criteria:
+
+          -  Patient protected by law
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Damien Jolly</last_name>
+    <phone>03 26 78 84 72</phone>
+    <phone_ext>0033</phone_ext>
+    <email>djolly@chu-reims.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chu Reims</name>
+      <address>
+        <city>Reims</city>
+        <zip>51092</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Damien JOLLY</last_name>
+      <phone>326788472</phone>
+      <phone_ext>33</phone_ext>
+      <email>djolly@chu-reims.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 17, 2020</study_first_posted>
+  <last_update_submitted>October 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

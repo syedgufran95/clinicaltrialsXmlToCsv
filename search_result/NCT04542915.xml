@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2895">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542915</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ADA20-11</org_study_id>
+    <nct_id>NCT04542915</nct_id>
+  </id_info>
+  <brief_title>COVID-19-Related Health and Practices Among Dental Hygienists</brief_title>
+  <official_title>COVID-19-Related Health and Practices Among Dental Hygienists</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>American Dental Association</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>American Dental Hygienists Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>American Dental Association</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      As dental practices reopen their practices during a global pandemic, the risk of 2019 novel
+      coronavirus (COVID-19) infection that dental hygienists face in providing dental care remains
+      unknown. Estimating the occupational risk of COVID-19, and producing evidence on the types of
+      infection control practices and dental practices that may affect COVID-19 risk, is therefore
+      imperative. These findings could be used to describe the prevalence and incidence of COVID-19
+      among dental hygienists, determine what infection control steps dental hygienists take over
+      time, describe dental hygienists' employment during the COVID-19 pandemic, and estimate
+      whether infection control adherence in dental practice is related to COVID-19 incidence.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 probable or confirmed case</measure>
+    <time_frame>18 months</time_frame>
+    <description>2019 novel coronavirus (COVID-19) case as confirmed by clinician and/or detection of SARS-CoV-2 antigen or antibody</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety</measure>
+    <time_frame>12 months</time_frame>
+    <description>Assessed using the Patient Health Questionnaire for Depression and Anxiety (PHQ-4). Two items scored 0 to 3 (total score of 0-6), with higher numbers indicating greater anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depression</measure>
+    <time_frame>12 months</time_frame>
+    <description>Assessed using the Patient Health Questionnaire for Depression and Anxiety (PHQ-4). Two items scored 0 to 3 (total score of 0-6), with higher numbers indicating greater depressive symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dental practice infection control efforts</measure>
+    <time_frame>12 months</time_frame>
+    <description>Self-reports of infection control efforts in the respondents' primary dental practices.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Personal protective equipment</measure>
+    <time_frame>12 months</time_frame>
+    <description>Availability, frequency of use, and frequency of reuse of personal protective equipment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Employment status</measure>
+    <time_frame>12 months</time_frame>
+    <description>Self-descriptions of current level of employment as a dental hygienist and reasons for non-employment.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Anxiety</condition>
+  <condition>Depression</condition>
+  <condition>Occupational Problems</condition>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <condition>Coronavirus Infection</condition>
+  <arm_group>
+    <arm_group_label>U.S. licensed dental hygienists</arm_group_label>
+    <description>Dental hygienists licensed in the United States. No intervention will be administered.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No intervention</intervention_name>
+    <description>No intervention.</description>
+    <arm_group_label>U.S. licensed dental hygienists</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Dental hygienists licensed in the United States
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Dental hygienist
+
+          -  Licensed in the United States
+
+          -  18 years of age or older
+
+        Exclusion Criteria:
+
+          -  Not employed as a dental hygienist as of March 1, 2020
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Cameron Estrich, MPH, PhD</last_name>
+    <phone>17735582606</phone>
+    <email>estrichc@ada.org</email>
+  </overall_contact>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>American Dental Association</investigator_affiliation>
+    <investigator_full_name>Cameron Estrich</investigator_full_name>
+    <investigator_title>Health research analyst</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

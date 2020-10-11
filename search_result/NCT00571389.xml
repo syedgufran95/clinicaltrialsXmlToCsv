@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3386">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00571389</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BioCytics 0001</org_study_id>
+    <secondary_id>WIRB Protocol # 20070969</secondary_id>
+    <nct_id>NCT00571389</nct_id>
+  </id_info>
+  <brief_title>Isolation and Culture of Immune Cells and Circulating Tumor Cells From Peripheral Blood and Leukapheresis Products</brief_title>
+  <official_title>A Study to Facilitate Development of an Ex-Vivo Device Platform for Circulating Tumor Cell and Immune Cell Harvesting, Banking, and Apoptosis-Viability Assay</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioCytics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BioCytics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary Objective:
+
+      This is a study to investigate the feasibility of harvesting, expanding in culture, and
+      freezing circulating tumor cells and immune cells from cancer patients and healthy
+      volunteers.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2007</start_date>
+  <completion_date type="Anticipated">February 2025</completion_date>
+  <primary_completion_date type="Anticipated">February 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Solid Tumor, Adult</condition>
+  <condition>Healthy Donors</condition>
+  <condition>COVID-19 Donors</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Peripheral whole blood, immune cells, circulating tumor cells, discarded tissue obtained from
+      biopsies and fluid (paracentesis, pleuracentesis), plasma-leukapheresis products, saliva,
+      urine and stool.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The population of patients to be enrolled for this study will be adults (males and females)
+        with histological proven solid tumors of any stage, seen for routine cancer care at
+        participating community cancer clinic sites. Patients on clinical trials with experimental
+        study drugs will be allowed to participate in this observational prospective study.
+
+        Healthy volunteers will also make up a portion of the study population
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for Biospecimen(s) collection:
+
+          -  Histological diagnosis of metastatic stage IV or locally advanced (unresectable) stage
+             III cancer of any solid tumor type, histological non-metastatic cancer of any solid
+             tumor type of any stage and healthy volunteers
+
+          -  Age ≥ 18yo
+
+          -  Life expectancy ≥ 12 weeks
+
+          -  ECOG Performance Status of 0, 1, 2, or 3 (Appendix 2)
+
+          -  Negative serology screening test for HIV, HBV and HCV; in event of a postive result, a
+             reflex PCR may be performed and if negative, the pt may be allowed on the study
+
+        Additional Subject Eligibility for Leukapheresis Collection:
+
+          -  ECOG Performance Status of 0 or 1
+
+          -  Screening laboratory values must meet following criteria on leukapheresis collection
+             day:
+
+               -  WBC ≥ 2000/µL
+
+               -  Neutrophils ≥ 1500/µL
+
+               -  Platelets ≥ 100 x103/µL
+
+               -  Hemoglobin ≥ 9 g/dL
+
+               -  Creatinine ≤ 2.5 x ULN
+
+               -  AST ≤ 2.5 x ULN without, and ≤ 5 x ULN with hepatic metastases
+
+               -  Bilirubin ≤ 2 x ULN (except patients with Gilbert's syndrome, who must have total
+                  bilirubin &lt; 3.0 mg/dL)
+
+        Exclusion Criteria:
+
+          -  Patients with any active infection requiring therapy (fever, localizing source) will
+             be excluded until the infection resolves.
+
+          -  Confirmed PCR test result for HIV, HBV or HCV
+
+          -  Underlying medical condition that, in the Principal Investigator's or treating
+             oncologist's opinion, will obscure the interpretation of the patient's safety.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Powderly, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Carolina BioOncology Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John Powderly, MD</last_name>
+    <phone>704-947-6599</phone>
+    <email>jpowderly@carolinabiooncology.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Carolina BioOncology Institute</name>
+      <address>
+        <city>Huntersville</city>
+        <state>North Carolina</state>
+        <zip>28078</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rochelle Emery, MD, CCRC</last_name>
+      <phone>704-947-6599</phone>
+      <phone_ext>1147</phone_ext>
+      <email>remery@carolinabiooncology.org</email>
+    </contact>
+    <investigator>
+      <last_name>Rochelle Emery, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.carolinabiooncology.org</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>December 10, 2007</study_first_submitted>
+  <study_first_submitted_qc>December 11, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 12, 2007</study_first_posted>
+  <last_update_submitted>September 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>All Stages of cancer</keyword>
+  <keyword>All stages of solid tumor origin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplastic Cells, Circulating</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

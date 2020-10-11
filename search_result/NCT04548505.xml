@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3045">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04548505</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-COVID19-30</org_study_id>
+    <nct_id>NCT04548505</nct_id>
+  </id_info>
+  <brief_title>Recovery of Exertion Ability Following COVID-19 Infection in Military Staff</brief_title>
+  <acronym>CovEx</acronym>
+  <official_title>Recovery of Exertion Ability Following COVID-19 Infection in Military Staff</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Direction Centrale du Service de Santé des Armées</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Direction Centrale du Service de Santé des Armées</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Paris Fire Brigade staff have been particularly exposed to COVID-19 due to rescue and
+      care activities for victims at risk in Paris area (where the virus was actively circulating).
+      In addition, when the pandemic began in France, they had to take care of patients before
+      procedures to protect caregivers were implemented.
+
+      The contamination of young military personnel, whose physical capacity was put into strain at
+      work, raises the question of the consequences of COVID-19 on their physical fitness. At the
+      time, the medium- and long-term evolution of this disease and its possible repercussions on
+      physical fitness are unknown. Moreover, like any soldiers who have been confined, they may
+      present at least a cardio-respiratory deconditioning (sometimes independent of the disease
+      making it difficult to distinguish between a sequelae of the infection or rehabilitation).
+
+      Based on previous coronavirus epidemics (Sars-Cov 1 and Mers-Cov), it appears that long-term
+      sequelae are possible even in mild forms and can result in an alteration of exertion ability.
+
+      In the current context and in the absence of national or international recommendations on the
+      return to physical activity, the French Armed Forces Health Service has proposed a simple
+      management plan aiming at: i) allowing mass screening for possible exercise intolerance and
+      targeting at-risk personnel, ii) allowing individualized re-training and iii) guaranteeing
+      that military personnel can carry out their mission without jeopardizing their health.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">March 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Magnitude of the decrease in aerobic performance on return to work</measure>
+    <time_frame>Up to 18 months</time_frame>
+    <description>Aerobic performance will be assessed through a test called VAMEVAL. VAMEVAL consists of running around a track marked out every 50 meters to the rhythm of a soundtrack that accelerates at a rate of 0.5 km/h in 2-minute increments until exhaustion or inability to maintain the pace of the race. The result of the test made on return to work will be compared to the last result on the same test performed before COVID-19 infection.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The population is composed of active military personnel of the Paris Fire Brigade who have
+        been infected with COVID-19 and thus are benefiting or have benefited from the post-COVID
+        medical car provided bay the French Armed Forces Health Service.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Be an active military personnel of the Paris Fire Brigade
+
+          -  Be at least 18 years of age
+
+          -  Benefiting or having benefited from the post-COVID medical care provided by the French
+             Armed Forces Health Service
+
+        Exclusion Criteria:
+
+          -  Be under 18 years of age
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alexandra MALGOYRE, MD, PhD</last_name>
+    <phone>169631317</phone>
+    <phone_ext>+33</phone_ext>
+    <email>alexandra.malgoyre@intradef.gouv.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Institut de Recherche Biomédicale des Armées</name>
+      <address>
+        <city>Brétigny-sur-Orge</city>
+        <zip>91223</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alexandra MALGOYRE, MD, PhD</last_name>
+      <phone>169631317</phone>
+      <phone_ext>+33</phone_ext>
+      <email>alexandra.malgoyre@intradef.gouv.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>physical activity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

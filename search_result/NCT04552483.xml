@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1449">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04552483</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SARITA-2</org_study_id>
+    <secondary_id>RBR-4nr86m</secondary_id>
+    <secondary_id>32258920.0.1001.5257</secondary_id>
+    <nct_id>NCT04552483</nct_id>
+  </id_info>
+  <brief_title>Effects of Early Use of Nitazoxanide in Patients With COVID-19</brief_title>
+  <official_title>Effects of Nitazoxanide Administration to Patients in the Initial Phase of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidade Federal do Rio de Janeiro</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ministry of Science and Technology, Brazil</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Research Council, Brazil</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ATCGen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Complexo Hospitalar Municipal de São Caetano do Sul</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital de Transplante Doutor Euryclides de Jesus Zerbini</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Secretaria Municipal de Saúde de Bauru</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Santa Casa de Misericórdia de Sorocaba</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Secretaria Municipal de Saúde de Guarulhos</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital e Maternidade Therezinha de Jesus</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Secretaria de Estado de Saúde do Distrito Federal</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universidade Federal do Rio de Janeiro</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multicenter, randomized, placebo-controlled, parallel, blinded, interventional, treatment
+      clinical trial with two arms.
+
+      Population: Patients with COVID-19 (Coronavirus Disease-19), confirmed by RT-PCR (Real Time
+      polymerase chain reaction), symptomatic in the early phase of the disease.
+
+      Experimental group: nitazoxanide 500mg 8 / 8 hours for 5 days. Control group: placebo 8/8
+      hours for 5 days.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SARITA-2 is a multicenter, randomized, placebo-controlled, parallel, -blinded,
+      interventional, treatment clinical trial with two arms, which aims to study the impact of
+      nitazoxanide in the early phase of the COVID-19 (Coronavirus Disease-19).
+
+      Experimental group: 196 patients received nitazoxanide 500mg 8 / 8 hours for 5 days. Control
+      group: 196 patients received placebo 8/8 hours for 5 days.
+
+      Population: Patients with COVID-19, confirmed by RT-PCR (Real Time polymerase chain
+      reaction), symptomatic in the early phase of the disease.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 8, 2020</start_date>
+  <completion_date type="Actual">September 5, 2020</completion_date>
+  <primary_completion_date type="Actual">August 20, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients diagnosed with COVID-19 will be randomly divided into 2 groups: experimental and control groups.
+Experimental group: 196 patients diagnosed with COVID-19 confirmed by RT-PCR will receive nitazoxanide 500mg 8/8 hs for 5 days. Control group: 196 patients diagnosed with COVID-19 confirmed by RT-PCR will receive placebo 8/8 hs for 5 days.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Patients were randomly allocated into one of the two groups: A or B. Patients received labelled medication: A or B, by the pharmacist. Patients received an identification number, so care providers, outcomes assessors and investigators did not know anything regarding the patients' groups.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Days with fever</measure>
+    <time_frame>Day8</time_frame>
+    <description>Reduction in the duration of fever of patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide compared to patients treated with placebo; verified through the collection of information with the patient; quantified by the number of days that presented the symptom.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Days with cough</measure>
+    <time_frame>Day8</time_frame>
+    <description>Reduction in the duration of cough of patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide compared to patients treated with placebo; verified through the collection of information with the patient; quantified by the number of days that presented the symptom.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Days with asthenia</measure>
+    <time_frame>Day8</time_frame>
+    <description>Reduction in the duration of asthenia of patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide compared to patients treated with placebo; verified through the collection of information with the patient; quantified by the number of days that presented the symptom.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-COV-2 viral load - absolute number</measure>
+    <time_frame>Day1</time_frame>
+    <description>Compare the evolution of viral load in naso- and oropharyngeal swab in patients with COVID-19 treated with nitazoxanide or placebo on day 1; verified using the RT-PCR technique; quantified by the absolute number</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-COV-2 viral load - absolute number</measure>
+    <time_frame>Day8</time_frame>
+    <description>Compare the evolution of viral load in naso- and oropharyngeal swab in patients with COVID-19 treated with nitazoxanide or placebo on day 8; verified using the RT-PCR technique; quantified by the absolute number.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-COV-2 viral load - percentage</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Compare the evolution of viral load in naso- and oropharyngeal swab in patients with COVID-19 treated with nitazoxanide or placebo on day 1; verified using the RT-PCR technique; quantified by the percentage change between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-COV-2 viral load - percentage</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Compare the evolution of viral load in naso- and oropharyngeal swab in patients with COVID-19 treated with nitazoxanide or placebo on day 8; verified using the RT-PCR technique; quantified by the percentage change between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital admission rate - absolute number</measure>
+    <time_frame>Day8</time_frame>
+    <description>Compare the hospital admission rate of patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, in the period of 8 days; verified by information actively collected from patients or family members; quantified by absolute number.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital admission rate - percentage</measure>
+    <time_frame>Day8</time_frame>
+    <description>Compare the hospital admission rate of patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, in the period of 8 days; verified by information actively collected from patients or family members; quantified by percentage.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Interleukin-6</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Compare the levels of inflammatory mediators: (interleukin [IL] -6 from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 3; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Interleukin-6</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Compare the levels of inflammatory mediators: (interleukin [IL] -6 from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 8; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Interleukin-1-beta</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Compare the levels of inflammatory mediators: IL-1-beta from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 3; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Interleukin-1-beta</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Compare the levels of inflammatory mediators: IL-1-beta from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 8; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Interleukin-8</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Compare the levels of inflammatory mediators: IL-8 from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 3; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Interleukin-8</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Compare the levels of inflammatory mediators: IL-8 from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 8; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum tumor necrosis factor (TNF)-alfa</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Compare the levels of inflammatory mediators: tumor necrosis factor (TNF)-alfa from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 3; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum tumor necrosis factor (TNF)-alfa</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Compare the levels of inflammatory mediators: tumor necrosis factor (TNF)-alfa from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 8; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum interferon-gamma</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Compare the levels of inflammatory mediators: interferon-gamma from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 3; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum interferon-gamma</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Compare the levels of inflammatory mediators: interferon-gamma from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 8; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum monocyte chemoattractant protein (MCP)-1</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Compare the levels of inflammatory mediators: monocyte chemoattractant protein (MCP)-1 from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 3; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum monocyte chemoattractant protein (MCP)-1</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Compare the levels of inflammatory mediators: monocyte chemoattractant protein (MCP)-1 from patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 8; verified by the measurement of cytokines in patient serum by the ELISA technique; quantified by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete blood count</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Evaluate evolution of complete blood count with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 3; verified by laboratory tests and expressed by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete blood count</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Evaluate evolution of complete blood count with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 8; verified by laboratory tests and expressed by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein - absolute number</measure>
+    <time_frame>Day 3</time_frame>
+    <description>To evaluate the levels of C-reactive protein (CRP) of patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 3; verified by laboratory tests and expressed by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein - absolute number</measure>
+    <time_frame>Day 8</time_frame>
+    <description>To evaluate the levels of C-reactive protein (CRP) of patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 8; verified by laboratory tests and expressed by the absolute number between the two groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein - percentage</measure>
+    <time_frame>Day 3</time_frame>
+    <description>To evaluate the levels of C-reactive protein (CRP) of patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 3; verified by laboratory tests and expressed by the percentage between the two group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein - percentage</measure>
+    <time_frame>Day 8</time_frame>
+    <description>To evaluate the levels of C-reactive protein (CRP) of patients with COVID-19 submitted to the therapeutic protocol with nitazoxanide with patients with COVID-19 treated with placebo, on day 8; verified by laboratory tests and expressed by the percentage between the two groups.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Adverse events - percentage</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Assess the incidence and profile of adverse events reported throughout the study, by treatment group; verified by information actively collected from patients or family members; quantified by percentage.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adverse events - absolute number</measure>
+    <time_frame>Day8</time_frame>
+    <description>Assess the incidence and profile of adverse events reported throughout the study, by treatment group; verified by information actively collected from patients or family members; quantified by absolute number.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Treatment discontinuation rate - absolute number</measure>
+    <time_frame>Day8</time_frame>
+    <description>Assess the rate of treatment discontinuation due to adverse events; verified by information actively collected from patients or family members; quantified by absolute number.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Treatment discontinuation rate - percentage</measure>
+    <time_frame>Day8</time_frame>
+    <description>Assess the rate of treatment discontinuation due to adverse events; verified by information actively collected from patients or family members; quantified by percentage.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">396</enrollment>
+  <condition>Covid19</condition>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients received nitazoxanide 500mg 8/8hours, for 5 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients received placebo 500mg 8/8hours, for 5 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nitazoxanide</intervention_name>
+    <description>Nitazoxanide 500mg 8/8 hours for 5 days in the early clinical phase of COVID-19.</description>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+    <other_name>azox</other_name>
+    <other_name>annita</other_name>
+    <other_name>irose</other_name>
+    <other_name>tanisea</other_name>
+    <other_name>trinida</other_name>
+    <other_name>zoxany</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo 8/8 hours for 5 days in the early clinical phase of COVID-19.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Clinical scenario compatible with infection by the SARS-CoV-2 [Characteristic symptoms
+             of COVID-19 (fever and / or cough and / or fatigue)
+
+          -  Beginning 1 to 3 days before inclusion in the study
+
+          -  Age equal or superior to 18 years
+
+          -  Willingness to receive study treatment
+
+          -  Providing written and informed consent or the same consent signed by a family member
+
+        Exclusion Criteria:
+
+          -  Negative result of RT-PCR for SARS-COV2 collected on admission
+
+          -  Impossibility to use oral medications
+
+          -  History of severe liver disease (Child Pugh C class)
+
+          -  Previous renal failure
+
+          -  Severe heart failure (NYHA 3 or 4)
+
+          -  COPD (GOLD 3 and 4)
+
+          -  Neoplasia in the last 5 years
+
+          -  Known autoimmune disease
+
+          -  Individuals with known hypersensitivity to study drug
+
+          -  Previous treatment with the study medication during the last 30 days
+
+          -  Clinical suspicion of tuberculosis and bacterial pneumonia
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patricia RM Rocco, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidade Federal do Rio de Janeiro</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Universidade Federal do Rio de Janeiro</name>
+      <address>
+        <city>Rio De Janeiro</city>
+        <zip>21941902</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <reference>
+    <citation>Rossignol JF. Nitazoxanide, a new drug candidate for the treatment of Middle East respiratory syndrome coronavirus. J Infect Public Health. 2016 May-Jun;9(3):227-30. doi: 10.1016/j.jiph.2016.04.001. Epub 2016 Apr 16. Review.</citation>
+    <PMID>27095301</PMID>
+  </reference>
+  <reference>
+    <citation>Rossignol JF. Nitazoxanide: a first-in-class broad-spectrum antiviral agent. Antiviral Res. 2014 Oct;110:94-103. doi: 10.1016/j.antiviral.2014.07.014. Epub 2014 Aug 7. Review.</citation>
+    <PMID>25108173</PMID>
+  </reference>
+  <reference>
+    <citation>Rajoli RK, Pertinez H, Arshad U, Box H, Tatham L, Curley P, Neary M, Sharp J, Liptrott NJ, Valentijn A, David C, Rannard SP, Aljayyoussi G, Pennington SH, Hill A, Boffito M, Ward SA, Khoo SH, Bray PG, O'Neill PM, Hong WD, Biagini G, Owen A. Dose prediction for repurposing nitazoxanide in SARS-CoV-2 treatment or chemoprophylaxis. medRxiv. 2020 May 6. pii: 2020.05.01.20087130. doi: 10.1101/2020.05.01.20087130.</citation>
+    <PMID>32511548</PMID>
+  </reference>
+  <reference>
+    <citation>Pepperrell T, Pilkington V, Owen A, Wang J, Hill AM. Review of safety and minimum pricing of nitazoxanide for potential treatment of COVID-19. J Virus Erad. 2020 Apr 30;6(2):52-60.</citation>
+    <PMID>32405422</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 17, 2020</study_first_posted>
+  <last_update_submitted>September 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidade Federal do Rio de Janeiro</investigator_affiliation>
+    <investigator_full_name>Jose Roberto Lapa e Silva</investigator_full_name>
+    <investigator_title>Clinical Investigator</investigator_title>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>coronavirus</keyword>
+  <keyword>early treatment</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>new coronavirus</keyword>
+  <keyword>treatment</keyword>
+  <keyword>brazil</keyword>
+  <keyword>nitazoxanide</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nitazoxanide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The investigators plan on sharing all IPD that underlie results in a publication for editorial board, with cautious of not sharing confidential data.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Available as soon as the editorial board of the journal accepting the manuscript requires.</ipd_time_frame>
+    <ipd_access_criteria>Editorial board of the Journal accepting the manuscript.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

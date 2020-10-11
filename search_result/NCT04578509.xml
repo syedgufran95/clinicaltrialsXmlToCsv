@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1190">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04578509</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200960</org_study_id>
+    <secondary_id>2020-A02431-38</secondary_id>
+    <nct_id>NCT04578509</nct_id>
+  </id_info>
+  <brief_title>Evaluation of a Screening Program for SARS-CoV-2 Infection in the General Population Based on the Use of New Detection Approaches or for Diagnostic Orientation on Saliva</brief_title>
+  <acronym>SALICOV</acronym>
+  <official_title>Evaluation of a Screening Program for SARS-CoV-2 Infection in the General Population Based on the Use of New Detection Approaches or for Diagnostic Orientation on Saliva (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators hypothesize that detection of SARS-CoV2 on saliva samples will increase the
+      performance of the screening program compared to the reference strategy (RT-PCR on a
+      nasopharyngeal swab).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Containment of the COVID19 pandemic relies on mass screening to allow rapid identification
+      and isolation of cases to break transmission chains. The reference diagnostic method is based
+      on detection of viral genomes by PCR on a nasopharyngeal swab sample (NPS).
+
+      However, the pandemic has generated a very high demand causing a shortage of specific swabs
+      and difficulties in the supply of reagents and consumables. Nasopharyngeal sampling requires
+      skilled personnel, and is sometimes poorly accepted by patients. These issues can reduce the
+      quality of sampling and therefore the sensitivity of the test. This strategy also requires
+      sending samples to specialized laboratories, generating a delay in providing results.
+
+      New diagnostic approaches on saliva samples are being developed allowing 1) an easier
+      sampling procedure and 2) a diagnostic technique that can be performed in point-of-care.
+
+      Previous evaluations suggest that these approaches have a lower sensitivity than the
+      reference strategy (PCR on NPS), around 50 to 90% depending on the technique used.
+
+      Despite lower sensitivity compared to the reference strategy, the investigators hypothesize
+      that detection of SARS-CoV2 on saliva samples will improve the performance of the screening
+      program by considerably increasing the number of individuals tested in shorter times.
+
+      The main objective of the study is to evaluate, for the detection of SARS-CoV-2 infection,
+      the performance of various alternative virological diagnostic strategies on saliva samples,
+      in comparison with the reference technique (RT-PCR on NPS).
+
+      The primary endpoint of the study is positivity of the standard technique (RT-PCR on NPS) for
+      the SARS-CoV-2 virus. The result of the alternative strategies on a saliva sample will be
+      considered as positive or negative according to criteria specific to each of them and
+      compared to the result of the reference technique to estimate their respective sensitivity.
+
+      The secondary objectives are to compare the diagnostic performances of RT-PCR on saliva
+      versus RT-PCR on NPS, the diagnostic performances of alternative techniques on saliva versus
+      RT-PCR on saliva, to evaluate the acceptability of the saliva self-sampling and the
+      cost-effectiveness of new diagnostic strategies compared to the reference technique.
+
+      The study will include adults and children in whom a NPS is performed for SARS-CoV-2
+      screening. After informed consent, participants will be asked to provide a saliva sample
+      before nasopharyngeal sampling. Both samples will be analyzed in parallel. The analytical
+      performance of each technique will be assessed, centrally or delocalised, depending on the
+      feasibility of the techniques and according to the advice of the scientific board. The
+      analyzes will be carried out by a team of technicians specifically recruited for the study.
+      All samples collected will be stored in a centralized in a biobank.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Positivity of RT-PCR on nasopharyngeal swab for the SARS-CoV-2 virus</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>RT-PCR on nasopharyngeal is considered as gold standard</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Positivity of RT-PCR on saliva sample for the SARS-CoV-2 virus</measure>
+    <time_frame>At diagnosis</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positivity of new detection approach on saliva sample for the SARS-CoV-2 virus</measure>
+    <time_frame>At diagnosis</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Practicability to samples</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>Number of samples tested in a day for each test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Practicability to premises</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>Quantity of premises required for each test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Practicability to interpretation</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>Feasibly Reading and interpretation For each test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Practicability to render time</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>Render times for each test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IgG Antibody detection in saliva</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>Research of IgG by ELISA and RDT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IgM Antibody detection in saliva</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>Research of IgM by ELISA and RDT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IgA Antibody detection in saliva</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>Research of IgA by ELISA and RDT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient tolerance of the salivary self-sampling</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>Evaluation by questionnaire of the patient tolerance of the salivary self-sampling compared to the nasopharyngeal swab (questions are about pain, discomfort, speed of performance)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Operator tolerance of the salivary self-sampling</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>Evaluation by questionnaire of the operator tolerance of the salivary self-sampling compared to the nasopharyngeal swab (questions is about pain, discomfort, speed of performance)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost of each approach</measure>
+    <time_frame>At diagnosis</time_frame>
+    <description>Including sampling, transport, technique (consumables, reagents, machine), human resources</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">2750</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>All patient</arm_group_label>
+    <description>Ambulatory adults or children requiring screening for SARS-CoV-2 by nasopharyngeal swab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Nasopharyngeal swab</intervention_name>
+    <description>Research of SARS-CoV-2 infection in nasopharyngeal swab by RT-PCR</description>
+    <arm_group_label>All patient</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Saliva sample</intervention_name>
+    <description>Research of SARS-CoV-2 infection in saliva samples by RT-PCR and by new detection approach</description>
+    <arm_group_label>All patient</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Data collection</intervention_name>
+    <description>Demographics, symptoms, medical history, acceptability of specimen, consumption in precedents hours are collected</description>
+    <arm_group_label>All patient</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Saliva
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Ambulatory adults or children requiring screening for SARS-CoV-2 by nasopharyngeal swab
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult or child subject able to receive nasopharyngeal swab, regardless of age
+
+          -  Subject in whom nasopharyngeal swab is performed for detection of SARS-CoV-2 as part
+             of the screening system managed by APHP
+
+          -  Subject or parent not opposed to saliva sampling and data collection as part of this
+             research
+
+        Exclusion Criteria:
+
+          -  None
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jérôme Le Goff, Professor</last_name>
+    <role>Study Director</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Solen Kernéis, Doctor</last_name>
+    <phone>+33 1 58 41 19 08</phone>
+    <email>solen.kerneis@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Laure Choupeaux, Master</last_name>
+    <phone>+33 1 44 38 17 11</phone>
+    <email>laure.choupeaux@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>SARS-CoV-2 screening device of Assistance Publique des Hôpitaux de Paris (AP-HP)</name>
+      <address>
+        <city>Paris</city>
+        <zip>75001</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Solen Kernéis, MD, PhD</last_name>
+      <phone>+33 1 58.41.19.08</phone>
+      <email>solen.kerneis@aphp.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Laure Choupeaux, Master</last_name>
+      <phone>+33 1 44 38 17 11</phone>
+      <email>laure.choupeaux@aphp.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>LE GOFF Jérôme, Professor</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>To KK, Tsang OT, Leung WS, Tam AR, Wu TC, Lung DC, Yip CC, Cai JP, Chan JM, Chik TS, Lau DP, Choi CY, Chen LL, Chan WM, Chan KH, Ip JD, Ng AC, Poon RW, Luo CT, Cheng VC, Chan JF, Hung IF, Chen Z, Chen H, Yuen KY. Temporal profiles of viral load in posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an observational cohort study. Lancet Infect Dis. 2020 May;20(5):565-574. doi: 10.1016/S1473-3099(20)30196-1. Epub 2020 Mar 23.</citation>
+    <PMID>32213337</PMID>
+  </reference>
+  <reference>
+    <citation>Lai CKC, Chen Z, Lui G, Ling L, Li T, Wong MCS, Ng RWY, Tso EYK, Ho T, Fung KSC, Ng ST, Wong BKC, Boon SS, Hui DSC, Chan PKS. Prospective study comparing deep-throat saliva with other respiratory tract specimens in the diagnosis of novel coronavirus disease (COVID-19). J Infect Dis. 2020 Aug 1. pii: jiaa487. doi: 10.1093/infdis/jiaa487. [Epub ahead of print]</citation>
+    <PMID>32738137</PMID>
+  </reference>
+  <reference>
+    <citation>Chen JH, Yip CC, Poon RW, Chan KH, Cheng VC, Hung IF, Chan JF, Yuen KY, To KK. Evaluating the use of posterior oropharyngeal saliva in a point-of-care assay for the detection of SARS-CoV-2. Emerg Microbes Infect. 2020 Dec;9(1):1356-1359. doi: 10.1080/22221751.2020.1775133.</citation>
+    <PMID>32459137</PMID>
+  </reference>
+  <reference>
+    <citation>Rao M, Rashid FA, Sabri FSAH, Jamil NN, Zain R, Hashim R, Amran F, Kok HT, Samad MAA, Ahmad N. Comparing nasopharyngeal swab and early morning saliva for the identification of SARS-CoV-2. Clin Infect Dis. 2020 Aug 6. pii: ciaa1156. doi: 10.1093/cid/ciaa1156. [Epub ahead of print]</citation>
+    <PMID>32761244</PMID>
+  </reference>
+  <reference>
+    <citation>Landry ML, Criscuolo J, Peaper DR. Challenges in use of saliva for detection of SARS CoV-2 RNA in symptomatic outpatients. J Clin Virol. 2020 Jul 31;130:104567. doi: 10.1016/j.jcv.2020.104567. [Epub ahead of print]</citation>
+    <PMID>32750665</PMID>
+  </reference>
+  <reference>
+    <citation>Migueres M, Mengelle C, Dimeglio C, Didier A, Alvarez M, Delobel P, Mansuy JM, Izopet J. Saliva sampling for diagnosing SARS-CoV-2 infections in symptomatic patients and asymptomatic carriers. J Clin Virol. 2020 Aug 5;130:104580. doi: 10.1016/j.jcv.2020.104580. [Epub ahead of print]</citation>
+    <PMID>32781366</PMID>
+  </reference>
+  <reference>
+    <citation>To KK, Tsang OT, Yip CC, Chan KH, Wu TC, Chan JM, Leung WS, Chik TS, Choi CY, Kandamby DH, Lung DC, Tam AR, Poon RW, Fung AY, Hung IF, Cheng VC, Chan JF, Yuen KY. Consistent Detection of 2019 Novel Coronavirus in Saliva. Clin Infect Dis. 2020 Jul 28;71(15):841-843. doi: 10.1093/cid/ciaa149.</citation>
+    <PMID>32047895</PMID>
+  </reference>
+  <reference>
+    <citation>Williams E, Bond K, Zhang B, Putland M, Williamson DA. Saliva as a Noninvasive Specimen for Detection of SARS-CoV-2. J Clin Microbiol. 2020 Jul 23;58(8). pii: e00776-20. doi: 10.1128/JCM.00776-20. Print 2020 Jul 23.</citation>
+    <PMID>32317257</PMID>
+  </reference>
+  <reference>
+    <citation>McCormick-Baw C, Morgan K, Gaffney D, Cazares Y, Jaworski K, Byrd A, Molberg K, Cavuoti D. Saliva as an Alternate Specimen Source for Detection of SARS-CoV-2 in Symptomatic Patients Using Cepheid Xpert Xpress SARS-CoV-2. J Clin Microbiol. 2020 Jul 23;58(8). pii: e01109-20. doi: 10.1128/JCM.01109-20. Print 2020 Jul 23.</citation>
+    <PMID>32414838</PMID>
+  </reference>
+  <reference>
+    <citation>Jamal AJ, Mozafarihashjin M, Coomes E, Powis J, Li AX, Paterson A, Anceva-Sami S, Barati S, Crowl G, Faheem A, Farooqi L, Khan S, Prost K, Poutanen S, Taylor M, Yip L, Zhong XZ, McGeer AJ, Mubareka S; Toronto Invasive Bacterial Diseases Network COVID-19 Investigators. Sensitivity of nasopharyngeal swabs and saliva for the detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Clin Infect Dis. 2020 Jun 25. pii: ciaa848. doi: 10.1093/cid/ciaa848. [Epub ahead of print]</citation>
+    <PMID>32584972</PMID>
+  </reference>
+  <reference>
+    <citation>Lambert-Niclot S, Cuffel A, Le Pape S, Vauloup-Fellous C, Morand-Joubert L, Roque-Afonso AM, Le Goff J, Delaugerre C. Evaluation of a Rapid Diagnostic Assay for Detection of SARS-CoV-2 Antigen in Nasopharyngeal Swabs. J Clin Microbiol. 2020 Jul 23;58(8). pii: e00977-20. doi: 10.1128/JCM.00977-20. Print 2020 Jul 23.</citation>
+    <PMID>32404480</PMID>
+  </reference>
+  <reference>
+    <citation>Azzi L, Baj A, Alberio T, Lualdi M, Veronesi G, Carcano G, Ageno W, Gambarini C, Maffioli L, Saverio SD, Gasperina DD, Genoni AP, Premi E, Donati S, Azzolini C, Grandi AM, Dentali F, Tangianu F, Sessa F, Maurino V, Tettamanti L, Siracusa C, Vigezzi A, Monti E, Iori V, Iovino D, Ietto G; ASST dei Sette Laghi Rapid Salivary Test Nurse staff Research Group, Grossi PA, Tagliabue A, Fasano M. Rapid Salivary Test suitable for a mass screening program to detect SARS-CoV-2: A diagnostic accuracy study. J Infect. 2020 Sep;81(3):e75-e78. doi: 10.1016/j.jinf.2020.06.042. Epub 2020 Jun 21.</citation>
+    <PMID>32579988</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 7, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Screening program</keyword>
+  <keyword>SARS-CoV-2 infection</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

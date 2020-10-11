@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2690">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04546776</url>
+  </required_header>
+  <id_info>
+    <org_study_id>QIB05/2020</org_study_id>
+    <nct_id>NCT04546776</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Persistence in Stool</brief_title>
+  <acronym>CoPS</acronym>
+  <official_title>Prevalence and Persistence of SARS-CoV-2 in Stool of COVID-19 Positive Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Quadram Institute Bioscience</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Norfolk and Norwich University Hospitals NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Quadram Institute Bioscience</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a longitudinal study in which participants that have been confirmed by a National
+      Health Service (NHS) swab test as COVID-19 positive will be asked to provide faecal and
+      saliva samples, and complete short health/lifestyle questionnaires at the time of sampling
+      (referred to as a sample set). The number of sample sets collected from any participant will
+      be dependent on how long the SARS-CoV-2 virus persists within the stool. The investigators
+      aim to collect a minimum of 4 and a maximum of 8 sample sets, and will target all
+      COVID-19-positive subjects, with the exception of those severally ill (e.g. in the intensive
+      care unit (ICU)). The investigators aim to recruit a minimum of 100 and up to 200
+      participants. To obtain the desired numbers, it may be necessary to continue recruitment
+      during any further United Kingdom (UK) COVID-19 infection peaks.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Approaching participants will mainly be performed in two ways:
+
+        1. the Norfolk and Norwich University Hospital (NNUH) online booking system for SARS-CoV-2
+           testing will have a link to the Quadram Institute Bioscience (QIB) study webpage, which
+           will include the Participant Information Sheet (PIS). When the NHS testing service
+           informs individuals of their test results by text message, the QIB study page Uniform
+           Resource Locator (URL) will be added to the end of the text message for COVID-19
+           'positive' results. In addition, testing service staff will remind the potential
+           participants of the study if they contact individuals by telephone to inform them of
+           positive COVID-19 results from the test-centre swabs. During this call, potential
+           participants will be asked to provide verbal consent for the study team to contact them
+           for arranging a study talk. Potential participants will be able to contact QIB directly
+           to express interest by email or phone, and can contact QIB to request a hard copy of the
+           PIS be posted to them.
+
+        2. NNUH staff will approach in-ward patients positive for COVID-19. Should the patients be
+           interested in learning more, a NNUH staff member will provide them with a copy of the
+           PIS and be available to answer any questions the patients may have. Fully informed
+           written consent of hospitalised COVID-19 patients will be performed by an NNUH nurse
+           using the study consent form.
+
+             -  Participants recruited from a non-hospital setting will be consented, using the
+                same consent form as hospitalised patients, over the telephone/internet video by
+                members of the study team who have received the QIB consent training.
+
+      Signed copies of these forms will be collected along with the first sample set. In both
+      scenarios, each point will be explained and all questions will be answered to ensure that the
+      participant is fully informed.
+
+      The investigators will also be asking participants whether they would be willing to consent
+      to their samples being stored at the Norwich Research Park Biorepository, and whether they
+      would consent to being re-contacted by researchers about possible future research for which
+      they may be eligible. These are both optional, i.e. should the patient choose not to consent
+      to either or both, they will still be able to participate in the study.
+
+      Following the recruitment of COVID-19 positive participants the investigators will ask for an
+      initial faecal and saliva sample, and request that the participant completes a
+      health/lifestyle questionnaire. If participants show symptoms the investigators will collect
+      a second set of samples after 48h of symptoms disappearance (specifically, a lack of fever),
+      whereas if participants are asymptomatic the investigators will collect the second set of
+      samples after 7 days. For both types of participants, the investigators will then collect 2
+      more sample sets every 7 days (day 7: set 3, day 14: set 4). Should either sample test
+      positive then the investigators will continue the same 7-day sampling process until both
+      samples are negative for two consecutive sample sets, or they have given a total of eight
+      faecal and saliva samples. At either of these points, whichever is earliest, the participant
+      will have then completed the study
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">September 8, 2020</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence and persistence of the SARS-CoV-2 virus in the faeces, and change in associated health status</measure>
+    <time_frame>Weekly for a maximum of 8 weeks</time_frame>
+    <description>To verify the prevalence and persistence (starting from symptom onset/diagnosis, and up to seven weeks after recovery) of the SARS-CoV-2 virus in the faeces of people diagnosed with COVID-19 infection.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Viral strain-specific prevalence, associated with change in health status</measure>
+    <time_frame>Weekly for a maximum of 8 weeks</time_frame>
+    <description>To use whole-genome sequencing (WGS) to type COVID-19 at the strain level to verify whether different viral strains have a different persistence in stool across participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biogeographical viral strain identification, associated with change in health status</measure>
+    <time_frame>Weekly for a maximum of 8 weeks</time_frame>
+    <description>To use whole-genome sequencing (WGS) to type COVID-19 at the strain level to verify whether the viral strain(s) found in the gastrointestinal tract are identical to those found in the respiratory tract of participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Create a SARS-CoV-2 biological sample repository</measure>
+    <time_frame>Through study completion, up to two years</time_frame>
+    <description>To create a repository of material (faeces and saliva) and associated data that will be used to understand the association between gastrointestinal health and SARS-CoV-2 infection in future research.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Faecal and saliva sampling</arm_group_label>
+    <description>A minimum of 4 and a maximum of 8 sample sets will be asked for over the study period</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Those who have tested positive for COVID-19, whether isolated at home or admitted to the
+        Norfolk and Norwich University Hospital. Those admitted to the intensive care unit will not
+        be eligible for the study
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Men and women aged &gt;18 years
+
+          -  Those that live or work within a 40-mile radius of Norwich/Norfolk and Norwich
+             University Hospital
+
+          -  Those who are confirmed COVID-19 positive by an NHS swab test
+
+        Exclusion Criteria:
+
+          -  Those who are admitted to an NHS Intensive Care Unit
+
+          -  Any person related to, or living with, any member of the study team
+
+          -  Those who are part of the Line Manager/supervisory structure of the Chief
+             Investigators
+
+          -  Those who are unable to provide written informed consent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arjan Narbad, BSc, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Quadram Institute Bioscience</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ngozi Franslem-Elumogo, MBBS, DTM&amp;H, FRCPath</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Clinical Research and Trials Unit (Norfolk &amp; Norwich University Hospital, UK)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Quadram Institute Bioscience</name>
+      <address>
+        <city>Norwich</city>
+        <state>Norfolk</state>
+        <zip>NR4 7UQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Norfolk and Norwich University Hospital Foundation Trust</name>
+      <address>
+        <city>Norwich</city>
+        <state>Norfolk</state>
+        <zip>NR4 7UY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Faeces</keyword>
+  <keyword>Saliva</keyword>
+  <keyword>Whole-genome shotgun sequencing</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2263">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04506528</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-069</org_study_id>
+    <secondary_id>OISE-20-66590-1</secondary_id>
+    <secondary_id>A534253</secondary_id>
+    <secondary_id>SMPH/MEDICINE</secondary_id>
+    <secondary_id>CTRI</secondary_id>
+    <nct_id>NCT04506528</nct_id>
+  </id_info>
+  <brief_title>The C3I COVID-19 Project</brief_title>
+  <official_title>Investigating the Association Between Smoking Status and COVID-19 Outcomes: Collecting Data From Health Systems Affiliated With the National Cancer Institute's Cancer Center Cessation Initiative (C3I)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Wisconsin, Madison</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Wisconsin, Madison</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This cohort study will obtain electronic health record (EHR) de-identified data from 21
+      health systems affiliated with the Cancer Center Cessation Initiative (C3I) network or health
+      systems with large numbers of COVID-19 patients to explore whether smoking status, cancer
+      history, and other risk factors among patients diagnosed with COVID-19 are associated with
+      mortality and/or COVID-19 disease severity/complications. Each site will provide
+      de-identified data from their health system EHR on a monthly basis that includes all patients
+      identified as having COVID-19 at some point in the interval from February 1, 2020, through
+      December 31, 2020.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This cohort study will obtain electronic health record (EHR) de-identified data from 21
+      health systems affiliated with the Cancer Center Cessation Initiative (C3I) network or health
+      systems with large numbers of COVID-19 patients to explore whether smoking status, cancer
+      history, and other risk factors among patients diagnosed with COVID-19 are associated with
+      mortality and/or COVID-19 disease severity/complications. The Cancer Center Cessation
+      Initiative (C3I) is a project launched by the US National Cancer Institute (NCI) to improve
+      the rate at which NCI-designated Cancer Centers provide evidence-based smoking cessation to
+      patients diagnosed with and treated for cancer. The C3I is coordinated at the University of
+      Wisconsin-Center for Tobacco Research and Intervention (UW-CTRI) and the University of
+      Wisconsin Carbone Cancer Center (UWCCC). Twenty-one health systems across the U.S. will
+      provide EHR de-identified data to the UW-CTRI coordinating center on all COVID-19 patients
+      identified during the period from February 1, 2020, through December 31, 2020.
+
+      Current EHR-based data elements collected will include:
+
+      Evidence of COVID-19: ICD-10-CM diagnosis of COVID-19, COVID-19 PCR lab test, and/or COVID-19
+      antibody lab test
+
+      Healthcare system encounter type: inpatient, outpatient, emergency department (ED), urgent
+      care, or other
+
+      SES/Demographics variables: insurance status, education, housing status, sex, age,
+      race/ethnicity, height, weight, body mass index
+
+      Comorbid diseases: chronic asthma, chronic COPD, chronic bronchiectasis, diabetes mellitus,
+      cardiovascular disease, chronic renal disease, on dialysis, immunocompromised [due to SLE
+      lupus, rheumatoid arthritis, organ transplant, HIV, Crohns], pregnant, cancer (lymphomas,
+      leukemias, lung/respiratory, rectal, breast, prostate, pancreas), hypertension, depression,
+      anxiety, alcohol abuse, pro- clotting disorders, and anti-clotting disorders
+
+      Tobacco use variables: smoking status (current, former, never), passive smoke exposure for
+      never smoker, years since quitting (for former smokers), packs smoked per day, years of
+      smoking, pack years, smokeless tobacco user, and marijuana use
+
+      Radiographic tests: chest CTs/MRIs, head CTs/MRIs, abdominal CTs/MRIs, lower extremities
+      ultrasound, and cardiac echo
+
+      Signs and symptoms: temperature, pulse, systolic blood pressure, diastolic blood pressure,
+      oxygen saturation, septic shock, pneumonia, chills, muscle aches/myalgia, rhinorrhea, sore
+      throat, chronic cough, shortness of breath, nausea or vomiting, headache, abdominal pain,
+      diarrhea, dizziness, impaired consciousness, acute cerebrovascular event, ataxia, seizure,
+      taste impairment, smell impairment, vision impairment, nerve pain, and skeletal muscular pain
+
+      COVID-19 treatment variables: ICU admission, required supplemental oxygen, intubated for
+      ventilator use, noninvasive positive pressure, and number of days hospitalized COVID-19
+      medications: chloroquine, hydroxychloroquine, tocilizumab, remdesivir, dexamethasone,
+      convalescent plasma, and ascorbic acid
+
+      Classes of other medications used: nicotine replacement therapies (NRTs), varenicline
+      medications; blood thinners, steroids, angiotensin converting enzyme (ACE) inhibitors,
+      angiotensin-receptor blockers (ARBs), short-acting adrenergic bronchodilators, long-acting
+      adrenergic bronchodilators, anticholinergic bronchodilators, bronchodilators combos, inhaled
+      corticosteroids (includes combo medications), and inhaled corticosteroid bronchodilators
+
+      Lab tests: CBC, hematology (e.g., neutrophils, lymphocytes, hemoglobin, hematocrit),
+      chemistry (e.g., potassium, BUN, creatinine, glucose), liver function tests, coagulation
+      (INR, D-dimer), inflammatory markers (e.g., ESR, IL-6, C-reactive protein), troponin,
+      Hemoglobin A1C, and tests for various infections
+
+      NOTE: As the COVID-19 pandemic evolves and additional relevant EHR variables are identified
+      (e.g., convalescent plasma), they will be added to the list of variables collected.
+
+      For the initial paper(s) to be prepared based on these data, the main analytic methods will
+      include GUIDE classification and regression tree models. However, whole sample methods will
+      also be used as complementary analytic methods, which will vary with regard to outcome type:
+      i.e., logistic regression for binary outcomes and Cox proportional hazard analyses for
+      time-to-event outcomes. Initial analyses will focus on hospitalized COVID-19 patients. Later
+      waves of analyses may use different analytic approaches and address different questions.
+      These will be described in subsequent CT.gov filings.
+
+      Participating healthcare systems:
+
+        -  Duke University (Duke Health)
+
+        -  Hackensack Meridian Health
+
+        -  Mayo Clinic
+
+        -  Memorial Sloan Kettering Cancer Center
+
+        -  University of Michigan (Michigan Medicine)
+
+        -  Mount Sinai Health System
+
+        -  Northwestern University
+
+        -  New York University (NYU Langone Health)
+
+        -  University of California Davis (University of California Davis Comprehensive Cancer
+           Center / UC Davis Health)
+
+        -  University of California San Francisco
+
+        -  University of North Carolina at Chapel Hill (UNC Health)
+
+        -  University of Chicago
+
+        -  University of Illinois at Chicago
+
+        -  University of Kansas (University of Kansas Medical Center)
+
+        -  University of Maryland
+
+        -  University of Utah (University of Utah Health)
+
+        -  University of Wisconsin (UW Health)
+
+        -  Vanderbilt University (Vanderbilt University Medical Center)
+
+        -  Virginia Commonwealth University (VCU Health System/Massey Cancer Center)
+
+        -  Washington University St Louis
+
+        -  Yale University (Yale New Haven Hospital)
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 10, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>10 Months</target_duration>
+  <primary_outcome>
+    <measure>Mortality due to COVID-19</measure>
+    <time_frame>February 1, 2020, through December 31, 2020</time_frame>
+    <description>Death resulting from COVID-19 illness in inpatients vs discharge from hospital (binary outcome)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 Severity</measure>
+    <time_frame>February 1, 2020, through December 31, 2020</time_frame>
+    <description>COVID-19 severity as measured by intubation for respiratory support (i.e., patient required intubation during hospitalization) - binary variable</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">170000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cancer</condition>
+  <condition>Nicotine Dependence</condition>
+  <condition>Pulmonary Disease</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Immunosuppression Disorders</condition>
+  <arm_group>
+    <arm_group_label>Patients with COVID-19</arm_group_label>
+    <description>The cohort analyzed for the first paper will be those who have met COVID-19 criteria and who have been hospitalized. COVID-19 criteria for inclusion in the study include: ICD-10-CM diagnosis of COVID-19, COVID-19 PCR lab test, and/or COVID-19 antibody lab test.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients with COVID-19 in the 21 participating healthcare systems
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  COVID-19 positive PCR test
+
+          -  a COVID-19 ICD-10-CM diagnosis code during a healthcare visit, or a COVID-19 positive
+             antibody test
+
+          -  Must be a patient in one of the 21 participating healthcare systems
+
+        Exclusion Criteria:
+
+          -  N/A
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Betsy Rolland, PhD, MLIS, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Wisconsin, Madison</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael C Fiore, MD, MPH, MBA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Wisconsin Center for Tobacco Research and Intervention</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rob Adsit, MEd</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Wisconsin Center for Tobacco Research and Intervention</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stevens S Smith, PhD</last_name>
+    <phone>6082627563</phone>
+    <email>sss@ctri.wisc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tanya R Schlam, PhD</last_name>
+    <phone>6082624149</phone>
+    <email>trschlam@ctri.wisc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Wisconsin School of Medicine and Public Health Center for Tobacco Research and Intervention</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53711</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amy Conlon, MPH</last_name>
+      <phone>608-265-4563</phone>
+      <email>aconlon@ctri.wisc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Stevens S Smith, PhD</last_name>
+      <phone>608-262-7563</phone>
+      <phone_ext>Smith</phone_ext>
+      <email>sss@ctri.wisc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Michael C Fiore, MD, MPH, MBA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Loh, W.-Y. (2002). Regression trees with unbiased variable selection and interaction detection. Stat. Sinica, 12:361-386.</citation>
+  </reference>
+  <reference>
+    <citation>Loh, W.-Y. (2011). Classification and regression trees. WIRES Data Min. Knowl., 1:14-23.</citation>
+  </reference>
+  <reference>
+    <citation>Loh WY, Man M, Wang S. Subgroups from regression trees with adjustment for prognostic effects and postselection inference. Stat Med. 2019 Feb 20;38(4):545-557. doi: 10.1002/sim.7677. Epub 2018 Apr 19.</citation>
+    <PMID>29671896</PMID>
+  </reference>
+  <reference>
+    <citation>Loh, W.-Y. and Zhou, P. (2020). The GUIDE approach to subgroup identification. In Ting, N., Cappelleri, J. C., Ho, S., and Chen, D.-G., editors, Design and analysis of Subgroups with Biopharmaceutical Applications, pages 147-165. Springer.</citation>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 10, 2020</study_first_posted>
+  <last_update_submitted>August 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Tobacco Use Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The investigators anticipate that the full de-identified data set will be secured, cleaned, harmonized, and undergo initial analyses through early 2021.The existing Data Transfer and Use Agreements (DTUA) negotiated with each 21 participating health systems precludes the University of Wisconsin (UW) from sharing these data with any entity at this time. This was a requirement of the UW IRB prior to transferring the de-identified site data sets to UW. Thus, until 2021, data will not be distributed outside of the University of Wisconsin. However renegotiation of the DTUAs between the 21 health systems and the University of Wisconsin is anticipated during 2021. The goal is that by the fourth quarter of 2021, UW will have obtained permission to share the de-identified data sets from all of the participating health systems, placing the complete data set in a secure location consistent with HIPAA and IRB requirements, so that other investigators can analyze and use the data.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Data will be available in the fourth quarter of 2021; no decision yet on how long data will be available but likely multiple years.</ipd_time_frame>
+    <ipd_access_criteria>Scientists at the 21 participating healthcare systems will be given priority in terms of access to study data; data sharing with other scientists not affiliated with the 21 participating healthcare systems will be determined in consultation with the study funder (National Cancer Institute).</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

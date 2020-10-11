@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3426">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04490278</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202007053</org_study_id>
+    <nct_id>NCT04490278</nct_id>
+  </id_info>
+  <brief_title>CoV-PICS: A Virtual Post-ICU Clinic</brief_title>
+  <official_title>COVID-19 Virtual Post Intensive Care Syndrome (CoV-PICS) Clinic: Modern, Convenient and Practical Recovery Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a pilot study to evaluate the feasibility of a COVID-19 virtual Post Intensive Care
+      Syndrome (PICS) clinic (CoV-PICS). The findings from this study are the first steps in
+      determining the feasibility and potential impact of a telehealth PICS clinic that is able to
+      address the needs of patients with COVID-19 disease and potentially other patients that are
+      unable to attend a brick and mortar clinic and require virtual care.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 29, 2020</start_date>
+  <completion_date type="Anticipated">July 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Acceptance with virtual CoV-PICS Visits - AIM</measure>
+    <time_frame>up to 6 months after consent</time_frame>
+    <description>Acceptability of Intervention Measure (AIM) Implementation of outcome measure. Response Scale: 1 = Completely disagree, 2 = Disagree, 3 = Neither agree nor disagree, 4 = Agree, 5 = Completely agree</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Acceptance with virtual CoV-PICS Visits - IAM</measure>
+    <time_frame>up to 6 months after consent</time_frame>
+    <description>Intervention Appropriateness Measure (IAM) Implementation of outcome measure. Response Scale: 1 = Completely disagree, 2 = Disagree, 3 = Neither agree nor disagree, 4 = Agree, 5 = Completely agree</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Acceptance with virtual CoV-PICS Visits - FIM</measure>
+    <time_frame>up to 6 months after consent</time_frame>
+    <description>Feasibility of Intervention Measure (FIM) Implementation of outcome measure. Response Scale: 1 = Completely disagree, 2 = Disagree, 3 = Neither agree nor disagree, 4 = Agree, 5 = Completely agree</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PICS Symptoms - Daily living</measure>
+    <time_frame>Up to 6 months after consent</time_frame>
+    <description>Katz Independence in Activities in Daily Living Rates daily activities by independence or dependence in completing the task (range 0-6) 0=low or patient very dependent, 6 = high or patient independent</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PICS Systems - Cognitive</measure>
+    <time_frame>Up to 6 months after consent</time_frame>
+    <description>Montreal Cognitive Assessment (MoCA) Screening tool for mild cognitive dysfunction. Sum all subscores listed on the right-hand side, for a possible maximum of 15 points. A final total score of 11 and above is considered normal.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PICS Systems - Nutrition</measure>
+    <time_frame>Up to 6 months after consent</time_frame>
+    <description>Scored Patient-Generated Subjective Global Assessment (PG-SGA) The Scored PG-SGA© includes the four patient-generated historical components (Weight History, Food Intake, Symptoms and Activities and Function - also known as the PG-SGA Short Form©), the professional part (Diagnosis, Age, Metabolic stress, and Physical Exam), the Global Assessment (A = well nourished, B = moderately malnourished or suspected malnutrition, C = severely malnourished), the total numerical score, and nutritional triage recommendations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PICS Systems - PROMIS</measure>
+    <time_frame>Up to 6 months after consent</time_frame>
+    <description>Patient-Reported Outcomes Measurement Information System (PROMIS 29) PROMIS Profile instruments are a collection of short forms containing a fixed number of items from seven PROMIS domains (Depression, Anxiety, Physical Function, Pain Interference, Fatigue, Sleep Disturbance, and Ability to Participate in Social Roles and Activities). The PROMIS-29 assesses each of the 7 domains with 4 questions. Range 1=Never, 2=rarely, 3=sometimes, 4=often, 5=always</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PICS Symptoms - Memory</measure>
+    <time_frame>up to 6 months after consent</time_frame>
+    <description>ICU Memory Tool 4 item questionnaire of patient's memory of ICU stay. Response scale: factual memories (range 0-11), memories of feelings (range 0-6), delusional memories + 1 for mention of nurse or doctor trying to kill the patient in description (range 0-6)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Post ICU Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Patients with PICS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Medical Record Review - Inpatient Treatment</intervention_name>
+    <description>Patient characteristics, medical history, and information regarding their inpatient treatment from the electronic medical record</description>
+    <arm_group_label>Patients with PICS</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Online Questionnaires</intervention_name>
+    <description>Patients will complete online questionnaires related to their physical, cognitive and mental health function and inquire about current treatments. The multiprofessional CoV-PICS clinic practitioners will evaluate their responses and, combined with information obtained during their virtual visits, formulate a suggested treatment plan and needed referrals.</description>
+    <arm_group_label>Patients with PICS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  18 years of age or older
+
+          -  COVID-19 diagnosis with a stay in the ICU.
+
+          -  A home internet connection or smartphone access, along with the ability to use them
+
+          -  Missouri resident
+
+        Exclusion Criteria:
+
+          -  Severe cognitive deficits or dementia prior to hospitalization
+
+          -  Long-term resident of a skilled nursing facility prior to admission
+
+          -  Non-English speaking (will not have an interpreter available)
+
+          -  Hospice or Comfort Care at discharge
+
+          -  No plans to return to some degree of independent living at the time of discharge
+
+          -  Pregnant at the time of discharge
+
+          -  Prisoner at the time of discharge
+
+          -  Blind
+
+          -  Deaf
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chris Palmer, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Beth Taylor, DCN</last_name>
+    <phone>314-215-7384</phone>
+    <email>beth.taylor@bjc.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine/Barnes-Jewish Hospital</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Beth Taylor, DCN, RDN-AP, CNSC</last_name>
+      <phone>314-215-7384</phone>
+      <email>beth.taylor@bjc.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Sommer P, Lukovic E, Fagley E, Long DR, Sobol JB, Heller K, Moitra VK, Pauldine R, O'Connor MF, Shahul S, Nunnally ME, Tung A. Initial Clinical Impressions of the Critical Care of COVID-19 Patients in Seattle, New York City, and Chicago. Anesth Analg. 2020 Jul;131(1):55-60. doi: 10.1213/ANE.0000000000004830.</citation>
+    <PMID>32221172</PMID>
+  </reference>
+  <reference>
+    <citation>Rawal G, Yadav S, Kumar R. Post-intensive Care Syndrome: an Overview. J Transl Int Med. 2017 Jun 30;5(2):90-92. doi: 10.1515/jtim-2016-0016. eCollection 2017 Jun.</citation>
+    <PMID>28721340</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

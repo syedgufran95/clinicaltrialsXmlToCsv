@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="345">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527458</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ISARIC_COVID_CF</org_study_id>
+    <nct_id>NCT04527458</nct_id>
+  </id_info>
+  <brief_title>Case Fatalities in Hospitalised COVID-19 Patients in the UK</brief_title>
+  <official_title>Case Fatalities in Hospitalised COVID-19 Patients in the UK: An ISARIC Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Edinburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>International Severe Acute Respiratory and Emerging Infection Consortium</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>BREATHE Health Data Research Hub</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Edinburgh</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will investigate how the case fatality in hospitalised patients with COVID-19 has
+      changed throughout the pandemic. It will also explore possible mechanisms that could be
+      driving these changes. This analysis will enhance our understanding of the virus, which will
+      be important for researchers and clinicians to respond appropriately.
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 24, 2020</start_date>
+  <completion_date type="Actual">August 2, 2020</completion_date>
+  <primary_completion_date type="Actual">August 2, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Case fatality</measure>
+    <time_frame>23 weeks</time_frame>
+    <description>The proportion of new admissions with COVID-19 who died over time</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">70000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Hospitalisations</arm_group_label>
+    <description>All hospitalised COVID patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Critical care</arm_group_label>
+    <description>All hospitalised COVID patients in critical care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Patient Characteristics</intervention_name>
+    <description>Characteristics of the patients</description>
+    <arm_group_label>Critical care</arm_group_label>
+    <arm_group_label>Hospitalisations</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19 treatments</intervention_name>
+    <description>Specific treatments used on COVID-19 patients</description>
+    <arm_group_label>Critical care</arm_group_label>
+    <arm_group_label>Hospitalisations</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Differences in triage</intervention_name>
+    <description>Triage criteria for treating COVID-19 patients</description>
+    <arm_group_label>Critical care</arm_group_label>
+    <arm_group_label>Hospitalisations</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Surge capacity</intervention_name>
+    <description>Capacity of hospitals</description>
+    <arm_group_label>Critical care</arm_group_label>
+    <arm_group_label>Hospitalisations</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients with proven or high likelihood of COVID-19 admitted to the 260 UK hospitals
+        enrolled in the ISARIC-4C study
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients admitted with a proven or high likelihood of COVID-19
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Annemarie B Docherty</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Usher Institute, University of Edinburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ewen M Harrison</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Usher Institute, University of Edinburgh</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rachel H Mulholland</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Usher Institute, University of Edinburgh</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Edinburgh</name>
+      <address>
+        <city>Edinburgh</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>https://isaric4c.net/</url>
+    <description>ISARIC 4C website</description>
+  </link>
+  <reference>
+    <citation>Docherty AB, Harrison EM, Green CA, Hardwick HE, Pius R, Norman L, Holden KA, Read JM, Dondelinger F, Carson G, Merson L, Lee J, Plotkin D, Sigfrid L, Halpin S, Jackson C, Gamble C, Horby PW, Nguyen-Van-Tam JS, Ho A, Russell CD, Dunning J, Openshaw PJ, Baillie JK, Semple MG; ISARIC4C investigators. Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study. BMJ. 2020 May 22;369:m1985. doi: 10.1136/bmj.m1985.</citation>
+    <PMID>32444460</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>August 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 26, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>ISARIC</keyword>
+  <keyword>Hospitalisations</keyword>
+  <keyword>Mortality</keyword>
+  <keyword>Case fatality</keyword>
+  <keyword>United Kingdom</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Access to all data and samples collected by ISARIC4C are controlled by an Independent Data and Materials Access Committee (IDAMAC), composed of representatives of research funders, academia, clinical medicine, public health and industry. Their job is to ensure that all data and samples are used to generate the greatest possible benefit to humanity, in the shortest possible time.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

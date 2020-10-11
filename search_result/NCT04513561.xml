@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2454">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04513561</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020_51</org_study_id>
+    <secondary_id>2020_A01596_33</secondary_id>
+    <nct_id>NCT04513561</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Impact of Lock Down and End of Lock Down on the Management of Patients With Inflammatory and Dysimmune Diseases Followed in the Context of IMMINeNT FHU and COVID-19</brief_title>
+  <acronym>CONFIMID</acronym>
+  <official_title>Evaluation of the Impact of Lock Down and End of Lock Down on the Management of Patients With Inflammatory and Dysimmune Diseases Followed in the Context of IMMINeNT FHU (Rheumatology, Dermatology, Internal Medicine, Pneumology, Gastroenterology, Neurology).</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Lille</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Lille</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This questionnaire is distributed via a mailing list (e-mail) of patients treated within the
+      framework of the FHU for pathologies including chronic inflammatory bowel diseases or IBD
+      (Crohn's disease and ulcerative colitis), inflammatory rheumatic diseases (such as rheumatoid
+      arthritis and ankylosing spondylitis), but also asthma, psoriasis, atopic dermatitis as well
+      as systemic autoimmune (such as scleroderma, lupus, angioedema) and neurological (multiple
+      sclerosis) diseases.
+
+      A two-step analysis will be conducted: impact of lock down(March 17, 2020 - May 11, 2020) and
+      a 2-month assessment of end of lock down (from May 11, 2020) on issues addressing: overall
+      impact, impact on the disease, treatment and follow-up, and access to information related to
+      the epidemic during these periods.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The answer will be considered positive if the patient answers &quot;totally agree&quot;, or &quot;agree&quot;, or &quot;slightly agree&quot;, or &quot;neither agree nor disagree&quot;.</measure>
+    <time_frame>At 2 months</time_frame>
+    <description>The answer to question 13 of the lock down questionnaire: &quot;Do you feel that you have been less well followed by your medical specialist compared to the pre-lock down period? &quot;</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients (in percentage and numbers) whose response is considered positive if the patient answered &quot;Slightly agree&quot;, &quot;Agree&quot; or &quot;Totally agree&quot; to question 9 of the lock down questionnaire</measure>
+    <time_frame>At 2 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients (in percentage and numbers) whose response is considered positive if the patient answered &quot;yes&quot; to question 34 of the lock down questionnaire</measure>
+    <time_frame>At 2 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients (in percentage and numbers) whose response is considered positive if the patient answered &quot;Slightly agree&quot; or &quot;Agree&quot; or &quot;Strongly agree&quot; to question 38 of the lock down questionnaire</measure>
+    <time_frame>At 2 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients (in percentages and numbers) whose response will be considered positive to questions 13 and 14 of the lock down questionnaire and comparison between the different specialities filled in in question 3.</measure>
+    <time_frame>At 2 months</time_frame>
+    <description>Proportion of patients (in percentages and numbers) whose response will be considered positive if the patient answers &quot;totally agree&quot;, or &quot;agree&quot;, or &quot;slightly agree&quot;, or &quot;neither agree nor disagree&quot; to questions 13 and 14 of the lock down questionnaire and comparison between the different specialities filled in in question 3.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients (in percent and numbers) whose response will be considered positive to questions 9, 13, 14, 38 or &quot;Yes&quot; to question 34 of the end of lock down and lock down Evaluation Questionnaire.</measure>
+    <time_frame>At 2 months</time_frame>
+    <description>Proportion of patients (in percent and numbers) whose response will be considered positive if the patient answers &quot;Slightly agree&quot;, &quot;Agree&quot; or &quot;Strongly agree&quot; to questions 9, 13, 14, 38 or &quot;Yes&quot; to question 34 of the end of lock down and lock down Evaluation Questionnaire.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">4500</enrollment>
+  <condition>Inflammatory Disease</condition>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Any patients Inflammatory and Dysimmune Diseases Followed in the Context of IMMINeNT FHU
+        IMMINeNT FHU (Rheumatology, Dermatology, Internal Medicine, Pneumology, Gastroenterology,
+        Neurology).
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        patient followed for :
+
+          -  Chronic inflammatory bowel disease or IBD (Crohn's disease and ulcerative colitis),
+
+          -  Inflammatory rheumatism (rheumatoid arthritis and spondylitis)
+
+          -  Multiple Sclerosis
+
+          -  Asthma
+
+          -  Psoriasis
+
+          -  Atopic Dermatitis
+
+          -  Systemic autoimmune diseases (scleroderma and lupus)
+
+        Exclusion Criteria:
+
+          -  Minor patient
+
+          -  Patient cannot read or write
+
+          -  Patient without computer equipment
+
+          -  Patient with no internet access
+
+          -  Patient not having filled in his e-mail in his file
+
+          -  Patient does not wish to be contacted by email
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Frédéric DEZOTEUX, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Lille</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Frédéric DEZOTEUX, MD</last_name>
+    <phone>0320444193</phone>
+    <phone_ext>+33</phone_ext>
+    <email>Frederic.dezoteux@chru-lille.fr</email>
+  </overall_contact>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>August 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 14, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2601">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04535167</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4611001</org_study_id>
+    <secondary_id>2020-003905-73</secondary_id>
+    <nct_id>NCT04535167</nct_id>
+  </id_info>
+  <brief_title>First-In-Human Study To Evaluate Safety, Tolerability, And Pharmacokinetics Following Single Ascending Dose And Extended Infusion of PF 07304814 In Hospitalized Participants With COVID-19.</brief_title>
+  <official_title>A PHASE 1B, 2-PART, DOUBLE-BLIND, PLACEBO-CONTROLLED, SPONSOR-OPEN STUDY, TO EVALUATE THE SAFETY, TOLERABILITY AND PHARMACOKINETICS OF SINGLE ASCENDING (24-HOUR, PART 1) AND EXTENDED (120-HOUR, PART 2) INTRAVENOUS INFUSIONS OF PF-07304814 IN HOSPITALIZED PARTICIPANTS WITH MILD TO MODERATE COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It is Phase 1b, 2-part, double-blind, placebo-controlled study to evaluate safety,
+      tolerability, and pharmacokinetics of PF-07304814, in patients with SARS-CoV-2 virus
+      infection and with mild-to-moderate symptoms.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is a 2-part study in mild to moderate hospitalized COVID-19 patients.
+
+        -  Part 1 is to evaluate safety, tolerability, PK and markers of clinical activity of
+           escalating doses of PF-07304814 given as 24-hour IV infusions.
+
+           3 planned and 2 optional cohorts with 8 participants each are planned.
+
+        -  Part 2 is to evaluate safety, tolerability, PK and markers of clinical activity with
+           extended 120-hour IV infusion of PF 07304814.
+
+             1. planned and 1 optional cohorts with 8 participants each are planned
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 9, 2020</start_date>
+  <completion_date type="Anticipated">March 21, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 21, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Part 1 will have 3 planned cohorts. Each cohort will be initiated for enrollment after assessment of safety, tolerability and PK data from previous cohorts by an independent IRC and is deemed acceptable.
+Part 2 will be initiated after all safety, tolerability and PK data from Part 1 is evaluated and is deemed acceptable.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Adverse Events (AEs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants who withdraw due to treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of treatment-emergent adverse events (TEAEs), causally related to study intervention</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of treatment-emergent serious adverse events</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Serious Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of treatment-emergent infusion site reactions</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Magnitude of abnormal hematologic laboratory findings</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Percent change in laboratory parameters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of abnormal chemistry values</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of abnormal hematologic laboratory findings</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Magnitude of abnormal urinalysis findings</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Percent change in urinalysis parameters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in PR values</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>ECG parameters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in RR values</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>ECG parameters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in QTc values</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>ECG parameters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in QTcF values</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>ECG parameters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in QRS values</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>ECG parameters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in pulse rate measurements</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Vital sign measurements</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in temperature values</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Vital sign measurements</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in respiratory rate values</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Vital sign measurements</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in systolic blood pressure</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Vital sign measurements</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in diastolic blood pressure</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Vital sign measurements</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in pulse oximetry/SpO2 measurement</measure>
+    <time_frame>0 hours up to 41 days</time_frame>
+    <description>Vital sign measurements</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in concentration at 24 hours (C24[end of infusion]) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in concentration, dose normalised, at 24 hours (C24 (dn) [end of infusion]) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in concentration at 120 hours (C120[end of infusion]) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in maximum observed concentration (Cmax) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in maximum observed concentration, dose normalised (Cmax [dn]) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in concentration at steady state (Css) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in concentration at steady state, dose normalised (Css [dn]) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in terminal half life (t1/2) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in clearance (CL) of PF-07304814</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in area-under-the-curve plasma concentration from 0 to time extrapolated to infinity (AUCinf) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in area-under-the-curve plasma concentration from 0 to last quantifiable concentration (AUClast) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in area-under-the-curve plasma concentration from 0 to time extrapolated to infinity, dose normalised (AUCinf [dn]) of PF-07304814 and PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in steady state volume of distribution (Vss) of PF-00835231</measure>
+    <time_frame>0 to 32 hours</time_frame>
+    <description>plasma PK parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative amount of unchanged drug excreted into urine (Ae)</measure>
+    <time_frame>0 to 36 hours</time_frame>
+    <description>urinary PK parameters (Cohort 2 only)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percent of dose excreted as unchanged drug (Ae%) over dosing period</measure>
+    <time_frame>0 to 36 hours</time_frame>
+    <description>urinary PK parameters (Cohort 2 only)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">56</enrollment>
+  <condition>Viral Disease</condition>
+  <arm_group>
+    <arm_group_label>PF-07304814</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1:
+Cohort 1-5
+Part 2:
+Cohort 6,7</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Part 1:
+Cohort 1-5
+Part 2:
+Cohort 6,7</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-07304814</intervention_name>
+    <description>PF-07304814 is an anti-viral, formulated for intravenous delivery</description>
+    <arm_group_label>PF-07304814</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo will be formulated for intravenous delivery</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  Inclusion Criteria:
+
+               1. Male or female participants between the ages of 18 and 75 years.
+
+               2. Confirmed SARS-CoV-2 infection as determined by standard RT- PCR assay.
+
+               3. Hospitalized for COVID-19, with mild or moderate disease (8-point ordinal scale
+                  categories 4 to 7).
+
+               4. Symptoms consistent with mild or moderate COVID-19 indicated by at least 1 of the
+                  following: fever, cough, sore throat, malaise, headache, muscle pain,
+                  gastrointestinal symptoms, shortness of breath (at rest or with exertion), or
+                  dyspnea.
+
+               5. Total body weight &gt;=50 kg (110 lb), BMI &lt;35 kg/m2.
+
+          -  Exclusion Criteria:
+
+               1. Evidence of critical illness, defined by at least one of the following:
+                  Respiratory failure, Multi-organ dysfunction/failure, Cardiac failure or septic
+                  shock
+
+               2. Participants with pre-existing moderate to severe cardiovascular disease,
+                  uncontrolled diabetes, or severe asthma or severe COPD.
+
+               3. Participants with a known medical history of recent acute or chronic liver
+                  disease (other than NASH), chronic or active hepatitis B or C infection, or
+                  primary biliary cirrhosis.
+
+               4. Participants with known HIV infection.
+
+               5. Participants with a known medical history of ischemic heart disease, heart
+                  failure, dysrhythmia or other pre-existing cardiac condition.
+
+               6. Participants with a known medical history of recurrent seizures.
+
+               7. Confirmed concurrent active systemic infection other than COVID-19.
+
+               8. Current diagnosis of cancer, unless in remission and untreated.
+
+               9. Other medical or psychiatric condition including recent or active suicidal
+                  ideation/behavior or laboratory abnormality that may increase the risk of study
+                  participation
+
+              10. Previous administration with any investigational drug (including Remdesivir,
+                  convalescent sera or Monoclonal antibody treatment for COVID-19 if not local
+                  standard of care) within 30 days.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>El Camino Health</name>
+      <address>
+        <city>Mountain View</city>
+        <state>California</state>
+        <zip>94040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Palo Alto Medical Foundation</name>
+      <address>
+        <city>Mountain View</city>
+        <state>California</state>
+        <zip>94040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hoag Memorial Hospital Presbyterian</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92663</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UC Davis Health Investigational Drug Pharmacy</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UC Davis Medical Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Multicare Health System-Tacoma General Hospital</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4611001</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>October 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

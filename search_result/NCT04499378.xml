@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2498">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04499378</url>
+  </required_header>
+  <id_info>
+    <org_study_id>F-2020-1008-038</org_study_id>
+    <nct_id>NCT04499378</nct_id>
+  </id_info>
+  <brief_title>Tomographic Findings in COVID-19 and Influenza H1N1</brief_title>
+  <official_title>Pulmonary Tomographic Findings in COVID-19 and Influenza H1N1 Patients at IMSS Guanajuato</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad de Guanajuato</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Medical Center Groningen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universidad de Guanajuato</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators decided to conduct a longitudinal study that compares the pulmonary
+      tomographic patterns found in patients with viral pneumonia (i.e. influenza H1N1 and
+      SARS-CoV-2) at a regional hospital. The primary aim of this study is to evaluate the
+      association between the radiological CT pattern and the need for invasive mechanical
+      ventilation. A secondary aim is to assess the mortality within the first 28 days of intensive
+      care unit admission.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background In late 2019, a new coronavirus was linked to several cases of pneumonia in the
+      city of Wuhan, Hubei province, China. On February 11, 2020, the World Health Organization
+      (WHO) designated COVID-19 a pandemic disease. The mortality associated with COVID-19 patients
+      that required management in a critical care unit is approximately 4.3%. COVID-19 is caused by
+      severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Diagnosis of COVID-19 is made
+      with a positive test (i.e. reverse transcriptase-polymerase chain reaction, RT-PCR) from a
+      person with clinical signs and symptoms of a respiratory tract infection. Viral pneumonia is
+      currently a challenge worldwide as it is associated with high morbidity and mortality. In
+      June of 2009, the WHO declared influenza A H1N1 a pandemic disease. Worldwide, influenza H1N1
+      had a mortality of 11%, with a higher mortality rate among people older than 50 years of age
+      (i.e. 18-20%). Influenza diagnosis can be established using RT-PCR. Around 200 million cases
+      of community-acquired viral pneumonia occur each year worldwide, 100 million in children, and
+      100 million in adults. Imaging findings in viral pneumonia are diverse and overlap with
+      findings associated with non-viral infections and inflammatory conditions. However,
+      identifying the underlying viral pathogens may not always be easy. Several imaging patterns
+      have been described in association with these viruses. Although a definitive diagnosis cannot
+      be achieved based on imaging studies, imaging pattern recognition of viral pneumonia can help
+      differentiate between viral and bacterial pathogens; thus, reducing the use of indiscriminate
+      antibiotics. Few studies correlate tomographic findings in patients with viral infections in
+      the lower respiratory tract.
+
+      The use of computed tomography (CT) should be considered as the first option for diagnostic
+      imaging in patients with suspected pneumonia. Peripheral multifocal ground glass patterns
+      with irregular consolidation images found in the lower lobes or posteriorly in pulmonary CT
+      scans have been described in patients with viral pneumonia due to SARS-CoV-2. Furthermore,
+      complicating the diagnosis of atypical viral pneumonia, 17.9% of mild COVID-19 and 2.9% of
+      moderate-severe COVID-19 patients did not have CT evidence of pneumonia upon hospital
+      admission. One recent study compared the CT radiological patterns found in COVID-19 pneumonia
+      to other viral pneumonias (i.e. influenza, parainfluenza, adenovirus, and respiratory
+      syncytial virus) reporting higher peripheral distribution (i.e. 80% vs. 57%, p&lt;0.001), more
+      ground-glass opacities (i.e. 91% vs 68%, p&lt;0.001), greater frequency of fine reticular
+      opacities (i.e. 56% vs. 22%, p&lt;0.001), and vascular thickening in COVID-19 patients;
+      meanwhile, other viral pneumonias were more likely to have a mixed distribution pattern(i.e.
+      35% vs. 14%, p&lt;0.001), have pleural effusion (i.e. 39% vs. 4.1%, p&lt;0.001), and present
+      visible lymph nodes (10.2% vs. 2.7%, p&lt;0.001). Another study compared the pulmonary
+      radiological patterns associated with COVID-19 compared to influenza (A and B) reporting
+      higher round opacities (i.e. 35% vs. 17%, p=0.048) and greater frequency of interlobular
+      septal thickening (i.e. 66% vs. 43%, p=0.014) in patients with COVID-19; conversely,
+      influenza patients had a higher frequency of nodular lesions (i.e. 71% vs. 28%, p&lt;0.001),
+      higher frequency of small dense nodular lesions (i.e. 40% vs. 9%, p&lt;0.001), and more likely
+      to have pleural effusion (i.e. 31% vs. 6%, p&lt;0.001).
+
+      Research questions
+
+        1. What are the pulmonary tomographic findings in patients diagnosed with
+           community-acquired pneumonia secondary to SARS-CoV-2?
+
+        2. What are the pulmonary tomographic findings in patients diagnosed with
+           community-acquired pneumonia secondary to H1N1 influenza?
+
+        3. Is there a difference among lung CT radiological patterns in patients with pneumonia
+           secondary to SARS-CoV-2 and its association with the need for invasive mechanical
+           ventilation?
+
+        4. Is there a difference among lung CT radiological patterns in patients with pneumonia
+           secondary to H1N1 influenza and its association with the need for invasive mechanical
+           ventilation?
+
+        5. Is there a difference between groups (i.e. SARS-CoV-2 versus H1N1 influenza) and its
+           association with the need for the use of invasive mechanical ventilation?
+
+        6. Are the 28-day survival distributions different for SARS-CoV-2 and H1N1 influenza?
+
+        7. Is there a difference in the 28-day survival distribution and the pulmonary tomographic
+           radiological patterns in patients with pneumonia secondary to SARS-CoV-2?
+
+        8. Is there a difference in the 28-day survival distribution and the pulmonary tomographic
+           radiological patterns in patients with pneumonia secondary to H1N1 influenza?
+
+        9. What factors are associated with the survival differences in 28-day mortality in both
+           groups and between groups?
+
+      Aims Primary aim: Compare pulmonary tomographic findings of patients diagnosed with
+      SARS-CoV-2 and H1N1 influenza pneumonia patients at Hospital General Regional Leon IMSS no.
+      58.
+
+      Secondary aims
+
+        -  Identify pulmonary CT radiological patterns in patients diagnosed with SARS-CoV-2
+           pneumonia.
+
+        -  Identify pulmonary CT radiological patterns in patients diagnosed with influenza H1N1
+           pneumonia.
+
+        -  Identify the association between CT patterns of patients diagnosed with SARS-CoV-2 or
+           H1N1 influenza pneumonia who require invasive mechanical ventilation.
+
+        -  Identify the CT patterns of SARS-CoV-2 and H1N1 influenza patients that are associated
+           with 28-day mortality.
+
+      Statistical analysis No literature is available to calculate the primary objective (i.e.
+      measure the frequency of radiological patterns associated with viral pneumonia secondary to
+      SARS-CoV-2 and H1N1 influenza) or for the secondary objective (risk of intubation) this study
+      will serve as a pilot study for the calculation of samples in future research projects. A
+      sample calculation was performed to determine statistically significant differences in the
+      outcome of radiological patterns secondary to H1N1 influenza. The sample size was calculated
+      based on the proportions reported by Jartti et al. (2011). The sample size was calculated to
+      detect statistically significant differences taking as parameters an α = 0.05 and statistical
+      power of 0.8 (i.e. 1-β). The calculator was used to calculate sample sizes based on
+      proportions of two samples considering the equality of the two extremes (i.e. one Gaussian
+      distribution tail), available on the website: http://powerandsamplesize.com/. The parameters
+      are as follows: nA, number of patients with H1N1 influenza in the reference study (i.e. 159);
+      nB, number of patients with H1N1 influenza pneumonia; pA, frequency of patients with
+      radiological consolidation data, in percentage, for previously reported H1N1 influenza
+      patients (i.e. 93%); pB, frequency of patients with radiological consolidation syndrome, in
+      percentage, in patients with H1N1 influenza pneumonia in our population (i.e. H0: probability
+      = 0.5); k, sampling ratio (i.e. 1: 1). Considering the results, we consider that a sample
+      greater than 23 patients with H1N1 influenza pneumonia is necessary to detect differences in
+      radiological patterns in patients with viral pneumonia.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 15, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Oral intubation</measure>
+    <time_frame>10 days</time_frame>
+    <description>Need for oral intubation within the first 10 days.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival</measure>
+    <time_frame>28 days</time_frame>
+    <description>28-day survival analysis using the Kaplan Meyer and Cox regression models.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <condition>Influenza A H1N1</condition>
+  <condition>Intubation Complication</condition>
+  <condition>Morality</condition>
+  <condition>Lung Injury, Acute</condition>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2</arm_group_label>
+    <description>Patients with a positive SARS-CoV-2 PCR test upon admission to the emergency department.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>H1N1 influenza</arm_group_label>
+    <description>Patients with a positive Influenza H1N1 PCR test upon admission to the emergency department.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Lung CT</intervention_name>
+    <description>Computed tomography of the thorax</description>
+    <arm_group_label>H1N1 influenza</arm_group_label>
+    <arm_group_label>SARS-CoV-2</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Polymerase chain reaction for SARS-CoV-2 and polymerase chain reaction for influenza H1N1.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Convenience sample from a Mexican a primarily urban and suburban population. All patients
+        are affiliated with a health care system that is sponsored by the state, business owners,
+        and the labor force. Patients primarily represent the working class from a country with a
+        high (0.767) Human Development Index.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with signed informed consent.
+
+          -  Patients with a positive PCR test for SARS-CoV-2 or influenza H1N1 test upon emergency
+             department admission.
+
+          -  Patients with lung CT within 24hrs of specimen collection for PCR test.
+
+          -  Patients with complete 30-day follow-up information.
+
+        Exclusion Criteria:
+
+          -  Patients who are unwilling to undergo a lung CT.
+
+          -  Negative PCR test for SARS-CoV-2 or influenza H1N1 test upon emergency department
+             admission.
+
+          -  Patients with a tumor or tumor metastasis on the pulmonary CT.
+
+          -  Patients with a previous or de novo autoimmune disease diagnosis.
+
+          -  Patients with a previous or de novo interstitial lung disease.
+
+          -  Pregnancy.
+
+        Elimination Criteria:
+
+          -  Patients with loss of information on the variables of interest.
+
+          -  Patients without 30-day follow-up information.
+
+          -  Patients who chose to withdraw their participation at any time of the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jaime D Mondragon, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Medical Center Groningen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Omar Jiménez-Zarazúa, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad de Guanajuato</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Omar Jiménez-Zarazúa, M.D.</last_name>
+    <phone>+52-442-1377672</phone>
+    <email>drzarazuainterna@hotmail.com</email>
+  </overall_contact>
+  <results_reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Dandachi D, Rodriguez-Barradas MC. Viral pneumonia: etiologies and treatment. J Investig Med. 2018 Aug;66(6):957-965. doi: 10.1136/jim-2018-000712. Epub 2018 Apr 20. Review.</citation>
+    <PMID>29680828</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Fineberg HV. Pandemic preparedness and response--lessons from the H1N1 influenza of 2009. N Engl J Med. 2014 Apr 3;370(14):1335-42. doi: 10.1056/NEJMra1208802. Review. Erratum in: N Engl J Med. 2015 Jan 8;372(2):197.</citation>
+    <PMID>24693893</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Louie JK, Acosta M, Winter K, Jean C, Gavali S, Schechter R, Vugia D, Harriman K, Matyas B, Glaser CA, Samuel MC, Rosenberg J, Talarico J, Hatch D; California Pandemic (H1N1) Working Group. Factors associated with death or hospitalization due to pandemic 2009 influenza A(H1N1) infection in California. JAMA. 2009 Nov 4;302(17):1896-902. doi: 10.1001/jama.2009.1583.</citation>
+    <PMID>19887665</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Uyeki TM, Bernstein HH, Bradley JS, Englund JA, File TM, Fry AM, Gravenstein S, Hayden FG, Harper SA, Hirshon JM, Ison MG, Johnston BL, Knight SL, McGeer A, Riley LE, Wolfe CR, Alexander PE, Pavia AT. Clinical Practice Guidelines by the Infectious Diseases Society of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional Outbreak Management of Seasonal Influenzaa. Clin Infect Dis. 2019 Mar 5;68(6):e1-e47. doi: 10.1093/cid/ciy866. Erratum in: Clin Infect Dis. 2019 May 2;68(10):1790.</citation>
+    <PMID>30566567</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ruuskanen O, Lahti E, Jennings LC, Murdoch DR. Viral pneumonia. Lancet. 2011 Apr 9;377(9773):1264-75. doi: 10.1016/S0140-6736(10)61459-6. Epub 2011 Mar 22. Review.</citation>
+    <PMID>21435708</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Koo HJ, Lim S, Choe J, Choi SH, Sung H, Do KH. Radiographic and CT Features of Viral Pneumonia. Radiographics. 2018 May-Jun;38(3):719-739. doi: 10.1148/rg.2018170048. Review.</citation>
+    <PMID>29757717</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Shiley KT, Van Deerlin VM, Miller WT Jr. Chest CT features of community-acquired respiratory viral infections in adult inpatients with lower respiratory tract infections. J Thorac Imaging. 2010 Feb;25(1):68-75. doi: 10.1097/RTI.0b013e3181b0ba8b.</citation>
+    <PMID>20160606</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Upchurch CP, Grijalva CG, Wunderink RG, Williams DJ, Waterer GW, Anderson EJ, Zhu Y, Hart EM, Carroll F, Bramley AM, Jain S, Edwards KM, Self WH. Community-Acquired Pneumonia Visualized on CT Scans but Not Chest Radiographs: Pathogens, Severity, and Clinical Outcomes. Chest. 2018 Mar;153(3):601-610. doi: 10.1016/j.chest.2017.07.035. Epub 2017 Aug 9.</citation>
+    <PMID>28802696</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zu ZY, Jiang MD, Xu PP, Chen W, Ni QQ, Lu GM, Zhang LJ. Coronavirus Disease 2019 (COVID-19): A Perspective from China. Radiology. 2020 Aug;296(2):E15-E25. doi: 10.1148/radiol.2020200490. Epub 2020 Feb 21. Review.</citation>
+    <PMID>32083985</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bai HX, Hsieh B, Xiong Z, Halsey K, Choi JW, Tran TML, Pan I, Shi LB, Wang DC, Mei J, Jiang XL, Zeng QH, Egglin TK, Hu PF, Agarwal S, Xie FF, Li S, Healey T, Atalay MK, Liao WH. Performance of Radiologists in Differentiating COVID-19 from Non-COVID-19 Viral Pneumonia at Chest CT. Radiology. 2020 Aug;296(2):E46-E54. doi: 10.1148/radiol.2020200823. Epub 2020 Mar 10.</citation>
+    <PMID>32155105</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liu M, Zeng W, Wen Y, Zheng Y, Lv F, Xiao K. COVID-19 pneumonia: CT findings of 122 patients and differentiation from influenza pneumonia. Eur Radiol. 2020 Oct;30(10):5463-5469. doi: 10.1007/s00330-020-06928-0. Epub 2020 May 12.</citation>
+    <PMID>32399710</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 5, 2020</study_first_posted>
+  <last_update_submitted>August 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad de Guanajuato</investigator_affiliation>
+    <investigator_full_name>Jaime Daniel Mondragón Uribe</investigator_full_name>
+    <investigator_title>Medical researcher</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Data availability upon request.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

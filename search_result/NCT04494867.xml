@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="633">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04494867</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-19 Core Warming</org_study_id>
+    <nct_id>NCT04494867</nct_id>
+  </id_info>
+  <brief_title>Core Warming in COVID-19 Patients Undergoing Mechanical Ventilation</brief_title>
+  <official_title>Core Warming of COVID-19 Patients Undergoing Mechanical Ventilation: a Randomized, Single Center Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sharp HealthCare</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Advanced Cooling Therapy, Inc., d/b/a Attune Medical</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sharp HealthCare</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the proposed pilot study is to determine if core warming improves respiratory
+      physiology of mechanically ventilated patients with COVID-19, allowing earlier weaning from
+      ventilation, and greater overall survival.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a small scale pilot study to evaluate if core warming improves respiratory physiology
+      of mechanically ventilated patients with COVID-19, allowing earlier weaning from ventilation,
+      and greater overall survival. This prospective, randomized study will include 20 patients
+      diagnosed with COVID-19, and undergoing mechanical ventilation for the treatment of
+      respiratory failure. Patients will be randomized in a 1:1 fashion with 10 patients (Group A)
+      randomized to undergo core warming, and the other 10 patients (Group B) serving as the
+      control group who will not have the ensoETM device used. Patients randomized to Group A will
+      have core warming initiated in the ICU or other clinical environment in which they are being
+      treated after enrollment and provision of informed consent from appropriate surrogate or
+      legally authorized representative.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 19, 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PaO2/FiO2 ratio</measure>
+    <time_frame>0, 24, 48, and 72 hours after initiation of core warming</time_frame>
+    <description>Determine the change in PaO2/FiO2 ratio at 0, 24, 48, and 72 hours after implementation of core warming of ventilated patients, and compare this change to patients undergoing standard care.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Viral Load Measurement</measure>
+    <time_frame>72 hours after initiation of core warming</time_frame>
+    <description>Determine the change in viral load (measured in tracheal aspirate or other appropriate sample as available) after implementation of core warming of ventilated patients, and compare this change to patients undergoing standard care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>72 hours after initiation of core warming</time_frame>
+    <description>Measure the impact of core warming on duration of mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>Determine impact of core warming on patient mortality.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Core warming</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive the Attune Medical Esophageal Heat Transfer Device (EnsoETM) and undergo core warming</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive standard temperature management and treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Core Warming</intervention_name>
+    <description>Esophageal heat transfer device will be set to 42°C temperature after initial placement, and maintained at 42°C for the duration of treatment.</description>
+    <arm_group_label>Core warming</arm_group_label>
+    <other_name>EnsoETM</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Standard temperature management and treatment</description>
+    <arm_group_label>Standard of Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients above the age of 18 years old.
+
+          -  Patients with a diagnosis of COVID-19 on mechanical ventilation.
+
+          -  Patient maximum baseline temperature (within previous 12 hours) &lt; 38.3°C.
+
+          -  Patients must have a surrogate or legally authorized representative able to understand
+             and critically review the informed consent form.
+
+        Exclusion Criteria:
+
+          -  Patients without surrogate or legally authorized representative able to provide
+             informed consent.
+
+          -  Patients with contraindication to core warming using an esophageal core warming
+             device.
+
+          -  Patients known to be pregnant.
+
+          -  Patients with &lt;40 kg of body mass.
+
+          -  Patients with DNR status.
+
+          -  Patients with acute stroke, post-cardiac arrest, or multiple sclerosis.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Willms, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sharp HealthCare</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ahmed Salem, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sharp HealthCare</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Katie Miller</last_name>
+    <phone>(858) 939-7162</phone>
+    <email>Kathryn.Miller@sharp.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sharp Memorial Hospital</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katie Miller</last_name>
+      <phone>858-939-7162</phone>
+    </contact>
+    <investigator>
+      <last_name>David Willms, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ahmed Salem, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Evans EM, Doctor RJ, Gage BF, Hotchkiss RS, Fuller BM, Drewry AM. The Association of Fever and Antipyretic Medication With Outcomes in Mechanically Ventilated Patients: A Cohort Study. Shock. 2019 Aug;52(2):152-159. doi: 10.1097/SHK.0000000000001368.</citation>
+    <PMID>31058720</PMID>
+  </reference>
+  <reference>
+    <citation>Drewry AM, Ablordeppey EA, Murray ET, Dalton CM, Fuller BM, Kollef MH, Hotchkiss RS. Monocyte Function and Clinical Outcomes in Febrile and Afebrile Patients With Severe Sepsis. Shock. 2018 Oct;50(4):381-387. doi: 10.1097/SHK.0000000000001083.</citation>
+    <PMID>29240644</PMID>
+  </reference>
+  <reference>
+    <citation>Drewry AM, Ablordeppey EA, Murray ET, Stoll CRT, Izadi SR, Dalton CM, Hardi AC, Fowler SA, Fuller BM, Colditz GA. Antipyretic Therapy in Critically Ill Septic Patients: A Systematic Review and Meta-Analysis. Crit Care Med. 2017 May;45(5):806-813. doi: 10.1097/CCM.0000000000002285. Review.</citation>
+    <PMID>28221185</PMID>
+  </reference>
+  <reference>
+    <citation>Drewry AM, Fuller BM, Skrupky LP, Hotchkiss RS. The presence of hypothermia within 24 hours of sepsis diagnosis predicts persistent lymphopenia. Crit Care Med. 2015 Jun;43(6):1165-9. doi: 10.1097/CCM.0000000000000940.</citation>
+    <PMID>25793436</PMID>
+  </reference>
+  <reference>
+    <citation>Drewry AM, Fuller BM, Bailey TC, Hotchkiss RS. Body temperature patterns as a predictor of hospital-acquired sepsis in afebrile adult intensive care unit patients: a case-control study. Crit Care. 2013 Sep 12;17(5):R200. doi: 10.1186/cc12894.</citation>
+    <PMID>24028682</PMID>
+  </reference>
+  <reference>
+    <citation>Drewry AM, Hotchkiss R, Kulstad E. Response to &quot;Body temperature correlates with mortality in COVID-19 patients&quot;. Crit Care. 2020 Jul 24;24(1):460. doi: 10.1186/s13054-020-03186-w.</citation>
+    <PMID>32709253</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 31, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sharp HealthCare</investigator_affiliation>
+    <investigator_full_name>David Willms, MD</investigator_full_name>
+    <investigator_title>Director, Clinical Care Services</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

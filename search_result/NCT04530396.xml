@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="401">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04530396</url>
+  </required_header>
+  <id_info>
+    <org_study_id>04-Gam-COVID-Vac-2020</org_study_id>
+    <nct_id>NCT04530396</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial of Efficacy, Safety, and Immunogenicity of Gam-COVID-Vac Vaccine Against COVID-19</brief_title>
+  <acronym>RESIST</acronym>
+  <official_title>Randomized Double-blind Placebo-controlled Multi-center Clinical Trial in Parallel Assignment of Efficacy, Safety, and Immunogenicity of Gam-COVID-Vac Combined Vector Vaccine in SARS-СoV-2 Infection Prophylactic Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gamaleya Research Institute of Epidemiology and Microbiology, Health Ministry of the Russian Federation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Government of the city of Moscow</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>CRO: Crocus Medical BV</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Gamaleya Research Institute of Epidemiology and Microbiology, Health Ministry of the Russian Federation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized, double-blind (blinded for the trial subject and the study physician), placebo
+      controlled, multi-center clinical trial in parallel assignment of efficacy, immunogenicity,
+      and safety of the Gam-COVID-Vac combined vector vaccine against the SARS-CoV-2-induced
+      coronavirus infection in adults in the SARS-СoV-2 infection prophylactic treatment.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Randomized, double-blind (blinded for the trial subject and the study physician), placebo
+      controlled, multi-center clinical trial in parallel assignment of efficacy, immunogenicity,
+      and safety of the Gam-COVID-Vac combined vector vaccine against the SARS-CoV-2-induced
+      coronavirus infection in adults in the SARS-СoV-2 infection prophylactic treatment.
+
+      The trial will include 40,000 volunteers aged 18+. After screening, they will be randomized
+      (3:1) into two groups - a reference group of 10,000 volunteers receiving placebo and a study
+      group of 30,000 volunteers receiving the Gam-COVID-Vac combined vector vaccine against the
+      SARS-СoV-2-induced coronavirus infection.
+
+      The trial subjects will be randomized into five age strata: 18-30, 31-40, 41-50, 51-60, and
+      60+ years.
+
+      Each subject will participate in the trial for 180±14 days after the first dose of the study
+      drug/placebo and will have one screening visit and five on-site visits to the study physician
+      during the said period. The study drug/placebo will be administered intramuscularly during
+      vaccination visits 1 and 2 (day 0 and day 21±2). Subsequent observation visits 3, 4, and 5
+      will be made on days 28±2, 42±2, and 180±14 respectively. During the observation visits,
+      vital signs will be assessed in all trial subjects and changes in the subjects' condition and
+      wellbeing compared to the previous visit will be recorded. Observation visits 3, 4, and 5 may
+      be remote, through the telemedicine consultation (TMC).
+
+      Additionally, the trial subjects will be able to have remote consultations with the physician
+      through the TMC.
+
+      Blood samples will be taken from certain subjects during the following visits to assess the
+      immunogenicity parameters listed below:
+
+      Virus-neutralizing activity (300 subjects) ×3 Interferon gamma (107 subjects) ×3 CD4 and CD8
+      cell count and ratio (50 subjects) SARS-CoV-2 glycoprotein-specific antibodies titer (9,520
+      subjects) ×3 Blood sampling will be performed on the day of injecting the first dose of the
+      study drug/placebo immediately prior to the study drug administration Blood sampling for
+      immunogenicity parameters assessment will be only carried out in specially selected study
+      centers.
+
+      Blood samples for immunogenicity parameters assessment will be taken from 9,520 trial
+      subjects. All four immunogenicity parameters may be assessed in one trial subject.
+
+      Trial subjects data will be collected using electronic case report forms and electronic
+      questionnaires to be filled by trial subjects.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 7, 2020</start_date>
+  <completion_date type="Anticipated">May 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized double-blind placebo-controlled</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>percentage of trial subjects with coronavirus disease 2019 (COVID-19) developed within 6 months after the first dose</measure>
+    <time_frame>through the whole study, an average of 180 days</time_frame>
+    <description>Demonstrate the superiority of Gam-COVID-Vac combined vector vaccine against the SARS-CoV-2-induced coronavirus infection compared to placebo, based on the percentage of trial subjects with coronavirus disease 2019 (COVID-19) developed within 6 months after the second dose of the study drug/placebo, as confirmed with the method of polymerase chain reaction (PCR)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>the severity of the clinical course of COVID-19</measure>
+    <time_frame>through the whole study, an average of 180 days</time_frame>
+    <description>Assess the efficacy of the Gam-COVID-Vac combined vector vaccine against the SARS-CoV-2-induced coronavirus compared to placebo, based on the severity of the clinical course of COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changing of antibody levels against the SARS-CoV-2 glycoprotein S</measure>
+    <time_frame>day before injecting the first dose of the study drug/placebo and 42±2 and 180±14 days after the first dose</time_frame>
+    <description>Assess the immunogenicity of the Gam-COVID-Vac combined vector vaccine against the SARS-CoV-2-induced coronavirus infection compared to placebo, based on the geometric mean titer of SARS-CoV-2 glycoprotein-specific antibodies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changing of antigen-specific cellular immunity level</measure>
+    <time_frame>the drug administration day before injecting the first dose of the study drug/placebo and 28±2 days after the first dose</time_frame>
+    <description>Describe the strength of cell-mediated immune response induced by the use of the Gam-COVID-Vac combined vector vaccine against the SARS-CoV-2-induced coronavirus infection compared to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changing of of virus neutralizing antibody titer</measure>
+    <time_frame>the drug administration day before injecting the first dose of the study drug/placebo and 42±2 days after the first dose</time_frame>
+    <description>Geometric mean virus-neutralizing antibodies titer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events in trial subjects</measure>
+    <time_frame>through the whole study, an average of 180 days</time_frame>
+    <description>Incidence of adverse events in trial subjects compared to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of adverse events in trial subjects</measure>
+    <time_frame>through the whole study, an average of 180 days</time_frame>
+    <description>Severity of adverse events in trial subjects compared to placebo</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40000</enrollment>
+  <condition>Covid19 Prevention</condition>
+  <arm_group>
+    <arm_group_label>Primary Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Gam-COVID-Vac combined vector vaccine, 0,5ml/dose+0,5 ml/dose prime-boost immunization in days 1 (component I rAd26-S) and 21(component II rAd5-S)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>placebo, 0,5ml/dose+0,5 ml/dose immunization in days 1 and 21</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Gam-COVID-Vac</intervention_name>
+    <description>vaccine for intramuscular injection</description>
+    <arm_group_label>Primary Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>placebo</intervention_name>
+    <description>placebo comparator</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Written informed consent of a subject to participate in the trial
+
+          2. Males and females aged ≥18 y.o.;
+
+          3. Negative HIV, hepatitis, and syphilis test results
+
+          4. Negative anti-SARS CoV2 IgM and IgG antibodies test carried out with the enzyme
+             immunoassay method
+
+          5. Negative COVID-2019 PCR test result at the screening visit
+
+          6. No COVID-2019 in the past medical history
+
+          7. No contact with COVID-2019 diseased persons within at least 14 days before the
+             enrollment (according to trial subjects)
+
+          8. Consent to use effective contraception methods during the trial
+
+          9. Negative urine pregnancy test at the screening visit (for child-bearing age women)
+
+         10. Negative drugs or psychostimulants urine test at the screening visit
+
+         11. Negative alcohol test at the screening visit
+
+         12. No evident vaccine-induced reactions or complications after receiving immunobiological
+             products in the past medical history
+
+         13. No acute infectious and/or respiratory diseases within at least 14 days before the
+             enrollment.
+
+        Exclusion Criteria:
+
+          1. Any vaccination/immunization within 30 days before the enrollment;
+
+          2. Steroids (except hormonal contraceptives) and/or immunoglobulins or other blood
+             products therapy not finished 30 days before the enrollment
+
+          3. Immunosuppressors therapy finished within 3 months before the enrollment
+
+          4. Pregnancy or breast-feeding
+
+          5. Acute coronary syndrome or stroke suffered less than one year before the enrollment
+
+          6. Tuberculosis, chronic systemic infections
+
+          7. Drug allergy (anaphylactic shock, Quincke's edema, polymorphic exudative eczema,
+             atopy, serum disease), hypersensitivity or allergic reaction to immunobiological
+             products, known allergic reactions to study drug components, acute exacerbation of
+             allergic diseases on the enrollment day
+
+          8. Neoplasms in the past medical history (ICD codes C00-D09)
+
+          9. Donated blood or plasma (450+ ml) within 2 months before the enrollment
+
+         10. History of splenectomy;
+
+         11. Neutropenia (absolute neutrophil count &lt;1,000/mm3), agranulocytosis, significant blood
+             loss, severe anemia (hemoglobin &lt;80 g/L), immunodeficiency in the past medical history
+             within 6 months before the enrollment
+
+         12. Active form of a disease caused by the human immunodeficiency virus, syphilis,
+             hepatitis B or C
+
+         13. Anorexia, protein deficiency of any origin
+
+         14. Big-size tattoos at the injection site (deltoid muscle area), which does not allow
+             assessing the local response to the study drug/placebo administration
+
+         15. Alcohol or drug addiction in the past medical history
+
+         16. Participation in any other interventional clinical trial
+
+         17. Any other condition that the study physician considers as a barrier to the trial
+             completion as per the protocol
+
+         18. Study center staff or other employees directly involved in the trial, or their
+             families.
+
+        If a subject has any contraindications to vaccination based on the Guidelines on Detection,
+        Investigation and Prevention, of Vaccination-induced Side Reactions (approved by the
+        Ministry of Healthcare of Russia on Apr. 12, 2019, the vaccination may be postponed for a
+        period of time specified in the document.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>111 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elena Smolyarchuk, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Study Coordinator</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Inna Dolzhikova, PhD</last_name>
+    <phone>1933001</phone>
+    <email>i.dolzhikova@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>ARCHIMED V Clinic of new medical technologies limited liability company</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Konstantin Zakharov, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah LTD</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Georgy Anikin, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medsi Group of companies joint-stock company&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Irina Shestakova, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Niarmedic Plus</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anastasia Andezhanova, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary healthcare institution of the city of Moscow &quot;City clinical hospital No. 52 of the Moscow city health Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Boris Rodionov, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, Consultation and Diagnosis Polyclinic No. 121, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elena Klimova, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, M. Konchalovsky Municipal Clinical Hospital, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tatiana Shimonova, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, M. Zhadkevich Municipal Clinical Hospital, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lola Morozova, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, Municipal Polyclinic No. 115, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tatiana Morozova, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, Municipal Polyclinic No. 2, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sergey Fitilev, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, Municipal Polyclinic No. 210, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Gratzianskaya</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, Municipal Polyclinic No. 212, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Irina Gagarina, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, Municipal Polyclinic No. 219, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Natalia Nenasheva, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, Municipal Polyclinic No. 220, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elena Nurmukhametova, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Municipal Polyclinic No. 62, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marina Rusanova, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot; city polyclinic No. 109 Of the Department of health of the city of Moscow&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Taisiya Ivanushkina, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot; city polyclinic No. 170 Of the Department of health of the city of Moscow&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Igor Sychev, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot; city polyclinic No. 36 Of the Department of health of the city of Moscow&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Irina Iskakova, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot; city polyclinic No. 46 Of the Department of health of the city of Moscow&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nadezhda Berdnikova, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot; city polyclinic No. 6 Of the Department of health of the city of Moscow&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marina Ivzits, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot; city polyclinic No. 68 Of the Department of health of the city of Moscow&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ekaterina Medunitzina, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;Diagnostic center No. 5 with polyclinic Department Of the Department of health of the city of Moscow&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tatyana Vylegzhanina, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;Diagnostic clinical center No. 1 Of the Department of health of the city of Moscow&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Natalia Shartanova, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>vector vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>adenoviral vector</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

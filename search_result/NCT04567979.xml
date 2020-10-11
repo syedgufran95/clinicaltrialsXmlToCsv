@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1763">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04567979</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HEM-3412-20-20-1</org_study_id>
+    <nct_id>NCT04567979</nct_id>
+  </id_info>
+  <brief_title>Prospective Determination of COVID-19 Infection Rate in a Chemotherapy Unit in Mexico.</brief_title>
+  <official_title>Prospective Determination of COVID-19 Infection Rate in Patients With Solid Tumors and Healthcare Workers of the Chemotherapy and Radiotherapy Unit at the Instituto Nacional de Ciencias Médicas y Nutrición Salvador.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Instituto Nacional de Medicina Genomica</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cancer patients are considered vulnerable to COVID-19 infection. During the pandemic, cancer
+      patients may need to continue their regular treatment of chemotherapy and / or radiotherapy
+      and therefore must visit a hospital unit. As such, they may be at risk for SARS-CoV-2
+      infection by means of close contact to other patients and health care workers. Hospitals may
+      implement policies to identify symptomatic subjects and limit their access to the
+      chemotherapy / radiotherapy unit. However, asymptomatic COVID-19 positive patients may escape
+      these filters and potentially be contagious to other patients and their health-related
+      workers that care for other several patients. Therefore, there is a real risk of an outbreak
+      that affects a particularly fragile patient population. Patients and their doctors need to
+      know what is the risk associated to visiting a chemotherapy unit in order to decide if the
+      risk outweighs the benefits of cancer treatment in their particular case. To date, this risk
+      is unknown. The study will test patients and health care workers for COVID-19 infection
+      during the peak of the pandemic in a chemotherapy unit in Mexico in order to determine this
+      risk.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this is prospective cohort, patients with solid tumors and healthcare workers of the
+      chemotherapy and radiotherapy unit at our center will be followed with a daily digital survey
+      and optionally with biweekly PCR tests for SARS-CoV-2. People with symptoms and / or with a
+      positive PCR test for SARS-CoV-2 will be notified and recommendations according to clinical
+      state will be emitted.
+
+      Hypothesis: COVID-19 infection rate among patients with solid tumors treated with
+      chemotherapy and / or radiotherapy will be less than 5% during the pandemic period.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 11, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 infection rate in patients with solid tumors.</measure>
+    <time_frame>From June 2020 to September 2020.</time_frame>
+    <description>Determination of SARS-CoV-2 infection rate among patients with solid tumors treated with chemotherapy and / or radiotherapy during the pandemic period.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Integration of a cohort of patients with solid tumors receiving oncological treatment.</measure>
+    <time_frame>4 months</time_frame>
+    <description>Identification of patients with solid tumors receiving chemotherapy and / or radiotherapy in our center during the COVID-19 pandemic to get informed consent.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Daily digital follow-up of new-onset respiratory symptoms in the cohort of patients with solid tumors.</measure>
+    <time_frame>4 months</time_frame>
+    <description>To determine the rate of new-onset respiratory symptoms suggestive of COVID-19 among the cohort of patients with solid tumors through a daily digital survey.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SARS-CoV-2 infection rate in the cohort of patients with solid tumors and respiratory symptoms.</measure>
+    <time_frame>4 months</time_frame>
+    <description>To determine the SARS-CoV-2 infection rate in the cohort of patients with solid tumors and respiratory symptoms through a PCR test for SARS-CoV-2.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SARS-CoV-2 infection rate in asymptomatic patients with solid tumors.</measure>
+    <time_frame>4 months</time_frame>
+    <description>To determine the SARS-CoV-2 infection rate in asymptomatic patients with solid tumors through a biweekly PCR test for SARS-CoV-2.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Determination of clinical features and outcomes of cancer patients infected with SARS-CoV-2 .</measure>
+    <time_frame>4 months</time_frame>
+    <description>Determination of demographics, clinical and outcomes of cancer patients infected with SARS-CoV-2.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Integration of a cohort of healthcare workers.</measure>
+    <time_frame>4 months</time_frame>
+    <description>Identification of healthcare workers that treat patients with solid tumors in the chemotherapy and radiotherapy unit at our center to get informed consent.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Daily digital follow-up of new-onset respiratory symptoms in the cohort of healthcare workers.</measure>
+    <time_frame>4 months</time_frame>
+    <description>To determine the rate of new-onset respiratory symptoms suggestive of COVID-19 between the cohort of healthcare workers through a daily digital survey.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SARS-CoV-2 infection rate in the cohort of health-related workers and respiratory symptoms.</measure>
+    <time_frame>4 months</time_frame>
+    <description>To determine the SARS-CoV-2 infection rate in the cohort of healthcare workers with respiratory symptoms through a PCR test for SARS-CoV-2.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>SARS-CoV-2 infection rate in asymptomatic healthcare workers.</measure>
+    <time_frame>4 months</time_frame>
+    <description>To determine the SARS-CoV-2 infection rate in asymptomatic healthcare workers through a biweekly PCR test for SARS-CoV-2.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Determination of past infection rate in asymtomatic people through SARS-CoV-2 IgG antibodies detection.</measure>
+    <time_frame>4 months</time_frame>
+    <description>Determination of past infection rate in both cohorts (patients with solid tumors and health-related workers) through IgG antibodies detection at the beginning and at the end of the trial.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Register of oncological patients with solid tumors diagnosed with COVID-19.</measure>
+    <time_frame>4 months</time_frame>
+    <description>To create a register of oncological patients with solid tumors diagnosed with COVID-19.</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">149</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cancer</condition>
+  <condition>Tumor</condition>
+  <arm_group>
+    <arm_group_label>Patients with solid tumors</arm_group_label>
+    <description>Patients with solid tumors under chemotherapy and / or radiotherapy treatment at our center.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthcare workers</arm_group_label>
+    <description>Healthcare workers at the chemotherapy and radiotherapy unit in our center.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Plasma and serum.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with cancer and solid tumors receiving treatment at the chemotherapy and
+        radiotherapy unit, and health-related workers treating these patients.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with solid tumors receiving active oncological treatment (chemotherapy, or
+             radiotherapy or biologic therapy) at our center.
+
+          -  Age: no limit
+
+          -  Gender: men and women.
+
+          -  Health-related worker treating patients with solid tumors at the chemotherapy and
+             radiotherapy unit at our center.
+
+          -  People who sign an informed consent.
+
+        Exclusion Criteria:
+
+          -  Patients with an hematologic cancer.
+
+          -  Patients with cancer under surveillance or without active oncological treatment, or
+             receiving treatment in another center.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fidel D Huitzil Meléndez, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán</name>
+      <address>
+        <city>Mexico City</city>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <link>
+    <url>http://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020</url>
+    <description>World Health Organization. Director-General's remarks at the media briefing on 2019-nCoV.</description>
+  </link>
+  <link>
+    <url>https://www.asco.org/asco-coronavirus-information</url>
+    <description>ASCO official guidelines for SARS-CoV-2 among cancer patients</description>
+  </link>
+  <link>
+    <url>https://www.esmo.org/covid-19-and-cancer</url>
+    <description>ESMO official guidelines for SARS-CoV-2 among cancer patients</description>
+  </link>
+  <results_reference>
+    <citation>Onder G, Rezza G, Brusaferro S. Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy. JAMA. 2020 May 12;323(18):1775-1776. doi: 10.1001/jama.2020.4683.</citation>
+    <PMID>32203977</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhang L, Zhu F, Xie L, Wang C, Wang J, Chen R, Jia P, Guan HQ, Peng L, Chen Y, Peng P, Zhang P, Chu Q, Shen Q, Wang Y, Xu SY, Zhao JP, Zhou M. Clinical characteristics of COVID-19-infected cancer patients: a retrospective case study in three hospitals within Wuhan, China. Ann Oncol. 2020 Jul;31(7):894-901. doi: 10.1016/j.annonc.2020.03.296. Epub 2020 Mar 26.</citation>
+    <PMID>32224151</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Yu J, Ouyang W, Chua MLK, Xie C. SARS-CoV-2 Transmission in Patients With Cancer at a Tertiary Care Hospital in Wuhan, China. JAMA Oncol. 2020 Jul 1;6(7):1108-1110. doi: 10.1001/jamaoncol.2020.0980.</citation>
+    <PMID>32211820</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liang W, Guan W, Chen R, Wang W, Li J, Xu K, Li C, Ai Q, Lu W, Liang H, Li S, He J. Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China. Lancet Oncol. 2020 Mar;21(3):335-337. doi: 10.1016/S1470-2045(20)30096-6. Epub 2020 Feb 14.</citation>
+    <PMID>32066541</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Desai A, Sachdeva S, Parekh T, Desai R. COVID-19 and Cancer: Lessons From a Pooled Meta-Analysis. JCO Glob Oncol. 2020 Apr;6:557-559. doi: 10.1200/GO.20.00097.</citation>
+    <PMID>32250659</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>You B, Ravaud A, Canivet A, Ganem G, Giraud P, Guimbaud R, Kaluzinski L, Krakowski I, Mayeur D, Grellety T, Lotz JP. The official French guidelines to protect patients with cancer against SARS-CoV-2 infection. Lancet Oncol. 2020 May;21(5):619-621. doi: 10.1016/S1470-2045(20)30204-7. Epub 2020 Mar 25.</citation>
+    <PMID>32220659</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sidaway P. COVID-19 and cancer: what we know so far. Nat Rev Clin Oncol. 2020 Jun;17(6):336. doi: 10.1038/s41571-020-0366-2.</citation>
+    <PMID>32265531</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Burki TK. Cancer guidelines during the COVID-19 pandemic. Lancet Oncol. 2020 May;21(5):629-630. doi: 10.1016/S1470-2045(20)30217-5. Epub 2020 Apr 2.</citation>
+    <PMID>32247319</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Marijnen CAM, Peters FP, Rödel C, Bujko K, Haustermans K, Fokas E, Glynne-Jones R, Valentini V, Spindler KG, Guren MG, Maingon P, Calvo FA, Pares O, Glimelius B, Sebag-Montefiore D. International expert consensus statement regarding radiotherapy treatment options for rectal cancer during the COVID 19 pandemic. Radiother Oncol. 2020 Jul;148:213-215. doi: 10.1016/j.radonc.2020.03.039. Epub 2020 Apr 2.</citation>
+    <PMID>32342861</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Verity R, Okell LC, Dorigatti I, Winskill P, Whittaker C, Imai N, Cuomo-Dannenburg G, Thompson H, Walker PGT, Fu H, Dighe A, Griffin JT, Baguelin M, Bhatia S, Boonyasiri A, Cori A, Cucunubá Z, FitzJohn R, Gaythorpe K, Green W, Hamlet A, Hinsley W, Laydon D, Nedjati-Gilani G, Riley S, van Elsland S, Volz E, Wang H, Wang Y, Xi X, Donnelly CA, Ghani AC, Ferguson NM. Estimates of the severity of coronavirus disease 2019: a model-based analysis. Lancet Infect Dis. 2020 Jun;20(6):669-677. doi: 10.1016/S1473-3099(20)30243-7. Epub 2020 Mar 30. Erratum in: Lancet Infect Dis. 2020 Apr 15;:. Lancet Infect Dis. 2020 May 4;:.</citation>
+    <PMID>32240634</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Qu J, Wu C, Li X, Zhang G, Jiang Z, Li X, Zhu Q, Liu L. Profile of IgG and IgM antibodies against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Clin Infect Dis. 2020 Apr 27. pii: ciaa489. doi: 10.1093/cid/ciaa489. [Epub ahead of print]</citation>
+    <PMID>32337590</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Guo L, Ren L, Yang S, Xiao M, Chang, Yang F, Dela Cruz CS, Wang Y, Wu C, Xiao Y, Zhang L, Han L, Dang S, Xu Y, Yang QW, Xu SY, Zhu HD, Xu YC, Jin Q, Sharma L, Wang L, Wang J. Profiling Early Humoral Response to Diagnose Novel Coronavirus Disease (COVID-19). Clin Infect Dis. 2020 Jul 28;71(15):778-785. doi: 10.1093/cid/ciaa310.</citation>
+    <PMID>32198501</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</investigator_affiliation>
+    <investigator_full_name>David Huitzil m</investigator_full_name>
+    <investigator_title>Médico Especialista A</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

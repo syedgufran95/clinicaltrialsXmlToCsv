@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2058">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04570189</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Auscul-X</org_study_id>
+    <nct_id>NCT04570189</nct_id>
+  </id_info>
+  <brief_title>Evaluating Auscul-X, a Touch Free Digital Stethoscope</brief_title>
+  <official_title>Evaluating Auscul-X, a Touch Free Digital Stethoscope, for Physical Distancing to Protect Patients and Health Care Professionals From COVID-19 (The Auscul-X Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AusculSciences Canada Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ottawa Heart Institute Research Corporation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AusculSciences Canada Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Auscul-X a touch free digital stethoscope will permit physical distancing of healthcare
+      providers while maintaining the ability to auscultate patients from a safe distance (over 10
+      feet away)
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Auscul-X System (AusculSciences Canada, Inc.), is novel, professional grade, touch free,
+      multichannel, touch-free electronic stethoscope with disposable elements designed to protect
+      HCPs from exposure to infection diseases by allowing them to auscultate patients from a safe
+      distance (10 feet away). The sensors can stay in place and enable providers to listen
+      on-demand to a patient's heart and lungs over an extended period of time. This practice of
+      distancing in the workplace is a key CDC and PHAC recommendation to protect the frontline HCP
+      from exposure risk to the highly contagious COVID- 19 virus and other communicable diseases.
+      The Auscul-X not only has the potential to better protect HCPs from infection, but also
+      eliminates the potential transmission of pathogens through the use of conventional
+      stethoscopes. In addition, the Auscul-X allows multiple HCPs to listen to the patient's heart
+      and lung sounds simultaneously
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">January 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility and use of Auscul-X for listening to heart and lung sounds will be assessed by ICU clinicians to determine Auscul-X is at least equivalent to a digital stethoscope using a Likert scale for comparison.</measure>
+    <time_frame>up to 1 Year</time_frame>
+    <description>To determine the feasibility of implementing Auscul-X in the critical/intensive care environment (ICCU and CSICU).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The measurement for acoustic quality in high risk settings determined as clarity and loudness by means of a Likert scale for comparison of Auscul-X and digital stethoscopes by clinicians.</measure>
+    <time_frame>up to 1 year</time_frame>
+    <description>Determine if the quality of the real-time heart and lung sounds (Likert scale) for the Auscul-X will be similar to the conventional stethoscope and digital electronic stethoscope in the ICCU and CSICU (Appendix A).
+Determine if the acoustic recordings taken as part of Phase II for the Auscul-X and conventional electronic stethoscope are similar (as evaluated by independent blinded cardiologists and respirologists using a Likert scale for acoustic and diagnostic quality (Appendix B)).
+Determine if the acoustic recordings for the Auscul-X and conventional electronic stethoscope provide similar signal quality using objective acoustic metrics (e.g. signal to noise ratios, etc.) (Phase II only)</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Phase I</arm_group_label>
+    <description>Twenty subjects, 10 unventilated and 10 ventilated patients, will undergo clinical auscultation of the heart and lungs with the Auscul-X, a conventional stethoscope and an electronic stethoscope (Littmann 3200).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II</arm_group_label>
+    <description>Twenty subjects, 10 unventilated and 10 ventilated patients, will undergo clinical auscultation of the heart and lungs with an Auscul-X with wireless capability, a conventional stethoscope and an electronic stethoscope (Littmann 3200). Phase II shall begin upon appropriate Health Canada approvals for the Auscul-X with wireless capability.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Auscul-X</intervention_name>
+    <description>The Auscul-X System (AusculSciences Canada, Inc.), is novel, professional grade, touch free, multichannel, touch-free electronic stethoscope with disposable elements designed to protect HCPs from exposure to infection diseases by allowing them to auscultate patients from a safe distance (10 feet away). The sensors can stay in place and enable providers to listen on-demand to a patient's heart and lungs over an extended period of time. This practice of distancing in the workplace is a key CDC and PHAC recommendation to protect the frontline HCP from exposure risk to the highly contagious COVID- 19 virus and other communicable diseases. The Auscul-X not only has the potential to better protect HCPs from infection, but also eliminates the potential transmission of pathogens through the use of conventional stethoscopes. In addition, the Auscul-X allows multiple HCPs to listen to the patient's heart and lung sounds simultaneously</description>
+    <arm_group_label>Phase I</arm_group_label>
+    <arm_group_label>Phase II</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study will recruit 40 (Phase 1 = 20 patients, Phase 2 = 20 patients) adult participants
+        age 18 years old, who are under care in the Intensive Cardiac Care Unit (ICCU) or Cardiac
+        Surgical Intensive Care Unit (CSICU) at the University of Ottawa Heart Institute.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  &gt;/=18 years old
+
+          -  Admitted to ICCU and CSICU at UOHI
+
+        Exclusion Criteria:
+
+          -  Age &lt; 18 years old
+
+          -  Medically Unstable
+
+          -  Chest wall deformity or wounds in adhesive application areas
+
+          -  Unwillingness or inability to provide Informed Consent or to comply with protocol
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Benjamin Chow, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ottawa Heart Institue Research Foundation</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Melissa Spero, CRN, CCRP</last_name>
+    <phone>613 763 0088</phone>
+    <phone_ext>107</phone_ext>
+    <email>melissa@ausculsciences.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>John Phillips, BSc.</last_name>
+    <phone>613-763-0088</phone>
+    <email>john@ausculsciences.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The University of Ottawa Heart Institute</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1Y 4W7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Farrah Ahmed, BSc.</last_name>
+      <phone>613 696 7000</phone>
+      <phone_ext>12697</phone_ext>
+      <email>fahmed@ottawaheart.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Chow, MD,FRCPC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aun Yeong Chong, BSc(Med),MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

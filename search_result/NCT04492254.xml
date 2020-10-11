@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="891">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492254</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TRI-08892</org_study_id>
+    <secondary_id>2020-003125-39</secondary_id>
+    <nct_id>NCT04492254</nct_id>
+  </id_info>
+  <brief_title>Early Prophylactic Low-molecular-weight Heparin (LMWH) in Symptomatic COVID-19 Positive Patients</brief_title>
+  <acronym>ETHIC</acronym>
+  <official_title>Early Thromboprophylaxis in COVID-19 (ETHIC Trial): an Open Label, Randomized Phase IIIb Trial of Community-based (LMWH) Versus Standard of Care in COVID-19 Positive Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Thrombosis Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sanofi</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Thrombosis Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evidence has shown that COVID-19 infections can lead to an increased risk of blood clots.
+      These blood clots can lead to individuals being admitted to hospital, or, unfortunately in
+      severe cases, death. Enoxaparin is a blood-thinning drug which has been used by doctors and
+      nurses in hospitals for many years to prevent the thickening of blood which may lead to a
+      clot. It is easier for doctors to prevent new blood clots from forming than treating existing
+      blood clots.
+
+      Currently, there are no treatments for COVID-19. There is an urgent need to find a safe and
+      effective treatment to prevent worsening of the disease that may lead to hospital admission
+      and/or death. The ETHIC (Early Thromboprophylaxis in COVID-19) study aims to find out if
+      giving enoxaparin in an early stage of the COVID-19 disease can prevent individuals being
+      admitted to hospital and/or death. The study will take place in approximately 8 to 10
+      countries, in approximately 30 to 50 centres.
+
+      Patients will be allowed to take part if they have had a confirmed COVID-19 infection, are ≥
+      55 years of age and have at least two of the following additional risk factors; age ≥ 70
+      years, body mass index &gt; 25 kg/m2, chronic obstructive pulmonary disease, diabetes,
+      cardiovascular disease, or corticosteroid use.
+
+      Half the patients in the study will receive the blood-thinning drug enoxaparin for three
+      weeks, and half will receive no treatment. Individuals will be randomly allocated to one of
+      these groups. After 21 days, the number of patients in each group who were either admitted to
+      hospital, or died, will be compared. The number of patients in each group who developed a
+      blood clot (venous thromboembolism) will also be compared. Further comparisons will be made
+      at both 50 and 90 days after the beginning of the study.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open label randomized controlled trial of symptomatic individuals with confirmed
+      COVID-19 in a community setting.
+
+      Justification: There is currently no standard of care treatment for Covid-19.
+
+      Upon enrolment into the study, patients will be randomised to receive either enoxaparin (40
+      mg once per day if &lt; 100 kg, 40 mg twice per day if ≥ 100 kg) or the current standard of care
+      (no enoxaparin) for three weeks (21 days). Randomisation must occur within 5 days of the
+      SARS-CoV-2 test. Data will be collected at baseline and 21 days, with further assessments at
+      50 and 90 days.
+
+      Participants randomised to enoxaparin will receive pre-loaded syringes as part of the study,
+      and information regarding self-administration will be provided by the sponsor. Participants
+      in the control arm of this study will receive no treatment (current standard of care).
+
+      Screening Phase:
+
+      Investigator sites will be selected to represent community care in each country (from general
+      practice/office based care settings, testing centres and hospitals) and invited to
+      participate. All individuals satisfying the inclusion/exclusion criteria will be considered
+      for enrolment and their medical history checked to exclude any patients not suitable.
+
+      Participants will be provided with a patient information sheet and consent form (PISCF),
+      either paper or an electronic version. All participants must provide informed consent by
+      reviewing and discussing the PISCF and by completing and signing the consent form (paper
+      version or the electronic version). Once informed consent has been obtained, data related to
+      baseline will be collected from a review of the participants' medical records and entered
+      into the electronic data capture system.
+
+      Treatment Phase:
+
+      Data related to clinical outcomes for both the primary outcome (composite of hospitalisation
+      and/or death) and secondary safety outcome (major bleeding) will be measured at 21 days. This
+      time point will be used as a marker for collection of all data from the preceding period.
+
+      Safety and Monitoring Phase:
+
+      Data related to all outcomes will be again measured at 50 days. This time point will be used
+      as a marker for collection of all data from the preceding period to evaluate the incidence of
+      bleeding in all participants.
+
+      End of Study and Follow-up Phase:
+
+      The outcomes of death and hospitalisation will be further recorded 90 days after
+      randomisation. This time point will be used as a marker for collection of all information
+      from the interim period. The end of the trial will occur immediately following the last
+      visit/data item of the last patient undergoing the trial. The aim of data collection will be
+      to accurately capture all planned and unplanned visits, interruptions to treatment and
+      events.
+
+      In case no patient data have been recorded in the participant's medical records at the site
+      during the months following the last data entry, a follow-up phone contact will be made by
+      the site and documented to verify that all events are being captured and participants are not
+      lost to follow up.
+
+      The schedule of assessments is as follows: Reference: Section 6.5 of the protocol. Pages 27
+      to 29.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2020</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open label, multicentre, multi-national, randomized controlled trial.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hospital Admission</measure>
+    <time_frame>21 days</time_frame>
+    <description>Hospital admission including:
+Pneumonia Acute Respiratory distress syndrome Admission to intensive care unit (ICU) Mechanical ventilation (MV)/intubation requirement Continuous positive airway pressure (CPAP)/Non-invasive ventilation Extracorporeal membrane oxygenation (ECMO)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hospital Admission</measure>
+    <time_frame>50 days</time_frame>
+    <description>Hospital admission including:
+Pneumonia Acute Respiratory distress syndrome Admission to intensive care unit (ICU) Mechanical ventilation (MV)/intubation requirement Continuous positive airway pressure (CPAP)/Non-invasive ventilation Extracorporeal membrane oxygenation (ECMO)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hospital Admission</measure>
+    <time_frame>90 days</time_frame>
+    <description>Hospital admission including:
+Pneumonia Acute Respiratory distress syndrome Admission to intensive care unit (ICU) Mechanical ventilation (MV)/intubation requirement Continuous positive airway pressure (CPAP)/Non-invasive ventilation Extracorporeal membrane oxygenation (ECMO)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Death</measure>
+    <time_frame>21 days</time_frame>
+    <description>All-cause Cardiovascular Non-Cardiovascular Specific causes Fatal bleed</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Death</measure>
+    <time_frame>50 days</time_frame>
+    <description>All-cause Cardiovascular Non-Cardiovascular Specific causes Fatal bleed</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Death</measure>
+    <time_frame>90 days</time_frame>
+    <description>All-cause Cardiovascular Non-Cardiovascular Specific causes Fatal bleed</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Bleeding (as defined by ISTH criteria)</measure>
+    <time_frame>21 and 50 days</time_frame>
+    <description>Frequency Location Treatment (transfusion and units of blood products transfused) Severity (classified as major, clinically relevant non-major and minor)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diagnosis of VTE</measure>
+    <time_frame>21, 50 and 90 days</time_frame>
+    <description>Deep Vein Thrombosis (DVT) or Pulmonary Embolism (PE)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1370</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Enoxaparin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(40 mg o/d if &lt; 100 kg, 40 mg b/d if ≥ 100 kg)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Current standard of care (no enoxaparin)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Enoxaparin</intervention_name>
+    <description>The treatment provided will be enoxaparin sodium 40mg/0.4 mL. All doses will be provided in pre-filled, single-dose syringes for subcutaneous injection.</description>
+    <arm_group_label>Enoxaparin</arm_group_label>
+    <other_name>Lovenox/Clexane</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Signed Informed consent
+
+          -  Confirmed COVID-19 (i.e. symptoms + positive test for SARS-CoV-2)
+
+          -  Male or female, age ≥ 55 years
+
+          -  At least two of the following additional risk factors:
+
+        Age ≥ 70 years Body mass index &gt; 25 kg/m2 Chronic obstructive pulmonary disease (COPD)*
+        Diabetes* Cardiovascular disease* Corticosteroid use
+
+        *Defined as any disease requiring medical intervention or treatment.
+
+        Exclusion Criteria:
+
+          -  Contraindications to unfractionated heparin or LMWH
+
+          -  Recent (&lt;48 hours) or planned spinal or epidural anesthesia or puncture, PCI or
+             thrombolytic therapy within the preceding 24 hours
+
+          -  Increased risk for bleeding complications
+
+          -  Pregnant women
+
+          -  Severe renal impairment (GFR &lt; 30 mL/min)
+
+          -  Receiving any antiplatelet therapy (with the exception of low dose (≤100mg) aspirin)
+             or anticoagulant therapy (e.g. VKA, DOAC)
+
+          -  Patients participating in an interventional study that is outside the purview of TRI
+             sponsored studies.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hilary Vitkus</last_name>
+    <phone>07795833510</phone>
+    <email>hvitkus@cyteglobal.com</email>
+  </overall_contact>
+  <reference>
+    <citation>Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia. J Thromb Haemost. 2020 Apr;18(4):844-847. doi: 10.1111/jth.14768. Epub 2020 Mar 13.</citation>
+    <PMID>32073213</PMID>
+  </reference>
+  <reference>
+    <citation>Spiezia L, Boscolo A, Poletto F, Cerruti L, Tiberio I, Campello E, Navalesi P, Simioni P. COVID-19-Related Severe Hypercoagulability in Patients Admitted to Intensive Care Unit for Acute Respiratory Failure. Thromb Haemost. 2020 Jun;120(6):998-1000. doi: 10.1055/s-0040-1710018. Epub 2020 Apr 21.</citation>
+    <PMID>32316063</PMID>
+  </reference>
+  <reference>
+    <citation>Escher R, Breakey N, Lämmle B. Severe COVID-19 infection associated with endothelial activation. Thromb Res. 2020 Jun;190:62. doi: 10.1016/j.thromres.2020.04.014. Epub 2020 Apr 15.</citation>
+    <PMID>32305740</PMID>
+  </reference>
+  <reference>
+    <citation>Tang N, Bai H, Chen X, Gong J, Li D, Sun Z. Anticoagulant treatment is associated with decreased mortality in severe coronavirus disease 2019 patients with coagulopathy. J Thromb Haemost. 2020 May;18(5):1094-1099. doi: 10.1111/jth.14817. Epub 2020 Apr 27.</citation>
+    <PMID>32220112</PMID>
+  </reference>
+  <reference>
+    <citation>Peng YD, Meng K, Guan HQ, Leng L, Zhu RR, Wang BY, He MA, Cheng LX, Huang K, Zeng QT. [Clinical characteristics and outcomes of 112 cardiovascular disease patients infected by 2019-nCoV]. Zhonghua Xin Xue Guan Bing Za Zhi. 2020 Jun 24;48(6):450-455. doi: 10.3760/cma.j.cn112148-20200220-00105. Chinese.</citation>
+    <PMID>32120458</PMID>
+  </reference>
+  <reference>
+    <citation>Lighter J, Phillips M, Hochman S, Sterling S, Johnson D, Francois F, Stachel A. Obesity in Patients Younger Than 60 Years Is a Risk Factor for COVID-19 Hospital Admission. Clin Infect Dis. 2020 Jul 28;71(15):896-897. doi: 10.1093/cid/ciaa415.</citation>
+    <PMID>32271368</PMID>
+  </reference>
+  <reference>
+    <citation>Verity R, Okell LC, Dorigatti I, Winskill P, Whittaker C, Imai N, Cuomo-Dannenburg G, Thompson H, Walker PGT, Fu H, Dighe A, Griffin JT, Baguelin M, Bhatia S, Boonyasiri A, Cori A, Cucunubá Z, FitzJohn R, Gaythorpe K, Green W, Hamlet A, Hinsley W, Laydon D, Nedjati-Gilani G, Riley S, van Elsland S, Volz E, Wang H, Wang Y, Xi X, Donnelly CA, Ghani AC, Ferguson NM. Estimates of the severity of coronavirus disease 2019: a model-based analysis. Lancet Infect Dis. 2020 Jun;20(6):669-677. doi: 10.1016/S1473-3099(20)30243-7. Epub 2020 Mar 30. Erratum in: Lancet Infect Dis. 2020 Apr 15;:. Lancet Infect Dis. 2020 May 4;:.</citation>
+    <PMID>32240634</PMID>
+  </reference>
+  <reference>
+    <citation>Banerjee A, Pasea L, Harris S, Gonzalez-Izquierdo A, Torralbo A, Shallcross L, Noursadeghi M, Pillay D, Sebire N, Holmes C, Pagel C, Wong WK, Langenberg C, Williams B, Denaxas S, Hemingway H. Estimating excess 1-year mortality associated with the COVID-19 pandemic according to underlying conditions and age: a population-based cohort study. Lancet. 2020 May 30;395(10238):1715-1725. doi: 10.1016/S0140-6736(20)30854-0. Epub 2020 May 12.</citation>
+    <PMID>32405103</PMID>
+  </reference>
+  <reference>
+    <citation>Schulman S, Kearon C; Subcommittee on Control of Anticoagulation of the Scientific and Standardization Committee of the International Society on Thrombosis and Haemostasis. Definition of major bleeding in clinical investigations of antihemostatic medicinal products in non-surgical patients. J Thromb Haemost. 2005 Apr;3(4):692-4.</citation>
+    <PMID>15842354</PMID>
+  </reference>
+  <reference>
+    <citation>Kaatz S, Ahmad D, Spyropoulos AC, Schulman S; Subcommittee on Control of Anticoagulation. Definition of clinically relevant non-major bleeding in studies of anticoagulants in atrial fibrillation and venous thromboembolic disease in non-surgical patients: communication from the SSC of the ISTH. J Thromb Haemost. 2015 Nov;13(11):2119-26.</citation>
+    <PMID>26764429</PMID>
+  </reference>
+  <reference>
+    <citation>Day M. Covid-19: four fifths of cases are asymptomatic, China figures indicate. BMJ. 2020 Apr 2;369:m1375. doi: 10.1136/bmj.m1375.</citation>
+    <PMID>32241884</PMID>
+  </reference>
+  <reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16.</citation>
+    <PMID>32192578</PMID>
+  </reference>
+  <reference>
+    <citation>Mousavi S, Moradi M, Khorshidahmad T, Motamedi M. Anti-Inflammatory Effects of Heparin and Its Derivatives: A Systematic Review. Adv Pharmacol Sci. 2015;2015:507151. doi: 10.1155/2015/507151. Epub 2015 May 12. Review.</citation>
+    <PMID>26064103</PMID>
+  </reference>
+  <reference>
+    <citation>Proschan MA. Two-stage sample size re-estimation based on a nuisance parameter: a review. J Biopharm Stat. 2005;15(4):559-74.</citation>
+    <PMID>16022163</PMID>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>July 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Low Molecular Weight Heparin</keyword>
+  <keyword>Enoxaparin</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Enoxaparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

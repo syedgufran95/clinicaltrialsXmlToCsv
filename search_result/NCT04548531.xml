@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2687">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04548531</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020P001579-2</org_study_id>
+    <nct_id>NCT04548531</nct_id>
+  </id_info>
+  <brief_title>Engaging Patients in Colon Cancer Screening Decisions During COVID-19</brief_title>
+  <official_title>Engaging Patients in Colon Cancer Screening Decisions During COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Patient-Centered Outcomes Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of the study is to examine whether a shared decision making intervention improves
+      decision making about colon cancer screening for patients who had their colonoscopy delayed
+      or postponed due to the COVID pandemic. Eligible patients (n=800) will be randomly assigned
+      to either the intervention or control arm. A subset will be surveyed about 6 weeks post
+      intervention to measure shared decision making, their intention to follow through with
+      screening, and their decisional conflict. Study staff will conduct medical chart review to
+      track receipt of colon cancer screening within 6 months. The statistician will test whether
+      patients in the intervention arm report more shared decision making, less decisional
+      conflict, higher intention to follow through on screening and have higher screening rates
+      compared to those in the control arm.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of the study is to examine whether a shared decision making intervention improves
+      decision making about colon cancer screening for patients who had their colonoscopy delayed
+      or postponed due to the COVID pandemic. Eligible patient (n=800) will randomly assigned to
+      either the intervention or control arm. A subset will be surveyed about 6 weeks post
+      intervention to determine the extent to which they report shared decision making, their
+      intention to follow through with screening, and their decisional conflict. Study staff will
+      also conduct medical chart review to track receipt of colon cancer screening within 6 months.
+
+      Intervention arm: In this arm, patients will get a shared decision making information sheet
+      in the mail that describes three screening options: (1) schedule next available colonoscopy,
+      (2) switch to a stool-based test, and (3) delay colonoscopy for a year. Study staff trained
+      in decision coaching will follow up with patients to help them select an option and support
+      implementation.
+
+      Control arm: This arm will be a usual care arm. The gastroenterology department department
+      has schedulers calling patients and texting patients to schedule their procedure.
+
+      All 800 patients will be followed for their cancer screening outcomes, and a subset n=460 or
+      230 in each arm will be randomly selected to receive the survey.
+
+      Study staff who prepare the intervention mailing and the surveys will not be blinded to the
+      study arm. The staff who enter the data from the paper surveys and who conduct chart review
+      to collect screening will be blinded to the assignment. The statistician analyzing the
+      results will also be blinded to the assignment.
+
+      The following hypotheses will be evaluated using an intention to treat approach, so patients
+      will be analyzed based on their assigned arm.
+
+      Hypothesis 1: Compared to the control group, patients in intervention arm will report higher
+      shared decision making (primary outcome).
+
+      Hypothesis 2: Compared to the control group, patients in the intervention arm will have (2a)
+      stronger intention to follow through with colon cancer screening (whether colonoscopy,
+      stool-based test or other approach) and (2b) will be more likely to have a screening test
+      within 6 months.
+
+      Hypothesis 3: Compared to the control group, patients in the intervention arm will have less
+      decisional conflict (SURE score).
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">September 10, 2020</start_date>
+  <completion_date type="Anticipated">May 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Two-armed randomized control trial</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Patients will not be given any information on their assigned arm. Statistician will be blinded to the assignment when analyzing the results.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Shared Decision Making (SDM) Process Scale Score</measure>
+    <time_frame>6 weeks after intervention</time_frame>
+    <description>short patient reported scale asks patients about discussion of options, pros and cons of colonoscopy and discussion of patients' preferences. Total scores range from 0-4 with higher scores indicating higher shared decision making.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Decisional Conflict (SURE scale)</measure>
+    <time_frame>6 weeks after intervention</time_frame>
+    <description>the 4-item version of the decisional conflict scale, total score ranges from 0-4 with greater scores indicating less decisional conflict.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient's preferred approach to screening</measure>
+    <time_frame>6 weeks after intervention</time_frame>
+    <description>One item will assess patients' preferred approach to screening (with responses of colonoscopy, stool card test, no screening, not sure).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intention to screen</measure>
+    <time_frame>6 weeks after intervention</time_frame>
+    <description>One item will assess patients' intention to follow through with their preferred approach on a 5-point scale from not at all likely to extremely likely.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Colon cancer screening rate</measure>
+    <time_frame>6 months after randomization</time_frame>
+    <description>Percentage of patients who had completed colon cancer screening test</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Colon Cancer</condition>
+  <arm_group>
+    <arm_group_label>Usual Care Arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This arm will be a usual care arm. Patients may call to schedule a colonoscopy or other tests as desired.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Shared Decision Making Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is the intervention arm. Patients will receive a shared decision making information sheet in the mail and will be able to receive decision coaching from study staff to support selection of an option if desired.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Shared Decision Making</intervention_name>
+    <description>The decision aid is a paper information sheet presenting the pros and cons of three screening options (colonoscopy, stool-based tests, and postponing cancer screening until next year).
+The decision coaching is a structured interview to help patients clarify their preference for screening test and to support them in implementation (whether scheduling colonoscopy, ordering stool test or seeking additional advice from specialist).</description>
+    <arm_group_label>Shared Decision Making Arm</arm_group_label>
+    <other_name>Decision aid</other_name>
+    <other_name>Decision coaching</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adults, age 45-75
+
+          -  Had screening or surveillance colonoscopy delayed or cancelled from March-June 2020
+
+        Exclusion Criteria:
+
+          -  Diagnostic colonoscopy
+
+          -  High risk for colorectal cancer as indicated by 1 year follow up schedule
+
+          -  Prior history of colon cancer
+
+          -  Unable to read or write in English or Spanish
+
+          -  Have already scheduled or completed a colonoscopy since restrictions were lifted
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Karen Sepucha, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Karen Sepucha</investigator_full_name>
+    <investigator_title>Director of Health Decision Sciences Center</investigator_title>
+  </responsible_party>
+  <keyword>Shared Decision Making</keyword>
+  <keyword>Colon Cancer Screening</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colonic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Yes To promote research replicability, transparency and future use of the data, de-identified data sets of the patient survey data will be created and will be available, by request, to outside researchers.
+After the main manuscripts have been published, de-identified data sets will also be deposited in an open access service such as, ICPSR (https://www.icpsr.umich.edu/icpsrweb/). Before a dataset is made available for access, ICPSR completes a detailed review of all datasets to assess disclosure risk. If necessary, ICPSR modifies data to reduce disclosure risk or limits access to datasets for which modifying the data would substantially limit their utility or the risk of disclosure remains high. No information that contains identifiers or that could be used to link an individual to the data will be included in the de-identified data set.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Three months after the end of the funded grant period, the study materials and de-identified data will be available, by request, from the PI. Once data are placed on an open access service such as ICPSR they will be available indefinitely.</ipd_time_frame>
+    <ipd_access_criteria>The PI will share a de-identified data set with outside investigators at no cost, according to approved Partners and Massachusetts General Hospital policies for data sharing. Investigators from other sites will be able to request the data and will be required to complete a data use agreement that ensures that all local Institutional Review Board requirements are met before using the data, that they will not attempt to identify any data in the dataset, and that they will not share the data set with anyone outside their project team.
+On ICPSR, individuals must register and agree to ICPSR's Responsible Use statement prior to accessing datasets.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

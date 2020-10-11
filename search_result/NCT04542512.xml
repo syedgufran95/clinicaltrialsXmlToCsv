@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2364">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542512</url>
+  </required_header>
+  <id_info>
+    <org_study_id>06012020</org_study_id>
+    <nct_id>NCT04542512</nct_id>
+  </id_info>
+  <brief_title>Risk Factors for Necrotic Cholecystitis During COVID-19 Pandemic.</brief_title>
+  <acronym>ChoCO-W</acronym>
+  <official_title>Risk Factors for Necrotic Cholecystitis During COVID-19 Pandemic: the ChoCO-WSES Prospective Multicenter Observational Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Poissy-Saint Germain Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>World Society of Emergency Surgery</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Intercontinental society of Natural Orifice, Endoscopic, and Laparoscopic Surgery</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Poissy-Saint Germain Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Gangrenous cholecystitis is the most common complication of acute cholecystitis.
+
+      Preliminary data showed that COVID-19 patients have a high risk to present necrotic
+      cholecystitis.
+
+      The Cholecystitis under COVID-19 pandemic WSES (ChoCO-W) study aims to investigate risk
+      factors and high-risk patients to develop necrotic cholecystitis during this pandemic.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:
+
+      Gangrenous cholecystitis is the most common complication of acute cholecystitis affecting
+      around 15% (range 2-30%) of patients and it occurs as a result of ischemia with necrosis of
+      the gallbladder wall [1].
+
+      It is related to an increased mortality rate (mortality rate ranging between 15 and 50%)
+      compared with non-necrotic acute cholecystitis[2].
+
+      Retrospective studies that investigated risk and predictive factors related to gangrenous
+      cholecystitis showed that males, older patients with diabetes, coronary artery disease, and
+      other comorbidities are at risk to present with gangrenous cholecystitis. [1-3] Another study
+      identified longer delay time prior to hospital admission and low white blood cell count as
+      independent risk factors affecting mortality and indicated the presence of diabetes mellitus,
+      higher blood levels of aspartate aminotransferase, alanine aminotransferase, alkaline
+      phosphatase and total bilirubin, pericholecystic fluid in abdominal ultrasonography, and
+      conversion from laparoscopic surgery to open surgery as risk factors increasing mortality [2]
+      In any case, the treatment of GC is similar to that of patients with AC but in the presence
+      of GC, cholecystectomy can be difficult because of adhesions, insufficient anatomic control,
+      complications like bleeding, and injury to bile ducts.
+
+      There is high variability in the reported conversion rate to be 30% to 50% [4], down to 8.7%
+      [5]. These results are probably due to a careful preoperative selection of patients for
+      laparoscopic cholecystectomy and early surgery [6].
+
+      Hunt et al [7] reported decreased morbidity and mortality rates with the implementation of
+      laparoscopic cholecystectomy for GC.
+
+      Onder et al [2] showed that mortality was higher in cases in which conversion to open surgery
+      occurred.
+
+      Recently, many authors reported necrotic and perforated cholecystitis as the most common
+      complication of COVID-19 pneumonia [8-9-10].
+
+      A recent multi-society position paper suggested to consider percutaneous drainage of the
+      gallbladder after the failure of conservative therapy with antibiotics but highlighted that
+      advanced age, or other factors of higher COVID-19 risk, cannot be regarded as sufficient to
+      indicate this alternative treatment except in real conditions of the impracticability of
+      cholecystectomy [11].
+
+      In the lack of evidence and guidelines about the management of a patient with acute
+      cholecystitis during COVID-19 pandemic, laparoscopic cholecystectomy, at most preceded by
+      percutaneous trans-gallbladder drainage (PTGBD) in high surgical risk patients, remains the
+      gold standard for the treatment of acute cholecystitis on COVID-19 patients, with high
+      morbidity rate and length of hospital stay that increases the risk of spreading the virus
+      among health care staff and negative COVID-19 patients.
+
+      The aim is to study all patients presenting acute cholecystitis to improve their management.
+
+      The rationale for the trial:
+
+      To evaluate the management of acute cholecystitis focusing on the treatments and the outcomes
+      of operative or non-operative management in COVID (+) and COVID (-) patients with the aim to
+      improve outcomes, decreasing morbidity and mortality rates related to emergency setting and
+      high-risk surgical patients.
+
+      Objectives:
+
+        1. Evaluate the prevalence of cholecystitis, in female and male patients during COVID-19
+           pandemic.
+
+        2. Evaluate the risk factors for necrosis or gangrenous cholecystitis in COVID-19 patients.
+
+        3. Evaluate the clinical outcomes of early (&lt;72h from the onset of symptoms) versus delayed
+           (&gt;72h from the onset of symptoms) cholecystectomy, and of cholecystostomy in terms of
+           mortality and morbidity.
+
+      Primary objective:
+
+      The hypothesis is that COVID-19 patients should not be treated conservatively (antibiotics
+      only/ percutaneous drainage of the gallbladder and antibiotics) for the high risk of
+      progressing to necrotic and then perforated cholecystitis.
+
+      It was reported that COVID-19 disease predisposes to both venous and arterial
+      thromboembolism, explained by excessive inflammation, hypoxia, immobilization, and diffuse
+      intravascular coagulation. In particular, critically ill patients with SARS-CoV-2 showed a
+      high risk to present thromboembolic events.
+
+      Secondary objective:
+
+      To investigate the risk factors for necrotic cholecystitis in the general population and to
+      assess the right timing for surgery.
+
+      Study Design:
+
+      Prospective Multicenter Observational Study.
+
+      Study population:
+
+      All patients admitted to the surgical department with clinical and histological diagnosis of
+      acute cholecystitis (with and without gangrenous cholecystitis).
+
+      Inclusion criteria:
+
+      Patients of all ages and sex admitted in the emergency department for acute cholecystitis,
+      aged &gt;=18 yo.
+
+      Exclusion criteria:
+
+      Patients aged&lt; 18 yo.
+
+      Period:
+
+      2020/10/01 to 2021/05/31
+
+      Data collection:
+
+      All epidemiological, clinical, and surgical data will be collected in an online case report
+      form.
+
+      Statistical analysis:
+
+      This is a prevalence study and univariate and multivariate analysis of each scheduled
+      parameter will be carried out. In the statistical analysis, the investigators will
+      differentiate the data also by gender. All patients having cholecystitis including those
+      having gangrenous cholecystitis will be included in the analysis. Previous World Society of
+      Emergency Surgery prospective studies on sepsis (Sartelli et al, WJES, 2019; 14: 34; Sartelli
+      et al, 2015; 10: 61) showed that this is feasible and the investigators' aim is getting
+      exactly the number of patients of these two studies. It is expected that the COVID-19
+      patients will be less than the negative ones for two reasons:
+
+        1. the incidence of COVID-19 infection;
+
+        2. trial to treat them conservatively often outside the hospitals. Non-parametric methods
+           will be used in case of a small number of COVID-19 patients which work even if the
+           groups are less than 20.
+
+      Ethical Aspects:
+
+      This is an observational study, it will not attempt to change or modify the clinical practice
+      of the participating physicians. The study will meet and conform to the standards outlined in
+      the Declaration of Helsinki and Good Epidemiological Practices.
+
+      Every clinical center attending the study is responsible for Ethics Committee approval. Every
+      local investigator is responsible for data collection and data entry. All surgeons involved
+      in the patients' recruitment will be included in the research authorship.
+
+      Methods and assessments:
+
+      Every clinical center involved in the study will be identified by a number assigned before
+      starting to enter data. A link to an anonymous online case report form will be sent by mail
+      to collaborators, to collect data.
+
+      Safety Considerations:
+
+      There are no safety issues.
+
+      Informed consent:
+
+      This observational study will not attempt to change or modify the laboratory or clinical
+      practices of the participating physicians, consequently, informed consent will not be
+      required. Every patient included in this study will be asked to sign a written consent to
+      authorize the anonymous treatment of personal data if it is not already provided at the
+      admission in the ward.
+
+      Data Management and Statistical Analysis:
+
+      Every investigator is responsible for entering data on one online case report form for every
+      patient included in the study.
+
+      The statistical analysis will be carried out with the supervision of Prof.Fikri Abu-Zidan.
+
+      Expected Outcomes of the Study To demonstrate the correlation between necrotic cholecystitis
+      and predisposition to thromboembolism in COVID-19 patients. To identify high-risk patients
+      for developing necrotic cholecystitis.
+
+      Dissemination of Results and Publication Policy The outcomes of this study will be analyzed
+      and published in a scientific journal with an IF.
+
+      Duration of the Project
+
+      1 year
+
+      Budget No budget study
+
+      Financing and Insurance Not applicable
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>Correlation between COVID-19 pneumonia and necrotic cholecystitis</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Incidence of necrotic cholecystitis in COVID-19 patients</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation between coagulopathy and necrotic cholecystitis</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Mean D-dimer value</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation between coagulopathy and necrotic cholecystitis</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Mean INR value</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation between coagulopathy and necrotic cholecystitis</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Mean Prothrombin time (PT; sec); mean activated partial thromboplastin (aPT; sec)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation between coagulopathy and necrotic cholecystitis</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>Mean Fibrinogen value (g/L)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation between coagulopathy and necrotic cholecystitis</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>most common alterations of thromboelastography</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Risk factors for necrotic cholecystitis</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>incidence of diabetes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Outcome necrotic cholecystitis</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+    <description>overall mortality</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Cholecystitis, Acute</condition>
+  <condition>Cholecystitis; Gangrenous</condition>
+  <condition>Cholecystitis Suppurative</condition>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients admitted to the surgical department with clinical and histologic diagnosis of
+        acute cholecystitis (with and without gangrenous cholecystitis).
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        All patients presenting acute cholecystitis during COVID 19 pandemic, aged &gt;=18 yo
+
+        Exclusion Criteria:
+
+        Patients presenting with acute cholecystitis aged &lt;18 yo
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Belinda De Simone, MD</last_name>
+    <phone>+33665787872</phone>
+    <email>desimone.belinda@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Intercommunal Poissy-Saint Germain en Laye</name>
+      <address>
+        <city>Poissy</city>
+        <zip>73082</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Belinda De Simone</last_name>
+      <phone>+33665787872</phone>
+      <email>desimone.belinda@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Elie Chouillard</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Belinda De Simone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <link>
+    <url>https://docs.google.com/forms/d/e/1FAIpQLSeu2gIILNlYRHvSa815PSKXWR4Ow2LnXG87vtoujuaP5XwaGg/viewform?usp=sf_link</url>
+    <description>Registration form to collaborate</description>
+  </link>
+  <link>
+    <url>https://docs.google.com/forms/d/e/1FAIpQLSfrHWCdiEbo91y1JbHgEtKR9nGR1FWtjiv5RiHJZJe4_ElJ2A/viewform?usp=sf_link</url>
+    <description>Online case report form</description>
+  </link>
+  <reference>
+    <citation>Eldar S, Eitan A, Bickel A, Sabo E, Cohen A, Abrahamson J, Matter I. The impact of patient delay and physician delay on the outcome of laparoscopic cholecystectomy for acute cholecystitis. Am J Surg. 1999 Oct;178(4):303-7.</citation>
+    <PMID>10587188</PMID>
+  </reference>
+  <reference>
+    <citation>Ying M, Lu B, Pan J, Lu G, Zhou S, Wang D, Li L, Shen J, Shu J; From the COVID-19 Investigating and Research Team. COVID-19 with acute cholecystitis: a case report. BMC Infect Dis. 2020 Jun 22;20(1):437. doi: 10.1186/s12879-020-05164-7.</citation>
+    <PMID>32571224</PMID>
+  </reference>
+  <reference>
+    <citation>Bruni A, Garofalo E, Zuccalà V, Currò G, Torti C, Navarra G, De Sarro G, Navalesi P, Longhini F, Ammendola M. Histopathological findings in a COVID-19 patient affected by ischemic gangrenous cholecystitis. World J Emerg Surg. 2020 Jul 2;15(1):43. doi: 10.1186/s13017-020-00320-5.</citation>
+    <PMID>32615987</PMID>
+  </reference>
+  <reference>
+    <citation>Campanile FC, Podda M, Arezzo A, Botteri E, Sartori A, Guerrieri M, Cassinotti E, Muttillo I, Pisano M, Brachet Contul R, D'Ambrosio G, Cuccurullo D, Bergamini C, Allaix ME, Caracino V, Petz WL, Milone M, Silecchia G, Anania G, Agrusa A, Di Saverio S, Casarano S, Cicala C, Narilli P, Federici S, Carlini M, Paganini A, Bianchi PP, Salaj A, Mazzari A, Meniconi RL, Puzziello A, Terrosu G, De Simone B, Coccolini F, Catena F, Agresta F. Acute cholecystitis during COVID-19 pandemic: a multisocietary position statement. World J Emerg Surg. 2020 Jun 8;15(1):38. doi: 10.1186/s13017-020-00317-0.</citation>
+    <PMID>32513287</PMID>
+  </reference>
+  <results_reference>
+    <citation>Bourikian S, Anand RJ, Aboutanos M, Wolfe LG, Ferrada P. Risk factors for acute gangrenous cholecystitis in emergency general surgery patients. Am J Surg. 2015 Oct;210(4):730-3. doi: 10.1016/j.amjsurg.2015.05.003. Epub 2015 Jun 27.</citation>
+    <PMID>26186803</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Önder A, Kapan M, Ülger BV, Oğuz A, Türkoğlu A, Uslukaya Ö. Gangrenous cholecystitis: mortality and risk factors. Int Surg. 2015 Feb;100(2):254-60. doi: 10.9738/INTSURG-D-13-00222.1.</citation>
+    <PMID>25692427</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gomes CA, Soares C, Di Saverio S, Sartelli M, de Souza Silva PG, Orlandi AS, Heringer TL, Gomes FC, Catena F. Gangrenous cholecystitis in male patients: A study of prevalence and predictive risk factors. Ann Hepatobiliary Pancreat Surg. 2019 Feb;23(1):34-40. doi: 10.14701/ahbps.2019.23.1.34. Epub 2019 Feb 28.</citation>
+    <PMID>30863805</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Contini S, Corradi D, Busi N, Alessandri L, Pezzarossa A, Scarpignato C. Can gangrenous cholecystitis be prevented?: a plea against a &quot;wait and see&quot; attitude. J Clin Gastroenterol. 2004 Sep;38(8):710-6.</citation>
+    <PMID>15319657</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Pisano M, Ceresoli M, Cimbanassi S, Gurusamy K, Coccolini F, Borzellino G, Costa G, Allievi N, Amato B, Boerma D, Calcagno P, Campanati L, Campanile FC, Casati A, Chiara O, Crucitti A, di Saverio S, Filauro M, Gabrielli F, Guttadauro A, Kluger Y, Magnone S, Merli C, Poiasina E, Puzziello A, Sartelli M, Catena F, Ansaloni L. 2017 WSES and SICG guidelines on acute calcolous cholecystitis in elderly population. World J Emerg Surg. 2019 Mar 4;14:10. doi: 10.1186/s13017-019-0224-7. eCollection 2019. Review.</citation>
+    <PMID>30867674</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hunt DR, Chu FC. Gangrenous cholecystitis in the laparoscopic era. Aust N Z J Surg. 2000 Jun;70(6):428-30.</citation>
+    <PMID>10843398</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Poissy-Saint Germain Hospital</investigator_affiliation>
+    <investigator_full_name>Belinda De Simone</investigator_full_name>
+    <investigator_title>General Surgeon</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>emergency surgery</keyword>
+  <keyword>acute abdomen</keyword>
+  <keyword>peritonitis</keyword>
+  <keyword>cholecystitis</keyword>
+  <keyword>necrotic cholecystitis</keyword>
+  <keyword>percutaneous drainage of gallbladder</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cholecystitis</mesh_term>
+    <mesh_term>Acalculous Cholecystitis</mesh_term>
+    <mesh_term>Cholecystitis, Acute</mesh_term>
+    <mesh_term>Necrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

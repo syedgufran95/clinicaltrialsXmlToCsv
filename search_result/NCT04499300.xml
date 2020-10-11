@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="658">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04499300</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHUB-COVID-19-90+</org_study_id>
+    <nct_id>NCT04499300</nct_id>
+  </id_info>
+  <brief_title>Elderly Patients and COVID-19 Infection: a Cohort of Fifty Patients Over Ninety Years of Age</brief_title>
+  <official_title>Elderly Patients and COVID-19 Infection: a Cohort of Fifty Patients Over Ninety Years of Age</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Murielle Surquin</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brugmann University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SARS-CoV2 or CoVid19 disease is a newly described pathology linked to a subtype of the
+      coronavirus family identified in China in December 2019. This pathology can present multiple
+      clinical facets, ranging from asymptomatic forms to more commonly critical pulmonary forms
+      called &quot;Acute Respiratory Distress Syndrome&quot;. The elderly population is more at risk for this
+      infection due to the senescence of the immune system, co-morbidities and poly medications.
+      They also often present a greater state of fragility.
+
+      This study aims to report the epidemiology of the first 50 patients over 90 years of age
+      hospitalized within the CHU Brugmann hospital.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 9, 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Demographic data</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Age, sex, ethnicity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comorbidities</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Smoking, Obesity, Diabetes, Arterial hypertension, Coronary pathology, Cerebrovascular disease, chronic renal failure, chronic obstructive pulmonary disease, Neoplasia, Autoimmune disease, Chronic liver disease</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cumulative Illness Rating Scale-Geriatric (CIRS-G)</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>CIRS-G quantifies burden of disease in elderly patients (comorbidity scale). Higher scores indicate higher severity (maximum score = 56 points).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatments</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Under Chronic corticosteroid therapy or Immunosuppressive therapy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Signs and symptoms</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Presence and date of first apparition: Fever, Cough, Dyspnea, Chest pain, Nausea or vomiting, Diarrhea, Fatigue, Anosmia, ageusia, inappetence, Confusion, Fall, Fracture</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fever</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Vital signs at hospital admission: Fever</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hypoxemia</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Vital signs at hospital admission: Hypoxemia</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tachycardia</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Vital signs at hospital admission:Tachycardia</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hypotension</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Vital signs at hospital admission: Hypotension</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Gasometry</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Vital signs at hospital admission: Gasometry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Infectious data</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Contact with confirmed covid person before admission, lives in a retirement home with other cases, Initial bacterial or viral co-infection, Bacterial or viral co-infection during the hospital stay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood count</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Blood count at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Ionogram</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Ionogram at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Liver function</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Liver function at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Coagulation</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Coagulation at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Renal function</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Renal function at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Albumin</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Albumin at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CRP</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>CRP at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fibrinogen</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Fibrinogen at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>D-dimers at hospital admission or first recorded</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>D-dimers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>NTproBNP</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>NTproBNP at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CK</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>CK at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Troponin</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Troponin at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Ferritin</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Ferritin at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Procalcitonin</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Procalcitonin at hospital admission or first recorded</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biology - highest rate</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Highest rate of CRP, D-Dimers, Urea, Creatinin, Fibrinogen, CK, Troponins</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biology - lowest rate</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Lowest rate of hemoglobin, platelets, leucocytes, lymphocytes, albumin, Na+, K+</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of pulmonary involvement on chest CT scan</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Percentage of pulmonary involvement on chest CT scan</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of pulmonary lobes affected</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Number of pulmonary lobes affected</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Type of lesions</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Type of lesions as reflected on the CT scan images: 'Ground glass' or 'Crazy paving'</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Need for oxygenotherapy</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Need for oxygenotherapy (yes/no)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Means of ventilation</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Means of ventilation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment received</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Hydroxychloroquine or Azithromycin</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length of ICU Stay</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Length of ICU Stay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Status at hospital exit</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>One of the following choices: death, went back home, went back to a retirement home, was placed in a revalidation unit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>28-day mortality after PCR / CT scan / diagnosis</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Covid positive</arm_group_label>
+    <description>Patients over 90 years old hospitalized within the CHU Brugmann between 03/01/2020 and 05/10/2020 with SARS Cov2 infection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sub-group: deceased patients</arm_group_label>
+    <description>Patients over 90 years old hospitalized within the CHU Brugmann between 03/01/2020 and 05/10/2020 with SARS Cov2 infection, with death as outcome.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sub-group: patients who survived</arm_group_label>
+    <description>Patients over 90 years old hospitalized within the CHU Brugmann between 03/01/2020 and 05/10/2020 with SARS Cov2 infection, who survived the infection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Data collection from medical files</intervention_name>
+    <description>Data collection from medical files</description>
+    <arm_group_label>Covid positive</arm_group_label>
+    <arm_group_label>Sub-group: deceased patients</arm_group_label>
+    <arm_group_label>Sub-group: patients who survived</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Same as inclusion criteria
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Be over 90 years of age on the date of admission to CHU Brugmann Hospital
+
+          -  Have a SARS Cov2 infection proven by antigen or RT-PCR on smear and / or typical
+             imaging regardless of the clinical manifestation
+
+          -  Have been hospitalized at CHU Brugmann between 03/01/2020 and 05/10/2020
+
+        Exclusion Criteria:
+
+        None
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>90 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tracy Vandergraesen, MD</last_name>
+    <phone>0484346191</phone>
+    <email>Tracy.VANDERGRAESEN@chu-brugmann.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU Brugmann</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sophie Levy</last_name>
+      <email>Sophie.LEVY@chu-brugmann.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 5, 2020</study_first_posted>
+  <last_update_submitted>August 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Brugmann University Hospital</investigator_affiliation>
+    <investigator_full_name>Murielle Surquin</investigator_full_name>
+    <investigator_title>Head of geriatry department</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

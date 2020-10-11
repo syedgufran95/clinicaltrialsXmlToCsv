@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3452">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04555954</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/8/318</org_study_id>
+    <nct_id>NCT04555954</nct_id>
+  </id_info>
+  <brief_title>Determining the Physical Activity Level of Healthy Adults During Pandemic</brief_title>
+  <official_title>Determining the Physical Activity Level of Healthy Adults During Novel Coronavirus (COVID-19) (SARS-CoV-2 Infection) Pandemic: a Descriptive, Cross-sectional Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pamukkale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pamukkale University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Abstract Background: With Covid-19 pandemic, online education, remote and flexible working
+      were introduced. Thus the process of stay-at-home began.
+
+      Purpose: The aim of the study is to determine level of physical activity of healthy adults in
+      the pandemic process.
+
+      Methods: This is a descriptive survey study which was applied via internet. The physical
+      activity level was evaluated with International Physical Activity Questionnaire Short Form.
+      Healthy adults aged 18-65 years who live in Turkey were included in the study.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study design This study, which was planned as a prospective, descriptive, cross-sectional
+      survey study, had online-based questions. The participants answered the questions via the
+      internet between April-July 2020. Ethical approval of the study was obtained from the
+      Non-Interventional Clinical Research Ethics Committee of Afyonkarahisar Health Science
+      University (Date/issue:2020/318) and the study follows the principles of the Declaration of
+      Helsinki. All individuals were informed through written online documents and they were
+      permitted to answer the questions after the informed consent approval button was clicked.
+
+      Participants Communication with the participants of the study was conducted via online survey
+      software (Google Forms) and social media communication application (WhatsApp). The inclusion
+      criteria for the participants were as follows; to be between the age of 18-65, healthy
+      (physically, psychologically and cognitively) and to live in Turkey. Individuals with
+      pregnancy, with a history of any surgery in the last 6 months, and with the presence of any
+      acute or chronic diseases (infection-related, neurological, rheumatological, cardiovascular,
+      orthopedic… etc.) were excluded from the study.
+
+      Outcome measures The demographic data of the participants and the International Physical
+      Activity Questionnaires-Short Form (IPAQ-SF) were recorded using the internet. Participants
+      needed approximately 10 minutes to answer the questions.
+
+      International Physical Activity Questionnaires-Short Form (IPAQ-SF): In our study, we used
+      IPAQ-SF which was developed for international screening studies with the support of the WHO.
+      The validity and reliability of the Turkish version of the questionnaire were performed by
+      Sağlam et al. (2010). The short form of the questionnaire (7 questions) provides information
+      about walking, moderate and vigorous activities and time spent sitting. Total score
+      calculation of the short form included the sum of frequency (days) and duration (minutes) of
+      walking, moderate and vigorous activities. The energy required for the activities was
+      calculated with the Metabolic Equivalent of Task (MET)-minute score. The sitting score
+      (sedentary behavior level) was calculated separately. A score as &quot;MET-minute / week&quot; was
+      obtained by multiplying the minute, day and MET value (multiples of resting oxygen
+      consumption). Walking time (minutes) was multiplied by 3.3 MET for the calculation of the
+      walking score. During the calculation, 4 MET values for a moderate activities, and 8 MET
+      values for vigorous activities were used. Following the calculation, a MET score under 600
+      was regarded as physically inactive; a score between 600 and 3000 was regarded as minimally
+      active and a score of over 3000 was regarded as sufficiently active or Health-Enhancing
+      Physical Activity.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 11, 2020</start_date>
+  <completion_date type="Actual">August 20, 2020</completion_date>
+  <primary_completion_date type="Actual">July 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>physical activity level</measure>
+    <time_frame>3 months</time_frame>
+    <description>MET-minute score: International Physical Activity Questionnaires-Short Form (IPAQ-SF): In our study, we used IPAQ-SF which was developed for international screening studies with the support of the WHO. The validity and reliability of the Turkish version of the questionnaire were performed by Sağlam et al. (2010). The short form of the questionnaire (7 questions) provides information about walking, moderate and vigorous activities and time spent sitting. Total score calculation of the short form included the sum of frequency (days) and duration (minutes) of walking, moderate and vigorous activities. The energy required for the activities was calculated with the Metabolic Equivalent of Task (MET)-minute score.</description>
+  </primary_outcome>
+  <enrollment type="Actual">205</enrollment>
+  <condition>Health, Subjective</condition>
+  <condition>Healthy</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>surveys and questionnaires</intervention_name>
+    <description>The study practised the physical activity levels of healthy adults aged 18-65 years in Turkey during the novel type of coronavirus pandemic by the International Physical Activity Questionnaires-Short Form (IPAQ-SF). Communication with the participants of the study was conducted via online survey software (Google Forms) and social media communication application (WhatsApp).</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The inclusion criteria for the participants were as follows; to be between the age of
+        18-65, healthy (physically, psychologically and cognitively) and to live in Turkey.
+        Individuals with pregnancy, with a history of any surgery in the last 6 months, and with
+        the presence of any acute or chronic diseases (infection-related, neurological,
+        rheumatological, cardiovascular, orthopedic… etc.) were excluded from the study.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        The inclusion criteria for the participants were as follows;
+
+          -  to be between the age of 18-65,
+
+          -  healthy (physically, psychologically and cognitively)
+
+          -  to live in Turkey.
+
+        Exclusion Criteria:
+
+          -  The exclusion criteria for the participants were as follows;
+
+          -  individuals with pregnancy,
+
+          -  to have a history of any surgery in the last 6 months,
+
+          -  with the presence of any acute or chronic diseases (infection-related, neurological,
+             rheumatological, cardiovascular, orthopedic… etc.)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>EMEL TAŞVURAN HORATA, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Afyonkarahisar Health Science University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Afyonkarahisar Health Science University</name>
+      <address>
+        <city>Afyonkarahisar</city>
+        <zip>03030</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 21, 2020</study_first_posted>
+  <last_update_submitted>September 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Pamukkale University</investigator_affiliation>
+    <investigator_full_name>Emel TAŞVURAN HORATA</investigator_full_name>
+    <investigator_title>PhD; Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>pandemic</keyword>
+  <keyword>physical activity</keyword>
+  <keyword>physiotherapist</keyword>
+  <keyword>surveys and questionnaires</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

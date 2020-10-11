@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3222">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04530682</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RECHMPL20_0409</org_study_id>
+    <secondary_id>UF8074</secondary_id>
+    <nct_id>NCT04530682</nct_id>
+  </id_info>
+  <brief_title>COVID-19 in Rheumatic Inflammatory Diseases Under Immuno-suppressive Drugs</brief_title>
+  <acronym>COVIDRIC</acronym>
+  <official_title>Seroprevalence and Clinical Expression of SARS-CoV-2 Infection in Patients With Chronic Inflammatory Rheumatisms and Impact of Immuno-suppressive Drugs on the Persistence of Anti-SARS-CoV2 Antibodies During Two Years of Follow-up</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Montpellier</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>French Society of Rheumatology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Montpellier</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A better understanding of the different phenotypes of COVID 19 in patients with inflammatory
+      rheumatisms, and the persitence of antibodies against SARS CoV-2 in these patients under
+      immunosuppressive drugs are required to propose appropriated recommendations for these
+      patients in order to guide the strategy of vaccination in this immune-depressed population
+      who is not immunized.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this multicentric epidemiological study, 3 workpackages (WPs) are proposed. For the first
+      one, 5 000 patients with rheumatoid arthritis or spondyloarthritis using serological tests
+      will be screened to determine the percentage of seroconverted patients with inflammatory
+      rheumatisms (WP1). Different forms of COVID19 in patients with a positive serology will be
+      studied, compared to a group of seronegative patients (WP1), as well as the impact of COVID19
+      epidemic on the psychological aspect (WP1). The follow-up the persistence of SARS-CoV-2
+      serological status for 2 years in 200 patients with inflammatory rheumatisms compared to
+      matched healthy controls to evaluate the impact of immuno-suppressive drugs (WP2) will be
+      proposed, as well as the study of the prevalence of thrombo-embolic events and different
+      biological factors implicated in coagulation (WP3). 5000 patients with rheumatoid arthritis
+      and spondyloarthritis will be recruited in 16 departments of rheumatology and screened for
+      SARS-CoV-2 with a validated serological test. 200 patients positive for SARS-CoV-2 serology
+      will be followed-up at 6, 12 and 24 months. Demographic data, informations on the rheumatic
+      disease and the COVID-19, self-questionnaires evaluating psychological impact and blood test
+      to evaluated serological status on SARS-CoV-2 and to dose coagulation factors will be
+      performed at every visit
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 20, 2020</start_date>
+  <completion_date type="Anticipated">July 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 20, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Seroprevalence of COVID-19 in patients with inflammatory rheumatisms</measure>
+    <time_frame>6 months</time_frame>
+    <description>Variation of anti-SARS-CoV2 antibodies titers between baseline</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Seroprevalence of COVID-19 in patients with inflammatory rheumatisms</measure>
+    <time_frame>12 months</time_frame>
+    <description>Variation of anti-SARS-CoV2 antibodies titers between baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical expression of COVID-19 compared to health professionals : phenotypes, thrombo-embolic events and stress repercussion</measure>
+    <time_frame>6 months</time_frame>
+    <description>Coagulation factors in patients with inflammatory rheumatisms compared to health professionals</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical expression of COVID-19 compared to health professionals : phenotypes, thrombo-embolic events and stress repercussion</measure>
+    <time_frame>12 months</time_frame>
+    <description>Coagulation factors in patients with inflammatory rheumatisms compared to health professionals</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical expression of COVID-19 compared to health professionals : phenotypes, thrombo-embolic events and stress repercussion</measure>
+    <time_frame>24 months</time_frame>
+    <description>Coagulation factors in patients with inflammatory rheumatisms compared to health professionals</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Rheumatoid Arthritis</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        5000 patients for COVID-19 test screening and 200 patients positive for COVID19 for 2 years
+        follow-up and 100 health professionals as controls
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with rheumatoid arthritis or spondyloarthritis
+
+          -  Under DMARD or NSAIDs or steroids since january the first 2020
+
+          -  Agreeement to participate two years in the study
+
+        Exclusion Criteria:
+
+          -  Withdrawal of consent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jacques MOREL, MD, PhD</last_name>
+    <phone>+33 467 337 791</phone>
+    <email>j-morel@chu-montpellier.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre hopsitalier universitaire de Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <state>Occitanie</state>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jacques MOREL, MD, PhD</last_name>
+      <phone>+33 467 337 791</phone>
+      <email>j-morel@chu-montpellier.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV2</keyword>
+  <keyword>Rheumatoid arthritis</keyword>
+  <keyword>Spondyloarthritis</keyword>
+  <keyword>Seroprevalence</keyword>
+  <keyword>Seropersistence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Rheumatoid</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

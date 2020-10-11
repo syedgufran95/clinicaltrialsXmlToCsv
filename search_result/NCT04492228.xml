@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1714">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492228</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KETOCOV-1</org_study_id>
+    <nct_id>NCT04492228</nct_id>
+  </id_info>
+  <brief_title>Eucaloric Ketogenic Diet in COVID-19 Cytokine Storm Syndrome</brief_title>
+  <acronym>ketocovidiet</acronym>
+  <official_title>Randomized Open Controlled Clinical Trial to Evaluate the Effectiveness of a Eucaloric Ketogenic Nutrition in Comparison With a Standard Nutrition in Covid-19 Disease in Reducing Cytokine Storm Syndrome and ARDS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ospedale Policlinico San Martino</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ospedale Policlinico San Martino</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Covid 19 pandemia is causing millions of deaths worldwide. To date, the evidence gathered
+      suggests that the subgroup of patients who present the most serious clinical feature of
+      COVID-19 could have a &quot;cytokine storm syndrome&quot; better defined as secondary hemophagocytic
+      lymphohistiocytosis (sHLH), characterized by acute respiratory distress (ARDS) and septic
+      shock, followed by multi-organ failure due to an excess of cytokines induced by the
+      inflammatory response to the virus.
+
+      The reduction of phagocytic hyperactivation represents a possible treatment for HLH.
+
+      Lowering the availability of glucose, the only substrate of aerobic glycolysis and of the
+      Warburg effect in activated macrophages, through the use of ketogenic diets could be a
+      promising solution.
+
+      Actually diet is not recognized as impacting on the evolution of COVID-19, however,
+      scientific literature data show that a low carbohydrate and high lipid diet (ketogenic diet)
+      can inhibit inflammation and lead to a clinical improvement of respiratory function.
+
+      The hypothesis of this study is that the administration of a ketogenic diet could improve
+      mortality, lower the access to ICU and the need of NIV.
+
+      The plan is to enroll 50 patients with COVID 19 infection and administer a 1:4 ketogenic
+      formula during hospitalization in order to verify these outcomes.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Anticipated">May 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a controlled, randomized, open-label, clinical trial designed to determine whether a ketogenic diet,in comparison with a standard diet, improves mortality and reduces ventilator requirements or ICU access in patients with coronavirus disease.
+The study team will prospectively enroll 50 patients with COVID-19 infection administering a 4:1 ratio ketogenic formula (both enteral or parenteral) and 50 with standard diet</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality rate in the ketogenic group diet vs standard one</measure>
+    <time_frame>Up to nine months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Access in Intensive Care Unit in the ketogenic group diet vs standard one</measure>
+    <time_frame>Up to nine months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Need of Non Invasive Ventilation in the ketogenic group diet vs standard one</measure>
+    <time_frame>Up to nine months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Combined endpoint &quot;mortality, ICU transfer or need for CPAP or intubation&quot; in the ketogenic group diet vs standard one</measure>
+    <time_frame>Up to nine months</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>Ketogenic Dieting</condition>
+  <arm_group>
+    <arm_group_label>Ketogenic diet group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>patients with COVID-19 feeding with a ketogenic diet (4.1 formula)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard diet group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>patients with COVID-19 feeding with a standard diet</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Ketogenic diet</intervention_name>
+    <description>Eucaloric Ketogenic diet % composition : protein (27%), lipids (67%), carbohydrates (6%: &lt;30g/day). In pts in artificial nutrition : Eucaloric Ketogenic parenteral nutrition % composition : aminoacids (27%), lipids (67%), carbohydrates (6%: &lt;30g/day)</description>
+    <arm_group_label>Ketogenic diet group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  documented clinical diagnosis of COVID-19 supported by clinical features and by the
+             positivity to at least one pharyngeal swab
+
+          -  age ≥18 years
+
+          -  informed written consent
+
+        Exclusion Criteria:
+
+          -  Type I diabetes
+
+          -  Type II diabetes in therapy with insulin, sulphonylureas, repaglinide, GLP-1
+             analogues, SGLT2 inhibitors
+
+          -  Recent acute cardiovascular event (within a month)
+
+          -  Food allergies to diet components
+
+          -  Any metabolic disorder capable of influencing gluconeogenesis
+
+          -  Clinical history of severe hypertriglyceridemia with or without pancreatitis
+
+          -  Pregnancy and/or breastfeeding
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Samir G Sukkar, MD</last_name>
+    <phone>0105553985</phone>
+    <email>samir.sukkar@hsanmartino.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Samir Giuseppe Sukkar</name>
+      <address>
+        <city>Genova</city>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Samir G Sukkar, MD</last_name>
+      <phone>00393356098178</phone>
+      <email>samir.sukkar@hsanmartino.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Livia Pisciotta, MD</last_name>
+      <phone>00393471055508</phone>
+      <email>livia.pisciotta@unige.it</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16.</citation>
+    <PMID>32192578</PMID>
+  </reference>
+  <reference>
+    <citation>Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.</citation>
+    <PMID>32007143</PMID>
+  </reference>
+  <reference>
+    <citation>Karakike E, Giamarellos-Bourboulis EJ. Macrophage Activation-Like Syndrome: A Distinct Entity Leading to Early Death in Sepsis. Front Immunol. 2019 Jan 31;10:55. doi: 10.3389/fimmu.2019.00055. eCollection 2019. Review.</citation>
+    <PMID>30766533</PMID>
+  </reference>
+  <reference>
+    <citation>Yoshikawa T, Hill T, Li K, Peters CJ, Tseng CT. Severe acute respiratory syndrome (SARS) coronavirus-induced lung epithelial cytokines exacerbate SARS pathogenesis by modulating intrinsic functions of monocyte-derived macrophages and dendritic cells. J Virol. 2009 Apr;83(7):3039-48. doi: 10.1128/JVI.01792-08. Epub 2008 Nov 12.</citation>
+    <PMID>19004938</PMID>
+  </reference>
+  <reference>
+    <citation>Ksiazek TG, Erdman D, Goldsmith CS, Zaki SR, Peret T, Emery S, Tong S, Urbani C, Comer JA, Lim W, Rollin PE, Dowell SF, Ling AE, Humphrey CD, Shieh WJ, Guarner J, Paddock CD, Rota P, Fields B, DeRisi J, Yang JY, Cox N, Hughes JM, LeDuc JW, Bellini WJ, Anderson LJ; SARS Working Group. A novel coronavirus associated with severe acute respiratory syndrome. N Engl J Med. 2003 May 15;348(20):1953-66. Epub 2003 Apr 10.</citation>
+    <PMID>12690092</PMID>
+  </reference>
+  <reference>
+    <citation>Kindler E, Thiel V. SARS-CoV and IFN: Too Little, Too Late. Cell Host Microbe. 2016 Feb 10;19(2):139-41. doi: 10.1016/j.chom.2016.01.012.</citation>
+    <PMID>26867172</PMID>
+  </reference>
+  <reference>
+    <citation>Channappanavar R, Fehr AR, Vijay R, Mack M, Zhao J, Meyerholz DK, Perlman S. Dysregulated Type I Interferon and Inflammatory Monocyte-Macrophage Responses Cause Lethal Pneumonia in SARS-CoV-Infected Mice. Cell Host Microbe. 2016 Feb 10;19(2):181-93. doi: 10.1016/j.chom.2016.01.007.</citation>
+    <PMID>26867177</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Li B, Yang J, Zhao F, Zhi L, Wang X, Liu L, Bi Z, Zhao Y. Prevalence and impact of cardiovascular metabolic diseases on COVID-19 in China. Clin Res Cardiol. 2020 May;109(5):531-538. doi: 10.1007/s00392-020-01626-9. Epub 2020 Mar 11. Review.</citation>
+    <PMID>32161990</PMID>
+  </reference>
+  <reference>
+    <citation>Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 May;46(5):846-848. doi: 10.1007/s00134-020-05991-x. Epub 2020 Mar 3. Erratum in: Intensive Care Med. 2020 Apr 6;:.</citation>
+    <PMID>32125452</PMID>
+  </reference>
+  <reference>
+    <citation>Tate RM, Repine JE. Neutrophils and the adult respiratory distress syndrome. Am Rev Respir Dis. 1983 Sep;128(3):552-9. Review.</citation>
+    <PMID>6351681</PMID>
+  </reference>
+  <reference>
+    <citation>Keatings VM, Barnes PJ. Granulocyte activation markers in induced sputum: comparison between chronic obstructive pulmonary disease, asthma, and normal subjects. Am J Respir Crit Care Med. 1997 Feb;155(2):449-53.</citation>
+    <PMID>9032177</PMID>
+  </reference>
+  <reference>
+    <citation>Foucher P, Heeringa P, Petersen AH, Huitema MG, Brouwer E, Tervaert JW, Prop J, Camus P, Weening JJ, Kallenberg CG. Antimyeloperoxidase-associated lung disease. An experimental model. Am J Respir Crit Care Med. 1999 Sep;160(3):987-94.</citation>
+    <PMID>10471629</PMID>
+  </reference>
+  <reference>
+    <citation>Johnson KJ, Fantone JC 3rd, Kaplan J, Ward PA. In vivo damage of rat lungs by oxygen metabolites. J Clin Invest. 1981 Apr;67(4):983-93.</citation>
+    <PMID>6894154</PMID>
+  </reference>
+  <reference>
+    <citation>Haegens A, Vernooy JH, Heeringa P, Mossman BT, Wouters EF. Myeloperoxidase modulates lung epithelial responses to pro-inflammatory agents. Eur Respir J. 2008 Feb;31(2):252-60. Epub 2007 Dec 5.</citation>
+    <PMID>18057061</PMID>
+  </reference>
+  <reference>
+    <citation>van der Veen BS, de Winther MP, Heeringa P. Myeloperoxidase: molecular mechanisms of action and their relevance to human health and disease. Antioxid Redox Signal. 2009 Nov;11(11):2899-937. doi: 10.1089/ARS.2009.2538. Review. Erratum in: Antioxid Redox Signal. 2010 Feb;12(2):322. Augusto, Ohara [removed];Chen, John W [removed]; Davies, Michael [removed]; Ma,Xin-Liang [removed]; Malle, Ernst [removed]; Pignatelli, Pasquale [removed]; Rudolph, Tanja [removed].</citation>
+    <PMID>19622015</PMID>
+  </reference>
+  <reference>
+    <citation>Niu S, Bian Z, Tremblay A, Luo Y, Kidder K, Mansour A, Zen K, Liu Y. Broad Infiltration of Macrophages Leads to a Proinflammatory State in Streptozotocin-Induced Hyperglycemic Mice. J Immunol. 2016 Oct 15;197(8):3293-3301. Epub 2016 Sep 12.</citation>
+    <PMID>27619992</PMID>
+  </reference>
+  <reference>
+    <citation>Van der Zwan LP, Scheffer PG, Dekker JM, Stehouwer CD, Heine RJ, Teerlink T. Hyperglycemia and oxidative stress strengthen the association between myeloperoxidase and blood pressure. Hypertension. 2010 Jun;55(6):1366-72. doi: 10.1161/HYPERTENSIONAHA.109.147231. Epub 2010 Apr 12.</citation>
+    <PMID>20385972</PMID>
+  </reference>
+  <reference>
+    <citation>Brennan ML, Penn MS, Van Lente F, Nambi V, Shishehbor MH, Aviles RJ, Goormastic M, Pepoy ML, McErlean ES, Topol EJ, Nissen SE, Hazen SL. Prognostic value of myeloperoxidase in patients with chest pain. N Engl J Med. 2003 Oct 23;349(17):1595-604.</citation>
+    <PMID>14573731</PMID>
+  </reference>
+  <reference>
+    <citation>Baldus S, Heeschen C, Meinertz T, Zeiher AM, Eiserich JP, Münzel T, Simoons ML, Hamm CW; CAPTURE Investigators. Myeloperoxidase serum levels predict risk in patients with acute coronary syndromes. Circulation. 2003 Sep 23;108(12):1440-5. Epub 2003 Sep 2.</citation>
+    <PMID>12952835</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ospedale Policlinico San Martino</investigator_affiliation>
+    <investigator_full_name>Sukkar Samir, MD</investigator_full_name>
+    <investigator_title>Dr Samir Giuseppe Sukkar</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

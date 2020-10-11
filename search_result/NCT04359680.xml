@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1222">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04359680</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RM08-3007</org_study_id>
+    <nct_id>NCT04359680</nct_id>
+  </id_info>
+  <brief_title>Trial to Evaluate the Efficacy and Safety of Nitazoxanide (NTZ) for Pre- and Post Exposure Prophylaxis of COVID-19 and Other Viral Respiratory Illnesses (VRI) in Healthcare Workers and Others at Increased Risk of SARS-CoV-2 Infection</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo Controlled Trial to Evaluate the Efficacy and Safety of Nitazoxanide (NTZ) for Pre- and Post Exposure Prophylaxis of COVID-19 and Other Viral Respiratory Illnesses (VRI) in Healthcare Workers and Others at Increased Risk of SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Romark Laboratories L.C.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Romark Laboratories L.C.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Trial to Evaluate the Efficacy and Safety of Nitazoxanide (NTZ) for Pre- and Post Exposure
+      Prophylaxis of COVID-19 and Other Viral Respiratory Illnesses (VRI) in Healthcare Workers and
+      Others at Increased Risk of SARS-CoV-2 Infection
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and
+      Safety of Nitazoxanide (NTZ) for Pre- and Post Exposure Prophylaxis of COVID-19 and Other
+      Viral Respiratory Illnesses (VRI) in Healthcare Workers and Others at Increased Risk of
+      SARS-CoV-2 Infection
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 13, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of subjects with symptomatic laboratory-confirmed COVID-19 identified after start of treatment and before the end of the 6-week treatment period.</measure>
+    <time_frame>Up to 6 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The proportion of subjects with symptomatic laboratory-confirmed VRI identified after the start of treatment and before the end of the 6-week treatment period.</measure>
+    <time_frame>Up to 6 weeks</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Viral Respiratory Illnesses</condition>
+  <arm_group>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Two NTZ 300 mg tablets orally twice daily for 6 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Two placebo tablets orally twice daily for 6 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nitazoxanide</intervention_name>
+    <description>Nitazoxanide 600 mg administered orally twice daily for six weeks</description>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+    <other_name>NTZ (nitazoxanide)</other_name>
+    <other_name>NT-300</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo administered orally twice daily for six weeks</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamin Super B-Complex</intervention_name>
+    <description>Vitamin Super B-Complex administered orally twice daily to maintain the blind</description>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Males and females at least 18 years of age or of legal consenting age based on local
+             requirements.
+
+          2. Persons at increased risk of contracting COVID-19, including:
+
+               1. Healthcare workers with known direct occupational exposure to COVID-19 within 7
+                  days prior to enrollment. A qualifying person (i) provides healthcare to patients
+                  and/or (ii) typically positions themselves within 6 feet of patients (&quot;close
+                  contact&quot;) and (iii) is a full- time employee (average of ≥ 24 hours/week) in a
+                  high contact area (Emergency Department, Intensive Care Unit, COVID-specific Care
+                  Unit, Walk-in Clinic, Paramedic/First Responder).
+
+               2. Persons participating in social activities without the practice of generally
+                  accepted social distancing practices at least three times per week. Qualifying
+                  activities include the presence of at least 10 people in close (&lt;6 feet)
+                  proximity to each other without masks or other personal protective equipment
+                  (e.g., socializing at bars or community/social centers, in-home social
+                  gatherings, classes or trainings, etc.). These subjects must have engaged in such
+                  activities at least three times in the past 7 days and plan to continue these
+                  activities during the study.
+
+          3. Must have a smartphone, tablet, computer, or other qualifying internet- enabled device
+             and daily internet access.
+
+          4. Occupational exposure to a person infected with SAR-CoV-2 within 7 days prior to
+             enrollment or social interaction as defined in criterion 2(b).
+
+          5. Willing and able to provide written informed consent and comply with the requirements
+             of the protocol, including completion of the subject diary.
+
+        Exclusion Criteria:
+
+          1. Subjects not at increased risk of contracting SARS-CoV-2 from occupational or social
+             behaviors.
+
+          2. Subjects with known severe heart, lung, neurological or other systemic disease that
+             the Investigator believes could preclude safe participation.
+
+          3. Subjects with a history of COVID-19 or known to have developed anti- SARS-CoV-2
+             antibodies.
+
+          4. Subjects who experienced a previous episode of acute upper respiratory tract
+             infection, otitis, bronchitis or sinusitis or received antibiotics for these
+             conditions or antiviral therapy for influenza within two weeks prior to and including
+             study day 1.
+
+          5. Subjects residing in the same household with another family member currently
+             participating in the study.
+
+          6. Receipt of any dose of NTZ within 7 days prior to screening.
+
+          7. Treatment with any investigational drug or vaccine therapy within 30 days prior to
+             screening and willing to avoid them during the course of the study.
+
+          8. Known sensitivity to NTZ or any of the excipients comprising the study medication.
+
+          9. Subjects unable to swallow oral tablets or capsules.
+
+         10. Females of childbearing potential who are either pregnant or sexually active without
+             the use of birth control. Female subjects of child-bearing potential that are sexually
+             active must have a negative baseline pregnancy test and must agree to continue an
+             acceptable method of birth control for the duration of the study and for 1 month
+             post-treatment. A double barrier method, oral birth control pills administered for at
+             least 2 monthly cycle prior to study drug administration, an (intrauterine device)
+             IUD, or medroxyprogesterone acetate administered intramuscularly for a minimum of one
+             month prior to study drug administration are acceptable methods of birth control for
+             inclusion into the study. Female subjects are considered of childbearing potential
+             unless they are postmenopausal (absence of menstrual bleeding for 1 year or 6 months
+             if laboratory confirmation of hormonal status), or have had a hysterectomy, bilateral
+             tubular ligation or bilateral oophorectomy.
+
+         11. Females who are breastfeeding.
+
+         12. Subjects with active respiratory allergies or subjects expected to require
+             anti-allergy medications during the study period for respiratory allergies.
+
+         13. Subjects taking medications considered to be major CYP2C8 substrates.
+
+         14. Subjects who, in the judgment of the Investigator, will be unlikely to comply with the
+             requirements of this protocol including completion of the subject diary.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Matthew Bardin, PharmD, BCPS</last_name>
+    <phone>813-282-8544</phone>
+    <email>matthew.bardin@romark.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>HealthStar Research LLC</name>
+      <address>
+        <city>Hot Springs</city>
+        <state>Arkansas</state>
+        <zip>71913</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>So Cal Clinical Research</name>
+      <address>
+        <city>Huntington Beach</city>
+        <state>California</state>
+        <zip>92647</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Long Beach Clinical Trials, LLC</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Meris Clinical Research</name>
+      <address>
+        <city>Brandon</city>
+        <state>Florida</state>
+        <zip>33511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Invesclinica US LLC</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Chappel Group Research</name>
+      <address>
+        <city>Kissimmee</city>
+        <state>Florida</state>
+        <zip>34744</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>New Horizon Research Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions, Inc.</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DMI Research</name>
+      <address>
+        <city>Pinellas Park</city>
+        <state>Florida</state>
+        <zip>33782</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tampa General Hospital</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chicago Clinical Research Institute, Inc.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chicago Medical Research Institute, Inc.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Quad Clinical Research</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60643</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chicago Medical Research, LLC</name>
+      <address>
+        <city>Hazel Crest</city>
+        <state>Illinois</state>
+        <zip>60429</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centex Studies, Inc.</name>
+      <address>
+        <city>Lake Charles</city>
+        <state>Louisiana</state>
+        <zip>70601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Vida Clinical Studies</name>
+      <address>
+        <city>Dearborn</city>
+        <state>Michigan</state>
+        <zip>48124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beacom Family Health Connection</name>
+      <address>
+        <city>Fremont</city>
+        <state>Nebraska</state>
+        <zip>68025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>North Jersey Community Research Initiative</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>RH Medical Urgent Care Professional PLLC</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Integrative Clinical Trials LLC</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The New York Center for Travel and Tropical Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centex Studies, Inc.</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77058</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SMS Clinical Research LLC</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75149</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>LinQ Research LLC</name>
+      <address>
+        <city>Pearland</city>
+        <state>Texas</state>
+        <zip>77584</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rio Grande Valley Clinical Research Institute</name>
+      <address>
+        <city>Pharr</city>
+        <state>Texas</state>
+        <zip>78577</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>BFHC Research</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Romark</last_name>
+      <phone>877-925-4642</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>April 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>September 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Viral Respiratory Illnesses</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nitazoxanide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1639">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04531254</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1000071861</org_study_id>
+    <nct_id>NCT04531254</nct_id>
+  </id_info>
+  <brief_title>Back to School COVID-19 Simulation Study</brief_title>
+  <official_title>Understanding the Impact of Public Health Measures Planned for School Reopening During COVID-19 Using Simulation Exercises</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Hospital for Sick Children</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Hospital for Sick Children</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This will be a prospective study simulating return to school for two full days prior to the
+      start of the school year in September. Volunteer students and teachers from six grade ranges
+      will be recruited to participate in the study. In each grade range, there will be two classes
+      that will participate, one that will be assigned to wear face masks/coverings at all times
+      (experimental group/class) and the other that will not wear face masks/coverings at all times
+      (control group/class). Students will be randomized to either the masking at all times
+      (experimental across all grades) or no masking (control across JK-Grade 4) / masking only
+      when physical distance can be maintained (control across Grade 5-Grade 12) class in their
+      appropriate grade. Personal behaviours and person-to-person interactions will be recorded
+      using video cameras. In addition, a safe biological indicator will be applied to the hands to
+      simulate potential asymptomatic infection in a subset of students. Other students will have
+      sanitizer applied so that students are blinded to who has the indicator. Cameras will be used
+      to document how the indicator moves throughout the classroom.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Grade ranges will include 1) Senior Kindergarten (children who have just completed JK or SK
+      in the 2019-2020 year), 2) Grades 1-2, 3) Grades 3-4, 4) Grades 5-6, 5) Grades 7-8 and 6)
+      high school. A total of 14 teachers and up to 240 students will be recruited. Final class
+      sizes will be in accordance with Ministry of Education and public health guidelines.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 10, 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total number of hand-to-face contacts per participant</measure>
+    <time_frame>Day 1</time_frame>
+    <description>To evaluate the frequency of touches to the face made in the simulated school environment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total number of hand-to-face contacts per participant</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To evaluate the frequency of touches to the face made in the simulated school environment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total number of touches to another person per participant</measure>
+    <time_frame>Day 1</time_frame>
+    <description>To evaluate the frequency of touches to another person in the simulated school environment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of touches to another person per participant</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To evaluate the frequency of touches to another person in the simulated school environment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of hand hygiene actions per participant</measure>
+    <time_frame>Day 1</time_frame>
+    <description>To evaluate the frequency of hand hygiene (i.e., hand washing, hand sanitizer) per participant</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of hand hygiene actions per participant</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To evaluate the frequency of hand hygiene (i.e., hand washing, hand sanitizer) per participant</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of glo germ transfers to another person</measure>
+    <time_frame>Day 1</time_frame>
+    <description>To evaluate the spread of Glo Germ from a group of children within a classroom to the hands/face of classmates or the teacher within the same classroom</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of glo germ transfers to another person</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To evaluate the spread of Glo Germ from a group of children within a classroom to the hands/face of classmates or the teacher within the same classroom</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of glo germ transfers to a surface</measure>
+    <time_frame>Day 1</time_frame>
+    <description>To evaluate the spread of Glo Germ from a group of children within a classroom to other surfaces in the classroom</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total number of glo germ transfers to a surface</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To evaluate the spread of Glo Germ from a group of children within a classroom to other surfaces in the classroom</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Teacher concerns measured using study-specific post-simulation questionnaire</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To evaluate the impact masks had on teaching experience</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Teacher concerns measured using semi-structured group interviews</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To discuss how the measures taken throughout the day (hand hygiene, mask use, physical distancing) impacted the teaching experience</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Student concerns measured using study-specific post-simulation questionnaire</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To evaluate the impact masks had on learning experience</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Student concerns measured using semi-structured group interviews</measure>
+    <time_frame>Day 2</time_frame>
+    <description>To discuss how the measures taken throughout the day (hand hygiene, mask use, physical distancing) impacted the learning experience</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Covid19</condition>
+  <condition>Schools</condition>
+  <arm_group>
+    <arm_group_label>Masking at all times</arm_group_label>
+    <description>Children in this group will be asked to wear a face mask/covering in the classroom and common areas during the simulation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No mask/masking when physical distancing is not maintained</arm_group_label>
+    <description>Children in this group will not be asked to wear a mask (JK-Grade 4) or only asked to wear a mask when physical distancing in the classroom cannot be maintained (Grade 5-Grade 12) during the simulation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Personal behaviours</intervention_name>
+    <description>Personal behaviours and person-to-person interactions will be recorded using video cameras.</description>
+    <arm_group_label>Masking at all times</arm_group_label>
+    <arm_group_label>No mask/masking when physical distancing is not maintained</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Children and teachers who attend at a public, private or independent school system are
+        eligible to participate.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        • To be included in the study, students must have attended a structure learning environment
+        during 2019-2020 school year and provide informed consent (student in Grade 7 or older) or
+        parental consent (SK - Grade 6) and assent (if appropriate). To be included in the study,
+        teachers must be certified teachers and provide informed consent to participate.
+
+        Exclusion Criteria:
+
+          -  require additional resources or support beyond what can be provided by the single
+             class teacher
+
+          -  have been exposed to an individual that has tested positive for SARS-CoV-2 in the 14
+             days prior to the simulation
+
+          -  test positive for COVID-19 in the 14 days prior to the simulation
+
+          -  have signs or symptoms of COVID-19, as identified on the screening form (See Screening
+             Form) before the simulations
+
+          -  travel outside Canada in the last 14 days
+
+          -  known hypersensitivity or allergy to the biological indicator (Fluoroscein
+             dye/GloGerm)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michelle Science</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Hospital for Sick Children</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The Hospital for Sick Children</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Hospital for Sick Children</investigator_affiliation>
+    <investigator_full_name>Michelle Science</investigator_full_name>
+    <investigator_title>Infectious Disease Physician</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

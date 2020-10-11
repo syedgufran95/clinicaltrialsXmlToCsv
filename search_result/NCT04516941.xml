@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1969">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516941</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CONVINCE Version 1.0 12052020</org_study_id>
+    <nct_id>NCT04516941</nct_id>
+  </id_info>
+  <brief_title>CorONa Virus edoxabaN ColchicinE (CONVINCE) COVID-19</brief_title>
+  <acronym>CONVINCE</acronym>
+  <official_title>Efficacy and Safety of Edoxaban and or Colchicine for Patients With SARS-CoV-2 Infection Managed in the Out of Hospital Setting</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Inselspital, Berne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Daiichi Sankyo Europe, GmbH, a Daiichi Sankyo Company</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital Inselspital, Berne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There is emerging evidence that patients with SARS-CoV-2 are affected by increased
+      coagulopathy, including in the most advanced forms, a fully blown disseminated intravascular
+      coagulation, leading to multi organ failure (MOF). Post-Morten observations from patients who
+      died because of SARS-CoV-2 infection in Bergamo, Italy and other places have revealed the
+      presence of diffuse venous, arterial and microcirculatorythrombosis, not only restricted to
+      the lung but also involving the kidneys, heart and gut.
+
+      Thrombin plays a central role in mediating clot forming as well as in mediating inflammation.
+      A direct factor X inhibitor, namely edoxaban can act as prophylactic measure to mitigate the
+      risk of venous and arterial thrombotic complications.
+
+      Colchicine is an inexpensive (generic drug), orally administered, and a potent
+      anti-inflammatory medication. It might accelerate SARS-CoV-2 clearance.
+
+      The aim of the CONVINCE study is therefore to assess the safety and efficacy of edoxaban
+      and/or colchicine administration in SARS-CoV-2 infected patients who are managed outside the
+      hospital with respect to the occurrence of fatalities, hospitalisation, major vascular
+      thrombotic events or the SARS-CoV-2 clearance rate under RT PCR.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>2x2 factorial design</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Edoxaban vs. no active treatment</measure>
+    <time_frame>Baseline to day 25</time_frame>
+    <description>To assess the effect of edoxaban versus no active treatment on the composite endpoint of asymptomatic proximal deep-vein thrombosis, symptomatic proximal or distal deep-vein thrombosis, symptomatic pulmonary embolism or thrombosis, myocardial infarction, ischemic stroke, non-CNS systemic embolism or death at day 25 (+/-3) after randomization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Colchicine vs no active treatment</measure>
+    <time_frame>Baseline to day 14</time_frame>
+    <description>To assess the effect of colchicine versus no active treatment on the SARS-CoV-2 clearance rates under RT PCR or freedom from death or hospitalisation at day 14 (+/-3) after randomization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with asymptomatic proximal deep-vein thrombosis</measure>
+    <time_frame>Baseline to day 25</time_frame>
+    <description>An intraluminal filling defect on CT scan or MR venography in the IVC or iliac veins.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with symptomatic proximal or distal deep-vein thrombosis</measure>
+    <time_frame>Baseline to day 25</time_frame>
+    <description>Typical symptoms of DVT associated with non-compressible vein segment on ultrasonography or an intra-luminal filling defect on venography, CT venography or MRI venography,located in the inferior vena cava (IVC), the iliac vein, the common femoral vein, the femoral or the popliteal vein.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patient with symptomatic pulmonary embolism or thrombosis</measure>
+    <time_frame>Baseline to day 25</time_frame>
+    <description>Typical symptoms of PE associated with
+an intra-luminal filling defect in (sub) segmental or more proximal branches on spiral computed tomography scan (CT) or computerized tomographic pulmonary angiography (CTPA).
+a considerable perfusion defect (~ 75% of a segment) with a local normal ventilation result (high probability) during perfusion-ventilation lung scan (PLS, VLS or V/Q scan).
+an intraluminal filling defect or a sudden cut-off of vessels (~more than 2.5 mm in diameter) on a catheter guided pulmonary angiogram.
+In case of an inconclusive CTPA, inconclusive V/Q scan or inconclusive angiography demonstration of DVT in the lower extremities e.g. by compression ultrasound or venography will be required</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with myocardial infarction</measure>
+    <time_frame>Baseline to day 25</time_frame>
+    <description>For the primary analysis, MI endpoint will be defined based on the third universal definition of myocardial infarction with the exception of periprocedural MI after PCI, which will be defined according to the SCAI definition.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with ischemic stroke</measure>
+    <time_frame>Baseline to day 25</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with non-CNS systemic embolism</measure>
+    <time_frame>Baseline to day 25</time_frame>
+    <description>Ischemic stroke is defined as an acute episode of focal cerebral, spinal, or retinal dysfunction caused by CNS infarction</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of deaths</measure>
+    <time_frame>Baseline to day 25</time_frame>
+    <description>Death will be classified in 5 categories with respect to cause. Thromboembolism, cardiovascular, bleeding, Pulmonary other known cause. In general, all deaths will be assumed to be due to thromboembolism or pulmonary in nature unless another cause is obvious</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilation need</measure>
+    <time_frame>Baseline to day 25</time_frame>
+    <description>Need for non-invasive or invasive ventilation</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">420</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Edoxaban</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Edoxaban 60 mg q.d., or 30 mg q.d. in patients with CrCl = or &lt;50 ml/min or body weight equal or less than 60 kg from randomization to end of study visit at day 25 (+/-3).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Colchicine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Colchicine at 0.5 mg per os (PO) twice daily for the first 3 days and then once daily from randomization to day 14 (+/-3) days. Treatment could be continued to day 25 (+3/-3 days).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No Edoxaban and No Colchicine</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Edoxaban and Colchicine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Edoxaban 60 mg q.d., or 30 mg q.d. in patients with CrCl = or &lt;50 ml/min or body weight equal or less than 60 kg from randomization to end of study visit at day 25 (+/-3).
+Colchicine at 0.5 mg per os (PO) twice daily for the first 3 days and then once daily from randomization to day 14 (+/-3) days. Treatment could be continued to day 25 (+3/-3 days).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Edoxaban Tablets</intervention_name>
+    <description>Treatment</description>
+    <arm_group_label>Edoxaban</arm_group_label>
+    <arm_group_label>Edoxaban and Colchicine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colchicine Tablets</intervention_name>
+    <description>Treatment</description>
+    <arm_group_label>Colchicine</arm_group_label>
+    <arm_group_label>Edoxaban and Colchicine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients with laboratory confirmed SARS-CoV-2 infection (under RT PCR) who are managed at
+        home or in another out-of-hospital setting.
+
+        Exclusion Criteria:
+
+        Hepatic disease associated with coagulopathy and clinically relevant bleeding risk,
+        including Child-Pugh C cirrhosis with portal hypertension.
+
+          -  Lesion or condition, if considered to be a significant risk for major bleeding. This
+             may include current or recent gastrointestinal ulceration, presence of malignant
+             neoplasms at high risk of bleeding, recent brain or spinal injury, recent brain,
+             spinal or ophthalmic surgery, recent intracranial haemorrhage, known or suspected
+             oesophageal varices, arteriovenous malformations, vascular aneurysms or major
+             intraspinal or intracerebral vascular abnormalities.
+
+          -  Uncontrolled severe hypertension.
+
+          -  Ongoing or planned treatment with parenteral or oral anticoagulants
+
+          -  Unilateral or bilateral above knee lower extremity amputation.
+
+          -  Inability to take oral medication or otherwise unable or unwilling to undergo/perform
+             study-specified procedures
+
+          -  Have received or will receive an experimental drug or used an experimental medical
+             device within 30 days before the planned start of treatment
+
+          -  Pregnancy or breast-feeding or any plan to become pregnant during the study. Women
+             (and men, for Colchicine group only) with child-bearing potential not using adequate
+             birth control method (note: as adequate method of birth control oral contraception is
+             recommended. If oral contraception is not feasible, both partners should use adequate
+             barrier birth control).
+
+          -  Need for dual anti-platelet therapy consisting of aspirin and an oral P2Y12 inhibitor
+
+          -  Inflammatory bowel disease or chronic diarrhea or neuromuscular disease
+
+          -  Creatinine clearance (CrCl) &lt;15 ml/min
+
+          -  Anticipated use of Hydroxychloroquine
+
+          -  Participation in any other clinical trial
+
+          -  Inability to understand the requirements of the study and to provide informed consent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephan Windecker, Prof. Dr.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Bern University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stephan Windecker, Prof. Dr.</last_name>
+    <phone>+41 31 63 2 44 97</phone>
+    <email>Stephan.Windecker@insel.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Olga Deckarm, MD</last_name>
+    <phone>+41316325492</phone>
+    <email>olga.deckarm@insel.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Bern University Hospital</name>
+      <address>
+        <city>Bern</city>
+        <zip>3010</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stephan Windecker, MD</last_name>
+      <phone>+41316324497</phone>
+      <phone_ext>+41316324497</phone_ext>
+      <email>Stephan.Windecker@insel.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Stephan Windecker</last_name>
+      <phone>+41316324497</phone>
+      <phone_ext>+41316324497</phone_ext>
+      <email>Stephan.Windecker@insel.ch</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale regionale Lugano</name>
+      <address>
+        <city>Lugano</city>
+        <zip>6900</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <results_reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia. J Thromb Haemost. 2020 Apr;18(4):844-847. doi: 10.1111/jth.14768. Epub 2020 Mar 13.</citation>
+    <PMID>32073213</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhou F, Fan G, Liu Z, Cao B. SARS-CoV-2 shedding and infectivity - Authors' reply. Lancet. 2020 Apr 25;395(10233):1340. doi: 10.1016/S0140-6736(20)30869-2. Epub 2020 Apr 15.</citation>
+    <PMID>32304646</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Varga Z, Flammer AJ, Steiger P, Haberecker M, Andermatt R, Zinkernagel AS, Mehra MR, Schuepbach RA, Ruschitzka F, Moch H. Endothelial cell infection and endotheliitis in COVID-19. Lancet. 2020 May 2;395(10234):1417-1418. doi: 10.1016/S0140-6736(20)30937-5. Epub 2020 Apr 21.</citation>
+    <PMID>32325026</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ranucci M, Ballotta A, Di Dedda U, Bayshnikova E, Dei Poli M, Resta M, Falco M, Albano G, Menicanti L. The procoagulant pattern of patients with COVID-19 acute respiratory distress syndrome. J Thromb Haemost. 2020 Jul;18(7):1747-1751. doi: 10.1111/jth.14854. Epub 2020 May 6.</citation>
+    <PMID>32302448</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Panigada M, Bottino N, Tagliabue P, Grasselli G, Novembrino C, Chantarangkul V, Pesenti A, Peyvandi F, Tripodi A. Hypercoagulability of COVID-19 patients in intensive care unit: A report of thromboelastography findings and other parameters of hemostasis. J Thromb Haemost. 2020 Jul;18(7):1738-1742. doi: 10.1111/jth.14850. Epub 2020 Jun 24.</citation>
+    <PMID>32302438</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Poissy J, Goutay J, Caplan M, Parmentier E, Duburcq T, Lassalle F, Jeanpierre E, Rauch A, Labreuche J, Susen S; Lille ICU Haemostasis COVID-19 Group. Pulmonary Embolism in Patients With COVID-19: Awareness of an Increased Prevalence. Circulation. 2020 Jul 14;142(2):184-186. doi: 10.1161/CIRCULATIONAHA.120.047430. Epub 2020 Apr 24.</citation>
+    <PMID>32330083</PMID>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>August 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+    <mesh_term>Edoxaban</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

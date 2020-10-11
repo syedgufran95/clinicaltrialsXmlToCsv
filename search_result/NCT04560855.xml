@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="869">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04560855</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-A00981-38</org_study_id>
+    <nct_id>NCT04560855</nct_id>
+  </id_info>
+  <brief_title>Secure Self-monitoring Through a Combination of Connected Objects: Implementation in COVID-19 Patients Monitored at Home</brief_title>
+  <acronym>SECURADOM</acronym>
+  <official_title>Secure Self-monitoring Through a Combination of Connected Objects: Implementation in COVID-19 Patients Monitored at Home</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Withings</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Withings</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Currently, COVID+ infected patients who are on ambulatory home monitoring self-assess their
+      health status simply by completing questionnaires and measuring their temperature twice a
+      day. The SECURADOM project proposes to facilitate the follow-up of COVID+ or suspected COVID+
+      infected patients, followed at home, by collecting clinical signs on a telephone application
+      and to monitor physiological safety parameters (respiratory rate, heart rate, temperature,
+      blood pressure, activity) using connected objects developed by the company WITHINGS. This
+      daily monitoring, which can be transmitted by patients to the doctors in charge of their
+      surveillance, will improve the quality and safety of home monitoring.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 14, 2020</start_date>
+  <completion_date type="Anticipated">September 14, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 14, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity and Specificity of the patient's aggravation with a logistic regression model</measure>
+    <time_frame>1 year</time_frame>
+    <description>The sensitivity and specificity of a logistic regression model based on the vital parameters retrieved from the connected devices will be calculated in order to evaluate its performance</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sensitivity and Specificity of the patient's aggravation with a cluster model</measure>
+    <time_frame>1 year</time_frame>
+    <description>The sensitivity and specificity of a cluster model based on the vital parameters retrieved from the connected devices will be calculated in order to evaluate its performance</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Study the evolution of daily patient parameters without aggravation over time</measure>
+    <time_frame>1 year</time_frame>
+    <description>Slope of daily patient parameters without aggravation over time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective assessment of the connected devices</measure>
+    <time_frame>1 year</time_frame>
+    <description>The UX meCUE Scale (User eXperience modular evaluation of key Components of User Experience) questionnaire will be used. It is composed of 16 items where the participant has to answer if he agrees or not with the statement (from 0 - don't agree - to 6 - strongly agree -).</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Covid19 Patients</arm_group_label>
+    <description>Patients diagnosed as COVID-19 positive and managed on an outpatient basis.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Connected devices measurements</intervention_name>
+    <description>The patient has to measure everyday several vital parameters like respiration and heart rate during the night with Withings Sleep, temperature with Withings Thermo, arterial pressure with Withings Tensiometer and physical activity with Withings smartwatch.</description>
+    <arm_group_label>Covid19 Patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient diagnosed COVID positive with RT-PCR positive or very suggestive symptoms and a
+        contagion (contact with sick subjects) that can be managed on an outpatient basis.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adults, men and women, 18 y/o or more
+
+          -  Patient diagnosed COVID positive with RT-PCR positive or very suggestive symptoms and
+             a contagion (contact with sick subjects) that can be managed on an outpatient basis.
+
+          -  Patient in possession of a smartphone (with Android or iOS) allowing the installation
+             of the Withings Health Mate application
+
+          -  Patient with access to an internet connection for the use of Withings connected
+             products at the containment site
+
+          -  Voluntary patient who has not objected to his or her participation
+
+          -  Patient affiliated to or beneficiary of a social security scheme
+
+        Exclusion Criteria:
+
+          -  Pregnant Women
+
+          -  Patient with severe symptoms requiring hospitalization as recommended by the French
+             Ministry of Health (23/03/2020)
+
+          -  Patient without social protection or affiliated to the AME (State Medical Aid)
+
+          -  Person deprived of liberty by judicial or administrative decision, person subject to a
+             legal protection measure (patient under guardianship or curatorship) Articles L1121-5
+             to L1121-8
+
+          -  Patient who, in the judgment of the investigator, may not be cooperative or respectful
+             of the obligations inherent to participation in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Louis Pépin, Pr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU Grenoble Alpes</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yang Rui Yu, PhD</last_name>
+    <phone>+33 6 19 78 25 54</phone>
+    <email>ruiyi.yang@withings.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>David Campo, PhD</last_name>
+    <phone>+33 1 75 60 26 81</phone>
+    <email>david.campo@withings.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU Grenoble-Alpes</name>
+      <address>
+        <city>Grenoble</city>
+        <state>Auvergne-Rhône-Alpes</state>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean-Louis Pépin, Pr</last_name>
+      <phone>+33 4 76 76 87 66</phone>
+      <email>JPepin@chu-grenoble.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU d'Amiens</name>
+      <address>
+        <city>Amiens</city>
+        <state>Hauts-de-France</state>
+        <zip>80054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital d'Instruction des Armées Bégin</name>
+      <address>
+        <city>Saint-Mandé</city>
+        <state>Ile De France</state>
+        <zip>94160</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital d'Instruction des Armées Percy</name>
+      <address>
+        <city>Clamart</city>
+        <state>Ile-de-France</state>
+        <zip>92140</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 23, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

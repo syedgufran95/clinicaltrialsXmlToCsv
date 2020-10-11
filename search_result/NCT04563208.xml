@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1698">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04563208</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DUACT-101</org_study_id>
+    <nct_id>NCT04563208</nct_id>
+  </id_info>
+  <brief_title>Study of Oral Administration of Ribavirin and Nitazoxamide Versus Placebo in COVID-19</brief_title>
+  <acronym>DuACT</acronym>
+  <official_title>A Randomized, Double-Blind, Study Comparing the Efficacy, Safety, and Tolerability of Oral Administration of Ribavirin (RBV) and Nitazoxamide (NTZ)Versus Placebo in SARS-CoV-2 Virus Infected Participants (DuACT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Witwatersrand, South Africa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Witwatersrand, South Africa</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single center, randomized, double-blind, 2-arm, parallel-group study of DuACT in
+      participants with clinical symptoms of COVID-19 that have begun within the past 48 hours
+      prior to testing.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single center, randomized, double-blind, 2-arm, parallel-group study of DuACT in
+      participants with clinical symptoms of COVID-19 that have begun within the past 48 hours
+      prior to testing. A confirmatory diagnosis of COVID-19 via nasopharyngeal swab, with a
+      positive PCR result within 48 hours of testing.
+
+      Consented participants who complete screening and meet study eligibility criteria will be
+      randomized in a 1:1 ratio to receive DuACT or Placebo for 5 days.
+
+      Study drugs will be administered BID for 5 days with a loading dose on Day 1. Following
+      randomization, participants will complete a symptom questionnaire, record temperature and
+      record oxygen saturation daily for 10 days and at day 28. A thermometer and pulse oximeter
+      will be provided to each patient at the baseline visit (Day 1).
+
+      On study days 3, 6 and 10 participants will have a clinic or home visit by a home healthcare
+      provider. At these visits, a mid-turbinate nasal swab will be obtained, confirmation of the
+      patient's clinical symptoms questionnaire will be completed and any adverse events will be
+      assessed.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+    <masking_description>Double-blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of decline in viral load</measure>
+    <time_frame>10 days</time_frame>
+    <description>Rate of decline in viral load over the 10 days after randomization between participants treated with RBV and NTZ for COVID-19 and placebo</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of viral load</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time to resolution of viral load, defined by reduction of virus below LLOQ and maintaining it for 2 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of proportion of subjects who are asymptomatic and symptomatic</measure>
+    <time_frame>10 days</time_frame>
+    <description>Comparison of proportion of subjects who are asymptomatic and symptomatic at day 10</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of decline in viral load</measure>
+    <time_frame>Days 3 and 6</time_frame>
+    <description>To assess the rate of decline in viral load over days 3 and 6 after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in modified NEWS-2</measure>
+    <time_frame>28 days</time_frame>
+    <description>Assess change in modified National Early Warning System-2 items on a scale of 0 to 20. HIgher scores meaning greater clinical risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with treatment emergent adverse events</measure>
+    <time_frame>28 days</time_frame>
+    <description>Proportion of subjects with treatment emergent adverse events leading to study drug discontinuation</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Arm A: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Ribavirin/Nitazoxanide (RBV/NTZ)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Ribavirin/Nitazoxanide (RBV/NTZ) administered</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo administered on Days 1-5</description>
+    <arm_group_label>Arm A: Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DuACT</intervention_name>
+    <description>Day1: RBV 600 mg BID and NTZ 500 mg BID Days 2-5: RBV 400 mg BID and NTZ 500 mg BID</description>
+    <arm_group_label>Arm B: Ribavirin/Nitazoxanide (RBV/NTZ)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Signed a current EC approved informed consent form
+
+          2. Male or female participants between 18 and 75 years of age, inclusive diagnosis of
+             SARS-CoV-2 infection, with all of the following, with onset of any within the 48 hours
+             prior to testing:
+
+               1. Presence of fever at time of screening of ≥ 38.0°C (≥ 100.0°F)
+
+               2. Presence of at least one constitutional symptom associated with Covid-19 (e.g.
+                  headache, myalgia, malaise, or fatigue, rash, diarrhea, loss or alteration of
+                  taste/smell) of any severity,
+
+               3. Presence of at least one respiratory symptom (e.g. cough, chest tightness or sore
+                  throat)
+
+          3. Diagnosis of COVID-19 with a positive PCR in the past 48 hours
+
+        Exclusion Criteria:
+
+          1. Critically ill with presence of one or more of the following signs:
+
+               1. difficulty breathing or shortness of breath
+
+               2. need for admission to a hospital or an intensive care unit,
+
+               3. acute respiratory failure requiring intubation/mechanical ventilation,
+
+               4. signs of shock including hypotension
+
+               5. Oxygen saturation &lt; 92 %
+
+          2. Any clinically significant screening laboratory results that are greater than 5 times
+             the upper limit of normal.
+
+          3. Estimated GFR &lt; 50 mL/min/1.73 m2 (calculated using either Modification of Diet in
+             Renal Disease (MDRD) or Cockcroft Gualt
+
+          4. Known genetic hemoglobinopathy (e.g., thalassemia major or sickle cell anemia) or
+             autoimmune hemolytic anemia
+
+          5. Hemoglobin less than 10 gm/dL or hematocrit &lt; 30 %
+
+          6. Retinal eye disease
+
+          7. Known chronic kidney disease, stage - 5 or receiving dialysis
+
+          8. Inability to tolerate oral medications
+
+          9. Allergy or prior adverse reaction to either ribavirin or nitazoxanide
+
+         10. QTc interval &gt; 450 mSEC for men and women
+
+         11. History of Torsade de Pointes VT or prior cardiac arrest or congenital long QT
+             interval
+
+         12. Current treatment with histamine-2 receptor antagonists (H2 blockers) and/or Protein
+             Pump Inhibitors and throughout the study.
+
+         13. Any physical, mental, or social condition, drug/alcohol use, history of illness or
+             laboratory abnormality that in the investigator's judgment might interfere with study
+             procedures or the ability of the subject to adhere to and complete the study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Sunnyside Office Park</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>South Africa</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 24, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Witwatersrand, South Africa</investigator_affiliation>
+    <investigator_full_name>Willem Daniel Francois Venter</investigator_full_name>
+    <investigator_title>Divisional Director: Ezintsha</investigator_title>
+  </responsible_party>
+  <keyword>Ribavirin</keyword>
+  <keyword>Nitazoxanide</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

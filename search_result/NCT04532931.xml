@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="373">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04532931</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SP-PA-COV-202</org_study_id>
+    <nct_id>NCT04532931</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Treatment in South Africa</brief_title>
+  <official_title>Phase 2, Exploratory, Single Center, Randomized, Open Label, Adaptive Clinical Trial to Compare Safety and Efficacy of Four Different Experimental Drug Regimens to Standard of Care for the Treatment of Symptomatic Outpatients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shin Poong Pharmaceutical Co. Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medicines for Malaria Venture</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shin Poong Pharmaceutical Co. Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This exploratory study is a randomized, single center, open label study of four different
+      experimental treatment arms versus standard of care for the treatment of SARS-CoV-2 infection
+      in symptomatic outpatients with mild disease at the time of enrollment.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This phase 2, exploratory study will be an adaptive, randomized, open label, trial for
+      treatment of individuals in an outpatient settings with mild SARS-CoV-2 infection. The
+      primary outcome is focused on the evaluation of efficacy of the proposed experimental drugs
+      in reducing upper respiratory viral shedding, defined as viral clearance (i.e., negative
+      swab) on Day 7. Key secondary outcomes focus on other measures of viral shedding, safety
+      evaluation, progression to LRTI (defined by resting blood oxygen saturation level [SpO2] &lt;93%
+      sustained for two readings two hours apart and presence of subjective dyspnoea or cough),
+      disease severity, clinical resolution rate, and cumulative incidence of hospitalization or
+      mortality at Day 28.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">September 3, 2020</start_date>
+  <completion_date type="Anticipated">January 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of SARS-CoV-2 clearance</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Defined as the proportion of participants with a negative nasal swab</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of SARS-CoV-2 clearance</measure>
+    <time_frame>Day 10, 14, 21, 28</time_frame>
+    <description>Defined as the proportion of participants with a negative nasal swab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to clearance of nasal SARS-CoV-2</measure>
+    <time_frame>Day 0, 3, 7, 10, 14, 21, 28</time_frame>
+    <description>Defined as a negative swab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median quantity of SARS-CoV-2</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Detected from mid-nasal swabs by PCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of days with fever after randomization</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Number of days with fever</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of days with respiratory symptoms after randomization</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Number of days with respiratory symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FLU-PRO© Plus</measure>
+    <time_frame>14 days</time_frame>
+    <description>FLU-PRO© Plus questionnaire scores and FLU-PRO© Plus Global Additional Daily Diary Items
+*The Influenza Patient-Reported Outcome instrument (FLU-PRO© Plus)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious adverse events</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Serious adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events resulting in treatment discontinuation</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events considered related to the investigational products</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Related adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LRTI</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Resting SpO2&lt;93% sustained for 2 readings 2 hours apart AND presence of subjective dyspnea or cough in participants with access to SpO2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum score on WHO Ordinal Scale for Clinical Improvement during study participation</measure>
+    <time_frame>Day 28</time_frame>
+    <description>score 0(Uninfected)~ score 8(Dead)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of hospitalization</measure>
+    <time_frame>Day 28</time_frame>
+    <description>frequency of patients requiring time in hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of hospitalization</measure>
+    <time_frame>Day 28</time_frame>
+    <description>length of hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of mortality</measure>
+    <time_frame>Day 28 or later if participant is hospitalized at the time of Day 28</time_frame>
+    <description>incidence of death</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Paracetamol (SOC)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SOC plus Artesunate-Amodiaquine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SOC plus Pyronaridine-Artesunate</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm D</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SOC plus Favipiravir plus Nitazoxanide</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm E</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SOC plus Sofosbuvir/daclatasvir</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of care (Paracetamol)</intervention_name>
+    <description>SOC - 2 tablets (1000 mg) to be taken 6-hourly as needed</description>
+    <arm_group_label>Arm A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Artesunate-amodiaquine</intervention_name>
+    <description>SOC plus artesunate-amodiaquine (ASAQ) - 2 tablets (200/540 mg artesunate/amodiaquine) daily for 3 days</description>
+    <arm_group_label>Arm B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pyronaridine-artesunate</intervention_name>
+    <description>SOC plus pyronaridine-artesunate (PA) Weight 45 to &lt;65 kg: 3 tablets (540/180 mg pyronaridine/artesunate) daily for 3 days Weight ≥65 kg: 4 tablets (720/240 mg pyronaridine/artesunate) daily for 3 days</description>
+    <arm_group_label>Arm C</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favipiravir plus Nitazoxanide</intervention_name>
+    <description>SOC plus favipiravir plus nitazoxanide (FPV-NTZ) Favipiravir: 1600 mg 12-hourly for 1 day then 600 mg 12-hourly for 6 days Nitazoxanide: 2 tablets (1000 mg) 12-hourly for 7 days</description>
+    <arm_group_label>Arm D</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sofosbuvir/daclatasvir</intervention_name>
+    <description>SOC plus sofosbuvir/daclatasvir (SOF/DCV)
+1 tablet (400 mg/60 mg sofosbuvir/daclatasvir) daily for 7 days</description>
+    <arm_group_label>Arm E</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age from 18 to 65 years of age, inclusive, at the time of signing the informed
+             consent.
+
+          2. Willing and able to provide informed consent.
+
+          3. Women of reproductive potential must be using a highly effective method of
+             contraception for at least 28 days prior to enrolment and must be able and willing to
+             continue its use throughout the duration of the study.
+
+          4. Men must agree to use condoms when engaging in heterosexual sex during the study and
+             for the period up to 91 days after the last dose of study medication. Men who are not
+             randomized to a treatment arm including favipiravir (or another arm identified as
+             having teratogenic potential through semen) will no longer need to adhere to this
+             after randomization.
+
+          5. Laboratory confirmed SARS-CoV-2 infection, and any of the following self-reported
+             symptoms within 72 hours prior to randomization: fever or chills, cough, myalgia, sore
+             throat, shortness of breath, or new onset of anosmia or ageusia.
+
+          6. Body weight ≥45 kg.
+
+          7. Access to reliable video conference, telephone, direct/text messaging, or other device
+             permitting real-time, reliable information transfer.
+
+        Exclusion Criteria:
+
+          1. Pregnant or lactating women.
+
+          2. Known hypersensitivity or specific contraindications to the use of any of the active
+             drugs in the treatment arms, or similar compounds.
+
+          3. Signs of respiratory distress prior to randomization, including:
+
+               -  respiratory rate &gt;24 breaths/min
+
+               -  SpO2 &lt;95% in room air.
+
+          4. Resting pulse rate ≥120 beats/min.
+
+          5. High likelihood of hospitalization in the opinion of the attending clinician.
+
+          6. QTcF &gt;470 msec for females, or &gt;450 msec for males, at screening.
+
+          7. Serum potassium &lt;3.5 mmol/L at screening.
+
+          8. History of clinically significant cardiovascular disease (including arrhythmias,
+             QT-interval prolongation, torsades de pointes (TdP), history of coronary artery
+             disease with graft or stent procedures/surgery, cardiac failure [class 2 or higher
+             using the New York Heart Association functional classification]).
+
+          9. Known chronic kidney disease (Stage IV or receiving dialysis).
+
+         10. Known cirrhosis (Child-Pugh Class B or greater).
+
+         11. Known macular degeneration, or other known retinal diseases, or
+             4-aminoquinolone-induced visual impairment.
+
+         12. Currently receiving, or recently received (within 60 days prior to randomization)
+             treatment with any of the drugs in the treatment arms.
+
+         13. Currently receiving, or recently received (within 30 days prior to randomization)
+             treatment with any antimalarial drugs.
+
+         14. Currently on treatment with drugs with known arrhythmogenic potential, or those known
+             to induce significant QT-interval prolongation or TdP, as detailed in Appendix 6.
+
+         15. Currently on treatment for tuberculosis (or on treatment with rifampicin for any other
+             indication), or on treatment with a protease inhibitor-based antiretroviral regimen,
+             or efavirenz, or carbamazepine.
+
+         16. Inability/unlikely to be in the study area for the duration of the 28 day follow-up
+             period.
+
+         17. Any surgical or medical condition which might significantly alter the absorption,
+             distribution, metabolism, or excretion of drugs, or which may jeopardize the safety of
+             the volunteer or the objectives of the study. The Investigator should make this
+             determination in consideration of the volunteer's medical history.
+
+         18. Personnel (e.g. investigator, sub-investigator, research assistant, pharmacist, study
+             coordinator or anyone mentioned in the delegation log) directly involved in the
+             conduct of the study.
+
+         19. Participant is judged by the Investigator to be at significant risk of failing to
+             comply with the provisions of the protocol as to cause harm to self or seriously
+             interfere with the validity of the study results.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Farouk Chughlay, MD</last_name>
+    <phone>+41 22 555 0355</phone>
+    <email>chughlayf@mmv.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sarah Arbe-Barnes, PhD</last_name>
+    <email>sarah.arbe-barnes@artemidapharma.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ezintsha, Wits Reproductive Health &amp; HIV Institute University of the Witwatersrand</name>
+      <address>
+        <city>Johannesburg</city>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francois Venter, PhD</last_name>
+      <phone>+27 11 358 5457</phone>
+      <email>fventer@wrhi.ac.za</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nomathemba Chandiwana</last_name>
+      <phone>+27 76 164 3215</phone>
+      <email>nchandiwana@wrhi.ac.za</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>South Africa</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 31, 2020</study_first_posted>
+  <last_update_submitted>September 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Pyramax</keyword>
+  <keyword>Pyronaridine</keyword>
+  <keyword>Artesunate</keyword>
+  <keyword>Chloroquine</keyword>
+  <keyword>Zinc</keyword>
+  <keyword>Amodiaquine</keyword>
+  <keyword>Favipiravir</keyword>
+  <keyword>Nitazoxanide</keyword>
+  <keyword>Sofosbuvir</keyword>
+  <keyword>Daclatasvir</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acetaminophen</mesh_term>
+    <mesh_term>Sofosbuvir</mesh_term>
+    <mesh_term>Artesunate</mesh_term>
+    <mesh_term>Amodiaquine</mesh_term>
+    <mesh_term>Nitazoxanide</mesh_term>
+    <mesh_term>Pyronaridine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

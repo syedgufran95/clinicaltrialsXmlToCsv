@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="948">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04558021</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NOV2020/01930</org_study_id>
+    <nct_id>NCT04558021</nct_id>
+  </id_info>
+  <brief_title>A Study To Evaluate The Efficacy And Safety Of a Novel Niclosamide Suspension Formulation For COVID-19</brief_title>
+  <acronym>NICLONEX</acronym>
+  <official_title>A Phase III, Randomized, Placebo-controlled, Clinical Trial to Evaluate the Efficacy and Safety of Co-administered Niclosamide in Patients Treated With an Established Regimen for Novel Coronavirus Infectious Disease (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imuneks Farma ilac San. Tic. A.S.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Imuneks Farma ilac San. Tic. A.S.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to investigate the potential antiviral efficacy and safety of a novel
+      formulation of Niclosamide; a well-known antihelmintic agent, together with an established
+      COVID-19 treatment regimen in patients.
+
+      The aim of this study is to evaluate the safety and efficacy profile of niclosamide from the
+      test product (Niclosamide 200 mg/10 mL Suspension) in patients treated for the novel
+      coronavirus infectious disease (COVID-19) in a placebo controlled phase III trial. Both
+      treatment groups will receive an established treatment regimen against COVID-19 together with
+      either niclosamide or placebo.
+
+      The efficacy and safety of the molecule is well-known and the properties of novel formulation
+      is well-established. The promising in vitro results of niclosamide as an antiviral compound
+      is well documented and make it an ideal candidate as a therapy against SARS-CoV 2 infection.
+      A good safety profile is expected with solid antiviral activity.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will be performed in accordance with the relevant articles of the Declaration of
+      Helsinki (1964) as revised in Tokyo (1975), Venice (1983), Hong Kong (1989), Somerset West,
+      RSA (1996), Edinburgh (2000), Washington (2002), Tokyo (2004) and Seoul (2008) and Fortaleza
+      (2013).
+
+      The medications for the established treatment regimen will be supplied by Ministry of Health
+      to the study sites. The other study medications, Investigational product and placebo,
+      together with relative documentation, will be supplied to clinical sites by the sponsor.
+      Niclosamide 200 mg/10 mL Suspension and placebo will be supplied together with certificates
+      of analysis by the company responsible for manufacturing of the test product(s).The packaging
+      and labelling of niclosamide and placebo will be done according to the GMP and GCP
+      requirements.
+
+      All subjects will receive either 200 mg/10 mL niclosamide suspension or 10 mL placebo three
+      times a day for 5 days, together with an established COVID-19 treatment regimen according to
+      the official guidance for COVID-19 Adult Treatment Algorithm of Republic of Turkey Ministry
+      of Health. Dosings will be administered in accordance with the treatment randomization table
+      throughout the treatment duration.
+
+      On each drug administration, the identity of the subject will be confirmed by checking the
+      Identity Card. Administration of the study medication will be performed by the
+      investigator(s) and nurse(s) and supervised by a second medical professional to ensure the
+      correctness of drug administration. Also, a monitor may attend during this procedure. The
+      administration of the study medication is to be followed by a mouth check, to be documented
+      in the CRF and certified by the Investigator.
+
+      The statistical analysis will be done according to the provisions of ICH Topic E9,
+      Statistical Principles for Clinical Trials (CPMP/ICH/363/96), September 1998.
+
+      Statistical analysis will be performed as a valid case analysis including all subjects in
+      which no major protocol deviations occurred and all primary target variables are available
+      for measurement.
+
+      If a subject is to be excluded from evaluation, this decision has to be justified in the
+      Final Study Report.
+
+      Continuous variables will be expressed as means ± standard deviations (SD) for the normally
+      distributed data or median with interquartile (IQR) for the skewed data. Correspondingly,
+      two-sample independent t-test and Mann-Whitney U test will be used to detect the difference
+      between groups. Categorical variables will be described as number (%) and compared by χ² test
+      or Fisher's exact test as appropriate. Kaplan-Meier method will be used to estimate the
+      cumulative probability of the endpoint. Cox proportional hazards regression model will be
+      conducted to determine the potential risk factors associated with the endpoint. Statistical
+      significance will be defined as p&lt;α=0.0054 for interim analysis, p&lt;α=0.0492 for final
+      analysis using O'Brien-Fleming alpha adjustment. All analyses will be done with R project.
+
+      The expected percentage of treatment success is 75% in the experimental group and 50% in the
+      control group. The sample size calculation yields that 170 subjects are needed (85 for each
+      group) to achieve 90% power at α=0.05. Considering potential dropouts, the sample size is
+      estimated as 200 subjects (100 subjects for each group). For interim analysis, 100 subjects
+      (50 subjects for each group) will be evaluated.
+
+      Before being enrolled to the clinical study, the subject(s) must consent to participate in
+      the study by signing the informed consent form in response to a complete written and verbal
+      explanation of the nature, scope and possible consequences of the clinical study explained in
+      an understandable way for him/her by the physician.
+
+      Each subject will give in writing her/his authorization that the study data may be given for
+      review to the responsible Local and National Authorities.
+
+      The subject information and informed consent form will be provided in duplicate [one signed
+      version (original 1) will be left at the investigator; the other signed version (original 2)
+      will be forwarded to the subject].
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">September 28, 2020</start_date>
+  <completion_date type="Anticipated">January 7, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>200 patients will receive either 200 mg niclosamide in 10 mL of suspension or 10 mL of placebo three times a day together with an established treatment regimen in 1:1 ratio. The study will be conducted in 2 parts: an interim analysis will be conducted after the first 100 patients.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Physician's judgment on clinical recovery from the time of admission</measure>
+    <time_frame>Day 1 to day 19</time_frame>
+    <description>The physician will check for the following symptoms:
+Fever: axillary temperature ≤36.6°C or oral temperature ≤37.2 °C;
+Respiratory rate: ≤24/minute on room air;
+Oxygen saturation: &gt;94% on room air;
+Cough: mild or absent on a patient reported scale of severe, moderate, mild, absent.)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement in NEWS2</measure>
+    <time_frame>3 days from admission</time_frame>
+    <description>(National Early Warning Score 2) to 0 to 3 (Improvement in fever, respiratory rate, oxygen saturation,alleviation of cough scores to 3 points to 0 in 72 hours)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in serum biomarkers</measure>
+    <time_frame>Day 1 to day 3</time_frame>
+    <description>An elevated D-dimer,ferritin, thrombocyte, PT, aPTT, troponine and fibrinogen were associated with a poor outcome in COVID19. These parameters will be checked on day 1 and day 3.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for indotracheal intubation</measure>
+    <time_frame>Day 1 to day 19</time_frame>
+    <description>Requirement for indotracheal intubation is a key outcome for unsuccesful treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of Macrophage Activation Syndrome(MAS)</measure>
+    <time_frame>Day 1 to day 19</time_frame>
+    <description>Occurrence of Macrophage Activation Syndrome(MAS) will alert the physician that the patients condition is worsening.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of Coagulopathy</measure>
+    <time_frame>Day 1 to day 19</time_frame>
+    <description>Occurrence of Coagulopathy will alert the physician that the patients condition is worsening.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>Day 1 to day 19</time_frame>
+    <description>The assessment of safety will be based on CTCAE v4.0</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Intervention Arm-I</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Niclosamide 200 mg/10 mL Suspension will be administered to patients 3 times a day for 5 days along with the treatment regimen selected according to the official guidance for COVID-19 Adult Treatment Algorithm established by Republic of Turkey Ministry of Health</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention Arm-II</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>10 mL placebo will be administered to patients 3 times a day for 5 days along with the treatment regimen selected according to the official guidance for COVID-19 Adult Treatment Algorithm established by Republic of Turkey Ministry of Health</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Niclosamide suspension</intervention_name>
+    <description>200mg/10ml</description>
+    <arm_group_label>Intervention Arm-I</arm_group_label>
+    <other_name>Niclonex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>10ml placebo(absent of niclosamide)</description>
+    <arm_group_label>Intervention Arm-II</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Being able to understand the study and to give a written informed consent
+
+          2. Adult hospitalized patients (aged ≥18) confirmed or suspected for COVID-19 according
+             to the official General Information, Epidemiology and Diagnosis Guidance for COVID-19
+             (SARS-CoV-2 Infection) published by Republic of Turkey Ministry of Health showing at
+             least one of the symptoms below:
+
+               1. fever, cough, difficulty in breathing, sore throat, headache, muscle or body
+                  aches, new loss of taste or smell, diarreha without explanation of any cause than
+                  COVID-19 and history of herself/himself or her/his close contact presenting in
+                  the high-risk area of the disease within 14 days prior to the onset of symptoms
+                  or
+
+               2. at least one of the symptoms of fever, cough, difficulty in breathing, sore
+                  throat, headache, muscle or body aches, new loss of taste or smell, diarrhea
+                  without explanation of any cause than COVID-19 and close contact with confirmed
+                  COVID-19 case within 14 days prior to symptoms or
+
+               3. fever and at least one of the signs and symptoms of the severe acute respiratory
+                  infection (cough and difficulty in breathing) and need for hospitalization due to
+                  severe acute respiratory infection (SARI) explanation failure of the clinical
+                  features other than COVID-19 SARI: The need for hospitalization in a patient with
+                  acute respiratory infection due to fever, cough and dyspnea, tachypnea,
+                  hypoxemia, hypotension, wide radiological findings and consciousness developing
+                  in the last 14 days.
+
+                  or
+
+               4. at least two of the signs and symptoms of fever, cough, difficulty in breathing,
+                  sore throat, headache, muscle or body aches, new loss of taste or smell,
+                  diarrhoea without explanation of any cause than COVID-19 or
+
+          3. Patients detected with SARS-COV-2 by molecular methods who meet the criteria for
+             possible case of SARS-COV-2
+
+        Exclusion Criteria:
+
+          1. Who have allergy to niclosamide and/or any of the treatment agents and/or any of the
+             excipients of the products,
+
+          2. Who is diagnosed as &quot;severe or critical case&quot; (e.g. pneumonia or severe pneumonia),
+
+          3. Whose National Early Warning Score 2 (NEWS2) score is indicated as &quot;urgent&quot; or
+             &quot;emergency&quot;,
+
+          4. Any history of bone marrow transplant, solid-organ transplant, immune compromising
+             conditions, immunomodulatory therapy, haematologic malignancy,
+
+          5. Who have Multiple Sclerosis,
+
+          6. Who have electrolyte imbalance, chronic haemodialysis or glomerular filtration rate &lt;
+             30 30 mL/min/1.73m2,
+
+          7. Who have history of serious cardiovascular diseases,
+
+          8. Who are diagnosed with another ongoing viral infection other than SARS CoV-2,
+
+          9. Who have macrophage activation syndrome,
+
+         10. Who have a need for coagulopathy treatment,
+
+         11. Who have severe liver disease,
+
+         12. Who is pregnant or nursing,
+
+         13. Who are not suitable to 1st articles of inclusion criteria,
+
+         14. Who is not eligible to swallow oral medications,
+
+         15. Who use vitamin C as supplementary medication during the study,
+
+         16. Who are included in another trial.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aydin Erenmemisoglu, Prof.Dr.</last_name>
+    <role>Study Director</role>
+    <affiliation>ALPAN Farma Ltd.Sti.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Aydin Erenmemisoglu, Prof.Dr.</last_name>
+    <phone>+90 352 224-2322</phone>
+    <email>erenmemis@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ayşe Ö Mete, Dr.</last_name>
+    <phone>+90 506 488-3309</phone>
+    <email>ayseozlem_ornek@hotmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Akdeniz Üniversitesi Tıp Fakültesi Hastanesi</name>
+      <address>
+        <city>Antalya</city>
+        <zip>07070</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Antalya Eğitim ve Araştırma Hastanesi</name>
+      <address>
+        <city>Antalya</city>
+        <zip>07100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gaziantep Üniversitesi Tıp Fakültesi Hastanesi</name>
+      <address>
+        <city>Gaziantep</city>
+        <zip>27410</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ayse O Mete, Dr.</last_name>
+      <phone>+90342 360 60 60</phone>
+      <email>ayseozlem_ornek@hotmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>İlkay Karaoglan, Prof. Dr.</last_name>
+      <phone>+90342 360 60 60</phone>
+      <email>ikaraoglan10@hotmail.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Gaziosmanpaşa Taksim Eğitim ve Araştırma Hastanesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34255</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dokuz Eylül Üniversitesi Hastanesi</name>
+      <address>
+        <city>İzmir</city>
+        <zip>1606</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>İzmir SBÜ Tepecik Eğitim ve Araştırma Hastanesi</name>
+      <address>
+        <city>İzmir</city>
+        <zip>35020</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SBÜ Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi Eğitim ve Araştırma Hastanesi</name>
+      <address>
+        <city>İzmir</city>
+        <zip>35110</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>İzmir Katip Çelebi Üniversitesi Atatürk Eğitim ve Araştırma Hastanesi</name>
+      <address>
+        <city>İzmir</city>
+        <zip>35150</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Wu CJ, Jan JT, Chen CM, Hsieh HP, Hwang DR, Liu HW, Liu CY, Huang HW, Chen SC, Hong CF, Lin RK, Chao YS, Hsu JT. Inhibition of severe acute respiratory syndrome coronavirus replication by niclosamide. Antimicrob Agents Chemother. 2004 Jul;48(7):2693-6.</citation>
+    <PMID>15215127</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus</keyword>
+  <keyword>Niclosamide Suspension</keyword>
+  <keyword>Anti-viral</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Niclosamide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="724">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04500626</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OHRI-HBOT-001</org_study_id>
+    <nct_id>NCT04500626</nct_id>
+  </id_info>
+  <brief_title>Hyperbaric Versus Normobaric Oxygen Therapy for COVID-19 Patients</brief_title>
+  <official_title>Multicentre Randomized Controlled Trial of Hyperbaric Versus Normobaric Oxygen Therapy for COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ottawa Hospital Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Climate Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ottawa Hospital Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      At least 1 in 6 COVID-19 patients admitted to hospital to receive extra oxygen will die of
+      complications. In patients with COVID-19, invasive treatment such as mechanical ventilation
+      (e.g. breathing with a machine) is associated with a 50% increased risk of death. Invasive
+      treatments use a lot of healthcare resources in intensive care units and may lead to further
+      deaths if patients do not have access to care.
+
+      The investigators aim to improve outcomes for COVID-19 patients by implementing hyperbaric
+      oxygen therapy (HBOT). HBOT allows patients to breathe 100% oxygen in a special chamber at a
+      pressure higher than sea level. It is approved by Health Canada for 14 conditions. HBOT is
+      safe when administered by experienced teams.
+
+      There are two main causes of death in severe COVID-19 respiratory infections: (i) a decreased
+      diffusion of oxygen from the lungs to the blood and (ii) an increased inflammatory response
+      (also called a &quot;cytokine storm&quot;). HBOT leads to increased oxygen level in blood, has strong
+      anti-inflammatory effects, and may destroy the virus responsible for COVID-19 disease. The
+      initial experience with HBOT and COVID-19 from China, France and the United States is
+      promising in that it prevents further worsening of the condition and need for intensive care.
+
+      The investigators propose to test the effectiveness of HBOT for COVID-19 patients who are
+      admitted to hospital to receive extra oxygen. Using the most rigorous and innovative research
+      methods, this Canadian-led international study will operate at 5 centers across 3 countries
+      (Canada: Ottawa, Toronto, Edmonton; Switzerland: Geneva; UK: Rugby/London). The investigators
+      anticipate that when treated by HBOT, COVID-19 patients needing extra oxygen to breathe will
+      see significant health improvements as well as a decrease in complications, inflammation in
+      the blood, need for invasive care, death, and cost of care.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">August 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>7-level COVID Ordinal Outcome Scale</measure>
+    <time_frame>Measured on Day 7</time_frame>
+    <description>7-level scale based on patient's current status and need for oxygenation, also ability to resume normal activities (at higher levels). Range is 1-7. Higher number indicates better clinical outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>Measured in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days with oxygen supplementation</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>Number of days with oxygen supplementation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily oxygen flow values required to obtain saturation values ≥90%,</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>Measured in L/min</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU admission</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>Yes/No</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU length of stay</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>Measured in days, if applicable</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days on invasive mechanical ventilation or high flow oxygenation</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>Number of days on ventilator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major arterial and venous thrombotic events</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>e.g. stroke, pulmonary embolism, deep vein thrombosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep quality</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>Sleep Quality Scale, measured from 0 to 10. Higher number indicates worse sleep quality: 0 = &quot;best possible sleep&quot;, 10 = &quot;worst possible sleep&quot;. Capelleri et. al; Health and Quality of Life Outcomes 2009: 7:54</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>Single-Item Fatigue Report Mark, measured from 1 to 10. Higher number indicates worse fatigue: 1 = &quot;not at all&quot;, 10 = &quot;extremely&quot;. van Hooff et al; J Occup Health 2007; 49:224-234.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>7-level COVID Ordinal Outcome Scale</measure>
+    <time_frame>Measured on Day 28</time_frame>
+    <description>Same scale as the primary outcome; different timing as a secondary outcome. Range is 1-7. Higher number indicates better clinical outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>Number of deaths</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of any adverse events related to HBOT</measure>
+    <time_frame>Duration of study (to Day 28)</time_frame>
+    <description>Number of adverse events</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">234</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>HBOT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>These patients will receive hyperbaric oxygen therapy (HBOT) in addition to usual treatment for COVID-19. HBOT sessions will be 75 minutes in length at a pressure of 2.0 ATA.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>These patients will receive usual treatment for COVID-19, including oxygenation at normal atmospheric pressure (normobaric oxygenation).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Oxygen</intervention_name>
+    <description>Hyperbaric oxygen therapy delivered in a monoplace or multi-place chamber. Supervised by a hyperbaric oxygen therapy physician and a chamber operator.</description>
+    <arm_group_label>HBOT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or non-pregnant female patients
+
+          -  Age ≥18 years
+
+          -  Confirmed COVID-19 positive by RT-PCR
+
+          -  Diagnosed with pneumonia requiring 21%&lt;FIO2≤100% to maintain saturation by pulse
+             oximetry (SpO2) ≥90%
+
+          -  Able and willing to comply with study procedures and follow-up examinations contained
+             within the written consent form
+
+        Exclusion Criteria:
+
+          -  Patient clinical status felt to be incompatible with HBOT, e.g. respiratory failure
+             requiring mechanical ventilation
+
+          -  Pregnancy, determined by a urine test
+
+          -  Hemodynamic instability requiring vasopressors
+
+          -  Inability to maintain a sitting position during treatment
+
+          -  Inability to effectively understand and communicate with the hyperbaric operator, or
+             to give consent
+
+          -  Inability to spontaneously equalize ears and refusal of myringotomies
+
+          -  Contraindications to HBOT (e.g. pneumothorax)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sylvain Boet, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Ottawa Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sylvain Boet, MD, PhD</last_name>
+    <phone>613-737-8899</phone>
+    <phone_ext>78187</phone_ext>
+    <email>sboet@toh.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Joseph Burns, MSc</last_name>
+    <phone>613-798-5555</phone>
+    <phone_ext>14775</phone_ext>
+    <email>josburns@ohri.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The Ottawa Hospital</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1Y4E9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <link>
+    <url>https://www.medrxiv.org/content/10.1101/2020.07.15.20154609v1</url>
+    <description>Preprint of study protocol (brief version for publication)</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 5, 2020</study_first_posted>
+  <last_update_submitted>September 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hyperbaric oxygen therapy</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

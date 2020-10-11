@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2957">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527432</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020COV112</org_study_id>
+    <nct_id>NCT04527432</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Health Professional Impact Study</brief_title>
+  <acronym>CHIP</acronym>
+  <official_title>A Pilot Assessment of the COVID-19 Antibody Status and Associated Factors, in Individuals Employed by a Large Acute NHS Trust During the Coronavirus Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Royal Wolverhampton Hospitals NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Wolverhampton</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Royal Wolverhampton Hospitals NHS Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 (coronavirus) pandemic has had a huge impact on healthcare resources and staff
+      in the UK. Understanding the key risk factors associated with infection amongst healthcare
+      workers is essential for future pandemic response plans.
+
+      Currently there are scarce data relating to the infection rates and associated factors
+      amongst healthcare workers in the United Kingdom (UK). Studies of infection rates in
+      healthcare workers have largely relied on the real-time reverse transcriptase-polymerase
+      chain reaction (RT-PCR) test to date and it appears that Healthcare workers are twice as
+      likely to succumb to Coronavirus infection, when compared to the general population and those
+      from Black and minority ethnic (BAME) backgrounds appear to be particularly at risk.
+
+      Currently there is no evidence that the presence of SARS-CoV-2 (severe acute respiratory
+      syndrome coronavirus 2) antibodies provides seasonal or long term immunity to future
+      infection.
+
+      Therefore, this study aims to understand the current level of SARS-CoV-2 antibody positivity
+      and try to determine the likely risk to healthcare workers in the UK to COVID-19 infection.
+      This study hopes to find out whether certain individual characteristics will have an impact
+      on likelihood of infection susceptibility and antibody response and determine the impact of
+      the presence of antibodies on the likelihood of future clinical infection over a 12 month
+      period.
+
+      The study involves an initial online survey and linkage to the recent antibody test, then a
+      further online survey in 6 and 12 months' time. The data obtained will be linked to data that
+      the Human Resources Department (HR) holds.
+
+      Participants also have the option to partake in another antibody test at 6 and 12 months'
+      time and linked to the data collected.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will have access to the study via the link given in an SMS (Short Message
+      Service - text message) which will direct then to the first online survey.
+
+      They will then be contacted again in 6 and 12 months' time to complete the online survey
+      again.
+
+      The survey answers will be linked to the results of the antibody tests by their mobile and
+      Employment Number and also to data held about them by the HR Department.
+
+      The survey will take approximately 15 minutes to complete and will include questions on the
+      following: profession; work-line type; demographics and behavioural factors; ethnicity; and
+      symptoms (if COVID 19 was manifested).
+
+      Participants can also attend for another blood test (SARS-CoV-2 (severe acute respiratory
+      syndrome coronavirus 2) antibody test) to detect any presence of antibodies at 6 and 12
+      months (optional) which will again be linked to the survey and HR data.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The number of employees tested who have evidence of SARS-CoV-2 antibodies</measure>
+    <time_frame>12 months</time_frame>
+    <description>evidence of SARS-CoV-2 antibodies</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Factors associated with a positive test</measure>
+    <time_frame>12 months</time_frame>
+    <description>Survey to establish
+Type of healthcare role
+Ethnicity
+Age
+Index of multiple deprivation
+Previous RT-PCR test status
+Previous clinical COVID infection
+Previous period of self isolation
+Level of COVID-19 related anxiety
+Presence of one or more high risk factors for COVID 19
+Presence or absence of self-reported COVID 19 symptoms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Likelihood of clinically relevant (causing illness) infection with SARS-CoV-2 in subjects with both positive and negative SARS-CoV-2 antibody tests</measure>
+    <time_frame>12 months</time_frame>
+    <description>Infection compared to antibody presence</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <arm_group>
+    <arm_group_label>All participants</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Survey at 6 and 12 months time with optional antibody tests</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Survey</intervention_name>
+    <description>Survey at baseline, 6 and 12 months</description>
+    <arm_group_label>All participants</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>SARS-CoV-2 antibody test</intervention_name>
+    <description>SARS-CoV-2 antibody test results and testing again at 6 and 12 months</description>
+    <arm_group_label>All participants</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All Staff employed by Royal Wolverhampton Trust, having undergone the
+             SARS-CoV-2antibody test at the Trust's testing facility
+
+        Exclusion Criteria:
+
+          -  Royal Wolverhampton NHS Trust staff who have not participated in antibody testing •
+             Staff who have opted out to receiving the text message invite and be part of the study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Supratik Basu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Royal Wolverhampton NHS Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Supratik Basu</last_name>
+    <phone>01902 307999</phone>
+    <email>supratik.basu@nhs.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lorraine Jacques</last_name>
+    <phone>01902 695065</phone>
+    <email>lorraine.jacques@nhs.net</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The Royal Wolverhampton NHS Trust</name>
+      <address>
+        <city>Wolverhampton</city>
+        <zip>WV10 0QP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>October 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Results will be published in journal</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3491">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04497922</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020P002382</org_study_id>
+    <nct_id>NCT04497922</nct_id>
+  </id_info>
+  <brief_title>Virtual White Boards for Patient Satisfaction</brief_title>
+  <official_title>Improving Patient Satisfaction Through Information Display Using Virtual White Boards</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>E-ink corporation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Communication with patients on their clinical status is important in delivering care in the
+      emergency department. During times of high volume or complex patients, there may be lapses in
+      communicating with patients about their hospital course or plans of action. These
+      miscommunications may be enhanced during the current COVID-19 pandemic as there is minimized
+      in-person interaction with patients in order to conserve personal protective equipment and
+      decrease the risk of disease transmission. This study utilizes a virtual white board to
+      deliver updates to patients about the status of their emergency department stay.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The ultimate goal of this study is to understand the effect of delivering timely information
+      about a patient's emergency department course of their satisfaction surrounding the emergency
+      department stay. The experience of patients in the emergency department has been
+      significantly altered by the COVID-19 pandemic due to decreased in-person encounters, and the
+      use of PPE. Delivering information about their clinical course and expected hospital course
+      is more difficult now given the emphasis on less in-person interaction. In response, the
+      investigators have deployed in collaboration with e-ink, a virtual e-paper white board that
+      can be remotely edited to help display pertinent hospital course information to patients in
+      the emergency department. The investigators will conduct a randomized controlled trial to
+      understand the effect of deploying these white boards on patient satisfaction in the
+      emergency department.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 20, 2020</start_date>
+  <completion_date type="Anticipated">April 17, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 15, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized controlled trial</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>emergency department satisfaction: likert scale</measure>
+    <time_frame>30 minutes after disposition decision for patient</time_frame>
+    <description>Satisfaction of overall emergency department stay measured by a 1-5 likert scale, hospital developed question on satisfaction (how satisfied were you with your emergency department stay today?)- higher score is better</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of emergency department stay: likert scale</measure>
+    <time_frame>30 minutes after disposition decision for patient</time_frame>
+    <description>Quality of information conveyed to participant (rated on 5 point likert scale on questions about quality of waiting time for test results, staff concern, perceived teamwork in the hospital)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Preference for virtual white board</measure>
+    <time_frame>30 minutes after disposition decision for patient</time_frame>
+    <description>Question on preference for virtual white board compared to a standard emergency department room without a white board (1-4 likert scale, with 4 being strongly prefer white board room)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Satisfaction, Patient</condition>
+  <condition>Covid19</condition>
+  <condition>Emergencies</condition>
+  <condition>Satisfaction</condition>
+  <condition>Information Disclosure</condition>
+  <arm_group>
+    <arm_group_label>Treatment as usual in emergency department</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Individuals triaged to a pod in the emergency department without rooms that are fitted with a virtual display screen</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Virtual white board</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Individuals triaged to a pod in the emergency department in a room that is fitted with a virtual display screen</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>e-ink screen</intervention_name>
+    <description>A virtual display screen developed by e-ink that displays patient status, basic demographics, care team information, pending tests and anticipated disposition</description>
+    <arm_group_label>Virtual white board</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Treatment as usual</intervention_name>
+    <description>Treatment as usual in the emergency department with communication of testing results, imaging and disposition by the primary clinical emergency department team.</description>
+    <arm_group_label>Treatment as usual in emergency department</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients in emergency department at Brigham and Women's Hospital
+
+          -  Triaged to designated emergency department pods outfitted with virtual white board
+
+          -  Expected emergency department stay of at least four hours
+
+          -  Able to speak and read english
+
+          -  Not primary psychiatric complaint
+
+        Exclusion Criteria:
+
+          -  Medically ill or otherwise deemed unable to participate by the study PI and/or
+             treating clinical team.
+
+          -  Patients admitted to an inpatient bed but boarding in the emergency department over 10
+             hours.
+
+          -  Previously participated in the study.
+
+          -  Has COVID-19 risk flag or confirmed COVID-19 in electronic health record
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter R Chai, MD MMS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Peter R Chai, MD</last_name>
+    <phone>617-632-5640</phone>
+    <email>pchai@bwh.harvard.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Guruprasad D Jambaulikar, MBBS MPH</last_name>
+    <email>gjambaulikar@bwh.harvard.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 4, 2020</study_first_posted>
+  <last_update_submitted>August 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Peter R Chai</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

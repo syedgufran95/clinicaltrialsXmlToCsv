@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1855">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04575064</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WHO-SOLIDARITY-GERMANY</org_study_id>
+    <secondary_id>2020-001549-38</secondary_id>
+    <nct_id>NCT04575064</nct_id>
+  </id_info>
+  <brief_title>An International Randomized Trial of Additional Treatments for COVID-19 in Hospitalized Patients Who Are All Receiving the Local Standard of Care - WHO-SOLIDARITY-GERMANY</brief_title>
+  <official_title>An International Randomized Trial of Additional Treatments for COVID-19 in Hospitalized Patients Who Are All Receiving the Local Standard of Care - WHO-SOLIDARITY-GERMANY</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Professor Dr. Bernd Mühlbauer</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dept. of Statistics and Medical Biometry, University of Bremen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>INSERM (Institut national de la santé et de la recherche médicale), Paris, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>World Health Organization (WHO), R&amp;D Blueprint, Geneva, Switzerland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Klinikum Bremen-Mitte, gGmbH</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is an adaptive, randomized, open-label, controlled clinical trial, performed
+      worldwide in collaboration with WHO and INSERM.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 29, 2020</start_date>
+  <completion_date type="Anticipated">November 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Improvement of clinical status on the ordinal 7-point severity-scale at day 15.</measure>
+    <time_frame>at day 15</time_frame>
+    <description>WHO 7-point ordinal scale:
+Not hospitalized, no limitations on activities;
+Not hospitalized, limitation on activities;
+Hospitalized, not requiring supplemental oxygen;
+Hospitalized, requiring supplemental oxygen;
+Hospitalized, on non-invasive ventilation or high flow oxygen devices;
+Hospitalized, on invasive mechanical ventilation or ECMO;
+Death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to an improvement of one category from admission using the 7-point ordinal scale</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality: 28 days mortality; in-house mortality</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital stay: Duration of hospital stay due to COVID-19</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen: Need of, time to first receiving and duration of oxygen</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive care: Need of, time to first receiving and duration of intensive care</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation: Need of, time to first receiving and duration of mechanical ventilation</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ECMO: Need of, time to first receiving and duration for extracorporeal membrane oxygenation</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Superinfections, assessed with pathogen testing</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Kidney failure</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Myocardial failure</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Multiple organ failure</measure>
+    <time_frame>up to 29 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <condition>Moderate and Severe COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Standard of Care (SoC)</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>This arm will receive standard supportive care according to guidelines for COVID-19. This is expected to vary regionally and may change throughout the trial based on new and emerging data on best care guidelines for patients.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Remdesivir + SoC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Remdesivir 200 mg IV on day 1, followed by 100 mg IV daily infusion for 9 days plus optimized supportive care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care (SoC)</intervention_name>
+    <description>Standard supportive care is expected to vary regionally and may change throughout the trial based on new and emerging data on best care guidelines for patients.</description>
+    <arm_group_label>Remdesivir + SoC</arm_group_label>
+    <arm_group_label>Standard of Care (SoC)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Remdesivir 200mg IV on day 1, followed by 100 mg IV daily infusion for 9 days or until discharge from hospital, whichever occurs first</description>
+    <arm_group_label>Remdesivir + SoC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients 18 years and older
+
+          -  Current SARS-CoV-2 infection
+
+          -  Admitted to the hospital ward or the ICU due to COVID-19
+
+          -  SpO2 &lt;= 94% on room air OR oxygen demand OR breathing support
+
+          -  Written informed consent obtained
+
+        Exclusion Criteria:
+
+          -  Patient's non-consent or inability to informed consent
+
+          -  Pregnant or breastfeeding women.
+
+          -  Subjects pretreated with one of the study drugs in the past 29 days
+
+          -  Anticipated transfer within 72 hours to a non-study hospital
+
+          -  Severe co-morbidity with life expectancy &lt; 3 months
+
+          -  AST or ALT &gt; 5 times the upper limit of normal
+
+          -  Stage 4 severe chronic kidney disease or requiring dialysis
+
+          -  Contraindications and known intolerance to any of the study drugs
+
+          -  Subjects participating in a potentially confounding drug or device trial
+
+          -  Any reason why the patient should not participate (investigator's opinion)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tobias Welte, MD, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hannover Medical School</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Gesundheit Nord gGmbH</name>
+      <address>
+        <city>Bremen</city>
+        <zip>28211</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Gießen</name>
+      <address>
+        <city>Gießen</city>
+        <zip>35392</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Hochschule Hannover (MHH)</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Technische Universität München (TUM)</name>
+      <address>
+        <city>München</city>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 5, 2020</study_first_posted>
+  <last_update_submitted>October 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Klinikum Bremen-Mitte, gGmbH</investigator_affiliation>
+    <investigator_full_name>Professor Dr. Bernd Mühlbauer</investigator_full_name>
+    <investigator_title>Professor of Pharmacology - Head of Department</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

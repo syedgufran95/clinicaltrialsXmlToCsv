@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="908">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04454398</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GRD-COV-101</org_study_id>
+    <nct_id>NCT04454398</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate STI-1499 (COVI-GUARD) in Patients With Moderate COVID-19</brief_title>
+  <official_title>A Randomized, Placebo-controlled Study to Evaluate the Safety, Pharmacokinetics and Efficacy of a Single Dose of STI-1499 (COVI-GUARD™) in Hospitalized Patients With Moderate COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sorrento Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sorrento Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized, placebo-controlled study to evaluate the safety, pharmacokinetics and efficacy of
+      a single dose of STI-1499 (COVI-GUARD™) in hospitalized patients with moderate COVID-19
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a randomized, double-blind, placebo-controlled study to evaluate the safety,
+      pharmacokinetics and efficacy of a single dose of STI-1499 (COVI-GUARD™), a COVID-19
+      targeting monoclonal antibody, in hospitalized patients with moderate COVID-19. Four dose
+      levels will be tested: 10 mg, 30 mg, 100 mg, and 200 mg.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 17, 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of adverse events (safety)</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Types, frequencies, and severities of adverse events and their relationships to COVI-GUARD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of treatment-emergent adverse events (safety)</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Types, frequencies, and severities of treatment-emergent adverse events and their relationships to COVI-GUARD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of serious adverse events (safety)</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Types, frequencies, and severities of serious adverse events and their relationships to COVI-GUARD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>All-cause mortality at 29 and 60 days</measure>
+    <time_frame>Randomization through Day 29 and Day 60</time_frame>
+    <description>All-cause mortality at 29 and 60 days</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of dose-limiting toxicities (safety)</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Dose-limiting toxicities, particularly presence of acute or delayed hypersensitivity reactions</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of laboratory abnormalities (safety)</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Clinically meaningful laboratory abnormalities</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2 viral load as assessed using various sample types</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Plasma samples and salivary samples are taken to correlate viral load with nasopharyngeal testing at various timepoints; stool or rectal swab samples are taken if possible for additional virologic assessments</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to hospitalization, treatment, ICU admission, and discharge from ICU and/or hospital</measure>
+    <time_frame>Randomization up to study completion through Day 60</time_frame>
+    <description>Time from onset of COVID-19 symptoms to hospitalization and to treatment on Day 1, and if applicable, time to ICU admission, discharge from ICU and discharge from hospital</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anti-drug antibodies</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Presence and levels of anti-drug antibodies (ADA) directed to COVI-GUARD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cytokine levels</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Levels of cytokines including EGF, IFNγ, IL-1β, IL-6, IL-8, IL-10, and TNFα</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AUC of COVI-GUARD (PK)</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Area under the serum concentration-time curve (AUC) of COVI-GUARD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of COVI-GUARD (PK)</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Maximum observed serum concentration (Cmax) of COVI-GUARD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>t½ of COVI-GUARD (PK)</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Apparent serum terminal elimination half life (t½) of COVI-GUARD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax of COVI-GUARD (PK)</measure>
+    <time_frame>Randomization through study completion through Day 60</time_frame>
+    <description>Time to Cmax (Tmax) of COVI-GUARD</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">33</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>COVI-GUARD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVI-GUARD (STI-1499) administered via a single IV push injection at a dose of 10 mg, 30 mg, 100 mg, or 200 mg, in addition to standard of care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered via a single IV push injection, in addition to standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVI-GUARD</intervention_name>
+    <description>COVI-GUARD (STI-1499) is a monoclonal antibody which targets the COVID-19 spike protein</description>
+    <arm_group_label>COVI-GUARD</arm_group_label>
+    <other_name>STI-1499</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Standard of Care as determined by the Investigator</description>
+    <arm_group_label>COVI-GUARD</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Diluent</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Evidence of moderate COVID-19, diagnosed standard RT-PCR assay or equivalent testing
+
+          -  Willing and able to comply with study procedures and follow-up visits
+
+          -  Subject or family member/caregiver must have provided written informed consent which
+             includes signing the institutional review board approved consent form prior to
+             participating in any study related activity. However, if obtaining written informed
+             consent is not possible, other procedures as provided in the March 27th, 2020 FDA
+             Guidance on Conduct of Clinical Trials of Medical Products during COVID-19 Pandemic,
+             Question 10, may be used.
+
+        Exclusion Criteria:
+
+          -  Clinical signs indicative of severe COVID-19
+
+          -  Rapidly progressive COVID-19 which is likely to progress to &quot;severe&quot; within 24 hours
+
+          -  Documented infection other than COVID-19
+
+          -  Any medical condition that, in the Investigator's opinion, could adversely impact
+             safety
+
+          -  Pregnant or lactating women
+
+          -  Has participated, or is participating, in a clinical research study evaluating
+             COVID-19 convalescent plasma, monoclonal antibodies (mAbs) against SARS-CoV-2, or
+             intravenous immunoglobulin (IVIG) within 3 months or less than 5 half-lives of the
+             investigational product (whichever is longer) prior to the screening visit. Note:
+             Participants who have been prescribed hydroxychloroquine or chloroquine with or
+             without azithromycin or other approved products for the off-label treatment of
+             COVID-19 prior to study enrollment may be included and may continue to receive these
+             agents so long as the dose remains stable. Additionally, any approved or authorized
+             treatment (e.g., remdesivir, dexamethasone or treatments approved under an Emergency
+             Use Authorization) is allowed.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mike Royal, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Sorrento Therapeutics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mike Royal, MD</last_name>
+    <phone>(858) 203-4100</phone>
+    <phone_ext>4146</phone_ext>
+    <email>mroyal@sorrentotherapeutics.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Temple University Lung Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francine McGonagle</last_name>
+      <phone>267-679-0591</phone>
+      <email>francine.mcgonagle@tuhs.temple.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gerard Criner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>June 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 1, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

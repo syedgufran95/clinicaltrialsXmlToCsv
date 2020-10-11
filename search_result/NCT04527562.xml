@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="52">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527562</url>
+  </required_header>
+  <id_info>
+    <org_study_id>U1111-1255-3541</org_study_id>
+    <nct_id>NCT04527562</nct_id>
+  </id_info>
+  <brief_title>Colchicine in Moderate Symptomatic COVID-19 Patients</brief_title>
+  <acronym>COLCOVIDBD</acronym>
+  <official_title>Colchicine in Moderate Symptomatic COVID-19 Patients: Double Blind, Randomized, Placebo Controlled Trial to Observe the Efficacy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dhaka Medical College</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Dhaka Medical College</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, double blind, randomized, placebo controlled clinical trial. The
+      participants will be randomized into two groups (group A and group B). Patients of group-A
+      are the treatment group. They will be treated with optimal treatment based on the algorithm
+      proposed in National Guidelines on Clinical Management of Coronavirus Disease 2019 (Covid-19)
+      Version 7.0, 28 May 2020, along with Colchicine for 14 days. The patients in group-B will be
+      controlled group. They will be treated with optimal treatment based on the algorithm proposed
+      in National Guideline along with a placebo.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 14, 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to develop clinical deterioration, defined as the time from randomization to a deterioration of two points (from the status at randomization) on a Seven-category ordinal scale.</measure>
+    <time_frame>14 days following randomization</time_frame>
+    <description>Seven-category ordinal scale. The scale is recommended by the WHO R&amp;D Blueprint expert group. The seven-category ordinal scale consisted of the following categories: 1, not hospitalized with resumption of normal activities; 2, not hospitalized, but unable to resume normal activities; 3, hospitalized, not requiring supplemental oxygen; 4, hospitalized, requiring supplemental oxygen; 5, hospitalized, requiring nasal high-flow oxygen therapy, noninvasive mechanical ventilation, or both; 6, hospitalized, requiring ECMO, invasive mechanical ventilation, or both; and 7, death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>14 days following randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participant requiring increased amount of supplemental oxygen</measure>
+    <time_frame>14 days following randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants requiring mechanical ventilation</measure>
+    <time_frame>14 days following randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who die</measure>
+    <time_frame>14 days following randomization</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>TRAETMENT GROUP</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants in the colchicine treatment group will be given a starting dose of 1.2 mg of Colchicine (2 tablets of 0.6 mg )single or 12 hourly divided dose. After that, they will take colchicine 0.6mg daily for 13 days. If they develop gastro intestinal side effects e.g abdominal pain, burning, vomiting, diarrhea, omeprazole and antiemetic will be prescribed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CONTROL /PLACEBO GROUP</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>COVID-19 Patients in this arm will receive standard COVID-19 treatment according to national guidelines of Bangladesh and will receive placebo.
+Standard care of enrolled study patients will consist:
+Isolation facility
+Symptomatic treatment with Paracetamol, Fexofenadine
+Steam inhalation/Gurgle of Lukewarm water.
+Ensuring of hand wash (20 seconds each time) and ideally wearing mask.
+Monitoring by the attending nurses.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colchicine</intervention_name>
+    <description>Participants in this group will be given a starting dose of 1.2 mg of Colchicine (2 tablets of 0.6 mg )single or 12 hourly divided dose. After that, they will take colchicine 0.6mg daily for 13 days. If they develop gastro intestinal side effects e.g abdominal pain, burning, vomiting, diarrhea, omeprazole and antiemetic will be prescribed. Supportive care and treatment will also be given.</description>
+    <arm_group_label>TRAETMENT GROUP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants in this group will be given a starting dose of 2 tablets of Placebo, single or 12 hourly divided dose. After that, they will take one placebo tablet daily for 13 days.Placebo tablet will be identical with the Colchicine tablet. If patients develop gastro intestinal side effects e.g abdominal pain, burning, vomiting, diarrhea, omeprazole and antiemetic will be prescribed. Supportive care and treatment will also be given.</description>
+    <arm_group_label>CONTROL /PLACEBO GROUP</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:
+
+          -  Males and females of least 18 years of age and can swallow tablets
+
+          -  Competent and willing to provide informed consent
+
+          -  Patient must have received a diagnosis of COVID-19 infection with positive RT-PCR for
+             SARS CoV-2 within the last 3 days
+
+          -  Patients with moderate symptoms (According to National Guidelines on Clinical
+             Management of Coronavirus Disease 2019 (COVID- 19).Version 7.0 .2020, DGHS, MOHFW,
+             Government of the People's Republic of Bangladesh). Following features of moderate
+             covid-19 must be present-
+
+               1. Fever or history of fever
+
+               2. Cough and /or Shortness of breath
+
+               3. Oxygen saturation 94% or more
+
+               4. Pneumonia -pulmonary consolidations on chest imaging (chest x ray or CT scan of
+                  chest) involving less than 50%of lungs
+
+               5. CRB 65 score 0
+
+        Exclusion criteria:
+
+          -  Pregnancy and breast-feeding
+
+          -  Known hypersensitivity to colchicine
+
+          -  Known chronic illness e.g hepatic failure, chronic kidney disease (eGFR&lt;30ml/min),
+             decompensated heart failure, long QT syndrome (QTc &gt;450 msec.)
+
+          -  Patient with inflammatory bowel disease (Crohn's disease or ulcerative colitis),
+             chronic diarrhea or malabsorption
+
+          -  Patient currently taking colchicine for other indications (mainly chronic indications
+             represented by Familial Mediterranean Fever or gout)
+
+          -  Patient undergoing chemotherapy for cancer
+
+          -  Patient is considered by the investigator, for any reason, to be an unsuitable
+             candidate for the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mujibur Rahman, MBBS,MD,FCPS</last_name>
+    <role>Study Chair</role>
+    <affiliation>Professor and Head, Department of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Motlabur Rahman, MBBS, FCPS,FACP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Associate Professor, Department of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Motlabur Rahman, MBBS, FCPS,FACP</last_name>
+    <phone>8801712040933</phone>
+    <email>rahmanmotlabur@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ponkaj Datta, MBBS, FCPS</last_name>
+    <phone>8801711069701</phone>
+    <email>ponkajdatta@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Dhaka Medical College Hospital</name>
+      <address>
+        <city>Dhaka-1000</city>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Motlabur Rahman, MBBS,FCPS,FACP</last_name>
+      <phone>8801712040933</phone>
+      <email>rahmanmotlabur@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ponkaj Datta, MBBS,FCPS</last_name>
+      <phone>8801711069701</phone>
+      <email>ponkajdatta@yahoo.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Bangladesh</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>August 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Dhaka Medical College</investigator_affiliation>
+    <investigator_full_name>Dr. Md. Motlabur Rahman</investigator_full_name>
+    <investigator_title>Associate Professor, Department of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Covid 19</keyword>
+  <keyword>Colchicine</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="217">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04490837</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/587</org_study_id>
+    <nct_id>NCT04490837</nct_id>
+  </id_info>
+  <brief_title>Rapid Diagnostic Test for COVID-19 Based on Antibody Detection (YCOVID)</brief_title>
+  <acronym>YCOVID</acronym>
+  <official_title>Rapid Diagnostic Test for COVID-19 Based on Antibody Detection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Corporacion Parc Tauli</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Corporacion Parc Tauli</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Ycovid-19 aims to be a rapid diagnostic test for SARS-CoV-2 infection, which will allow a
+      reliable diagnosis to be made in 10 minutes, and on easy-to-use devices. This test will be
+      developed using innovative technology developed at the Parc Taulí University Hospital, which
+      increases the immunogenicity of SARS-CoV-2 differential antigens. The increased
+      immunogenicity of these antigens will allow to detect, with a high sensitivity and
+      specificity, the antibodies in the serum of patients infected with SARS-CoV-2. This test will
+      serve to confirm dubious results as well as reduce false negatives from the PCR test, which
+      will ultimately help reduce transmission of the infection.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 22, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Years</target_duration>
+  <primary_outcome>
+    <measure>IgG anti-COVID-19</measure>
+    <time_frame>From May to July</time_frame>
+    <description>IgG antibodies against COVID-19 RBD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IgM anti-COVID-19</measure>
+    <time_frame>From May to July</time_frame>
+    <description>IgM antibodies against COVID-19 RBD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>IgA anti-COVID-19</measure>
+    <time_frame>From May to July</time_frame>
+    <description>IgA antibodies against COVID-19 RBD</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time of onset symptoms</measure>
+    <time_frame>From May to July</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 PCR results</measure>
+    <time_frame>From May to July</time_frame>
+    <description>Qualitative result to clasify patients into PCR COVID-19 positive patients and PCR COVID-19 negative patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiological studies</measure>
+    <time_frame>From May to July</time_frame>
+    <description>The presence or abcense of the typical image of the pneumonia caused by COVID-19</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Actual">3500</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 positive</arm_group_label>
+    <description>Patients with clinical, radiological and/or PCR positive for COVID-19 infection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Normal</arm_group_label>
+    <description>Normal human serum from blood donnors before COVID-19 pandemia</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pathological controls</arm_group_label>
+    <description>Patients with other positive virological serologies</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>ELISA and Rapid test to detect antibodies against COVID-19</intervention_name>
+    <description>Ycovid-19 aims to be a rapid diagnostic test for SARS-CoV-2 infection, which will allow a reliable diagnosis to be made in 10 minutes, and on easy-to-use devices</description>
+    <arm_group_label>COVID-19 positive</arm_group_label>
+    <arm_group_label>Normal</arm_group_label>
+    <arm_group_label>Pathological controls</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Plasma or serum
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with COVID-19 infection Professionals of an University Hospital
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Professional from Parc Taulí University Hospital
+
+          -  Patients with clinical, radiological and/or PCR COVID-19 positive
+
+        Exclusion Criteria:
+
+          -  Patients or professionals who do not sign informed consent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Parc Tauli University Hospital</name>
+      <address>
+        <city>Sabadell</city>
+        <state>Barcelona</state>
+        <zip>08208</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>May 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>July 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Corporacion Parc Tauli</investigator_affiliation>
+    <investigator_full_name>Juan Francisco Delgado de la Poza</investigator_full_name>
+    <investigator_title>Senior Medical Doctor</investigator_title>
+  </responsible_party>
+  <keyword>Antibodies</keyword>
+  <keyword>Covid-19</keyword>
+  <keyword>Rapid test</keyword>
+  <keyword>RBD</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

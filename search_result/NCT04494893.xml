@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="599">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04494893</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ADAP-006</org_study_id>
+    <nct_id>NCT04494893</nct_id>
+  </id_info>
+  <brief_title>ImmuneRACE - Immune Response Action to COVID-19 Events</brief_title>
+  <official_title>ImmuneRACE - Immune Response Action to COVID-19 Events</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Adaptive Biotechnologies</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Covance</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Adaptive Biotechnologies</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      ImmuneRACE is a study, which is designed to better understand the immune response to
+      COVID-19. This is critically important because the immune system may be able to tell us
+      important information about how our own bodies detect and respond to the disease that current
+      tests cannot. De-identified data collected from this study may accelerate the development of
+      better diagnostics for COVID-19 and improve outcomes for many.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PURPOSE Aim 1. Compare disease-specific TCR signatures in patients vs. controls Aim 2.
+      Identify antigens that elicit a T-cell response Aim 3. Risk Stratification based on immune
+      signature Aim 4. Early detection
+
+      Secondary Aim:
+
+      Aim 5. Identify and/or confirm antigenic binding (BCR PairSEQ/neutralizing antibodies)
+
+      STUDY POPULATION Approximately 1000 individuals, between the ages of 18 - 89 Cohort 1.
+      EXPOSED to someone with a confirmed diagnosis of COVID-19 Cohort 2. ACTIVE COVID-19
+
+      Individuals with a confirmed diagnosis of COVID-19:
+
+      Clinical diagnosis made by a medical professional, or Positive laboratory test Cohort 3.
+      RECOVERED from COVID-19
+
+      Individuals with a previously confirmed diagnosed and cleared from active infection by
+      either:
+
+      Testing negative on two consecutive swab tests, or Cleared by a healthcare professional, or
+      Resolution of symptoms
+
+      METHODS Decentralized study (visits occur at participant's houses) Utilizing remote
+      phlebotomy to collect (1) whole blood, (2) serum, (3) nose or throat swab Collection of
+      relevant metadata by electronic questionnaire
+
+      Option for longitudinal collection of up to 4 additional blood draws and questionnaires
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 24, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Comparison of disease-specific TCR signatures in patients and controls</measure>
+    <time_frame>Baseline</time_frame>
+    <description>We will run immunoSEQ on approximately 1000 patient samples with disease status unblinded. After sequencing these samples, we will quantitatively describe the compartment of the T-cell repertoire specific for the disease of interest. We will then use these data to construct a classifier that accurately distinguishes patients from controls.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Identify the immunodominant antigens that elicit a T-cell response to COVID-19</measure>
+    <time_frame>Baseline</time_frame>
+    <description>We developed technology to query the antigen specificity of the T-cell repertoire to hundreds of peptide epitopes in a single blood sample5. This technology not only allows us to parse out immunodominant epitopes of a given infection from irrelevant epitopes, but also allows us to determine the TCR sequences of the T cells responding to these immunodominant epitopes. We will use this technology to determine which peptide epitopes derived from the SARS-CoV-2 genome commonly elicit an immunodominant T-cell response in different samples. The TCR sequence data generated from these studies will be used to boost the diagnostic classifier obtained in Aim 1. In addition, the identification of immunodominant epitopes can be disseminated to fuel studies in vaccine design and antigen specific T-cell responses relating to clinical outcome in other labs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Risk Stratification based on an individual's immune signature</measure>
+    <time_frame>Baseline</time_frame>
+    <description>There is a critical need for a reliable risk stratification test to enable treatment prioritization given the potentially massive number of symptomatic patients. Despite an emerging understanding of the diagnosis of COVID-19, how it spreads, and the death rate, there is no currently available way to predict who needs hospitalization beyond age associated risk and limited epidemiologically linked comorbidities.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Determine whether an immune signature can be detected in individuals exposed to SARS-CoV-2 earlier than currently available tests</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Another critical need to contain the spread of SARS-CoV-2 is to determine the false negative rate of the RNA test in asymptomatic people and offer an alternative diagnostic that is more sensitive in this cohort. For example, it is possible that early stage disease is not picked up by RNA tests because the virus may be isolated to regions such as the lower respiratory cavity that are not assessed by standard testing methods. We aim to determine whether the immune response can be used to detect the virus from a simple blood test thereby providing a more sensitive test in asymptomatic people even if the virus itself is not directly detectable in the upper respiratory region.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Explore whether additional research assays could potential identify and/or confirm antigenic binding</measure>
+    <time_frame>Baseline</time_frame>
+    <description>As a secondary aim, Adaptive will perform explorational research with additional sequencing-based research assays to profile the adaptive immune system, such as, but not limited to TCR pairSEQ26 and B-cell receptor (BCR) pairSEQ3. These assays use a combinatorial method for pairing TCR alpha and beta chain sequences and BCR heavy and light chain sequences. The output is a large set of full length paired BCR or TCR sequences, which allows reconstruction of a functional antibody or TCR. We regularly utilize the results of our pairSEQ assays to identify and/or confirm antigenic binding. For the case of BCR pairSEQ, the resulting antibody sequences could potentially have therapeutic value for imparting passive immunity.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <description>Exposed to coronavirus disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <description>Active coronavirus disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <description>Recovered from coronavirus disease</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        1000 individuals, between the ages of 18 - 89, who reside within the United States. Blood
+        samples and nose or throat swabs will be collected at affiliated sites or with mobile
+        phlebotomy. These samples will be shipped frozen or transported refrigerated or at room
+        temperature to Adaptive Biotechnologies for processing, including, but not limited to DNA
+        extraction and analysis. Minors, pregnant women, prisoners, mentally disabled persons, and
+        wards-of-the-state will be excluded to prevent any risk to vulnerable populations. The
+        selection of participants will be equitable per 45 CFR 111(a).
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Cohort 1. Exposed to coronavirus disease
+
+        Inclusion criteria
+
+        Participants must satisfy the following criteria to be enrolled in the study:
+
+        Individuals exposed to someone with a confirmed diagnosis of coronavirus disease within 2
+        weeks of exposure (or at the discretion of the investigator) Male and female participants
+        of any race and ethnicity between 18 to 89 years of age (inclusive) at the time of
+        enrolling in the study Must be able to communicate with the investigator, understand and
+        comply with the requirements of the study
+
+        Exclusion Criteria
+
+        The presence of any of the following will exclude a participant from enrollment:
+
+        Individuals who have not been exposed to a person with a confirmed diagnosis of coronavirus
+        disease within 2 weeks of exposure (or at the discretion of the investigator) Protected
+        populations including minors, pregnant women, prisoners, mentally disabled persons, and
+        wards-of-the state Any significant condition, laboratory abnormality, or psychiatric
+        illness that would prevent the participant from safely participating in the study Donated
+        more than 500cc or 1 pint of blood in the past 60 days prior to the blood draw (at the
+        discretion of the investigator)
+
+        Cohort 2. Active coronavirus disease Inclusion criteria
+
+        Participants must satisfy the following criteria to be enrolled in the study:
+
+        Individuals with a diagnosis of coronavirus disease:
+
+        Either by clinical diagnosis made by a medical professional, or By positive laboratory
+        test, including but not limited to naso- or oropharyngeal swab (or at the discretion of the
+        investigator) Male and female participants of any race and ethnicity between 18 to 89 years
+        of age (inclusive) at the time of enrolling in the study Must be able to communicate with
+        the investigator, understand and comply with the requirements of the study
+
+        Exclusion Criteria
+
+        The presence of any of the following will exclude a participant from enrollment:
+
+        Individuals without a diagnosis of coronavirus disease Protected populations including
+        minors, pregnant women, prisoners, mentally disabled persons, and wards-of-the state Any
+        significant condition, laboratory abnormality, or psychiatric illness that would prevent
+        the participant from safely participating in the study Donated more than 500cc or 1 pint of
+        blood in the past 60 days prior to the blood draw (at the discretion of the investigator)
+
+        Cohort 3. Recovered from coronavirus disease Inclusion criteria
+
+        Participants must satisfy the following criteria to be enrolled in the study:
+
+        Individuals previously diagnosed with coronavirus disease and cleared from active infection
+        by:
+
+        Testing negative on two consecutive naso- or oropharyngeal swab tests following initial
+        diagnosis, or Cleared by a healthcare professional or public health authority, or
+        Resolution of symptoms related to COVID-19 (or at the discretion of the investigator) Male
+        and female participants of any race and ethnicity between 18 to 89 years of age (inclusive)
+        at the time of enrolling in the study Must be able to communicate with the investigator,
+        understand and comply with the requirements of the study
+
+        Exclusion Criteria
+
+        The presence of any of the following will exclude a participant from enrollment:
+
+        Individuals without a previous diagnosis of coronavirus disease at the discretion of the
+        investigator Protected populations including minors, pregnant women, prisoners, mentally
+        disabled persons, and wards-of-the state Any significant condition, laboratory abnormality,
+        or psychiatric illness that would prevent the participant from safely participating in the
+        study Donated more than 500cc or 1 pint of blood in the past 60 days prior to the blood
+        draw (at the discretion of the investigator)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Emily A Svejnoha, BS</last_name>
+    <phone>9079476996</phone>
+    <email>esvejnoha@adaptivebiotech.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jen N Dines, MD</last_name>
+    <phone>2062792486</phone>
+    <email>jdines@adaptivebiotech.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Adaptive Biotechnologies</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emily Svejnoha, BS</last_name>
+      <phone>907-947-6996</phone>
+      <email>esvejnoha@adaptivebiotech.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 31, 2020</study_first_posted>
+  <last_update_submitted>July 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 24, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/93/NCT04494893/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 28, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/93/NCT04494893/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3107">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492527</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COACH</org_study_id>
+    <nct_id>NCT04492527</nct_id>
+  </id_info>
+  <brief_title>Student-delivered Telehealth Program for COVID-19 Education and Health Promotion</brief_title>
+  <official_title>A Student-delivered Community Outreach teleheAlth Program for Covid Education and Health Promotion (COACH)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of British Columbia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of British Columbia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to ensure effective health management among community-living
+      older adults during unprecedented times, such as the current COVID-19 pandemic.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The novel coronavirus (COVID-19) outbreak has made the world transition to practices of
+      quarantine, social distancing and social isolation. While they serve as prevention strategies
+      for COVID-19, they may also cause an increase of other health problems. As well, closures of
+      public areas and financial challenges act as barriers to exercise and dietary quality. Thus
+      quarantine-type strategies, while needed, compromise the ability to self-manage one's health
+      and increase their risk of adverse health events.
+
+      Evidence suggests the negative effects of such quarantine-type strategies are especially
+      being felt among Canada's seniors. A recent report by Statistics Canada indicates that 60% of
+      Canadians, ≥65 years of age are 'very' concerned about their health due to social and
+      economic consequences of COVID-19. Moreover, 80% of individuals reported being 'very' anxious
+      about overloading the health system. This may in turn lead to rash decisions not to access
+      health services as needed. Clearly, efforts are required to support older individuals to
+      optimally manage their health to prevent disease and disability.
+
+      In British Columbia (BC), various specialized health resources have emerged to support people
+      during the COVID-19 pandemic. However, many are passive in that they require individuals to
+      initiate contact in response to a concern, and none have a specific focus on health promotion
+      or disease prevention and management.
+
+      This study will ensure that community-living adults ages 65 years and older are effectively
+      managing their health during these unprecedented times. Participants will receive a kit
+      containing a self-help manual, a Health Report Card, and COVID-19 education. They will also
+      received 6 telephone/video conference sessions with a student-coach who will utilize
+      motivational interviewing techniques to foster lifestyle modification, and self-management.
+
+      Objectives:
+
+        1. To quantitatively evaluate the effect of the two-month, six session (30-45
+           minutes/session) COACH program on health self-management, measured using the Health
+           Directed Behaviour subscale in the Health Education Impact Questionnaire (heiQ),9 among
+           community-living adults ≥65 years of age.
+
+        2. To qualitatively describe the subjective experiences of participants receiving the COACH
+           program.
+
+      Hypotheses:
+
+        1. COACH will improve health directed behaviour in community-living adults, ≥65 years of
+           age.
+
+        2. COACH will also improve secondary outcomes in the areas of mood, social support,
+           health-related quality of life, health promotion self-efficacy, and other self-
+           management domains in the heiQ.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 28, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline: Health Directed Behaviour at 2 months</measure>
+    <time_frame>Baseline, Post-intervention (immediately after the 2-month intervention)</time_frame>
+    <description>Health Education Impact Questionnaire (HeiQ) that evaluates health directed behaviour for chronic disease management.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Depression, Anxiety, Stress Scale</measure>
+    <time_frame>Baseline, Post-intervention (immediately after the 2-month intervention)</time_frame>
+    <description>21-item survey scale that looks at perceived depression, anxiety and stress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical Outcomes Study (MOS): Social Support Survey</measure>
+    <time_frame>Baseline, Post-intervention (immediately after the 2-month session)</time_frame>
+    <description>19-item survey that evaluates perceived social support.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical Outcomes Study (MOS): Short Form-36</measure>
+    <time_frame>Baseline, Post-intervention (immediately after the 2-month session)</time_frame>
+    <description>Survey scale that evaluates at health-related quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-Rated Abilities for Health Practices Scale</measure>
+    <time_frame>Baseline, Post-intervention (immediately after the 2-month session)</time_frame>
+    <description>28-item survey scale that looks at health promotion self-efficacy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-management</measure>
+    <time_frame>Baseline, Post-intervention (immediately after the 2-month session)</time_frame>
+    <description>Health Education Impact Questionnaire</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Chronic Disease</condition>
+  <condition>Aging</condition>
+  <condition>Aging Problems</condition>
+  <condition>Health Behavior</condition>
+  <condition>Multiple Chronic Conditions</condition>
+  <condition>Chronic Illness</condition>
+  <condition>Chronic Illnesses, Multiple</condition>
+  <condition>Healthy Lifestyle</condition>
+  <condition>Healthy Aging</condition>
+  <condition>Aging Well</condition>
+  <condition>Healthy Life Style</condition>
+  <condition>Self-management</condition>
+  <condition>Self Care</condition>
+  <arm_group>
+    <arm_group_label>Telehealth coaching sessions</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Receives the Telehealth-delivered coaching sessions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Telehealth coaching sessions</intervention_name>
+    <description>Participants will be receiving a 2-month coaching session intervention that will be delivered via telephone or video-conferencing. Each of the 6 sessions will be 30-45minutes long and one-on-one with a student coach. In each session, coaches will review the participants' health behaviours and assess their knowledge about behavioural risks factors for chronic diseases and their current behaviours. The coaches will then provide information about the health risks of poor health behaviours, and benefits of change. Health behavioural goals will be established through a collaborative process. The coaches will then assist participants to develop readily achievable action plans that participants will follow in between coaching sessions as a means to realize their health goals. Adherence and modifications to the action plans will be discussed at the follow-up coaching session to promote health accountability.</description>
+    <arm_group_label>Telehealth coaching sessions</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  age 65 years or older
+
+          -  living within a community in British Columbia
+
+          -  have access to a telephone or video conferencing program
+
+          -  able to communicate in English
+
+          -  have had no previous COVID-19 diagnosis by health professionals
+
+          -  have cognitive-communicative ability to participate as per clinical judgement
+
+          -  can provide informed consent
+
+        Exclusion Criteria:
+
+          -  not medically stable
+
+          -  are participating in other health promotion programs
+
+          -  have severe hearing loss
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brodie Sakakibara, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of British Columbia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michelle C Yang, BSc</last_name>
+    <phone>2508078505</phone>
+    <email>michelle.yang@alumni.ubc.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of British Columbia</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6T 1Z4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle C Yang, BSc</last_name>
+      <phone>2508078505</phone>
+      <email>michelle.yang@alumni.ubc.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Brodie Sakakibara, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Cam Clayton, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Devin Harris, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Chelsea Pelletier, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Julia Schmidt, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jill Zwicker, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>July 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of British Columbia</investigator_affiliation>
+    <investigator_full_name>Brodie Sakakibara</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>telehealth</keyword>
+  <keyword>prevention</keyword>
+  <keyword>self management</keyword>
+  <keyword>chronic disease</keyword>
+  <keyword>aging</keyword>
+  <keyword>healthy lifestyle</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Chronic Disease</mesh_term>
+    <mesh_term>Multiple Chronic Conditions</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

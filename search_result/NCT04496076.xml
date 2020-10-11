@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2651">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04496076</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY20030201</org_study_id>
+    <nct_id>NCT04496076</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Brain Injury</brief_title>
+  <official_title>Severe Neurologic Injury Outcomes During COVID-19 Crisis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A prospective cohort minimal risk study to determine the impact of the COVID-19 crisis on
+      outcomes of neurologically injured ICU patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID 19 pandemic has overwhelmed healthcare capacity in many regions around the world. As
+      resources become more limited and we have to triage /ration ventilators, neurologically
+      injured ICU patients without COVID 19 but with respiratory insufficiency may be triaged to no
+      ventilator care due to their perceived or actual prognosis. This may lead to increased rates
+      of withdrawal of care and mortality. Some neurologically injured ICU patients with
+      respiratory insufficiency may be simultaneously infected with COVID 19. Their outcomes are
+      completely unknown. Capturing data on the prevalence of limitation of care and prognosis in
+      this patient population will provide important information towards ongoing efforts in patient
+      care and resource utilization as we face the rapidly evolving COVID 19 pandemic. Given the
+      expected strain on ICU resources and limitations in research in ICUs during COVID 19
+      pandemic, data capture/study design must be targeted and pragmatic. This study is designed to
+      answer the most basic and important questions while minimizing the burden of data collection
+      on already overloaded providers.
+
+      This study design is comprised of two components: Component 1- Prospective cohort prevalence
+      study captures data related to treatments offered, limitations of care and patient outcome in
+      5 select primary neurological diagnoses requiring ICU care. Component 2- Case control study
+      captures the same data elements in the same patient populations during the 3 months prior
+      COVID 19 pandemic (Sept - Dec, 2019).
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">April 2, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>In-hospital Mortality</measure>
+    <time_frame>At hospital discharge, approximately 1 month</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>30-day mortality</measure>
+    <time_frame>30 days post-hospital discharge</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Limitations of patient care- Frequency of care not being provided</measure>
+    <time_frame>During In-hospital course, up to 1 month</time_frame>
+    <description>Care treatment such as ventilator use, intubation, and/or tracheostomy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Limitations of patient care- Conversion of DNR/DNI/CMO status</measure>
+    <time_frame>During In-hospital course, up to 1 month</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Sars-CoV2</condition>
+  <condition>Severe Neurologic Injury</condition>
+  <condition>Ischemic Stroke</condition>
+  <condition>Hemorrhagic Stroke</condition>
+  <condition>Intracerebral Hemorrhage</condition>
+  <condition>Subarachnoid Hemorrhage</condition>
+  <condition>Traumatic Brain Injury</condition>
+  <condition>Status Epilepticus</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with 5 select primary neurological diagnoses (Acute Ischemic Stroke, Acute
+        Intracerebral Hemorrhage, Acute Subarachnoid Hemorrhage, Acute Traumatic Brain Injury,
+        Status Epilepticus) requiring ICU care
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients greater than or equal to 18
+
+          -  Patients who require critical care with primary diagnoses of: Acute ischemic stroke
+             (AIS), acute intracerebral hemorrhage (ICH), acute subarachnoid hemorrhage (SAH),
+             acute traumatic brain injury (TBI), status epilepticus (SE) patients requiring
+             critical care
+
+        Exclusion Criteria:
+
+          -  Patients under the age of 18 years old
+
+          -  Pre-existing Do Not Resuscitate (DNR), Do Not Intubate (DNI), or Comfort Measures Only
+             (CMO) status prior to acute hospitalization
+
+          -  Neurologically morbid-bound on hospital arrival (bilateral fix/dilated pupils,
+             catastrophic bleed/TBI) and likely to progress to brain death within 48 hrs
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sherry H Chou, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15261</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.neurocriticalcare.org/research/covid-19-research-opportunities</url>
+    <description>NCC COVID-19 Research Opportunities</description>
+  </link>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 3, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Sherry Hsiang-Yi Chou</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Subarachnoid Hemorrhage</mesh_term>
+    <mesh_term>Cerebral Hemorrhage</mesh_term>
+    <mesh_term>Status Epilepticus</mesh_term>
+    <mesh_term>Hemorrhage</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="208">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04557046</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S-CLIN-PROT-00032</org_study_id>
+    <nct_id>NCT04557046</nct_id>
+  </id_info>
+  <brief_title>Performance Evaluation of LumiraDx COVID-19 (SARS-CoV-2) Ag Test</brief_title>
+  <acronym>ASPIRE</acronym>
+  <official_title>A Multicenter COVID-19 Study Conducted to Evaluate the Performance of the LumiraDx SARS-CoV-2 Ag Test at Point of Care Testing Sites</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>LumiraDx UK Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>LumiraDx UK Limited</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Performance of the LumiraDx SARS-CoV-2 Ag assay will be assessed by comparison to a reference
+      method.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study is a prospective, multi-center study. One (1) reference laboratory and
+      approximately six (6) geographically diverse POC (Point of Care) locations (e.g. physician
+      office laboratories, urgent cares, emergency departments, outpatient clinics, drive through
+      testing sites or research centers) in the U.S. will participate in the study. Testing in the
+      reference laboratory will be performed by trained laboratory personnel. Testing at the POC
+      sites will be performed by non-laboratory health professionals who are representative of
+      typical intended use operators (e.g. nurses, physician assistants, medical assistants, etc.).
+      Each site will have a minimum of one (1) untrained intended use operator who will perform
+      testing under this protocol.
+
+      A subject's participation in this study will consist of a single visit. Following completion
+      of the informed consent process and a review of Inclusion/Exclusion criteria to determine
+      eligibility, each subject will receive a unique study identification number.
+
+      Subjects will have nasopharyngeal or nasal or throat swabs collected. Capillary blood may be
+      collected alongside nasal swabs. Saliva samples may also be collected. Specimens will be
+      obtained from each subject enrolled using standard collection methods.
+
+      The LumiraDx SARS-CoV-2 Ag Test will be performed at POC sites by intended use operators
+      (e.g. nurses, physician assistants, medical assistants, etc.). Each site will have a minimum
+      of one (1) untrained intended use operator who will perform testing under this protocol.
+
+      The LumiraDx SARS-CoV-2 Ag Test will be performed at the site on the same day as the date of
+      collection using one swab for each subject enrolled. A central laboratory will perform
+      reference testing.
+
+      Positive Percent Agreement (PPA) and Negative Percent Agreement (NPA) will be estimated for
+      the LumiraDx SARS-CoV-2 Ag Test results as compared with the reference Test.
+
+      A minimum of thirty (30) positive SARS-CoV-2 are required, but it is likely because of the
+      prevalence of SARS-CoV-2 in the population, that a greater number of negatives will be
+      obtained during the prospective collection of positive samples; therefore, approximately
+      four-hundred (400) subjects will be enrolled. A minimum of thirty (30) negative samples are
+      required.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 26, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Subject are asked to provide nasal swab or nasopharyngeal swab and saliva samples</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Performance Evaluation</measure>
+    <time_frame>4 months</time_frame>
+    <description>Evaluation of performance of the device versus a reference method using standard qualitative comparison techniques (Percent Agreement)</description>
+  </primary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Group A: Sample Collection</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Nasal Swab and Saliva Sample Collection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B: Sample Collection</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Nasal swab, Capillary Blood (from fingerstick) and Saliva Collection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group C: Sample Collection</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Nasal Swab, Throat Swab and Saliva Sample Collection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group D: Sample Collection</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Nasopharyngeal Swab and Saliva Sample Collection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group E: Sample Collection</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Nasal swab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Nasal Swab</intervention_name>
+    <description>Collection of one more nasal swabs</description>
+    <arm_group_label>Group A: Sample Collection</arm_group_label>
+    <arm_group_label>Group B: Sample Collection</arm_group_label>
+    <arm_group_label>Group C: Sample Collection</arm_group_label>
+    <arm_group_label>Group E: Sample Collection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Nasopharyngeal swab</intervention_name>
+    <description>Collection of one more nasopharyngeal swabs</description>
+    <arm_group_label>Group D: Sample Collection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Throat swab</intervention_name>
+    <description>Collection of one more throat swabs</description>
+    <arm_group_label>Group C: Sample Collection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Fingerstick</intervention_name>
+    <description>Collection of capillary blood from one or more fingersticks</description>
+    <arm_group_label>Group B: Sample Collection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Saliva specimen</intervention_name>
+    <description>Collection of free drool</description>
+    <arm_group_label>Group A: Sample Collection</arm_group_label>
+    <arm_group_label>Group B: Sample Collection</arm_group_label>
+    <arm_group_label>Group C: Sample Collection</arm_group_label>
+    <arm_group_label>Group D: Sample Collection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  1. The subject may be of any age and either sex.
+
+          -  2. Preliminary assessment of the subject by the Investigator/designee should be
+             suggestive of COVID-19 at the time of the study visit. The subject must present as
+             symptomatic, meaning they have exhibited one or more of the following signs and
+             symptoms for eligibility: fever, cough, shortness of breath, difficulty breathing,
+             muscle pain, headache, sore throat, chills, repeated shaking with chills, new loss of
+             taste or smell. The onset of these symptoms will be recorded.
+
+        or The subject must have a documented SARS-CoV-2 PCR test in the past 48 hours.
+
+          -  3. Written informed consent must be obtained prior to study enrollment.
+
+               1. A subject who is eighteen (18) years or older must be willing to give written
+                  informed consent and must agree to comply with study procedures.
+
+               2. The Legal Guardian or Legal Authorized Representative of a subject who is under
+                  the age of eighteen (18) must give written informed consent and agree to comply
+                  with study procedures. Active written assent should be obtained from children of
+                  appropriate intellectual age (as defined by the IRB).
+
+        Exclusion Criteria:
+
+          -  1. The subject underwent a nasal wash/aspirate as part of standard of care testing
+             during this study visit.
+
+          -  2. The subject is currently receiving or has received within the past thirty (30) days
+             of the study visit an experimental biologic, drug, or device including either
+             treatment or therapy.
+
+          -  3. The subject has previously participated in this research study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christopher Chappel</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chappel Group</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert Rosen</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ardmore Family Practice</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Andre Gvozden</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Gvozden Pediatrics</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Madhavi Ampajwala</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Village Health Partners</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Edward Zissman</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pediatric Associates of Altamonte Springs</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Melanie Hoppers</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Physicians Quality Care of Jackson</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kimberley Henderson</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Good Samaritan Minute Clinic</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Craig</last_name>
+    <phone>+44 (0)7541713932</phone>
+    <email>david.craig@lumiradx.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Raechel Lapel, MPH</last_name>
+    <phone>888-445-2333</phone>
+    <email>rlapel@toolboxmed.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Children's Pediatric Associates of Altamonte Springs</name>
+      <address>
+        <city>Altamonte Springs</city>
+        <state>Florida</state>
+        <zip>32701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daivd Craig</last_name>
+    </contact>
+    <contact_backup>
+      <email>david.craig@lumiradx.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Edward Zissman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chappel Group</name>
+      <address>
+        <city>Kissimmee</city>
+        <state>Florida</state>
+        <zip>34744</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Craig</last_name>
+    </contact>
+    <contact_backup>
+      <email>david.craig@lumiradx.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Christopher Chappel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Good Samaritan Minute Clinic, Georgia Tech</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Gvozden Pediatrics</name>
+      <address>
+        <city>Millersville</city>
+        <state>Maryland</state>
+        <zip>21108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Craig</last_name>
+    </contact>
+    <contact_backup>
+      <email>david.craig@lumiradx.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andre Gvozden</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ardmore Family Practice</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Craig</last_name>
+    </contact>
+    <contact_backup>
+      <email>david.craig@lumiradx.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Robert Rosen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Physicians Quality Care of Jackson</name>
+      <address>
+        <city>Jackson</city>
+        <state>Tennessee</state>
+        <zip>38305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Craig</last_name>
+    </contact>
+    <contact_backup>
+      <email>david.craig@lumiradx.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Melanie Hoppers</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Village Health Partners</name>
+      <address>
+        <city>Plano</city>
+        <state>Texas</state>
+        <zip>75024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Craig</last_name>
+    </contact>
+    <contact_backup>
+      <email>david.craig@lumiradx.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Madhavi Ampajwala</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 21, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>POC</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Antigen</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

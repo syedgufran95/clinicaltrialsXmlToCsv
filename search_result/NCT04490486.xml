@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2243">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04490486</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20200575</org_study_id>
+    <nct_id>NCT04490486</nct_id>
+  </id_info>
+  <brief_title>Umbilical Cord Tissue (UC) Derived Mesenchymal Stem Cells (MSCs) Versus Placebo to Treat Acute Pulmonary Inflammation Due to COVID-19</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Phase I, Randomized, Double Blinded, Placebo Control Study to Evaluate the Safety and Potential Efficacy of Intravenous Infusion of Umbilical Cord Tissue (UC) Derived Mesenchymal Stem Cells (MSCs) Versus Placebo to Treat Acute Pulmonary Inflammation Due to COVID-19 With Moderate to Severe Symptoms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Joshua M Hare</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Miami</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to demonstrate the safety of Umbilical Cord Tissue Derived
+      Mesenchymal Stem Cells (UCMSCs) administered intravenously in patients with acute pulmonary
+      inflammation due to COVID-19 with moderately severe symptoms
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">June 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent of participants with treatment related Serious Adverse Events (SAE)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Safety of UCMSCs will be reported as the percentage of participants in each treatment group that experienced a treatment related SAEs.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in inflammatory marker levels</measure>
+    <time_frame>Baseline, Day 30</time_frame>
+    <description>Change in serum inflammatory marker levels including Interleukin (IL) IL-6, IL-2, Tumor Necrosis Factor Alpha (TNF-a) and procalcitonin will be evaluated in ng/L.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in systemic inflammatory marker levels</measure>
+    <time_frame>Baseline, Day 30</time_frame>
+    <description>Change in serum systemic inflammatory marker levels including D-dimer, high sensitivity C-reactive protein (hsCRP) and ferritin will be evaluated in mg/L.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Viral Load</measure>
+    <time_frame>Up to 30 Days</time_frame>
+    <description>Assessed using blood samples or nose/throat swabs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SOFA score</measure>
+    <time_frame>Baseline, Up to 30 Days</time_frame>
+    <description>Sequential Organ Failure Assessment (SOFA) will be used to assess organ failure including the cardiovascular system, coagulation system, liver, kidney and other extra-pulmonary organs. SOFA score ranges from 0-24 with the higher score indicating worse outcomes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in electrolytes levels</measure>
+    <time_frame>Baseline, Up to 30 Days</time_frame>
+    <description>Sodium, Potassium, Chloride and Carbon Dioxide (CO2) will be evaluated in mmol/L. Changes from baseline to Day 30 will be compared between groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in LDH levels</measure>
+    <time_frame>Baseline, Up to 30 Days</time_frame>
+    <description>Serum Lactate Dehydrogenase (LDH) levels assessed in U/L. Changes in LDH from baseline to Day 30 will be compared between groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of subjects discharged from the ICU</measure>
+    <time_frame>Up to 7 Days</time_frame>
+    <description>ICU monitoring status will be reported as the number of subjects discharged from the ICU within 7 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with less requirement for vasoactive agents</measure>
+    <time_frame>Up to 30 Days</time_frame>
+    <description>Percentage of participants requiring less use of vasoactive agents will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Mortality</measure>
+    <time_frame>Up to 30 Days</time_frame>
+    <description>Percentage of participant deaths throughout the study period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with changes in immune marker expression</measure>
+    <time_frame>Up to 30 Days</time_frame>
+    <description>The percentage of participants with changes in serum immune marker levels including Cluster of Differentiation (CD) CD 4+ and CD 8+, as evaluated by treating physician will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with changes in radiologic findings</measure>
+    <time_frame>Up to 30 Days</time_frame>
+    <description>Percentage of participants with changes in their chest imaging such as ground-glass opacity, local patch shadowing, bilateral patch shadowing and interstitial abnormalities will be reported. Imaging will be assessed by treating physician using chest radiography or chest Computed Tomography (CT).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with less pneumonia symptoms</measure>
+    <time_frame>Up to 30 Days</time_frame>
+    <description>Percentage of participants showing less pneumonia symptoms will be reported as evaluated by treating physician using chest radiography or chest CT.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">21</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Group 1: (UCMSCs)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this group will receive the 2 intravenous (IV) UCMSCs intervention on day 0 and day 3.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: (Placebo)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants in this group will receive the placebo, a solution of 1% human serum albumin in Plasmalyte A, on day 0 and day 3.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>UCMSCs</intervention_name>
+    <description>100 x 106 (100 million) UCMSCs delivered via peripheral intravenous infusion.</description>
+    <arm_group_label>Group 1: (UCMSCs)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo, a solution of 1% human serum albumin in Plasmalyte A, delivered via peripheral intravenous infusion</description>
+    <arm_group_label>Group 2: (Placebo)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Provide written informed consent
+
+          2. Male or female subjects age &gt; 18 years at the time of signing the Informed Consent
+             Form.
+
+          3. COVID-19 positive according to diagnosis (evaluated by reverse transcription
+             (RT)-polymerase chain reaction (PCR) test confirming infection with severe acute
+             respiratory syndrome coronavirus and clinical management of COVID-19 criteria (refer
+             to appendix B)
+
+          4. Individuals with moderate to severe COVID-19 symptoms.
+
+               -  Moderate:
+
+               -  Patients with moderate disease are symptomatic (e.g. fever, cough, headache,
+                  myalgia, sore throat, nasal congestion, nausea, vomiting, diarrhea, fatigue,
+                  anosmia, or dysgeusia) and have abnormal chest imaging or some degree of hypoxia
+                  requiring supplemental oxygen but not intubation.
+
+               -  Moderate-severe:
+
+               -  The Moderately Severe disease category includes patients who are symptomatic (as
+                  described above), have abnormal chest imaging, but also have worsening hypoxia
+                  compatible with mild acute respiratory distress syndrome (ARDS) (Partial Pressure
+                  of Oxygen (PaO2)/Fraction of Inspired Oxygen (FiO2) &lt;/= 300 but &gt; 200) - Berlin
+                  criteria; but do not yet require intubation .
+
+          5. Adequate venous access
+
+          6. For female patients only, willingness to use FDA-recommended birth control until 6
+             months post treatment.
+
+          7. Must agree to comply with all study requirements and be willing to complete all study
+             visits.
+
+          8. Need in-patient admission
+
+        Exclusion Criteria:
+
+          1. PaO2/FiO2 &lt;/= 200
+
+          2. Anticipated intubation within 24h
+
+          3. Be a female who is pregnant, nursing, or of childbearing potential while not
+             practicing effective contraceptive methods. Female subjects must undergo a blood
+             pregnancy test at screening and prior to infusion.
+
+          4. Inability to perform any of the assessments required for endpoint analysis.
+
+          5. Subjects that are unsuitable with the study requirements .
+
+          6. Active listing (or expected future listing) for transplant of any organ.
+
+          7. Have known allergies to penicillin or streptomycin.
+
+          8. Be a solid organ transplant recipient. This does not include prior cell-based therapy
+             (&gt;12 months prior to enrollment), bone, skin, ligament, tendon or corneal grafting.
+
+          9. Have a history of organ or cell transplant rejection
+
+         10. Has a history of an adverse response to cell-based therapy
+
+         11. Have presence of any active malignancy (other than non-melanoma skin cancer) that
+             required treatment within the last 1 year.
+
+         12. History of active drug abuse (illegal &quot;street&quot; drugs except marijuana, or prescription
+             medications not being used appropriately for a pre-existing medical condition) or
+             alcohol abuse (≥ 5 drinks/day for ˃ 3 months), or documented medical, occupational, or
+             legal problems arising from the use of alcohol or drugs within the past 24 months
+
+         13. Be serum positive for HIV, Surface antigen of Hepatitis B virus (HBsAg) or Viremic
+             hepatitis C.
+
+         14. Severe hepatic impairment (defined as liver cirrhosis Child stage B or C);
+
+         15. Stage 4 chronic kidney disease or currently receiving chronic dialysis;
+
+         16. Advanced cardiac (eg, severe heart failure [New York Heart Association (NYHA) III-IV])
+             or pulmonary diseases;
+
+         17. Has uncontrolled hypertension as defined by BP systolic above 180 and diastolic above
+             110 which, in the Investigator's judgment, would not make participation appropriate;
+
+         18. Known allergy or hypersensitivity to stem cell infusions or its components;
+
+         19. Current enrollment in an investigational drug or participation in such a study within
+             15 days of entry into this study;
+
+         20. Moderate to severe liver failure (Childs-Pugh Score &gt; 10) Alanine Aminotransferase
+             (ALT)/Aspartate Aminotransferase (AST) &gt; 5 times the upper limit of normal;
+
+         21. Congenital prolonged QT syndrome;
+
+         22. Current QT corrected (QTc) above 490 msec. If patient has Q, R and S waves (QRS)
+             interval greater or equal to 120 msec, then the QT/QTc will be normalized to a QRS
+             interval of 110 msec. (For instance, if the patient has a bundle branch block with QRS
+             of 140 msec and QT/QTc of 470 msec, the normalized QTc will be 470;
+
+         23. Subjects taking drugs that could affect the QT interval (e.g. procainamide,
+             disopyramide, mexiletine, flecainide, propafenone, amiodarone, sotalol, cimetidine,
+             dronedarone, dofetilide, levofloxacin, ciprofloxacin, moxifloxacin);
+
+         24. Anticipated transfer to another hospital which is not a study site within 72 hours;
+
+         25. Coagulopathy (Platelets less than 80,000, or Prothrombin Time (PT)/Partial
+             Thromboplastin time (PTT) twice normal range without systemic anticoagulation;
+
+         26. Greater than 24h since first meeting ARDS criteria (Berlin definition) or 72h of ICU
+             admission;
+
+         27. Subjects who are legally detained in an official institution;
+
+         28. A previous MSC infusion in last 30 days not related to this trial;
+
+         29. History of Pulmonary Hypertension (WHO Class III/IV);
+
+         30. Unstable arrhythmia or uncontrolled hypertension not responding to best ICU treatment;
+
+         31. Patients currently receiving Extracorporeal Membrane Oxygenation (ECMO);
+
+         32. Any other irreversible disease or condition for which 6-month mortality is estimated
+             to be greater than 50%;
+
+         33. Moribund patient not expected to survive &gt; 24 hours;
+
+         34. The investigator believes that participating in the trial is not in the best interest
+             of the patient, or the investigator considers patient unsuitable for enrollment (such
+             as unpredictable risks or subject compliance issues)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joshua M Hare, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>ISCI/University of Miami Miller School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Joshua M Hare, MD</last_name>
+    <phone>305-243-5579</phone>
+    <email>Jhare@med.miami.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yvenie Desire, BS</last_name>
+    <phone>305-243-7273</phone>
+    <email>Ydesire@miami.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Joshua M Hare, MD</last_name>
+      <phone>305-243-5579</phone>
+      <email>jhare@miami.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://isci.med.miami.edu/</url>
+    <description>Interdisciplinary Stem Cell Institute at the University of Miami Miller School website</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>September 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Miami</investigator_affiliation>
+    <investigator_full_name>Joshua M Hare</investigator_full_name>
+    <investigator_title>Director of ISCI, Louis Lemberg Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Acute Pulmonary Inflammation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

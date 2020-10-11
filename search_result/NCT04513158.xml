@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="92">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04513158</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-N0124</org_study_id>
+    <nct_id>NCT04513158</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma in the Early Treatment of High-Risk Patients With SARS-CoV-2 (COVID-19) Infection</brief_title>
+  <official_title>Convalescent Plasma in the Early Treatment of High-Risk Patients With SARS-CoV-2 (COVID-19) Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Joseph M. Flynn, D.O., MPH</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Norton Healthcare</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study proposes to evaluate the therapeutic efficacy, immunologic effects and
+      normalization of laboratory parameters for patients at high risk for mortality when infected
+      by SARS-CoV-2 (COVID-19) when administered one unit (approximately 200 mL) of convalescent
+      plasma administered over a period of one hour. Following administration of the convalescent
+      plasma, physical exam/clinical assessment information is collected daily and routine lab
+      result data is collected every three days.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Following the administration of one unit (approximately 200 mL) of convalescent plasma over
+      one hour, the study proposes to determine the therapeutic efficacy (response rate) of
+      convalescent plasma infusion in patients at high risk for mortality when infected by
+      SARS-CoV-2 (COVID-19) by prevention of progression to severe or life threatening COVID-19
+      during the current hospitalization as determined by evaluating if the patient experienced the
+      following the following: respiratory rate &gt;30/min, Blood oxygen saturation &lt;93%, partial
+      pressure of arterial oxygen to fraction of inspired oxygen ration &lt;300, or received a medical
+      diagnosis of respiratory failure, septic shock or multiple organ dysfunction/failure. This
+      will be captured from the daily physical exam/clinical assessment done as part of routine
+      care and at discharge.
+
+      The study also proposes to determine the immunologic effects of convalescent plasma infusion
+      as measured by serial SARS-CoV-2 Ag levels through RT-PCR measured by CoV PCR collected at
+      enrollment, day 7 and discharge.
+
+      Finally, the study intends to measure normalization of laboratory parameters for risk which
+      will be documented every 3 days while the patient is hospitalized until the time that lab
+      value returns to within the institution's normal range.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 14, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>All hospitalized patients meeting study inclusion/exclusion criteria and providing informed consent for participation in the study will receive one unit (approximately 200 mL) of convalescent plasma over one hour to with data collection of routine physical exams/clinical assessments (daily) and routine lab results (every 3 days).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determine the therapeutic efficacy (response rate) of convalescent plasma infusion in patients at high risk for mortality when infected by SARS-CoV-2 (COVID-19).</measure>
+    <time_frame>Through study completion, an average of 30 days</time_frame>
+    <description>Measured by respiratory rate &gt;30/min, blood oxygen saturation &lt;93%, partial pressure of arterial oxygen to fraction of inspired oxygen ration &lt;300 and received a medical diagnosis of respiratory failure, septic shock or multiple</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Determine the immunologic effects of convalescent plasma infusion</measure>
+    <time_frame>Through study completion, an average of 14 days</time_frame>
+    <description>SARS-CoV-2 Ag levels through RT-PCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute lymphocyte count (10*3/uL)</measure>
+    <time_frame>Through study completion, an average of 14 days</time_frame>
+    <description>Measure normalization of laboratory parameters for risk</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>reatinine kinase (mg/dL)</measure>
+    <time_frame>Through study completion, an average of 14 days</time_frame>
+    <description>Measure normalization of laboratory parameters for risk</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein (mg/dl)</measure>
+    <time_frame>Through study completion, an average of 14 days</time_frame>
+    <description>Measure normalization of laboratory parameters for risk</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-Dimer (ng/ml FEU)</measure>
+    <time_frame>Through study completion, an average of 14 days</time_frame>
+    <description>Measure normalization of laboratory parameters for risk</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin-6 (pg/ml)</measure>
+    <time_frame>Through study completion, an average of 14 days</time_frame>
+    <description>Measure normalization of laboratory parameters for risk</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin (ng/mL)</measure>
+    <time_frame>Through study completion, an average of 14 days</time_frame>
+    <description>Measure normalization of laboratory parameters for risk</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Treatment Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Study is single arm all patients hospitalized meeting inclusion/exclusion criteria and providing informed consent to receive one unit (approximately 200 mL) of convalescent plasma with data collected daily on routine (non-research) clinical assessments/physical exams and lab results.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent Plasma</intervention_name>
+    <description>Plasma obtained from individuals previously diagnosed with SARS-CoV-2 (COVID-19) is administered to hospitalized patients meeting inclusion/exclusion criteria and have provided informed consent.</description>
+    <arm_group_label>Treatment Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of SARS-CoV-2 infection via RT-PCR or FDA approved testing.
+
+          -  Patients must also have the following indications for enrollment:
+
+          -  i. D-Dimer &gt; 1500 ng/ml FEU AND
+
+          -  ii. IL-6&gt; 5 pg/mL
+
+        With any of the following:
+
+          -  iii. Lymphocytes &lt; 0.8 103/ul OR
+
+          -  iv. LDH &gt; 700 U/L OR
+
+          -  v. CK &gt; 170 U/L OR
+
+          -  vi. CRP &gt; 1.0 mg/dl OR
+
+          -  vii. Ferritin &gt; 1000 ng/ml
+
+        AND one of the following:
+
+          -  viii. Age over 60 years
+
+          -  ix. Underlying Active Malignancy
+
+          -  x. Cardiovascular Disease
+
+          -  xi. Active Tobacco Use
+
+          -  xii. History of Pulmonary Volume Reduction Surgery
+
+          -  xiii. Hypertension
+
+          -  Prior Treatment: Patients are still eligible for this trial if active antimicrobial
+             agents are in use. Patients are also eligible if they had been treated on COVID-19
+             clinical trial in the course of their disease.
+
+          -  Age ≥ 18 years.
+
+          -  The effects of allogeneic plasma infusion on the developing fetus is unknown. For this
+             reason women who are pregnant are not eligible to participate.
+
+          -  Agrees to required laboratory data collected which will include the baseline organ
+             function and regular ongoing assessments done as part of routine care.
+
+          -  Ability to understand and the willingness to sign a written informed consent document
+             or ability to have consent provided by Legally Authorized Representative.
+
+        Exclusion Criteria:
+
+          -  4.2.1 Patients who do not meet above inclusion criteria are not eligible.
+
+          -  4.2.2 Patients may not be receiving any other investigational agents.
+
+          -  4.2.3 History of allergic reactions attributed to previous transfusion history.
+
+          -  4.2.4 Respiratory rate &gt;30/min
+
+          -  4.2.5 Blood oxygen saturation &lt;93%
+
+          -  4.2.6 Partial pressure of arterial oxygen to fraction of inspired oxygen ration &lt;300
+
+          -  4.2.7 Diagnosis of respiratory failure, septic shock or multiple organ
+             dysfunction/failure
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joseph M Flynn, DO, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Norton Healthcare</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Joseph M Flynn, DO, MPH</last_name>
+    <phone>502-272-5001</phone>
+    <email>Joseph.flynn@nortonhealthcare.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marti Gardner, MSN, APRN</last_name>
+    <phone>502-629-3550</phone>
+    <email>Marti.Gardner@nortonhealthcare.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Norton Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jackie Bourke, RN</last_name>
+      <phone>502-479-1217</phone>
+      <phone_ext>157</phone_ext>
+      <email>Jackie.bourke@nortonhealthcare.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jayne Carwile, RN, MSN</last_name>
+      <phone>502-479-1217</phone>
+      <phone_ext>142</phone_ext>
+      <email>Jayne.Carwile@nortonhealthcare.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Joseph M Flynn, DO, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Don A Stevens, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paul Schulz, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joseph J Maly, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Khuda D Khan, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Women's and Children's Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jackie Bourke, RN</last_name>
+      <phone>502-479-1217</phone>
+      <phone_ext>157</phone_ext>
+      <email>Jackie.bourke@nortonhealthcare.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jayne Carwile, RN, MSN</last_name>
+      <phone>502-479-1217</phone>
+      <phone_ext>142</phone_ext>
+      <email>Jayne.Carwile@nortonhealthcare.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Joseph M Flynn, DO, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Don A Stevens, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paul Schulz, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joseph J Maly, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Khuda D Khan, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Audubon Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40217</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jackie Bourke, RN</last_name>
+      <phone>502-479-1217</phone>
+      <phone_ext>157</phone_ext>
+      <email>Jackie.bourke@nortonhealthcare.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jayne Carwile, RN, MSN</last_name>
+      <phone>502-479-1217</phone>
+      <phone_ext>142</phone_ext>
+      <email>Jayne.Carwile@nortonhealthcare.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Joseph M Flynn, DO, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Don A Stevens, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paul Schulz, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joseph J Maly, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Khuda D Khan, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Brownsboro Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40241</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jackie Bourke, RN</last_name>
+      <phone>502-479-1217</phone>
+      <phone_ext>157</phone_ext>
+      <email>Jackie.bourke@nortonhealthcare.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jayne Carwile, RN, MSN</last_name>
+      <phone>502-479-1217</phone>
+      <phone_ext>142</phone_ext>
+      <email>Jayne.Carwile@nortonhealthcare.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Joseph M Flynn, DO, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Don A Stevens, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paul Schulz, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joseph J Maly, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Khuda D Khan, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Bonow RO, Fonarow GC, O'Gara PT, Yancy CW. Association of Coronavirus Disease 2019 (COVID-19) With Myocardial Injury and Mortality. JAMA Cardiol. 2020 Jul 1;5(7):751-753. doi: 10.1001/jamacardio.2020.1105.</citation>
+    <PMID>32219362</PMID>
+  </reference>
+  <reference>
+    <citation>Rodriguez-Morales AJ, Cardona-Ospina JA, Gutiérrez-Ocampo E, Villamizar-Peña R, Holguin-Rivera Y, Escalera-Antezana JP, Alvarado-Arnez LE, Bonilla-Aldana DK, Franco-Paredes C, Henao-Martinez AF, Paniz-Mondolfi A, Lagos-Grisales GJ, Ramírez-Vallejo E, Suárez JA, Zambrano LI, Villamil-Gómez WE, Balbin-Ramon GJ, Rabaan AA, Harapan H, Dhama K, Nishiura H, Kataoka H, Ahmad T, Sah R; Latin American Network of Coronavirus Disease 2019-COVID-19 Research (LANCOVID-19). Electronic address: https://www.lancovid.org. Clinical, laboratory and imaging features of COVID-19: A systematic review and meta-analysis. Travel Med Infect Dis. 2020 Mar - Apr;34:101623. doi: 10.1016/j.tmaid.2020.101623. Epub 2020 Mar 13.</citation>
+    <PMID>32179124</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>The Novel Coronavirus Pneumonia Emergency Response Epidemiology Team. The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) - China, 2020[J]. China CDC Weekly, 2020, 2(8): 113-122. doi: 10.46234/ccdcw2020.032</citation>
+  </reference>
+  <reference>
+    <citation>Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 May;8(5):475-481. doi: 10.1016/S2213-2600(20)30079-5. Epub 2020 Feb 24. Erratum in: Lancet Respir Med. 2020 Apr;8(4):e26.</citation>
+    <PMID>32105632</PMID>
+  </reference>
+  <reference>
+    <citation>Zhao J, Yuan Q, Wang H, Liu W, Liao X, Su Y, Wang X, Yuan J, Li T, Li J, Qian S, Hong C, Wang F, Liu Y, Wang Z, He Q, Li Z, He B, Zhang T, Fu Y, Ge S, Liu L, Zhang J, Xia N, Zhang Z. Antibody responses to SARS-CoV-2 in patients of novel coronavirus disease 2019. Clin Infect Dis. 2020 Mar 28. pii: ciaa344. doi: 10.1093/cid/ciaa344. [Epub ahead of print]</citation>
+    <PMID>32221519</PMID>
+  </reference>
+  <reference>
+    <citation>Jean SS, Lee PI, Hsueh PR. Treatment options for COVID-19: The reality and challenges. J Microbiol Immunol Infect. 2020 Jun;53(3):436-443. doi: 10.1016/j.jmii.2020.03.034. Epub 2020 Apr 4. Review.</citation>
+    <PMID>32307245</PMID>
+  </reference>
+  <reference>
+    <citation>Bhatraju PK, Ghassemieh BJ, Nichols M, Kim R, Jerome KR, Nalla AK, Greninger AL, Pipavath S, Wurfel MM, Evans L, Kritek PA, West TE, Luks A, Gerbino A, Dale CR, Goldman JD, O'Mahony S, Mikacenic C. Covid-19 in Critically Ill Patients in the Seattle Region - Case Series. N Engl J Med. 2020 May 21;382(21):2012-2022. doi: 10.1056/NEJMoa2004500. Epub 2020 Mar 30.</citation>
+    <PMID>32227758</PMID>
+  </reference>
+  <reference>
+    <citation>Baron SA, Devaux C, Colson P, Raoult D, Rolain JM. Teicoplanin: an alternative drug for the treatment of COVID-19? Int J Antimicrob Agents. 2020 Apr;55(4):105944. doi: 10.1016/j.ijantimicag.2020.105944. Epub 2020 Mar 13.</citation>
+    <PMID>32179150</PMID>
+  </reference>
+  <reference>
+    <citation>Mair-Jenkins J, Saavedra-Campos M, Baillie JK, Cleary P, Khaw FM, Lim WS, Makki S, Rooney KD, Nguyen-Van-Tam JS, Beck CR; Convalescent Plasma Study Group. The effectiveness of convalescent plasma and hyperimmune immunoglobulin for the treatment of severe acute respiratory infections of viral etiology: a systematic review and exploratory meta-analysis. J Infect Dis. 2015 Jan 1;211(1):80-90. doi: 10.1093/infdis/jiu396. Epub 2014 Jul 16. Review.</citation>
+    <PMID>25030060</PMID>
+  </reference>
+  <reference>
+    <citation>Lim VW, Tudor Car L, Leo YS, Chen MI, Young B. Passive immune therapy and other immunomodulatory agents for the treatment of severe influenza: Systematic review and meta-analysis. Influenza Other Respir Viruses. 2020 Mar;14(2):226-236. doi: 10.1111/irv.12699. Epub 2019 Nov 16.</citation>
+    <PMID>31733048</PMID>
+  </reference>
+  <reference>
+    <citation>Cheng Y, Wong R, Soo YO, Wong WS, Lee CK, Ng MH, Chan P, Wong KC, Leung CB, Cheng G. Use of convalescent plasma therapy in SARS patients in Hong Kong. Eur J Clin Microbiol Infect Dis. 2005 Jan;24(1):44-6.</citation>
+    <PMID>15616839</PMID>
+  </reference>
+  <reference>
+    <citation>van Griensven J, Edwards T, de Lamballerie X, Semple MG, Gallian P, Baize S, Horby PW, Raoul H, Magassouba N, Antierens A, Lomas C, Faye O, Sall AA, Fransen K, Buyze J, Ravinetto R, Tiberghien P, Claeys Y, De Crop M, Lynen L, Bah EI, Smith PG, Delamou A, De Weggheleire A, Haba N; Ebola-Tx Consortium. Evaluation of Convalescent Plasma for Ebola Virus Disease in Guinea. N Engl J Med. 2016 Jan 7;374(1):33-42. doi: 10.1056/NEJMoa1511812.</citation>
+    <PMID>26735992</PMID>
+  </reference>
+  <reference>
+    <citation>Arabi Y, Balkhy H, Hajeer AH, Bouchama A, Hayden FG, Al-Omari A, Al-Hameed FM, Taha Y, Shindo N, Whitehead J, Merson L, AlJohani S, Al-Khairy K, Carson G, Luke TC, Hensley L, Al-Dawood A, Al-Qahtani S, Modjarrad K, Sadat M, Rohde G, Leport C, Fowler R. Feasibility, safety, clinical, and laboratory effects of convalescent plasma therapy for patients with Middle East respiratory syndrome coronavirus infection: a study protocol. Springerplus. 2015 Nov 19;4:709. doi: 10.1186/s40064-015-1490-9. eCollection 2015.</citation>
+    <PMID>26618098</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou G, Zhao Q. Perspectives on therapeutic neutralizing antibodies against the Novel Coronavirus SARS-CoV-2. Int J Biol Sci. 2020 Mar 15;16(10):1718-1723. doi: 10.7150/ijbs.45123. eCollection 2020. Review.</citation>
+    <PMID>32226289</PMID>
+  </reference>
+  <reference>
+    <citation>Casadevall A, Pirofski LA. The convalescent sera option for containing COVID-19. J Clin Invest. 2020 Apr 1;130(4):1545-1548. doi: 10.1172/JCI138003.</citation>
+    <PMID>32167489</PMID>
+  </reference>
+  <reference>
+    <citation>Hung IF, To KK, Lee CK, Lee KL, Chan K, Yan WW, Liu R, Watt CL, Chan WM, Lai KY, Koo CK, Buckley T, Chow FL, Wong KK, Chan HS, Ching CK, Tang BS, Lau CC, Li IW, Liu SH, Chan KH, Lin CK, Yuen KY. Convalescent plasma treatment reduced mortality in patients with severe pandemic influenza A (H1N1) 2009 virus infection. Clin Infect Dis. 2011 Feb 15;52(4):447-56. doi: 10.1093/cid/ciq106. Epub 2011 Jan 19.</citation>
+    <PMID>21248066</PMID>
+  </reference>
+  <reference>
+    <citation>Chen L, Xiong J, Bao L, Shi Y. Convalescent plasma as a potential therapy for COVID-19. Lancet Infect Dis. 2020 Apr;20(4):398-400. doi: 10.1016/S1473-3099(20)30141-9. Epub 2020 Feb 27.</citation>
+    <PMID>32113510</PMID>
+  </reference>
+  <reference>
+    <citation>Shen C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, Wang F, Li D, Yang M, Xing L, Wei J, Xiao H, Yang Y, Qu J, Qing L, Chen L, Xu Z, Peng L, Li Y, Zheng H, Chen F, Huang K, Jiang Y, Liu D, Zhang Z, Liu Y, Liu L. Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma. JAMA. 2020 Apr 28;323(16):1582-1589. doi: 10.1001/jama.2020.4783.</citation>
+    <PMID>32219428</PMID>
+  </reference>
+  <reference>
+    <citation>Robeck J. Convalescent Plasma to Treat COVID-19. JAMA - J Am Med Assoc. 2020;Mar 27(Published online).</citation>
+  </reference>
+  <reference>
+    <citation>Duan K, Liu B, Li C, Zhang H, Yu T, Qu J, Zhou M, Chen L, Meng S, Hu Y, Peng C, Yuan M, Huang J, Wang Z, Yu J, Gao X, Wang D, Yu X, Li L, Zhang J, Wu X, Li B, Xu Y, Chen W, Peng Y, Hu Y, Lin L, Liu X, Huang S, Zhou Z, Zhang L, Wang Y, Zhang Z, Deng K, Xia Z, Gong Q, Zhang W, Zheng X, Liu Y, Yang H, Zhou D, Yu D, Hou J, Shi Z, Chen S, Chen Z, Zhang X, Yang X. Effectiveness of convalescent plasma therapy in severe COVID-19 patients. Proc Natl Acad Sci U S A. 2020 Apr 28;117(17):9490-9496. doi: 10.1073/pnas.2004168117. Epub 2020 Apr 6.</citation>
+    <PMID>32253318</PMID>
+  </reference>
+  <reference>
+    <citation>Ruan Q, Yang K, Wang W, Jiang L, Song J. Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 May;46(5):846-848. doi: 10.1007/s00134-020-05991-x. Epub 2020 Mar 3. Erratum in: Intensive Care Med. 2020 Apr 6;:.</citation>
+    <PMID>32125452</PMID>
+  </reference>
+  <reference>
+    <citation>Chen G, Wu D, Guo W, Cao Y, Huang D, Wang H, Wang T, Zhang X, Chen H, Yu H, Zhang X, Zhang M, Wu S, Song J, Chen T, Han M, Li S, Luo X, Zhao J, Ning Q. Clinical and immunological features of severe and moderate coronavirus disease 2019. J Clin Invest. 2020 May 1;130(5):2620-2629. doi: 10.1172/JCI137244.</citation>
+    <PMID>32217835</PMID>
+  </reference>
+  <reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </reference>
+  <reference>
+    <citation>Shi S, Qin M, Shen B, Cai Y, Liu T, Yang F, Gong W, Liu X, Liang J, Zhao Q, Huang H, Yang B, Huang C. Association of Cardiac Injury With Mortality in Hospitalized Patients With COVID-19 in Wuhan, China. JAMA Cardiol. 2020 Jul 1;5(7):802-810. doi: 10.1001/jamacardio.2020.0950.</citation>
+    <PMID>32211816</PMID>
+  </reference>
+  <reference>
+    <citation>Madjid M, Safavi-Naeini P, Solomon SD, Vardeny O. Potential Effects of Coronaviruses on the Cardiovascular System: A Review. JAMA Cardiol. 2020 Jul 1;5(7):831-840. doi: 10.1001/jamacardio.2020.1286.</citation>
+    <PMID>32219363</PMID>
+  </reference>
+  <reference>
+    <citation>Arentz M, Yim E, Klaff L, Lokhandwala S, Riedo FX, Chong M, Lee M. Characteristics and Outcomes of 21 Critically Ill Patients With COVID-19 in Washington State. JAMA. 2020 Apr 28;323(16):1612-1614. doi: 10.1001/jama.2020.4326.</citation>
+    <PMID>32191259</PMID>
+  </reference>
+  <reference>
+    <citation>Liu W, Tao ZW, Wang L, Yuan ML, Liu K, Zhou L, Wei S, Deng Y, Liu J, Liu HG, Yang M, Hu Y. Analysis of factors associated with disease outcomes in hospitalized patients with 2019 novel coronavirus disease. Chin Med J (Engl). 2020 May 5;133(9):1032-1038. doi: 10.1097/CM9.0000000000000775.</citation>
+    <PMID>32118640</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Gao Y, Li T, Han M, Li X, Wu D, Xu Y, Zhu Y, Liu Y, Wang X, Wang L. Diagnostic utility of clinical laboratory data determinations for patients with the severe COVID-19. J Med Virol. 2020 Jul;92(7):791-796. doi: 10.1002/jmv.25770. Epub 2020 Apr 10.</citation>
+    <PMID>32181911</PMID>
+  </reference>
+  <reference>
+    <citation>Liang W, Guan W, Chen R, Wang W, Li J, Xu K, Li C, Ai Q, Lu W, Liang H, Li S, He J. Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China. Lancet Oncol. 2020 Mar;21(3):335-337. doi: 10.1016/S1470-2045(20)30096-6. Epub 2020 Feb 14.</citation>
+    <PMID>32066541</PMID>
+  </reference>
+  <reference>
+    <citation>Chan JW, Ng CK, Chan YH, Mok TY, Lee S, Chu SY, Law WL, Lee MP, Li PC. Short term outcome and risk factors for adverse clinical outcomes in adults with severe acute respiratory syndrome (SARS). Thorax. 2003 Aug;58(8):686-9.</citation>
+    <PMID>12885985</PMID>
+  </reference>
+  <reference>
+    <citation>Tan L, Wang Q, Zhang D, Ding J, Huang Q, Tang YQ, Wang Q, Miao H. Lymphopenia predicts disease severity of COVID-19: a descriptive and predictive study. Signal Transduct Target Ther. 2020 Mar 27;5(1):33. doi: 10.1038/s41392-020-0148-4.</citation>
+    <PMID>32296069</PMID>
+  </reference>
+  <reference>
+    <citation>Tan L, Wang Q, Zhang D, Ding J, Huang Q, Tang YQ, Wang Q, Miao H. Correction: Lymphopenia predicts disease severity of COVID-19: a descriptive and predictive study. Signal Transduct Target Ther. 2020 Apr 29;5:61. doi: 10.1038/s41392-020-0159-1. eCollection 2020.</citation>
+    <PMID>32377400</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang JJ, Dong X, Cao YY, Yuan YD, Yang YB, Yan YQ, Akdis CA, Gao YD. Clinical characteristics of 140 patients infected with SARS-CoV-2 in Wuhan, China. Allergy. 2020 Jul;75(7):1730-1741. doi: 10.1111/all.14238. Epub 2020 Feb 27.</citation>
+    <PMID>32077115</PMID>
+  </reference>
+  <reference>
+    <citation>Li B, Yang J, Zhao F, Zhi L, Wang X, Liu L, Bi Z, Zhao Y. Prevalence and impact of cardiovascular metabolic diseases on COVID-19 in China. Clin Res Cardiol. 2020 May;109(5):531-538. doi: 10.1007/s00392-020-01626-9. Epub 2020 Mar 11. Review.</citation>
+    <PMID>32161990</PMID>
+  </reference>
+  <reference>
+    <citation>Zheng YY, Ma YT, Zhang JY, Xie X. COVID-19 and the cardiovascular system. Nat Rev Cardiol. 2020 May;17(5):259-260. doi: 10.1038/s41569-020-0360-5.</citation>
+    <PMID>32139904</PMID>
+  </reference>
+  <reference>
+    <citation>Emami A, Javanmardi F, Pirbonyeh N, Akbari A. Prevalence of Underlying Diseases in Hospitalized Patients with COVID-19: a Systematic Review and Meta-Analysis. Arch Acad Emerg Med. 2020 Mar 24;8(1):e35. eCollection 2020. Review.</citation>
+    <PMID>32232218</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 14, 2020</study_first_posted>
+  <last_update_submitted>August 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 20, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Norton Healthcare</investigator_affiliation>
+    <investigator_full_name>Joseph M. Flynn, D.O., MPH</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

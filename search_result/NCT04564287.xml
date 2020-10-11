@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="317">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04564287</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10000094</org_study_id>
+    <secondary_id>000094-N</secondary_id>
+    <nct_id>NCT04564287</nct_id>
+  </id_info>
+  <brief_title>An Observational Study of Neurologic Function After COVID-19 Infection</brief_title>
+  <official_title>An Observational Study of Neurologic Function After COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <brief_summary>
+    <textblock>
+      Background:
+
+      COVID-19 is an infection caused by a coronavirus. It can affect different parts of the body.
+      For most people, it causes fevers or trouble breathing. Some people can have symptoms long
+      after they recover. Researchers want to learn if there are signs of changes in the nervous
+      system that may be related to COVID-19.
+
+      Objective:
+
+      To test the nervous system (the brain and nerves) in people who have had COVID-19 yet still
+      have certain symptoms even after recovering.
+
+      Eligibility:
+
+      People age 18 and older who had COVID-19 and still have neurologic symptoms after they
+      recovered from the initial infection.
+
+      Design:
+
+      Participants will be screened with a medical record review.
+
+      Participants will have a neurological exam. They will complete pen-and-paper tests of their
+      memory and thinking. They will complete a smell test with 'scratch-and-sniff' booklets.
+
+      They will give blood samples.
+
+      Participants will have magnetic resonance imaging (MRI) of the brain. Soft padding or a coil
+      will be placed around their head. They will lie on a table that slides in and out of the MRI
+      scanner. They will get a contrast dye through an intravenous (IV) catheter.
+
+      Participants blood pressure, blood flow, skin temperature, sweating, and breathing will be
+      monitored.
+
+      Participants will have an electrocardiogram to measure heart function.
+
+      Participants will blow into a mouthpiece for several seconds.
+
+      Participants will lie on a table that has a motor. The motor tilts the table. Participants
+      will have blood drawn through an IV as the table tilts.
+
+      Participants will have a lumbar puncture. A small needle will be inserted into the spinal
+      canal to obtain fluid.
+
+      Participants may repeat some tests 8 weeks to 1 year later.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study Description: This study will characterize ongoing neurologic abnormalities in those who
+      recovered from acute COVID-19 infection yet have persistent neurologic symptoms. Despite
+      clinical recovery from the acute infection, some individuals continue to experience ongoing
+      symptoms, at times several months after recovery, and many of these symptoms are neurologic.
+      The NIH Clinical Center provides the breadth of expertise and resources to best investigate
+      this patient group. This study will collect a broad array of specialized neurologic testing
+      in this group who, despite recovering from the acute SARSCoV-2 infection, continue to
+      experience neurological symptoms. It is hypothesized that this group will have abnormalities
+      on neurologic testing that may identify discrete phenotypes of COVID-19 sequelae.
+
+      Pre-screening for this study will be done under the study, 'Post-Coronavirus Disease 19
+      Syndrome at the National Institutes of Health.' Potentially eligible participants will be
+      identified under the screening arm of that study and will be referred to the study team. If
+      deemed eligible for this study based on a review of available records and a telephone
+      discussion with the potential participant, participants may enroll. Enrollment will include a
+      visit to the NIH Clinical Center for informed consent and completion of the study procedures.
+      We anticipate that the baseline study procedures will take approximately 2-3 outpatient
+      visits to complete. Participants may return for a repeat of some study procedures between 8
+      weeks and 12 months if there are abnormalities noted on the baseline study procedures.
+
+      Objectives:
+
+      Primary Objective: To investigate structural abnormalities by brain MRI in those with prior
+      SARS-CoV-2 infection and persistent neurologic symptoms.
+
+      Secondary objective: To investigate other components of neurologic function in those with
+      prior SARS-CoV-2 infection and persistent neurologic symptoms.
+
+      Endpoints: Primary endpoint: The number and character of brain MRI abnormalities on a
+      dedicated research MRI protocol optimized to detect COVID-19-associated disease.
+
+      Secondary endpoints: 1. Neurologic examination: The number and character of abnormalities
+      associated with both central and peripheral nervous system disease. 2. Autonomic testing: The
+      number and character of test results indicating autonomic nervous system or catecholaminergic
+      dysfunctions as evidenced by abnormal physiological and neurochemical measures at rest or in
+      responses to the Valsalva maneuver or head-up tilting.
+
+      Study Population: This study will enroll 50 participants.
+
+      Description of Sites/Facilities Enrolling Participants: The NIH Clinical Center will be the
+      site of all research studies done under this protocol. All procedures will be completed in
+      the outpatient testing areas, including: outpatient clinics, day hospital, phlebotomy, the
+      neurologic testing area of 7SW-N, and in Clinical Radiology.
+
+      Study Duration: We anticipate that this study will begin enrollment September 2020 and will
+      complete data analysis by December 2022.
+
+      Participant Duration: Participants will complete all required study procedures within an
+      approximately two-week time frame. Participants may return for optional follow up with a
+      repeat of some study procedures and those participants will complete the study at that point.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Anticipated">October 12, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MRI brain abnormalities</measure>
+    <time_frame>at NIH Clinical Center Visit</time_frame>
+    <description>The number and character of brain MRI abnormalities on a dedicated research MRI protocol optimized to detect Covid-19-associated disease.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neurological Examination</measure>
+    <time_frame>At NIH Clinical Center Visit</time_frame>
+    <description>Neurologic examination: The number and character of abnormalities associated with both central and peripheral nervous system disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Autonomic Testing</measure>
+    <time_frame>At NIH Clinical Center Visit</time_frame>
+    <description>Autonomic testing: The number and character of test results indicating autonomic nervous system disease as evidenced by abnormal heart rate and blood pressure responses during tilt table testing.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Patient</arm_group_label>
+    <description>Patients with history of Covid-19 infection and persistent neurological symptoms</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Community Sample
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:
+
+        In order to be eligible to participate in this study, an individual must meet all of the
+        following criteria:
+
+          1. Stated willingness to comply with all study procedures and availability for the
+             duration of the study
+
+          2. Male or female, aged at least 18 years at the time of enrollment
+
+          3. Enrolled in the screening phase of Protocol 000089 Post-Coronavirus Disease 19
+             Convalescence at the National Institutes of Health
+
+          4. Positive COVID-19 test result at least six weeks prior to enrollment and exhibiting
+             persistent neurologic symptoms evidenced by a positive response to at least one of the
+             following:
+
+               1. Do you have ongoing issues with being lightheaded or dizzy and if so, are these
+                  issues made worse when you sit or stand up quickly?
+
+               2. Do you have ongoing issues with gait instability, problems with vision, speech,
+                  swallowing?
+
+               3. Do you have ongoing issues with sensation or strength in your face/arms/legs?
+
+          5. Ability of subject to understand and the willingness to sign a written informed
+             consent document.
+
+        EXCLUSION CRITERIA:
+
+        An individual who meets any of the following criteria will be excluded from participation
+        in this study:
+
+          1. Presence of a contraindication to research MRI brain with gadolinium, including
+             contraindicated metal in the body, prior allergic reaction to gadolinium, eGFR &lt;45
+             mmol/L, pregnancy or lactation, or claustrophobia that is unable to be adequately
+             treated with a low dose oral benzodiazepine.
+
+          2. Contraindication to a research lumbar puncture, including use of anticoagulant
+             medication, platelets &lt; 50,000/microL, PT or PTT &gt;1.5 x ULN for the NIH Clinical
+             Center, or otherwise inability to complete the procedure.
+
+          3. Contraindication to autonomic testing, including refractory ventricular arrhythmias or
+             symptomatic coronary artery disease.
+
+          4. A condition prior to the diagnosis of Covid-19 infection that would significantly
+             confound interpretation of the research tests (e.g. prior diagnosis of Postural
+             Orthostatic Hypotension Syndrome), as determined by the study investigators.
+
+          5. Fever or respiratory symptoms in the last seven days.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Avindra Nath, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Neurological Disorders and Stroke (NINDS)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_000094-N.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <verification_date>September 8, 2020</verification_date>
+  <study_first_submitted>September 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 25, 2020</study_first_posted>
+  <last_update_submitted>October 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Neurological</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Corona Virus</keyword>
+  <keyword>Autonomic</keyword>
+  <keyword>Brain</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

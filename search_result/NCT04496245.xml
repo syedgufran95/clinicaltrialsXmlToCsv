@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1771">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04496245</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BV-2020/19</org_study_id>
+    <nct_id>NCT04496245</nct_id>
+  </id_info>
+  <brief_title>Reducing Acute Severe Respiratory Events in Health Care Workers During the Covid-19 Pandemic With OM85</brief_title>
+  <acronym>COVIDRASP</acronym>
+  <official_title>Reducing Acute Severe Respiratory Events in Health Care Workers During the Covid-19 Pandemic With OM85</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Queensland</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Griffith University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Prince Charles Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Princess Alexandra Hospital, Brisbane, Australia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Telethon Kids Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Queensland Children's Hospital, Brisbane, Australia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The University of Queensland</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Parallel group, Wait-list design, with treatment delayed for 3 months. Participants will be
+      randomized on a 1:1 ratio with 500 participants per group in Australia.
+
+      Group 1: Wait-list control. One capsule OM85 (7.0 mg) will be given daily for 3 months,
+      commencing in Month 3, with 3 months follow-up off treatment.
+
+      Group 2: Initial treatment. One capsule OM85 (7.0 mg) will be given daily for 3 months,
+      commencing on day 0, with 3 months follow-up off treatment.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Covid-19 pandemic has been characterised by acute respiratory distress syndrome (ARDS)
+      accompanied by a systemic cytokine-storm resulting in severe illness, respiratory failure and
+      death in some. Severe Acute Respiratory Syndrome (SARS)- Coronavirus (Cov-2) (COV) infection
+      per se is not the only underlying issue here, as it is becoming evident that ARDS is
+      relatively rare amongst infected subjects, and appears to be associated with gross
+      dysregulation of ensuing host-anti-viral responses resulting in collateral
+      immune-inflammatory-mediated damage to host tissues. Rather than waiting for susceptible
+      subjects to present with COV-associated ARDS, the investigators propose treatment of healthy
+      health care workers (HCW) with a therapeutic agent which simultaneously targets front-line
+      innate anti-viral immune defences, together with the core mechanism that controls immune
+      response intensity in the airways. This research addresses the hypothesis that resistance to
+      development of severe COV-associated respiratory disease in front-line HCW, even in those who
+      develop a primary infection, can be boosted via a regimen of daily dosing with the
+      bacterial-derived immunomodulatory agent OM85.
+
+      Aims
+
+        1. To demonstrate that daily treatment with OM85 will prevent HCW developing acute
+           respiratory infections (ARI) necessitating removal from the workforce.
+
+        2. To elucidate the mechanism of action by which OM85 regulates host immune responses
+           against COV.
+
+      Mechanistic studies will primarily test the hypothesis that OM85 pre-treatment modulates the
+      systemic immunoinflammatory response to COV, selectively attenuating potentially pathogenic
+      pro-inflammatory pathways without compromising activation of innate immune pathways central
+      to pathogen clearance. The investigators will additionally collect samples to test the
+      secondary hypothesis that the host response to COV displays uniquely aggressive
+      pro-inflammatory features that differ from those observed with non-COV respiratory
+      infections.
+
+      Experimental design: participants will be randomised into two groups; Immediate treatment
+      with OM85 (n=500) or wait-list control with OM85 commencing three months later (n=500).
+      Venous blood samples will be collected from each subject at four time points. Sera will be
+      stored from each time point for assay of COV-specific antibody. For the mechanistic studies
+      the investigators will focus on two groups of subjects who test respectively positive or
+      negative to COV during a defined respiratory illness. These will be further stratified by
+      treatment (OM85 treated (OM+) versus non-treated (OM-) prior to ARI, yielding 4 sets (each
+      n=50) of test samples collected at acute infection which will be utilized for two discrete
+      cross-comparisons: (i) COV+/OM+ versus COV+/OM-, and (ii) COV-/OM+ versus COV-/OM-. Analyses
+      in (i) will be prioritised as they relate exclusively to host-responses to COV and effects of
+      treatment thereon; those in (ii) which will contrast COV-associated response with those
+      elicited by conventional respiratory pathogens and compare respective susceptibility to OM85.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 24, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized to either Group 1 (waitlist control, delayed treatment group) or Group 2 (initial treatment) for treatment for a period of 3 months with 3 months follow-up off treatment</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Participants will be randomised to the wait list group (Group 1) or the initial intervention group (Group 2) using a one-to-one ratio, stratified by hospital and department [High risk, lower risk].</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Acute Respiratory Infection necessitating workforce removal</measure>
+    <time_frame>3 months</time_frame>
+    <description>The proportion of Health Care Workers contracting an Acute Respiratory Infection necessitating workforce removal in the initial treatment and wait-list control groups assessed at the end of 3 months.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to ARI necessitating workforce removal.</measure>
+    <time_frame>12 months</time_frame>
+    <description>The time to the first ARI necessitating workforce removal in the initial treatment and wait-list control groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of Health Care Workers contracting an Acute Respiratory Infection necessitating workforce removal</measure>
+    <time_frame>12 months</time_frame>
+    <description>The proportion of Health Care Workers contracting an Acute Respiratory Infection necessitating workforce removal in the initial treatment and wait-list control groups assessed at the end of 6 and 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of HCW with documented Cov infection.</measure>
+    <time_frame>12 months</time_frame>
+    <description>The proportion of HCW in the initial treatment and wait-list control group with Cov infection documented by molecular techniques of seroconversion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Lower respiratory infection (LRI) necessitating workforce removal.</measure>
+    <time_frame>12 months</time_frame>
+    <description>The time to the first LRI necessitating workforce removal in the initial treatment and wait-list control groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of Health Care Workers contracting a LRI necessitating workforce removal</measure>
+    <time_frame>12 months</time_frame>
+    <description>The proportion of Health Care Workers contracting LRI necessitating workforce removal in the initial treatment and wait-list control groups assessed at the end of 3, 6 and 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of HCW with documented Cov LRI.</measure>
+    <time_frame>12 months</time_frame>
+    <description>The proportion of HCW in the initial treatment and wait-list control group with LRI due to Cov infection documented by molecular techniques of seroconversion</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Respiratory Viral Infection</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Wait-list control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>One capsule OM85 (7.0 mg) will be given daily for 3 months, commencing in Month 3, with 3 months follow-up off treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Initial treatment wtih OM85</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>One capsule OM85 (7.0 mg) will be given daily for 3 months, commencing on day 0, with 3 months follow-up off treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Broncho-Vaxom®</intervention_name>
+    <description>Broncho-Vaxom adult capsules® (OM85)</description>
+    <arm_group_label>Initial treatment wtih OM85</arm_group_label>
+    <arm_group_label>Wait-list control</arm_group_label>
+    <other_name>OM85</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Participants who meet all of the following criteria are eligible for enrolment:
+
+          1. HCW in front line clinical departments assessing or caring for patients with suspected
+             or verified COV infection in one of the recruiting hospitals in Brisbane
+
+          2. Participants who, in the opinion of the investigator, are able to comply with the
+             protocol for its duration,
+
+          3. Written informed consent signed and dated according to local regulations.
+
+        Exclusion Criteria:
+
+        Participants who meet any of these criteria are not eligible for enrolment:
+
+          -  Staff with prior COV infection necessitating workforce removal
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>PETER D SLY, DSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Queensland</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>PETER D SLY, Dsc</last_name>
+    <phone>+61730697383</phone>
+    <email>p.sly@uq.edu.au</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>SHARON L BRABON, PGCM</last_name>
+    <phone>+61730697203</phone>
+    <email>s.brabon@uq.edu.au</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The Prince Charles Hospital</name>
+      <address>
+        <city>Brisbane</city>
+        <state>Queensland</state>
+        <zip>4032</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David Reid, MB MD</last_name>
+      <phone>+6173139 4000</phone>
+      <email>david.reid@health.qld.gov.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Princess Alexandra Hospital</name>
+      <address>
+        <city>Brisbane</city>
+        <state>Queensland</state>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Upham, MBBS PhD</last_name>
+      <phone>+6173443 8065</phone>
+      <email>j.upham@uq.edu.au</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Queensland Children's Hospital</name>
+      <address>
+        <city>South Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adam Irwin, MBBS PhD</last_name>
+      <phone>+617 3068 1111</phone>
+      <email>a.irwin@uq.edu.au</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <reference>
+    <citation>Sly PD, Galbraith S, Islam Z, Holt B, Troy N, Holt PG. Primary prevention of severe lower respiratory illnesses in at-risk infants using the immunomodulator OM-85. J Allergy Clin Immunol. 2019 Sep;144(3):870-872.e11. doi: 10.1016/j.jaci.2019.05.032. Epub 2019 Jun 8.</citation>
+    <PMID>31185221</PMID>
+  </reference>
+  <reference>
+    <citation>Esposito S, Soto-Martinez ME, Feleszko W, Jones MH, Shen KL, Schaad UB. Nonspecific immunomodulators for recurrent respiratory tract infections, wheezing and asthma in children: a systematic review of mechanistic and clinical evidence. Curr Opin Allergy Clin Immunol. 2018 Jun;18(3):198-209. doi: 10.1097/ACI.0000000000000433.</citation>
+    <PMID>29561355</PMID>
+  </reference>
+  <reference>
+    <citation>The Lancet. COVID-19: protecting health-care workers. Lancet. 2020 Mar 21;395(10228):922. doi: 10.1016/S0140-6736(20)30644-9.</citation>
+    <PMID>32199474</PMID>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 3, 2020</study_first_posted>
+  <last_update_submitted>September 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Broncho-Vaxom</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 23, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/45/NCT04496245/ICF_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 23, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/45/NCT04496245/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

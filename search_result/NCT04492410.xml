@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2517">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492410</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/23</org_study_id>
+    <nct_id>NCT04492410</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Infection Screening in Cancer Patients (NEOSCREENCOVID)</brief_title>
+  <acronym>NEOSCREENCOVID</acronym>
+  <official_title>COVID-19 Infection Screening in Cancer Patients (NEOSCREENCOVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Antoine Lacassagne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Antoine Lacassagne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Since December 2019, outbreak of COVID-19 caused by a novel virus SARS-Cov-2 has spread
+      rapidly around the world and became a pandemic issue. Cancer patients seem to be at higher
+      risk of infection and evolution to severe forms related to immunosuppression, according to
+      the first published data from Chinese experience. However, the role of confounding factors
+      such as age and smoking habits cannot be independently assessed. Supplementary data from a
+      large retrospective Italian cohort suggest that the proportion of cancer patients with severe
+      form of COVID-19 could be lower than expected. In addition, the proportion of asymptomatic
+      SARS-Cov-2 infected cancer patients is unknown. Based on academic and expert's
+      recommendations, most of cancer units have already modified cancer treatment during the
+      pandemic, in order to limit the number of outpatient visits / inpatient admissions and then
+      reduce or avoid cross infection of COVID-19, although the negative impact on patient's
+      outcome (cancer recurrence or mortality) has not been established. Thus, a large screening
+      for SARS-Cov-2 infection in treated cancer patients could help to: - Define an accurate
+      prevalence of COVID-19 immunization in this population - Aggregate data on the relationship
+      between clinical characteristics in cancer patients and COVID-19 risk. - Provide information
+      about asymptomatic COVID-19 cases. - Organize effectively cancer units to separate infected
+      and non-infected patients.
+
+      The RT-PCR gold-standard test for COVID-19 on nasal and pharyngeal swabs has limitations, as
+      the test is not universally available, turnaround times can be lengthy, and reported
+      sensitivities vary. It does not provide information about immunization status. Serological
+      assays may be important for understanding the epidemiology of emerging SARS-Cov-2, including
+      the burden and role of asymptomatic infections. Thus, the development of new devices or
+      techniques for accurate diagnosis of SARS-CoV-2 infections, of fast and safe use, that could
+      be spread in the local hospitals and clinics, would be a major advance for identifying and
+      treating patients. In addition, information about the immunization of fragile people, such as
+      cancer patients, could help to plan a safe strategy for anti-cancer treatment schedule and
+      for the end of quarantine.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 21, 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the prevalence of COVID-19</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The rate of prevalence will be defined as the ratio of the number of positive patients to the number of patients tested based on the rapid serological test (presence of IgM and/or IgG).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate patient's and health care professional's perception about the rapid serological test.</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The assessment of the perception of the rapid serological test for patient and health care professional will be measured in terms of Pain, simplicity, rapidity and satisfaction, reported on a questionnaire:
+• Pain: The pain assessment will be performed using a visual analog scale (VAS). The score will be graded between 0 (absence of pain) to 10 (maximum pain)
+• Simplicity: The assessment of the satisfaction of care will be carried out using a Likert scale with 4 modalities. The score will be graded between &quot;Poor&quot; to &quot;Very Good&quot;.
+• Rapidity: The assessment of the satisfaction of care will be carried out using a Likert scale with 4 modalities. The score will be graded between &quot;Poor&quot; to &quot;Very Good&quot;.
+• Satisfaction with care: The assessment of the satisfaction of care will be carried out using a Likert scale with 4 modalities. The score will be graded between &quot;Poor&quot; to &quot;Very Good&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the concordance of COVID-19 positivity by the rapid serological test compared to the gold-standard RT-PCR on nasal swab for eligible patients</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Diagnostic performance: sensibility, specificity, positive and negative predictive values, positive and negative likelihood ratio and area under the ROC curve, will be assessed to evaluate the rate of COVID-19 positive and COVID-19 negative serological rapid test on whole blood compared to the gold-standard RT-PCR on nasal swab.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the concordance of COVID-19 positivity by the rapid serological test compared to a classic serological test (ELISA method) from whole blood</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Diagnostic performance: sensibility, specificity, positive and negative predictive values, positive and negative likelihood ratio and area under the ROC curve, will be assessed to evaluate the rate of COVID-19 positive and COVID-19 negative serological rapid test on whole blood compared to an ELISA serological test on whole blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the proportion of the patients who will have at least one positive testing among all the methods applied.</measure>
+    <time_frame>6 months</time_frame>
+    <description>The rate of patients with at least one positive test among all the methods applied (rapid serological test and/or serological ELISA test and/or RT-PCR and/or ddPCR) will be defined.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the number of patients who will get at least one new testing after the rapid serological test has been performed.</measure>
+    <time_frame>6 months</time_frame>
+    <description>The proceedings of additional COVID-19 testing for corresponding patients will be described in terms of:
+Time interval between the tests
+Type and results of the subsequent tests</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare the clinical and biological characteristics between positive and negative tested COVID-19 patients</measure>
+    <time_frame>6 months</time_frame>
+    <description>The clinical and biological characteristics between positive and negative COVID-19 will be compared in term of:
+Age, gender, BMI, performance status, smoking history, alcohol consumption, medical history and concomitant medication
+clinical stage, location, type of treatment.
+blood group, hematology, coagulation parameters and serum clinical chemistry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To describe the outcome of COVID-19 positive patients</measure>
+    <time_frame>6 months</time_frame>
+    <description>The rate of hospital admission for severe COVID-19 form and death will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the impact of COVID-19 rapid serological test on the anti-cancer treatment schedule</measure>
+    <time_frame>6 months</time_frame>
+    <description>A change on the anti-cancer treatment Schedule induced by the result of COVID-19 test will be defined as :
+a medical treatment delay decision
+or a treatment discontinuation decision</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Cancer</condition>
+  <arm_group>
+    <arm_group_label>Experimental arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>screening using a rapid serological test with a drop of blood from a finger prick.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>rapid serological test</intervention_name>
+    <description>screening using a rapid serological test with a drop of blood from a finger prick</description>
+    <arm_group_label>Experimental arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age ≥ 18-years old;
+
+          2. Patient treated for histologically proven cancer;
+
+          3. Patient that require at least one visit for anti-cancer treatment in a one-day
+             outpatient care units
+
+          4. Patients that have previously been tested positive with a RT-PCR test from nasal swab
+             that have been authorized to come to the hospital (after recovery or a 14-days
+             quarantine period, according to local guidelines) can be included. 5. Patient willing
+             and able to provide written informed consent/assent for the trial;
+
+        6. Patient affiliated with a health insurance system.
+
+        Exclusion Criteria:
+
+          1. Patient not able to give free consent
+
+          2. Patient not able to understand the protocol;
+
+          3. Patient not able to undergo the COVID-19 test
+
+          4. Vulnerable persons as defined by article L1121-5 - 8:
+
+               1. Pregnant women, women in labour or breast-feeding mothers, persons deprived of
+                  their freedom by judicial or administrative decision, persons hospitalized
+                  without their consent by virtue of articles L. 3212-1 and L. 3213-1 and who are
+                  not subject to the provisions of article L. 1121-8
+
+               2. Persons admitted to a social or health facility for reasons other than research
+
+          5. Adults subject to a legal protection order or unable to give their consent.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sandrine CHELI, PhD</last_name>
+    <phone>+33 4 92 03 11 32</phone>
+    <email>sandrine.cheli@nice.unicancer.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre Antoine Lacassagne</name>
+      <address>
+        <city>Nice</city>
+        <zip>06189</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sandrine CHELI, PhD</last_name>
+      <phone>+33 4 92 03 11 32</phone>
+      <email>sandrine.cheli@nice.unicancer.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>July 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>Screening</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

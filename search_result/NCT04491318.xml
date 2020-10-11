@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2858">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04491318</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HemoCov</org_study_id>
+    <nct_id>NCT04491318</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Quarantine on Musculoskeletal Status in Hemophilia</brief_title>
+  <acronym>HemoCov</acronym>
+  <official_title>Effects of COVID-19 Quarantine on the Musculoskeletal Status of Adult Hemophilia Patients. An Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Investigación en Hemofilia y Fisioterapia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Investigación en Hemofilia y Fisioterapia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background. The recurrence of hemarthrosis in patients with congenital coagulopathies favors
+      the development of a progressive, degenerative and intra-articular lesion (hemophilic
+      arthropathy) that mainly affects the knees, ankles and elbows. Pain is one of the main
+      clinical manifestations of hemophilic arthropathy. As a consequence of the COVID-19 pandemic,
+      the Government of Spain, among others, established a total confinement for two months, in
+      order to avoid contagion of the population Objective. To assess the effect of COVID-19
+      confinement on bleeding frequency, pain perception, and range of motion in patients with
+      hemophilic arthropathy.
+
+      Study design. Prospective observational study. Method. 27 patients with hemophilia A and B
+      will be included in this study. Patients will be recruited from the Spanish Hemophilia
+      Federation (Fishemo) specialized center for hemophilia patients. The dependent variables will
+      be: the frequency of bleeding (through a self-report), the perception of pain (measured with
+      the visual analog scale and a pressure algometer), the joint state (with the Hemophilia Joint
+      Health Score), and the range of joint movement (measured with a goniometer). Two evaluations
+      will be carried out: pre-treatment (carried out in the month of February, as a periodic
+      evaluation) and post-treatment (at the end of the period of confinement in Spain).
+
+      Expected results. The aim is to observe the sequelae caused by confinement and a sedentary
+      lifestyle in patients with hemophilic arthropathy, through changes in joint status, pain and
+      range of motion.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">July 29, 2020</completion_date>
+  <primary_completion_date type="Anticipated">July 25, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline frequency of hemarthrosis after confinement period</measure>
+    <time_frame>Screening visit, within the first seven days after confinement</time_frame>
+    <description>The frequency of joint bleeding was assessed using a self-assessment log provided to patients at the beginning of confinement electronically. This registry included a monthly calendar where the patients included the date, symptoms and location of the hemarthrosis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline joint health after confinement period</measure>
+    <time_frame>Screening visit, within the first seven days after confinement</time_frame>
+    <description>Joint status was assessed with the Hemophilia Joint Health Score (HJHS) version 2.1. This tool, specific for hemophilia patients, evaluates joint deterioration in the ankle, knee and elbow joints. This scale measures 8 items: swelling, duration of swelling, atrophy and muscle strength, crepitus, mobility and joint pain. The scoring range for this additive scale is 0-20 points at each joint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline joint pain after confinement period</measure>
+    <time_frame>Screening visit, within the first seven days after confinement</time_frame>
+    <description>Joint pain perception was measured with the visual analog scale. This scale has shown moderate reliability. The scoring range is from 0 to 10 points (from no pain to maximum perceived pain).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline range of motion after confinement period</measure>
+    <time_frame>Screening visit, within the first seven days after confinement</time_frame>
+    <description>Range of motion was measured with a goniometer to assess flexion and extension of the elbow, knee, and ankle joints. This measuring instrument has shown good intra and inter-observer reliability in the joints evaluated. The measurement protocols described by Cleffken, Green and Gerhardt were used to measure mobility in the elbow, knee and ankle joints, respectively.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline joint pain after confinement period</measure>
+    <time_frame>Screening visit, within the first seven days after confinement</time_frame>
+    <description>The pressure algometer measures the pressure, bilaterally, at which the patient perceives pressure pain on the evaluation point, as the pressure increases at a speed of approximately 50kPa / s. The unit of measurement is in Newton / cm2. The perception of joint pain in the elbow was measured on the lateral epicondyle, in the knee at a distance of 3 cm from the midpoint of the internal edge of the patella, and in the ankle it was measured in the ventral region of the lateral malleolus.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">27</enrollment>
+  <condition>Hemophilia Arthropathy</condition>
+  <arm_group>
+    <arm_group_label>Experimental group</arm_group_label>
+    <description>Hemophilic arthropathy patients who will not receive any intervention. The dependent variables (frequency of hemarthrosis, pain, joint state and range of movement) in the joints will be evaluated: elbows, knees and ankles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observational</intervention_name>
+    <description>Hemophilic arthropathy patients who will not receive any intervention. The dependent variables (frequency of hemarthrosis, pain, joint state and range of movement) in the joints will be evaluated: elbows, knees and ankles.</description>
+    <arm_group_label>Experimental group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients with hemophilic arthropathy routinely treated at the specialized hemophilia
+        center of the Spanish Federation of Hemophilia (Fishemo).
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with medical diagnosis of hemophilia A or hemophilia B
+
+          -  Patients over 18 years of age
+
+          -  Patients in a prophylactic or on demand regimen with factor VIII / factor IX
+             concentrates
+
+          -  Patients that have accepted the informed consent document.
+
+        Exclusion Criteria:
+
+          -  Patients with neurological or cognitive disorders that prevent the comprehension of
+             the questionnaires
+
+          -  Patients without capacity to walk autonomously or with orthosis
+
+          -  Patients without access to digital media to complement the measuring instruments.
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rubén Cuesta-Barriuso, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Europea de Madrid</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rubén Cuesta-Barriuso, PhD</last_name>
+    <phone>+34 913146508</phone>
+    <email>ruben.cuestab@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>European University of Madrid</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28670</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rubén Cuesta-Barriuso, PhD</last_name>
+      <email>ruben.cuestab@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>July 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Hemophilic arthropathy</keyword>
+  <keyword>Joint pain</keyword>
+  <keyword>Joint health</keyword>
+  <keyword>Range of motion</keyword>
+  <keyword>Hemarthrosis</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Joint Diseases</mesh_term>
+    <mesh_term>Hemophilia A</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2458">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04449627</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RoyalFreeNHS</org_study_id>
+    <nct_id>NCT04449627</nct_id>
+  </id_info>
+  <brief_title>Psychological Impact of Admission With Covid-19 During the SARS-CoV-2 Pandemic: Naturalistic Cohort Study With a Digital Intervention</brief_title>
+  <acronym>FeelGood</acronym>
+  <official_title>Psychological Impact of Admission With Covid-19 During the SARS-CoV-2 Pandemic: Naturalistic Cohort Study With a Digital Intervention</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Royal Free Hospital NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University College, London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Royal Free Hospital NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Studies have shown that admission to hospital during a coronavirus epidemic is associated
+      with increased levels of anxiety, depression and panic disorder. During the SARS-CoV-2
+      pandemic in North London the Royal Free Hospital admitted over 500 patients with Covid-19. As
+      part of the standard of care, these patients are screened at 8 weeks post discharge for signs
+      of anxiety and depression. The Feeling Good app is a NHS approved digital application which
+      utilises applied relaxation, mindfulness based cognitive therapy and positive visualisation
+      through audio tracks for the treatment of anxiety and depression.
+
+      This is a naturalistic cohort study aimed to track the post illness psychological symptoms of
+      those who have been admitted with Covid-19 to the Royal Free hospital up to 5-7 months after
+      discharge. The study population is those who are exhibiting anxiety or depressive symptoms as
+      measure by the PHQ-2 or TSQ questionnaires. All those with symptoms will be offered free
+      access to a NHS approved app for anxiety and depression, and followed up for 3 months after
+      recruitment to track changes to their symptoms.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is important that the long-term wellbeing of patients who have been admitted with Covid-19
+      during the pandemic is addressed. A newly published meta analysis (Rogers et al 2020) has
+      looked at the neuropsychiatric consequences of all coronavirus epidemics, including Serious
+      Acute Respiratory Syndrome (SARS) and Middle East Respiratory (MERS) outbreaks, as well as
+      the first emerging studies from SARS-CoV-2. These studies demonstrate that postillness
+      neuropsychiatric complications including anxiety and depression can persist up to 36 months
+      after the original illness. This is a naturalistic cohort trial with a digital intervention.
+      The study population consists of those patients who were admitted with Covid-19, during the
+      SARS-CoV-2 pandemic, who at 8 weeks after discharge were found to have symptoms relating to
+      anxiety and depression. In this context Covid-19 refers to the disease caused by the virus
+      (named SARS-CoV-2). The study population does not include those who required intensive care
+      admission during their stay. Excluding usual community psychiatric services (for example
+      improving access to psychological therapies) and some specialist intensive care follow up
+      services, no interventions at the Royal Free have been set up to address the long-term
+      psychological impacts of admission to hospital with COVID-19. The digital intervention is an
+      app that consists of twelve audio tracks that combine applied relaxation, mindfulness,
+      cognitive behaviour therapy and positive visualisation. It is a validated guided self-help
+      tool for treatment of anxiety and depression in the NHS, and recommended by NHS digital.
+      Participants are asked to listen to one or two tracks daily for the initial 14 days, and as
+      they find beneficial thereafter. They are then followed up, at 2 and 12 weeks, with their
+      anxiety and depression scales (the GAD-7 and PHQ-9). The trial is a single site study that
+      will take place at the Royal Free, with discharged patients in the community
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 31, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Anxiety as measured by generalised anxiety disorder score (GAD-7) scale</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Generalised anxiety disorder score (GAD-7) scale. Score 0-21, with a higher score associated with greater anxiety symptoms. Scores of 5, 10, and 15 represent cut-points for mild, moderate, and severe anxiety, respectively. GAD-7 score at baseline will be controlled for.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Depression as measured by the patient health questionnaire 9 (PHQ-9)</measure>
+    <time_frame>14 days and week 12</time_frame>
+    <description>The Patient Health Questionnaire (PHQ-9) is a screening tool for the identification of depressive disorders, which has been validated for use in primary care. Each of the nine items in the questionnaire is based on the DSM diagnostic criteria for clinical depression. The PHQ-9 is scored out of 27 according to severity, where score of 5-9 indicates mild depression, 10-14 moderate, 15-19 moderately severe, and 20 or above severe depression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trauma as measured by Trauma screening questionnaire (TSQ)</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The Trauma screening questionnaire (TSQ) is a 10 point scale used to identify symptoms of post traumatic stress disorder (PTSD), with a score between 0 and 10, with a score of 6 or higher scored as positive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety as measured by generalised anxiety disorder score (GAD-7) scale</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Generalised anxiety disorder score (GAD-7) scale. Score 0-21, with a higher score associated with greater anxiety symptoms. Scores of 5, 10, and 15 represent cut-points for mild, moderate, and severe anxiety, respectively. GAD-7 score at baseline will be controlled for.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Risk associated with distress</measure>
+    <time_frame>Baseline analysis</time_frame>
+    <description>Risk factors for psychological distress from admission with Covid-19 will be collected, these will include, age, gender, ethnicity, length of hospital stay, oxygen requirement, co-morbidites, years of education, smoking status, occupation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Qualitative analysis</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Framework analysis. Qualitative feedback of patient experience. Semi structured interviews of a subset of patients will be performed to gain further insight into the patient experience. These will be analysed using a framework thematic analysis, to identify themes which will then be used to code the text.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">125</enrollment>
+  <condition>Anxiety Disorders</condition>
+  <condition>Post Traumatic Stress Disorder</condition>
+  <condition>Depressive Disorder</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Naturalistic cohort</arm_group_label>
+    <description>Patients who were hospitalised between March and June from Covid19, who did not require treatment in intensive care, who at 8 weeks post discharge have symptoms of anxiety or depression. All patients are offered access to an audio based self help programme based on applied relaxation and mindfulness based cognitive therapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Feeling Good Digital App</intervention_name>
+    <description>Audio based tracks using Jacobson relaxation and mindfullness based cognitive therapy (MBCT) techniques including positive visualisation.</description>
+    <arm_group_label>Naturalistic cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who were hospitalised with Covid19 who have psychological symptoms 8 weeks after
+        discharge. That is a &gt;=6 on TSQ or &gt;= 3 on PHQ9.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria
+
+          -  Over the age of 18
+
+          -  Treated for Covid-19 at the Royal Free Hospital
+
+          -  Capacity to consent AND
+
+          -  At screening had a PHQ-2 score &gt;=3 (positive) OR
+
+          -  At screening had a TSQ score &gt;= 6 (positive)
+
+        Exclusion criteria
+
+          -  A current inpatient
+
+          -  Participant on alternative trial that excludes being in a secondary trial
+
+          -  Patient currently using alternative MBCT app tool
+
+          -  Patients under 18 years old
+
+          -  Background of psychotic illness
+
+          -  Patient declined
+
+          -  Patient unable to consent
+
+          -  Underlying cognitive impairment which may impede ability to comply with the
+             intervention
+
+          -  Severe hearing impairment
+
+          -  Current delirium
+
+          -  Was an in-patient in intensive care during hospital stay
+
+          -  Unable to contact patient via telephone on 2 attempts Patient is not registered with a
+             GP. Unable to understand English proficiently enough to engage with the audio tracks.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Research and Development Manager</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sponsor GmbH</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Joanna Dobbin, MScMBBS</last_name>
+    <phone>07833457884</phone>
+    <email>j.dobbin@nhs.net</email>
+  </overall_contact>
+  <link>
+    <url>https://www.nhs.uk/apps-library/feeling-good-positive-mindset/</url>
+    <description>NHS digital app library showing Feeling Good App</description>
+  </link>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>June 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 29, 2020</study_first_posted>
+  <last_update_submitted>August 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+    <mesh_term>Anxiety Disorders</mesh_term>
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

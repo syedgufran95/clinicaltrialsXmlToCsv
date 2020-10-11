@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3395">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04509947</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR108871</org_study_id>
+    <secondary_id>VAC31518COV1002</secondary_id>
+    <nct_id>NCT04509947</nct_id>
+  </id_info>
+  <brief_title>A Study of Ad26.COV2.S in Adults (COVID-19)</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled Phase 1 Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of Ad26.COV2.S in Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janssen Pharmaceutical K.K.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Janssen Pharmaceutical K.K.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety and reactogenicity of Ad26.COV2.S
+      administered intramuscularly (IM) at 2-dose levels, as 2-dose schedule in healthy
+      participants aged greater than or equal to 20 to less than or equal to 55 years and greater
+      than or equal to 65 years in good health with or without stable underlying conditions.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 11, 2020</start_date>
+  <completion_date type="Anticipated">October 26, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 8, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Local Adverse Events (AEs) for 7 days after First Vaccination</measure>
+    <time_frame>Day 8 (7 days after first vaccination on Day 1)</time_frame>
+    <description>Solicited local AEs are pre-defined local (at the injection site) AEs for which participants are specifically questioned and which are noted by participants in their diary for 7 days post first vaccination. Solicited local AEs are: injection site pain/tenderness, erythema, swelling and induration at the vaccination site. An AE is any untoward medical occurrence in a clinical study participant administered a medicinal (investigational or non-investigational) product.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Local AEs for 7 days after Second Vaccination</measure>
+    <time_frame>Day 64 (7 days after second vaccination on Day 57)</time_frame>
+    <description>Solicited local AEs are pre-defined local (at the injection site) AEs for which participants are specifically questioned and which are noted by participants in their diary for 7 days post second vaccination. Solicited local AEs are: injection site pain/tenderness, erythema, swelling and induration at the vaccination site. An AE is any untoward medical occurrence in a clinical study participant administered a medicinal (investigational or non-investigational) product.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Systemic AEs for 7 days after First Vaccination</measure>
+    <time_frame>Day 8 (7 days after first vaccination on Day 1)</time_frame>
+    <description>Participants will be instructed on how to note signs and symptoms in the diary on a daily basis for 7 days post-vaccination (Day of vaccination and the subsequent 7 days) for solicited systemic AEs. Solicited systemic events include fatigue, headache, nausea and myalgia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Systemic AEs for 7 days after Second Vaccination</measure>
+    <time_frame>Day 64 (7 days after second vaccination on Day 57)</time_frame>
+    <description>Participants will be instructed on how to note signs and symptoms in the diary on a daily basis for 7 days post-vaccination (Day of vaccination and the subsequent 7 days) for solicited systemic AEs. Solicited systemic events include fatigue, headache, nausea and myalgia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited AEs for 28 days after First Vaccination</measure>
+    <time_frame>Day 29 (28 days after first vaccination on Day 1)</time_frame>
+    <description>Number of participants with unsolicited AEs for 28 days after first vaccination will be reported. Unsolicited AEs are all AEs for which the participant is not specifically questioned.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited AEs for 28 days after Second Vaccination</measure>
+    <time_frame>Day 85 (28 days after second vaccination on Day 57)</time_frame>
+    <description>Number of participants with unsolicited AEs for 28 days after second vaccination will be reported. Unsolicited AEs are all AEs for which the participant is not specifically questioned.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>SAE is an adverse event resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly/birth defect; suspected transmission of any infectious agent via a medicinal product or medically important.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) Neutralization as measured by Virus Neutralization Assay (VNA)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>SARS-CoV-2 neutralization will be measured by VNA to analyse the neutralizing antibodies to the wild-type virus and/or pseudovirion expressing S protein.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2-Binding Antibodies as Measured by Enzyme-Linked Immunosorbent Assay (ELISA)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <description>SARS-CoV-2 binding antibodies will be measured by ELISA to analyse the antibodies binding to the SARS-CoV-2 S protein.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Ad26.COV2.S: High Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants (healthy adults aged greater than or equal to (&gt;=) 20 to less than or equal to (&lt;=) 55 years [cohort 1] and &gt;= 65 years [cohort 2]) will receive intramuscular (IM) injection of Ad26.COV2.S at high dose, as 2-dose schedule on Day 1 and Day 57.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ad26.COV2.S: Low Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants (healthy adults aged &gt;= 20 to &lt;= 55 years [cohort 1] and &gt;= 65 years [cohort 2]) will receive IM injection of Ad26.COV2.S at low dose, as 2-dose schedule on Day 1 and Day 57.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants (healthy adults aged &gt;= 20 to &lt;= 55 years [cohort 1] and &gt;= 65 years [cohort 2]) will receive IM injection of placebo on Day 1 and Day 57.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Ad26.COV2.S</intervention_name>
+    <description>Ad26.COV2.S will be administered as IM injection at 2-dose (high and low) levels.</description>
+    <arm_group_label>Ad26.COV2.S: High Dose</arm_group_label>
+    <arm_group_label>Ad26.COV2.S: Low Dose</arm_group_label>
+    <other_name>JNJ-78436735</other_name>
+    <other_name>Ad26COVS1</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo will be administered as IM injection.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Participant must have a body mass index (BMI) less than (&lt;) 40.0 kilograms per meter
+             square (kg/m^2)
+
+          -  Contraceptive (birth control) use by women should be consistent with local regulations
+             regarding the acceptable methods of contraception for those participating in clinical
+             studies. Before randomization, participants who were born female must be either (a)
+             not of childbearing potential; (b) of childbearing potential and practicing a highly
+             effective method of contraception (failure rate of less than (&lt;) 1 percent (%) per
+             year when used consistently and correctly) and agrees to remain on such a method of
+             contraception from signing the informed consent until 3 months after the last dose of
+             study vaccine. Use of hormonal contraception should start at least 28 days before the
+             first administration of study vaccine. The investigators should evaluate the potential
+             for contraceptive method failure (example, noncompliance, recently initiated) in
+             relationship to the first vaccination. Highly effective methods for this study
+             include: (1) hormonal contraception: (i) combined (estrogen and progestogen
+             containing) hormonal contraception associated with inhibition of ovulation (oral,
+             intravaginal, or transdermal); (ii) progestogen-only hormonal contraception associated
+             with inhibition of ovulation (oral, injectable, or implantable); (2) intrauterine
+             device (IUD); (3) intrauterine hormone-releasing system (IUS); (4) bilateral tubal
+             occlusion/litigation procedure; (5) vasectomized partner (the vasectomized partner
+             should be the sole partner for that participant; (6) sexual abstinence. Applicable to
+             Cohort 2 only: Before randomization, a woman must be (a) postmenopausal
+             (postmenopausal state is defined as no menses for 12 months without an alternative
+             medical cause) or permanently sterile; and (b) not intending to conceive by any
+             method.
+
+          -  All female participants of childbearing potential must: have a negative highly
+             sensitive urine or serum beta-human chorionic gonadotropin (hCG) pregnancy test at
+             screening; have a negative highly sensitive urine beta-hCG pregnancy test immediately
+             prior to each study vaccine administration
+
+          -  A male participant must agree not to donate sperm for the purpose of reproduction for
+             a minimum 28 days after receiving the dose of study vaccine
+
+          -  Participant agrees to not donate bone marrow, blood, and blood products from the first
+             study vaccine administration until 3 months after receiving the last dose of study
+             vaccine
+
+        Exclusion Criteria
+
+          -  Participant has a clinically significant acute illness (this does not include minor
+             illnesses such as diarrhea or mild upper respiratory tract infection) or temperature
+             greater than or equal to (&gt;=) 38.0 degree Celsius within 24 hours prior to the planned
+             first dose of study vaccine; randomization at a later date is permitted at the
+             discretion of the investigators and after consultation with the sponsor
+
+          -  Participant has a history of malignancy within 5 years before screening (exceptions
+             are squamous and basal cell carcinomas of the skin and carcinoma in situ of the
+             cervix, or malignancy, which is considered cured with minimal risk of recurrence)
+
+          -  Participant has a history of any neurological disorders or seizures including
+             Guillain-Barre syndrome, with the exception of febrile seizures during childhood
+
+          -  Participant previously received a coronavirus vaccine
+
+          -  Participant has a positive molecular test result for severe acute respiratory syndrome
+             coronavirus-2 (SARS-CoV-2) infection, confirmed by polymerase chain reaction (PCR) at
+             screening
+
+          -  Participants who are at increased risk of severe coronavirus disease-2019 (COVID-19),
+             that is, participants with moderate-to-severe asthma; chronic lung diseases such as
+             chronic obstructive pulmonary disease (COPD) (including emphysema and chronic
+             bronchitis), idiopathic pulmonary fibrosis and cystic fibrosis; diabetes (including
+             type 1, type 2, or gestational); serious heart conditions, including heart failure,
+             coronary artery disease, congenital heart disease, cardiomyopathies, and pulmonary
+             hypertension; severe obesity; chronic kidney disease being treated with dialysis;
+             participants who are immunocompromised (as outlined in other exclusion criteria);
+             chronic liver disease, including cirrhosis; and participants who live in a nursing
+             home or long-term care facility
+
+          -  Participant currently working in an occupation with a high risk of exposure to
+             SARS-CoV-2 (example, health care worker or emergency response personnel) or considered
+             at the investigator's discretion to be at increased risk to acquire COVID-19 for any
+             other reason
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janssen Pharmaceutical K.K., Japan Clinical Trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Janssen Pharmaceutical K.K.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Contact</last_name>
+    <phone>844-434-4210</phone>
+    <email>JNJ.CT@sylogent.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Souseikai Hakata Clinic</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>812-0025</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SOUSEIKAI PS Clinic</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>8120025</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Souseikai Fukuoka Mirai Hospital</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>813-0017</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <link>
+    <url>http://pam.sylogent.com/cr/CR108871</url>
+    <description>To learn how to participate in this trial please click here.</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data sharing policy of the Janssen Pharmaceutical Companies of Johnson &amp; Johnson is available at www.janssen.com/clinical-trials/transparency. As noted on this site, requests for access to the study data can be submitted through Yale Open Data Access (YODA) Project site at yoda.yale.edu</ipd_description>
+    <ipd_url>https://www.janssen.com/clinical-trials/transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

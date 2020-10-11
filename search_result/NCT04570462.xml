@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="882">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04570462</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Protocol 5.18.2020 Approved</org_study_id>
+    <nct_id>NCT04570462</nct_id>
+  </id_info>
+  <brief_title>Mild Hypothermia for COVID-19 ARDS</brief_title>
+  <official_title>Application of Mild Hypothermia for COVID-19 Acute Respiratory Distress</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwell Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Northwell Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Some patients with COVID have abnormally high carbon dioxide and low oxygen levels despite
+      being on the ventilator. The hypothesis of the study is that the application of mild
+      hypothermia to patients with COVID will decrease their metabolic rate and improve their
+      oxygenation and carbon dioxide levels.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A significant contributor to the morbidity and mortality from COVID-19 is from the abnormal
+      carbon dioxide and oxygen levels in COVID-19 patients. Metabolic studies done on COVID-19
+      patients have shown that these patients have abnormally high metabolic rates. High metabolic
+      rates results in increased carbon dioxide production and increased oxygen usage, both of
+      which can result in high carbon dioxide and low oxygen levels. As some patients with severe
+      COVID-19 continue to have high carbon dioxide levels and/or low oxygen levels despite being
+      on the ventilator, it is hypothesized that decreasing the metabolic rate in these COVID-19
+      patients will help their oxygen and carbon dioxide levels. Mild hypothermia is currently used
+      in comatose survivors of cardiac arrest to improve mortality and neurological outcomes. Mild
+      hypothermia is also an effective way to reduce metabolic demand. The aim is to apply mild
+      hypothermia to COVID-19 patients to decrease metabolic rate in order to improve their oxygen
+      and carbon dioxide levels. Although the application for mild hypothermia has been widely
+      adopted in some patient populations, it has never been applied in COVID-19 patients. If we
+      can develop a strategy to help improve the oxygen and carbon dioxide levels in COVID-19
+      patients, it may lead to improvements in their overall outcomes.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 18, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in metabolic requirement during and after hypothermia</measure>
+    <time_frame>Every 12 hours through study completion an average of 4 days</time_frame>
+    <description>indirect calorimeter measurements (Kcal/day)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in oxygen requirements and levels during and after hypothermia</measure>
+    <time_frame>Every 12 hours through study completion, an average of 4 days</time_frame>
+    <description>ABG, PaO2 (mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>length of intubation</measure>
+    <time_frame>through study completion, an average of 4 days</time_frame>
+    <description>number of hours intubated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in carbon dioxide levels during and after hypothermia</measure>
+    <time_frame>Every 12 hours through study completion an average of 4 days</time_frame>
+    <description>measured by ABG, PaCO2 mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>does application of hypothermia reduce pro inflammatory response</measure>
+    <time_frame>through study completion an average of 4 days</time_frame>
+    <description>ESR (mm/hr)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>does application of hypothermia reduce pro inflammatory response</measure>
+    <time_frame>through study completion an average of 4 days</time_frame>
+    <description>Ferritin (ng/ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>does application of hypothermia reduce pro inflammatory response</measure>
+    <time_frame>through study completion an average of 4 days</time_frame>
+    <description>D Dimer (ng/ml)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>COVID19 ARDS</condition>
+  <arm_group>
+    <arm_group_label>Experimental Arm- Induction of Mild Hypothermia Protocol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Determination of metabolic rate by the metabolic cart (noninvasive connection of the device to the ventilator for 20 minutes). Initiate hypothermia (established Northwell hypothermia status post cardiac arrest protocol) using the Arctic Sun. The Arctic Sun 5000® is set to a temperature of 34.5 C to lower the body temperature.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Hypothermia Via Cooling Machine- Arctic Sun 5000</intervention_name>
+    <description>Initiate hypothermia using the Arctic Sun.The Arctic Sun 5000® is set to a temperature of 34.5 C to lower the body temperature.
+Duration of hypothermia will be 48 hours after which the subject will be rewarmed. Metabolic rate, or indirect Calorimetry, will be assessed at baseline, day 1 of hypothermia, day 2 of hypothermia before rewarming, and after full rewarming. CBC, basic metabolic profile, magnesium, phosphorus, coagulation profile, ABG, inflammatory markers would be drawn every 12 hours during hypothermia until subject has achieved full rewarming and once after full rewarming.
+The entire hypothermia procedure will last 48 hours. Acceptable rewarming range is a temperature of 36.5C to 37.5C. The subject body temperature rewarming is typically set over 6-8 hours. Therefore, the final 6-8 hours of the 48 hour time period is set to rewarm the subject.</description>
+    <arm_group_label>Experimental Arm- Induction of Mild Hypothermia Protocol</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Provision of signed and dated informed consent form from Legally Authorized
+             Representative.
+
+          2. Stated willingness to comply with all study procedures and availability for the
+             duration of the study
+
+          3. Male or female, aged 18 years or above
+
+          4. COVID positive
+
+          5. On mechanical ventilation with either: refractory respiratory acidosis (ph ≤ 7.20),
+             hypercarbia (pCO2 ≥ 55 mmHg), refractory hypoxia (pO2/FIO2 &lt;150), or plateau pressures
+             &gt;30
+
+        Exclusion Criteria:
+
+          1. Bleeding (active bleeding, platelets less than 50,000)
+
+          2. Uncontrolled cardiac arrhythmia
+
+          3. History of cryoglobulinemia, major trauma, pregnancy
+
+          4. Active non-COVID-19 infection that is not controlled with antibiotic or antifungal
+             regimen
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>North Shore University Hospital</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pey-Jen Yu, MD</last_name>
+      <phone>516-562-4970</phone>
+      <email>pyu2@Northwell.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Efstathia A Mihelis, MBA</last_name>
+      <phone>212 434 6614</phone>
+      <email>emihelis@Northwell.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwell Health</investigator_affiliation>
+    <investigator_full_name>Pey-Jen Yu, MD</investigator_full_name>
+    <investigator_title>Director, Clinical Research Programs, Department of Cardiovascular and Thoracic Surgery, North Shore University Hospital, Northwell Health</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypothermia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 18, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/62/NCT04570462/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

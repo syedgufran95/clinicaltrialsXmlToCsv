@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="615">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04524715</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CP19-02</org_study_id>
+    <nct_id>NCT04524715</nct_id>
+  </id_info>
+  <brief_title>LLLT Treatment of Lung Inflammation in COVID-19</brief_title>
+  <official_title>Low-Level Laser Therapy Treatment of Lung Inflammation in COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ward Photonics LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ward Photonics LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To determine if a reduction of pneumonic inflammation occurs after treatment with Low-Level
+      Laser Therapy (LLLT) applying red-light technology in the respiratory system of COVID-19
+      patients suffering from acute viral pneumonia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This clinical trial is a blinded before and after comparison of the effect on patients
+      treated with a red-light LLLT therapy for acute lung inflammation as a result of COVID-19
+      infection. Patients are enrolled to undergo LLLT therapy in addition to all standard ongoing
+      therapies for COVID-19.
+
+      Outcomes for patients receiving LLLT in addition to their standard care (the treatment group)
+      are compared to the group receiving only standard therapy for COVID-19 (control group).
+      Effects of LLLT treatment are measured immediately following treatment, and outcome
+      measurements are compared to the pre-treatment baseline.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 26, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 10, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Blinded before and after comparison of COVID-19 patients treated with a red-light LLLT therapy in addition to standard treatment measures compared to a control group receiving only standard treatment measures.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>All participants undergo LLLT treatment; however, the active group receives LED light in the red and IR range while the placebo group is told they are receiving IR light not visible to naked eye. All participants continue receiving standard treatments for COVID19 symptoms.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Inflammation of the lungs - O2</measure>
+    <time_frame>10 days</time_frame>
+    <description>Change in inflammation of the lungs as measured by O2 saturation levels</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inflammation of the lungs - CRP</measure>
+    <time_frame>10 days</time_frame>
+    <description>Change in inflammation of the lungs as measured by C-Reactive Protein (CRP) Test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inflammation of the lungs - IL6</measure>
+    <time_frame>10 days</time_frame>
+    <description>Change in inflammation of the lungs as measured by IL-6 Levels</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">64</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Active Treatment Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LLLT Treatment using an UltraSlim red/IR LED device along with all standard treatment measures for COVID19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Treatment using a Sham comparator along with all standard treatment measures for COVID19.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Non-invasive red LLLT treatment to chest of patient.</intervention_name>
+    <description>Expose patient to LLLT light while lying on their back, elevated at an angle of approximately 45 degrees from horizontal. Position light over the patient's chest at a 33-degree bias to their right and left sides for 20 minutes each side respectively.</description>
+    <arm_group_label>Active Treatment Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham Device Treatment</intervention_name>
+    <description>Expose patient to sham device while lying on their back, elevated at an angle of approximately 45 degrees from horizontal. Position light over the patient's chest at a 33-degree bias to their right and left sides for 20 minutes each side respectively.</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Participant is diagnosed with COVID-19.
+
+          -  Study participant is 18 years of age or older.
+
+          -  Patient exhibiting moderate-to-acute respiratory distress.
+
+        Exclusion Criteria:
+
+          -  Photosensitive condition or medication.
+
+          -  Active chemotherapy treatment or other cancer treatment.
+
+          -  Autoimmune Disorder.
+
+          -  Pregnant, possibly pregnant or planning pregnancy prior to the end of study
+             participation.
+
+          -  Developmental disability or cognitive impairment that, in the opinion of the
+             investigator, would preclude adequate comprehension of the informed consent form
+             and/or ability to record the necessary study measurements.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rober H Burke, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Michigan Center for Cosmetic Surgery</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Randal Horsley, DC</last_name>
+    <phone>(302) 934-7350</phone>
+    <email>drrlhorsley@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Wellness Junction</name>
+      <address>
+        <city>Millsboro</city>
+        <state>Delaware</state>
+        <zip>19966</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Randal Horsley, DO</last_name>
+      <phone>302-934-7350</phone>
+      <email>drrlhorsley@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Randal Horsley, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gina M Brewer</last_name>
+      <phone>919-684-0928</phone>
+      <email>gina.brewer@duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Patty J Lee, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Hamblin MR. Mechanisms and applications of the anti-inflammatory effects of photobiomodulation. AIMS Biophys. 2017;4(3):337-361. doi: 10.3934/biophy.2017.3.337. Epub 2017 May 19.</citation>
+    <PMID>28748217</PMID>
+  </reference>
+  <reference>
+    <citation>Rigonato-Oliveira NC, de Brito AA, Vitoretti LB, de Cunha Moraes G, Gonçalves T, Herculano KZ, Alves CE, Lino-Dos-Santos-Franco A, Aimbire F, Vieira RP, Ligeiro de Oliveira AP. Effect of Low-Level Laser Therapy (LLLT) in Pulmonary Inflammation in Asthma Induced by House Dust Mite (HDM): Dosimetry Study. Int J Inflam. 2019 Mar 21;2019:3945496. doi: 10.1155/2019/3945496. eCollection 2019.</citation>
+    <PMID>31015955</PMID>
+  </reference>
+  <reference>
+    <citation>Gattinoni L, Chiumello D, Caironi P, Busana M, Romitti F, Brazzi L, Camporota L. COVID-19 pneumonia: different respiratory treatments for different phenotypes? Intensive Care Med. 2020 Jun;46(6):1099-1102. doi: 10.1007/s00134-020-06033-2. Epub 2020 Apr 14.</citation>
+    <PMID>32291463</PMID>
+  </reference>
+  <reference>
+    <citation>de Lima FM, Villaverde AB, Albertini R, Corrêa JC, Carvalho RL, Munin E, Araújo T, Silva JA, Aimbire F. Dual Effect of low-level laser therapy (LLLT) on the acute lung inflammation induced by intestinal ischemia and reperfusion: Action on anti- and pro-inflammatory cytokines. Lasers Surg Med. 2011 Jul;43(5):410-20. doi: 10.1002/lsm.21053.</citation>
+    <PMID>21674546</PMID>
+  </reference>
+  <reference>
+    <citation>Chen S, Li Y, Zheng Z, Luo Q, Chen R. The analysis of components that lead to increased work of breathing in chronic obstructive pulmonary disease patients. J Thorac Dis. 2016 Aug;8(8):2212-8. doi: 10.21037/jtd.2016.08.01.</citation>
+    <PMID>27621878</PMID>
+  </reference>
+  <reference>
+    <citation>Miranda da Silva C, Peres Leal M, Brochetti RA, Braga T, Vitoretti LB, Saraiva Câmara NO, Damazo AS, Ligeiro-de-Oliveira AP, Chavantes MC, Lino-Dos-Santos-Franco A. Low Level Laser Therapy Reduces the Development of Lung Inflammation Induced by Formaldehyde Exposure. PLoS One. 2015 Nov 16;10(11):e0142816. doi: 10.1371/journal.pone.0142816. eCollection 2015.</citation>
+    <PMID>26569396</PMID>
+  </reference>
+  <reference>
+    <citation>da Cunha Moraes G, Vitoretti LB, de Brito AA, Alves CE, de Oliveira NCR, Dos Santos Dias A, Matos YST, Oliveira-Junior MC, Oliveira LVF, da Palma RK, Candeo LC, Lino-Dos-Santos-Franco A, Horliana ACRT, Gimenes Júnior JA, Aimbire F, Vieira RP, Ligeiro-de-Oliveira AP. Low-Level Laser Therapy Reduces Lung Inflammation in an Experimental Model of Chronic Obstructive Pulmonary Disease Involving P2X7 Receptor. Oxid Med Cell Longev. 2018 Mar 4;2018:6798238. doi: 10.1155/2018/6798238. eCollection 2018.</citation>
+    <PMID>29686745</PMID>
+  </reference>
+  <reference>
+    <citation>Oliveira MC Jr, Greiffo FR, Rigonato-Oliveira NC, Custódio RW, Silva VR, Damaceno-Rodrigues NR, Almeida FM, Albertini R, Lopes-Martins RÁ, de Oliveira LV, de Carvalho Pde T, Ligeiro de Oliveira AP, Leal EC Jr, Vieira RP. Low level laser therapy reduces acute lung inflammation in a model of pulmonary and extrapulmonary LPS-induced ARDS. J Photochem Photobiol B. 2014 May 5;134:57-63. doi: 10.1016/j.jphotobiol.2014.03.021. Epub 2014 Apr 4.</citation>
+    <PMID>24792475</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 24, 2020</study_first_posted>
+  <last_update_submitted>August 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>This investigational study is exploratory in nature. The primary endpoint is most descriptive in statistical terms of whether the active patient group had significantly better outcomes than the control group. Individual patient data may be explored at a later date to determine related factors such as patient demographics, comorbidities, or other evidence of compounding variables.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

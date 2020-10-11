@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2854">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04534400</url>
+  </required_header>
+  <id_info>
+    <org_study_id>7888</org_study_id>
+    <nct_id>NCT04534400</nct_id>
+  </id_info>
+  <brief_title>Automated Quantification of Radiologic Pulmonary Alteration During Acute Respiratory Failure</brief_title>
+  <acronym>QUANTICO-RETRO</acronym>
+  <official_title>Automated Quantification of Radiologic Pulmonary Alteration During Acute Respiratory Failure: Application to the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Strasbourg, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>VISIBLE PATIENT, E-MEDIA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Strasbourg, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Automated quantification of the pulmonary volume impaired during acute respiratory failure
+      could be helpful to assess patient severity during COVID-19 infection or perioperative
+      medicine, for example.
+
+      This study aim at assessing the correlation between the amount of radiologic pulmonary
+      alteration and the clinical severity in two clinical situation :
+
+        1. SARS-CoV-2 infections
+
+        2. Postoperative hypoxemic acute respiratory failure
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">January 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correlation between altered pulmonary volume and ordinal severity scale</measure>
+    <time_frame>2 days after CT scan</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between altered pulmonary volume and ordinal severity scale</measure>
+    <time_frame>7 days after CT scan</time_frame>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>Respiratory Failure With Hypoxia</condition>
+  <arm_group>
+    <arm_group_label>Patients with SARS-CoV-2 infection</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with Postoperative hypoxemic respiratory failure</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>thoracic CT-scan</intervention_name>
+    <description>Automated measurement</description>
+    <arm_group_label>Patients with Postoperative hypoxemic respiratory failure</arm_group_label>
+    <arm_group_label>Patients with SARS-CoV-2 infection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Hospitalized patients that underwent a thoracic CT-scan
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  patient with insurance covering
+
+          -  patient admitted to the participating hospitals for SARS-CoV-2 infection or
+             postoperative acute hypoxemic respiratory failure between 01/01/2019 and 05/11/2020
+
+        Exclusion Criteria:
+
+        - patient transferred to another hospital than the participating center during the 7 days
+        following the CT scan
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Eric NOLL, MD</last_name>
+    <phone>33388127076</phone>
+    <email>eric.noll@chru-strasbourg.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Pierre DIEMUNSCH, MD</last_name>
+    <phone>33388125720</phone>
+    <email>pierre.diemunsch@chru-strasbourg.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>GHR MULHOUSE-SUD ALSACE, Hôpital Emile Muller, Service de Radiologie</name>
+      <address>
+        <city>Mulhouse</city>
+        <zip>68100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Philippe FEUERSTEIN, MD</last_name>
+      <phone>33389646464</phone>
+      <email>philippe.feuerstein@ghrmsa.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Philippe FEUERSTEIN, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>HÔPITAUX UNIVERSITAIRES DE STRASBOURG, Hôpital de Hautepierre, Service de Réanimation Médicale</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67098</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric NOLL, MD</last_name>
+      <phone>33388127076</phone>
+      <email>eric.noll@chru-strasbourg.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pierre DIEMUNSCH, MD</last_name>
+      <phone>33388125720</phone>
+      <email>pierre.diemunsch@chru-strasbourg.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Eric NOLL, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pierre DIEMUNSCH, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Julien POTTECHER, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Francis VEILLON, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mickaël OHANA, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Francis SCHNEIDER, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bernard GOICHOIT, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

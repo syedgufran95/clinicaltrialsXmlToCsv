@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="808">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04514627</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1600899</org_study_id>
+    <nct_id>NCT04514627</nct_id>
+  </id_info>
+  <brief_title>Neuromodulation With Percutaneous Electrical Nerve Field Stimulation for Adults With COVID-19</brief_title>
+  <acronym>PENFS COVID-19</acronym>
+  <official_title>Neuromodulation With Percutaneous Electrical Nerve Field Stimulation for Adults With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Olive View-UCLA Education &amp; Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Olive View-UCLA Education &amp; Research Institute</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 is a disease caused by the virus, SARS-CoV-2. Patients with this viral infection are
+      at risk for developing pneumonia and acute respiratory distress syndrome (ARDS).
+      Approximately 20% to 30% of hospitalized patients with COVID-19 and pneumonia require
+      intensive care for respiratory support. Clinically, ARDS presents with severe hypoxemia
+      evolving over several days to a week in combination with bilateral pulmonary infiltrates on
+      chest X-ray. Widespread alveolar epithelial cell and pulmonary capillary endothelial injury
+      can lead to severe impairment in gas exchange. In one report of 1,099 patients hospitalized
+      with COVID-19, ARDS occurred in 15.6% of patients with severe pneumonia. In a smaller case
+      series of 138 hospitalized patients, ARDS occurred in 19.6% of patients and in 61.1% of
+      patients admitted to an intensive care unit (ICU).
+
+      To date, no effective treatment has been established to treat COVID-19 or to prevent
+      progression of ARDS. It is thought that a heightened immune response with an unbalanced
+      release of inflammatory mediators in the airway is a major cause of morbidity and mortality
+      associated with the disease. It is therefore reasonable to postulate that improved outcomes
+      may be obtained in patients with a balanced immune response with adequate viral control and
+      appropriate counter-regulatory immune responses whereas a poor outcome may be expected in
+      patients with inadequate viral control or a heightened immune response or what is referred to
+      as a &quot;cytokine storm&quot;. Thus, modulating the pulmonary immune response without suppressing the
+      immune system would be a viable strategy for patients with COVID-19. The current literature
+      supports the role of neuromodulation, particularly vagal nerve stimulation (VNS), in
+      modulating the immune response. Modulating the pro-inflammatory pathway through VNS has been
+      demonstrated to decrease inflammatory mediators and improve outcomes in several animal models
+      and in humans.
+
+      Percutaneous electrical nerve field stimulation (PENFS) provides a novel, non-invasive method
+      of VNS through a non-implantable device applied to the external ear. Already, the FDA has
+      cleared this technology for reducing symptoms of opioid withdrawal in patients with opioid
+      use disorder. Symptoms of opioid withdrawal can be decreased by approximately 90% after 1
+      hour of stimulation. Similarly, the IB-Stim device has been shown to improve symptom in
+      children with abdominal-pain-related functional GI disorders and recently received market
+      approval by the FDA for that indication. Unpublished studies have demonstrated marked
+      decrease in inflammation with PENFS compared to sham stimulation in a model of TNBS colitis.
+      While the efficacy of PENFS in modulating the progression of pulmonary disease in patients
+      with COVID-19 is unknown, several proposed mechanisms for regulation of the immune response
+      through VNS have already been demonstrated. We propose to perform an open label, randomized
+      study to evaluate the efficacy of PENFS for the treatment of respiratory symptoms in patients
+      with COVID-19.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 13, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hypoxemia via oxygen level, or saturation (SpO2) in percent</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>COVID-19 patients with dyspnea from worsening hypoxemia by measuring daily oxygen level, or saturation (SpO2) in percent.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression to mechanical ventilation, ECLS or death</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Progression of COVID-19 patients with dyspnea to mechanical ventilation, ECLS or death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen requirements</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Change in oxygen requirements measured in days of hypoxemia (defined as SpO2 ≤93% on room air or requiring supplemental oxygen)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of hospitalization</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Days of hospitalization among survivors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to hospital discharge</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Time to hospital discharge or &quot;ready for discharge&quot; (as evidenced by normal body temperature and respiratory rate, and stable oxygen saturation on ambient air or ≤2L supplemental oxygen)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of fever</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Fever will be recorded twice daily. Time to resolution of fever defined as body temperature (≤36.6°C [axilla], or ≤37.2 °C [oral], or ≤37.8°C [rectal or tympanic]) for at least 48 hours without antipyretics or until discharge, whichever is sooner, by clinical severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of resting respiratory rate</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Days of resting respiratory rate &gt;24 breaths/min recorded twice daily</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious adverse events or patient or worsening condition</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Any serious adverse events or patient or worsening condition will be recorded to establish safety and tolerability of PENFS therapy. These include but not limited to skin irritation or reaction at site, pain at site, hypotension, seizure disorders, cardia dysrhythmia, progression to mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Erythrocyte Sedimentation Rate (ESR)</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of erythrocyte sedimentation rate (ESR) in mm/hr. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-Reactive Protein (CRP)</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of C-reactive protein (CRP) in mg/dL. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of ferritin in ng/mL. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-Dimer</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of D-dimer in ng/mL. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creatine Phosphokinase, Total (CK)</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of creatine phosphokinase, total (CK) in U/L. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Troponin</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of troponin in ng/mL. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactate Dehydrogenase (LDH)</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of lactate dehydrogenase (LDH) in U/L. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Procalcitonin (PCT)</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of procalcitonin (PCT) in ng/mL. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>B-Type Natriuretic Peptide (BNP)</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of B-type natriuretic peptide (BNP) in pg/mL. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>N-Terminal Pro B-Type Natriuretic Peptide (NT-proBNP)</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of N-terminal Pro B-type natriuretic peptide (NT-proBNP) in pg/mL. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin-6 (IL-6), High Sensitive ELISA</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of Interleukin-6 (IL-6), high sensitive ELISA in pg/mL. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete Blood Count (CBC) with Differential</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of complete blood count (CBC) with differential. This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comprehensive Metabolic Panel (CMP)</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Evaluation of comprehensive metabolic panel (CMP). This will be based on standard of care and additional lab draws for the purpose of the study will not be done.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>7-Point Ordinal Scale of Clinical Status</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Clinical status based on:
+Death
+Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)
+Hospitalized, on non-invasive ventilation or high-flow oxygen devices
+Hospitalized, requiring low-flow supplemental oxygen
+Hospitalized, not requiring supplemental oxygen, but requiring ongoing medical care (related or not related to Covid-19)
+Hospitalized, not requiring supplemental oxygen or ongoing medical care (other than that specified in the protocol for remdesivir administration)
+Not hospitalized</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Borg Dyspnea Scale (MBS)</measure>
+    <time_frame>up to 14 days or until hospital discharge</time_frame>
+    <description>Dyspnea based on:
+0 - Nothing at all 0.5 - Very, very slight (just noticeable)
+- Very slight
+- Slight
+- Moderate
+- Somewhat severe
+- Severe
+7 - Very severe 8 9 - Very, very severe (almost maximal) 10 - Maximal</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Active percutaneous neurostimulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subject randomized to 5 days of active vs sham neurostimulation therapy during hospitalization.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham percutaneous neurostimulation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Each subject randomized to 5 days of active vs sham neurostimulation therapy during hospitalization.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Auricular percutaneous neurostimulation</intervention_name>
+    <description>The BRIDGE/PENFS device manufactured by Key Electronics, consists of a battery activated generator and wire harness that connects to the generator. Four leads are also attached to the generator, each with a sterile 2 mm, titanium needle. The BRIDGE device settings are standardized and deliver 3.2 volts with alternating frequencies (1 ms pulses of 1 Hz and 10 Hz) every 2 s. This stimulation targets central pain pathways through branches of cranial nerves V, VII, IX, and X, which innervate the external ear. The PENFS device generator has a battery life of 5 days and delivers almost continuous stimulations throughout the 120 hours.</description>
+    <arm_group_label>Active percutaneous neurostimulation</arm_group_label>
+    <arm_group_label>Sham percutaneous neurostimulation</arm_group_label>
+    <other_name>Neuro-Stim System (NSS)-2 BRIDGE</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥18 years at time of signing Informed Consent Form
+
+          -  Hospitalized with COVID-19 pneumonia confirmed per WHO criteria (including a positive
+             PCR of any specimen, e.g., respiratory, blood, urine, stool, other bodily fluid) and
+             per the investigator, the respiratory compromise is most likely due to COVID-19
+
+          -  Patient complaint of dyspnea at the time of presentation to ED or hospital
+
+          -  Patient on room air or oxygen supplementation of no greater than 4 liters at rest to
+             maintaining pulse oximetry of 92% or greater. This can include oxygen supplementation
+             by any modality (BIPAP, CPAP, HFNC, NRB, NC), with the exception of mechanical
+             ventilation or ECLS.
+
+          -  Signed Informed Consent Form by any patient capable of giving consent, or, when the
+             patient is not capable of giving consent, by his or her legal/authorized
+             representative
+
+          -  Ability to comply with the study protocol in the investigator's judgment.
+
+        Exclusion Criteria:
+
+          -  Patients who cannot provide informed consent
+
+          -  History of surgery involving CN V, VII, IX, or X.
+
+          -  Patient on chronic renal dialysis
+
+          -  Patients with history of solid organ transplant
+
+          -  Patients with underlying seizures disorder
+
+          -  Patients with a cardiac pacemaker
+
+          -  Patients with any implanted electrical device
+
+          -  Patients with dermatologic conditions affecting the ear, face, or neck region (i.e.
+             psoriasis), or with cuts or abrasions to the external ear that would interfere with
+             needle placement
+
+          -  Patients with hemophilia or other bleeding disorders
+
+          -  Patients who are pregnant or breastfeeding
+
+          -  Patients with active TB infection
+
+          -  Patient already on mechanical ventilation or ECLS
+
+          -  Suspected active bacterial, fungal, viral, or other infection (besides COVID-19)
+
+          -  In the opinion of the investigator, progression to mechanical ventilation, ECLS or
+             death is imminent and inevitable within the next 24 hours, irrespective of the
+             provision of treatments
+
+          -  Participating in other drug clinical trials
+
+          -  ALT or AST &gt; 5 x ULN detected within 24 hours at screening or at baseline (according
+             to local laboratory reference ranges)
+
+          -  ANC &lt; 500/µL at screening and baseline (according to local laboratory reference
+             ranges)
+
+          -  Platelet count &lt; 50,000/µL at screening and baseline (according to local laboratory
+             reference ranges)
+
+          -  Any serious medical condition or abnormality of clinical laboratory tests that, in the
+             investigator's judgment, precludes the patient's safe participation in and completion
+             of the study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nader Kamangar, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Olive View-UCLA Education &amp; Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nader Kamangar, M.D.</last_name>
+    <phone>747-210-4427</phone>
+    <email>nkamangar@dhs.lacounty.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rajan Saggar, M.D.</last_name>
+    <phone>310-825-0527</phone>
+    <email>RSaggar@mednet.ucla.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Olive View-UCLA Medical Center</name>
+      <address>
+        <city>Sylmar</city>
+        <state>California</state>
+        <zip>91342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nader Kamangar, M.D.</last_name>
+      <phone>747-210-4427</phone>
+      <email>nkamangar@dhs.lacounty.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rajan Saggar, M.D.</last_name>
+      <phone>310-825-0527</phone>
+      <email>rsaggar@mednet.ucla.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nader Kamangar, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.</citation>
+    <PMID>32007143</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Johnson RL, Wilson CG. A review of vagus nerve stimulation as a therapeutic intervention. J Inflamm Res. 2018 May 16;11:203-213. doi: 10.2147/JIR.S163248. eCollection 2018. Review.</citation>
+    <PMID>29844694</PMID>
+  </reference>
+  <reference>
+    <citation>Miranda A, Taca A. Neuromodulation with percutaneous electrical nerve field stimulation is associated with reduction in signs and symptoms of opioid withdrawal: a multisite, retrospective assessment. Am J Drug Alcohol Abuse. 2018;44(1):56-63. doi: 10.1080/00952990.2017.1295459. Epub 2017 Mar 16. Erratum in: Am J Drug Alcohol Abuse. 2018;44(4):498.</citation>
+    <PMID>28301217</PMID>
+  </reference>
+  <reference>
+    <citation>Kovacic K, Hainsworth K, Sood M, Chelimsky G, Unteutsch R, Nugent M, Simpson P, Miranda A. Neurostimulation for abdominal pain-related functional gastrointestinal disorders in adolescents: a randomised, double-blind, sham-controlled trial. Lancet Gastroenterol Hepatol. 2017 Oct;2(10):727-737. doi: 10.1016/S2468-1253(17)30253-4. Epub 2017 Aug 18.</citation>
+    <PMID>28826627</PMID>
+  </reference>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Cheung CY, Poon LL, Ng IH, Luk W, Sia SF, Wu MH, Chan KH, Yuen KY, Gordon S, Guan Y, Peiris JS. Cytokine responses in severe acute respiratory syndrome coronavirus-infected macrophages in vitro: possible relevance to pathogenesis. J Virol. 2005 Jun;79(12):7819-26.</citation>
+    <PMID>15919935</PMID>
+  </reference>
+  <reference>
+    <citation>Law HK, Cheung CY, Ng HY, Sia SF, Chan YO, Luk W, Nicholls JM, Peiris JS, Lau YL. Chemokine up-regulation in SARS-coronavirus-infected, monocyte-derived human dendritic cells. Blood. 2005 Oct 1;106(7):2366-74. Epub 2005 Apr 28.</citation>
+    <PMID>15860669</PMID>
+  </reference>
+  <reference>
+    <citation>Chu H, Zhou J, Wong BH, Li C, Chan JF, Cheng ZS, Yang D, Wang D, Lee AC, Li C, Yeung ML, Cai JP, Chan IH, Ho WK, To KK, Zheng BJ, Yao Y, Qin C, Yuen KY. Middle East Respiratory Syndrome Coronavirus Efficiently Infects Human Primary T Lymphocytes and Activates the Extrinsic and Intrinsic Apoptosis Pathways. J Infect Dis. 2016 Mar 15;213(6):904-14. doi: 10.1093/infdis/jiv380. Epub 2015 Jul 22.</citation>
+    <PMID>26203058</PMID>
+  </reference>
+  <reference>
+    <citation>Channappanavar R, Fehr AR, Vijay R, Mack M, Zhao J, Meyerholz DK, Perlman S. Dysregulated Type I Interferon and Inflammatory Monocyte-Macrophage Responses Cause Lethal Pneumonia in SARS-CoV-Infected Mice. Cell Host Microbe. 2016 Feb 10;19(2):181-93. doi: 10.1016/j.chom.2016.01.007.</citation>
+    <PMID>26867177</PMID>
+  </reference>
+  <reference>
+    <citation>Smits SL, de Lang A, van den Brand JM, Leijten LM, van IJcken WF, Eijkemans MJ, van Amerongen G, Kuiken T, Andeweg AC, Osterhaus AD, Haagmans BL. Exacerbated innate host response to SARS-CoV in aged non-human primates. PLoS Pathog. 2010 Feb 5;6(2):e1000756. doi: 10.1371/journal.ppat.1000756.</citation>
+    <PMID>20140198</PMID>
+  </reference>
+  <reference>
+    <citation>Pawelec G, Adibzadeh M, Pohla H, Schaudt K. Immunosenescence: ageing of the immune system. Immunol Today. 1995 Sep;16(9):420-2.</citation>
+    <PMID>7546204</PMID>
+  </reference>
+  <reference>
+    <citation>Kudoh A, Katagai H, Takazawa T, Matsuki A. Plasma proinflammatory cytokine response to surgical stress in elderly patients. Cytokine. 2001 Sep 7;15(5):270-3.</citation>
+    <PMID>11594792</PMID>
+  </reference>
+  <reference>
+    <citation>Liu T, Zhang J, Yang Y, Ma H, Li Z, Zhang J, Cheng J, Zhang X, Zhao Y, Xia Z, Zhang L, Wu G, Yi J. The role of interleukin-6 in monitoring severe case of coronavirus disease 2019. EMBO Mol Med. 2020 Jul 7;12(7):e12421. doi: 10.15252/emmm.202012421. Epub 2020 Jun 5.</citation>
+    <PMID>32428990</PMID>
+  </reference>
+  <reference>
+    <citation>Young BE, Ong SWX, Kalimuddin S, Low JG, Tan SY, Loh J, Ng OT, Marimuthu K, Ang LW, Mak TM, Lau SK, Anderson DE, Chan KS, Tan TY, Ng TY, Cui L, Said Z, Kurupatham L, Chen MI, Chan M, Vasoo S, Wang LF, Tan BH, Lin RTP, Lee VJM, Leo YS, Lye DC; Singapore 2019 Novel Coronavirus Outbreak Research Team. Epidemiologic Features and Clinical Course of Patients Infected With SARS-CoV-2 in Singapore. JAMA. 2020 Apr 21;323(15):1488-1494. doi: 10.1001/jama.2020.3204.</citation>
+    <PMID>32125362</PMID>
+  </reference>
+  <reference>
+    <citation>Wu H, Li L, Su X. Vagus nerve through α7 nAChR modulates lung infection and inflammation: models, cells, and signals. Biomed Res Int. 2014;2014:283525. doi: 10.1155/2014/283525. Epub 2014 Jul 20.</citation>
+    <PMID>25136575</PMID>
+  </reference>
+  <reference>
+    <citation>Berthoud HR, Neuhuber WL. Functional and chemical anatomy of the afferent vagal system. Auton Neurosci. 2000 Dec 20;85(1-3):1-17. Review.</citation>
+    <PMID>11189015</PMID>
+  </reference>
+  <reference>
+    <citation>Pavlov VA, Wang H, Czura CJ, Friedman SG, Tracey KJ. The cholinergic anti-inflammatory pathway: a missing link in neuroimmunomodulation. Mol Med. 2003 May-Aug;9(5-8):125-34. Review.</citation>
+    <PMID>14571320</PMID>
+  </reference>
+  <reference>
+    <citation>Borovikova LV, Ivanova S, Zhang M, Yang H, Botchkina GI, Watkins LR, Wang H, Abumrad N, Eaton JW, Tracey KJ. Vagus nerve stimulation attenuates the systemic inflammatory response to endotoxin. Nature. 2000 May 25;405(6785):458-62.</citation>
+    <PMID>10839541</PMID>
+  </reference>
+  <reference>
+    <citation>Wang H, Yu M, Ochani M, Amella CA, Tanovic M, Susarla S, Li JH, Wang H, Yang H, Ulloa L, Al-Abed Y, Czura CJ, Tracey KJ. Nicotinic acetylcholine receptor alpha7 subunit is an essential regulator of inflammation. Nature. 2003 Jan 23;421(6921):384-8. Epub 2002 Dec 22.</citation>
+    <PMID>12508119</PMID>
+  </reference>
+  <reference>
+    <citation>Tracey KJ. Physiology and immunology of the cholinergic antiinflammatory pathway. J Clin Invest. 2007 Feb;117(2):289-96. Review.</citation>
+    <PMID>17273548</PMID>
+  </reference>
+  <reference>
+    <citation>Yang X, Zhao C, Gao Z, Su X. A novel regulator of lung inflammation and immunity: pulmonary parasympathetic inflammatory reflex. QJM. 2014 Oct;107(10):789-92. doi: 10.1093/qjmed/hcu005. Epub 2014 Jan 18. Review.</citation>
+    <PMID>24440925</PMID>
+  </reference>
+  <reference>
+    <citation>Fox B, Bull TB, Guz A. Innervation of alveolar walls in the human lung: an electron microscopic study. J Anat. 1980 Dec;131(Pt 4):683-92.</citation>
+    <PMID>7216905</PMID>
+  </reference>
+  <reference>
+    <citation>Hertweck MS, Hung KS. Ultrastructural evidence for the innervation of human pulmonary alveoli. Experientia. 1980 Jan 15;36(1):112-3.</citation>
+    <PMID>7358113</PMID>
+  </reference>
+  <reference>
+    <citation>Bernik TR, Friedman SG, Ochani M, DiRaimo R, Susarla S, Czura CJ, Tracey KJ. Cholinergic antiinflammatory pathway inhibition of tumor necrosis factor during ischemia reperfusion. J Vasc Surg. 2002 Dec;36(6):1231-6.</citation>
+    <PMID>12469056</PMID>
+  </reference>
+  <reference>
+    <citation>Guarini S, Altavilla D, Cainazzo MM, Giuliani D, Bigiani A, Marini H, Squadrito G, Minutoli L, Bertolini A, Marini R, Adamo EB, Venuti FS, Squadrito F. Efferent vagal fibre stimulation blunts nuclear factor-kappaB activation and protects against hypovolemic hemorrhagic shock. Circulation. 2003 Mar 4;107(8):1189-94.</citation>
+    <PMID>12615800</PMID>
+  </reference>
+  <reference>
+    <citation>Huston JM, Ochani M, Rosas-Ballina M, Liao H, Ochani K, Pavlov VA, Gallowitsch-Puerta M, Ashok M, Czura CJ, Foxwell B, Tracey KJ, Ulloa L. Splenectomy inactivates the cholinergic antiinflammatory pathway during lethal endotoxemia and polymicrobial sepsis. J Exp Med. 2006 Jul 10;203(7):1623-8. Epub 2006 Jun 19.</citation>
+    <PMID>16785311</PMID>
+  </reference>
+  <reference>
+    <citation>Krzyzaniak MJ, Peterson CY, Cheadle G, Loomis W, Wolf P, Kennedy V, Putnam JG, Bansal V, Eliceiri B, Baird A, Coimbra R. Efferent vagal nerve stimulation attenuates acute lung injury following burn: The importance of the gut-lung axis. Surgery. 2011 Sep;150(3):379-89. doi: 10.1016/j.surg.2011.06.008. Epub 2011 Jul 23.</citation>
+    <PMID>21783215</PMID>
+  </reference>
+  <reference>
+    <citation>dos Santos CC, Shan Y, Akram A, Slutsky AS, Haitsma JJ. Neuroimmune regulation of ventilator-induced lung injury. Am J Respir Crit Care Med. 2011 Feb 15;183(4):471-82. doi: 10.1164/rccm.201002-0314OC. Epub 2010 Sep 24.</citation>
+    <PMID>20870758</PMID>
+  </reference>
+  <reference>
+    <citation>Levy G, Fishman JE, Xu DZ, Dong W, Palange D, Vida G, Mohr A, Ulloa L, Deitch EA. Vagal nerve stimulation modulates gut injury and lung permeability in trauma-hemorrhagic shock. J Trauma Acute Care Surg. 2012 Aug;73(2):338-42; discussion 342. doi: 10.1097/TA.0b013e31825debd3.</citation>
+    <PMID>22846937</PMID>
+  </reference>
+  <reference>
+    <citation>Ellrich J. Transcutaneous Auricular Vagus Nerve Stimulation. J Clin Neurophysiol. 2019 Nov;36(6):437-442. doi: 10.1097/WNP.0000000000000576. Review.</citation>
+    <PMID>31688327</PMID>
+  </reference>
+  <reference>
+    <citation>Zhao YX, He W, Jing XH, Liu JL, Rong PJ, Ben H, Liu K, Zhu B. Transcutaneous auricular vagus nerve stimulation protects endotoxemic rat from lipopolysaccharide-induced inflammation. Evid Based Complement Alternat Med. 2012;2012:627023. doi: 10.1155/2012/627023. Epub 2012 Dec 29.</citation>
+    <PMID>23346208</PMID>
+  </reference>
+  <reference>
+    <citation>Sun P, Zhou K, Wang S, Li P, Chen S, Lin G, Zhao Y, Wang T. Involvement of MAPK/NF-κB signaling in the activation of the cholinergic anti-inflammatory pathway in experimental colitis by chronic vagus nerve stimulation. PLoS One. 2013 Aug 2;8(8):e69424. doi: 10.1371/journal.pone.0069424. Print 2013.</citation>
+    <PMID>23936328</PMID>
+  </reference>
+  <reference>
+    <citation>Babygirija R, Sood M, Kannampalli P, Sengupta JN, Miranda A. Percutaneous electrical nerve field stimulation modulates central pain pathways and attenuates post-inflammatory visceral and somatic hyperalgesia in rats. Neuroscience. 2017 Jul 25;356:11-21. doi: 10.1016/j.neuroscience.2017.05.012. Epub 2017 May 17.</citation>
+    <PMID>28526575</PMID>
+  </reference>
+  <reference>
+    <citation>Roberts A, Sithole A, Sedghi M, Walker CA, Quinn TM. Minimal adverse effects profile following implantation of periauricular percutaneous electrical nerve field stimulators: a retrospective cohort study. Med Devices (Auckl). 2016 Nov 3;9:389-393. eCollection 2016.</citation>
+    <PMID>27843360</PMID>
+  </reference>
+  <reference>
+    <citation>Vaira LA, Salzano G, Deiana G, De Riu G. Anosmia and Ageusia: Common Findings in COVID-19 Patients. Laryngoscope. 2020 Jul;130(7):1787. doi: 10.1002/lary.28692. Epub 2020 Apr 15.</citation>
+    <PMID>32237238</PMID>
+  </reference>
+  <reference>
+    <citation>Russell B, Moss C, Rigg A, Hopkins C, Papa S, Van Hemelrijck M. Anosmia and ageusia are emerging as symptoms in patients with COVID-19: What does the current evidence say? Ecancermedicalscience. 2020 Apr 3;14:ed98. doi: 10.3332/ecancer.2020.ed98. eCollection 2020.</citation>
+    <PMID>32269598</PMID>
+  </reference>
+  <reference>
+    <citation>Koopman FA, Chavan SS, Miljko S, Grazio S, Sokolovic S, Schuurman PR, Mehta AD, Levine YA, Faltys M, Zitnik R, Tracey KJ, Tak PP. Vagus nerve stimulation inhibits cytokine production and attenuates disease severity in rheumatoid arthritis. Proc Natl Acad Sci U S A. 2016 Jul 19;113(29):8284-9. doi: 10.1073/pnas.1605635113. Epub 2016 Jul 5.</citation>
+    <PMID>27382171</PMID>
+  </reference>
+  <reference>
+    <citation>Bonaz B, Sinniger V, Hoffmann D, Clarençon D, Mathieu N, Dantzer C, Vercueil L, Picq C, Trocmé C, Faure P, Cracowski JL, Pellissier S. Chronic vagus nerve stimulation in Crohn's disease: a 6-month follow-up pilot study. Neurogastroenterol Motil. 2016 Jun;28(6):948-53. doi: 10.1111/nmo.12792. Epub 2016 Feb 27.</citation>
+    <PMID>26920654</PMID>
+  </reference>
+  <reference>
+    <citation>Peuker ET, Filler TJ. The nerve supply of the human auricle. Clin Anat. 2002 Jan;15(1):35-7.</citation>
+    <PMID>11835542</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 17, 2020</study_first_posted>
+  <last_update_submitted>August 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

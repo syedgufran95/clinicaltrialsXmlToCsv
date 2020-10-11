@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1022">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04539262</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GS-US-553-9020</org_study_id>
+    <nct_id>NCT04539262</nct_id>
+  </id_info>
+  <brief_title>Study in Participants With Early Stage Coronavirus Disease 2019 (COVID-19) to Evaluate the Safety, Efficacy, and Pharmacokinetics of Remdesivir Administered by Inhalation</brief_title>
+  <official_title>A Phase 1b/2a Study in Participants With Early Stage COVID-19 to Evaluate the Safety, Efficacy, and Pharmacokinetics of Remdesivir Administered by Inhalation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gilead Sciences</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gilead Sciences</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to characterize the impact of inhaled remdesivir (RDV)
+      on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) viral load in participants
+      with early stage coronavirus disease 2019 (COVID-19).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will have multiple parts: Part A, Part B (optional), and Part C. Part B will be
+      conducted if supported by evaluation in healthy volunteers in another Phase 1a Gilead study
+      (GS-US-553-9018). Participants in Part C will be enrolled after review of preliminary safety
+      and available efficacy data from Parts A and B through at least Day 7.
+
+      GS-US-553-9018 is a Phase 1a randomized, blinded, placebo-controlled, single- and
+      multiple-dose study in healthy volunteers to evaluate the safety, tolerability, and
+      pharmacokinetics of remdesivir administered by inhalation.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 14, 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time-weighted Average Change From Baseline in Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Viral Load Through Day 7</measure>
+    <time_frame>Baseline, Day 7</time_frame>
+    <description>Time-weighted Average Change in SARS-CoV-2 viral load is defined as area under the concentration versus time curve (AUC) of viral load change divided by time between baseline through Day 7</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants Experiencing any Treatment-Emergent Adverse Events</measure>
+    <time_frame>First dose date up to 5 days plus 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants Experiencing any Treatment-Emergent Graded Laboratory Abnormalities</measure>
+    <time_frame>First dose date up to 5 days plus 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants Experiencing any Treatment-Emergent Adverse Events Leading to Study Treatment Discontinuation</measure>
+    <time_frame>First dose date up to 5 days plus 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants Progressing From Early Stage Coronavirus Disease 2019 (COVID-19) to Hospitalization or Death by Day 14</measure>
+    <time_frame>Day 14</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic (PK) Parameter: AUC0-24h of Remdesivir (RDV) and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>AUC0-24h is defined as the concentration of drug over time between time 0 to time 24 hours.
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: AUClast of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>AUClast is defined as the concentration of drug from time zero to the last observable concentration.
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: CLss/F of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>CLss/F is defined as apparent oral clearance at steady state after administration of the drug.
+CLss/F = Dose/AUCtau, where &quot;Dose&quot; is the dose of the drug
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: t1/2 of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>t1/2 is defined as the estimate of the terminal elimination half-life of the drug.
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: Vz/F of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>Vz/F is defined as the apparent volume of distribution of the drug.
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: Cmax of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>Cmax is defined as the maximum observed concentration of drug.
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: Tmax of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>Tmax is defined as the time (observed time point) of Cmax.
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: Clast of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>Clast is defined as the last observable concentration of drug.
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: Tlast of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>Tlast is defined as the time (observed time point) of Clast.
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: AUCtau of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>AUCtau is defined as concentration of drug over time (the area under the concentration verses time curve over the dosing interval).
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: λz of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>λz is defined as the terminal elimination rate constant, estimated by linear regression of the terminal elimination phase of the log plasma concentration of drug versus time curve of the drug.
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: Ctau of RDV and its Metabolites (GS-441524 and GS-704277)</measure>
+    <time_frame>Sparse PK: Day 1 (end of nebulization) and Day 3 (predose and end of nebulization); Intensive PK: Day 1 and Day 3 or Day 5 (0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization); Nebulization duration: 17-34 minutes.</time_frame>
+    <description>Ctau is defined as the observed drug concentration at the end of the dosing interval.
+Time Frame for PK samples: Sparse PK (all participants): Day 1 (end of nebulization, and optional 2-hour post nebulization), and Day 3 (predose and end of nebulization); Intensive PK (Up to 6 participants/group in Part A &amp; Part B): Day 1 and an additional sample at Day 3 or Day 5 at the following time points: 0 (predose), 0.25, 0.5, 0.75, 1, 1.5, 2, 4, and 24 hours post end of nebulization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS-CoV-2 Viral Load From Baseline to Day 4</measure>
+    <time_frame>Baseline, Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS-CoV-2 Viral Load From Baseline to Day 7</measure>
+    <time_frame>Baseline, Day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS-CoV-2 Viral Load From Baseline to Day 14</measure>
+    <time_frame>Baseline, Day 14</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Negative SARS-CoV-2 Polymerase Chain Reaction (PCR)</measure>
+    <time_frame>First dose date up to 14 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">282</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Remdesivir (RDV), Part A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 31 mg inhaled RDV daily for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RDV + Placebo, Part A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 31 mg inhaled RDV for 3 days followed by placebo through Day 5</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo, Part A</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo daily for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RDV, Part B (Optional)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 62 mg inhaled RDV daily for up to 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RDV + Placebo, Part B (Optional)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 62 mg inhaled RDV for up to 3 days followed by placebo through Day 5</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo, Part B (Optional)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo daily for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RDV+ Placebo, Part C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Up to two regimens from Part A and/or Part B will be evaluated in Part C. Either one RDV-containing regimen + placebo, or two RDV-containing regimens + placebo will be selected.
+Participants will receive up to 2 of the following 4 treatments:
+31 mg inhaled RDV daily for 5 days, 31 mg inhaled RDV daily for 3 days followed by placebo daily for 2 days, or 62 mg inhaled RDV daily for up to 5 days, or 62 mg inhaled RDV daily for up to 3 days followed by placebo for 2 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo, Part C</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo daily for 5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir (RDV)</intervention_name>
+    <description>Administered as an aerosolized solution</description>
+    <arm_group_label>RDV + Placebo, Part A</arm_group_label>
+    <arm_group_label>RDV + Placebo, Part B (Optional)</arm_group_label>
+    <arm_group_label>RDV+ Placebo, Part C</arm_group_label>
+    <arm_group_label>RDV, Part B (Optional)</arm_group_label>
+    <arm_group_label>Remdesivir (RDV), Part A</arm_group_label>
+    <other_name>GS-5734™</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered as an aerosolized solution</description>
+    <arm_group_label>Placebo, Part A</arm_group_label>
+    <arm_group_label>Placebo, Part B (Optional)</arm_group_label>
+    <arm_group_label>Placebo, Part C</arm_group_label>
+    <arm_group_label>RDV + Placebo, Part A</arm_group_label>
+    <arm_group_label>RDV + Placebo, Part B (Optional)</arm_group_label>
+    <arm_group_label>RDV+ Placebo, Part C</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:
+
+          -  Willing and able to provide written informed consent, or with a legal representative
+             who can provide informed consent
+
+          -  Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection first confirmed
+             by polymerase chain reaction (PCR) ≤ 4 days prior to randomization
+
+          -  Presence of ≥ 1 symptom(s) consistent with coronavirus disease 2019 (COVID-19) for ≤ 7
+             days prior to randomization (fever, cough, fatigue, shortness of breath, sore throat,
+             headache, myalgia/arthralgia)
+
+          -  Oxygen saturation as measured by pulse oximetry (SpO2) &gt; 94% on room air
+
+        Key Exclusion Criteria:
+
+          -  Ongoing or prior participation in any other clinical trial of an experimental
+             treatment for COVID-19
+
+          -  Prior or current hospitalization for COVID-19 or need for hospitalization
+
+          -  Concurrent or planned treatment with other agents with actual or possible direct
+             antiviral activity against SARS-CoV-2 including intravenous (IV) remdesivir (RDV)
+
+          -  Requiring oxygen supplementation
+
+          -  Positive pregnancy test
+
+          -  Breastfeeding female
+
+          -  Known hypersensitivity to the study treatment, its metabolites, or formulation
+             excipient
+
+          -  Pre-existing pulmonary conditions such as chronic obstructive pulmonary disease or
+             asthma (Parts A and B only)
+
+        Note: Other protocol defined Inclusion/Exclusion criteria may apply.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gilead Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Gilead Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gilead Clinical Study Information Center</last_name>
+    <phone>1-833-445-3230 (GILEAD-0)</phone>
+    <email>GileadClinicalTrials@gilead.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Franco Felizarta, MD</name>
+      <address>
+        <city>Bakersfield</city>
+        <state>California</state>
+        <zip>93301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Triple O Research Institute, PA</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor Research Institute</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 4, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1558">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04533399</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2019nCoV-501</org_study_id>
+    <nct_id>NCT04533399</nct_id>
+  </id_info>
+  <brief_title>A Study Looking at the Effectiveness and Safety of a COVID-19 Vaccine in South African Adults</brief_title>
+  <official_title>A Phase 2A/B, Randomized, Observer-blinded, Placebo-controlled Study to Evaluate the Efficacy, Immunogenicity, and Safety of a SARS-CoV-2 Recombinant Spike Protein Nanoparticle Vaccine (SARS-CoV-2 rS) With Matrix-M1™ Adjuvant in South African Adult Subjects Living Without HIV; and Safety and Immunogenicity in Adults Living With HIV</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novavax</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novavax</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study to evaluate the effectiveness and safety of a coronavirus disease 2019
+      (COVID-19) vaccine called SARS-CoV-2 rS with Matrix-M1 adjuvant in approximately 2,664
+      healthy HIV-negative (HIV-) adult participants and in approximately 240 medically stable
+      HIV-positive (HIV+) adult participants in up to 10 sites across South Africa. A vaccine
+      causes the body to have an immune response that may help prevent the infection or reduce the
+      severity of symptoms. An adjuvant is something that can make a vaccine work better. This
+      study will look at the protective effect, body's immune response, and safety of SARS-CoV-2 rS
+      with Matrix-M1 adjuvant in these study populations. Participants in the study will randomly
+      be assigned to receive SARS-CoV-2 rS with Matrix-M1 adjuvant or placebo. Each participant in
+      the study will receive a total of 2 intramuscular injections over the course of the study.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 17, 2020</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cohort 1: HIV- Participants with Symptomatic Mild, Moderate, or Severe COVID-19</measure>
+    <time_frame>Day 28 to Day 386</time_frame>
+    <description>Number of human immunodeficiency virus negative (HIV-) participants with first occurrence of positive (+) polymerase chain reaction (PCR), (+) PCR-confirmed, SARS-CoV-2 illness with symptomatic mild, moderate, or severe COVID-19 assessed from Day 28 (7 days after second vaccination dose) through the length of the study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 1: HIV- Participants with Symptomatic Moderate or Severe COVID-19</measure>
+    <time_frame>Day 28 to Day 386</time_frame>
+    <description>Number of HIV- participants with first occurrence of (+) PCR-confirmed SARS-CoV-2 illness with symptomatic moderate or severe COVID-19 assessed from Day 28 (7 days after second vaccination) through the length of the study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 1: HIV- Participants with Solicited Adverse Events (AEs)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Numbers and percentages (with 95% confidence intervals [CIs]) of HIV- participants with solicited AEs, local and systemic, for 7 days following each vaccination (Days 0 and 21) by severity score, duration, and peak intensity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 1: HIV- Participants with Unsolicited AEs</measure>
+    <time_frame>35 days</time_frame>
+    <description>Numbers and percentages (with 95% CI) of HIV- participants with unsolicited AEs (eg, treatment-emergent, serious, suspected unexpected serious, those of special interest, MAAEs) through Day 35 by Medical Dictionary for Regulatory Activities (MedDRA) classification, severity score, and relatedness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 2: HIV+ Participants with Solicited AEs</measure>
+    <time_frame>28 days</time_frame>
+    <description>Numbers and percentages (with 95% CIs) of HIV+ participants with solicited AEs, local and systemic, for 7 days following each vaccination (Days 0 and 21) by severity score, duration, and peak intensity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 2: HIV+ Participants with Unsolicited AEs</measure>
+    <time_frame>35 days</time_frame>
+    <description>Numbers and percentages (with 95% CI) of HIV+ participants with unsolicited AEs (eg, treatment-emergent, serious, suspected unexpected serious, those of special interest, MAAEs) through Day 35 by MedDRA classification, severity score, and relatedness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 2: Serum Immunoglobulin G (IgG) Antibody Levels Expressed as Geometric Mean Titers (GMTs)</measure>
+    <time_frame>Day 35</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by enzyme-linked immunosorbent assay (ELISA) expressed as GMTs at Day 35.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 2: Serum IgG Antibody Levels Expressed as Geometric Mean Fold Rises (GMFRs)</measure>
+    <time_frame>Day 35</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMFRs at Day 35.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 2: Serum IgG Antibody Levels Expressed as Seroconversion Rates (SCRs)</measure>
+    <time_frame>Day 35</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as SCR at Day 35. SCR is defined as the percentage of participants with a post-vaccination titer ≥ 4 fold over naïve background and ≥ 2 fold over pre existing titer.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: HIV- Participants with Individual Strata of Symptomatic Virologically Confirmed, Mild, Moderate, or Severe COVID-19</measure>
+    <time_frame>Day 28 to Day 386</time_frame>
+    <description>Number of HIV- participants with first occurrence of (+) PCR-confirmed SARS-CoV-2 illness in terms of individual strata of symptomatic virologically confirmed, mild, moderate, or severe COVID-19.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: HIV- Participants with COVID-19 Requiring Hospitalization</measure>
+    <time_frame>Day 28 to Day 386</time_frame>
+    <description>Number of HIV- participants with first occurrence of (+) PCR-confirmed SARS-CoV-2 illness with COVID-19 requiring hospitalization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Incidence, Maximum Severity Score, and Symptom Duration of SARS-CoV-2 Infection by Severity Classification</measure>
+    <time_frame>Day 28 to Day 386</time_frame>
+    <description>Incidence, maximum severity score, and symptom duration of SARS-CoV-2 infection by classification of symptomatic virologically confirmed, mild, moderate, and/or severe disease in HIV- participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Serum IgG Antibody Levels at Multiple Time Points Expressed as GMTs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMTs at Days 0 (baseline), 21 (post first dose), and at 3 and 6 months after the last vaccination in HIV- participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Serum IgG Antibody Levels at Multiple Time Points Expressed as GMFRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMFRs at Days 0 (baseline), 21 (post first dose), and at 3 and 6 months after the last vaccination in HIV- participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Serum IgG Antibody Levels at Multiple Time Points Expressed as SCRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as SCRs at Days 0 (baseline), 21 (post first dose), and at 3 and 6 months after the last vaccination in HIV- participants. SCR is defined as the percentage of participants with a post-vaccination titer ≥ 4 fold over naïve background and ≥ 2 fold over pre-existing titer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Serum IgG Antibody Levels at Multiple Time Points Expressed as Seroprotection Rates (SPRs)</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen as detected by ELISA expressed as SPRs at Days 0 (baseline), 21 (post first dose), and at 3 and 6 months after the last vaccination in HIV- participants. SPR is defined as the proportion of participants with rises in ELISA units exceeding the 95th percentile of placebo participants who remain COVID-19 free by symptom monitoring.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Angiotensin-Converting Enzyme 2 (ACE2) Receptor Binding Inhibition Assay Expressed as GMTs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as GMTs at Days 0 (baseline), 21 (post first dose), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV- participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: ACE2 Receptor Binding Inhibition Assay Expressed as GMFRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as GMFRs at Days 0 (baseline), 21 (post first dose), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV- participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: ACE2 Receptor Binding Inhibition Assay Expressed as SCRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as SCRs at Days 0 (baseline), 21 (post first dose), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV- participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: ACE2 Receptor Binding Inhibition Assay Expressed as Seroresponse Rates (SRRs)</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as SRRs at Days 0 (baseline), 21 (post first dose), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV- participants. SRR is defined as the proportion of participants with rises in titers exceeding the 95th percentile of placebo participants at the same time point and based on prior SARS-CoV-2 exposure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Neutralizing Antibody Activity Expressed as GMTs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Neutralizing antibody activity as detected by microneutralization assay (MN) as expressed as GMTs at Days 0 (baseline), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV- participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Neutralizing Antibody Activity Expressed as GMFRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as GMFRs at Days 0 (baseline), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV-participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Neutralizing Antibody Activity Expressed as SCRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as SCRs (≥ 4 fold change) at Days 0 (baseline), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV- participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: Neutralizing Antibody Activity Expressed as SRRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as SRRs at Days 0 (baseline), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV-participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 1: HIV- Participants with Medically Attended Adverse Events (MAAEs), Adverse Events of Special Interest (AESIs), and Serious Adverse Events (SAEs)</measure>
+    <time_frame>386 days</time_frame>
+    <description>Numbers and percentages (with 95% CI) of participants with MAAEs, AESI, or SAE through End of Study by MedDRA classification, severity score, and relatedness in HIV- participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: Serum IgG Antibody Levels at Multiple Time Points Expressed as GMTs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMTs at Days 0 (baseline), 21 (post first dose), and at 3 and 6 months after the last vaccination in HIV+ participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: Serum IgG Antibody Levels at Multiple Time Points Expressed as GMFRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMFRs at Days 0 (baseline), 21 (post first dose), and at 3 and 6 months after the last vaccination in HIV+ participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: Serum IgG Antibody Levels at Multiple Time Points Expressed as SCRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as SCRs at Days 0 (baseline), 21 (post first dose), and at 3 and 6 months after the last vaccination in HIV+ participants. SCR is defined as the percentage of participants with a post-vaccination titer ≥ 4 fold over naïve background and ≥ 2 fold over pre-existing titer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: Serum IgG Antibody Levels at Multiple Time Points Expressed as SPRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen as detected by ELISA expressed as SPRs at Days 0 (baseline), 21 (post first dose), and at 3 and 6 months after the last vaccination in HIV+ participants. SPR is defined as the proportion of participants with rises in ELISA units exceeding the 95th percentile of placebo participants who remain COVID-19 free by symptom monitoring.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: ACE2 Receptor Binding Inhibition Assay Expressed as GMTs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as GMTs at Days 0 (baseline), 21 (post first dose), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV+ participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: ACE2 Receptor Binding Inhibition Assay Expressed as GMFRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as GMFRs at Days 0 (baseline), 21 (post first dose), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV+ participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: ACE2 Receptor Binding Inhibition Assay Expressed as SCRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as SCRs at Days 0 (baseline), 21 (post first dose), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV+ participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: ACE2 Receptor Binding Inhibition Assay Expressed as SRRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Epitope-specific immune responses to the SARS-CoV-2 rS protein receptor binding as detected by ACE2 receptor binding inhibition assay expressed as SRRs at Days 0 (baseline), 21 (post first dose), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV+ participants. SRR is defined as the proportion of participants with rises in titers exceeding the 95th percentile of placebo participants at the same time point and based on prior SARS-CoV-2 exposure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: Neutralizing Antibody Activity Expressed as GMTs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Neutralizing antibody activity as detected by MN as expressed as GMTs at Days 0 (baseline), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV+ participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: Neutralizing Antibody Activity Expressed as GMFRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as GMFRs at Days 0 (baseline), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV+ participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: Neutralizing Antibody Activity Expressed as SCRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as SCRs (≥ 4 fold change) at Days 0 (baseline), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV+ participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: Neutralizing Antibody Activity Expressed as SRRs</measure>
+    <time_frame>Day 0 to 6 months after the last vaccination</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as SRRs at Days 0 (baseline), 35 (post second dose), and at 3 and 6 months after the last vaccination in HIV+ participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: HIV+ Participants with MAAEs, AESIs, and SAEs</measure>
+    <time_frame>386 days</time_frame>
+    <description>Numbers and percentages (with 95% CI) of participants with MAAEs, AESI, or SAE through End of Study by MedDRA classification, severity score, and relatedness in HIV+ participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: HIV+ Participants with Symptomatic Virologically Confirmed, Mild, Moderate, or Severe COVID-19</measure>
+    <time_frame>Day 28 to Day 385</time_frame>
+    <description>Counts and proportions of symptomatic virologically confirmed, mild, moderate, and severe COVID-19 outcomes in HIV+ participants as previously described in the second primary efficacy endpoint for Cohort 1 (HIV- participants).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2: Incidence, Maximum Severity Score, and Symptom Duration of SARS-CoV-2 Infection by Severity Classification</measure>
+    <time_frame>Day 28 to Day 385</time_frame>
+    <description>Incidence, maximum severity score, and symptom duration of SARS-CoV-2 infection by classification of symptomatic virologically confirmed, mild, moderate, and/or severe disease in HIV+ participants.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">2904</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 (HIV negative) 5 μg SARS-CoV-2 rS/Matrix-M1 Adjuvant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 doses of SARS-CoV-2 rS - 5 μg + 50 μg Matrix-M1 adjuvant (co-formulated), 1 dose each on Days 0 and 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 1 (HIV negative) Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 doses of Placebo (Saline), 1 dose each on Days 0 and 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 (HIV positive) 5 μg SARS-CoV-2 rS/Matrix-M1 Adjuvant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 doses of SARS-CoV-2 rS - 5 μg + 50 μg Matrix-M1 adjuvant (co-formulated), 1 dose each on Days 0 and 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 (HIV positive) Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 doses of Placebo (Saline), 1 dose each on Days 0 and 21.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 rS/Matrix-M1 Adjuvant</intervention_name>
+    <description>Alternating intramuscular (deltoid) injections of SARS-CoV-2 rS co-formulated with Matrix-M1 adjuvant (0.5 mL) on Days 0 and 21.</description>
+    <arm_group_label>Cohort 1 (HIV negative) 5 μg SARS-CoV-2 rS/Matrix-M1 Adjuvant</arm_group_label>
+    <arm_group_label>Cohort 2 (HIV positive) 5 μg SARS-CoV-2 rS/Matrix-M1 Adjuvant</arm_group_label>
+    <other_name>NVX-CoV2373</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Alternating intramuscular (deltoid) injections of placebo (0.5 mL) on Days 0 and 21.</description>
+    <arm_group_label>Cohort 1 (HIV negative) Placebo</arm_group_label>
+    <arm_group_label>Cohort 2 (HIV positive) Placebo</arm_group_label>
+    <other_name>Sodium chloride 0.9% (BP, sterile)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        All subjects:
+
+          -  Body mass index (BMI) of 17 to 40 kg/m².
+
+          -  Provides informed consent prior to study participation and is willing to comply with
+             study procedures, including potential home visits.
+
+          -  Women of child-bearing potential must agree not to have sexual intercourse with men,
+             or must consistently use an agreed method of contraception from at least 21 days prior
+             to enrolment in the study, through 6 months after the last vaccination.
+
+        HIV-negative subjects only:
+
+          -  Documentation of HIV-negative test result by a method approved in South Africa.
+
+          -  Healthy at study screening, as determined by the investigator.
+
+        HIV-positive subjects only:
+
+          -  Documentation of HIV-positive test result by a method approved in South Africa.
+
+          -  Receiving highly active antiretroviral therapy (HAART) and has been using the same
+             regimen for at least 8 weeks before screening. Changes in antiretroviral dosage within
+             8 weeks of entering the study are allowed, as are exchanges in pharmacological
+             formulations.
+
+          -  Medically stable at screening, as determined by the investigator, and free of
+             opportunistic infections in the 1 year prior to first study vaccination.
+
+          -  Have a HIV-1 viral load &lt; 1000 copies/mL within 45 days of randomization in the study.
+
+        Exclusion Criteria:
+
+          -  Any current acute illness requiring medical or surgical care, or chronic illness
+             (excluding HIV in HIV-positive subjects) that requires changes in medication in the
+             past 2 months indicating that chronic illness/disease is not stable.
+
+          -  Chronic disease, including:
+
+               1. hypertension uncontrolled for age;
+
+               2. congestive heart failure;
+
+               3. chronic obstructive pulmonary disease (COPD) with a history of an acute
+                  exacerbation of any severity in the past 2 years;
+
+               4. evidence of unstable coronary artery disease in the past 3 months, as determined
+                  by the investigator;
+
+               5. asthma;
+
+               6. Type 2 diabetes (adult onset) requiring treatment with insulin;
+
+               7. chronic kidney disease/renal insufficiency;
+
+               8. Chronic gastrointestinal and hepatic diseases;
+
+               9. chronic neurological diseases (such as multiple sclerosis, dementia, transient
+                  ischemic attacks, Parkinson's disease, degenerative neurological conditions,
+                  neuropathy, epilepsy, or a history of stroke or previous neurological disorder
+                  within the past 12 months with residual symptoms). Subjects with a history of
+                  migraine or chronic headaches, or nerve root compression that have been stable on
+                  treatment for the last 4 weeks are not excluded.
+
+          -  Participation in research involving an investigational product (drug/biologic/device)
+             within 45 days prior to first study vaccination.
+
+          -  Prior receipt of investigational or approved COVID-19 vaccine at any time.
+
+          -  History of a diagnosis of suspected or confirmed COVID-19.
+
+          -  Received influenza (flu) vaccination within 14 days prior to first study vaccination;
+             or any other vaccine within 4 weeks prior to first study vaccination; or planned
+             vaccination with 5 weeks after first study vaccination.
+
+          -  Any autoimmune or immunodeficiency disease/condition (excluding HIV in HIV-positive
+             patients).
+
+          -  Chronic (more than 14 days continuous) administration of immunosuppressant, systemic
+             glucocorticosteroids, or other immune-modifying drugs within 90 days prior to first
+             study vaccination (excluding HAART in HIV-positive subjects).
+
+          -  Received immunoglobulin, blood-derived products, or other immunosuppressant drugs
+             within 90 days prior to first study vaccination (excluding HAART in HIV-positive
+             subjects).
+
+          -  Acute respiratory and/or non-respiratory illness consistent with potential COVID-19,
+             concurrent with or within 14 days prior to first study vaccination, or documented
+             temperature of &gt; 38°C during this period.
+
+          -  Known blood clotting disorder.
+
+          -  Active cancer (malignancy) within 3 years prior to first study vaccination (with the
+             exception of adequately treated non-melanoma skin cancers, as assessed by the
+             investigator).
+
+          -  Any known allergies to products contained in the investigational product, or latex
+             allergy, or any history of anaphylaxis in relation to any previous vaccination.
+
+          -  Women who are breastfeeding or who are pregnant at the time of screening, or plan to
+             become pregnant within the first 6 months of the study.
+
+          -  History of alcohol abuse or drug addiction within 2 years prior to the first study
+             vaccination.
+
+          -  Any condition (other than HIV in HIV-positive subjects) that, in the opinion of the
+             investigator, would pose a health risk to the subject if they participate in the
+             study, or could interfere with evaluation of the study vaccine or interpretation of
+             study results.
+
+          -  Study team member or first-degree relative of any study member.
+
+        Other protocol-defined inclusion/exclusion criteria may apply
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vivek Shinde, MD, MPH</last_name>
+    <role>Study Director</role>
+    <affiliation>Novavax, Inc.</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Shabir A Madhi, MBBCH, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Witwatersrand, South Africa</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rani Naidoo</last_name>
+    <phone>+27 (011) 6566167</phone>
+    <email>premadevi.naidoo@ppdi.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>ZA018</name>
+      <address>
+        <city>Bloemfontein</city>
+        <state>Free State Of South Africa</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ZA003</name>
+      <address>
+        <city>Hillbrow</city>
+        <state>Gauteng</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Site ZA001</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ZA012</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Site ZA015</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ZA019</name>
+      <address>
+        <city>Durban</city>
+        <state>KwaZulu-Natal</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ZA020</name>
+      <address>
+        <city>Durban</city>
+        <state>KwaZulu-Natal</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ZA013</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ZA014</name>
+      <address>
+        <city>Worcester</city>
+        <state>Western Cape</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>South Africa</country>
+  </location_countries>
+  <link>
+    <url>http://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <link>
+    <url>http://www.CDC.gov/coronavirus/2019-nCoV/index.html</url>
+    <description>CDC (Centers for Disease Control and Prevention): Coronavirus (COVID-19) website</description>
+  </link>
+  <link>
+    <url>http://www.who.int/emergencies/diseases/novel-coronavirus-2019/</url>
+    <description>WHO COVID-19 treatment guidelines</description>
+  </link>
+  <link>
+    <url>https://www.afro.who.int/countries/south-africa</url>
+    <description>WHO South Africa website</description>
+  </link>
+  <link>
+    <url>https://sacoronavirus.co.za/</url>
+    <description>COVID-19 Corona Virus - Department of Health, Republic of South Africa</description>
+  </link>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 31, 2020</study_first_posted>
+  <last_update_submitted>August 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="223">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492904</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/00810</org_study_id>
+    <nct_id>NCT04492904</nct_id>
+  </id_info>
+  <brief_title>Singapore COVID-19 Chemosensory Tracking (SCCT) Study</brief_title>
+  <official_title>Singapore COVID-19 Chemosensory Tracking (SCCT) Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clinical Nutrition Research Centre, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National University Hospital, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Clinical Nutrition Research Centre, Singapore</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aims to longitudinally track the onset, severity and recovery of changes in
+      chemosensory acuity (smell and/or taste loss) among those suspected of COVID-19 infection.
+      Using standardised questionnaire and testing approaches, the investigators aim to objectively
+      characterise and measure temporal changes in taste and smell to confirm the prevalence of
+      these symptoms as an early marker of infection. Information on symptoms experience, changes
+      in appetite and food-related quality of life will be also be assessed via questionnaire.
+
+      The results of the study will help individuals who experience a loss of smell and/or taste to
+      self-isolate and/or self-refer to a medical professional, if an association between smell
+      and/or taste and COVID-19 infection is found.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will be a retrospective-prospective, longitudinal case-control observational study
+      using a convenience sample drawn from patients presenting for COVID-19 screening, and will
+      recruit both males and females above the age of 21 years who consent to provide anonymised
+      data online on recent changes to their taste and smell. There will be no intervention
+      (medication or foods) as part of this study. Potential participants will be screened to
+      ensure they meet the study inclusion and exclusion criteria and all participants will sign an
+      informed consent.
+
+      During their first recruitment session at the hospital/clinic, participants will be required
+      to complete a series of questionnaires to record recent changes in taste and smell
+      sensitivity. The series of questionnaires will include: Singapore Smell and Taste
+      Questionnaire (SSTQ), Sino-nasal Outcome Test-22 (SNOT-22) and optionally, the Global
+      Consortium of Chemosensory Research Questionnaire (GCCRQ). The purpose of administering the
+      different questionnaires is to cover wide range of complementary questions that capture
+      information related to changes in taste and smell function associated with COVID-19
+      infection. Thereafter participants will be briefed on how to complete the home-use
+      standardized smell and taste test (Home-use Test). The Home-use Test (HUT) will be completed
+      daily over a 28 day period at participants place of residence, to enable self-monitoring of
+      changes to smell and taste abilities. During the HUT, participants will rate their sense of
+      smell using the two standardised odour pens they are provided on the first day of their
+      session at the hospital/ clinic. For each pen, participants will be asked to identify the
+      odour and rate the perceived intensity. This will then be followed a taste test where
+      participants will take a small quantity of a powder representing each of the four
+      prototypical basic tastes sweet (sugar), salt (table salt), bitter (coffee powder or tea) and
+      sour (lime powder), to the tip end of their tongue with a small spoon to taste. Participant
+      are asked to self-report that they confirm that can identify the taste quality and to rate
+      the perceived intensity on line scales provided in an online questionnaire. All measures are
+      self-administered and completed independently by the participant, with responses captured
+      using unique identifier code for each participant through an online software (CompuSense,
+      Guelph, Ontario). During the 28-day home use test period, once a week participants will be
+      asked to complete a 'Follow-up Questionnaire' which will assess how the symptoms experienced
+      have impacted their enjoyment of food, appetite and food-related quality of life.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 23, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Taste and smell acuity</measure>
+    <time_frame>28 days</time_frame>
+    <description>Taste and smell functions of all participants will be assessed as part of the Home-use Test using taste test items (i.e. sweet: sugar, salty: salt, sour: lime powder and bitter: coffee powder) and odour pens respectively. Participants will identify the taste/smell and rate the perceived intensity on a Visual Analogue Scale (VAS) from 'not strong at all' (0) to 'extremely strong taste/smell' (100). A higher score will indicate greater intensity of taste/smell perceived.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Experienced symptoms, changes in appetite and food-related quality of life</measure>
+    <time_frame>28 days</time_frame>
+    <description>Experienced symptoms, changes in appetite and food-related quality of life will be assessed as part of the Follow-up questionnaire.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 Positive (Case)</arm_group_label>
+    <description>Participants who were present for COVID-19 screening and their test results will later indicate positive of infection. Participants will complete a one-time assessment of the various online questionnaires (Singapore Smell and Test Questionnaire, Sino-nasal Outcome Test-22, and Global Consortium for Chemosensory Research Questionnaire - Optional) in the hospital/clinic. Taste and smell acuity, as well as experienced symptoms, changes in appetite and food-related quality of life will be assessed using the Home-use Tests and Follow-up questionnaire over a period of 28 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 Negative/Other respiratory diseases (Control)</arm_group_label>
+    <description>Participants who were present for COVID-19 screening and their test results will later indicate negative of infection. Participants will complete a one-time assessment of the various online questionnaires (Singapore Smell and Test Questionnaire, Sino-nasal Outcome Test-22, and Global Consortium for Chemosensory Research Questionnaire - Optional) in the hospital/clinic. Taste and smell acuity, as well as experienced symptoms, changes in appetite and food-related quality of life will be assessed using the Home-use Tests and Follow-up questionnaire over a period of 28 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Home-use Test and Follow-up Questionnaire</intervention_name>
+    <description>Prospective tracking of changes in taste and smell acuity, and related changes in appetite, enjoyment of food and food-related quality of life will be assessed using the Home-use Tests and Follow-up questionnaire over a period of 28 days.</description>
+    <arm_group_label>COVID-19 Negative/Other respiratory diseases (Control)</arm_group_label>
+    <arm_group_label>COVID-19 Positive (Case)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients present for COVID 19 screening
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 21 years and above
+
+          -  Residing in Singapore for the next 28 days.
+
+          -  Possess a mobile device with 4G network and knows how to use mobile apps (i.e. QR
+             scanner)
+
+        Exclusion Criteria:
+
+          -  Unable to provide informed consent
+
+          -  Allergic/ intolerant to test items (i.e. fragrances, sugar, salt, coffee or lime
+             powder)
+
+          -  Not agreeable with the study team accessing your medical records
+
+          -  For women: Pregnant
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ciaran Forde, Phd</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Clinical Nutrition Research Centre, Singapore</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ciaran Forde, Phd</last_name>
+    <phone>6407 0104</phone>
+    <email>Ciaran_Forde@sifbi.a-star.edu.sg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Vicki Tan</last_name>
+    <phone>6407 4361</phone>
+    <email>Vicki_Tan@sifbi.a-star.edu.sg</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clinical Nutrition Research Centre, Singapore</name>
+      <address>
+        <city>Singapore</city>
+        <zip>117599</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ciaran Forde, Phd</last_name>
+      <phone>6407 0104</phone>
+      <email>Ciaran_Forde@sifbi.a-star.edu.sg</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Singapore</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>July 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Clinical Nutrition Research Centre, Singapore</investigator_affiliation>
+    <investigator_full_name>Ciaran Forde</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Olfactory dysfunction</keyword>
+  <keyword>Gustatory dysfunction</keyword>
+  <keyword>Anosmia</keyword>
+  <keyword>Ageusia</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

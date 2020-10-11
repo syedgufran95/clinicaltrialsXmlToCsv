@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1283">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04517123</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00249663</org_study_id>
+    <nct_id>NCT04517123</nct_id>
+  </id_info>
+  <brief_title>Prone Position and Respiratory Outcomes in Non-Intubated COVID-19 PatiEnts The &quot;PRONE&quot; Study</brief_title>
+  <acronym>PRONE</acronym>
+  <official_title>Prone Position and Respiratory Outcomes in Non-Intubated COVID-19 PatiEnts The &quot;PRONE&quot; Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of North Carolina</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Miami</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Smith &amp; Nephew, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Nox Medical Iceland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall objective of this study is to determine whether a positional maneuver (e.g.,
+      prone positioning) decreases the need for escalation of respiratory-related care in patients
+      with coronavirus (COVID-19) pneumonia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As the initial outbreak of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+      and the disease it causes, coronavirus disease 2019 (COVID-19) has spread beyond Wuhan, China
+      it has become a pandemic affecting over 178 countries. Of patients admitted to the ICU,
+      upwards of 85% developed the acute respiratory distress syndrome (ARDS) and most if not all
+      required mechanical ventilation. The beneficial effects of prone positioning for ARDS have
+      been well described. Coupling the reported benefits of prone positioning in COVID-19
+      associated ARDS patients with the known beneficial effects of early prone-positioning in the
+      treatment of ARDS, it is not surprising that many hospital systems are advocating prone
+      positioning for treatment of ARDS in patients with COVID-19. However, as the pandemic
+      continues to progress in the United States and the number of new cases grows as new clusters
+      emerge, the possibility of 'rationing' ventilators becomes more real. Therefore, therapies
+      that prevent the need for mechanical ventilation are desperately needed. Given the distinct
+      benefit that patients with COVID-19 have with prone positioning, the overarching hypothesis
+      of this trial is that patients with high risk for respiratory failure may also benefit from
+      prone positioning.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of an escalation in respiratory related care (yes vs no)</measure>
+    <time_frame>During hospitalization, up to 30 days</time_frame>
+    <description>Participants will be assessed for the occurrence of an escalation in respiratory related care (Yes or No). Escalation in respiratory related care is clinically defined as any of the following:
+intubation
+any increase in flow of supplemental oxygen
+transition to high flow nasal cannula
+increase in fraction of inspired oxygen
+transfer from a lower to a higher level acuity of care (e.g. medical floor to intermediate care unit (IMC) or intensive care unit (ICU); IMC to ICU).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen Saturation</measure>
+    <time_frame>Over a consecutive 24-hour period after randomization</time_frame>
+    <description>Oxygen Saturation measured in percent oxygen over a 24-hour period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory Effort as assessed by Respiratory Rate</measure>
+    <time_frame>Over a consecutive 24-hour period after randomization</time_frame>
+    <description>Respiratory effort will be assessed using the respiratory rate (in breaths per minute) over a 24-hour period.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>Control - Usual Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Usual Care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention - Prone Positioning</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Prone Positioning</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Prone Positioning</intervention_name>
+    <description>Prone Positioning</description>
+    <arm_group_label>Intervention - Prone Positioning</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥ 18 years
+
+          -  COVID-19 positive by nasopharyngeal swab or serostatus
+
+          -  Use of supplemental oxygen OR respiratory rate ≥ 20
+
+        Exclusion Criteria:
+
+          -  BMI ≥ 45 kg/m2
+
+          -  Pregnancy
+
+          -  Chest tube placement
+
+          -  Hemodynamic instability with mean arterial pressure &lt; 60 mmHg
+
+          -  Thoracic or abdominal wounds
+
+          -  Chest wall deformities
+
+          -  Vertebral column deformities that would preclude prone positioning
+
+          -  Facial trauma or surgery in the last 30 days
+
+          -  Established diagnosis of interstitial lung disease
+
+          -  Prior single or double lung transplant
+
+          -  Surgery for spine, femur, or pelvis in the last 3 months
+
+          -  Thoracic or cardiac surgery in the last 30 days
+
+          -  Pacemaker placement last 7 days
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Naresh Punjabi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mahendra Damarla</last_name>
+    <phone>410-550-0545</phone>
+    <email>mdamarl1@jhmi.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Johns Hopkins Univeristy</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mahendra Damarla, MD</last_name>
+      <email>mdamarl1@jhmi.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jaspn Mock, MD, PhD</last_name>
+      <email>jason_mock@med.unc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eugene Friedman, MD, PhD</last_name>
+      <email>eugene.friedman@duke.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>pneumonia</keyword>
+  <keyword>prone positioning</keyword>
+  <keyword>COVID</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

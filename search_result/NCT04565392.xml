@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2044">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04565392</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pykonsult 201</org_study_id>
+    <nct_id>NCT04565392</nct_id>
+  </id_info>
+  <brief_title>Study of Famotidine With Vitamins C and D for Pandemic Coronavirus</brief_title>
+  <acronym>CDFCOV19</acronym>
+  <official_title>Proof-of-concept Open-label Randomized Dose-response Comparison Study of Famotidine Plus Vitamins C and D3 for Adults With Probable COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>drpykessupplements.com</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>drpykessupplements.com</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Subjects with early symptoms of COVID19 take 1 or 2 20-mg [milligram] tabs/day of famotidine
+      with 2000 IU vitamin D3 and 2 grams [2000 mg] vitamin C for 14 days. Consent, baseline, and
+      follow-up after treatment are handled via internet. A 14-day extension of the higher dose
+      plus the vitamins is allowed. Results on 216 subjects gives 80% power at p=0.05 if 22% get
+      hospitalized with low-dose vs 7% with &quot;high&quot;-dose famotidine.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      If taking Over-The-Counter (OTC) agents could prevent worsening and hospitalization for
+      COVID19, it could stop the devastation wrought by the pandemic. A few OTC agents have
+      pre-clinical and clinical rationale for utility: vitamins C and D, and especially famotidine.
+      For this study, subjects get assigned to open-label treatment by birth day of the month; if
+      odd, 1 tab famotidine/d; if even, 1 tab famotidine twice daily. All also take 2000 IU
+      (International Units) vitamin D3 daily and 1 gram (1000 mg) vitamin C twice a day, with
+      meals. Internet-driven study requires subjects to maintain contact and follow advice of local
+      MD so it does not increase their risk with the disease. Baseline eligibility checklist
+      follows informed consent. Subjects must have at least 4 of the standard symptoms of COVID19,
+      be willing to buy their own supply of the 3 OTC agents specified in brand and dose by
+      protocol, start them within the first 4 days of symptoms, and have a study partner to
+      complete their follow-up in case they become unable (get hospitalized etc). They report their
+      results after 14 days of use. The rate of subjects worsening or getting hospitalized is the
+      main outcome measure. Subjects who don't get better, worsen, or get well and then worsen
+      again can start taking 2 tablets a day of famotidine and the vitamins for another 14 days in
+      an extension phase.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Negative outcome</measure>
+    <time_frame>&quot;Since you started taking CDF...&quot; (requested duration: 14 days)</time_frame>
+    <description>&quot;Did you feel worse?&quot; (yes or no) and &quot;Did you get hospitalized?&quot; (yes or no)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Positive response</measure>
+    <time_frame>since you started taking CDF (for a nominal 14 days)</time_frame>
+    <description>&quot;Did you recover or improve from your symptoms?&quot; (yes or no)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relapse</measure>
+    <time_frame>since you started taking CDF (for a nominal 14 days)</time_frame>
+    <description>Did you feel better after stopping study treatment, but then symptoms returned? (yes or no)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>tolerability of ascorbic acid</measure>
+    <time_frame>since you started taking CDF (for a nominal 14 days)</time_frame>
+    <description>Did you switch from plain vitamin C to ascorbyl palmitate or calcium ascorbate? (yes or no)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Unexpected serious adverse event</measure>
+    <time_frame>within 35 days after you started taking CDF</time_frame>
+    <description>If you got hospitalized, was it for COVID-19? (yes, no, or Not applicable. If you were hospitalized but not for COVID-19, please e-mail [sponsor] at pykonsult@gmail.com</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">216</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>famotidine twice daily</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A 20-mg tablet of Pepcid AC(R) plus 1000 IU vitamin D3 and 1000 mg vitamin C in the morning with breakfast and a 20-mg tablet of Pepcid AC plus 1000 mg vitamin C in the evening with supper</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>famotidine once daily</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Low-dose comparator. A 20-mg tablet of Pepcid AC(R) plus 1000 IU vitamin D3 and 1000 mg vitamin C in the morning with breakfast and 1000 mg vitamin C in the evening with supper</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Famotidine 20 MG</intervention_name>
+    <description>1 softgel of vitamin D3 2000 IU daily and 1000 mg of vitamin C twice daily, orally</description>
+    <arm_group_label>famotidine once daily</arm_group_label>
+    <arm_group_label>famotidine twice daily</arm_group_label>
+    <other_name>Nature Made vitamin D3 2000 IU</other_name>
+    <other_name>Nature Made vitamin C 500 mg</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. - Probable COVID-19 based on presence of at least 4 of the following symptoms of acute
+             onset within the prior 4 days: fever, cough, sore throat, fatigue, episodic chest pain
+             or shortness of breath with exercise, myalgia, headache, loss of smell.
+
+          2. - Subjects must signify that they have contacted a doctor about their current
+             symptoms.
+
+          3. - Subject gives informed consent for study and is willing to take the treatments and
+             complete the scheduled evaluations.
+
+          4. - Subject has acquired a study partner who has agreed to complete the follow-up
+             portion (Part 2) of the study survey form for the subject if the latter unable or has
+             been hospitalized, and who has agreed to buy the study agents (see criterion 6) for
+             the subject if the latter is unable to at the start of the study.
+
+          5. - Has already bought or is willing to buy a supply of Nature Made ascorbic acid of at
+             least fifty 1000-milligram tablets or 100 500-mg tablets), famotidine (at least 50
+             20-mg tablets of Pepcid AC), and Nature Made vitamin D3 (at least 60 2000-IU
+             capsules).
+
+        Exclusion Criteria:
+
+          1. - Constant rather than episodic trouble breathing, Persistent pain or pressure in the
+             chest, New confusion, Inability to wake or stay awake, Bluish lips or face, or any
+             other severe symptom [symptoms CDC urges immediate medical care for].
+
+          2. - Known sensitivity or intolerance to famotidine or to ascorbic acid.
+
+          3. - Lack of access to the internet at home.
+
+          4. - Using tizanidine (Zanaflex® , a muscle relaxant), dasatinib (Sprycel®, a drug for
+             leukemia), cefditoren (Pivoxil®, an antibiotic), or fosamprenavir or delavirdine
+             (drugs for HIV) [Drug exclusions are per US label for Pepcid].
+
+          5. -Taking any medications to treat COVID-19, except for over-the-counter agents for
+             temporary relief of symptoms such as antipyretics and analgesics (aspirin, ibuprofen
+             etc), cough remedies, anti-diarrheals, etc.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert E Pyke, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pykonsult LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Robert Pyke, MD, PhD</last_name>
+    <phone>2033993490</phone>
+    <email>pykonsult@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Robert Pyke, MD, PhD</last_name>
+    <phone>2033120257</phone>
+    <email>robertepyke@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Pykonsult headquarters</name>
+      <address>
+        <city>New Fairfield</city>
+        <state>Connecticut</state>
+        <zip>06812</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Robert Pyke, MD, PhD</last_name>
+      <phone>203-399-2390</phone>
+      <email>pykonsult@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 25, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>famotidine</keyword>
+  <keyword>vitamin C</keyword>
+  <keyword>vitamin D</keyword>
+  <keyword>Internet trial</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+    <mesh_term>Famotidine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

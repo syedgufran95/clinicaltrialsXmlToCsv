@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1136">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04533360</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KRMC 0205</org_study_id>
+    <nct_id>NCT04533360</nct_id>
+  </id_info>
+  <brief_title>Prevalence of COVID-19 Antibodies Kingman AZ</brief_title>
+  <official_title>Seroprevalence of SARS CoV2 Antibodies Among Adults in Kingman AZ</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kingman Regional Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kingman Regional Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 disease outbreak is a historic event that has challenged medical systems in the
+      United States. Currently, most reports of confirmed cases rely on the testing of symptomatic
+      patients. These estimates of confirmed cases miss individuals who have recovered from
+      infection, with mild or no symptoms, and individuals with symptoms who have not been tested
+      due to the limited availability of tests. We are conducting serology testing within the
+      community for SARS-CoV-2-specific antibodies through a serologic test could give insight into
+      past COVID-19 infections within our community.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Adult participants aged 18 or greater will be recruited from the greater Kingman AZ area
+      through social media, radio, newspaper, and a press release. Participants self-selected
+      inclusion in the study by calling into a COVID-19 hotline and will be included in the sample
+      data following self-report of absence of covid-19 symptoms. Participants will be scheduled
+      for testing on the weeks of 09/28/2020 and 10/05/2020. Upon recruitment, participants will be
+      asked to complete a demographic and behavioral survey, assessing socioeconomic status,
+      interpersonal interactions, personal protective measures, and COVID-19 symptomology in the
+      preceding two months. Two months after initial testing, all negative SARS-CoV-2-specific
+      antibodies participants will be contacted for repeat testing and surveying.
+
+      SARS-CoV-2-specific antibodies will be tested using a lateral flow immunoassay with the
+      VITROS Anti-SARS-CoV-2 IgG test (Ortho-Clinical Diagnostics, Inc.) under the Emergency Use
+      Authorization (EUA) from the Food and Drug Administration (FDA). The diagnostic sensitivity
+      of the immunoassay was 87.5% and specificity was 100%. The positive and negative predictive
+      value with a prevalence of 5% in the community was 100% and 99.3% respectively. All data will
+      be de-identified and stored in a password protected file only visible to study investigators.
+      All positive results were called back to participants by the lead author.
+
+      Data obtained was then used to estimate the population prevalence of SARS-CoV-2-specific
+      antibodies in the Kingman, Arizona population. Unweighted and weighted proportions of
+      positive tests were calculated to match the 2018 census on sex, race, education, and income.
+      Confidence intervals for unweighted data will be estimated using exact binomial models and
+      for weighted and adjusted estimates using bootstrap methods. All data was analyzed using
+      SPSS.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 28, 2020</start_date>
+  <completion_date type="Anticipated">December 28, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 9, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Months</target_duration>
+  <primary_outcome>
+    <measure>Seroprevelence of SARS-CoV-2 Antibodies among Adults in Kingman AZ</measure>
+    <time_frame>2-weeks</time_frame>
+    <description>A sample from the population of Kingman AZ will be used to determine the epidemiology of COVID-19 spread throughout Kingman AZ.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Retention of SARS-CoV-2 Antibodies among Adults in Kingman AZ</measure>
+    <time_frame>2-weeks</time_frame>
+    <description>Participants will have a second antibody diagnostic test 2 months following initial enrollment. The concordance between positive tests will then be used to determine the longevity of SARS-CoV-2 antibodies in our community.</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Community Cohort 1</arm_group_label>
+    <description>1000 Participants from the community will be recruited to undergo serological testing for SARS-CoV2 Antibodies at time point 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Community Cohort 2</arm_group_label>
+    <description>1000 Participants from the community will be recruited to undergo serological testing for SARS-CoV2 Antibodies at time point 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthcare Provider Cohort 1</arm_group_label>
+    <description>500 hospital employees will be recruited to undergo serological testing for SARS-CoV2 Antibodies at time point 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthcare Provider Cohort 2</arm_group_label>
+    <description>500 hospital employees will be recruited to undergo serological testing for SARS-CoV2 Antibodies at time point 2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>VITROS Anti-SARS-CoV-2 IgG test</intervention_name>
+    <description>The VITROS Anti-SARS-CoV-2 IgG test is a lateral flow immunoassay produced by Ortho-Clinical Diagnostics Inc.</description>
+    <arm_group_label>Community Cohort 1</arm_group_label>
+    <arm_group_label>Community Cohort 2</arm_group_label>
+    <arm_group_label>Healthcare Provider Cohort 1</arm_group_label>
+    <arm_group_label>Healthcare Provider Cohort 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        ~30,000 individuals inhabit Kingman AZ across 7,854 households, out of which 30.1% had
+        children under the age of 18 living with them, 54.6% were married couples living together,
+        10.1% had a female householder with no husband present, and 30.9% were non-families. 25.5%
+        of all households were made up of individuals, and 11.7% had someone living alone who was
+        65 years of age or older.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adults aged 18+
+
+          -  Resident of Mohave County AZ
+
+        Exclusion Criteria:
+
+          -  Children under 18yo
+
+          -  Previous positive SARS-CoV2- Antibody Test
+
+          -  Active symptoms of respiratory Illness
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony J Santarelli, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Kingman Healthcare Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anthony J Santarelli, PhD</last_name>
+    <phone>928-263-5146</phone>
+    <email>anthony.santarelli@azkrmc.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>John V Ashurst, DO</last_name>
+    <phone>814-931-4209</phone>
+    <email>john.ashurst@azkrmc.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Kingman Regional Medical Center</name>
+      <address>
+        <city>Kingman</city>
+        <state>Arizona</state>
+        <zip>86409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John J Ashurst, DO</last_name>
+      <phone>928-757-0649</phone>
+      <email>john.ashurst@azkrmc.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Anthony J Santarelli, PhD</last_name>
+      <phone>9282635146</phone>
+      <email>anthony.santarelli@azkrmc.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Paul R, Arif AA, Adeyemi O, Ghosh S, Han D. Progression of COVID-19 From Urban to Rural Areas in the United States: A Spatiotemporal Analysis of Prevalence Rates. J Rural Health. 2020 Jun 30. doi: 10.1111/jrh.12486. [Epub ahead of print]</citation>
+    <PMID>32602983</PMID>
+  </reference>
+  <reference>
+    <citation>Peters DJ. Community Susceptibility and Resiliency to COVID-19 Across the Rural-Urban Continuum in the United States. J Rural Health. 2020 Jun;36(3):446-456. doi: 10.1111/jrh.12477. Epub 2020 Jun 16.</citation>
+    <PMID>32543751</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>August 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 31, 2020</study_first_posted>
+  <last_update_submitted>October 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Kingman Regional Medical Center</investigator_affiliation>
+    <investigator_full_name>John Ashurst</investigator_full_name>
+    <investigator_title>Emergency Medicine Residency Program Director</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

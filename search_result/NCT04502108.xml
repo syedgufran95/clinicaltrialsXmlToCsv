@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3393">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04502108</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BFH Corona</org_study_id>
+    <nct_id>NCT04502108</nct_id>
+  </id_info>
+  <brief_title>Behavior During and After COVID-19 Crisis</brief_title>
+  <official_title>Online Survey About Physical Activity and Nutrition During and After Coronavirus Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Slavko Rogan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bern University of Applied Sciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A crisis situation leads to changes in life. During December 2019, many people contracted
+      pneumonia in the Chinese city of Wuhan. On January 7, 2020, the novel coronavirus (Covid-19)
+      was identified as the cause of this disease. Within five months, the virus spread around the
+      globe and forced countries to restrict public life. Due to the high infection rates in
+      Europe, a lockdown followed between March and April 2020 (except in Sweden). As the number of
+      infections decreased, European countries began to gradually relax the lockdown from May 2020.
+
+      The lockdown and the later stages of loosening have an impact on lifestyle. Institutions of
+      higher education must also adapt to this situation and have switched to distance learning.
+
+      The University of Applied Sciences of Bern (BFH), Department of Health Professions with the
+      Departments (DHP) of Nutrition and Dietetics and Physiotherapy, considers the question of the
+      degree to which nutritional and exercise behavior has changed.
+
+      The findings provide recommendations for future crises for students and employees of the
+      BFH-DHP.
+
+      In order to achieve this, at the BFH-DHP two anonymous online surveys will be conducted.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There is little evidence of how physical activity and eating behavior changes during a
+      pandemic period and in the period after a pandemic period of students and employees at the
+      BFH-DHP. This observational study will assists to determine the impact of an immediate change
+      within a pandemic on physical activity, nutrition, sleep and alcohol consumption and the
+      consequences after a period of one year.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Physical activity 2020</measure>
+    <time_frame>During COVID-19 pandemic crisis: the survey will be conducted within an one month period</time_frame>
+    <description>Mean number of minutes spent physically active (standing, walking, running) per day. A validated German short version of the international physical activity questionnaire (iPAQ-SF) will be used to assess physical activity over the last seven days</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physical activity 2021</measure>
+    <time_frame>During COVID-19 pandemic crisis: the survey will be conducted within an one month period in 2021</time_frame>
+    <description>Mean number of minutes spent physically active (standing, walking, running) per day. A validated German short version of the international physical activity questionnaire (iPAQ-SF) will be used to assess physical activity over the last seven days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Nutrition 2020</measure>
+    <time_frame>During COVID-19 pandemic crisis: the survey will be conducted within an one month period</time_frame>
+    <description>Mean number of habitual food and nutrient intake per day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nutrition 2021</measure>
+    <time_frame>During COVID-19 pandemic crisis: the survey will be conducted within an one month period in 2021</time_frame>
+    <description>Mean number of habitual food and nutrient intake per day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alcohol 2020</measure>
+    <time_frame>During COVID-19 pandemic crisis: the survey will be conducted within an one month period</time_frame>
+    <description>Liters of pure alcohol per day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alcohol 2021</measure>
+    <time_frame>During COVID-19 pandemic crisis: the survey will be conducted within an one month period in 2021</time_frame>
+    <description>Liters of pure alcohol per day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep 2020</measure>
+    <time_frame>During COVID-19 pandemic crisis: the survey will be conducted within an one month period</time_frame>
+    <description>Average number of hours of sleep during the night</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sleep 2021</measure>
+    <time_frame>During COVID-19 pandemic crisis: the survey will be conducted within an one month period in 2021</time_frame>
+    <description>Average number of hours of sleep during the night</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Exercise</condition>
+  <condition>Nutritional Status</condition>
+  <condition>Sleep</condition>
+  <arm_group>
+    <arm_group_label>Employees</arm_group_label>
+    <description>Employees of the Department of Health Professions, Bern University of Applied Sciences</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students</arm_group_label>
+    <description>Students of the Department of Health Professions, Bern University of Applied Sciences</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Covid19</intervention_name>
+    <description>Impact of the COVID19-pandemic on physical activity, nutritional habits and sleeping behavior during an extraordinary period of confinement and social distancing, during the loosening phase and social distancing and the phase after the pandemic.</description>
+    <arm_group_label>Employees</arm_group_label>
+    <arm_group_label>Students</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All students and employees from the Bern University of Applied Sciences, Department of
+        Health Professions participating in the study will be invited to answer the online survey.
+        The sample will include students in different academic degrees: bachelor's degree and
+        master's degree and from different study degree courses (midwife, nurse, nutrition and
+        dietetics and physiotherapy) and employees.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Students from the Bern University of Applied Sciences, Department of Health
+             Professions
+
+          -  Students from the Bern University of Applied Sciences, Department of Health
+             Professions
+
+        Exclusion Criteria:
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Heiner Baur, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>BFH, Department of Health Professions, Faculty of Physiotherapy</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Slavko Rogan, Ph.D</last_name>
+    <phone>+41 31 848 35 56</phone>
+    <email>slavko.rogan@bfh.ch</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Bern University of Applied Sciences, Department of Health Professions</name>
+      <address>
+        <city>Bern</city>
+        <zip>3008</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Slavko Rogan, Ph.D</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Bern University of Applied Sciences</investigator_affiliation>
+    <investigator_full_name>Slavko Rogan</investigator_full_name>
+    <investigator_title>University lecturer</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Due to the anonymous data collection, there will be no individual participants' data available. The study protocol will be published in an internationally recognized journal.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

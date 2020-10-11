@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="559">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04531319</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Covid Cell</org_study_id>
+    <nct_id>NCT04531319</nct_id>
+  </id_info>
+  <brief_title>Immune Cell Subgroups in Covid 19 Patients</brief_title>
+  <official_title>Evaluation of Immune Cell Subgroups in Covid 19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istanbul Training and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istanbul Training and Research Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19, spreading rapidly all over the world, causes serious morbidity and mortality. In
+      severe COVID-19 infections, after pulmonary inflammation, cardiovascular organ failure,
+      cytokine storm, hemophagocytosis, septic shock, develops due to uncontrolled hypoxia, and
+      isolated organ failure turns into multi-organ failure. It is noteworthy that it causes
+      lymphopenia in patients. In studies conducted, the effects of Covid-19 on the immune system
+      were evaluated with limited parameters. In addition, no study evaluating the effect of this
+      disease on the immune system has been published in our country.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The causative agent of coronavirus 2019 (COVID-19) disease, which started in Wuhan province
+      of China in December 2019, was severe acute respiratory failure syndrome coronavirus 2
+      (SARS-CoV-2), which quickly spread all over the world and caused a pandemic. COVID-19 can
+      cause death with symptoms such as fever, cough, muscle pain, shortness of breath, and
+      pneumonia (1). Pulmonary pathology of COVID-19 is diffuse alveolar damage, focal reactive
+      hyperplasia of pneumocytes with patchy inflammatory cells, intravascular thrombosis,
+      monocyte, macrophage and lymphocyte infiltration into pulmonary spaces. Severe infiltration
+      of pulmonary tissue affects alveolar gas exchange. In addition, cardiovascular morbidity,
+      tachyarrhythmia and thromboembolic events are observed in 1/5 of the hospitalized patients
+      with troponin elevation, which is closely related to mortality. In severe COVID-19
+      infections, after pulmonary inflammation, cardiovascular organ failure, cytokine storm,
+      hemophagocytosis, septic shock, develops due to uncontrolled hypoxia, and isolated organ
+      failure turns into multi-organ failure.
+
+      It is noteworthy that it causes lymphopenia in patients. In the studies conducted, the
+      effects of Covid-19 on the immune system and the determination of cell subgroups were
+      performed with limited parameters. No studies have been conducted on PDL-1, one of the immune
+      control points. In addition, no study evaluating the effect of this disease on the immune
+      system with wide parameters has been published in our country.
+
+      We aimed to study CD3 (+) lymphocytes, CD4 (+) lymphocytes, CD 8 (+) lymphocytes, CD
+      3(-)/CD16 (+) NK cell ratio, CD14 (+) lymphocytes, and HLA-DR positivity on CD14 (+) cells at
+      Covid-19 and healthy volunteers.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 15, 2020</start_date>
+  <completion_date type="Anticipated">September 15, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 15, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>T cell subtype ratios</measure>
+    <time_frame>1 month</time_frame>
+    <description>T helper, NK cell and T cytotoxic cell ratio</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Monocyte ratio</measure>
+    <time_frame>1 month</time_frame>
+    <description>CD14 (+) monocyte and HLA-DR (+) cell ratio</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Case Group</arm_group_label>
+    <description>Covid 19 (+) patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <description>Healthy volunteers</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Flow cytometric analysis</intervention_name>
+    <description>Flow cytometric analysis of T helper, T cytotoxic cells, NK cells and monocytes</description>
+    <arm_group_label>Case Group</arm_group_label>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who admitted to the emergency department with the complaint of respiratory
+        failure, lymphopenia in blood tests and Covid 19 (+) in the PCR tests are case group.
+
+        Also healty volunteers who don't have complaint of respiratory failure, lymphopenia in
+        blood tests and Covid 19 (-) in the PCR tests are control group.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with Covid 19 PCR (+) results
+
+        Exclusion Criteria:
+
+          -  Cancer Patients
+
+          -  Patients with known immunodeficiency
+
+          -  Pregnancy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ufuk Oguz Idiz, Assoc. Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Istanbul Training and Research Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ufuk Oguz Idiz, Assoc. Prof</last_name>
+    <phone>+905062044714</phone>
+    <email>oguzidiz@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tahir Talat Yurttas, MD</last_name>
+    <phone>+905325835419</phone>
+    <email>tahirtalat_yurttas@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Istanbul Training and Reseach Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34098</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ufuk Oguz Idiz, Assoc. Prof</last_name>
+      <phone>+905062044714</phone>
+      <email>oguzidiz@yahoo.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Bi Q, Wu Y, Mei S, Ye C, Zou X, Zhang Z, Liu X, Wei L, Truelove SA, Zhang T, Gao W, Cheng C, Tang X, Wu X, Wu Y, Sun B, Huang S, Sun Y, Zhang J, Ma T, Lessler J, Feng T. Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study. Lancet Infect Dis. 2020 Aug;20(8):911-919. doi: 10.1016/S1473-3099(20)30287-5. Epub 2020 Apr 27. Erratum in: Lancet Infect Dis. 2020 Jul;20(7):e148.</citation>
+    <PMID>32353347</PMID>
+  </reference>
+  <reference>
+    <citation>Felsenstein S, Herbert JA, McNamara PS, Hedrich CM. COVID-19: Immunology and treatment options. Clin Immunol. 2020 Jun;215:108448. doi: 10.1016/j.clim.2020.108448. Epub 2020 Apr 27. Review.</citation>
+    <PMID>32353634</PMID>
+  </reference>
+  <reference>
+    <citation>Ganji A, Farahani I, Khansarinejad B, Ghazavi A, Mosayebi G. Increased expression of CD8 marker on T-cells in COVID-19 patients. Blood Cells Mol Dis. 2020 Jul;83:102437. doi: 10.1016/j.bcmd.2020.102437. Epub 2020 Apr 13.</citation>
+    <PMID>32325421</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istanbul Training and Research Hospital</investigator_affiliation>
+    <investigator_full_name>Ufuk Oguz Idiz</investigator_full_name>
+    <investigator_title>Assoc. Prof.</investigator_title>
+  </responsible_party>
+  <keyword>T helper cell</keyword>
+  <keyword>T cytotoxic cell</keyword>
+  <keyword>Monocyte</keyword>
+  <keyword>NK cell</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

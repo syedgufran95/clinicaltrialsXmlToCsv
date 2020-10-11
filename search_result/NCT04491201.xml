@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2652">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04491201</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CMDA-SURVEY2</org_study_id>
+    <nct_id>NCT04491201</nct_id>
+  </id_info>
+  <brief_title>National Survey of the Impact of COVID-19 Pandemics</brief_title>
+  <acronym>CMDA-SURVEY2</acronym>
+  <official_title>National Survey of the Impact of COVID-19 Pandemics on Chinese Physicians of Obstetrics and Gynecology</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lei Li</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peking Union Medical College Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 pandemics have changed extensively the lives around the world. Although most
+      physicians of obstetrics and gynecology have no critical role in the frontline against
+      COVID-19 pandemics, their work, research and education activities still underwent great
+      changes. The primary aim of this study is to analyze change of workload during the COVID-19
+      pandemics in physicians of obstetrics and gynecology in China. A customized questionnaire
+      will be delivered by the social software WeChat to the specific hospital which has been
+      randomly sampled, and all physicians of Obstetrics and Gynecology in this hospital will fill
+      the questionnaire anonymously.
+
+      A random sampling will be performed in all 32 provinces, municipality or autonomous regions
+      in the mainland of China. It is assumed that acceptable 95% confidence interval is P±4%, and
+      the sample size under the condition of simple random sampling is 600 persons. If the
+      homogeneity is set as 0.15 or 0.2, and each population (unit) has 10 or 15 persons accepting
+      survey, we will achieve a design effect of 2.35 to 3.80. If we choose the design effect of 3,
+      the sample size of every level needs is 1800. Considering 10% population refusing to be
+      surveyed, in all mainland of China, three levels of hospitals will include at least 6000
+      physicians who accept survey.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 27, 2020</start_date>
+  <completion_date type="Anticipated">September 27, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 27, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The changes of workload of physicians during COVID-19 pandemics compared with 2019 year</measure>
+    <time_frame>Six months</time_frame>
+    <description>Reduction or augment in percentage of workload including outpatient clinics, surgeries, counseling and deliveries</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The changes of education activities during COVID-19 pandemics compared with 2019 year</measure>
+    <time_frame>Six months</time_frame>
+    <description>Reduction or augment in percentage of education activities including lectures, ward rounds and exams.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The changes of research activities during COVID-19 pandemics compared with 2019 year</measure>
+    <time_frame>Six months</time_frame>
+    <description>Reduction or augment in percentage of research activities including research protocol advancement, paper composition/submission/publication, and fund application</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">6000</enrollment>
+  <condition>COVID-19 Pandemics</condition>
+  <condition>Obstetrics and Gynecology</condition>
+  <condition>Workload</condition>
+  <condition>Questionnaire</condition>
+  <condition>National Survey</condition>
+  <condition>China</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Customized questionnaire</intervention_name>
+    <description>A customized questionnaire will be delivered by the social software WeChat to the specific hospital which has been randomly sampled, and all physicians of Obstetrics and Gynecology in this hospital will fill the questionnaire anonymously.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All physicians of obstetrics and gynecology from the hospitals randomly sampled
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Aged 18 years old
+
+          -  Belonging to and registered at specific hospital
+
+          -  Active employment in obstetrics, reproduction, or gynecology
+
+          -  Signed an approved informed consents
+
+        Exclusion Criteria:
+
+          -  Not meeting all the inclusion criteria
+
+          -  Not completing the whole questionnaire
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Lei Li, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peking Union Medical College Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lei Li, M.D.</last_name>
+    <phone>86-139-1198-8831</phone>
+    <email>lileigh@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Lei Li</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100730</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lei Li, MD</last_name>
+      <phone>8613911988831</phone>
+      <email>lileigh@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>July 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Peking Union Medical College Hospital</investigator_affiliation>
+    <investigator_full_name>Lei Li</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

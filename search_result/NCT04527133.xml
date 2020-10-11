@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="205">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527133</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-APR-01</org_study_id>
+    <nct_id>NCT04527133</nct_id>
+  </id_info>
+  <brief_title>An Open Non-comparative Study of the Efficacy and Safety of Aprotinin in Patients Hospitalized With COVID-19</brief_title>
+  <official_title>An Open Non-comparative Study of the Efficacy and Safety of Aprotinin in Patients Hospitalized With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Aviron LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Aviron LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The observational study will be carried out in two stages. At the first stage, the efficacy
+      and safety of Aprotinin intravenous infusion as add-on therapy to the standard of care will
+      be studied. At the second stage, two groups will be included: the first group will be the
+      inhaled Aprotinin add-on therapy, the second group will be intravenous Aprotinin in
+      combination with Favipiravir.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary objective of the study is to evaluate the efficacy of Aprotinin as add-on therapy in
+      patients hospitalized with COVID-19 using the following parameters:
+
+        -  The time to elimination of SARS-CoV-2 virus until Day 10;
+
+        -  The time to C-reactive protein (CRP) normalization until Day 10;
+
+        -  The time to D-dimer normalization until Day 10.
+
+      Secondary objectives are to evaluate the following parameters of efficacy and safety of
+      Aprotinin add-on therapy in patients hospitalized with COVID-19:
+
+        -  The time to body temperature normalization (&lt;37oC);
+
+        -  Changes from baseline of the laboratory parameters during 14 days: hematology, CRP,
+           coagulogram;
+
+        -  Changes of lung injury on CT scan on Day 7 and Day 14 from baseline;
+
+        -  Frequency of clinical status improvement by 2 scores in accordance with the WHO Ordinal
+           scale of clinical improvement (WHO-OSCI) or discharge from the hospital before Day 14;
+
+        -  Frequency of transfer to the Intensive Care Unit (ICU), frequency of the non-invasive
+           ventilation, frequency of the invasive ventilation and mortality rate;
+
+        -  Frequency of Adverse Events (AEs) and Serious Adverse Events (SAEs) of various severity
+           according to subjective complains, physical examination, vital signs, laboratory tests
+           and ECG.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 11, 2020</start_date>
+  <completion_date type="Anticipated">August 31, 2020</completion_date>
+  <primary_completion_date type="Actual">August 11, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>A non-comparative study of the efficacy and safety</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to elimination of SARS-CoV-2 virus</measure>
+    <time_frame>10 days</time_frame>
+    <description>Time to two negative PCR tests with at least 24 hours interval [days]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to CRP normalization</measure>
+    <time_frame>10 days</time_frame>
+    <description>Time to CRP &lt;10 mg/L [days]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to D-dimer normalization</measure>
+    <time_frame>10 days</time_frame>
+    <description>Time to D-dimer &lt;243 ng/mL [days]</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to body temperature normalization</measure>
+    <time_frame>14 days</time_frame>
+    <description>Time to body temperature &lt;37oC [days]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in absolute neutrophil count (ANC)</measure>
+    <time_frame>Baseline to Day 14</time_frame>
+    <description>Change of ANC [cells/L]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in white blood cells (WBC)</measure>
+    <time_frame>Baseline to Day 14</time_frame>
+    <description>Change of WBC [cells/L]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of CRP</measure>
+    <time_frame>Baseline to Day 14</time_frame>
+    <description>Change of CRP [mg/L]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of D-dimer</measure>
+    <time_frame>Baseline to Day 14</time_frame>
+    <description>Change of D-dimer [ng/mL]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fibrinogen</measure>
+    <time_frame>Baseline to Day 14</time_frame>
+    <description>Change of fibrinogen [g/L]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of Quick's value</measure>
+    <time_frame>Baseline to Day 14</time_frame>
+    <description>Change of Quick's value [%]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of international normalized ratio (INR)</measure>
+    <time_frame>Baseline to Day 14</time_frame>
+    <description>Change of INR [score]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of lung injury on CT scan</measure>
+    <time_frame>Baseline to Day 14</time_frame>
+    <description>Improvement, no change or worsening of the lung injury on CT scan [proportion of patients]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of clinical status improvement by 2 scores in accordance with the WHO-OSCI or discharge from the hospital</measure>
+    <time_frame>14 days</time_frame>
+    <description>Frequency of clinical status improvement by 2 scores in accordance with the WHO-OSCI or discharge from the hospital [proportion of patients]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of deterioration of the patients' status</measure>
+    <time_frame>14 days</time_frame>
+    <description>Frequency of transfer to the ICU, non-invasive ventilation, invasive ventilation and mortality rate [proportion of patients]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of AEs and SAEs</measure>
+    <time_frame>14 days</time_frame>
+    <description>Frequency of AEs and SAEs of various severity according to subjective complains, physical examination, vital signs, laboratory tests and ECG [% of patients]</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Stage 1/Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intravenous Aprotinin in addition to standard care: 1 000 000 KIU IV daily during 3 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage 2/Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inhaled Aprotinin in addition to standard care: 625 KIU 4 times per day during 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage 2/Group 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intravenous Aprotinin in addition to standard care that includes Favipiravir: 1 000 000 KIU IV daily during 5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aprotinin</intervention_name>
+    <description>Intravenous or inhalation</description>
+    <arm_group_label>Stage 1/Group 1</arm_group_label>
+    <arm_group_label>Stage 2/Group 2</arm_group_label>
+    <arm_group_label>Stage 2/Group 3</arm_group_label>
+    <other_name>Gordox®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Signed Patient Information Sheet and Informed Consent Form for participation in the
+             study;
+
+          2. Adult male or female ≥18 years of age;
+
+          3. Body mass &lt; 90 kg;
+
+          4. Positive qualitative RNA SARS-CoV-2 PCR analysis at screening;
+
+          5. Score 4 on the WHO-OSCI (added at Stage 2);
+
+          6. Subjects with moderate-to-severe disease with the follow conditions and symptoms:
+
+               -  Pneumonia;
+
+               -  Fever &gt; 38°C;
+
+               -  Blood serum CRP &gt; 10 mg/L.
+
+          7. Agreement to use medically acceptable forms of birth control during the study
+             (contraceptive with spermicide).
+
+        Exclusion Criteria:
+
+          1. Severe disease with one of the follow criteria:
+
+               -  Respiratory rate &gt; 35 per minute that doesn't decrease after body temperature
+                  reducing to normal or subfebrile level;
+
+               -  Saturation ≤ 93% at rest;
+
+               -  Partial pressure of arterial oxygen (PaO2) &lt; 60 mmHg;
+
+               -  Oxygenation index (РаО2/FiO2) ≤ 200 mmHg;
+
+               -  Partial pressure of arterial CO2 (PaCO2) &gt; 60 mmHg;
+
+               -  Septic shock.
+
+          2. Chronic liver and kidney diseases in terminal stage;
+
+          3. Other organs failure requiring control and treatment in the ICU;
+
+          4. Subjects with HIV;
+
+          5. Using of Aprotinin during 6 months prior to screening; hypersensitivity to any of the
+             drug components;
+
+          6. Participation in any other clinical trial or using of other study drugs during 28 days
+             prior to screening;
+
+          7. Pregnant or lactating women or women planning pregnancy during the clinical study;
+             women with child-bearing potential (including women non-sterilized surgically and in
+             postmenopause for less than 2 years) not using medically acceptable forms of birth
+             control;
+
+          8. Inability to read or write; unwillingness to understand and follow the Protocol
+             procedures; non-compliance with the regimen of taking medications or performing
+             procedures that, according to the Investigator, may affect the results of the study or
+             the safety of the patient and prevent the patient from further participation in the
+             study; any other comorbid medical or serious mental conditions that make patient
+             ineligible for participation in the clinical study, limits the ability to obtain
+             informed consent, or may affect patient's ability to participate in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elena Simakina, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Clinical Hospital #1, Smolensk</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Regional State Budgetary Healthcare Institution &quot;Clinical Hospital №1&quot;</name>
+      <address>
+        <city>Smolensk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>August 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 26, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>pneumonia</keyword>
+  <keyword>inpatients</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aprotinin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>not planned</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

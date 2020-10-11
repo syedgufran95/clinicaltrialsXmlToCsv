@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2605">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04519398</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GTP0051</org_study_id>
+    <nct_id>NCT04519398</nct_id>
+  </id_info>
+  <brief_title>Investigating the Involvement of ACE and Angiotensinogen Genes' Polymorphism Along With Other Thrombophilic Genotypes in Severe Forms of COVID-19 With/Without Thrombotic Events</brief_title>
+  <acronym>iGenes-COVID19</acronym>
+  <official_title>Investigating the Involvement of ACE and Angiotensinogen Genes' Polymorphism Along With Other Thrombophilic Genotypes in Severe Forms of COVID-19 With/Without Thrombotic Events</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Grigore T. Popa University of Medicine and Pharmacy</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Grigore T. Popa University of Medicine and Pharmacy</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An estimated 22% of the global population is at an increased risk of a severe form of
+      COVID-19, while one in four coronavirus patients admitted to intensive care unit will develop
+      a pulmonary embolism. A major public health question remains to be investigated: why COVID-19
+      is mild for some, critically severe for others and why only a percentage of COVID-19 patients
+      develop thrombosis, despite the disease's proven hypercoagulable state? Patients' intrinsic
+      characteristics might be responsible for the deep variety of disease forms.
+
+      Our study aims to assess the validity of the hypothesis according to which underlining
+      genetic variations might be responsible for different degrees of severity and thrombotic
+      events risks in the novel coronavirus disease.
+
+      Moreover, we suspect that prothrombotic genotypes occuring in the genes that encode
+      angiotensin-converting enzyme (ACE-DEL/INS) and angiotensinogen (AGT M235T) are involved in
+      the unpredictable evolution of COVID-19, both in terms of severity and thrombotic events, due
+      to the strong interactions of SARS-CoV-2 with the renin-angiotensin-aldosterone system
+      (RAAS). Therefore, we also aim to assess the validity of the theory according to which there
+      is a pre-existing atypical modulation of RAAS in COVID-19 patients that develop severe forms
+      and/or thrombosis.
+
+      Our hypothesis is based on various observations. Firstly, there is a substantial similarity
+      with a reasonably related condition such as sepsis, for which there is a validated theory
+      stating that thrombophilic mutations affect patients' clinical response. Secondly, racial and
+      ethnic genetic differences are responsible for significant dissimilar thrombotic risks among
+      various nations. Thirdly, an increase in stroke incidence has been reported in young patients
+      with COVID-19, without essential thrombosis risk factors, favoring the idea that a genetic
+      predisposition could contribute to increase the thrombotic and thromboembolic risk. Fourthly,
+      the plasminogen activator inhibitor (PAI)-1 4G/5G inherited mutation was found to be
+      responsible for a thrombotic state causing post-SARS osteonecrosis.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study's protocol will cover the following steps:
+
+      • Collected data from COVID-19 patients at admission will include:
+
+        -  Descriptive general demographic data
+
+        -  Previous pathologies and thrombosis risk factors
+
+        -  Routine biological data (the blood routinely collected will also be used for SARS-Cov-2
+           specific RT-PCR exam)
+
+      Complete thrombophilic profile testing by multiplex PCR and reverse hybridization of DNA to
+      assess the presence of prothrombotic genotypes:
+
+        -  Factor V Leiden
+
+        -  Factor V 4070 A G (Hr2)
+
+        -  Factor II G20210A
+
+        -  Methylenetetrahydrofolate reductase (MTHFR) C677T
+
+        -  MTHFR A1298C
+
+        -  Cystathionine β-synthase (CBS) 844ins68
+
+        -  PAI-1 4G/5G
+
+        -  Glycoprotein IIIa T1565C (HPA-1a/b)
+
+        -  ACE-DEL/INS
+
+        -  Apolipoprotein E (ApoE)
+
+        -  AGT M235T
+
+        -  Angiotensin II type 1 receptor (ATR-1) A1166C
+
+        -  Fibrinogen - 455 G A
+
+        -  Factor XIII Val34Leu SpO2, respiratory rate, PaO2/FiO2 RAAS components
+
+             -  Imagistic procedures (chest X-ray or CT)
+
+                  -  All patients with a positive SARS-CoV-2 PCR test will be included
+
+                  -  Patients will be divided into three groups depending on disease severity and
+                     the presence of thrombotic state:
+
+             -  1st group includes COVID-19 patients with proved
+
+        -  venous thrombosis (deep vein thrombosis, pulmonary embolism or venous thrombosis
+           occurring in more atypical places such as in the veins of the brain, liver, kidney,
+           mesenteric vein and the veins of the arms)
+
+        -  or arterial thrombosis (heart attacks, strokes)
+
+             -  2nd group encompasses asymptomatic patients and those with mild or moderate
+                disease, according to current guidelines, without thrombosis: no symptoms or
+                evidence of lower respiratory disease by clinical assessment or imaging and a SpO2
+                ≥ 94%
+
+             -  3rd group includes severe disease, according to current guidelines, without
+                thrombosis: respiratory frequency &gt; 30 breaths per minute, SpO2 &lt; 94%, PaO2/FiO2 &lt;
+                300 mmHg, or lung infiltrates &gt;50%
+
+                  -  Statistical methods will be employed to check for significant differences
+                     between prothrombotic mutations frequency and RAAS components levels for the
+                     three groups
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 18, 2020</start_date>
+  <completion_date type="Anticipated">August 18, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 17, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients with thrombophilic profile alterations</measure>
+    <time_frame>One year</time_frame>
+    <description>The difference of prothrombotic genotypes frequency between the three groups</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with RAAS components alterations</measure>
+    <time_frame>One year</time_frame>
+    <description>The differences of RAAS components levels between the three groups</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>Thrombosis</condition>
+  <condition>ARDS</condition>
+  <condition>Thrombophilia</condition>
+  <condition>Thromboses, Intracranial</condition>
+  <condition>Thromboses, Deep Vein</condition>
+  <condition>RAAS</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 patients with proved venous thrombosis</arm_group_label>
+    <description>1st group includes COVID-19 patients with proved
+venous thrombosis (deep vein thrombosis, pulmonary embolism or venous thrombosis occurring in more atypical places such as in the veins of the brain, liver, kidney, mesenteric vein and the veins of the arms)
+or arterial thrombosis (heart attacks, strokes)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Asymptomatic COVID-19 &amp; those with mild or moderate disease</arm_group_label>
+    <description>2nd group encompasses asymptomatic patients and those with mild or moderate disease, according to current guidelines, without thrombosis: no symptoms or evidence of lower respiratory disease by clinical assessment or imaging and a SpO2 &gt; 94%</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe disease, according to Guidelines, without thrombus</arm_group_label>
+    <description>3rd group includes severe disease, according to current guidelines, without thrombosis: respiratory frequency &gt; 30 breaths per minute, SpO2 &lt; 94%, PaO2/FiO2 &lt; 300 mmHg, or lung infiltrates &gt;50%</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Complete thrombophilic profile testing by multiplex PCR</intervention_name>
+    <description>Complete thrombophilic profile testing by multiplex PCR and reverse hybridization of DNA to assess the presence of prothrombotic genotypes:
+Factor V Leiden
+Factor V 4070 A&gt;G (Hr2)
+Factor II G20210A
+Methylenetetrahydrofolate reductase (MTHFR) C677T
+MTHFR A1298C
+Cystathionine β-synthase (CBS) 844ins68
+PAI-1 4G/5G
+Glycoprotein IIIa T1565C (HPA-1a/b)
+ACE-DEL/INS
+Apolipoprotein E (ApoE)
+AGT M235T
+Angiotensin II type 1 receptor (ATR-1) A1166C
+Fibrinogen - 455 G&gt;A
+Factor XIII Val34Leu</description>
+    <arm_group_label>Asymptomatic COVID-19 &amp; those with mild or moderate disease</arm_group_label>
+    <arm_group_label>COVID-19 patients with proved venous thrombosis</arm_group_label>
+    <arm_group_label>Severe disease, according to Guidelines, without thrombus</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood with complete thrombophilic profile testing and RAAS components assessment through PCR
+      (multiplex PCR and reverse hybridization of DNA to assess the presence of prothrombotic
+      genotypes)
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients with COVID-19 and thrmbotic events or, Patients with COVID-19 &amp; no thrombotic
+        events but with a severe form Patients with COVID-19 &amp; no thrombotic events and no or mild
+        symptoms
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All hospitalized patients with cough, fever, myalgia - with confirmed COVID-19
+             infection • All patients with a positive SARS-CoV-2 PCR test
+
+        Exclusion Criteria:
+
+          -  Patient refusal
+
+          -  Uncertain tests results
+
+          -  Children
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Adrian Covic, Professor</last_name>
+    <role>Study Chair</role>
+    <affiliation>Gr T Popa University of Medicine and Pharmacy Iasi ROMANIA</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alexandru Burlacu, MD, PhD</last_name>
+    <phone>00407444488580</phone>
+    <email>alexandru.burlacu@umfiasi.ro</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Radu Crisan-Dabija, MD, PhD</last_name>
+    <email>radu.dabija@umfiasi.ro</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Medicine and Pharmacy Gr T. Popa Iasi, Romania</name>
+      <address>
+        <city>Iasi</city>
+        <zip>700503</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adrian Covic, Professor</last_name>
+      <email>accovic@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Radu Crisan-Dabija, Lecturer</last_name>
+      <email>radu.dabija@umfiasi.ro</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Alexandru Burlacu, Lecturer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Radu Crisan-Dabija, Lecturer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Iolanda Popa, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Romania</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 19, 2020</study_first_posted>
+  <last_update_submitted>August 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Grigore T. Popa University of Medicine and Pharmacy</investigator_affiliation>
+    <investigator_full_name>Professor Adrian Covic</investigator_full_name>
+    <investigator_title>MD, PhD, Professor</investigator_title>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>COVID-19 severity</keyword>
+  <keyword>Thrombosis</keyword>
+  <keyword>Thrombophilia</keyword>
+  <keyword>thrombophylic profile</keyword>
+  <keyword>Renin-angiotensin-aldosterone system alterations</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Intracranial Thrombosis</mesh_term>
+    <mesh_term>Thrombosis</mesh_term>
+    <mesh_term>Venous Thrombosis</mesh_term>
+    <mesh_term>Thrombophilia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

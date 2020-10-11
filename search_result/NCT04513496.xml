@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3442">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04513496</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TM HIV BA</org_study_id>
+    <nct_id>NCT04513496</nct_id>
+  </id_info>
+  <brief_title>Telemedicine in HIV Care in Buenos Aires</brief_title>
+  <official_title>Delivery of HIV Care Through Telemedicine in Public Hospitals in Buenos Aires, Argentina During COVID-19 Pandemic: Implementation Research</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundacion Ibis</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fundacion Ibis</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this investigation is to conduct an implementation research to facilitate and
+      evaluate the implementation of VCT((Videoconsult through telemedicine) among HIV
+      HCP(healthcare providers) and PLWH(people living with HIV)
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Through prospective observational methodology the investigators are planning to evaluate
+      VCT(Videoconsult through telemedicine) implementation. Both quantitative and qualitative
+      analysis (mixed methods) will take part in the assessment. Quantitative data will be useful
+      to obtain objective data in terms of proportion of subjects using the intervention, adoption
+      by health care workers and measuring effectiveness. Additionally, qualitative methods will
+      help to understand the outcomes focusing on the barriers and facilitators from both the HCW
+      and patients, and their feedback on continuous implementation.
+
+      Hence, perceptions of a vast group of patients and HCW will take a critical point in the
+      qualitative analysis. Finally, by evidencing effectiveness, the investigators will be able to
+      generalize and maintain this intervention as a good clinical practice. Due to the scope of
+      the outcomes, the investigators will use RE-AIM framework.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">July 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Telemedicine Reach. RE-AIM framework</measure>
+    <time_frame>18 months</time_frame>
+    <description>Proportion of included patients over all patients eligible</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Telemedicine Effectiveness. RE-AIM framework</measure>
+    <time_frame>18 months</time_frame>
+    <description>Proportion of treatment interruptions and undetectable HIV viral load</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Telemedicine Adoption. RE-AIM framework</measure>
+    <time_frame>18 months</time_frame>
+    <description>Proportion of physicians adopting VC, barriers and facilitators to adopt telemedicine</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Telemedicine Implementation.RE-AIM framework</measure>
+    <time_frame>18 months</time_frame>
+    <description>Time and cost needed to deliver the intervention</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Telemedicine Manteinance. RE-AIM framework</measure>
+    <time_frame>18 months</time_frame>
+    <description>Inclusion of VCT into routine activity, Satisfaction of HCP(healthcare proffesionals and patients with videoconsultation</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>Telemedicine</condition>
+  <condition>HIV-1-infection</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        PLWH(people living with HIV) that receive care in Buenos Aires public hospitals
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  18 years-old or older
+
+          -  Access to internet
+
+          -  Willing to participate
+
+        Exclusion Criteria:
+
+          -  do not understand the purpose and study procedures
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 14, 2020</study_first_posted>
+  <last_update_submitted>August 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

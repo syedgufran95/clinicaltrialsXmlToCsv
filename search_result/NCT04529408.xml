@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1858">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04529408</url>
+  </required_header>
+  <id_info>
+    <org_study_id>285603</org_study_id>
+    <nct_id>NCT04529408</nct_id>
+  </id_info>
+  <brief_title>EARSATS-19: In-ear Measurement of Blood Oxygen Saturation in COVID-19 Follow up</brief_title>
+  <acronym>EARSATS-19</acronym>
+  <official_title>EARSATS-19: In-ear Measurement of Blood Oxygen Saturation in COVID-19 Follow up</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Imperial College London</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      TITLE EARSATS-19: In-ear measurement of blood oxygen saturation in COVID-19 follow up
+
+      DESIGN Non-inferiority study
+
+      AIMS To evaluate qualitative and quantitative performance of in-ear SpO2 monitoring against
+      the gold standard right finger-clip pulse oximeter -- towards validation for use in COVID-19
+      in the acute ambulatory and long-term monitoring setting
+
+      OUTCOME MEASURES
+
+      In-ear SpO2 compared with gold-standard finger-clip pulse oximeter:
+
+      Correlation between SpO2 measurements at rest Correlation between SpO2 measurements during 6
+      minute walk test Signal quality during 6 minute walk test Qualitative evaluation of clinical
+      and patient user acceptability using questionnaires
+
+      POPULATION 30 patients attending COVID-19 follow-up clinic and 30 patients with chronic lung
+      disease attending routine outpatient investigations
+
+      ELIGIBILITY Aged 18 and above, no upper age limit Able to give informed consent No abnormal
+      ear anatomy.
+
+      DURATION 12 months
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Non-invasive ambulatory estimation of blood oxygen saturation (SpO2) has emerged as an
+      important clinical requirement to detect hypoxia (low blood oxygen) in the delayed
+      post-infective phase of COVID- 19, where dangerous hypoxia may occur in the absence of
+      subjective breathlessness. This now commonly termed 'silent' hypoxia presents an immediate
+      clinical driver.
+
+      The COVID-19 pandemic places substantial pressure on clinical resources with ambulatory
+      patients who were often discharged home to be cared for on virtual wards with daily telephone
+      consults. Now the initial surge has settled, we are beginning to understand the challenge of
+      following up patients who have had COVID-19 at volumes that mean doing this in a timely
+      fashion is not possible (BTS Guidance 6 weeks).
+
+      There is mounting concern that the huge number of COVID-19 survivors will be at increased
+      risk of chronic lung diseases such as pulmonary fibrosis, where early capture of patterns of
+      low SpO2 could unearth desperately needed insights for preventing disease progression. The
+      inconveniences, impracticalities and inaccuracies of conventional measurement of SpO2 (the
+      percentage unit of blood oxygen) using a conventional finger probe for discrete readings are
+      well established. A user-friendly, remote continuous SpO2 monitoring tool would therefore
+      allow the rapid identification of any deterioration post discharge and also track longer-term
+      recovery, allowing the accurate triage of patients to limited follow up resources.
+
+      Hearables and In-Ear Photoplethysmography
+
+      Reflective photoplethysmography (PPG), which uses a changes in the ratio between red and
+      infrared light to estimate SpO2, can be measured from any site with skin that has
+      vasculature, but for SpO2 measurement has conventionally been from fingers or sometimes the
+      earlobe. The recent interest in the development of Hearables9 has promoted the ear canal as a
+      preferred site for the measurement of vital signs in digital health technology. Indeed, the
+      ear canal, which acts as a shield from external electrical noise (resembling a nature-built
+      Faraday cage), represents a unique opportunity for physiological measurements, due to its
+      general fixed position relative to the heart (ear-electrocardiogram) and proximity to the
+      brain (ear-electroencephalogram). Relative to limbs, the head moves less in daily life and
+      this is one property that has helped establish the feasibility of wearables to detect Ear-ECG
+      and Ear-EEG.
+
+      Unlike the finger and ear lobe PPG signal, in-ear PPG has shown that the ear canal, owing to
+      being a narrow cavity with consistent blood supply, offers a signal which is stable and
+      resistant to changes in blood volume occurring during hypothermia . This attribute has
+      established the ear canal as a preferred site for accurate core body temperature measurement.
+      In-ear PPG has also been shown to be far more sensitive than earlobe and finger PPG to
+      amplitude variations that arise from respiration, thus allowing for a better measurement of
+      respiratory rate. Furthermore, a significant delay has been evidenced between earlobe pulse
+      oximetry and pulse oximetry on the hand or the foot for detection of hypoxemia (low levels of
+      blood oxygen)..
+
+      Previous work led by Professor Mandic's group in the Faculty of Engineering showed that in a
+      study of 14 healthy volunteers in-ear PPG compared with the current standard of care - the
+      finger clip -- the in-ear sensor shows non-inferiority and potential superiority with regard
+      to detection of a mean blood oxygen delay (the time it took from detecting minimal blood
+      oxygen change in the ear to detecting minimal blood oxygen in the finger) reduction of 12.4
+      seconds, thus being faster at identifying acute desaturation.
+
+      RATIONALE FOR CURRENT STUDY
+
+      This project sets out to establish the feasibility of SpO2 measurement from the ear canal as
+      a convenient site for monitoring in the post COVID-19 follow up patient population, and
+      perform a comprehensive comparison with the right index finger - the conventional clinical
+      measurement site. The initial phase of the study will start with a total of n = 60 patients;
+      30 patients, who will be attending hospital as part of their routine clinical post COVID-19
+      follow up, which already includes SpO2 monitoring and a six minute walk test (6MWT). This
+      study will also recruit a further 30 patients with chronic lung disease also attending for
+      these routine outpatient investigations.
+
+      The continuous monitoring and rapid detection of desaturation can provide earlier warning of
+      deterioration or detailed tracking of an improving trajectory. Current alternative monitoring
+      strategies are reactive and all revolve around the classical finger or earlobe clip, which
+      are less sensitive and present a number of challenges for continual monitoring. Living daily
+      life with a finger clip, or even an earlobe clip, is problematic with much higher signal
+      noise from movement artefacts with the finger clip compared to the ear bud placed within a
+      stable head position.
+
+      From a patient perspective, the ear bud form factor that will be used in this study is
+      familiar to them, being similar to an in-ear headphone, and will be much less intrusive to
+      daily activities than a finger clip. Therefore the potential for continuous monitoring during
+      the active day and the night time is much more user-friendly, and vital for the younger and
+      potentially more active COVID-19 patients. Continuous monitoring would allow the development
+      of protocolised management pathways to provide increasing levels of supported self-care to
+      patients, freeing up vital resources during future pandemics.
+
+      The data generated in this pilot feasibility study would allow scaling to prepare for larger
+      research projects in any subsequent surge discharge and follow up. The next stage would move
+      to outpatient monitoring, with ambulatory patients going home with the device and the
+      incorporation of further COVID patient populations such as inpatients being monitored for
+      deterioration, where these devices could provide accurate continuous monitoring of SpO2,
+      detecting any deterioration before they develop breathlessness and their condition becomes
+      life threatening. This project therefore directly complements the NHS' strategic priority for
+      early supported discharge monitoring for COVID-19 positive patients and follow up for
+      long-term complications.
+
+      The COVID-19 follow up clinic cohort (n = 30) is ideally placed to evaluate this technology;
+      from a quantitative point of view, a significant number of these patients will likely
+      experience desaturation during the 6MWT, serving as an opportunity to test the device's
+      ability to detect this. Qualitatively, since many of these patients will have either had
+      hospital admissions or home monitoring -- and therefore lived experience of SpO2 monitoring
+      -- they are uniquely qualified to offer valuable input on user experience. Similarly, the
+      chronic lung disease cohort (n = 30), attending for routine OP baseline SpO2 measurement and
+      6MWT are also well-suited to this study.
+
+      In the long term this technology will also prove an invaluable device for the home monitoring
+      of respiratory patients. Beyond the current pandemic there exists a general quest for more
+      personalised health data, such that pulse oximetry measurement of capillary oxygen saturation
+      (SpO2) will likely expand into both the clinical and consumer market of wearable health
+      technology in the near future.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 26, 2020</start_date>
+  <completion_date type="Anticipated">August 26, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 26, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>In-Ear vs finger SpO2</measure>
+    <time_frame>12 months for full participant recruitment (actual head-to head comparison takes 1 minute for baseline reading and 6 minutes for 6-min walk test per patient)</time_frame>
+    <description>Mean error and root mean square error; measurements for statistical significance using a paired t-test.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <condition>Pulmonary Disease</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 Follow up clinic</arm_group_label>
+    <description>Patients attending routine post-COVID-19 follow up clinic</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pulmonary Disease clinic</arm_group_label>
+    <description>Patients attending routine outpatient appointment for pulmonary disease</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>EarSats Pulse Oximeter Probe</intervention_name>
+    <description>Off-the-shelf pulse oximeter embedded into a memory foam ear plug for measuring blood oxygen saturation (SpO2) from the ear canal; in-ear SpO2 measured at-rest and during 6 minute walk test</description>
+    <arm_group_label>COVID-19 Follow up clinic</arm_group_label>
+    <arm_group_label>Pulmonary Disease clinic</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Outpatient population attending either COVID-19 follow up or chronic respiratory disease
+        clinic
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients attending respiratory clinic either for COVID-19 follow up or for chronic
+             lung disease.
+
+          -  Able to give informed consent (where not able to use CIE, paper consent form will be
+             made available)
+
+        Exclusion Criteria:
+
+          -  Abnormal ear canal anatomy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicholas Peters, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Patrik Bachtiger, MBBS</last_name>
+    <phone>07814396281</phone>
+    <email>p.bachtiger@imperial.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cheuk F Wong</last_name>
+    <phone>02075949832</phone>
+    <email>cheuk-fung.wong@imperial.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Imperial College Healthcare NHS Trust</name>
+      <address>
+        <city>London</city>
+        <state>Non-US/Non-Canadian</state>
+        <zip>E5 0LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrik Bachtiger</last_name>
+      <phone>07814396281</phone>
+      <email>p.bachtiger@imperial.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Goverdovsky V, von Rosenberg W, Nakamura T, Looney D, Sharp DJ, Papavassiliou C, Morrell MJ, Mandic DP. Hearables: Multimodal physiological in-ear sensing. Sci Rep. 2017 Jul 31;7(1):6948. doi: 10.1038/s41598-017-06925-2.</citation>
+    <PMID>28761162</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 27, 2020</study_first_posted>
+  <last_update_submitted>August 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Held within Imperial College London as per standard local data protection guidelines. Data may be considered for sharing upon reasonable request.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

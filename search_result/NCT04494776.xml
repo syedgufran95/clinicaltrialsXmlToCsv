@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2206">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04494776</url>
+  </required_header>
+  <id_info>
+    <org_study_id>30631820.0.1001.8098</org_study_id>
+    <nct_id>NCT04494776</nct_id>
+  </id_info>
+  <brief_title>SARS-COV-2 Infection in Kidney Transplant Recipients: a Brazilian Multicenter Study</brief_title>
+  <official_title>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-COV-2) Infection (COVID-19) in Kidney Transplant Recipients: a Brazilian Multicenter Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Helio Tedesco Silva Junior</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital do Rim e Hipertensão</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital do Rim e Hipertensão</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 is the pandemic disease caused by the SARS-CoV-2 coronavirus. It is a highly
+      contagious viral disease, the condition of which main clinical symptoms are characterized by
+      fever and respiratory symptoms. Evidence indicates to worse outcomes in patients with
+      pre-existing diseases, such as diabetes, arterial hypertension, heart disease, pneumopathies,
+      chronic kidney disease, and immunodeficiencies. Recipients of kidney transplants make
+      prolonged use of immunosuppressive drugs to inhibit the acquired immune response, notably the
+      activity of lymphocytes. Due to this potential to modulate the immune and inflammatory
+      response, it is speculated that the clinical and laboratory condition of COVID-19 in these
+      patients is atypical. Preliminary evidence suggests worse outcomes of COVID-19 in
+      immunosuppressed patients, as carriers of cancer. However, information on kidney transplant
+      recipients is insufficient. So far, only reports of the case are available in the literature
+      with different clinical presentations and outcomes. The aim of this study is, therefore, to
+      characterize the demographics, clinical and laboratory conditions, and the outcomes of
+      COVID-19 in kidney transplant recipients in a national multicenter cohort.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 is the pandemic disease caused by the SARS-CoV-2 coronavirus. It is a highly
+      contagious viral disease, the condition of which main clinical symptoms are characterized by
+      fever and respiratory symptoms. Evidence indicates to worse outcomes in patients with
+      pre-existing diseases, such as diabetes, arterial hypertension, heart disease, pneumopathies,
+      chronic kidney disease, and immunodeficiencies. Recipients of kidney transplants make
+      prolonged use of immunosuppressive drugs to inhibit the acquired immune response, notably the
+      activity of lymphocytes. Due to this potential to modulate the immune and inflammatory
+      response, it is speculated that the clinical and laboratory condition of COVID-19 in these
+      patients is atypical. Preliminary evidence suggests worse outcomes of COVID-19 in
+      immunosuppressed patients, as carriers of cancer. However, information on kidney transplant
+      recipients is insufficient. So far, only reports of the case are available in the literature
+      with different clinical presentations and outcomes. The aim of this study is, therefore, to
+      characterize the demographics, clinical and laboratory conditions (mechanical ventilation,
+      need for dialysis, need for ICU admission during evolution) and the outcomes of COVID-19
+      (death and graft loss within 3 months after infection up to 3 months after resolution) in
+      kidney transplant recipients in a national multicenter cohort.Inclusion Criteria:1. Kidney
+      transplant recipients, which may be multi-organ recipients, transplanted in any follow-up
+      period; 2. Positive diagnostic test for COVID-19 (detection of viral load, test for detection
+      of antigens or tests for detection of antibodies); 3.Outpatient or hospital management;
+      4.Adults and children. Exclusion Criteria: None
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 21, 2020</start_date>
+  <completion_date type="Anticipated">April 2, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 3, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Death</measure>
+    <time_frame>Up to 3 months after resolution</time_frame>
+    <description>Death within 3 months after infection (Yes/No).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Graft loss</measure>
+    <time_frame>Up to 3 months after resolution</time_frame>
+    <description>Graft loss up to 3 months after infection (Yes/No).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization</measure>
+    <time_frame>Until discharge date, an average of 1 month</time_frame>
+    <description>Composite outcomes: Mechanical ventilation (Yes/No); Need for dialysis (Yes/No); Need for ICU admission during evolution (Yes/No).</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>Kidney Transplant Infection</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID-19 kidney transplant recipients confirmed by diagnostic test.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Kidney transplant recipients, which may be multi-organ recipients, transplanted in any
+             follow-up period;
+
+          2. Positive diagnostic test for COVID-19 (detection of viral load, test for detection of
+             antigens or tests for detection of antibodies);
+
+          3. Outpatient or hospital management;
+
+          4. Adults and children.
+
+        Exclusion Criteria:
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jose Osmar Medina</last_name>
+    <role>Study Director</role>
+    <affiliation>Hospital do Rim</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Helio Tedesco</last_name>
+    <phone>+55 11 5087-8113</phone>
+    <email>heliotedesco@medfarm.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Monica Nakamura</last_name>
+    <phone>+55 11 5087 8318</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital do Rim</name>
+      <address>
+        <city>São Paulo</city>
+        <state>Aão Paulo</state>
+        <zip>04038-002</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Conti P, Ronconi G, Caraffa A, Gallenga CE, Ross R, Frydas I, Kritas SK. Induction of pro-inflammatory cytokines (IL-1 and IL-6) and lung inflammation by Coronavirus-19 (COVI-19 or SARS-CoV-2): anti-inflammatory strategies. J Biol Regul Homeost Agents. 2020 March-April,;34(2):327-331. doi: 10.23812/CONTI-E.</citation>
+    <PMID>32171193</PMID>
+  </reference>
+  <reference>
+    <citation>D'Antiga L. Coronaviruses and Immunosuppressed Patients: The Facts During the Third Epidemic. Liver Transpl. 2020 Jun;26(6):832-834. doi: 10.1002/lt.25756. Epub 2020 Apr 24.</citation>
+    <PMID>32196933</PMID>
+  </reference>
+  <reference>
+    <citation>Liang W, Guan W, Chen R, Wang W, Li J, Xu K, Li C, Ai Q, Lu W, Liang H, Li S, He J. Cancer patients in SARS-CoV-2 infection: a nationwide analysis in China. Lancet Oncol. 2020 Mar;21(3):335-337. doi: 10.1016/S1470-2045(20)30096-6. Epub 2020 Feb 14.</citation>
+    <PMID>32066541</PMID>
+  </reference>
+  <reference>
+    <citation>Zhu L, Xu X, Ma K, Yang J, Guan H, Chen S, Chen Z, Chen G. Successful recovery of COVID-19 pneumonia in a renal transplant recipient with long-term immunosuppression. Am J Transplant. 2020 Jul;20(7):1859-1863. doi: 10.1111/ajt.15869. Epub 2020 Mar 31.</citation>
+    <PMID>32181990</PMID>
+  </reference>
+  <reference>
+    <citation>Guillen E, Pineiro GJ, Revuelta I, Rodriguez D, Bodro M, Moreno A, Campistol JM, Diekmann F, Ventura-Aguiar P. Case report of COVID-19 in a kidney transplant recipient: Does immunosuppression alter the clinical presentation? Am J Transplant. 2020 Jul;20(7):1875-1878. doi: 10.1111/ajt.15874. Epub 2020 Apr 9.</citation>
+    <PMID>32198834</PMID>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 31, 2020</study_first_posted>
+  <last_update_submitted>July 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital do Rim e Hipertensão</investigator_affiliation>
+    <investigator_full_name>Helio Tedesco Silva Junior</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>SARS-CoV-2 Infection</keyword>
+  <keyword>Kidney Transplant Infection</keyword>
+  <keyword>Kidney Transplant</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

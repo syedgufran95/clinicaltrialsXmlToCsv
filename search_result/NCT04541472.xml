@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2674">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04541472</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020 COVISTRESS Dental Surgery</org_study_id>
+    <nct_id>NCT04541472</nct_id>
+  </id_info>
+  <brief_title>Influence of the COVId-19 Pandemic on the STRESS of Dental Surgeons (COVISTRESS - Dental Surgery)</brief_title>
+  <official_title>Influence of the COVId-19 Pandemic on the STRESS of Dental Surgeons</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Clermont-Ferrand</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Faculty of Medicine and Paramedical Professions, Clermont-Ferrand, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Clermont-Ferrand</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus has caused containment of more than half of the world's population and a major
+      and rapid reorganization of clinical and support services. The spread of coronavirus
+      (COVID-19) has posed significant challenges for dental surgeons and associates who are at
+      high risk of COVID-19 infection due to close face-to-face contact. However, there is
+      currently no data on the influence of this epidemic on the practice and feelings of dental
+      surgeons and associates
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an observational study by REDCap questionnaire® via an internet link, which will be
+      distributed to dental surgeons and associates by any means The self-survey will assess
+      stress, working conditions and changes in practices related to the coronavirus outbreak. This
+      Dental Surgery questionnaire includes 16 questions
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Stress measures</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Attitudes and stress from dental surgeons will be measured via questionnaire</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sociodemographic characteristics</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Age, gender, qualification, personal work status, ethnicity and life characteristics will be assessed by questionnaires</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>occupation perception</measure>
+    <time_frame>Day 1</time_frame>
+    <description>the perception about occupation will be assessed by questionnaires</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>work conditions</measure>
+    <time_frame>Day 1</time_frame>
+    <description>work conditions will be assessed by questionnaires</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in practices</measure>
+    <time_frame>Day 1</time_frame>
+    <description>changes in practices related to coronavirus pandemic will be assessed by questionnaires</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Dental Surgeon</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Dental surgeons and associates
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All dental surgeons and associates volunteers to participate
+
+        Exclusion Criteria:
+
+          -  None
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lise Laclautre</last_name>
+    <phone>0473754963</phone>
+    <email>promo_interne_drci@chu-clermontferrand.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital, Clermont Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lise LACLAUTRE</last_name>
+      <phone>0473754963</phone>
+      <email>promo_interne_drci@chu-clermontferrand.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Frederic DUTHEIL</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Dental surgery</keyword>
+  <keyword>Stress</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2462">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527614</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PICOV2021</org_study_id>
+    <nct_id>NCT04527614</nct_id>
+  </id_info>
+  <brief_title>Influence of Prior Infection With COVID-19 on Occurrence of Influenza-like Illness or Acute Respiratory Infection</brief_title>
+  <acronym>PICOV</acronym>
+  <official_title>Influence of Prior Infection With COVID-19 on Occurrence of Influenza-like Illness or Acute Respiratory Infection (PICOV) A Multicentre Academic Prospective Cohort Study in Nursing Home During the Winter Season 2020-2021</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sciensano</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Mensura EDPB</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institute of Tropical Medicine, Belgium</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Université Libre de Bruxelles</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sciensano</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Each Belgian winter season is characterized by a wave of influenza like and
+      respiratory symptoms. Especially, the elderly people are more vulnerable to be infected by
+      influenza, but also RSV. The recent COVID-19 pandemic and eventually a next wave, will
+      increase the prevalence of influenza like and respiratory symptoms.
+
+      Method: A multicentre non-commercial cohort study will be conducted in nursing home staff and
+      residents during the Winter season 2020-2021.
+
+      Objectives: Primary objective is the difference in incidence of influenza like and
+      respiratory symptoms between cases (cases have evidence of past infection with SARS-CoV-2,
+      referred to as Covid +) and controls (controls have no evidence of previous infection and are
+      referred to as Covid -). The primary outcome analysis as well as the secondary outcome
+      analyses will use two strata: nursing home staff and nursing home residents. The secondary
+      objectives are the difference in incidence of COVID-19, influenza, RSV infections confirmed
+      by PCR between cases and controls, to define a correlate of protection in the covid + group
+      against re-infection with SARS-CoV-2 based on the study of the pre-existing antibody profile
+      (antigen specificity, antibody type and antibody level) at the time of re-exposure. A
+      multiplex assay will be used to assess the antibody profile. Finally, to study the COVID-19
+      disease severity (7 point WHO ordinal scale, this includes a.o. hospitalisation, mechanical
+      ventilation need and ICU admission, mortality) based on the presence/absence of pre-existing
+      antibodies and the pre-existing antibody profile. For other respiratory infections we will
+      study the need for hospitalization and mortality.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">May 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to occurrence of ILI and ARI both in participants previously exposed to SARS-COV-2 and controls</measure>
+    <time_frame>up to 8 months</time_frame>
+    <description>This study will assess the time to the occurrence of influenza-like illness (ILI) or acute respiratory infection (ARI) in subjects previously COVID+ compared to subjects known as COVID- (controls), more specifically subjects will belong to two subgroups: nursing home residents (65+) and nursing home staff (18-65y). COVID+ is defined as a past SARS-CoV-2 infection.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with ILI or ARI, diagnosed with COVID-19, influenza, RSV</measure>
+    <time_frame>up to 8 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Validation of (SimplySpiro) to replace nasopharyngeal swabs</measure>
+    <time_frame>up to 8 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identify the antibody characteristics in participants with reinfection with SARS-CoV-2</measure>
+    <time_frame>up to 8 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of the pre-existing antibody characteristics for COVID-19 with disease severity.</measure>
+    <time_frame>up to 8 months</time_frame>
+    <description>Disease severity will be measured by hospitalization and mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of the level of neutralization antibodies against influenza subtypes with protection against influenza reinfection</measure>
+    <time_frame>up to 8 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Influenza, Human</condition>
+  <condition>SARS Virus</condition>
+  <condition>COVID-19</condition>
+  <condition>Espiratory Tract Infections</condition>
+  <arm_group>
+    <arm_group_label>COVID+</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants with a previous SARS-CoV-2 infection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants without a previous SARS-CoV-2 infection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>qRT-PCR and serology</intervention_name>
+    <description>qRT-PCR and serology</description>
+    <arm_group_label>COVID+</arm_group_label>
+    <arm_group_label>COVID-</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Being a staff member or resident from te participating nursing homes
+
+          -  The subject should be aged 18 years or older, have a Belgian National Number and be
+             insured by a Belgian sickness fund.
+
+          -  All subjects that are cognitively capable to give consent themselves to participate in
+             the study.
+
+        Exclusion Criteria:
+
+          -  Insufficient knowledge of the Dutch or French language.
+
+          -  Residents with a previous diagnosis of dementia having a mini-mental state examination
+             (MMSE) below 18/30.
+
+          -  Participants which life-expectancy is less than the time of the study.
+
+          -  Staff members not expected to continue working at the nursing home during the winter
+             season.
+
+          -  Participants for whom veins are not accessible for simple periphery blood puncture.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Sciensano</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1050</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>August 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 26, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sciensano</investigator_affiliation>
+    <investigator_full_name>Maria Gpossens</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

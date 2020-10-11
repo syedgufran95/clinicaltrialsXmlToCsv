@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2671">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04519385</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SouthVU</org_study_id>
+    <nct_id>NCT04519385</nct_id>
+  </id_info>
+  <brief_title>Toclizumam Versus Dexamethasone in Severe Covid-19 Cases</brief_title>
+  <official_title>Toclizumam Versus Dexamethasone in Severe Covid-19 Cases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>South Valley University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>South Valley University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      randomized controlled trial comparing survival benefit of Tocilizumab therapy with
+      dexamethasone in patients with severe COVID 19
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The current study takes place in the ICU of ESNA hospital, the first COVID-19 quarantine
+      hospital in Egypt, located in Upper Egypt, Luxor governorate during the period from March
+      2020 to June 2020.
+
+      The diagnosis of COVID-19 was made with a positive RT-PCR assay performed on a nasal swab. We
+      have collected data on patients' demographics, comorbidities, symptoms, oxygen support, the
+      ratio of partial pressure of arterial oxygen over the fraction of inspired oxygen (PaO2/FiO2
+      ratio), laboratory values (complete blood count, CRP, D-Dimer, ferritin, AST, ALT),
+      diagnostic workup, therapies, complications, and outcomes.
+
+      Patients were given conventional treatment for COVID-19, including, hydroxychloroquine with a
+      loading dose of 400 mg twice daily followed by 200 mg per day twice daily for additional five
+      days and azithromycin 500 mg per day for five days unless contraindicated. An
+      electrocardiogram was obtained for each patient to check the corrected QT interval at
+      baseline.
+
+      In addition to conventional treatment, patients were randomly assigned to either
+      dexamethasone group or tocilizumab (TCZ) group according to random tables.
+
+      Eligibility for study included patients with significant deterioration in respiratory
+      clinical status with respiratory rate &gt; 30 cycle/minute, Bilateral CT infiltration &gt; 30%,
+      PaO2/FiO2 ratio &lt;150 or saturation &lt;90 on &gt;6L/min, Two positive laboratory tests of: (CRP&gt;100
+      g/dL, lymphocytes&lt;600 /mm3, D dimer&gt;L, Ferritin &gt;500).Interleukin 6 levels were not part of
+      the criteria because it did not necessarily result in an actionable time frame.
+
+      Pediatric patients &lt; 18 years old, patients with an active bacterial or fungal infection, and
+      patients who were not requiring supplemental oxygen were excluded from the study.
+
+      No sample-size calculations were performed. The endpoint was time to failure, defined as
+      death, within 14 days from ICU admission. Patients with a very early death reduced the risk
+      that the treatment choice was motivated by the patient's disease course. Therefore, day 3
+      from hospital admission was set as a landmark time point: those who died, before the 3rd day
+      of ICU admission, were excluded.
+
+      Treatment groups: Dexamethasone pulse therapy group:
+
+      All patients within this group received pulse Dexamethasone 4 mg/kg/day in an infusion form
+      for the 3rd day, followed by a maintenance dose of 8 mg/day for 10 days with a subsequent
+      withdrawal.
+
+      Tocilizumab group: Patients within this group received TCZ, 4 mg/kg/dose in 100 ccs normal
+      saline over one hour. The same dose was repeated after 24h if there is no improvement in
+      clinical assessment, corticosteroids (Solu-Medrol 40 mg for 5 days then 20 mg for 5 days) was
+      added.
+
+      Data was collected at day one of treatment initialization, except for (PaO2/FiO2 ratio),
+      which is also collected after 2 days from the end of the treatment and overall mortality
+      within 14 days.
+
+      All patients provided informed consent for treatment with off label agents according to the
+      local protocol approved by Hospital Authorities, for data collection and for participation in
+      the study. The study was carried out in accordance with the principles of the Declaration of
+      Helsinki and approved by the Regional Ethics Committee, Qena faculty of medicine, South-Vally
+      University.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Actual">August 5, 2020</completion_date>
+  <primary_completion_date type="Actual">July 1, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>dexamethsone group Tocilizumab group</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>single blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants with Overall Survival at 14 days</measure>
+    <time_frame>14 days</time_frame>
+    <description>survival 14 days from admission date</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Fio2/Pao2</measure>
+    <time_frame>2 days</time_frame>
+    <description>Change in Fio2/Pao2</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">69</enrollment>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>Tocilizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Tocilizumab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dexamethasone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Dexamethasone therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tocilizumab</intervention_name>
+    <description>Tocilizumab therapy</description>
+    <arm_group_label>Tocilizumab</arm_group_label>
+    <other_name>TCZ</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>dexamethsone pulse therapy</description>
+    <arm_group_label>Dexamethasone</arm_group_label>
+    <other_name>dexamethsone pulse therapy</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  respiratory rate &gt; 30 cycle/minute, Bilateral CT infiltration &gt; 30%, PaO2/FiO2 ratio
+             &lt;150 or saturation &lt;90 on &gt;6L/min, Two positive laboratory tests of: (CRP&gt;100 g/dL,
+             lymphocytes&lt;600 /mm3, D dimer&gt;L, Ferritin &gt;500)
+
+        Exclusion Criteria:
+
+          -  Pediatric patients &lt; 18 years old, patients with active bacterial or fungal infection
+             and patients who were not requiring supplemental oxygen
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alaa R rashad, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>South Valley University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Qena faculty medicine</name>
+      <address>
+        <city>Qinā</city>
+        <zip>83523</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 19, 2020</study_first_posted>
+  <last_update_submitted>August 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>South Valley University</investigator_affiliation>
+    <investigator_full_name>Alaa Rashad</investigator_full_name>
+    <investigator_title>Assistant professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <keyword>Tocilizumab</keyword>
+  <keyword>dexamethsone</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

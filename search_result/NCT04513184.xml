@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="284">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04513184</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DI/20/407/04/36</org_study_id>
+    <nct_id>NCT04513184</nct_id>
+  </id_info>
+  <brief_title>Randomized Clinical Trial of Intranasal Dexamethasone as an Adjuvant in Patients With COVID-19</brief_title>
+  <official_title>Randomized Clinical Trial of Intranasal Dexamethasone as an Adjuvant in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Edda Sciutto Conde</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital General de México Dr. Eduardo Liceaga</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Instituto Nacional de Cardiologia Ignacio Chavez</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>El Instituto Nacional de Neurologia y Neurocirugia Manuel Velasco Suarez</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universidad Nacional Autonoma de Mexico</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Clinical Trial evaluates nasal administration of Dexamethasone as an adjuvant treatment
+      strategy for non-critically ill hospitalized participants with SARS CoV-2 infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Approximately 30% of the admitted patients with Covid-19 require admission to the intensive
+      care unit for respiratory assistance, ranging from a high flow nasal cannula to invasive
+      ventilation. These patients are affected by respiratory dysfunctions and even dysfunction of
+      the brain respiratory control centers. Additionally, exacerbated inflammation leads to
+      endothelial and coagulation disorders that aggravate the course of the illness. No effective
+      therapy has yet been found to treat forms SARS-CoV-2 bass. One of the adjunctive therapeutic
+      alternatives addressed is the use of intravenously administered glucocorticoids (GC), aimed
+      at reducing exacerbated peripheral inflammation. They have been used at early stages of
+      infection in high doses and with controversial results. In our laboratory at the Biomedical
+      Research Institute from the National Autonomous University of Mexico (UNAM), we have shown
+      that dexamethasone, a GC (DXM) administered intranasally, reaches the central nervous system
+      through the olfactory nerve (alike various pathogens, including coronaviruses) and reduces
+      neuroinflammation more effectively than when applied intravenously. Additionally,
+      biodistribution studies indicate that the DXM is detectable from the first minute after its
+      application, both in the central nervous system and in the respiratory system. The objective
+      of this study is to evaluate the safety, efficacy and tolerability of dexamethasone in
+      patients hospitalized with SARS-CoV-2 with moderate-severe forms, with an without the
+      requirement of mechanic ventilation, including syndrome of acute respiratory distress or
+      pneumonia (as diagnosed by CAT) with alveolar / interstitial lung involvement.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">August 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multicenter, randomized, controlled trial adult patients with confirmed COVID-19 infection</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time of clinical improvement</measure>
+    <time_frame>10 days after randomization</time_frame>
+    <description>Evaluation of the clinical status of patients after randomization, defined as a two point improvement in the WHO 7-point Ordinal Scale</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time-to-death from all causes</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>All-cause mortality rates at 28 days after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time free from mechanical ventilation</measure>
+    <time_frame>10 days after randomization</time_frame>
+    <description>Ventilator-free days, defined as alive and not requiring mechanical ventilation, at 10 days after randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral load</measure>
+    <time_frame>10 days after randomization</time_frame>
+    <description>Virological measurements, including proportions with detection of viral RNA over time and measurements of viral RNA titer area under the curve (AUC).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>10 days after randomization</time_frame>
+    <description>Length of hospital stay in days</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Standard therapy (ST) only</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Control. Standard care and treatment only</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DXM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nasal dexamethasone plus Standard care and treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IV Dexamethasone</intervention_name>
+    <description>6 mg from Day 1 to 10 after randomization</description>
+    <arm_group_label>Standard therapy (ST) only</arm_group_label>
+    <other_name>ST</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nasal Dexamethasone</intervention_name>
+    <description>0.12 mg/kg/daily for 3 days from day 1, followed by 0.06 mg/kg/daily from day 4 to 10 after randomization.</description>
+    <arm_group_label>DXM</arm_group_label>
+    <other_name>Nasal DXM</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Positive diagnosis of SARS-CoV-2 by real-time RT-PCR in oropharyngeal sample.
+
+          -  7 days or more after the start of the infection
+
+          -  Hospitalized patients with moderate to severe respiratory complications that do not
+             have received mechanical ventilation.
+
+          -  Patients receiving standard therapy at the Hospital General de México Eduardo Liceaga.
+
+          -  Signing of the informed consent form
+
+          -  Patients of both sexes (non-pregnant female) 18 years of age or older will be eligible
+             if they have a positive diagnostic sample by RT-PCR, pneumonia confirmed by chest
+             imaging and oxygen saturation (SaO2) &lt; 93% at ambient air or a ratio of the partial
+             pressure of oxygen (PaO2) to the fraction of inspired oxygen (FiO2) (PaO2: FiO2) at
+             300 mg Hg or less
+
+        Exclusion Criteria:
+
+          -  Patients participating in another research protocol.
+
+          -  Patients receiving oral or intravenous glucocorticoids
+
+          -  Immunosuppressed patients (including HIV infection)
+
+          -  Glaucoma patients.
+
+          -  Patients with allergy to dexamethasone.
+
+          -  Pregnant or lactating women
+
+          -  Concomitant autoimmune diseases
+
+          -  Refusal by the patient or family to participate in the study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edda Sciutto, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Instituto de Investigaciones Biomédicas, UNAM</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Graciela A Cárdenas-Hernández, PhD</last_name>
+    <phone>+525556063822</phone>
+    <phone_ext>2012</phone_ext>
+    <email>gracielacardenas@yahoo.com.mx</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>María Chavez-Canales, PhD</last_name>
+    <phone>525527282179</phone>
+    <email>maria@iibiomedicas.unam.mx</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital General de Mexico Dr. Eduardo Liceaga</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Cdmx</state>
+        <zip>06720</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ana María H Espinosa-García, PhD</last_name>
+      <phone>5527892000</phone>
+      <phone_ext>1683</phone_ext>
+      <email>anaesga@hotmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Joselín Hernández-Ruiz, PhD</last_name>
+      <phone>5527892000</phone>
+      <phone_ext>1683</phone_ext>
+      <email>hernandezjoselin@hotmail.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Cardiología Ignacio Chávez</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Cdmx</state>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>María Chávez-Canales, PhD</last_name>
+      <phone>525527282179</phone>
+      <email>maria@iibiomedicas.unam.mx</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>El Instituto Nacional de Neurologia Y Neurocirugia Manuel Velasco Suarez</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Cdmx</state>
+        <zip>14269</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Graciela Cárdenas-Hernández, PhD</last_name>
+      <phone>525556063822</phone>
+      <phone_ext>2012</phone_ext>
+      <email>gracielacardenas@yahoo.com.mx</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 14, 2020</study_first_posted>
+  <last_update_submitted>August 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad Nacional Autonoma de Mexico</investigator_affiliation>
+    <investigator_full_name>Edda Sciutto Conde</investigator_full_name>
+    <investigator_title>Researcher</investigator_title>
+  </responsible_party>
+  <keyword>Dexamethasone</keyword>
+  <keyword>SARS CoV-2 infection</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Severe Acute Respiratory Syndrome</keyword>
+  <keyword>Nasal administration</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Information exchange for research purposes</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Upon study completion, by request</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

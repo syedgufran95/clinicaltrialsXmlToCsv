@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2909">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04324463</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PHRI.ACT.COVID19</org_study_id>
+    <nct_id>NCT04324463</nct_id>
+  </id_info>
+  <brief_title>Anti-Coronavirus Therapies to Prevent Progression of Coronavirus Disease 2019 (COVID-19) Trial</brief_title>
+  <acronym>ACTCOVID19</acronym>
+  <official_title>Anti-Coronavirus Therapies to Prevent Progression of COVID-19, a Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Population Health Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Population Health Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      ACT is a randomized clinical trial to assess therapies to reduce the clinical progression of
+      COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The ACT COVID-19 program consists of two parallel trials testing the effects of interventions
+      in complementary populations in outpatients and inpatients.
+
+      In the outpatient study, symptomatic patients in the community who are COVID-19 positive and
+      at high risk of disease progression: colchicine compared with control (anti-inflammatory);
+      and ASA compared with control (anti-thrombotic); using a 2 x 2 factorial design. The primary
+      outcome for colchicine vs. control is the composite of hospitalization or death; and the
+      co-primary outcome is disease progression by 2 points on a 7-point scale. The primary outcome
+      for ASA vs. control is the composite of hospitalization or death; and the co-primary outcomes
+      are the composite of major adverse cardiovascular events (MI, stroke, ALI, VTE, death), and
+      disease progression by 2 points on a 7-point scale.
+
+      For inpatients, in symptomatic patients who are COVID-19 positive and who are hospitalized:
+      interferon-β is compared with control (anti-viral); colchicine is compared with control
+      (anti-inflammatory); and the combination of ASA and rivaroxaban is compared with control
+      (anti-thrombotic); using a 2 x 2 x 2 factorial design. The primary outcome for interferon-β
+      vs. control, and for colchicine vs. control is the composite of invasive mechanical
+      ventilation or death; and the co-primary outcome is disease progression by 2 points on a
+      7-point scale. The primary outcome for the combination of ASA and rivaroxaban vs. control is
+      the composite of invasive mechanical ventilation or death; and the co-primary outcomes are
+      the composite of major adverse cardiovascular events (MI, stroke, ALI, VTE, death) and
+      disease progression by 2 points on a 7-point scale.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 21, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open-label, parallel group, factorial, randomized controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Outpatient trial - Colchicine vs. control and Aspirin vs. control</measure>
+    <time_frame>45 days post randomization</time_frame>
+    <description>composite of hospitalization or death</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inpatient trial - Interferon-β vs. control and Colchicine vs. control</measure>
+    <time_frame>45 days post randomization</time_frame>
+    <description>invasive mechanical ventilation or death</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inpatient trial - Aspirin and rivaroxaban vs. control</measure>
+    <time_frame>45 days post randomization</time_frame>
+    <description>invasive mechanical ventilation or death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Outpatient and Inpatient trials - Colchicine vs. control, Interferon-β vs. control</measure>
+    <time_frame>45 days post randomization</time_frame>
+    <description>disease progression by 2 points on a 7-point scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Outpatient and Inpatient trials - Aspirin vs. control, Aspirin and rivaroxaban vs. control</measure>
+    <time_frame>45 days post randomization</time_frame>
+    <description>composite of major adverse cardiovascular events (MI, stroke, ALI, VTE, death), and disease progression by 2 points on a 7-point scale</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>Coronavirus</condition>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Colchicine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Outpatients:
+0.6 mg twice daily for 3 days, then 0.6 mg once daily for 25 days (total 28 days).
+Inpatients:
+1.2 mg followed by 0.6 mg 2 hours later, then 0.6 mg twice daily for 28 days.
+(*Depending on availability, 0.6 mg tablets can be substituted by 0.5 mg tablets for a regimen in outpatients of 0.5 mg twice daily for 3 days, then 0.5 mg once daily for 25 days [total 28 days]; and in inpatients of 1.0 mg followed by 0.5 mg 2 hours later, then 0.5 mg twice daily for 28 days).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Interferon Beta</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inpatients Only:
+0.25 mg by subcutaneous injection on days 1, 3, 5 &amp; 7</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Aspirin (ASA)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Outpatients:
+75 to 100 mg once daily for 28 days.
+Inpatients:
+75 to 100 mg once daily for 28 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rivaroxaban</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inpatients Only:
+2.5 mg twice daily for 28 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care (Control)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Outpatients and Inpatients: No constraints for treating physicians on the therapies within the standard of care arm. All key co-interventions will be documented.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colchicine</intervention_name>
+    <description>oral medication</description>
+    <arm_group_label>Colchicine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Interferon-Beta</intervention_name>
+    <description>subcutaneous injection</description>
+    <arm_group_label>Interferon Beta</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aspirin</intervention_name>
+    <description>oral medication</description>
+    <arm_group_label>Aspirin (ASA)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rivaroxaban</intervention_name>
+    <description>oral medication</description>
+    <arm_group_label>Rivaroxaban</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Outpatient trial:
+
+        Inclusion criteria:
+
+          1. Symptomatic and laboratory-confirmed diagnosis of COVID-19.
+
+          2. Age ≥18 years.
+
+          3. High risk: either age ≥70 or one of the following: male; obesity (BMI ≥30); chronic
+             cardiovascular, respiratory or renal disease; active cancer; diabetes.
+
+          4. Within 7 days (ideally 72 hours) of diagnosis, or worsening clinically.
+
+        Exclusion criteria:
+
+          1. General: advanced kidney disease; advanced liver disease; pregnancy (known or
+             potential) or lactation.
+
+          2. Colchicine: allergy or planned use; current or planned use of cyclosporine, verapamil,
+             HIV protease inhibitor, azole antifungal, or macrolide antibiotic (except
+             azithromycin).
+
+          3. ASA: allergy; high risk of bleeding, current or planned use of other anti-thrombotic
+             drugs (e.g., P2Y12 inhibitors, direct oral anticoagulants, vitamin K antagonists,
+             heparins)
+
+        Inpatient trial:
+
+        Inclusion criteria:
+
+          1. Symptomatic and laboratory-confirmed diagnosis of COVID-19.
+
+          2. Age ≥18 years.
+
+          3. Within 72 hours (ideally 24 hours) of admission, or worsening clinically.
+
+        Exclusion criteria:
+
+          1. General: advanced kidney disease; advanced liver disease, pregnancy (known or
+             potential) or lactation, already ventilated for &gt;72 hours.
+
+          2. Interferon-ß: known monoclonal gammopathy, history of severe depression/anxiety.
+
+          3. Colchicine: allergy or planned use; current or planned use of cyclosporine, verapamil,
+             HIV protease inhibitors, azole antifungals, or macrolide antibiotics (except
+             azithromycin).
+
+          4. ASA and rivaroxaban: allergy; high risk of bleeding; estimated GFR &lt;15 ml/min; current
+             or planned use of P2Y12 inhibitors or therapeutic doses of anticoagulants* (e.g.,
+             direct oral anticoagulants, vitamin K antagonists, heparin, LMWH), current or planned
+             use of strong inhibitors of both CYP 3A4 and P-gp (e.g., lopinavir/ritonavir,
+             carbamazepine, ketoconazole). *Note that prophylactic doses of anticoagulants can be
+             used in patients who are randomized to control.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Whitlock, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Population Health Research Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Emilie Belley-Cote, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Population Health Research Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Eikelboom, MBBS MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Population Health Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ACT COVID-19 Study Coordinator</last_name>
+    <phone>905-297-3479</phone>
+    <email>ACT.ProjectTeam@PHRI.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Prodal Saude S/A</name>
+      <address>
+        <city>Salvador</city>
+        <state>BA</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clinicas de Vitoria (Hospital Universitario Cassiano Antonio Moraes)</name>
+      <address>
+        <city>Vitoria</city>
+        <state>ES</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clinicas da Universidade Federal de Goias</name>
+      <address>
+        <city>Goiania</city>
+        <state>GO</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nucleo de Estudos Clinicos do Hospital de Clinicas da Universidade Federal do Triangulo Mineiro</name>
+      <address>
+        <city>Uberaba</city>
+        <state>MG</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clínicas da Universidade Federal de Uberlândia</name>
+      <address>
+        <city>Uberlândia</city>
+        <state>MG</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Julio Muller</name>
+      <address>
+        <city>Cuiabá</city>
+        <state>Mount</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario da UFPI - Filial EBSERH</name>
+      <address>
+        <city>Teresina</city>
+        <state>PI</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Gaffree e Guinle</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Prof. Dr. Horacio Carlos Panepucci da Universidade Federal de Sao Carlos (HU-UFSCar)</name>
+      <address>
+        <city>São Carlos</city>
+        <state>SP</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Alemão Oswaldo Cruz</name>
+      <address>
+        <city>São Paulo</city>
+        <state>SP</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Doencas Tropicais - HDT/UFT</name>
+      <address>
+        <city>Araguaina</city>
+        <state>TO</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hamilton Health Sciences</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8L2X2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>ACT COVID-19 Study Coordinator</last_name>
+      <email>ACT.ProjectTeam@PHRI.ca</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CIUSSS de L'est-de-l'ile de Montreal, Hopital Maisonneuve-Rosemont</name>
+      <address>
+        <city>Montreal</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southlake Regional Health Centre</name>
+      <address>
+        <city>Newmarket</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Halton Healthcare/Oakville Trafalgar Memorial Hospital</name>
+      <address>
+        <city>Oakville</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Niagara Health System-St. Catharine's</name>
+      <address>
+        <city>St. Catharines</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Western Hospital Family Health Team</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Windsor Regional Hospital</name>
+      <address>
+        <city>Windsor</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Estudios Clinicos Barros Luco Spa</name>
+      <address>
+        <city>Santiago</city>
+        <state>Region Metropolitana</state>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital El Pino</name>
+      <address>
+        <city>Santiago</city>
+        <state>Region Metropolitana</state>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica de la Costa LTDA</name>
+      <address>
+        <city>Barranquilla</city>
+        <state>Atlantico</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universidad del Norte</name>
+      <address>
+        <city>Barranquilla</city>
+        <state>Atlantico</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Diagnostico Cardiologico</name>
+      <address>
+        <city>Cartagena</city>
+        <state>Bolivar</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica de Marly - Sede UniMarly</name>
+      <address>
+        <city>Bogota</city>
+        <state>Cundinamarca</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Cometa</name>
+      <address>
+        <city>Pasto</city>
+        <state>Narino</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Cardiomet CEQUIN</name>
+      <address>
+        <city>Armenia</city>
+        <state>Quindio</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Oftalmologica de Santander - FOSCAL</name>
+      <address>
+        <city>Bucaramanga</city>
+        <state>Santander</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Centro de Investigaciones Biomedicas Riescard</name>
+      <address>
+        <city>El Espinal</city>
+        <state>Tolima</state>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Internacional La Misericordia</name>
+      <address>
+        <city>Barranquilla</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Unicormed</name>
+      <address>
+        <city>Guayaquil</city>
+        <state>Guayas</state>
+        <country>Ecuador</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Especialidades Eugenio Espejo</name>
+      <address>
+        <city>Quito</city>
+        <state>Pichincha</state>
+        <country>Ecuador</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Enrique Garces</name>
+      <address>
+        <city>Quito</city>
+        <state>Pichincha</state>
+        <country>Ecuador</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Docente de Calderon</name>
+      <address>
+        <city>Quito</city>
+        <state>Pichincha</state>
+        <country>Ecuador</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Pablo Arturo Suarez</name>
+      <address>
+        <city>Quito</city>
+        <state>Pichincha</state>
+        <country>Ecuador</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Giza Chest Hospital</name>
+      <address>
+        <city>Giza</city>
+        <state>Cairo</state>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Al Rajhi University Hospital</name>
+      <address>
+        <city>Assiut</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Abbasia Chest Hospital</name>
+      <address>
+        <city>Cairo</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Abbasia Fever Hospital</name>
+      <address>
+        <city>Cairo</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hepatology and Tropical Medicine Research Institute</name>
+      <address>
+        <city>Cairo</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fayoum General Hospital</name>
+      <address>
+        <city>Fayoum</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fayoum University Hospital</name>
+      <address>
+        <city>Fayoum</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jinnah Postgraduate Medical Center</name>
+      <address>
+        <city>Karachi</city>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tabba Heart Institute</name>
+      <address>
+        <city>Karachi</city>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Philippine General Hospital</name>
+      <address>
+        <city>Manila</city>
+        <state>Metro Manila</state>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Altai Regional Center for Medical Prevention</name>
+      <address>
+        <city>Barnaul</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Altai Regional Hospital for War Veterans</name>
+      <address>
+        <city>Barnaul</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City Clinical Hospital No. 15 named after O.M. Filatova</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Medical Research Center for Therapy and Preventive Medicine</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City Clinical Hospital No. 10</name>
+      <address>
+        <city>Nizhny Novgorod</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>City Clinical Hospital No. 3</name>
+      <address>
+        <city>Nizhny Novgorod</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rostov State Medical University</name>
+      <address>
+        <city>Rostov-on-Don</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>King Saud Medical City</name>
+      <address>
+        <city>Riyadh</city>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Thumbay Hospital Dubai</name>
+      <address>
+        <city>Al Qusais</city>
+        <state>Dubai</state>
+        <country>United Arab Emirates</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hatta Hospital</name>
+      <address>
+        <city>Hatta</city>
+        <state>Dubai</state>
+        <country>United Arab Emirates</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rashid Hospital, Dubai Health Authority</name>
+      <address>
+        <city>Umm Hurair</city>
+        <state>Dubai</state>
+        <country>United Arab Emirates</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>Colombia</country>
+    <country>Ecuador</country>
+    <country>Egypt</country>
+    <country>Pakistan</country>
+    <country>Philippines</country>
+    <country>Russian Federation</country>
+    <country>Saudi Arabia</country>
+    <country>United Arab Emirates</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>March 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 27, 2020</study_first_posted>
+  <last_update_submitted>September 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>coronavirus</keyword>
+  <keyword>interferon</keyword>
+  <keyword>colchicine</keyword>
+  <keyword>aspirin</keyword>
+  <keyword>rivaroxaban</keyword>
+  <keyword>anti-inflammatory</keyword>
+  <keyword>antithrombotic</keyword>
+  <keyword>anti-viral</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aspirin</mesh_term>
+    <mesh_term>Interferons</mesh_term>
+    <mesh_term>Interferon-beta</mesh_term>
+    <mesh_term>Colchicine</mesh_term>
+    <mesh_term>Rivaroxaban</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

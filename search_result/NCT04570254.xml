@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2309">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04570254</url>
+  </required_header>
+  <id_info>
+    <org_study_id>09-CEI-011-20160627</org_study_id>
+    <nct_id>NCT04570254</nct_id>
+  </id_info>
+  <brief_title>Antioxidants as Adjuvant Therapy to Standard Therapy in Patients With COVID-19</brief_title>
+  <acronym>ANTIOX-COVID</acronym>
+  <official_title>Open Clinical Trial of the Use of Antioxidants and Pentoxifylline as Adjuvant Therapy to Standard Therapy in Patients With and Without Septic Shock Secondary to COVID-19 Severe Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Unidad Temporal COVID-19 en Centro Citibanamex</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Instituto Nacional de Cardiologia Ignacio Chavez</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Unidad Temporal COVID-19 en Centro Citibanamex</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction: SARS-CoV2 infection produces severe pneumonia with pulmonary alveolar collapse.
+      There is no specific treatment to date. In experimental models and humans with septic shock,
+      there is a high production of nitric oxide (NO) and reactive nitrogen species (RNS) and can
+      cause multiple organ failure. The administration of antioxidants such as n-acetylcysteine
+      (NAC), vitamin C, melatonin, and vitamin E participate in increasing the intracellular
+      content of GSH, ROS sequestration, protection of the lipids of cell membranes, cytosol
+      proteins, nuclear DNA, mitochondrial and decrease LPO.
+
+      Justification: as there is no specific antiviral therapy, the therapeutic options are
+      limited, complications and mortality are high; It is intended to evaluate the effect of
+      antioxidants on the storm outcome of the dysregulation of oxidative stress.
+
+      Hypothesis: It is postulated that adjuvant therapy with antioxidants and Pentoxifylline
+      reduces the use of ventilators in patients with or without septic shock secondary to severe
+      SARS-COV2 pneumonia as decreases lipoperoxidation, and corrects dysregulation of oxidative
+      stress by increasing the antioxidant capacity.
+
+      Objectives: To evaluate whether it is possible to avoid intubation or decrease assisted
+      mechanical ventilation days, improve oxidative stress dysregulation in patients with
+      SARS-COV2 infection with severe pneumonia with or without septic shock.
+
+      Methodology: Quasi-experimental, open analytical, prospective, and longitudinal study
+      (before-after). In patients over 18 years of age who are admitted to the CITIBANAMEX Center
+      with or without septic shock secondary to severe SARS-COV2 pneumonia. There will be two
+      groups: 1) patients without septic shock and 2) patients with septic shock secondary to
+      severe pneumonia due to SARS-COV2. A single antioxidant will be applied following the
+      clinical decision tree (NAC, Vit C, Vit E, melatonin) more Pentoxifylline orally or by
+      orogastric tube for a total of 5 days from the start of the protocol. APACHE II will
+      calculate the risk, SOFA, MEXSOFA, measurements of IL-8, vitamin C, NO3 / NO2, LOP, total
+      antioxidant capacity will be carried out at baseline and 48 hours. SOFA will be calculated
+      for seven days, in addition to days of hospitalization, days of mechanical ventilation. It
+      was evaluated 28 days after discharge by telephone.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      I. Background
+
+      The SARS-CoV-2 virus has a positive-sense RNA, with a genome of approximately 27-32 kb in
+      length. COVID-2019 infection causes severe pneumonia that turns into a pulmonary alveolar
+      collapse within a few hours and leads to the cessation of oxygen exchange. The incubation
+      period for the virus is 2 to 10 days, and the clinical spectrum of the disease ranges from
+      asymptomatic infection to severe respiratory failure. There is elevated lymphopenia, lactate,
+      creatinine, and kinase dehydrogenase, and higher concentrations of interleukins such as
+      IL-1β, IL-5, IL-7, IL-8, IL-9, IL-10, IL-15, IL-12p70, FGF, GCSF, GMCSF, IFNγ, IP10, MCP1,
+      MIP1A, MIP1B, PDGF, TNF-α and VEGF.
+
+      There is no treatment for the definitive cure of COVID-19, and there is no vaccine that
+      allows prevention. Considering that the best management choice is to reestablish hemodynamic
+      status, stop organ failure, improve anti-inflammatory conditions, and improve redox status,
+      management strategies could not be randomized since individual conditions change, and
+      patients may have comorbidities at first. The studies that support antioxidant therapy in
+      septic management range from those carried out in vitro, in vivo in an animal model and
+      humans, so the evidence makes it necessary that patients treated with specific antiviral
+      drugs, or antibiotics, receive at the same time nutritional supplement and antioxidants.
+
+      The data that support each of the antioxidants as therapy in septic shock are mentioned
+      below.
+
+        1. N-ACETYL CYSTEINE.
+
+           The administration of N-acetylcysteine (NAC), a glutathione (GSH) precursor, as a
+           strategy to limit oxidative lung injury has been proposed since it increases the
+           intracellular content of GSH. Alterations in GSH metabolism, in alveoli and lung tissue,
+           are a central feature in many lung diseases. NAC increases the synthesis of GSH,
+           increases glutathione-S-transferase (GST) activity, and has a direct action on free
+           radicals (ROS). The application of NAC reduces levels of IL-8, IL-6, ICAM. NAC in
+           patients with septic shock is associated with a shorter time on mechanical ventilation
+           and fewer days of stay in the ICU.
+
+           The application of NAC reduces levels of IL-8, IL-6, ICAM. NAC in patients with septic
+           shock is associated with a shorter time on mechanical ventilation and fewer days of stay
+           in the ICU. NAC uptake and intracellular concentration can be increased through the use
+           of liposomes (L-NAC). NAC supplementation in animals exposed to lipopolysaccharides
+           (LPS) reduced lung edema, lipoperoxidation (OLP), ACE damage, chloramine concentration,
+           and concentrations of the eicosanoids thromboxane and leukotrienes (LTB2 and LTB4) in
+           the lung. In clinical trials, supplementation with a bolus of 150 mg/kg NAC followed by
+           50 mg/kg/day of NAC for four days in patients with acute lung injury ALI or ARDS
+           improved the oxygenation rate from day 1 to 4 and reduced mortality.
+
+        2. MELATONIN
+
+           Melatonin (MT) has been shown to possess ROS-sequestering properties, protects lipids in
+           cell membranes, cytosol proteins, and nuclear and mitochondrial DNA.
+
+           Furthermore, in another study, MT demonstrated anti-apoptotic, antioxidant, and
+           pleiotropic anti-inflammatory effects in vitro and in vivo as direct elimination
+           activity against ROS and stimulation of antioxidant enzymes, such as CAT, SOD, GPx, GR,
+           and gamma-glutamylcysteine synthase, MT can accumulate within the mitochondria and thus
+           reduce the local excess production of ROS, which is typical in dysfunctional
+           mitochondria during sepsis. Based on these favorable preliminary data, randomized
+           control trials are warranted to assess TM's efficacy and safety as an add-on treatment
+           in COVID-19 sepsis. The previously mentioned studies have recommended its use in sepsis,
+           which should be considered in COVID-19 since it is also accessible, and its cost is low,
+           making it possible to weigh the risk/benefit in the event of a pandemic.
+
+        3. VITAMIN C
+
+           Ascorbic acid, or vitamin C, is a water-soluble antioxidant that functions as a cofactor
+           for multiple enzymes. It is absorbed at the intestinal level through the
+           sodium-dependent transporter of vitamin C, filtered freely in the glomerulus, and
+           reabsorbed at the proximal tubule level through the same transporter. Ascorbic acid
+           inhibits the production of superoxide (O2-) and peroxynitrite (OONO-) by inhibiting
+           superoxide-producing NADPH oxidase (O2-) and inducible nitric oxide (iNOS) mRNA
+           expression, which prevents the abundant production of nitric oxide (NO) that generates
+           peroxynitrite (OONO-) in the presence of O2-.
+
+        4. PENTOXIFILINA.
+
+      Pentoxifylline is a xanthine drug indicated in some severe alcoholic hepatitis; it also acts
+      on the plasma membrane of red blood cells and makes it more malleable, thus improving blood
+      perfusion. Pentoxifylline exerts several antioxidant and anti-inflammatory activities, such
+      as reducing the restoration of GSH levels, maintaining mitochondrial viability, inhibiting
+      the production of TNF-α, preserving vascular endothelial functions, and also supplementation
+      with antioxidants has been reported better oxygenation rates, higher GSH, and more robust
+      immune response. Also, there was a reduction in hospital stay length, the time of mechanical
+      ventilation, the length of the ICU stays, the multiple organ dysfunction rate, and the
+      mortality rate in patients with ALI / ARDS.
+
+      II. Research question
+
+      Will the administration of adjuvant therapy with specific antioxidant and pentoxifylline in
+      patients with or without septic shock secondary to severe pneumonia due to COVID-19, will it
+      avoid the use of mechanical ventilation, reduce the time of use of a mechanical ventilator,
+      days of hospital stay, decrease the lipoperoxidation and will it increase the antioxidant
+      capacity in patients admitted to intensive care?
+
+      III. Justification
+
+      In this COVID-19 pandemic, severe pneumonia and septic shock are the leading cause of
+      morbidity and mortality in intensive care units worldwide. In this sense, and based on the
+      discoveries of recent years in the field of oxidative stress, including those recently found
+      in our group, it is necessary to report results on new treatments capable of reducing the
+      deleterious inflammatory response and the redox state. In patients with pneumonia and septic
+      shock. The situation that currently occurs in patients who progress to severity due to
+      infection with COVID-19.
+
+      Septic shock has been presented in other viral diseases such as Middle East Respiratory
+      Syndrome Coronavirus (MERS-CoV) detected for the first time in Saudi Arabia, in which it
+      exhibited a wide range of presentations at the time of diagnosis, similar to SARS-COv2 from
+      patients without symptoms, subtle signs of pneumonia or multiorgan failure, with the capacity
+      to cause the death of which the possible therapeutic interventions with antioxidants have
+      been proposed since then that have been proposed for the new virus through the conclusions
+      based on systematic reviews.
+
+      Many viral diseases such as SARS-CoV, although clinical data are limited, can develop
+      moderate and severe septic shock and increase ROS and RNS production, which is associated
+      with overexpression of iNOS, NADP oxidases, cyclooxygenase two, and xanthine oxidase, which
+      activates transcription factors such as NF-B resulting in an exacerbated pro-inflammatory
+      host response. Also, O2 and ONOO participate as an essential mediator of pro-inflammatory
+      interleukin production. These will continue to stimulate the production and release of more
+      ROS and RNS that can interfere with mitochondrial respiration since mitochondrial dysfunction
+      is commonly induced in an environment of septic shock. Therefore, antioxidant treatment may
+      be a way to avoid excessive inflammation associated with a history of high oxidation in
+      COVID-19 patients.
+
+      With this study, we intend to evaluate the effect of the use of antioxidants on outcomes in
+      storm regulation due to dysregulation of oxidative stress, shortening of ventilator use, days
+      of stay, and clinical repercussion through the measurement of organ dysfunction in six
+      different systems, using the SOFA score before and after the intervention, in critically ill
+      patients due to SARS-Cov2 infection.
+
+      IV. Hypothesis
+
+      It is hypothesized that adjuvant therapy with antioxidants and pentoxifylline reduces
+      ventilator use in patients with or without septic shock secondary to severe COVID-19
+      pneumonia and decreases lipoperoxidation and corrects dysregulation of oxidative stress
+      through the increase of antioxidant capacity.
+
+      V. Primary objective
+
+      Provide combined antioxidant therapy as an adjunct to standard therapy for patients with or
+      without septic shock secondary to severe SARS-COV2 pneumonia to evaluate whether it is
+      possible to avoid intubation, reduce days of assisted mechanical ventilation, and improve
+      stress dysregulation oxidant leading to multiple organ failure.
+
+      VI. Secondary objective
+
+        1. Evaluate the prevalence of comorbidity in patients with or without septic shock and
+           severe SARS-CoV2 pneumonia in the ICU.
+
+        2. To evaluate the effect of adjuvant antioxidant therapy in reducing days with the
+           ventilator and days of hospital stay in patients
+
+        3. Analyze the effect on organ failure in five devices and systems (neurological,
+           respiratory, hemodynamic, hepatic, hematological) of each of the therapies implemented
+           in the different systems evaluated with the SOFA score.
+
+        4. Measure lipoperoxidation in basal and post-therapy samples
+
+        5. Measure the antioxidant capacity in basal and post-therapy samples.
+
+        6. Measure IL-6 in basal and post-therapy samples.
+
+        7. Measure procalcitonin, CRP, troponin, pro-BNP, ferritin, and D-dimer.
+
+        8. Determine the status of outcomes by comorbidity strata.
+
+        9. Document the use of ARA, ACE, SGLT2 inhibitors in patients with COVID-19.
+
+       10. Analyze the previous use of steroids and those who did not have it in a stratified way
+
+      VII. Methodology
+
+      Study design
+
+      It is a quasi-experimental, open analytical, prospective, and longitudinal (before-after)
+      study.
+
+      Sample size
+
+      The sample size calculation was based on studies that currently have mortality using Vitamin
+      C because there is no history of antioxidants in the clinical context. The sample size was
+      calculated using X2 to compare two independent proportions.
+
+      Therefore, it will be necessary to include 11 patients in each group if desired to obtain 80%
+      possibility (80% power) or 32 if the power is 99% to detect a mean difference of ≥3 in SOFA
+      between the groups. On the other hand, treatment will be possible in these patients, it will
+      be possible to measure the basal state of oxidative stress, and state three after the therapy
+      allows the use of small samples, as the patient is his control.
+
+      Statistic analysis
+
+      Continuous variables will be expressed as mean ± standard deviation or median with minimum
+      and maximum, depending on their distribution. Categorical variables will be expressed as
+      frequencies and percentages. The normality of the variables will be evaluated using the
+      Shapiro-Wilk or Shapiro-France test, depending on the sample size. Variables with normal
+      distribution will be analyzed with parametric tests (Student's t-test for independent
+      measurements or paired t-test for before-after measurements). While various non-parametric
+      tests were used (Mann-Whitney test, Kruskal-Wallis or Wilcoxon signed rank test, depending on
+      the particular case) to contrast variables without Gaussian distribution. Analysis of paired
+      samples (before-after) will be performed with Friedman or Wilcoxon and paired t-test,
+      depending on the distribution of the data. For multivariate analysis, a binary logistic
+      regression analysis will be performed. Also an analysis of repeated samples and panel data
+      testing different models (grouped model, model for longitudinal data, marginal approximation
+      model and multilevel model).
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 19, 2020</start_date>
+  <completion_date type="Anticipated">November 15, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 15, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>septic shock and without septic shock will be divided into two groups. An antioxidant will be administered orally or by orogastric tube (vitamin C, melatonin, n-acetylcysteine, vitamin E) plus pentoxifylline. Following a decision tree that the treating physician will follow.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>They will be blinded to the patient's treatment, the patient or participant, the investigator, and the outcome assessor. You will only receive the participant number during the analysis. The care provider will not be blinded; they will know which antioxidant plus pentoxifylline the patient will receive; however, they will not have access to the results until the clinical trial is concluded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Death from any cause</measure>
+    <time_frame>From admission to discharge, up to 30 days.</time_frame>
+    <description>It will be evaluated whether secondary to SARS-COV2 pneumonia, the outcome of the patient is dead.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of patients who required orotracheal intubation</measure>
+    <time_frame>From admission to discharge, up to 1 week</time_frame>
+    <description>The percentage of patients with SARS-COV2 pneumonia in whom orotracheal intubation was avoided will be evaluated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assisted mechanical ventilation</measure>
+    <time_frame>From admission to discharge, up to 1 week</time_frame>
+    <description>It will be evaluated if it is possible to reduce the days of mechanical ventilation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stay in an intensive care unit</measure>
+    <time_frame>From admission to discharge, up to 1 week</time_frame>
+    <description>The number of days of stay in the intensive care unit will be evaluated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Measure lipoperoxidation in basal and post-therapy samples</measure>
+    <time_frame>Baseline and 5 days post-dose</time_frame>
+    <description>For the measurement of lipid peroxidation, 50 µL of CH3-OH with 4% BHT plus a phosphate buffer pH 7.4 was added to 100 µL of plasma. The mixture was vigorously vortexed for 5 seconds and subsequently incubated in a water bath at 37 ° C for 30 minutes. 1.5 mL of 0.8 M tribarbituric acid was added to the sample, which was incubated in a water bath with boiling temperature for one hour. After this time and to stop the reaction, the sample was placed on ice; 1 mL 5% KCl was added to each sample, as was 4 mL of n-butanol; The sample was vortexed for 30 seconds and centrifuged at 4000 rpm at room temperature for 2 min. Subsequently, the butanol phase was extracted, and the absorbance at 532 nm was measured. The calibration curve was obtained using tetra ethoxy propane as a standard.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the total antioxidant capacity</measure>
+    <time_frame>Baseline and 5 days post-dose</time_frame>
+    <description>100 mL of plasma was suspended in 1.5 mL of a reaction mixture prepared as follows: 300 mM of acetate buffer with pH 3.6, 20 mM of ferric chloride hexahydrate, and 10 mM of 2,4,6-Tris-2- Pyridyl-s-triazine dissolved in 40 mM hydrochloric acid in a ratio 10: 1: 1 v / v, respectively. The mixture was vigorously vortexed for 5 seconds. It was incubated at 37 ° C for 15 min in the dark. The absorbance was measured at 593 nm. The calibration curve was obtained using Trolox</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxidative and antioxidant stress</measure>
+    <time_frame>Baseline and 5 days post-dose</time_frame>
+    <description>For the measurement of NO3- / NO2-, 100 µl of plasma were added 100 µL of a 10% solution of ZnSO4, 100 µL of 0.5 N NaOH and 700 µl of tridestated water. It was shaken vigorously and centrifuged at 10,000 rpm for 5 minutes. To the resulting supernatant, Griess reagent (200 µL of 1% sulfanilamide and 200 µL of 1% N- (1-naphthyl) ethylenediamine hydrochloride) was added and incubated for 10 min protected from light at room temperature. The coloration developed after incubation was measured at an analytical wavelength of 540 nm in a double beam UV-Vis spectrometer (DW2000, SLM-Aminco, Urbana, Illinois, USA). The calibration curve was performed with a KNO3 stock solution (Spectrum Quality Products, Inc., Gardena CA) in a concentration range from 0.001 nM to 10 nM.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effect of antioxidant therapy at the level on organ failure secondary to SARS-COV2</measure>
+    <time_frame>From day 0 to day 7 post antioxidant dose.</time_frame>
+    <description>Measurements will be made using the Sequential Organ Failure Assessment (SOFA) every 24 hours. With a minimum score of 0-1 which translates a mortality in initial score and the highest of 0%. The maximum score of more than 14 translates a mortality of 95.2% in the initial evaluation and 89.7% in the highest evaluation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effect of antioxidant therapy at the level on organ failure secondary to SARS-COV2</measure>
+    <time_frame>From day 0 to day 7 post antioxidant dose.</time_frame>
+    <description>Measurements will be made using the Mexico Sequential Organ Failure Assessment (MEXSOFA) every 24 hours. highest evaluation. Patients with an initial MEXSOFA score of 9 points or less calculated during the first 24 hours after admission to the ICU had a mortality rate of 14.8%, while those with an initial MEXSOFA score of 10 points or more had a mortality rate. 40% mortality rate. The MEXSOFA score at 48 h was also associated with mortality: patients with a score of 9 points or less had a mortality rate of 14.1%, while those with a score of 10 points or more had a rate of 50% mortality.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">11</enrollment>
+  <condition>Pneumonia, Viral</condition>
+  <condition>Covid19</condition>
+  <condition>ARDS</condition>
+  <condition>Oxidative Stress</condition>
+  <arm_group>
+    <arm_group_label>Patients with septic shock</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Only one antioxidant will be administered, which the treating physician will decide following a previously established decision tree plus pentoxifylline via an oral or orogastric tube for five days.
+With the following specifications:
+Vitamin C. Tablet of 1 gr. A dose of 1 gr every 12 hours.
+Vitamin E. 800 mg tablet. 800 mg dose every 24 hours.
+Melatonin. Tablet 5 mg. A dose of 50 mg every 24 hours.
+N-acetylcysteine. Tablet 600 mg. 600 mg dose every 12 hours.
+The dose of pentoxifylline that all patients will receive is as follows:
+a) Pentoxifylline. 400 mg tablets. 400 mg dose every 12 hours.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients without septic shock</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Only one antioxidant will be administered, which the treating physician will decide following a previously established decision tree plus pentoxifylline via an oral or orogastric tube for five days.
+With the following specifications:
+Vitamin C. Tablet of 1 gr. A dose of 1 gr every 12 hours.
+Vitamin E. 800 mg tablet. 800 mg dose every 24 hours.
+Melatonin. Tablet 5 mg. A dose of 50 mg every 24 hours.
+N-acetylcysteine. Tablet 600 mg. 600 mg dose every 12 hours.
+The dose of pentoxifylline that all patients will receive is as follows:
+a) Pentoxifylline. 400 mg tablets. 400 mg dose every 12 hours.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vitamin C</intervention_name>
+    <description>Vitamin C. Tablet of 1 gr. A dose of 1 gr every 12 hours. Dissolve one tablet in a volume of 30 ml of water and administer it immediately, then rinse the glass with 10 ml of water and administer it to the patient. Protect from light at all times, as it is photosensitive.</description>
+    <arm_group_label>Patients with septic shock</arm_group_label>
+    <arm_group_label>Patients without septic shock</arm_group_label>
+    <other_name>Antioxidant option 1</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vitamin E</intervention_name>
+    <description>Vitamin E. 800 mg tablet. 800 mg dose every 24 hours. Dissolve the capsule in 30 ml of hot water. The administration of vitamin E is recommended during or after meals since its absorption depends on pancreatic enzymes' presence.</description>
+    <arm_group_label>Patients with septic shock</arm_group_label>
+    <arm_group_label>Patients without septic shock</arm_group_label>
+    <other_name>Antioxidant option 2</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Melatonin</intervention_name>
+    <description>Melatonin Tablet 5 mg. A dose of 50 mg every 24 hours. Grind the 10 5 mg melatonin tablets (50 mg), levitate with 50 mL of Ora-plus (Transferring to a beaker with a magnetic stirrer). Maintain gentle agitation. &quot;Rinse&quot; the mortar with 10 mL of Ora-sweet. Add 30 mL of Ora sweet to the glass where the mixture is being made. Makeup with Ora-sweet cbp 100 mL Place label FL02 with legend Melatonin 50 mg / 20 mL. Protected from light (Dispense in a black bag that covers the transparent bag of the preparation)'s primary packaging) Give after breakfast.</description>
+    <arm_group_label>Patients with septic shock</arm_group_label>
+    <arm_group_label>Patients without septic shock</arm_group_label>
+    <other_name>Antioxidant option 3</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>N-acetyl cysteine</intervention_name>
+    <description>N-acetylcysteine. Tablets, 600 mg. 600 mg dose every 12 hours. Dissolve one tablet in a volume of 30 ml of water and administer it immediately, then rinse the glass with 10 ml of water and administer it to the patient.</description>
+    <arm_group_label>Patients with septic shock</arm_group_label>
+    <arm_group_label>Patients without septic shock</arm_group_label>
+    <other_name>Antioxidant option 4</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pentoxifylline</intervention_name>
+    <description>Pentoxifylline. 400 mg tablets. 400 mg dose every 12 hours. The tablet is dissolved in 30 ml of water and is administered orally or nasogastric tube.</description>
+    <arm_group_label>Patients with septic shock</arm_group_label>
+    <arm_group_label>Patients without septic shock</arm_group_label>
+    <other_name>Pentofifylline ER</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients admitted to the UTC in the Temporary COVID-19 Citibanamex Center with
+             suspected or diagnosed severe pneumonia due to SARS-COV2 with or without septic shock.
+
+          -  Patients who accept and sign informed consent. If the patient is clinically unable to
+             authorize, acceptance by a first-degree relative will be requested.
+
+          -  Diagnosis of septic shock in the last 24 hours characterized by refractory hypotension
+             and vasopressor requirement despite adequate fluid resuscitation (20 mL/kg of colloids
+             or 40 mL/kg of crystalloids) to maintain a blood pressure ≥ 65 mmHg with lactate&gt; two
+             mmol / L.
+
+        Exclusion Criteria:
+
+          -  Patients with an advance directive format.
+
+          -  Chronic use of steroids in the past six months or recent.
+
+          -  Use of statins before admission.
+
+          -  Patients who are under some antioxidant treatment.
+
+          -  Any contraindication for the use of Vit C, Vit E, NAC, and melatonin.
+
+          -  Pregnant women.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maria Elena Soto Lopez, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>mesoto50@hotmail.com</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Adrián Palacios Chavarria, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Unidad Temporal COVID-19 en Centro Citibanamex</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>José Guillermo Domínguez Cherit, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Unidad Temporal COVID-19 en Centro Citibanamex</name>
+      <address>
+        <city>Mexico City</city>
+        <zip>11200</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <reference>
+    <citation>Vankadari N, Wilce JA. Emerging WuHan (COVID-19) coronavirus: glycan shield and structure prediction of spike glycoprotein and its interaction with human CD26. Emerg Microbes Infect. 2020 Mar 17;9(1):601-604. doi: 10.1080/22221751.2020.1739565. eCollection 2020.</citation>
+    <PMID>32178593</PMID>
+  </reference>
+  <reference>
+    <citation>Ibrahim IM, Abdelmalek DH, Elshahat ME, Elfiky AA. COVID-19 spike-host cell receptor GRP78 binding site prediction. J Infect. 2020 May;80(5):554-562. doi: 10.1016/j.jinf.2020.02.026. Epub 2020 Mar 10.</citation>
+    <PMID>32169481</PMID>
+  </reference>
+  <reference>
+    <citation>Neuman BW, Buchmeier MJ. Supramolecular Architecture of the Coronavirus Particle. Adv Virus Res. 2016;96:1-27. doi: 10.1016/bs.aivir.2016.08.005. Epub 2016 Sep 15. Review.</citation>
+    <PMID>27712621</PMID>
+  </reference>
+  <reference>
+    <citation>Seah I, Agrawal R. Can the Coronavirus Disease 2019 (COVID-19) Affect the Eyes? A Review of Coronaviruses and Ocular Implications in Humans and Animals. Ocul Immunol Inflamm. 2020 Apr 2;28(3):391-395. doi: 10.1080/09273948.2020.1738501. Epub 2020 Mar 16. Review.</citation>
+    <PMID>32175797</PMID>
+  </reference>
+  <reference>
+    <citation>Lung J, Lin YS, Yang YH, Chou YL, Shu LH, Cheng YC, Liu HT, Wu CY. The potential chemical structure of anti-SARS-CoV-2 RNA-dependent RNA polymerase. J Med Virol. 2020 Jun;92(6):693-697. doi: 10.1002/jmv.25761. Epub 2020 Mar 18.</citation>
+    <PMID>32167173</PMID>
+  </reference>
+  <reference>
+    <citation>Singhal T. A Review of Coronavirus Disease-2019 (COVID-19). Indian J Pediatr. 2020 Apr;87(4):281-286. doi: 10.1007/s12098-020-03263-6. Epub 2020 Mar 13. Review.</citation>
+    <PMID>32166607</PMID>
+  </reference>
+  <reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </reference>
+  <reference>
+    <citation>Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.</citation>
+    <PMID>32007143</PMID>
+  </reference>
+  <reference>
+    <citation>Leibovitz B, Siegel BV. Ascorbic acid and the immune response. Adv Exp Med Biol. 1981;135:1-25. Review.</citation>
+    <PMID>7010958</PMID>
+  </reference>
+  <reference>
+    <citation>Speer EM, Dowling DJ, Ozog LS, Xu J, Yang J, Kennady G, Levy O. Pentoxifylline inhibits TLR- and inflammasome-mediated in vitro inflammatory cytokine production in human blood with greater efficacy and potency in newborns. Pediatr Res. 2017 May;81(5):806-816. doi: 10.1038/pr.2017.6. Epub 2017 Jan 10.</citation>
+    <PMID>28072760</PMID>
+  </reference>
+  <reference>
+    <citation>Ricciardolo FL, Caramori G, Ito K, Capelli A, Brun P, Abatangelo G, Papi A, Chung KF, Adcock I, Barnes PJ, Donner CF, Rossi A, Di Stefano A. Nitrosative stress in the bronchial mucosa of severe chronic obstructive pulmonary disease. J Allergy Clin Immunol. 2005 Nov;116(5):1028-35. Epub 2005 Sep 28.</citation>
+    <PMID>16275371</PMID>
+  </reference>
+  <reference>
+    <citation>Barnes PJ, Ito K, Adcock IM. Corticosteroid resistance in chronic obstructive pulmonary disease: inactivation of histone deacetylase. Lancet. 2004 Feb 28;363(9410):731-3. Review.</citation>
+    <PMID>15001333</PMID>
+  </reference>
+  <reference>
+    <citation>Singh VP, Aggarwal R, Singh S, Banik A, Ahmad T, Patnaik BR, Nappanveettil G, Singh KP, Aggarwal ML, Ghosh B, Agrawal A. Metabolic Syndrome Is Associated with Increased Oxo-Nitrative Stress and Asthma-Like Changes in Lungs. PLoS One. 2015 Jun 22;10(6):e0129850. doi: 10.1371/journal.pone.0129850. eCollection 2015.</citation>
+    <PMID>26098111</PMID>
+  </reference>
+  <reference>
+    <citation>Russell JA. Management of sepsis. N Engl J Med. 2006 Oct 19;355(16):1699-713. Review. Erratum in: N Engl J Med. 2006 Nov 23;355(21):2267.</citation>
+    <PMID>17050894</PMID>
+  </reference>
+  <reference>
+    <citation>Rivers EP, McIntyre L, Morro DC, Rivers KK. Early and innovative interventions for severe sepsis and septic shock: taking advantage of a window of opportunity. CMAJ. 2005 Oct 25;173(9):1054-65. Review.</citation>
+    <PMID>16247103</PMID>
+  </reference>
+  <reference>
+    <citation>Clapp BR, Hingorani AD, Kharbanda RK, Mohamed-Ali V, Stephens JW, Vallance P, MacAllister RJ. Inflammation-induced endothelial dysfunction involves reduced nitric oxide bioavailability and increased oxidant stress. Cardiovasc Res. 2004 Oct 1;64(1):172-8.</citation>
+    <PMID>15364625</PMID>
+  </reference>
+  <reference>
+    <citation>Pérez-Torres I, Manzano-Pech L, Rubio-Ruíz ME, Soto ME, Guarner-Lans V. Nitrosative Stress and Its Association with Cardiometabolic Disorders. Molecules. 2020 May 31;25(11). pii: E2555. doi: 10.3390/molecules25112555. Review.</citation>
+    <PMID>32486343</PMID>
+  </reference>
+  <reference>
+    <citation>Liu Z, Ying Y. The Inhibitory Effect of Curcumin on Virus-Induced Cytokine Storm and Its Potential Use in the Associated Severe Pneumonia. Front Cell Dev Biol. 2020 Jun 12;8:479. doi: 10.3389/fcell.2020.00479. eCollection 2020. Review.</citation>
+    <PMID>32596244</PMID>
+  </reference>
+  <results_reference>
+    <citation>Rahman I, MacNee W. Regulation of redox glutathione levels and gene transcription in lung inflammation: therapeutic approaches. Free Radic Biol Med. 2000 May 1;28(9):1405-20. Review.</citation>
+    <PMID>10924859</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Paterson RL, Galley HF, Webster NR. The effect of N-acetylcysteine on nuclear factor-kappa B activation, interleukin-6, interleukin-8, and intercellular adhesion molecule-1 expression in patients with sepsis. Crit Care Med. 2003 Nov;31(11):2574-8.</citation>
+    <PMID>14605526</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Moradi M, Mojtahedzadeh M, Mandegari A, Soltan-Sharifi MS, Najafi A, Khajavi MR, Hajibabayee M, Ghahremani MH. The role of glutathione-S-transferase polymorphisms on clinical outcome of ALI/ARDS patient treated with N-acetylcysteine. Respir Med. 2009 Mar;103(3):434-41. doi: 10.1016/j.rmed.2008.09.013. Epub 2008 Nov 7.</citation>
+    <PMID>18993042</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Peake SL, Moran JL, Leppard PI. N-acetyl-L-cysteine depresses cardiac performance in patients with septic shock. Crit Care Med. 1996 Aug;24(8):1302-10.</citation>
+    <PMID>8706483</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Escames G, Guerrero JM, Reiter RJ, Garcia JJ, Munoz-Hoyos A, Ortiz GG, Oh CS. Melatonin and vitamin E limit nitric oxide-induced lipid peroxidation in rat brain homogenates. Neurosci Lett. 1997 Jul 25;230(3):147-50.</citation>
+    <PMID>9272682</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Galano A, Tan DX, Reiter RJ. Melatonin as a natural ally against oxidative stress: a physicochemical examination. J Pineal Res. 2011 Aug;51(1):1-16. doi: 10.1111/j.1600-079X.2011.00916.x. Review.</citation>
+    <PMID>21752095</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hemilä H, Douglas RM. Vitamin C and acute respiratory infections. Int J Tuberc Lung Dis. 1999 Sep;3(9):756-61. Review.</citation>
+    <PMID>10488881</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Shabaan AE, Nasef N, Shouman B, Nour I, Mesbah A, Abdel-Hady H. Pentoxifylline therapy for late-onset sepsis in preterm infants: a randomized controlled trial. Pediatr Infect Dis J. 2015 Jun;34(6):e143-8. doi: 10.1097/INF.0000000000000698.</citation>
+    <PMID>25970116</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Akdag A, Dilmen U, Haque K, Dilli D, Erdeve O, Goekmen T. Role of pentoxifylline and/or IgM-enriched intravenous immunoglobulin in the management of neonatal sepsis. Am J Perinatol. 2014 Nov;31(10):905-12. doi: 10.1055/s-0033-1363771. Epub 2014 Feb 10.</citation>
+    <PMID>24515621</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Fowler AA 3rd, Truwit JD, Hite RD, Morris PE, DeWilde C, Priday A, Fisher B, Thacker LR 2nd, Natarajan R, Brophy DF, Sculthorpe R, Nanchal R, Syed A, Sturgill J, Martin GS, Sevransky J, Kashiouris M, Hamman S, Egan KF, Hastings A, Spencer W, Tench S, Mehkri O, Bindas J, Duggal A, Graf J, Zellner S, Yanny L, McPolin C, Hollrith T, Kramer D, Ojielo C, Damm T, Cassity E, Wieliczko A, Halquist M. Effect of Vitamin C Infusion on Organ Failure and Biomarkers of Inflammation and Vascular Injury in Patients With Sepsis and Severe Acute Respiratory Failure: The CITRIS-ALI Randomized Clinical Trial. JAMA. 2019 Oct 1;322(13):1261-1270. doi: 10.1001/jama.2019.11825. Erratum in: JAMA. 2020 Jan 28;323(4):379.</citation>
+    <PMID>31573637</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Protti A, Singer M. Bench-to-bedside review: potential strategies to protect or reverse mitochondrial dysfunction in sepsis-induced organ failure. Crit Care. 2006;10(5):228. Review.</citation>
+    <PMID>16953900</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Vincent JL, Moreno R, Takala J, Willatts S, De Mendonça A, Bruining H, Reinhart CK, Suter PM, Thijs LG. The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure. On behalf of the Working Group on Sepsis-Related Problems of the European Society of Intensive Care Medicine. Intensive Care Med. 1996 Jul;22(7):707-10.</citation>
+    <PMID>8844239</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Unidad Temporal COVID-19 en Centro Citibanamex</investigator_affiliation>
+    <investigator_full_name>Adrian Palacios-Chavarria, MD</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>SARS-COV2</keyword>
+  <keyword>Pneumonia</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>Antioxidants</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamins</mesh_term>
+    <mesh_term>Vitamin E</mesh_term>
+    <mesh_term>Acetylcysteine</mesh_term>
+    <mesh_term>Pentoxifylline</mesh_term>
+    <mesh_term>Melatonin</mesh_term>
+    <mesh_term>Antioxidants</mesh_term>
+    <mesh_term>N-monoacetylcystine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

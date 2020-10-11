@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="719">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04549922</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ASKCOV_Trial</org_study_id>
+    <nct_id>NCT04549922</nct_id>
+  </id_info>
+  <brief_title>Antisense Therapy to Block the Kallikrein-kinin Pathway in COVID-19</brief_title>
+  <acronym>ASKCOV</acronym>
+  <official_title>Antisense Therapy to Block the Kallikrein-kinin Pathway in COVID-19: A Phase II Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital do Coracao</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ionis Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Moinhos de Vento</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital do Coracao</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Up to 1/3 of all patients infected with COVID-19 can develop complications that require
+      hospitalization. Severe pneumonia associated with acute respiratory distress syndrome (ARDS)
+      is the most threatening and feared complication of COVID-19 infection, with mortality rates
+      close to 50% in some groups.
+
+      Autopsies between these severe cases reveal severe capillary involvement, with signs of
+      intense inflammatory changes, microvascular thrombosis, endothelial injury and abnormal
+      tissue repair. The available evidence suggests that abnormal activation or imbalance in the
+      counter-regulation of the kallikrein-kinin system may play a central role in a positive
+      feedback cycle, leading to consequent diffuse microangiopathy. Blockade of the
+      kallikrein-kinin system can therefore prevent deterioration of lung function by reducing
+      inflammation, edema and microthrombosis.
+
+      The objective of this phase IIb study is to assess the preliminary effects on the oxygenation
+      parameters of an antisense oligonucleotide that inhibits pre-kallikrein synthesis in patients
+      with moderate to severe COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The objective of this phase IIb study is to assess the preliminary effects on the oxygenation
+      parameters of an antisense oligonucleotide that inhibits pre-kallikrein synthesis in patients
+      with moderate to severe COVID-19.
+
+      This is a blind randomized pilot clinical study which aims to include 90 patients (45 per
+      arm).
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The placebo used in the present study will consist of 0.9% NaCl Solution, which has the same physical characteristics as the ISIS 721744 drug. The placebo solution will be prepared by the nurse or pharmacist of the research team at the time of application. The nurse will be trained on the procedures for adequate blinding of the intervention. The pharmacist at the site level will not be blind, but the rest of the ream (nurse, physicians, patients, etc) will be blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Days alive without respiratory support (any supplemental oxygen) after 15 days (DAFOR15)</measure>
+    <time_frame>15 days</time_frame>
+    <description>Number of days the patient is alive and not receiving any supplementary respiratory support (oxygen, non-invasive ventilation, high flow nasal catheter or mechanical ventilation) during 15 days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SOFA - Sequential Organ Failure Assessment Score up to 15 days after randomization</measure>
+    <time_frame>15 days</time_frame>
+    <description>Sequential Organic Failure Assessment [SOFA]. This will be a primary secondary outcome. Analysis will check for trends in SOFA up to 15 days in a single model.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for mechanical ventilation</measure>
+    <time_frame>30 days (or until hospital discharge)</time_frame>
+    <description>Intubation and initiation of mechanical ventilation for any given reason</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>30 days (or until hospital discharge)</time_frame>
+    <description>Number of days the patient remains in mechanical ventilation</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Oxygenation index</measure>
+    <time_frame>14 days</time_frame>
+    <description>Daily oxygenation levels assessed using the ROX index [(Oxygen Saturation/Inspired Fraction)/Respiratory Rate] from randomization to discharge or day 14, whichever comes first.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>C-reactive protein levels during first 15 days after randomization</measure>
+    <time_frame>15 days</time_frame>
+    <description>C-reactive protein levels over time up to 15 days or hospital discharge.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Lymphocyte/neutrophil ratio during first 15 days after randomization</measure>
+    <time_frame>15 days</time_frame>
+    <description>Lymphocyte/neutrophil ratio over time up to 15 or until discharge discharge day.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>D-dimer serum level during first 15 days after randomization</measure>
+    <time_frame>15 days</time_frame>
+    <description>D-dimer serum levels over time or until hospital discharge.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Fibrinogen serum levels during first 15 days after randomization</measure>
+    <time_frame>15 days</time_frame>
+    <description>Fibrinogen serum levels over time up to 15 days or until hospital discharge</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Prothrombin Time levels during first 15 days after randomization</measure>
+    <time_frame>15 days</time_frame>
+    <description>Prothrombin Time over time up to 15 days or until hospital discharge.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Activated Partial Thromboplastin Time during first 15 days after randomization</measure>
+    <time_frame>15 days</time_frame>
+    <description>Activated Partial Thromboplastin Time over time up to 15 days or until hospital discharge.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mortality</measure>
+    <time_frame>1 year after randomization</time_frame>
+    <description>One-year all cause mortality</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Euroquol questionnaire for quality of life with 5 dimensions (EQ-5D)</measure>
+    <time_frame>1 year after randomization</time_frame>
+    <description>Quality of Life measured by EQ-5D from 11111-33333, lower values being better</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>1.2 mL Normal Saline, single dose subcutaneous, after randomization</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ISIS 721744</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>1.2 mL ISIS 721744, single dose subcutaneous, after randomization</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ISIS 721744</intervention_name>
+    <description>1.2 mL of ISIS 721744 subcutaneous once after randomization</description>
+    <arm_group_label>ISIS 721744</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Normal Saline</intervention_name>
+    <description>1.2 mL subcutaneous</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Patients with COVID-19 who need supplemental oxygen of at least 2L/min (≥ 2L/min)
+             through a nasal catheter (or equivalent) to obtain a peripheral oxygen saturation ≥
+             95%
+
+          2. Women must not be pregnant or breastfeeding, and must be surgically sterile or in the
+             postmenopausal stage (without risk of becoming pregnant).
+
+          3. Men must be surgically sterile or abstinent or, if they are having sex with risk of
+             pregnancy, the subject must use an effective method of contraception from the moment
+             they sign the informed consent form until at least 24 weeks after the dose of the
+             study drug (ISIS 721744 or placebo).
+
+        Exclusion Criteria:
+
+          1. Patients on invasive mechanical ventilation or who may need mechanical ventilation for
+             the next 24 hours. The use of non-invasive ventilation and/or a high-flow nasal
+             catheter is permitted.
+
+          2. Patients with &gt; 7 days since symptom onset
+
+          3. Pregnancy, breast-feeding or risk of becoming pregnant
+
+          4. Hemodynamically unstable (use of vasoconstrictors, such as norepinephrine, above 0.1
+             mcg/kg/min)
+
+          5. Previous diagnosis of heart failure at functional class III or IV
+
+          6. Previous uncontrolled hypertension (more than 3 drug classes use at home)
+
+          7. Severe lung disease (use of home oxygen)
+
+          8. Age &lt; 18 and &gt; 80 years
+
+          9. Physician and family not committed to full life support and/or with severe existing
+             illness with a life expectancy of less than 12 months
+
+         10. Refusal to accept informed consent and/or unwillingness to comply with all
+             requirements of the study procedure and security monitoring
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fernando G Zampieri, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Research Coordinator</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alexandre B Cavalcanti</last_name>
+    <role>Study Chair</role>
+    <affiliation>Institute Director</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fernando G Zampieri, MD</last_name>
+    <phone>+551130656611</phone>
+    <email>fzampieri@hcor.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Samara P Gomes</last_name>
+    <phone>+551130656611</phone>
+    <email>scgomes@hcor.com.br</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 15, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 15, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>antisense</keyword>
+  <keyword>kallikrein-kinin</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be available under reasonable request after approval by the steering committee.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Protocol will be available in December, together with analysis plan</ipd_time_frame>
+    <ipd_access_criteria>Protocol and analysis plan will be uploaded to Clinicaltrials.gov</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

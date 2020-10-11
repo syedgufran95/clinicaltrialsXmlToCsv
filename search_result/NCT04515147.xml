@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2771">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04515147</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CV-NCOV-002</org_study_id>
+    <nct_id>NCT04515147</nct_id>
+  </id_info>
+  <brief_title>A Dose-Confirmation Study to Evaluate the Safety, Reactogenicity and Immunogenicity of Vaccine CVnCoV in Healthy Adults</brief_title>
+  <official_title>COVID-19: A Phase 2a, Partially Observer-blind, Multicenter, Controlled, Dose-confirmation Clinical Trial to Evaluate the Safety, Reactogenicity and Immunogenicity of the Investigational SARS-CoV-2 mRNA Vaccine CVnCoV in Adults &gt;60 Years of Age and 18 to 60 Years of Age</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CureVac AG</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CureVac AG</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the safety and reactogenicity profile after 1 and 2 dose
+      administrations of investigational SARS-CoV-2 mRNA vaccine (CVnCoV) at different dose levels
+      and to evaluate the humoral immune response after 1 and 2 dose administrations of CVnCoV.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 18, 2020</start_date>
+  <completion_date type="Anticipated">November 9, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 9, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Local Adverse Events</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensity of Solicited Local Adverse Events per the FDA Toxicity Grading Scale</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of Solicited Local Adverse Events</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Systemic Adverse Events</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensity of Solicited Systemic Adverse Events per the FDA Toxicity Grading Scale</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of Solicited Systemic Adverse Events</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Systemic Adverse Events Considered Related to Trial Vaccine</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited Adverse Events</measure>
+    <time_frame>28 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensity of Unsolicited Adverse Events per the FDA Toxicity Grading Scale</measure>
+    <time_frame>28 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited Adverse Events Considered Related to Trial Vaccine</measure>
+    <time_frame>28 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with One or More Serious Adverse Events (SAEs)</measure>
+    <time_frame>Baseline to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with One or More Serious Adverse Events (SAEs) Considered Related to Trial Vaccine</measure>
+    <time_frame>Baseline to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with One or More Adverse Events of Special Interest (AESIs)</measure>
+    <time_frame>Baseline to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with One or More Adverse Events of Special Interest (AESIs) Considered Related to Trial Vaccine</measure>
+    <time_frame>Baseline to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Seroconverting for SARS-CoV-2 Spike Protein Antibodies</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Seroconverting for SARS-CoV-2 Spike Protein Antibodies</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Individual SARS-CoV-2 Spike Protein-Specific Antibody Levels in Serum</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Individual SARS-CoV-2 Spike Protein-Specific Antibody Levels in Serum</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric Mean Titers (GMTs) of Serum SARS-CoV-2 Spike Protein Antibodies</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric Mean Titers (GMTs) of Serum SARS-CoV-2 Spike Protein Antibodies</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Seroconverting for SARS-CoV-2 Neutralizing Antibodies</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Measured using an activity assay.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Seroconverting for SARS-CoV-2 Neutralizing Antibodies</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Measured using an activity assay.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Individual SARS-CoV-2 Neutralizing Antibody Levels in Serum</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Measured using an activity assay.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Individual SARS-CoV-2 Neutralizing Antibody Levels in Serum</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Measured using an activity assay.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric Mean Titers (GMTs) of Serum SARS-CoV-2 Neutralizing Antibodies</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Measured using an activity assay.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric Mean Titers (GMTs) of Serum SARS-CoV-2 Neutralizing Antibodies</measure>
+    <time_frame>Day 43</time_frame>
+    <description>Measured using an activity assay.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Seroconverting for SARS-CoV-2 Spike Protein Antibodies</measure>
+    <time_frame>Day 180, Day 208 and Day 393</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual SARS-CoV-2 Spike Protein-Specific Antibody Levels in Serum</measure>
+    <time_frame>Day 180, Day 208 and Day 393</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titers (GMTs) of Serum SARS-CoV-2 Spike Protein Antibodies</measure>
+    <time_frame>Day 180, Day 208 and Day 393</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Seroconverting for SARS-CoV-2 Neutralizing Antibodies</measure>
+    <time_frame>Day 180, Day 208 and Day 393</time_frame>
+    <description>Measured using an activity assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual SARS-CoV-2 Neutralizing Antibody Levels in Serum</measure>
+    <time_frame>Day 180, Day 208 and Day 393</time_frame>
+    <description>Measured using an activity assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titers (GMTs) of Serum SARS-CoV-2 Neutralizing Antibodies</measure>
+    <time_frame>Day 180, Day 208 and Day 393</time_frame>
+    <description>Measured using an activity assay.</description>
+  </secondary_outcome>
+  <number_of_arms>10</number_of_arms>
+  <enrollment type="Anticipated">691</enrollment>
+  <condition>Coronavirus</condition>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV-2</condition>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Part 1, Group 1: CVnCoV 6 μg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be vaccinated with CVnCoV on Day 1 and Day 29. Participants in this group will be aged between 18 and 60 years old.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1, Group 2: CVnCoV 6 μg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be vaccinated with CVnCoV on Day 1 and Day 29. Participants in this group will be aged over 60 years old.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1, Group 3: CVnCoV 8 μg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be vaccinated with CVnCoV on Day 1 and Day 29. Participants in this group will be aged over 60 years old.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1, Group 4: CVnCoV 8 μg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive two doses of CVnCoV 4 μg vaccine on Day 1, followed by a single dose on Day 29. Participants in this group will be aged over 60 years old.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1, Group 5: Hepatitis A vaccine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will be vaccinated with a hepatitis A vaccine on Day 1 and Day 29. Participants in this group will be aged between 18 and 60 years old.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1, Group 6: Pneumococcal vaccine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will be vaccinated with a pneumococcal vaccine on Day 1 and Day 29. Participants in this group will be aged over 60 years old.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2, Group 1: CVnCoV Recommended Part 2 Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be vaccinated with CVnCoV on Day 1 and Day 29. The dose level will be confirmed from Part 1. Participants in this group will be aged between 18 and 60 years old.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2, Group 2: Hepatitis A vaccine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will be vaccinated with a hepatitis A vaccine on Day 1 and Day 29. Participants in this group will be aged between 18 and 60 years old.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2, Group 3: CVnCoV Recommended Part 2 Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be vaccinated with CVnCoV on Day 1 and Day 29. The dose level will be confirmed from Part 1. Participants in this group will be aged over 60 years old.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2, Group 4: Pneumococcal vaccine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will be vaccinated with a pneumococcal vaccine on Day 1 and Day 29. Participants in this group will be aged over 60 years old.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CVnCoV 6 μg</intervention_name>
+    <description>Participants will receive an intramuscular injection by needle in the deltoid area.</description>
+    <arm_group_label>Part 1, Group 1: CVnCoV 6 μg</arm_group_label>
+    <arm_group_label>Part 1, Group 2: CVnCoV 6 μg</arm_group_label>
+    <other_name>CV07050101</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CVnCoV 8 μg</intervention_name>
+    <description>Participants will receive an intramuscular injection by needle in the deltoid area.</description>
+    <arm_group_label>Part 1, Group 3: CVnCoV 8 μg</arm_group_label>
+    <other_name>CV07050101</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CVnCoV 8 μg (4 μg double dose)</intervention_name>
+    <description>Participants will receive two intramuscular injections by needle in the deltoid area.</description>
+    <arm_group_label>Part 1, Group 4: CVnCoV 8 μg</arm_group_label>
+    <other_name>CV07050101</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Hepatitis A vaccine</intervention_name>
+    <description>Participants will receive an intramuscular injection by needle in the deltoid area.</description>
+    <arm_group_label>Part 1, Group 5: Hepatitis A vaccine</arm_group_label>
+    <arm_group_label>Part 2, Group 2: Hepatitis A vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Pneumococcal vaccine</intervention_name>
+    <description>Participants will receive an intramuscular injection by needle in the deltoid area.</description>
+    <arm_group_label>Part 1, Group 6: Pneumococcal vaccine</arm_group_label>
+    <arm_group_label>Part 2, Group 4: Pneumococcal vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CVnCoV (Dose level confirmed in Part 1)</intervention_name>
+    <description>Participants will receive an intramuscular injection by needle in the deltoid area. The dose of this vaccine will be confirmed during Part 1 of this study.</description>
+    <arm_group_label>Part 2, Group 1: CVnCoV Recommended Part 2 Dose</arm_group_label>
+    <arm_group_label>Part 2, Group 3: CVnCoV Recommended Part 2 Dose</arm_group_label>
+    <other_name>CV07050101</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Healthy male and female participants ≥18 years of age. A healthy participant is
+             defined as an individual who is in good general health, according to the
+             Investigator's assessment. Chronic health conditions are acceptable if the condition
+             is considered well controlled with treatment according to the discretion of the
+             Investigator.
+
+          -  Expected to be compliant with protocol procedures and available for clinical follow-up
+             through the last planned visit.
+
+          -  Physical examination without clinically significant findings according to the
+             Investigator's assessment.
+
+          -  Body mass index (BMI) ≥18.0 and ≤30.0 kg/m^2.
+
+          -  Female participants of childbearing potential: at the time of enrollment, negative
+             human chorionic gonadotropin (hCG) pregnancy test (serum) for women presumed to be of
+             childbearing potential on the day of enrollment. On Day 1 (pre-vaccination): negative
+             urine pregnancy test (required if serum pregnancy test was performed more than 3 days
+             before).
+
+          -  Female participants of childbearing potential must use highly effective methods of
+             birth control from 2 weeks before the first administration of the trial vaccine until
+             3 months following the last administration. The following methods of birth control are
+             considered highly effective when used consistently and correctly:
+
+               -  Combined (estrogen and progestogen containing) hormonal contraception associated
+                  with inhibition of ovulation (oral, intravaginal or transdermal);
+
+               -  Progestogen-only hormonal contraception associated with inhibition of ovulation
+                  (oral, injectable or implantable);
+
+               -  Intrauterine devices;
+
+               -  Intrauterine hormone-releasing systems;
+
+               -  Bilateral tubal occlusion;
+
+               -  Vasectomized partner;
+
+               -  Sexual abstinence (periodic abstinence [e.g., calendar, ovulation, symptothermal
+                  and post-ovulation methods] and withdrawal are not acceptable).
+
+        Exclusion Criteria:
+
+          -  Use of any investigational or non-registered product (vaccine or drug) other than the
+             trial vaccine within 28 days preceding the administration of the trial vaccine, or
+             planned use during the trial period.
+
+          -  Receipt of any other vaccines within 28 days prior to enrollment in this trial or
+             planned receipt of any vaccine within 28 days of trial vaccine administration.
+
+          -  Receipt of any investigational SARS-CoV-2 or other coronavirus vaccine prior to the
+             administration of the trial vaccine.
+
+          -  Any treatment with immunosuppressants or other immune-modifying drugs (including, but
+             not limited to, corticosteroids, biologicals, and methotrexate) within 6 months prior
+             to the administration of the trial vaccine or planned use during the trial, with the
+             exception of topically-applied, inhaled, or intranasal steroids.
+
+          -  Use of hormonal therapy for gender reassignment.
+
+          -  Any medically diagnosed or suspected immunosuppressive or immunodeficient condition
+             based on medical history and physical examination, including known human
+             immunodeficiency virus infection, hepatitis B virus infection, and hepatitis C virus
+             infection.
+
+          -  History of immune-mediated or autoimmune disease.
+
+          -  History of angioedema (known C1 inhibitor deficiency).
+
+          -  History of anaphylaxis or allergy to any component of CVnCoV or aminoglycoside
+             antibiotics.
+
+          -  History of or current alcohol and/or drug abuse.
+
+          -  Participants who are active smokers, were active smokers within the last year
+             (including any vaping in the last year), or have a total smoking history ≥10 pack
+             years.
+
+          -  History of confirmed SARS, MERS, or COVID-19 disease or known exposure (without any
+             personal protective equipment) to an individual with confirmed COVID-19 disease or
+             SARS-CoV-2 infection within the past 2 weeks.
+
+          -  Administration of immunoglobulins and/or any blood products within the 3 months
+             preceding the administration of any dose of the trial vaccine.
+
+          -  Presence or evidence of significant uncontrolled acute or chronic medical or
+             psychiatric illness. Significant medical or psychiatric illnesses include but are not
+             limited to:
+
+               -  Uncontrolled respiratory disease (e.g., chronic obstructive pulmonary disease,
+                  asthma), including use of the following asthma medications: intravenous
+                  corticosteroids, leukotriene modifiers, biologics.
+
+               -  Uncontrolled cardiovascular disease (e.g., congestive heart failure,
+                  cardiomyopathy, ischemic heart disease, history of stroke, peripheral artery
+                  disease, pulmonary embolism).
+
+               -  History of myocarditis or pericarditis as an adult.
+
+               -  Diabetes mellitus (insulin-dependent).
+
+               -  Uncontrolled neurological disorders or Guillain-Barré syndrome or history of
+                  seizure, except for febrile seizures during childhood.
+
+               -  Current or past malignancy, unless completely resolved without sequelae for &gt;5
+                  years.
+
+          -  Foreseeable non-compliance with protocol, as judged by the Investigator.
+
+          -  For female participants: pregnancy or lactation.
+
+          -  Participants with impaired coagulation or any bleeding disorder in whom an
+             intramuscular injection or a blood draw is contraindicated. This includes participants
+             on treatment with anticoagulants (e.g., vitamin K antagonists, novel oral
+             anticoagulants, and heparin). Use of platelet aggregation inhibitors is not
+             exclusionary.
+
+          -  Participants employed by the Sponsor, Investigator, or trial site, or relatives of
+             research staff working on this trial.
+
+          -  Participants considered at the Investigator's discretion to be at increased risk of
+             exposure to COVID-19 disease.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Clinical Trial Information</last_name>
+    <phone>+49 69 76805870</phone>
+    <email>clinicaltrials@curevac.com</email>
+  </overall_contact>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 17, 2020</study_first_posted>
+  <last_update_submitted>September 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccine</keyword>
+  <keyword>SARS</keyword>
+  <keyword>COVID</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Reactogenicity</keyword>
+  <keyword>Immunogenicity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+    <mesh_term>Heptavalent Pneumococcal Conjugate Vaccine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

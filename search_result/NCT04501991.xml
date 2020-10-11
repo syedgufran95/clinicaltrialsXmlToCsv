@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2804">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04501991</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AS0007</org_study_id>
+    <nct_id>NCT04501991</nct_id>
+  </id_info>
+  <brief_title>Short-term Impact of COVID-19 Lockdown on Metabolic Control of Type 2 Diabetes</brief_title>
+  <official_title>Determining the Impact of COVID-19 Lockdown on Metabolic Control in Individuals With Type 2 Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pisa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pisa</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The strict rules applied in Italy during the recent COVID-19 pandemic, with the prohibition
+      to attend any regular outdoor activity, are likely to influence the degree of metabolic
+      control of patients with type 2 diabetes. The aim of this observational, prospective, single
+      centre study was to evaluate the immediate impact of the lockdown rules on the metabolic
+      profile of a cohort of patients with type 2 diabetes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All the patients with type 2 diabetes who were previously scheduled for a follow-up visit in
+      our outpatient diabetes clinic during the lockdown for COVID-19 (March 9, 2020-May 04, 2020)
+      were contacted by phone. Patients who accepted to take part of the study received a medical
+      prescription for routine analysis via email. They were asked to perform blood drawing one
+      week after the end of the lockdown period and transmitted us the results.
+
+      We then compared the metabolic profile tested one week after the end of the lockdown with the
+      last value and the mean of the last three determinations performed before the pandemic
+      emergency.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 11, 2020</start_date>
+  <completion_date type="Actual">June 30, 2020</completion_date>
+  <primary_completion_date type="Actual">May 4, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Glucose</measure>
+    <time_frame>One week after the end of the lockdown period</time_frame>
+    <description>Blood glucose was expressed in mg/dl and was determined by standard techniques.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>HbA1c</measure>
+    <time_frame>One week after the end of the lockdown period</time_frame>
+    <description>HbA1c was expressed as percentage or mmol/l and was determined by standard techniques.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lipid profile</measure>
+    <time_frame>One week after the end of the lockdown period</time_frame>
+    <description>Complete lipid profile (total cholesterol, HDL cholesterol, LDL cholesterol, Triglcerydes) were expressed in mg/dl or mmol/l and were determined by standard techniques.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">114</enrollment>
+  <condition>Type 2 Diabetes</condition>
+  <condition>Metabolic Control</condition>
+  <arm_group>
+    <arm_group_label>Patients with Type 2 Diabetes</arm_group_label>
+    <description>Patients with type 2 diabetes and a scheduled visit during the lockdown for COVID-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>antidiabetic treatment</intervention_name>
+    <description>Every kind of antidiabetic treatment, oral or injective, were considered including patients treated only with diet</description>
+    <arm_group_label>Patients with Type 2 Diabetes</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All the patients with type 2 diabetes, regularly referring (with at least two previous
+        clinical records in the last two years) to the outpatient diabetes clinic of Internal
+        Medicine section, University Hospital in Pisa, and who were previously scheduled for a
+        follow-up visit during the lockdown for COVID-19 (March 9, 2020-May 04, 2020) were screened
+        for this observational study.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  type 2 diabetes
+
+          -  at least two previous clinical records in the last two years
+
+        Exclusion Criteria:
+
+          -  age &gt;85 years
+
+          -  first access to the outpatient clinic
+
+          -  type 1 diabetes
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anna Solini, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pisa</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Pisa</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56125</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Scarmozzino F, Visioli F. Covid-19 and the Subsequent Lockdown Modified Dietary Habits of Almost Half the Population in an Italian Sample. Foods. 2020 May 25;9(5). pii: E675. doi: 10.3390/foods9050675.</citation>
+    <PMID>32466106</PMID>
+  </reference>
+  <reference>
+    <citation>Bonora BM, Boscari F, Avogaro A, Bruttomesso D, Fadini GP. Glycaemic Control Among People with Type 1 Diabetes During Lockdown for the SARS-CoV-2 Outbreak in Italy. Diabetes Ther. 2020 May 11:1-11. doi: 10.1007/s13300-020-00829-7. [Epub ahead of print]</citation>
+    <PMID>32395187</PMID>
+  </reference>
+  <reference>
+    <citation>Nachimuthu S, Vijayalakshmi R, Sudha M, Viswanathan V. Coping with diabetes during the COVID - 19 lockdown in India: Results of an online pilot survey. Diabetes Metab Syndr. 2020 Jul - Aug;14(4):579-582. doi: 10.1016/j.dsx.2020.04.053. Epub 2020 May 11.</citation>
+    <PMID>32416527</PMID>
+  </reference>
+  <reference>
+    <citation>Martinez-Ferran M, de la Guía-Galipienso F, Sanchis-Gomar F, Pareja-Galeano H. Metabolic Impacts of Confinement during the COVID-19 Pandemic Due to Modified Diet and Physical Activity Habits. Nutrients. 2020 May 26;12(6). pii: E1549. doi: 10.3390/nu12061549. Review.</citation>
+    <PMID>32466598</PMID>
+  </reference>
+  <reference>
+    <citation>Di Renzo L, Gualtieri P, Pivari F, Soldati L, Attinà A, Cinelli G, Leggeri C, Caparello G, Barrea L, Scerbo F, Esposito E, De Lorenzo A. Eating habits and lifestyle changes during COVID-19 lockdown: an Italian survey. J Transl Med. 2020 Jun 8;18(1):229. doi: 10.1186/s12967-020-02399-5.</citation>
+    <PMID>32513197</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pisa</investigator_affiliation>
+    <investigator_full_name>Anna Solini</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>T2D</keyword>
+  <keyword>Sars-Cov-2</keyword>
+  <keyword>COVID-19 lockdown</keyword>
+  <keyword>metabolic control</keyword>
+  <keyword>sedentary</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypoglycemic Agents</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

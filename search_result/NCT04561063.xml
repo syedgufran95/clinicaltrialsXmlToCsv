@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1262">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04561063</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EZ-SS-025</org_study_id>
+    <nct_id>NCT04561063</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Prophylaxis South Africa (COVER HCW)</brief_title>
+  <acronym>COVER</acronym>
+  <official_title>A Multi-center, Randomised, Open Label Study of Nitazoxanide (NTZ), or Sofosbuvir and Daclatasvir (SOF/DCV), Compared to no Pharmacological Intervention for the Prevention of COVID-19 Disease in Healthcare Workers at High Risk of Exposure to SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Witwatersrand, South Africa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Witwatersrand, South Africa</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomised, multi-center, open label, adaptive, exploratory trial to assess the
+      efficacy of two different drug regimens in terms of preventing symptomatic COVID-19 disease
+      in healthcare workers at high risk of exposure to SARS-CoV-2. The trial will compare two
+      different experimental medication arms to the control arm comprising the use of standard
+      personal protective equipment (PPE) with no additional pharmacological intervention.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomised, multi-center, open label, adaptive, exploratory trial to assess the
+      efficacy of two different drug regimens in terms of preventing symptomatic COVID-19 disease
+      in healthcare workers at high risk of exposure to SARS-CoV-2. The trial will compare two
+      different experimental medication arms to the control arm comprising the use of standard
+      personal protective equipment (PPE) with no additional pharmacological intervention.
+
+      Volunteers will be recruited from participating institutions and community healthcare workers
+      (CHWs) that are responsible for collecting swabs for PCR detection of SARS-CoV-2. Up to 1950
+      (or 2130 pending funding) eligible participants will be randomised in a 1:1:1 ratio to one of
+      the investigational arms.
+
+      Participants will be followed until 65 PCR and serology-confirmed, SARS-CoV-2 infections are
+      identified in the control arm (or 165 in the entire study cohort). For each episode of
+      PCR-confirmed COVID-19 disease, data on self-reported symptoms (modified Flu-PRO) and their
+      duration, and an investigator-assessed severity score (WHO Ordinal Scale for Clinical
+      Improvement) will be recorded. Data on self-reported symptoms and duration will also be
+      collected for other all-cause acute respiratory illnesses. Safety and tolerability of each
+      arm will be assessed through adverse event reporting. Participants who develop COVID-19
+      disease will have their IMP discontinued but will be followed up in the study until the
+      completion of the trial, where possible. Multiple, discrete occurrences of COVID-19 disease
+      could therefore be identified in a single participant.
+
+      Additional arms may be added, or existing ones substituted, should new potential agents be
+      identified or other combinations for prophylaxis be proposed. A formal amendment will be
+      documented should this be considered.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2020</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of SARS-CoV-2 infections</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of SARS-CoV-2 infection (COVID-19) confirmed by PCR and/or serology.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of symptoms</measure>
+    <time_frame>6 months</time_frame>
+    <description>Duration of symptoms for each symptomatic infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum score on WHO Ordinal Scale</measure>
+    <time_frame>6 months</time_frame>
+    <description>Maximum score on WHO Ordinal Scale for Clinical Improvement for each symptomatic infection. Score of 0 being uninfected and a score of 8 being dead.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to onset of SARS-CoV-2 infection</measure>
+    <time_frame>6 months</time_frame>
+    <description>Time to onset of SARS-CoV-2 infection (COVID-19) confirmed by PCR and/or serology</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of symptomatic SARS-CoV-2 infections</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of symptomatic SARS-CoV-2 infection (COVID-19) confirmed by PCR and/or serology</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of asymptomatic SARS-CoV-2 infections</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of asymptomatic • Asymptomatic SARS-CoV-2 infection suggested by serological outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak score on modified Flu PRO</measure>
+    <time_frame>6 months</time_frame>
+    <description>Peak score on modified Flu-PRO during each symptomatic infection. 37-item questionairre assessing the severity of flu like symptoms one a scale of 0 - not at all to 5 - very much.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1950</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Arm A: No pharmacological intervention (PPE only)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B: Nitazoxanide (NTZ)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Nitozoxanide administered</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C: Sofosbuvir/daclatasvir (SOF/DCV).</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Sofosbuvir/daclatasvir administered</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nitazoxanide</intervention_name>
+    <description>Nitozoxanide 1 tablet (500 mg) taken 12-hourly with food for the first week, followed by 2 tablets (1000 mg) taken 12-hourly with food thereafter. (Participants that fail to tolerated the 1000 mg 12-hourly dose may revert back to the lower dose.)</description>
+    <arm_group_label>Arm B: Nitazoxanide (NTZ)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sofosbuvir/Daclatasvir</intervention_name>
+    <description>Sofosbuvir/daclatasvir 400mg/60 mg sofosbuvir/daclatasvir fixed dose combination 1 tablet daily</description>
+    <arm_group_label>Arm C: Sofosbuvir/daclatasvir (SOF/DCV).</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age ≥18 years of age, inclusive, at the time of signing the informed consent.
+
+          2. Willing and able to provide informed consent via an electronic process.
+
+          3. Healthcare worker employed at a participating institution that has been identified as
+             high-risk for SARS-CoV-2 exposure (may include doctors, nurses, nurse aids,
+             radiographers, physiotherapists, phlebotomists, technicians, porters, cleaners,
+             laboratory or other personnel identified as being at high risk of exposure) or a CHW
+             involved in the collection of samples for the identification of SARS-CoV-2 through
+             PCR.
+
+          4. Women of reproductive potential must be using a highly effective method of
+             contraception for at least 28 days prior to enrolment and must be able and willing to
+             continue its use throughout the duration of the study.
+
+          5. Body weight ≥45 kg.
+
+          6. Access to reliable video conference, telephone, direct/text messaging, or other device
+             permitting real-time, reliable information transfer.
+
+        Exclusion Criteria:
+
+          1. Pregnant or lactating women.
+
+          2. PCR and/or serology confirmed SARS-Cov-2 infection at screening.
+
+          3. Current symptoms of COVID-19 disease (including, but not limited to, fever or chills,
+             cough, myalgia, sore throat, shortness of breath, or new onset of anosmia or ageusia,
+             or diarrhea).
+
+          4. Self-reported presence or history of any of the following conditions:
+
+               -  Chronic kidney disease (Stage IV or receiving dialysis)
+
+               -  Cirrhosis (Child-Pugh Class B or greater)
+
+               -  Porphyria cutanea tarda.
+
+          5. Currently on treatment for epilepsy or other seizure disorder.
+
+          6. Currently on treatment with a protease inhibitor-based antiretroviral regimen, or
+             efavirenz, or on treatment with amiodarone, carbamazepine, phenobarbitone, phenytoin,
+             primidone, rifampicin, or St. John's wort.
+
+          7. Known hypersensitivity or specific contraindications to the use of any of the active
+             drugs in the treatment arms or similar compounds.
+
+          8. Current enrolment in another COVID-19 prevention trial.
+
+          9. Concurrent or recent (within 3 months) participation in other research with a compound
+             likely to interfere with any of the investigational products.
+
+         10. Any surgical or medical condition which might significantly alter the absorption,
+             distribution, metabolism, or excretion of drugs, or which may jeopardize the safety of
+             the volunteer or the objectives of the study. The Investigator should make this
+             determination in consideration of the volunteer's medical history.
+
+         11. Inability or unwillingness to be followed up for the study period.
+
+         12. Personnel (e.g. investigator, sub-investigator, research assistant, pharmacist, study
+             coordinator or anyone mentioned in the delegation log) directly involved in the
+             conduct of the study. (Personnel employed at a study site, but not directly involved
+             in the conduct of the study, who would like to participate in the study, may only do
+             so if they are enrolled in the study through a different site at which they are not
+             employed.)
+
+         13. Participant is judged by the Investigator to be at significant risk of failing to
+             comply with the provisions of the protocol as to cause harm to self or seriously
+             interfere with the validity of the study results.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Charlotte Maxeke Johannesburg Academic Hospital</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>2196</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sunnyside Office Park</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>South Africa</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 23, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Witwatersrand, South Africa</investigator_affiliation>
+    <investigator_full_name>Willem Daniel Francois Venter</investigator_full_name>
+    <investigator_title>Divisional Director: Ezintsha</investigator_title>
+  </responsible_party>
+  <keyword>Nitazoxanide</keyword>
+  <keyword>Sofosbuvir/Daclatasvir</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sofosbuvir</mesh_term>
+    <mesh_term>Nitazoxanide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2288">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516564</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AK119-101</org_study_id>
+    <nct_id>NCT04516564</nct_id>
+  </id_info>
+  <brief_title>A Study of AK119 (Anti-CD73 Antibody), a Treatment for COVID-19, in Healthy Subjects</brief_title>
+  <official_title>A Phase 1, Randomized, Double-Blind, Placebo-Controlled, Single Ascending Dose, First-In-Human Study Evaluating the Safety, Tolerability, and Pharmacokinetics of AK119 in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Akesobio Australia Pty Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Akeso</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a first-in-human (FIH), Phase 1, single-center, randomized, double-blind,
+      placebo-controlled, single ascending dose study to evaluate the safety, tolerability, PK and
+      immunogenicity of AK119, a humanized monoclonal antibody targeting the CD73. The study will
+      consist of 4 cohorts of healthy subjects. Eight subjects will be enrolled per cohort,
+      randomized in a 3:1 ratio to receive a single dose of either the active drug AK119 (N=6) or
+      matching placebo (N=2). Approximately 32 subjects (24 receiving active drug and 8 receiving
+      placebo) will participate in this study.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of treatment-emergent AEs</measure>
+    <time_frame>From signing of informed consent till end of study (approximately 64 days postdose)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum serum concentration (Cmax) of AK119</measure>
+    <time_frame>From baseline till end of study (approximately 64 days postdose)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the concentration-time curve (AUC) of serum concentration of AK119</measure>
+    <time_frame>From baseline till end of study (approximately 64 days postdose)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects who develop detectable anti-drug antibodies (ADAs)</measure>
+    <time_frame>From baseline till end of study (approximately 64 days postdose)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Coronavirus Disease 2019 (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>AK119</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of AK119 is administered via intravenous infusion to healthy subjects.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of placebo is administered via intravenous infusion to healthy subjects.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AK119</intervention_name>
+    <description>Single dose of AK119 is administered via intravenous infusion to healthy subjects</description>
+    <arm_group_label>AK119</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Single dose of placebo is administered via intravenous infusion to healthy subjects</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Subjects must meet ALL the following inclusion criteria (as applicable) to be eligible for
+        participation in this study:
+
+          -  Adults between 18 and 55 years of age, inclusive, at screening.
+
+          -  Must have a calculated body mass index (BMI, weight [kg]/height [m2]) within 18.0 to
+             30.0 kg/m2 (inclusive) at screening, and a total body weight ≥50 kg for men or ≥45 kg
+             for women at screening and Day -1 before randomization.
+
+          -  Must, in the opinion of the Investigator, be in good general health based upon medical
+             history, physical examination (including vital signs), and 12-lead ECG; and clinical
+             laboratory tests (up to 1 repeat permitted) must fall within the clinical laboratory&quot;s
+             reference normal ranges.
+
+        Exclusion Criteria:
+
+        Subjects who meet ANY of the following exclusion criteria will not be enrolled in this
+        study
+
+          -  Have a history of latent or active granulomatous infection, including histoplasmosis,
+             candidiasis, or coccidioidomycosis prior to screening, or a history of any other
+             infectious disease within 4 weeks prior to screening that, in the opinion of the
+             Investigator, affects the subject&quot;s ability to participate in the study.
+
+          -  Have a history of multiple drug allergies or a known allergy or hypersensitivity to
+             any biologic therapy at screening that is important in the opinion of the
+             Investigator.
+
+          -  Have a known allergy or reaction to any component of the AK119 formulation.
+
+          -  Have any known malignancy or have a history of malignancy within the previous 5 years.
+
+          -  Have a 12-lead ECG demonstrating QTcF interval &gt; 450 msec for male subjects and &gt;470
+             msec for female subjects at screening and Day -1 from average of 3 ECGs obtained after
+             5 minutes of supine rest.
+
+          -  Blood pressure (BP) &gt;150 mmHg (systolic) or &gt; 95 mmHg (diastolic) at screening and Day
+             -1, following at least 5 minutes of supine rest.
+
+          -  Have had a live vaccination within 12 weeks prior to the study dosing or intend to
+             have a live vaccination during the course of the study or have participated in a
+             vaccine clinical study within 12 weeks prior to the study dosing.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Kon Yew Kwek, BMBCh, DPhil</last_name>
+    <phone>+86 (0760) 8987 3999</phone>
+    <email>global.trials@akesobio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Christchurch Clinical Studies Trust</name>
+      <address>
+        <city>Christchurch</city>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Chris Wynne</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>New Zealand</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>September 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Anti-CD73</keyword>
+  <keyword>immunotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

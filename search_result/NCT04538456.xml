@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2390">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04538456</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CFTSp189</org_study_id>
+    <nct_id>NCT04538456</nct_id>
+  </id_info>
+  <brief_title>Impact of COVID-19 on Lung Cancer Patients</brief_title>
+  <official_title>Understanding the Physical, Social and Psychological Impact of COVID-19 on Frail and Shielded Lung Cancer Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Christie NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Christie NHS Foundation Trust</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      During the COVID-19 pandemic, people's lives have changed dramatically. People with lung
+      cancer who are shielding may have been particularly affected as they may be unable to carry
+      out many of their normal daily activities, such as grocery shopping and exercise, and are
+      unable to interact with friends and family. People with lung cancer will also have
+      experienced some changes to the clinical services available to them at The Christie. Using a
+      questionnaire and interviews, the investigators want to understand patient experiences of the
+      changes in their daily lives and the changes to their clinical care. This will help us to see
+      if people with lung cancer need any additional support services or if there are any changes
+      the investigators can make to clinical services to improve patient experiences. Eligible
+      patients will be any lung cancer patients receiving current treatment or in active follow up.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The COVID-19 pandemic, declared by the World Health Organisation (WHO) on 11 March 2020, has
+      managed to dramatically change all of our lives in just a few short months. Due to the
+      unprecedented demand to protect the National Health service (NHS), on 23 March 2020 the
+      United Kingdom (UK) government initiated a lock down, imposing wide-ranging restrictions on
+      freedom of movement. Cancer services have been being particularly impacted across the
+      country.
+
+      Around 48,000 patients are newly diagnosed with lung cancer in the UK each year. Those who
+      require active treatment may be offered radiotherapy, systemic anticancer therapy including
+      chemotherapy, targeted therapy or immunotherapy, or a combination of both. A recent document
+      published by Public Health England(PHE) has classified lung cancer patients receiving any of
+      these treatments as 'extremely vulnerable.' Common co-existing comorbidities such as Chronic
+      Obstructive Pulmonary Disease (COPD) also place patients into this category. Their
+      vulnerability may be further amplified when considering that 44% of all new lung cancer
+      diagnoses are in people aged &gt;75 years and a significant proportion is particularly frail.
+      The advice from PHE for these 'extremely vulnerable' patients was to shield, meaning they
+      should not leave their homes or attend any social gatherings, even with family or friends.
+      Shielding unfortunately is not without its own challenges. It may prevent many patients from
+      carrying out their daily life activities independently, limit their ability to exercise and
+      impact their mental further. This is particularly relevant for those patients more vulnerable
+      or frail. It would therefore be expected that these patients are likely to develop some
+      degree of psychological distress. The act of shielding itself may be implicated in this owing
+      to increased social isolation, upset to normal routines and general anxiety regarding
+      COVID-19 related or other issues. In addition any change to routine lung cancer management in
+      these patients may exacerbate this distress further. Those with underlying mental health
+      issues are at particular risk.
+
+      During the COVID-19 pandemic both the lung cancer diagnosis and its subsequent management
+      have been affected. These rapid changes reflected the shifting risk-benefit ratio for
+      patients and diminished resources. Beyond modifications in treatment pathways, telephone
+      consultations have replaced many face to face appointments in an attempt to reduce visits to
+      hospital. The use of electronic Health tools and telemedicine has therefore suddenly come to
+      the fore front of clinical practice.
+
+      At the Christie NHS Foundation Trust, all lung cancer patients have been given the
+      opportunity to regularly complete electronic patient reported outcome measures routinely as
+      part of their clinical care since December 2018. Patients are sent a text message either on
+      the day of a new patient appointment or three days before a follow-up appointment. They are
+      asked to complete the electronic Patient Reported Outcome Measures specifically selected for
+      each patient's diagnosis and treatment pathway including a list of symptoms based on the
+      Common Terminology Criteria for Adverse Events. The EuroQual-5D quality of life questionnaire
+      is also included. This allows clinicians to review patients' symptoms before the
+      consultation, allowing him/her to focus on the concerning symptoms and quality of life
+      issues. Moreover, all new lung cancer patients are also screened for frailty within the
+      Frailty Project through the electronic use of Rockwood Clinical Frailty Scale which is
+      performed by clinicians.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">January 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Physical and Social impact</measure>
+    <time_frame>baseline</time_frame>
+    <description>Physical and social impact will be captured by the EuroQual-5D quality of life and questions regarding patient's diagnosis and treatment pathway including a list of symptoms based on the Common Terminology Criteria for Adverse Events.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Psychological impact</measure>
+    <time_frame>baseline</time_frame>
+    <description>Emotional impact will be assessed using the Hospital Anxiety Depression Scale. Scores range from 0-21 for each of the two subscales (anxiety and depression), with higher scores indicating greater anxiety and depression.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>prevalence and impact of frailty</measure>
+    <time_frame>baseline</time_frame>
+    <description>Frailty will be assessed using the Rockwood Clinical Frailty Scale. With scores ranging from 1-9, with higher scores indicating higher frailty.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Lung Cancer</condition>
+  <condition>PROM</condition>
+  <condition>Covid19</condition>
+  <condition>Psychological</condition>
+  <arm_group>
+    <arm_group_label>used electronic Patient Reported Outcome Measures</arm_group_label>
+    <description>Lung cancer patients who have used the electronic Patient Reported Outcome Measures system before and after COVID-19 lock down or new patients who have completed their first electronic Patient Reported Outcome Measures after COVID-19 lock down.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>never used electronic Patient Reported Outcome Measures</arm_group_label>
+    <description>Lung cancer patients who have never completed electronic Patient Reported Outcome Measures.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>questionnaire and optional interview</intervention_name>
+    <description>Participants will be sent an online or paper questionnaire. If participants have expressed an interest in taking part in an interview, they may be contacted by a member of the research team. The interviews will be conducted over the phone at time suitable for the participant. There will be no study specific hospital visits.</description>
+    <arm_group_label>never used electronic Patient Reported Outcome Measures</arm_group_label>
+    <arm_group_label>used electronic Patient Reported Outcome Measures</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Additionally, participants will need to meet the criteria to be selected for one of the two
+        cohorts of patients:
+
+          1. Lung cancer patients voluntarily using the ePROMs platform with at least 1 assessment
+             completed in the 6 months prior to 23 March 2020 (COVID-19 lockdown date) and 1
+             assessment after this date or new patients who have completed their first electronic
+             Patient Reported Outcome Measures after 23 March 2020
+
+          2. Lung cancer patients who have never complete electronic Patient Reported Outcome
+             Measures data.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  non-small cell lung cancer (NSCLC) or small cell lung cancer (SCLC)
+
+          -  patients in active treatment or in clinical follow-up
+
+        Exclusion Criteria:
+
+          -  Lung cancer patients who do not speak or understand English will not be eligible to
+             take part in the study
+
+          -  Patients under the age of 18 will be eligible for the study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 4, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

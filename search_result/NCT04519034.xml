@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="848">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04519034</url>
+  </required_header>
+  <id_info>
+    <org_study_id>285176</org_study_id>
+    <nct_id>NCT04519034</nct_id>
+  </id_info>
+  <brief_title>Vitamin D Status and Immune-inflammatory Status in Different UK Populations With COVID-19 Infection</brief_title>
+  <official_title>Retrospective Pilot Study of Vitamin D Status and Immune-inflammatory Status in Different UK Populations With COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Guy's and St Thomas' NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Guy's and St Thomas' NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Our hypothesis: Serum Vitamin D (25(OH)D) is significantly lower in severe versus non-severe
+      COVID-19 infections and that this is a function of ethnicity. There is an association between
+      vitamin D status and various cytokines (pro-inflammatory molecules).
+
+      The primary objective of this research is to provide a snap shot of vitamin D status in
+      patients from the South-East London area by age, sex, ethnicity and BMI and demonstrate
+      ethnic differences in vitamin D status as well as its associations with severe vs non-severe
+      COVID-19 infections.
+
+      The secondary objective is to determine if there is an association between vitamin D status
+      and various cytokines (pro-inflammatory molecules) and severity of disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Worldwide there has been over 6 million cases and 380,810 deaths from Coronavirus 2019
+      (COVID-19) (ECDC June 2020). According to the European Centre for Disease Prevention and
+      Control (ECDC) risk factors for critical illness include elderly people above 70 years of
+      age, and people with underlying conditions such as hypertension, diabetes, cardiovascular
+      disease, chronic respiratory disease, immune compromised status and obesity (73.4% of
+      critically ill patients with BMI 30-40). In addition, in the UK 32% of critically ill
+      COVID-19 patients are of Black or Asian ethnic-minority background (ICNARC April 10th, 2020).
+      There is therefore an urgent need to fully understand the risk factors for severe COVID-19
+      infection and find an effective treatment. In COVID-19 infection those patients that required
+      intensive care treatment have high circulating cytokines and chemokines TNF-α, IL-2, IL-6,
+      IL-7, IL-9, IL-17, IFN-γ, MCP-1 and MIP-1α (Huang et al 2020). Severe COVID-19 infection
+      appears therefore to be associated with a damaging hyperinflammation state (Mehta et al
+      2020). In addition to a dysregulated cytokine response there is also dysregulation of immune
+      cell populations in COVID-19 infection. For example, there is low T regs, NK cell and CD8+
+      and CD4+ T cells in severe COVID-19 infection (Wang et al 2020 and Qin et al 2020). Moreover,
+      CD8+ T cells appear to be an independent predictor for COVID-19 severity and treatment
+      efficacy (Wang et al 2020).
+
+      Other than genetic factors, e.g. HLA, which may predispose to severe COVID-19, vitamin D
+      (25(OH)D) may be important for several reasons. Firstly because 25(OH)D inadequacy is
+      prevalent in European and US older adults (&gt;60 years), Black and Asian minority ethnic
+      population groups and in those with a high BMI (O'Neill et al 2016, Orces et al 2019).
+      Secondly because 25(OH)D is known to have important immunoregulatory roles e.g. in
+      downregulating pro-inflammatory cytokines TNF-α, IL-1, IL-2, IL-6, IL-8, IL-17, IFN-γ and
+      upregulating anti-inflammatory TGFβ and IL-10 (Hart et al 2011). 25(OH)D also promotes Treg
+      and effector CD8+ T cell differentiation and expansion (Brue and Cantorna 2011, Sherri et al
+      2017, Alves et al 2018). Furthermore, 25(OH)D has a role in preventing and reducing human
+      respiratory infections e.g. influenza and in experimental animals is positively associated
+      with virus specific CD8+ T cells (Bergman et al 2013, Surman et al 2017, Martineau et al
+      2017). Vitamin D may also be an important modulator of hyperinflammatory response in patients
+      with Covid-19 infection through cytokine storm suppression (Daneshkhah et al, 2020; Huang et
+      al, 2020).
+
+      As part of the Government's response to Covid-19, Public Health England has re-issued
+      existing advice on vitamin D: https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/
+      This study will provide important information on vitamin D status as a possible risk factor
+      in relation to COVID-19 infection in UK elderly and ethnic minority populations. Furthermore,
+      the data generated could also have important implications for future supplementation and or
+      vaccination strategies for COVID-19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Collecting vitamin D results in patients from the South-East London area together with age, sex, ethnicity and BMI and other relevant laboratory results.</measure>
+    <time_frame>January-June 2020</time_frame>
+    <description>All vitamin D results performed by the Nutristasis Unit at St. Thomas' since January 2020 (N= ~15000) together with age, weight and height if available, ethnicity and other relevant laboratory markers (Ca, adjusted calcium, PTH, Mg, phosphate, liver and renal profile, Covid-19 screening, CRP, Haematinics, FBC) if they were tested within two weeks of the sample being measured for vitamin D will be acquired. The results of this audit will provide us with a snap shot of vitamin D status in patients from the South-East London area by age, sex, ethnicity and BMI (weight in kg/height2). Correlation analysis will also be undertaken with other laboratory parameters.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Collecting Covid-19 screening results together with age, sex, ethnicity and BMI and other relevant laboratory results.</measure>
+    <time_frame>March-June 2020</time_frame>
+    <description>All Covid-19 screening results together with vitamin D (nmol/L), ethnicity, age (yrs), weight (m) and height to obtain BMI, length of stay in hospital including ICU in days (if applicable), type of illness, recovered or not (y or no), associated health conditions, CRP, Ferritin, Haematinics, vitamin A and E, procalcitonin, LDH, INR, fibrinogen, FBC, D-dimers, CK, Troponin-T, cytokines, renal function and electrolytes will be collected from patients tested at GSTT NHS Trust.
+We expect that only a small number of patients who had Covid-19 screening performed would have had vitamin D, cytokines and other markers measured. However, we estimate that we will be able to identify a sufficient number of Covid-19 patients for regression and correlation analysis from this data.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">27000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Audit 1</arm_group_label>
+    <description>All vitamin D results performed since January 2020 (N= ~15000) together with age, weight and height if available, ethnicity and other relevant laboratory markers (Ca, adjusted calcium, PTH, Mg, phosphate, liver and renal profile, Covid-19 screening, CRP, Haematinics, FBC)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Audit 2</arm_group_label>
+    <description>All Covid-19 screening results together with vitamin D, ethnicity, age, weight, height, length of stay in hospital including ICU (if applicable), type of illness, recovered or not, associated health conditions, CRP, Ferritin, Haematinics, vitamin A and E, procalcitonin, LDH, INR, fibrinogen, FBC, D-dimers, CK, Troponin-T, cytokines, renal function and electrolytes from patients tested at GSTT NHS Trust.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>no intervention</intervention_name>
+    <description>There will be no intervention</description>
+    <arm_group_label>Audit 1</arm_group_label>
+    <arm_group_label>Audit 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients tested for vitamin D and Covid-19
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients tested for vitamin D and Covid-19
+
+        Exclusion Criteria:
+
+          -  not applicable
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Agata Sobczynska-Malefora, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>GSTT NHS Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Agata Sobczynska-Malefora, PhD</last_name>
+    <phone>02071889543</phone>
+    <email>agata.malefora@viapath.co.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rachel Fay, Ms</last_name>
+    <phone>02071854426</phone>
+    <email>R&amp;D@gstt.nhs.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>GSTT NHS Trust</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 19, 2020</study_first_posted>
+  <last_update_submitted>August 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>vitamin D</keyword>
+  <keyword>cytokines</keyword>
+  <keyword>ethnicity</keyword>
+  <keyword>pro-inflammatory molecules</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

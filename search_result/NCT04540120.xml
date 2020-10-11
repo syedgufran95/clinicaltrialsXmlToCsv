@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1409">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04540120</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OLT1177-10</org_study_id>
+    <nct_id>NCT04540120</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of Dapansutrile for Treatment of Moderate COVID-19 Symptoms and Evidence of Early Cytokine Release Syndrome</brief_title>
+  <official_title>A Phase 2 Randomized, Double-Blind, Placebo-Controlled Trial of the Safety and Efficacy of Orally Administered Dapansutrile Capsules for the Treatment of Moderate COVID-19 Symptoms and Evidence of Early Cytokine Release Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Olatec Therapeutics LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>CTI Clinical Trial and Consulting Services</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Olatec Therapeutics LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety and efficacy of orally administered NLRP3
+      inhibitor, dapansutrile, for the treatment of moderate COVID-19 symptoms and early cytokine
+      release syndrome (CRS) in an ambulatory, at-home setting.
+
+      Coronavirus disease 2019 (COVID-19) is caused by infection from a new strain of severe acute
+      respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 is characterized by fever, cough
+      and shortness of breath, which in certain patients can lead to systemic organ failure and
+      mortality.
+
+      The data show that SARS-CoV-2 activates the innate immune signaling sensor NLRP3. Activation
+      of NLRP3 initiates the cytokine release syndrome (CRS), which includes the production of
+      primary cytokine, IL-1, triggering an intense inflammatory response that is prevalent in
+      symptomatic COVID-19 patients. When CRS advances further to a fulminant 'cytokine storm', the
+      data show that respiratory distress syndrome and multiple-organ failure take place.
+
+      As a specific inhibitor of NLRP3, dapansutrile may reduce or prevent the hyperinflammation
+      associated with CRS by inhibiting the production of IL-1β early to arrest the progression to
+      a severe 'cytokine storm.' The end result would be a reduction in the need for COVID-19
+      patients to receive intensive medical treatment, allowing for fewer hospitalizations,
+      administration of mechanical ventilation and deaths.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 2, randomized, double-blind, placebo-controlled study evaluating dapansutrile
+      versus placebo. Approximately 80 subjects randomized 1:1 (40 dapansutrile, 40 placebo) are
+      planned to be enrolled.
+
+      At the Screening/Baseline/Day 1 Visit, subjects will provide informed consent, be screened
+      for eligibility, and be randomized/enrolled into the study. Subjects will also receive the
+      first dose of study drug at this visit once study eligibility has been confirmed, and the
+      second dose of study drug will be taken approximately 12 hours after the first dose. Study
+      drug will be continued twice daily (morning and evening doses) through Day 14.
+
+      The trial duration will be approximately 45 days for all subjects enrolled, with assessments
+      as follows: Screening/Baseline/Day 1, Day 4, Day 8, Day 15 (±1 day), Day 29 (±3 days), and
+      Day 45 (± 3 days). The Day 29 and Day 45 follow-up visits may be conducted virtually via the
+      institution's telehealth process.
+
+      Each subject will be asked to maintain two paper diaries at home daily for the first 14 days:
+      a dosing diary and a subject diary. The dosing diary will be used to record the number of
+      capsules taken each morning and evening. The subject diary will be used to record
+      temperature, oxygen levels, COVID-19 symptoms, and overall health (using the prior 24-hour
+      period for parameters requiring subject recall). The set of questions used in the subject
+      diary will also be administered to the subjects at the Screening/Baseline/Day 1Visit
+      (pre-dose), Day 15, Day 29, and Day 45 visits. Each subject will be provided a no-contact
+      thermometer and a hand-held pulse oximeter at the Screening/Baseline/Day 1 Visit for home
+      use.
+
+      At Day 29 and Day 45, additional assessments of safety and clinical activity will occur. The
+      Day 29 and Day 45 follow-up visits will be conducted virtually via the sites' telehealth
+      process.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 25, 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Subjects will be assigned to receive either dapansutrile capsules or placebo capsules in a 1:1 ratio.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>This is a randomized, blinded, placebo-controlled study. Treatment allocation (to active or placebo treatment groups) will be blinded to all study participants, personnel, and investigators. Only the drug labeling personnel, unblinded pharmacist and DMC members may be unblinded to the treatment assignment. Also, in the event of an emergency, an unblinding envelope can be opened unmasking the treatment assignment to the PI.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of subjects with complete resolution of fever symptoms and shortness of breath</measure>
+    <time_frame>Day 15</time_frame>
+    <description>Proportion of subjects with complete resolution of fever symptoms (feeling feverish, chills, shivering and/or sweating) and shortness of breath by Day 15</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of SAEs</measure>
+    <time_frame>Day 45</time_frame>
+    <description>Evaluate the cumulative incidence of SAEs of dapansutrile relative to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of Grade 3 and Grade 4 Adverse Events</measure>
+    <time_frame>Day 45</time_frame>
+    <description>Evaluate the cumulative incidence of Grade 3 and Grade 4 Adverse Events of dapansutrile relative to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discontinuation or temporary suspension of participation</measure>
+    <time_frame>Day 45</time_frame>
+    <description>Evaluate the cumulative incidence of discontinuation or temporary suspension (for any reason) of dapansutrile relative to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in white cell count</measure>
+    <time_frame>Day 8, Day 15</time_frame>
+    <description>Evaluate changes in white cell count of dapansutrile relative to placebo over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in hemoglobin</measure>
+    <time_frame>Day 8, Day 15</time_frame>
+    <description>Evaluate changes in hemoglobin of dapansutrile relative to placebo over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in platelets</measure>
+    <time_frame>Day 8, Day 15</time_frame>
+    <description>Evaluate changes in platelets of dapansutrile relative to placebo over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in creatinine</measure>
+    <time_frame>Day 8, Day 15</time_frame>
+    <description>Evaluate changes in creatinine of dapansutrile relative to placebo over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in glucose</measure>
+    <time_frame>Day 8, Day 15</time_frame>
+    <description>Evaluate changes in glucose of dapansutrile relative to placebo over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in total bilirubin</measure>
+    <time_frame>Day 8, Day 15</time_frame>
+    <description>Evaluate changes in total bilirubin of dapansutrile relative to placebo over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in ALT</measure>
+    <time_frame>Day 8, Day 15</time_frame>
+    <description>Evaluate changes in ALT of dapansutrile relative to placebo over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in AST</measure>
+    <time_frame>Day 8, Day 15</time_frame>
+    <description>Evaluate changes in AST of dapansutrile relative to placebo over time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of new infection that occurs during the study</measure>
+    <time_frame>Day 8, Day 15</time_frame>
+    <description>Evaluate changes in incidence of new infection that occurs during the study of dapansutrile relative to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of opportunistic infections</measure>
+    <time_frame>Day 8, Day 15</time_frame>
+    <description>Evaluate changes in incidence of opportunistic infections of dapansutrile relative to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complete resolution of fever symptoms and shortness of breath</measure>
+    <time_frame>Day 8, Day 29 and Day 45</time_frame>
+    <description>Proportion of subjects who experience clinical resolution of fever symptoms and shortness of breath</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical improvement</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Time to clinical improvement in fever symptoms and shortness of breath</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to sustained absence of fever</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Time to sustained absence of fever, defined as at least 2 days since last temperature measurement of ≥ 38˚C (100.4°F)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement in symptoms relevant to COVID 19</measure>
+    <time_frame>Day 15</time_frame>
+    <description>Proportion of subjects who experience clinical improvement in symptoms relevant to COVID 19 (e.g., cough, diarrhea, vomiting)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of composite endpoint of hospitalization, supplemental oxygen, mechanical ventilation, or death</measure>
+    <time_frame>Day 45</time_frame>
+    <description>Incidence of subjects meeting the composite endpoint of subjects requiring hospitalization (hospitalization is defined as ≥ 24 hours of acute care), supplemental oxygen, mechanical ventilation, or who die</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement in symptoms</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Proportion of subjects who experience clinical improvement in symptoms by Day 15, defined as a reduction of two or more points on the WHO Ordinal Scale for Clinical Improvement (lowest score between Baseline Visit/Day 1 and Day 15)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in oxygenation</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Improvement in oxygenation over the course of the study and maintenance of this effect</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in ALT</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in AST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in AST</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in AST</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in blood glucose</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in blood glucose</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Erythrocyte Sedimentation Rate (ESR)</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in Erythrocyte Sedimentation Rate (ESR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Hemoglobin A1c (HbA1C)</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in Hemoglobin A1c (HbA1C)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Lactate dehydrogenase (LDH)</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in Lactate dehydrogenase (LDH)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Lymphocyte, Absolute count</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in Lymphocyte, Absolute count</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Monocyte, Absolute count</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in Monocyte, Absolute count</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neutrophils, Absolute count</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in Neutrophils, Absolute count</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Eosinophil, Absolute count</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in Eosinophil, Absolute count</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in CRP</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in CRP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in D-Dimer</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in D-Dimer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Ferritin</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in Ferritin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Fibrinogen</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in Fibrinogen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Partial Thromboplastin Time (PTT) and International Normalized Ratio (INR)</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in Partial Thromboplastin Time (PTT) and International Normalized Ratio (INR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in IL-1β</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in IL-1β</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in IL-6</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in IL-6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in IL-18</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in IL-18</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in granulocyte colony-stimulating factor (G-CSF)</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in granulocyte colony-stimulating factor (G-CSF)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in interferon-γ-induced protein 10 (IP-10)</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in interferon-γ-induced protein 10 (IP-10)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in C3a</measure>
+    <time_frame>Baseline/Day 1 to Day 15</time_frame>
+    <description>Assess and compare change from Baseline in C3a</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cytokine Release Syndrome</condition>
+  <arm_group>
+    <arm_group_label>dapansutrile capsules</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A total of 40 subjects will receive 4x 250mg dapansutrile capsules BID for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo capsules</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>A total of 40 subjects will receive 4x 250mg placebo capsules BID for 14 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dapansutrile capsules</intervention_name>
+    <description>Hard opaque capsules containing 250 mg of API.</description>
+    <arm_group_label>dapansutrile capsules</arm_group_label>
+    <other_name>OLT1177 capsules</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>placebo capsules</intervention_name>
+    <description>Hard opaque capsules containing 0 mg of API.</description>
+    <arm_group_label>placebo capsules</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Male and female subjects ≥ 18 years of age;
+
+          2. SARS-CoV-2-positive, confirmed by Food and Drug Administration (FDA)- authorized
+             COVID-19 test ≤ 5 days prior to randomization;
+
+          3. Less than or equal to 120 hours from first symptom onset to randomization;
+
+          4. Subjects with moderate COVID-19 who have fever (temperature ≥ 38 ̊C / 100.4 ̊F) and
+             shortness of breath (with exertion), not requiring oxygen, and meeting the definition
+             of &quot;moderate&quot; as set forth by the May 2020 FDA Guidance for Industry: COVID-19:
+             Developing Drugs and Biological Products for Treatment or Prevention (FDA, 2020),
+             which includes all of the following criteria:
+
+               1. Respiratory rate: ≥ 20 breaths/minute,
+
+               2. SpO2: &gt; 93% on room air at sea level, and
+
+               3. Heart rate: ≥ 90 beats/minute;
+
+          5. Subject must possess at least one of the following high-risk conditions known to have
+             an underlying increased level of cytokine production:
+
+               1. 70 years or more of age,
+
+               2. Obesity (BMI ≥ 30 kg/m2),
+
+               3. Diabetes (type 1 or 2),
+
+               4. Uncontrolled hypertension,
+
+               5. Known respiratory disease (including asthma or chronic obstructive pulmonary
+                  disease [COPD]),
+
+               6. Known heart failure (note: subjects with New York Heart Association Class IV
+                  congestive heart failure cannot be enrolled per Exclusion Criterion 4), or
+
+               7. Known coronary disease;
+
+          6. Plasma CRP level ≤ 20 mg/L at Screening/Baseline/Day 1 Visit;
+
+          7. Acceptable overall medical condition to be safely enrolled in and complete the study
+             (with specific regard to cardiovascular, renal, and hepatic conditions) in the opinion
+             of the Investigator;
+
+          8. Ability to provide written, informed consent prior to initiation of any study- related
+             procedures, and ability (in the opinion of the Investigator) to understand and comply
+             with all the requirements of the study, which includes abstaining from the use of
+             prohibited medications.
+
+        Exclusion Criteria:
+
+          1. Women of childbearing potential, or men whose sexual partner(s) is a woman of
+             childbearing potential, who:
+
+               1. Are or intend to become pregnant (including use of fertility drugs) during the
+                  study;
+
+               2. Are nursing (female subjects only);
+
+               3. Are not using an acceptable, highly effective method of contraception until all
+                  follow-up procedures are complete.
+
+          2. Evidence of pre-existing or new-onset organ failure;
+
+          3. Evidence of moderate concurrent nervous system, renal, endocrine, or gastrointestinal
+             disease, unrelated to COVID-19 as determined by the Investigator;
+
+          4. Evidence of cardiovascular disease with significant arrhythmia, congestive heart
+             failure (New York Heart Association Class IV), unstable angina, uncontrolled
+             hypertension, cor pulmonale, or symptomatic pericardial effusion, not related to
+             COVID-19 as determined by the Investigator;
+
+          5. Required use of vasoactive drug support;
+
+          6. History of myocardial infarction in the 6 months prior to the Screening/Baseline/Day 1
+             Visit;
+
+          7. Evidence of current liver disease, not related to COVID-19 as determined by the
+             investigator;
+
+          8. History or evidence of active tuberculosis (TB) infection at Screening/Baseline/Day 1
+             Visit or one of the risk factors for tuberculosis such as but not limited or exclusive
+             to:
+
+               1. History of any of the following: residence in a congregate setting (e.g., jail or
+                  prison, homeless shelter, or chronic care facility), substance abuse (e.g.,
+                  injection or non-injection), health-care workers with unprotected exposure to
+                  subjects who are at high risk of TB or subjects with TB disease before the
+                  identification and correct airborne precautions of the subject or
+
+               2. Close contact (i.e., share the same air space in a household or other enclosed
+                  environment for a prolonged period (days or weeks, not minutes or hours)) with a
+                  person with active pulmonary TB disease within the last 12 months.
+
+          9. History of or currently active primary or secondary immunodeficiency;
+
+         10. Past or present requirement for oxygen (e.g., nasal cannula, proning, mechanical
+             ventilation and/or supplemental oxygen).
+
+         11. Use of any prohibited concomitant medications/therapies over the defined or planned
+             use of any concomitant medications/therapies during the
+
+             Treatment Period, including specifically:
+
+               1. use of ibuprofen or diclofenac
+
+               2. use of colchicine
+
+               3. use of systemic steroids within 30 days of randomization
+
+               4. use of janus kinase (JAK) inhibitors
+
+               5. use of off-label agents (e.g., hydroxychloroquine, remdesivir, dexamethasone) and
+                  biologic and oral anti-cytokine agents (e.g., current treatment with adalimumab,
+                  infliximab, etanercept, golimumab, certolizumab pegol, tocilizumab, sarilumab,
+                  anakinra, canakinumab, rilonacept, baricitinib, tofacitinib, or upadacitinib);
+
+             Note: During the treatment period a patient may meet the criteria for a treatment
+             approved by the FDA specifically for COVID-19 (e.g. remdesivir). In this situation the
+             investigator and medical monitor should confer and take the most appropriate decision
+             for the patient. If possible, the preference would be for the patient to complete the
+             14 days of dosing before adding on the 2nd treatment. If that is not possible the
+             preference would be for the patient to continue their 14 days on dapansutrile and
+             complete all study related visits.
+
+         12. Known history of renal impairment (e.g., calculated glomerular filtration rate [GFR] &lt;
+             45 mL/min);
+
+         13. Evidence of malignant disease, or malignancies diagnosed within the previous 5 years
+             (except for local basal or squamous cell carcinoma of the skin or carcinoma in situ of
+             the cervix uteri that has been excised and cured);
+
+         14. History of infection or known active infection with human immunodeficiency virus
+             (HIV), hepatitis B virus (HBV), or hepatitis C virus (HCV);
+
+         15. Any other concomitant medical or psychiatric conditions, diseases, or prior surgeries
+             that, in the opinion of the Investigator, would impair the subject from safely
+             participating in the trial and/or completing protocol requirements;
+
+         16. Individuals who have been in a chronic care facility in the past 30 days;
+
+         17. Individuals who are incarcerated;
+
+         18. Participation in any clinical trial and/or use of any investigational product within
+             the immediate 30-day period prior to the Screening/Baseline//Day 1 Visit.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Clinical Trial Operations</last_name>
+    <phone>+1 833-652-8321</phone>
+    <email>inquiries@olatec.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>MIDC</name>
+      <address>
+        <city>Huntsville</city>
+        <state>Alabama</state>
+        <zip>38501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MIDC</name>
+      <address>
+        <city>Burr Ridge</city>
+        <state>Illinois</state>
+        <zip>60527</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MIDC</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PanAmerican Clinical Research LLC</name>
+      <address>
+        <city>Brownsville</city>
+        <state>Texas</state>
+        <zip>78520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>J &amp; S Studies, Inc.</name>
+      <address>
+        <city>College Station</city>
+        <state>Texas</state>
+        <zip>77645</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 7, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>NLRP3</keyword>
+  <keyword>Covid19</keyword>
+  <keyword>Cytokine Release Syndrome</keyword>
+  <keyword>Dapansutrile</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dapansutrile</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1943">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04493242</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DB-001</org_study_id>
+    <nct_id>NCT04493242</nct_id>
+  </id_info>
+  <brief_title>Extracellular Vesicle Infusion Therapy for Severe COVID-19</brief_title>
+  <acronym>EXIT COVID-19</acronym>
+  <official_title>Extracellular Vesicle Infusion Treatment for Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Direct Biologics, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Direct Biologics, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety and efficacy of intravenous administration of bone marrow derived
+      extracellular vesicles, ExoFlo, versus placebo as treatment for moderate-to-severe Acute
+      Respiratory Distress Syndrome (ARDS) in patients with severe COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      EXIT COVID-19 is a multi-center, randomized, double-blinded, placebo-controlled trial that
+      will enroll 60 COVID-19 patients with moderate-to-severe ARDS at three research sites across
+      the U.S. The primary efficacy endpoints will be all-cause mortality and median days to
+      recovery.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multi-center, placebo-controlled, randomized clinical trial.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>all-cause mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>all-cause mortality</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>median days to recovery</measure>
+    <time_frame>28 days</time_frame>
+    <description>median days to recovery</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <condition>ARDS</condition>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>DB-001</intervention_name>
+    <description>Bone marrow derived extracellular vesicles.</description>
+    <arm_group_label>Dose 1</arm_group_label>
+    <arm_group_label>Dose 2</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Provision of signed and dated informed consent form (either by the individual or by
+             the individual's healthcare proxy).
+
+          2. Stated willingness to comply with all study procedures and availability for the
+             duration of the study
+
+          3. Male or female, aged 18-85.
+
+          4. COVID-19 positive as defined by positive RT-PCR SARS-CoV-2.
+
+          5. Moderate to severe ARDS as defined by modified Berlin definition*, which includes
+             timing within 1 week of known clinical insult or new or worsening respiratory
+             symptoms; bilateral opacities not fully explained by effusions, or lung collapse;
+             respiratory failure not fully explained by cardiac failure or fluid overload;
+             PaO2/FiO2 ≤ 200 mm Hg.
+
+          6. Clinical deterioration as evidenced by down-trending PaO2/FiO2 despite standard of
+             care**.
+
+          7. Acute presentation of hypoxia requiring noninvasive oxygen support such as NC, NRB,
+             BIPAP, HFNC. OR Acute presentation of hypoxic respiratory failure which required
+             intubation and subsequent mechanical ventilation.
+
+          8. If the candidate is either male or females of reproductive potential, he or she must
+             agree to use of double barrier method of highly effective birth control contraception
+             such as condoms with oral contraceptive pill or choose to remain abstinent if already
+             practicing abstinence during the screening period. The duration of required usage of
+             double barrier method OR maintenance of abstinence must include the time from the
+             beginning of the screening period until 90 days following the last dose of the study
+             treatment.
+
+        Exclusion Criteria:
+
+          1. Concomitant use of other COVID-19 disease modifying treatments such as Remdesivir,
+             Dexamethasone, Tocilizumab, Ritonavir/Lopinavir, and Hydroxychloroquine. (24 hour
+             washout prior to first dose)
+
+          2. Vulnerable populations such as pregnant patients, children, individuals with severe
+             physical or mental disabilities who cannot provide meaningful consent.
+
+          3. Active malignancy requiring treatment within the last five years.
+
+          4. Major physical trauma in the last 5 days, including motor vehicle accidents, assaults,
+             mechanical falls with sequalae of significant bleeding or craniofacial bruising, and
+             surgeries.
+
+          5. Active tuberculosis or cystic fibrosis.
+
+          6. Severe chronic respiratory disease including chronic obstructive pulmonary disease or
+             pulmonary fibrosis requiring home oxygen &gt; 5L/min.
+
+          7. Use of ECMO during the current hospitalization.
+
+          8. Pre-existing pulmonary hypertension.
+
+          9. Severe pre-existing hepatic impairment (presence of cirrhosis, LFTs ≥ 6x baseline, INR
+             ≥ 2.0).
+
+         10. Pre-existing stage IIIb Chronic Kidney Disease or End Stage Renal Disease prior to
+             onset of COVID-19 (stage I, II, and IIIa are acceptable)
+
+         11. Evidence of irreversible coagulopathy (e.g. frequently occluded vascular access
+             despite anticoagulation,
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>July 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Direct Biologics, LLC</investigator_affiliation>
+    <investigator_full_name>Vikram Sengupta</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>extracellular vesicles</keyword>
+  <keyword>exosome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Blister</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

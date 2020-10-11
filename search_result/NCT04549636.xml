@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2228">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04549636</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FIRH002</org_study_id>
+    <nct_id>NCT04549636</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Related Lung Ventilation and Perfusion Injury</brief_title>
+  <official_title>Prospective Longitudinal Study to Characterize and Understand the Clinical Relevance of SARS-CoV2 Related Ventilation and Perfusion Injury Evaluated by V/Q SPECT-CT in an Asthmatic and Healthy Population</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Research St. Joseph's - Hamilton</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cyclomedica Australia Pty Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>McMaster University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Little is currently known about the immediate and long-term effect of COVID-19 on lung
+      ventilation (delivery of air to the lungs) and lung perfusion (delivery of blood to the
+      lungs). Some people who survive COVID-19 may have lung ventilation and/or perfusion injury
+      that persists following COVID-19 recovery. This lung injury may be related to inflammation in
+      the lung, breathlessness, exercise limitation and reduced quality of life. Therefore, towards
+      the goal of understanding the effects of COVID-19 on lung health, the purpose of this study
+      is to characterize and understand the clinical relevance of COVID-19 related lung ventilation
+      and perfusion injury and associated inflammatory status, ≤4 weeks and 6-months following
+      COVID-19 recovery in an asthmatic and healthy population. To do this, an asthmatic and
+      healthy population who have, and have not, been previously diagnosed with COVID-19 will be
+      studied.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">September 18, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Short-term difference in ventilation defect percent assessed by ventilation SPECT-CT - healthy</measure>
+    <time_frame>≤4-weeks post COVID-19 recovery (Visit 1)</time_frame>
+    <description>The short-term difference in lung ventilation between healthyCOVID-19+ and healthyCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Short-term difference in perfusion defect percent assessed by perfusion SPECT-CT - healthy</measure>
+    <time_frame>≤4-weeks post COVID-19 recovery (Visit 1)</time_frame>
+    <description>The short-term difference in lung perfusion between healthyCOVID-19+ and healthyCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Short-term difference in lung ventilation/perfusion mismatch assessed by ventilation/perfusion SPECT-CT - healthy</measure>
+    <time_frame>≤4-weeks post COVID-19 recovery (Visit 1)</time_frame>
+    <description>The short-term difference in lung ventilation/perfusion mismatch between healthyCOVID-19+ and healthyCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Long-term difference in ventilation defect percent assessed by ventilation SPECT-CT - healthy</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>The long-term difference in lung ventilation between healthyCOVID-19+ and healthyCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Long-term difference in perfusion defect percent assessed by perfusion SPECT-CT - healthy</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>The long-term difference in lung perfusion between healthyCOVID-19+ and healthyCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Long-term difference in ventilation/perfusion mismatch assessed by ventilation/perfusion SPECT-CT - healthy</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>The long-term difference in lung ventilation/perfusion mismatch between healthyCOVID-19+ and healthyCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Short-term difference in ventilation defect percent assessed by ventilation SPECT-CT - asthmatic</measure>
+    <time_frame>≤4-weeks post COVID-19 recovery (Visit 1)</time_frame>
+    <description>The short-term difference in lung ventilation between asthmaticCOVID-19+ and asthmaticCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Short-term difference in perfusion defect percent assessed by perfusion SPECT-CT - asthmatic</measure>
+    <time_frame>≤4-weeks post COVID-19 recovery (Visit 1)</time_frame>
+    <description>The short-term difference in lung perfusion between asthmaticCOVID-19+ and asthmaticCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Short-term difference in ventilation/perfusion mismatch assessed by ventilation/perfusion SPECT-CT - asthmatic</measure>
+    <time_frame>≤4-weeks post COVID-19 recovery (Visit 1)</time_frame>
+    <description>The short-term difference in lung ventilation/perfusion mismatch between asthmaticCOVID-19+ and asthmaticCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Long-term difference in ventilation defect percent assessed by ventilation SPECT-CT - asthmatic</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>The long-term difference in lung ventilation between asthmaticCOVID-19+ and asthmaticCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Long-term difference in perfusion defect percent assessed by perfusion SPECT-CT - asthmatic</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>The long-term difference in lung perfusion between asthmaticCOVID-19+ and asthmaticCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Long-term difference in ventilation/perfusion mismatch assessed by ventilation/perfusion SPECT-CT - asthmatic</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>The long-term difference in lung ventilation/perfusion mismatch between asthmaticCOVID-19+ and asthmaticCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Longitudinal change in ventilation defect percent assessed by ventilation SPECT-CT - healthy</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>Difference in the 6-month change in lung ventilation between healthyCOVID-19+ and healthyCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Longitudinal change in perfusion defect percent assessed by perfusion SPECT-CT - healthy</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>Difference in the 6-month change in lung perfusion between healthyCOVID-19+ and healthyCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Longitudinal change in ventilation/perfusion mismatch assessed by ventilation/perfusion SPECT-CT - healthy</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>Difference in the 6-month change in lung ventilation/perfusion mismatch between healthyCOVID-19+ and healthyCOVID-19- participants</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Longitudinal change in ventilation defect percent assessed by ventilation SPECT-CT - asthmatic</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>Difference in the 6-month change in lung ventilation between asthmaticCOVID-19+ and asthmaticCOVID-19- participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Longitudinal change in perfusion defect percent assessed by perfusion SPECT-CT - asthmatic</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>Difference in the 6-month change in lung perfusion between asthmaticCOVID-19+ and asthmaticCOVID-19- participants.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Longitudinal change in ventilation/perfusion mismatch assessed by ventilation/perfusion SPECT-CT - asthmatic</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>Difference in the 6-month change in lung ventilation/perfusion mismatch between asthmaticCOVID-19+ and asthmaticCOVID-19- participants.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of lung ventilation with the St. George's Respiratory Questionnaire (SGRQ) score ≤4-weeks post COVID-19 recovery</measure>
+    <time_frame>≤4-weeks post COVID-19 recovery (Visit 1)</time_frame>
+    <description>In COVID-19+ participants, the correlation of lung ventilation with the St. George's Respiratory Questionnaire (SGRQ) score ≤4-weeks post COVID-19 recovery (Visit 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of lung ventilation with six-minute walk distance (6MWD) ≤4-weeks post COVID-19 recovery</measure>
+    <time_frame>≤4-weeks post COVID-19 recovery (Visit 1)</time_frame>
+    <description>In COVID-19+ participants, the correlation of lung ventilation with six-minute walk distance (6MWD) ≤4-weeks post COVID-19 recovery (Visit 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of lung ventilation with the forced expiratory volume in one second (FEV1) ≤4-weeks post COVID-19 recovery</measure>
+    <time_frame>≤4-weeks post COVID-19 recovery (Visit 1)</time_frame>
+    <description>In COVID-19+ participants, the correlation of lung ventilation with the forced expiratory volume in one second (FEV1) ≤4-weeks post COVID-19 recovery (Visit 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of lung ventilation with the diffusing capacity of the lung for carbon monoxide (DLCO) ≤4-weeks post COVID-19 recovery</measure>
+    <time_frame>≤4-weeks post COVID-19 recovery (Visit 1)</time_frame>
+    <description>In COVID-19+ participants, the correlation of lung ventilation with the diffusing capacity of the lung for carbon monoxide (DLCO) ≤4-weeks post COVID-19 recovery (Visit 1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of lung ventilation with the St. George's Respiratory Questionnaire (SGRQ) score 6-months post COVID-19 recovery</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>In COVID-19+ participants, the correlation of lung ventilation with the St. George's Respiratory Questionnaire (SGRQ) score 6-months post COVID-19 recovery (Visit 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of lung ventilation with six-minute walk distance (6MWD) 6-months post COVID-19 recovery</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>In COVID-19+ participants, the correlation of lung ventilation with six-minute walk distance (6MWD) 6-months post COVID-19 recovery (Visit 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of lung ventilation with the forced expiratory volume in one second (FEV1) 6-months post COVID-19 recovery</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>In COVID-19+ participants, the correlation of lung ventilation with the forced expiratory volume in one second (FEV1) 6-months post COVID-19 recovery (Visit 2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of lung ventilation with the diffusing capacity of the lung for carbon monoxide (DLCO) 6-months post COVID-19 recovery</measure>
+    <time_frame>6-months post COVID-19 recovery (Visit 2)</time_frame>
+    <description>In COVID-19+ participants, the correlation of lung ventilation with the diffusing capacity of the lung for carbon monoxide (DLCO) 6-months post COVID-19 recovery (Visit 2).</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">92</enrollment>
+  <condition>Covid-19</condition>
+  <condition>Asthma</condition>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>healthy COVID-19+</arm_group_label>
+    <description>Individuals who recently recovered from COVID-19 and who have no history of lung disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>asthmatic COVID-19+</arm_group_label>
+    <description>Individuals who recently recovered from COVID-19 and who have asthma</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>healthy COVID-19-</arm_group_label>
+    <description>Individuals who have not been diagnosed with COVID-19 and who have no history of lung disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>asthmatic COVID-19-</arm_group_label>
+    <description>Individuals who have not been diagnosed with COVID-19 and who have asthma</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>V/Q SPECT-CT</intervention_name>
+    <description>At visits 1 and 2, ventilation will be assessed by 99mTc Technegas SPECT ventilation scan and perfusion will be assessed by 99mTc Macroaggregated Albumin SPECT perfusion scan.</description>
+    <arm_group_label>asthmatic COVID-19+</arm_group_label>
+    <arm_group_label>asthmatic COVID-19-</arm_group_label>
+    <arm_group_label>healthy COVID-19+</arm_group_label>
+    <arm_group_label>healthy COVID-19-</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>St. George's Respiratory Questionnaire (SGRQ)</intervention_name>
+    <description>At visits 1 and 2, quality of life will be evaluated using the St. George's Respiratory Questionnaire (SGRQ).</description>
+    <arm_group_label>asthmatic COVID-19+</arm_group_label>
+    <arm_group_label>asthmatic COVID-19-</arm_group_label>
+    <arm_group_label>healthy COVID-19+</arm_group_label>
+    <arm_group_label>healthy COVID-19-</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>mMRC (Modified Medical Research Council) Dyspnea Scale</intervention_name>
+    <description>At visits 1 and 2, dyspnea will be evaluated using the mMRC (Modified Medical Research Council) Dyspnea Scale.</description>
+    <arm_group_label>asthmatic COVID-19+</arm_group_label>
+    <arm_group_label>asthmatic COVID-19-</arm_group_label>
+    <arm_group_label>healthy COVID-19+</arm_group_label>
+    <arm_group_label>healthy COVID-19-</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Six-minute walk test (6MWT)</intervention_name>
+    <description>At visits 1 and 2, exercise capacity will be evaluated using the six-minute walk test (6MWT).</description>
+    <arm_group_label>asthmatic COVID-19+</arm_group_label>
+    <arm_group_label>asthmatic COVID-19-</arm_group_label>
+    <arm_group_label>healthy COVID-19+</arm_group_label>
+    <arm_group_label>healthy COVID-19-</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Spirometry</intervention_name>
+    <description>At visits 1 and 2, spirometry will be performed to quantify the forced expiratory volume in one second (FEV1), the forced vital capacity (FVC) and FEV1/FVC.</description>
+    <arm_group_label>asthmatic COVID-19+</arm_group_label>
+    <arm_group_label>asthmatic COVID-19-</arm_group_label>
+    <arm_group_label>healthy COVID-19+</arm_group_label>
+    <arm_group_label>healthy COVID-19-</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Plethysmography &amp; DLCO</intervention_name>
+    <description>At visits 1 and 2, plethysmography and the diffusing capacity of the lung for carbon monoxide (DLCO) will be performed.</description>
+    <arm_group_label>asthmatic COVID-19+</arm_group_label>
+    <arm_group_label>asthmatic COVID-19-</arm_group_label>
+    <arm_group_label>healthy COVID-19+</arm_group_label>
+    <arm_group_label>healthy COVID-19-</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Airwave Oscillometry</intervention_name>
+    <description>At visits 1 and 2, airwave oscillometry will be performed to obtain resistance (R) and reactance (X) at 5 Hz (R5) and 19 Hz (R19). The resonance frequency (fres), area above the reactance curve (AX) and the heterogeneity of obstruction (R5-19) will be derived from R and X.</description>
+    <arm_group_label>asthmatic COVID-19+</arm_group_label>
+    <arm_group_label>asthmatic COVID-19-</arm_group_label>
+    <arm_group_label>healthy COVID-19+</arm_group_label>
+    <arm_group_label>healthy COVID-19-</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        community sample
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        For all participants:
+
+          -  Males and females ≥ 18 years of age
+
+          -  Individuals able and willing to provide written informed consent
+
+          -  Individuals able and willing to comply with the study protocol
+
+        For participants with asthma:
+
+          -  Individuals with physician confirmed asthma (12% bronchodilator reversibility or PC20
+             methacholine less than 8mg/ml)
+
+          -  Individuals treated with inhaled corticosteroids, oral corticosteroids and/or anti-T2
+             biologics
+
+        For participants who recently recovered from covid-19:
+
+          -  Individuals previously diagnosed with covid-19 confirmed by FLOQswab test
+
+          -  Individuals who recently (≤4-weeks) recovered from covid-19
+
+        Exclusion Criteria:
+
+        For all participants:
+
+          -  Males and females &lt; 18 years of age
+
+          -  Individuals who are unable to read and/or understand English
+
+          -  Individuals who are pregnant or breastfeeding
+
+          -  Individuals who currently smoke or are an ex-smoker with ≥10 pack-year smoking history
+
+          -  Individuals who in the opinion of the investigator, are mentally or legally
+             incapacitated, preventing informed consent from being obtained
+
+          -  Individuals who are unable to complete one or more study manoeuvres
+
+        For participants with no history of lung disease:
+
+          -  Individuals with a history of respiratory infection or disease
+
+        For participants who have not been diagnosed with covid-19:
+
+          -  Individuals who have previously had covid-19 confirmed by FLOQswab test
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sarah Svenningsen, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sarah Svenningsen, PhD</last_name>
+    <phone>+1 (905) 522-1155</phone>
+    <phone_ext>37313</phone_ext>
+    <email>svennins@mcmaster.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>St. Joseph's Healthcare Hamilton</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8N 4A6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Svenningsen, PhD</last_name>
+      <phone>1 (905) 522-1155</phone>
+      <phone_ext>37313</phone_ext>
+      <email>svennins@mcmaster.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Manali Mukherjee, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Parameswaran Nair, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sarah Svenningsen, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christopher Marriott, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Terence Ho, MSc, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 15, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>covid-19</keyword>
+  <keyword>lung ventilation</keyword>
+  <keyword>lung perfusion</keyword>
+  <keyword>V/Q SPECT</keyword>
+  <keyword>lung health</keyword>
+  <keyword>Technegas</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>IPD will not be shared with other researchers.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

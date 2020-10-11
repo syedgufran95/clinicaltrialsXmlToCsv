@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1617">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04537208</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VAT00001</org_study_id>
+    <secondary_id>U1111-1250-4757</secondary_id>
+    <nct_id>NCT04537208</nct_id>
+  </id_info>
+  <brief_title>Study of Recombinant Protein Vaccine Formulations Against COVID-19 in Healthy Adults 18 Years of Age and Older</brief_title>
+  <official_title>Immunogenicity and Safety of SARS-CoV-2 Recombinant Protein Vaccine Formulations (With or Without Adjuvant) in Healthy Adults 18 Years of Age and Older</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanofi Pasteur, a Sanofi Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sanofi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objectives of the study are:
+
+        -  To describe the neutralizing antibody profile at Day 1, Day 22, and Day 36 of each study
+           intervention group.
+
+        -  To describe the safety profile of all participants in each age group and each study
+           intervention group up to 12 months post-last injection.
+
+      The secondary objectives of the study are:
+
+        -  To describe binding antibody profile at Day 1, Day 22, Day 36, Day 181 (Cohort 1) or Day
+           202 (Cohort 2), and Day 366 (Cohort 1) or Day 387 (Cohort 2) of each study intervention
+           group.
+
+        -  To describe the neutralizing antibody profile at Day 181 (Cohort 1) or Day 202 (Cohort
+           2) and at Day 366 (Cohort 1) and Day 387 (Cohort 2) of each study intervention group.
+
+        -  To describe the occurrence of virologically-confirmed COVID-19-like illness and
+           serologically-confirmed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+           infection.
+
+        -  To evaluate the correlation / association between antibody responses to SARS-CoV-2
+           Recombinant Protein and the risk of COVID-19-like illness and/or serologically-confirmed
+           SARS-CoV-2 infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The duration of each participant's participation in the study will be approximately 365 days
+      post last injection
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 3, 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a parallel group prevention study. Participants from 2 age groups (adults 18 through 49 years of age and adults 50 years of age and older) will receive either 1 injection (Cohort 1) or 2 injections (Cohort 2) of study vaccine or placebo control.
+As a precautionary step, a sentinel safety cohort of 6 participants (younger adults only) within each dosing group from Cohort 1 will be enrolled. An early safety data review will be performed, including evaluation of safety data and laboratory measures to Day 9. Upon acceptable safety demonstrated from unblinded data review by limited members of the Sponsor Study Team, the remaining participants will be enrolled simultaneously.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Participants, outcome assessors, Investigators, laboratory personnel, and the majority of Sponsor study staff will be blinded to vaccine group assignment; injection schedule will be unblinded and those preparing/administering the study interventions will be unblinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Neutralizing Antibody Titer at Day 1</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Neutralizing antibody titer expressed as geometric mean titer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neutralizing Antibody Titer at Day 22</measure>
+    <time_frame>Day 22</time_frame>
+    <description>Neutralizing antibody titer expressed as geometric mean titer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neutralizing Antibody Titer at Day 36</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Neutralizing antibody titer expressed as geometric mean titer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fold-rise of Neutralizing Antibody Titer at Day 22</measure>
+    <time_frame>Day 22</time_frame>
+    <description>Fold rise in antibody neutralization titer post-vaccination relative to Day 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fold-rise of Neutralizing Antibody Titer at Day 36</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Fold rise in antibody neutralization titer post-vaccination relative to Day 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>2-fold and 4-fold Rise in Neutralization Antibody titer at Day 22</measure>
+    <time_frame>Day 22</time_frame>
+    <description>Rise in antibody neutralizing titer (post/pre) relative to Day 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>2-fold and 4-fold Rise in Neutralization Antibody titer at Day 36</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Rise in antibody neutralizing titer (post/pre) relative to Day 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with Neutralizing Antibody Seroconversion at Day 22</measure>
+    <time_frame>Day 22</time_frame>
+    <description>Percentage of participants with baseline values below lower limit of quantification (LLOQ) with detectable neutralization titer above assay LLOQ.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with Neutralizing Antibody Seroconversion at Day 36</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Percentage of participants with baseline values below LLOQ with detectable neutralization titer above assay LLOQ.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Immediate Adverse Events</measure>
+    <time_frame>Within 30 minutes after vaccination</time_frame>
+    <description>Immediate adverse events includes unsolicited systemic adverse events occuring within 30 minutes after vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Solicited Injection Site or Systemic Reactions</measure>
+    <time_frame>Within 7 days after vaccination</time_frame>
+    <description>Injection site reactions: injection site pain, erythema and swelling. Systemic reactions: fever, headache, malaise and myalgia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited Adverse Events</measure>
+    <time_frame>Within 21 days after vaccination</time_frame>
+    <description>Adverse events other than solicited reactions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Medically Attended Adverse Events</measure>
+    <time_frame>From Day 1 up to the end of study (Day 366 for Cohort 1 and Day 387 for Cohort 2)</time_frame>
+    <description>Medically attended adverse events are adverse events with a new onset or a worsening of a condition that prompts the participant to seek unplanned medical advice at a physician's office or Emergency Department.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Serious Adverse Events (SAEs)</measure>
+    <time_frame>From Day 1 up to the end of study (Day 366 for Cohort 1 and Day 387 for Cohort 2)</time_frame>
+    <description>SAEs are collected throughout the study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Adverse Events of Special Interest</measure>
+    <time_frame>From Day 1 up to the end of study (Day 366 for Cohort 1 and Day 387 for Cohort 2)</time_frame>
+    <description>Adverse events of special interest pre-defined adverse event collected using the same process as for other adverse events.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Out-of-range Biological Test Results</measure>
+    <time_frame>From Day 1 up to 7 days post-last injection</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Binding Antibody Concentration</measure>
+    <time_frame>Day 1, Day 22, Day 36, Day 181 (Cohort 1) or Day 202 (Cohort 2), and Day 366 (Cohort 1) or Day 387 (Cohort 2)</time_frame>
+    <description>Antibody titers are expressed as geometric mean concentration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Binding Antibody Concentration Ratio</measure>
+    <time_frame>Day 22, Day 36, Day 181 (Cohort 1) or Day 202 (Cohort 2), and Day 366 (Cohort 1) or Day 387 (Cohort 2)</time_frame>
+    <description>Fold rise in concentration relative to Day 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold Rise in Binding Antibody Concentration</measure>
+    <time_frame>Day 22, Day 36, Day 181 (Cohort 1) or Day 202 (Cohort 2), and Day 366 (Cohort 1) or Day 387 (Cohort 2)</time_frame>
+    <description>≥ 2 and ≥ 4 fold rise in concentration post/pre-vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Titer</measure>
+    <time_frame>Day 181 and Day 366 (Cohort 1) and Day 202 and Day 387 (Cohort 2)</time_frame>
+    <description>Neutralizing antibody titer expressed as geometric mean titer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold-rise in Neutralization Titer at Day 181 and Day 366 (Cohort 1) and Day 202 and Day 387 (Cohort 2)</measure>
+    <time_frame>Day 181 and Day 366 (Cohort 1) and Day 202 and Day 387 (Cohort 2)</time_frame>
+    <description>Fold rise in antibody neutralization titer post-vaccination relative to Day 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>2-fold and 4-fold Rise in Neutralization Titer [Post/Pre] at Day 181 and 366 (Cohort 1) and Day 202 and Day 387 (Cohort 2)</measure>
+    <time_frame>Day 181 and Day 366 (Cohort 1) and Day 202 and Day 387 (Cohort 2)</time_frame>
+    <description>Fold rise in antibody neutralization titer post-vaccination relative to Day 1.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Neutralizing Antibody Seroconversion at Day 181 and 366 (Cohort 1) and Day 202 and Day 387 (Cohort 2)</measure>
+    <time_frame>Day 181 and Day 366 (Cohort 1) and Day 202 and Day 387 (Cohort 2)</time_frame>
+    <description>Neutralizing antibody seroconversion is defined as values below LLOQ at baseline with detectable neutralization titer above assay LLOQ at Day 181 (Cohort 1) or Day 202 (Cohort 2) and at Day 366 (Cohort 1) or Day 387 (Cohort 2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Virologically-confirmed COVID-19-like Illness</measure>
+    <time_frame>From Day 1 up to the end of study (Day 366 for Cohort 1 and Day 387 for Cohort 2)</time_frame>
+    <description>Virologically-confirmed COVID-19-like illness is defined by specified clinical symptoms and signs and confirmed by nucleic acid viral detection assay. Illness surveillance is performed by active surveillance from Day 1 to Day 181 in Cohort 1 and from Day 1 to Day 202 in Cohort 2, and by passive surveillance during the remainder of the study period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Serologically-confirmed SARS-CoV-2 Infection</measure>
+    <time_frame>From Day 1 up to the end of study (Day 366 for Cohort 1 and Day 387 for Cohort 2)</time_frame>
+    <description>Serologically-confirmed SARS-CoV-2 infection is defined by SARS-CoV-2-specific antibody detection. Illness surveillance is performed by active surveillance from Day 1 to Day 181 in Cohort 1 and from Day 1 to Day 202 in Cohort 2, and by passive surveillance during the remainder of the study period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlates of Risk / Protection Based on Antibody Responses to SARS-CoV-2</measure>
+    <time_frame>From Day 1 up to the end of study (Day 366 for Cohort 1 and Day 387 for Cohort 2)</time_frame>
+    <description>Correlate of risk / protection is based on antibody responses to SARS-CoV-2, considering cases of virologically-confirmed COVID-19 and/or serologically confirmed SARS-CoV-2 infection.</description>
+  </secondary_outcome>
+  <number_of_arms>21</number_of_arms>
+  <enrollment type="Anticipated">440</enrollment>
+  <condition>COVID-19 (Healthy Volunteers)</condition>
+  <arm_group>
+    <arm_group_label>Group 1 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 injection of SARS-CoV-2 vaccine formulation 1 with adjuvant 1 at Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 injection of SARS-CoV-2 vaccine formulation 1 with adjuvant 2 at Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 injection of SARS-CoV-2 vaccine formulation 2 with adjuvant 1 at Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 injection of SARS-CoV-2 vaccine formulation 2 with adjuvant 2 at Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 5 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>1 injection of placebo at Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 6 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine formulation 1 with adjuvant 1 at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 7 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injection of SARS-CoV-2 vaccine formulation 1 with adjuvant 2 at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 8 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine formulation 2 with adjuvant 1 at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 9 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine formulation 2 with adjuvant 2 at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 10 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine formulation 2 without adjuvant at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 11 (18 - 49 years of age)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 injections of placebo at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 1 (50 years of age and older)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 injection of SARS-CoV-2 vaccine formulation 1 with adjuvant 1 at Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2 (50 years of age and older)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 injection of SARS-CoV-2 vaccine formulation 1 with adjuvant 2 at Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3 (50 years of age and older)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 injection of SARS-CoV-2 vaccine formulation 2 with adjuvant 1 at Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4 (50 years of age and older)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 injection of SARS-CoV-2 vaccine formulation 2 with adjuvant 2 at Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 5 (50 years of age and older)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>1 injection of placebo at Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 6 (50 years of age and older)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine formulation 1 with adjuvant 1 at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 7 (50 years of age and older)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine formulation 1 with adjuvant 2 at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 8 (50 years of age and older)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine formulation 2 with adjuvant 1 at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 9 (50 years of age and older)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 injections of SARS-CoV-2 vaccine formulation 2 with adjuvant 2 at Day 1 and Day 22</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 11 (50 years of age and older)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 injections of placebo at Day 1 and Day 22</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 vaccine formulation 1 with adjuvant 1</intervention_name>
+    <description>Pharmaceutical form: liquid; route of administration: intramuscular injection</description>
+    <arm_group_label>Group 1 (18 - 49 years of age)</arm_group_label>
+    <arm_group_label>Group 1 (50 years of age and older)</arm_group_label>
+    <arm_group_label>Group 6 (18 - 49 years of age)</arm_group_label>
+    <arm_group_label>Group 6 (50 years of age and older)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 vaccine formulation 1 with adjuvant 2</intervention_name>
+    <description>Pharmaceutical form: liquid; route of administration: intramuscular injection</description>
+    <arm_group_label>Group 2 (18 - 49 years of age)</arm_group_label>
+    <arm_group_label>Group 2 (50 years of age and older)</arm_group_label>
+    <arm_group_label>Group 7 (18 - 49 years of age)</arm_group_label>
+    <arm_group_label>Group 7 (50 years of age and older)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 vaccine formulation 2 with adjuvant 1</intervention_name>
+    <description>Pharmaceutical form: liquid; route of administration: intramuscular injection</description>
+    <arm_group_label>Group 3 (18 - 49 years of age)</arm_group_label>
+    <arm_group_label>Group 3 (50 years of age and older)</arm_group_label>
+    <arm_group_label>Group 8 (18 - 49 years of age)</arm_group_label>
+    <arm_group_label>Group 8 (50 years of age and older)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 vaccine formulation 2 with adjuvant 2</intervention_name>
+    <description>Pharmaceutical form: liquid; route of administration: intramuscular injection</description>
+    <arm_group_label>Group 4 (18 - 49 years of age)</arm_group_label>
+    <arm_group_label>Group 4 (50 years of age and older)</arm_group_label>
+    <arm_group_label>Group 9 (18 - 49 years of age)</arm_group_label>
+    <arm_group_label>Group 9 (50 years of age and older)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 vaccine formulation 2 without adjuvant</intervention_name>
+    <description>Pharmaceutical form: liquid; route of administration: intramuscular injection</description>
+    <arm_group_label>Group 10 (18 - 49 years of age)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo (0.9% normal saline)</intervention_name>
+    <description>Pharmaceutical form: liquid; route of administration: intramuscular injection</description>
+    <arm_group_label>Group 11 (18 - 49 years of age)</arm_group_label>
+    <arm_group_label>Group 11 (50 years of age and older)</arm_group_label>
+    <arm_group_label>Group 5 (18 - 49 years of age)</arm_group_label>
+    <arm_group_label>Group 5 (50 years of age and older)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Aged 18 years of age or older on the day of inclusion
+
+          -  Informed consent form has been signed and dated
+
+          -  Able to attend all scheduled visits and to comply with all study procedures
+
+        Exclusion Criteria:
+
+          -  Participant is pregnant, or lactating, or of childbearing potential and not using an
+             effective method of contraception or abstinence from at least 4 weeks prior to the
+             first vaccination until at least 12 weeks after the last vaccination. To be considered
+             of non-childbearing potential, a female must be post-menopausal for at least 1 year or
+             surgically sterile
+
+          -  Receipt of any vaccine in the 30 days preceding the first study vaccination or planned
+             receipt of any vaccine in the 30 days following the last study vaccination except for
+             influenza vaccination, which may be received at least 2 weeks before and a minimum of
+             2 weeks after study vaccines
+
+          -  Prior administration of a coronavirus vaccine (severe acute respiratory syndrome
+             coronavirus 2 [SARS-CoV-2], SARS-CoV, Middle East Respiratory Syndrome)
+
+          -  Known or suspected congenital or acquired immunodeficiency; or receipt of
+             immunosuppressive therapy, such as anti-cancer chemotherapy or radiation therapy,
+             within the preceding 6 months; or long-term systemic corticosteroid therapy
+             (prednisone or equivalent for more than 2 consecutive weeks within the past 3 months)
+
+          -  History of SARS-CoV-2 infection, confirmed either clinically, serologically, or
+             microbiologically
+
+          -  Chronic illness or condition considered to potentially increase the risk for severe
+             COVID illness or that, in the opinion of the Investigator, is at a stage where it
+             might interfere with study conduct or completion
+
+          -  Receipt of any therapy known to have in-vitro antiviral activity against SARS-CoV-2
+             within 72 hours prior to the first blood draw
+
+          -  Health care workers providing direct patient care for COVID-19 patients
+
+        The above information is not intended to contain all considerations relevant to a patient's
+        potential participation in a clinical trial.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Sciences &amp; Operations</last_name>
+    <role>Study Director</role>
+    <affiliation>Sanofi Pasteur, a Sanofi Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Trial Transparency email recommended (Toll free number for US &amp; Canada)</last_name>
+    <phone>800-633-1610</phone>
+    <phone_ext>option 6</phone_ext>
+    <email>Contact-US@sanofi.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Investigattional Site Number 8400004</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400002</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 8400001</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 3, 2020</study_first_posted>
+  <last_update_submitted>September 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://www.clinicalstudydatarequest.com/</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

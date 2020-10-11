@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="75">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04537338</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R020-SABI-00261</org_study_id>
+    <nct_id>NCT04537338</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Immune Response to SARS-CoV-2 Among Patients With Covid-19 in Costa Rica</brief_title>
+  <acronym>RESPIRA</acronym>
+  <official_title>Evaluation of the Immune Response to SARS-CoV-2 Among Patients With Covid-19 in Costa Rica</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Agencia Costarricense de Investigaciones Biomedicas</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Caja Costarricense de Seguro Social</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundación INCIENSA (FUNIN)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ministerio de Salud de Costa Rica</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institutos Nacionales de Salud, USA Instituto Alemán del Cáncer</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Agencia Costarricense de Investigaciones Biomedicas (ACIB)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Agencia Costarricense de Investigaciones Biomedicas</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Describe the immune response of patients affected by SARS-CoV-2, including an assessment of
+      the types of antibodies elicited by the infection, specifc antibody titers for the different
+      isotypes, evolution of the antibody response over time, protective efficacy and immune
+      correlates of protection.
+
+      investigate genetic determinants of Covid-19 and of the imune response to this condition.
+
+      Finally, the study will investigate secondary infection rate and its determinants among
+      household contacts of Covid-19 patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The main objective of the study is to describe the immune response to the SARS-CoV-2 virus
+      among patients with confirmed Covid-19 disease in terms of antibody levels, differences in
+      response related to epidemiologic and clinical characteristics, duration of the antibody
+      response and protective efficacy.
+
+      Of particular interest is the demonstration of seroconversion with neutralizing antibodies,
+      their duration during a follow-up of two years and their ability to prevent subsequent
+      infections and disease. If antibodies are demonstrated to protect against subsequent
+      infections and that protection is long-lasting, this can be instrumental for the
+      reincorporation of immune individuals into normal life and economic activities.
+
+      Additional secondary objectives include determination of population-prevalence of past
+      infection and assessment of genetic determinants of the immune response and the clinical
+      presentation of the disease. Finally, we will investigate secondary transmission in a sample
+      of household contacts of Covid-19 cases.
+
+      This study will provide important information to define the use of specific types of
+      antibodies and their potential utility for diagnosis, ascertainment of previous exposure and
+      acquired immunity. The effort is being conducted by the Caja Costarricense de Seguro Social,
+      the Costa Rican Ministry of Health and the Agencia Costarricense de Investigaciones
+      Biomédicas (ACIB), in collaboration with the US National Cancer Institute, the US National
+      Institute of Allergy and Infectious Diseases and the German Cancer Research Center and will
+      be supervised by the Ethical Committee of the CCSS according to local regulations.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 14, 2020</start_date>
+  <completion_date type="Anticipated">September 14, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 14, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 Seroconversion</measure>
+    <time_frame>2-year study</time_frame>
+    <description>Evaluation of patterns of antibody responses over time, correlation between measures ((IgM, IgG, IgA), and determinants of antibody responses for common exposures</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Active / Recovered Cases</arm_group_label>
+    <description>Active Cases:
+Diagnosed with Covid-19 disease by a positive PCR test in Costa Rica since March 2020.
+Most of the cases of Covid-19 are treated at CCSS hospitals or clnics.
+Recovered cases:
+Are subjects previously diagnosed with Covid-19 via a positive PCR test who were considered recovered because they had two consecutive negative PCR tests.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Community control group</arm_group_label>
+    <description>The community control group will be frequency-matched on age, sex and area of residence. Two controls per case will be selected as follows</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Household survey</arm_group_label>
+    <description>Are a household contact of a person diagnosed with Covid-19 disease by a positive PCR test in Costa Rica since March 2020.
+A household will be defined as a group of persons living together who share a kitchen. To be considered eligible for inclusion a contact must have spent at least one night per week in the living area since onset in the index case.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>1. Characterize the immune response after infection with SARS-CoV-2</intervention_name>
+    <description>1. Characterize the immune response after infection with SARS-CoV-2 in terms of type of antibodies (IgM, IgG, IgA), seroconversion, maximum antibody levels, , and response to different viral proteins/antigens</description>
+    <arm_group_label>Active / Recovered Cases</arm_group_label>
+    <arm_group_label>Community control group</arm_group_label>
+    <arm_group_label>Household survey</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      blood, saliva specimen, serum, plasma
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This observational study will involve the recruitment of a large series of cases from Costa
+        Rica,including both patients who already recovered from the disease and newly diagnosed
+        cases, regardless of the severity of the clinical presentation.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Recruitment of cases Eligibility criteria Inclusion criteria
+
+        Potential participants will be deemed eligible if they are:
+
+          -  Diagnosed with Covid-19 disease by a positive PCR test in Costa Rica since March 2020
+
+          -  Able to communicate with study personnel (or parents for children under 12);
+
+          -  Able and willing to provide a blood sample (or parents);
+
+          -  Not planning to move put of the study area in the next 12 months Exclusion criteria
+
+        Potential participants will be excluded or deferred from enrollment if:
+
+          -  They are in critical clinical condition precluding enrollment at the discretion of the
+             treating clinicians (deferral)
+
+          -  The clinician determining eligibility in agreement with the principal investigator
+             considers that there is a reason that precludes participation;
+
+          -  The participant or her parent/legal guardian, as applicable, does not have an
+             identification document.
+
+        Enrollment of active cases Most of the cases of Covid-19 are treated at CCSS hospitals or
+        clnics, where the it is a disease of mandatory reporting. Personnel of the Social Security
+        or Ministry of Health will inform the potential participant case about the study and ask if
+        they are willing to be contacted by study personnel to receive further information. The
+        intention is to recruit all cases with the disease registered in Costa Rica.
+
+        Enrollment of recovered cases
+
+        Recovered cases are subjects previously diagnosed with Covid-19 via a positive PCR test who
+        were considered recovered because they had two consecutive negative PCR tests. The first
+        cases was diagnosed in March 2020. They will be contacted and recruited at home based on
+        the registration lists of the CCSS and the Ministry of Health, their eligibility criteria
+        and consent procedures will be similar to those of the active cases, but their specimen
+        collection will be different Community control group selection and enrollment Inclusion
+        criteria
+
+        Potential participants will be deemed eligible if they are:
+
+          -  Able to communicate with study personnel (or parents for children under 12);
+
+          -  Able and willing to provide a blood sample (or parents);
+
+          -  Not planning to move out of the study area in the next 12 months
+
+        Exclusion criteria
+
+        Potential participants will be excluded or deferred from enrollment if:
+
+          -  They have incapacitating or other conditions impeding participation as determined by
+             the study team
+
+          -  The participant or her parent/legal guardian, as applicable, does not have an
+             identification document.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Months</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Rolando Herrerro, Médico</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Agencia Costarricense de Investigaciones Biomedicas</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Viviana Loría, Médica</last_name>
+    <phone>50688653647</phone>
+    <email>vloria@acibcr.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rebeca Ocampo, Médica</last_name>
+    <phone>50688163880</phone>
+    <email>rocampo@acibcr.com</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 3, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Immune Response</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

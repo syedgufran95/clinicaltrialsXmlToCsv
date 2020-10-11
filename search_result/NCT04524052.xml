@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3417">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04524052</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DWJ1516101_India</org_study_id>
+    <nct_id>NCT04524052</nct_id>
+  </id_info>
+  <brief_title>To Evaluate Safety, Tolerability, Pharmacodynamics, and Pharmacokinetics of DWRX2003 Against COVID-19</brief_title>
+  <official_title>Phase I Study to Evaluate the Safety, Tolerability, Pharmacodynamics (PD) and Pharmacokinetics (PK) of DWRX2003 (Niclosamide IM Depot) Injection Following Intramuscular Administration in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daewoong Pharmaceutical Co. LTD.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Daewoong Pharmaceutical Co. LTD.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is to assess the safety, tolerability, pharmacodynamics, and pharmacokinetics of
+      Niclosamide (DWRX2003) following escalating doses of DWRX2003 administered as an
+      intramuscular injection in healthy volunteers.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events</measure>
+    <time_frame>follow-up 48 days after dosing</time_frame>
+    <description>AE rate, incidence, severity and causality of adverse events (AEs) and serious adverse events (SAEs)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>pharmacokinetic changes of niclosamide from baseline in each dose group: Cmax</measure>
+    <time_frame>follow-up 48 days after dosing</time_frame>
+    <description>Maximum measured plasma concentration over the time span specified</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pharmacokinetic changes of niclosamide from baseline in each dose group: Tmax</measure>
+    <time_frame>follow-up 48 days after dosing</time_frame>
+    <description>Time of the maximum measured plasma concentration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pharmcodynamic analysis of niclosamide from baseline in each dose group and time point: CRP</measure>
+    <time_frame>on Day 3, 7, 10 and 14</time_frame>
+    <description>Change in C reactive protein levels</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>cohort 1 (144 mg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arms (both) 0.1 mL/site*2 sites Hips (both) 0.2 mL/site*2 sites</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>cohort 2 (432 mg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arms (both) 0.3 mL/site *2 sites Hips (both) 0.6 mL/site*2 sites</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>cohort 3 (960 mg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arms (both) 0.8 mL/site*2 sites Hips (both) 1.2 mL/site*2 sites</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>cohort 4 (1200 mg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arms (both) 1.0 mL/site *2 sites Hips (both) 1.5 mL/site*2 sites</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DWRX2003</intervention_name>
+    <description>Intramuscularly injection at pre-defined injection sites</description>
+    <arm_group_label>cohort 1 (144 mg)</arm_group_label>
+    <arm_group_label>cohort 2 (432 mg)</arm_group_label>
+    <arm_group_label>cohort 3 (960 mg)</arm_group_label>
+    <arm_group_label>cohort 4 (1200 mg)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intramuscularly injection at pre-defined injection sites</description>
+    <arm_group_label>cohort 1 (144 mg)</arm_group_label>
+    <arm_group_label>cohort 2 (432 mg)</arm_group_label>
+    <arm_group_label>cohort 3 (960 mg)</arm_group_label>
+    <arm_group_label>cohort 4 (1200 mg)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Normal healthy human adult male and female volunteers between 18-45 years (both ages
+             inclusive) of age.
+
+          2. Volunteers who agree to give written informed consent and are willing to participate
+             in the study.
+
+          3. Volunteer having bodyweight minimum of 50 kg.
+
+          4. Volunteer having Body Mass Index of 18.50 to 29.90 Kg/m2 (both inclusive).
+
+        Exclusion Criteria:
+
+          1. Known allergic to Niclosamide or any component of the formulation and to any other
+             related drug.
+
+          2. History or presence of significant cardiovascular, respiratory, hepatic, renal,
+             hematological, gastrointestinal, endocrine, immunologic, dermatologic, neurological or
+             psychiatric disease.
+
+          3. Female volunteers who are nursing mothers/lactating women or are found positive in
+             beta hCG test.
+
+          4. History/ current use of Alcohol or drug abuse.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 24, 2020</study_first_posted>
+  <last_update_submitted>August 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

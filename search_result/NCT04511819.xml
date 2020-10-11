@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="347">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04511819</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FIS-001-2020</org_study_id>
+    <nct_id>NCT04511819</nct_id>
+  </id_info>
+  <brief_title>Losmapimod Safety and Efficacy in COVID-19</brief_title>
+  <acronym>LOSVID</acronym>
+  <official_title>A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of the Safety and Efficacy of Losmapimod in Adult Subjects With COVID-19 (LOSVID STUDY)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fulcrum Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fulcrum Therapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The therapeutic hypothesis for the use of losmapimod in COVID-19 disease is that increased
+      mortality and severe disease is caused by p38 mitogen-activated protein kinase
+      (MAPK)-mediated exaggerated acute inflammatory response resulting from SARS-CoV-2 infection.
+
+      The study Sponsor hypothesize's that the early initiation of p38α/β inhibitor therapy in
+      patients hospitalized with moderate COVID-19 who are at increased risk of a poor prognosis
+      based on older age and elevated systemic inflammation will reduce clinical deterioration
+      including progression to respiratory failure and death.
+
+      To address this hypothesis, Fulcrum Therapeutics is conducting a Phase 3, multicenter,
+      randomized, double-blind, placebo-controlled study that will evaluate the safety and efficacy
+      of losmapimod versus placebo in subjects 50 and older who are hospitalized with moderate
+      COVID-19 disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The therapeutic hypothesis for the use of losmapimod in COVID-19 disease is that increased
+      disease severity and consequent increased mortality is caused by p38 mitogen-activated
+      protein kinase (MAPK)-mediated exaggerated acute inflammatory response resulting from
+      SARS-CoV-2 infection.
+
+      It is anticipated that the early initiation of p38α/β inhibitor therapy in patients with
+      moderate COVID-19 will prevent further clinical deterioration and reduce the need for both
+      increased respiratory support as well as mortality. This is the main hypothesis for this
+      study.
+
+      To address this hypothesis, Fulcrum Therapeutics is conducting a Phase 3, multicenter,
+      randomized, double-blind, placebo-controlled study that will evaluate the safety and efficacy
+      of losmapimod versus placebo in subjects with COVID-19 disease.
+
+      Losmapimod is currently in Phase 2 clinical trials for the treatment of facioscapulohumeral
+      dystrophy (FSHD) and has previously been administered to more than 3600 adult healthy
+      volunteers and subjects including participants in a large Phase 3 trial which looked at
+      clinical outcomes and safety after major cardiovascular events.
+
+      Patients will participate in this study for approximately 34 days. The total treatment
+      duration will be 14 days. Subjects will be evaluated during a 3 day pre-treatment period
+      (Screening and Baseline Visits) to establish pre-treatment baseline assessments and
+      eligibility. Subjects will then be randomized to treatment with losmapimod or placebo for 14
+      days and assessed frequently for changes from pre-treatment in various clinical outcome
+      assessments. Patients must have a confirmed diagnosis of COVID-19 by viral PCR prior to
+      randomization and first dosing. Patients will receive 15 mg of losmapimod, or placebo twice
+      daily given as two 7.5 mg tablets per dose by mouth: for a total of 4 pills or 30 mg daily
+      for 14 consecutive days. All study visits during the first week of treatment are anticipated
+      to be conducted in the inpatient setting while later visits are anticipated to be conducted
+      as outpatient.
+
+      The primary endpoint of the study is to assess the efficacy of losmapimod tablets compared
+      with placebo for the treatment of COVID-19 when administered concurrently with the local
+      standard of care. Secondary endpoints include evaluating the effect of losmapimod compared
+      with placebo on clinical outcomes, clinical status, effect on survival, safety, and
+      tolerability and to characterize changes in the levels of SARS-CoV-2 infection.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 28, 2020</start_date>
+  <completion_date type="Anticipated">November 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study is a randomized, double-blind, placebo-controlled study.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>This study will be performed in a double-blind fashion. The investigator, study staff, subjects, Sponsor, and monitor will remain blinded to the treatment until study closure.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Day 28 Mortality</measure>
+    <time_frame>Day 28</time_frame>
+    <description>The efficacy of Losmapimod will be assessed by the development of progression to critical disease as evidence of mortality or development of respiratory failure by Day 28.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Status Assessment</measure>
+    <time_frame>Day 7 and Day 14</time_frame>
+    <description>The change from baseline in clinical disease status will be evaluated using the 9-point World Health Organization (WHO) ordinal scale: 0 indicating, no clinical evidence of SARS-CoV-2 infection and 8 indicating death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory Failure Assessment</measure>
+    <time_frame>Day 28</time_frame>
+    <description>The response to treatment with Losmapimod in COVID-19 patients will be assessed by the total number of study days not requiring oxygen supplementation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Survival</measure>
+    <time_frame>Day 28</time_frame>
+    <description>To assess the effect on survival following treatment with Losmapimod, mortality will be evaluated by the number of days alive by Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-Emergent Adverse Events</measure>
+    <time_frame>Screening, Date of enrollment and Days 2-14 and 7 and 14 days after the last dose of study drug</time_frame>
+    <description>To evaluate the safety and tolerability of Losmapimod, the incidence of treatment-emergent adverse events will be assessed by clinically significant changes in laboratory test results and vital signs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-Emergent Adverse Events</measure>
+    <time_frame>Day 7</time_frame>
+    <description>To characterize changes in SARS-CoV-2 infection following treatment with losmapimod versus placebo.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Changes in C-Reactive Protein</measure>
+    <time_frame>Days 1, 4, 7 and 14</time_frame>
+    <description>The change from baseline in levels of C-reactive protein (CRP), a biomarker of systemic inflammatory response to infection with the SARS-CoV-2 virus will be evaluated in serum by immunoturbidimetric assay.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in Levels of Cytokines</measure>
+    <time_frame>Days 1, 4, 7 and 14</time_frame>
+    <description>The change from baseline in the levels of cytokines (IFNγ, IL-2, IL-10 in normalized protein expression (NPX)) in response to the SARS-CoV-2 virus in serum will be evaluated using the Olink immunoassay panel.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in Levels of Chemokines</measure>
+    <time_frame>Days 1, 4, 7 and 14</time_frame>
+    <description>The change from baseline in the levels of chemokines (CXCL10, CXCL9 in normalized protein expression (NPX)) in response to the SARS-CoV-2 virus in serum will be evaluated using the Olink immunoassay panel.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">410</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Losmapimod</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVID-19 patients with PCR confirmation will receive Losmapimod 15 mg twice daily given as two 7.5 mg tablets per dose by mouth; for a total of 4 pills or 30 mg daily for 14 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>COVID-19 patients with PCR confirmation will receive Placebo twice daily given as two tablets per dose by mouth; for a total of 4 tablets daily for 14 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Losmapimod oral tablet</intervention_name>
+    <description>This study includes a 14-day treatment period. Patients will receive losmapimod 15 mg twice daily given as two 7.5 mg tablets per dose by mouth: for a total of 4 pills or 30 mg daily. The study drug should be taken with food when possible.</description>
+    <arm_group_label>Losmapimod</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo oral tablet</intervention_name>
+    <description>This study includes a 14-day treatment period. Patients will receive Placebo twice daily given as two tablets per dose by mouth: for a total of 4 tablets daily. The study drug should be taken with food when possible.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Able and willing to provide written informed consent
+
+          -  Willing and able to comply with all study procedures
+
+          -  Age ≥50 years at time of screening
+
+          -  Confirmed infection with SARS-CoV-2 virus at or before the baseline visit by
+             polymerase chain reaction (PCR) testing
+
+          -  ≤7 days to the time of randomization from the time of collection of the specimen that
+             tested positive for the SARS-CoV-2 virus
+
+          -  Hospitalization at the time of the baseline visit
+
+          -  ≥90% oxygen saturation on room air and/or ≥94% oxygen saturation on oxygen
+             administration at 2 L/min by nasal cannula at the baseline visit
+
+          -  Radiographic (X-ray or computed tomography scan, per local standard of care) and/or
+             clinical evidence of pulmonary involvement consistent with COVID-19 at screening or
+             baseline, per the judgment of the investigator
+
+          -  Clinical syndrome consistent with COVID-19 at screening, per the judgment of the
+             investigator (CDC 2020)
+
+          -  CRP at screening &gt;15 mg/L (i.e., &gt;1.5 mg/dL) on local laboratory testing
+
+          -  Agrees to practice an approved method of birth control
+
+        Exclusion Criteria:
+
+          -  Inability to take oral medication at screening or baseline visit
+
+          -  Evidence at screening or baseline of critical COVID-19 disease (e.g., cardiac failure,
+             septic shock) or severe pulmonary involvement)
+
+          -  Positive pregnancy test at screening for women of childbearing potential
+
+          -  Lactating female at baseline for women of childbearing potential Note: A female will
+             be considered eligible who is lactating at screening if she agrees to discontinue
+             breastfeeding for the duration of the trial plus 14 days post last dose
+
+          -  ≥5 × upper limit of normal (ULN) for alanine or aspartate aminotransferases or total
+             bilirubin &gt;1.5 × ULN at screening or known history of Child-Pugh Class C, hepatitis B
+             or C, or HIV infection
+
+          -  Glomerular filtration rate &lt;30 mL/min/1.73 m2 at screening
+
+          -  QTcF &gt;450 msec for male or &gt;470 msec for females or evidence of cardiac dysrhythmia at
+             screening
+
+          -  Significant history or evidence of clinically significant disorder, condition, current
+             illness, illicit drug or other addiction, or disease that, in the opinion of the
+             Investigator, would pose a risk to subject safety or interfere with the study
+             evaluation, procedures, or completion
+
+          -  Has been treated with immunomodulators or immunosuppressants including, but not
+             limited to, interleukin (IL)-6 inhibitors, tumor necrosis factor (TNF) inhibitors,
+             anti-IL-1 agents, and Janus kinase inhibitors, within 5 half-lives or 30 days,
+             whichever is longer, prior to randomization, or plan to receive these agents any time
+             during the study period
+
+          -  Treatment with hydroxychloroquine/ chloroquine in the past 30 days or plan to receive
+             these agents as part of investigational clinical trials or SOC any time during the
+             study period
+
+          -  Recent (within 30 days) or current participation in other COVID-19 therapeutic trials
+             or expanded access programs
+
+          -  Prior or current participation in COVID-19 vaccine trials
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Diego Cadavid, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Fulcrum Therapeutics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Call Center</last_name>
+    <phone>617-651-8847</phone>
+    <email>clinicaltrials@fulcrumtx.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California Irvine - Irvine Medical Center</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92697</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosie Magallon</last_name>
+      <phone>949-824-8295</phone>
+      <email>rmagallo@hs.uci.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Veronica Martin</last_name>
+      <phone>714-456-7760</phone>
+      <email>vero@hs.uci.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Folusakin Ayoade, MD</last_name>
+      <phone>305-243-4598</phone>
+      <email>fxa375@med.miami.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karel Calero, MD</last_name>
+      <phone>786-253-3075</phone>
+      <email>kcalero@usf.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rebecca Zash, MD</last_name>
+      <phone>617-632-0760</phone>
+      <email>rzash@bidmc.harvard.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Iram Abbasi</last_name>
+      <phone>713-500-6820</phone>
+      <email>iram.s.abbasi@uth.tmc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa de Misericordia de Belo Horizonte</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30150--221</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Daniela Pereira Mendes</last_name>
+      <phone>+55 31 3879-0085</phone>
+      <email>daniela.mendes@santacasapesquisa.com.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Irmandade de Santa Casa de Misericordia de Porto Alegre</name>
+      <address>
+        <city>Centro Histórico</city>
+        <state>Porto Alegre - RS</state>
+        <zip>90020-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Natiana Nalin Vizioli</last_name>
+      <phone>+55 51 3214 8210</phone>
+      <email>natiana.pesquisacardio@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Civil Fray Antonio Alcalde</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44280</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rayo Morfin, MD</last_name>
+      <phone>+52 333 662 6425</phone>
+      <email>rayomorfin@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>JM Research Cuernavaca</name>
+      <address>
+        <city>Cuernavaca</city>
+        <state>Morelos</state>
+        <zip>662284</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jose' Flores, MD</last_name>
+      <phone>+52 777 263 3200</phone>
+      <email>jose@jmresearch.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro para el Desarrollo de la Medicina y de Asistencia Médica Especializada, S.C.</name>
+      <address>
+        <city>Culiacán</city>
+        <state>Sinaloa</state>
+        <zip>80230</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David Rubio, MD</last_name>
+      <phone>+52 667 151 0811</phone>
+      <email>darupa@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Mexico</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Grimes JM, Grimes KV. p38 MAPK inhibition: A promising therapeutic approach for COVID-19. J Mol Cell Cardiol. 2020 Jul;144:63-65. doi: 10.1016/j.yjmcc.2020.05.007. Epub 2020 May 16.</citation>
+    <PMID>32422320</PMID>
+  </reference>
+  <reference>
+    <citation>Jimenez-Guardeño JM, Nieto-Torres JL, DeDiego ML, Regla-Nava JA, Fernandez-Delgado R, Castaño-Rodriguez C, Enjuanes L. The PDZ-binding motif of severe acute respiratory syndrome coronavirus envelope protein is a determinant of viral pathogenesis. PLoS Pathog. 2014 Aug 14;10(8):e1004320. doi: 10.1371/journal.ppat.1004320. eCollection 2014 Aug.</citation>
+    <PMID>25122212</PMID>
+  </reference>
+  <reference>
+    <citation>Vukmanovic-Stejic M, Chambers ES, Suárez-Fariñas M, Sandhu D, Fuentes-Duculan J, Patel N, Agius E, Lacy KE, Turner CT, Larbi A, Birault V, Noursadeghi M, Mabbott NA, Rustin MHA, Krueger JG, Akbar AN. Enhancement of cutaneous immunity during aging by blocking p38 mitogen-activated protein (MAP) kinase-induced inflammation. J Allergy Clin Immunol. 2018 Sep;142(3):844-856. doi: 10.1016/j.jaci.2017.10.032. Epub 2017 Nov 17.</citation>
+    <PMID>29155150</PMID>
+  </reference>
+  <reference>
+    <citation>Watz H, Barnacle H, Hartley BF, Chan R. Efficacy and safety of the p38 MAPK inhibitor losmapimod for patients with chronic obstructive pulmonary disease: a randomised, double-blind, placebo-controlled trial. Lancet Respir Med. 2014 Jan;2(1):63-72. doi: 10.1016/S2213-2600(13)70200-5. Epub 2013 Dec 5.</citation>
+    <PMID>24461903</PMID>
+  </reference>
+  <reference>
+    <citation>World Health Organization (WHO). WHO R&amp;D blueprint novel coronavirus COVID-19 therapeutic trial synopsis. Draft Feb 18, 2020.</citation>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 13, 2020</study_first_posted>
+  <last_update_submitted>September 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 pandemic</keyword>
+  <keyword>COVID-19 virus disease</keyword>
+  <keyword>COVID-19 virus infection</keyword>
+  <keyword>SARS-CoV-2 infection</keyword>
+  <keyword>coronavirus disease 2019</keyword>
+  <keyword>2019 novel coronavirus disease</keyword>
+  <keyword>2019 novel coronavirus infection</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

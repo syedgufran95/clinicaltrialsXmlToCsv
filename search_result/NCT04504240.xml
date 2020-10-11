@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="144">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04504240</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10000753/980</org_study_id>
+    <nct_id>NCT04504240</nct_id>
+  </id_info>
+  <brief_title>Role of Famotidine in the Symptomatic Improvement of COVID-19 Patients</brief_title>
+  <official_title>Role of Famotidine in the Symptomatic Improvement of Moderate to Severe COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chattogram General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chattogram General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is aimed to investigate the effect of Famotidine in the symptomatic recovery of
+      the different degrees of COVID-19 patients. COVID19 is a worldwide pandemic. Hence SARS-CoV-2
+      is a novel virus; there is no specific medication against it. Like other countries of the
+      world, Besides antiviral drugs, immunosuppressive agents, and symptomatic therapy like H2
+      receptor blocker FAMOTIDINE came to limelight due to its role in reducing the symptoms of
+      COVID-19 patients. The study will include COVID-19 participants to confirm by RT PCR or an
+      HRCT chest. Detail history of each participant with comorbidity will be taken and will be
+      examined carefully. Both the hospitalized and OPD patients will be enrolled in this study.
+      Seriously ill patients who require ventilation will not be included in this study. The
+      outcome of the Famotidine treatment will be evaluated and compared with a control group.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Symptomatic improvement</measure>
+    <time_frame>Following randomization 10 days.</time_frame>
+    <description>The number of participants with &quot;Symptomatic improvement&quot; determined by the change of individual presenting symptoms of the COVID-19 disease. Major symptoms, fever, cough, respiratory distress, chest tightness, sore throat, and myalgia will be rerecorded daily. This will be done by the investigators in the case of the hospitalized patients and the patient itself by a daily self assessment cart in the case of OPD patients.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>&quot;Clinical status (Stable or Deteriorate clinical state)&quot;</measure>
+    <time_frame>Following randomization 15 days.</time_frame>
+    <description>The number of participants with &quot;Clinical status (Stable or Deteriorate clinical state)&quot; determined by the chart or the judgment of the investigators. This will be defined as OPD patients require hospitalization, Hospitalized patients require High Dependency Unit (HDU), and an HDU patient requiring Ventilator or Intensive care support.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse effects</measure>
+    <time_frame>Following randomization 15 days.</time_frame>
+    <description>The number of participants with &quot;adverse effects&quot; determined by the existence of the pharmacological side effects of the particular drug (Famotidine) during treatment.
+The adverse effect will define as the symptoms expressed by the participants following the starting of the treatment other than the disease symptoms, those are within the proven/enlisted pharmacological side effects of the particular drug therapy. Adverse effects will be evaluated by the investigators during follow-ups or communication on phone or during the final collection of the recovery chart.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Group A: FAMOTIDINE treatment group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>FAMOTIDINE 40mg to 60mg 8hourly in an empty stomach along with other treatments.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B: Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Treatment as given with a PPI.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Famotidine 20 MG</intervention_name>
+    <description>Famotidine; tablet Famotac 20mg oral form.</description>
+    <arm_group_label>Group A: FAMOTIDINE treatment group</arm_group_label>
+    <arm_group_label>Group B: Control group</arm_group_label>
+    <other_name>Famotac 20mg</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  SARS-CoV-2 infection confirmed by RT PCR or CT Chest.
+
+          -  Patients with mild to moderate degrees of illness require OPD treatment.
+
+          -  Patients moderate to severe COVID-19 require hospitalization.
+
+        Exclusion Criteria:
+
+          -  Patients with uncontrolled clinical status who will require Intensive care support
+             from the beginning.
+
+          -  Patients with uncontrolled comorbid conditions. (Bronchial asthma, COPD exacerbation,
+             ischemic heart disease, uncontrolled diabetes mellitus, advanced renal and hepatic
+             disease, carcinoma, Immuno-compromised patients and etc.)
+
+          -  Contraindication / possible drug interaction with Famotidine with existing therapy.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Abu Taiub Mohammed Mohiuddin Chowdhury, MBBS, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>First Affiliated Hospital Xi'an Jiaotong University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Abu Taiub Mohammed Mohiuddin Chowdhury, MBBS, MD</last_name>
+    <phone>008801817711079</phone>
+    <email>dr_mohiuddinchy@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>H.M.Hamidullah Mehedi</last_name>
+    <phone>01911595911</phone>
+    <email>drmehedi2007@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Chattogram General Hospital</name>
+      <address>
+        <city>Chittagong</city>
+        <zip>4000</zip>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>H.M.Hamidullah Mehedi, MMBS, FCPS</last_name>
+      <phone>008801911595911</phone>
+      <email>drmehedi2007@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>H.M. Hamidullah Mehedi, MBBS, FCPS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>M. Abdur Rahim Medical College Hospital</name>
+      <address>
+        <city>Dinājpur</city>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aktar Kamal, MD, PhD</last_name>
+      <phone>0088017233991</phone>
+      <email>kamalaktar@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Aktar Kamal, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Bangladesh</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 7, 2020</study_first_posted>
+  <last_update_submitted>August 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>First Affiliated Hospital Xi'an Jiaotong University</investigator_affiliation>
+    <investigator_full_name>Abu Taiub Mohammed Mohiuddin Chowdhury</investigator_full_name>
+    <investigator_title>Doctoral Resident</investigator_title>
+  </responsible_party>
+  <keyword>COVID 19</keyword>
+  <keyword>Famotidine</keyword>
+  <keyword>Bangladesh</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Famotidine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

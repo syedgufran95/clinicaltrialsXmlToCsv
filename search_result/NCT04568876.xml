@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1016">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04568876</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NORM_MPS-COVID</org_study_id>
+    <secondary_id>NORM_MPS_11</secondary_id>
+    <nct_id>NCT04568876</nct_id>
+  </id_info>
+  <brief_title>Micronized and Ultramicronized Palmitoylethanolamide in COVID-19 Patients</brief_title>
+  <official_title>Efficacy of Palmitoylethanolamide, in add-on to Standard Therapy, on Inflammatory Markers of Patients With Interstitial Pneumonia Due to COVID-19. A Pilot Controlled, Randomized, Open Lable Clinical Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Epitech Group SpA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Azienda Ospedaliera &quot;Sant'Andrea&quot;</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Epitech Group SpA</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SARS-CoV-2 infection is a condition characterized by excessive leukocyte infiltration,
+      massive release of chemokines, proteases and cytokines, the so-called &quot;cytokine storm&quot;, which
+      promote the inflammatory process and contribute to exacerbation of COVID-19 symptomatology.
+      Because of the abnormal release of pro-inflammatory cytokines by non-neuronal cells of the
+      immune system, such as the mast cells in periphery, and microglia at central level, the body
+      activates a defensive neuroinflammatory process that, if not controlled, can become
+      pathological. Therefore it's important to intervene early on neuroinflammation, in order to
+      limit the progression of the disease.
+
+      A possible intervention is represented by Palmitoylethanolamide (PEA), an endogenous molecule
+      of the N-acylethanolamine family synthesized &quot;on demand&quot; in response to &quot;stress factors&quot; to
+      restore tissue homeostasis, able to control mast cells and microglia uncontrolled activation.
+      Experimental evidence in vitro and in vivo demonstrated the anti-inflammatory and
+      neuroprotective effect of micronized and ultra-micronized PEA (mPEA and umPEA), confirmed in
+      various clinical investigations conducted in patients with different pathological conditions.
+      The aim of this study is to investigate the efficacy of a compound containing mPEA + umPEA on
+      peripheral inflammatory markers, neuroinflammation, and others clinical parameters in
+      intensive care patients with COVID-19 interstitial pneumonia.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of responder participants after 7 days of treatment</measure>
+    <time_frame>7 days</time_frame>
+    <description>Responder: decrease ≥ 30% from baseline of IL-6 blood levels</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change of pro-inflammatory markers (IL-6, IL-1 alpha, IL-1 beta, TNF-alpha, PCR, PCT, neopterin)</measure>
+    <time_frame>0, 3, 7, 14, 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of anti-inflammatory markers (IL-4, IL-10)</measure>
+    <time_frame>0, 3, 7, 14, 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of brain damage markers (S100b, ENS)</measure>
+    <time_frame>0, 3, 7, 14, 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of coagulation indices (INR, fibrinogen, D-dimer)</measure>
+    <time_frame>0, 3, 7, 14, 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of hematological parameters</measure>
+    <time_frame>0, 3, 7, 14, 28 days</time_frame>
+    <description>leukocyte formula (lymphocytes, CD4 / CD8 ratio)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of oxygenation indices (P/F ratio, lactates)</measure>
+    <time_frame>0, 3, 7, 14, 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who developed delirium</measure>
+    <time_frame>0, 3, 7, 14, 28 days</time_frame>
+    <description>Confusion Assessment Method-Intensive Care Unit (CAM-ICU) (0-1: no delirium; &gt;1 delirium)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who developed anxiety and/or depression</measure>
+    <time_frame>0, 3, 7, 14, 28 days</time_frame>
+    <description>Hospital Anxiety and Depression Scale (HADS) (0: normal; 21: severe)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of days of invasive mechanical ventilation (orotracheal intubation - IOT)</measure>
+    <time_frame>28 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of days of non-invasive mechanical ventilation (Helmet, face mask)</measure>
+    <time_frame>28 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of days of intensive care (ICU) hospitalization</measure>
+    <time_frame>28 days</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>PEA Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Normast® MPS (mPEA and umPEA 300mg + 600mg) oral suspension: 2700mg/die in 3 doses for 28 days, in add-on to standard therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Standard therapy only</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Micronized and ultra-micronized Palmitoylethanolamide (mPEA and umPEA, 300mg + 600mg) oral suspension</intervention_name>
+    <description>Micronized and ultra-micronized Palmitoylethanolamide is on the market in Italy as a Food for Special Medical Purposes</description>
+    <arm_group_label>PEA Group</arm_group_label>
+    <other_name>Normast® MPS oral suspension</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Standard Therapy</intervention_name>
+    <description>Standard therapy established for individual patients</description>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_label>PEA Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Intensive Care Unit Hospitalization for interstitial pneumonia due to COVID-19
+             diagnosis (nasal swab/sputum/bronchoalveolar lavage positive for Sars-Cov-2 infection)
+
+        Exclusion Criteria:
+
+          -  Pregnancy or breastfeeding;
+
+          -  Known allergy or hypersensitivity to the product or its excipients;
+
+          -  Inability to take the product per os or via nasogastric tube.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Prof.ssa Flaminia Coluzzi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Azienda Ospedaliera Universitaria Sant'Andrea di Roma</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Epitech Group SpA Clinical Research</last_name>
+    <phone>+39 049 8016784</phone>
+    <email>info@epitech.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Anestesia e Rianimazione Azienda Ospedaliera Universitaria Sant'Andrea</name>
+      <address>
+        <city>Roma</city>
+        <zip>00189</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Prof.ssa Flaminia Coluzzi, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Prof.ssa Flaminia Coluzzi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>September 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Palmidrol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="23">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04528667</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BTK-COV-202BR</org_study_id>
+    <nct_id>NCT04528667</nct_id>
+  </id_info>
+  <brief_title>Study of the Safety and Efficacy of STI-5656 (Abivertinib Maleate) in Subjects Hospitalized Due to COVID-19</brief_title>
+  <official_title>A Phase 2, Randomized, Double-Blind, Placebo-controlled Study of the Safety and Efficacy of STI-5656 (Abivertinib Maleate) in Subjects Hospitalized Due to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sorrento Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sorrento Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A phase 2, placebo-controlled study of the safety and efficacy of STI-5656 (Abivertinib
+      Maleate) in subjects hospitalized due to COVID-19
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase 2, randomized, double-blind, placebo-controlled study of the safety and
+      efficacy of STI-5656 (Abivertinib Maleate) in subjects hospitalized due to COVID-19 in
+      Brazil. Subjects are randomized 3:1 STI-5656 to placebo. Subjects receive either 100 mg of
+      STI-5656 or placebo daily for 7 days. Standard of care will be maintained for all subjects
+      throughout the study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of subjects discharged from hospital</measure>
+    <time_frame>Randomization through Day 29</time_frame>
+    <description>Proportion of subjects whoa re alive and discharged from the hospital by Day 29</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events (safety)</measure>
+    <time_frame>Randomization through study completion through Day 36</time_frame>
+    <description>Types, frequencies, and severities of adverse events and their relationships to STI-5656, including serious adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to hospital admission, treatment, and discharge</measure>
+    <time_frame>Randomization through study completion through Day 36</time_frame>
+    <description>Time from onset of COVID-19 symptoms to hospital admission, time from hospitalization to start of treatment (D1), and time from D1 to hospital discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days hospitalized</measure>
+    <time_frame>Randomization to Day 36</time_frame>
+    <description>Number of days hospitalized from randomization through Day 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in clinical status as assessed using a 0-8 ordinal scale</measure>
+    <time_frame>Randomization to Day 3, Day 10, and Day 36</time_frame>
+    <description>Change in clinical status as assessed using a 0-8 ordinal scale, where a lower score equals better outcome, at Days 3, 10, and 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in RT-PCR test results</measure>
+    <time_frame>Randomization to Day 3, Day 10, and Day 36</time_frame>
+    <description>Change in RT-PCR test results (or equivalent) at Days 3, 10, and 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in C-reactive protein levels</measure>
+    <time_frame>Randomization to Day 3 and Day 10</time_frame>
+    <description>Change in C-reactive protein (CRP) levels at Day 3 and Day 10</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC of STI-5656 (PK)</measure>
+    <time_frame>Randomization through Day 8</time_frame>
+    <description>Area under the serum concentration-time curve (AUC) of STI-5656</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of STI-5656 (PK)</measure>
+    <time_frame>Randomization through Day 8</time_frame>
+    <description>Maximum observed serum concentration (Cmax) of STI-5656</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>t½ of STI-5656 (PK)</measure>
+    <time_frame>Randomization through Day 8</time_frame>
+    <description>Apparent serum terminal elimination half life (t½) of STI-5656</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cytokine levels</measure>
+    <time_frame>Randomization to Day 3 and Day 10</time_frame>
+    <description>Change in cytokine levels (including IL-6, TNF-a, IFNγ, IL1β) at Day 3 and Day 10</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax of STI-5656 (PK)</measure>
+    <time_frame>Randomization through Day 8</time_frame>
+    <description>Time to Cmax (Tmax) of STI-5656</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>STI-5656</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>STI-5656 (abivertinib maleate) capsules administered orally 100 mg QD for 7 days, in addition to standard of care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo capsules administered orally daily for 7 days, in addition to standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>STI-5656</intervention_name>
+    <description>STI-5656 (abivertinib maleate) is a third-generation EGFR tyrosine kinase inhibitor and BTK Inhibitor.</description>
+    <arm_group_label>STI-5656</arm_group_label>
+    <other_name>abivertinib maleate</other_name>
+    <other_name>avitinib</other_name>
+    <other_name>AC0010</other_name>
+    <other_name>abivertinib</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo capsules</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Confirmed positive for COVID-19 by RT-PCR assay or equivalent
+
+          -  Subject or family member/caregiver must have provided written informed consent which
+             includes signing the institutional review board (IRB) or independent ethics committee
+             (IEC) approved consent form prior to participating in any study related activity.
+             However, if obtaining written informed consent is not possible, other procedures as
+             provided in the March 27, 2020 (Updated on July 2, 2020) FDA Guidance on Conduct of
+             Clinical Trials of Medical Products during COVID-19 Pandemic, Question 10, may be used
+
+          -  Able to swallow capsules
+
+          -  Willing to follow contraception guidelines
+
+        Exclusion Criteria:
+
+          -  Pregnant or breast feeding
+
+          -  Suspected uncontrolled active bacterial, fungal, viral, or other infection other than
+             COVID-19
+
+          -  Treatment with a strong cytochrome p450 3A4 inhibitor or inducer within 7 days prior
+             to Day 1
+
+          -  Received anti-rejection or immunomodulatory drugs within 14 days prior to Day 1
+
+          -  Concurrent participation in another clinical trial involving therapeutic interventions
+             (observation studies are acceptable)
+
+          -  Any condition that confounds the ability to interpret data from the study
+
+          -  Any significant medical condition, laboratory abnormality, or psychiatric illness that
+             would interfere with or prevent the subject from participating in the study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mike Royal, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sorrento Therapeutics, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mike Royal, MD</last_name>
+    <phone>858-203-4100</phone>
+    <phone_ext>4146</phone_ext>
+    <email>mroyal@sorrentotherapeutics.com</email>
+  </overall_contact>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 27, 2020</study_first_posted>
+  <last_update_submitted>August 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>covid-19</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Maleic acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

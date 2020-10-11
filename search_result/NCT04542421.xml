@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="63">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542421</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-0781</org_study_id>
+    <nct_id>NCT04542421</nct_id>
+  </id_info>
+  <brief_title>Lung Ultrasound Implementation in the Management of Patients Hospitalized With COVID-19</brief_title>
+  <official_title>Lung Ultrasound Implementation in the Management of Patients Hospitalized With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Lung ultrasound (LUS) has also been shown to be more accurate than chest x-ray in identifying
+      pulmonary consolidation and pulmonary edema, both of which are found in patients with COVID.
+
+      The investigators hypothesize implementation of LUS by hospitalists in the management of
+      suspected or diagnosed patients with COVID-19 will reduce the need for Chest CT and chest
+      x-ray, thereby conserving PPE, reducing risk of transmission to technicians and conserving
+      the resources of radiology services that would otherwise be overwhelmed by patients with
+      COVID-19 in need of chest imaging. Using the methods of implementation science, the
+      investigators propose to respond to the urgent need for rapid implementation of LUS by
+      hospitalists in management of adult patients hospitalized for COVID.
+
+      Aim 1a: Using a rapid-cycle weekly Plan-Do-Study-Act cycle and Rapid Iterative RE-AIM, to
+      optimize the implementation of LUS by adult hospitalists in the management of COVID-19
+      patients in a pilot study
+
+      Aim 1b: Evaluate this pilot implementation of LUS by adult hospitalists using the Reach,
+      Effectiveness, Adoption, Implementation, and Maintenance (RE-AIM) framework.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study overview:. The investigators will begin LUS implementation using strategies that target
+      barriers already identified by hospitalists in prior qualitative work. The investigators will
+      then proceed to conduct weekly rapid Plan-Do-Study-Act cycles informed by Rapid Iterative
+      RE-AIM, in order to ensure timely identification of implementation barriers. Rapid Iterative
+      RE- AIM is an innovative application of the RE-AIM framework in which screening assessments
+      of RE-AIM outcomes (e.g. level of reach, adoption, implementation) which is performed at
+      regular intervals during implementation and has been shown to be a feasible means of
+      assessing interval implementation. For outcomes not meeting target implementation at our
+      interval assessments, we will perform rapid qualitative interviews of key stakeholders to
+      identify current barriers. Using the contextual domains of PRISM and rapid qualitative data
+      from stakeholders we will select new or adapt existing implementation strategies,
+      facilitating robust implementation. Study outcomes will be measured using the RE-AIM outcomes
+      from PRISM including Reach, Effectiveness, Adoption, Implementation, and Maintenance.
+
+      Study Setting: University of Colorado Hospital is a 620 beds academic tertiary care center in
+      Denver, Colorado.
+
+      Participant Recruitment: Hospitalist participants will be recruited from among the faculty of
+      University of Colorado Hospital Division of hospital medicine which has over 100 physician
+      and advanced practice clinicians (APPs).
+
+      Study Procedures:
+
+      All hospitalist physicians and APPs will be offered training in LUS. The training module to
+      be used has been shown to be effective at training providers to competency. The investigators
+      will evaluate acceptability and feasibility of the training module using rapid qualitative
+      techniques and questionnaires of both completers and non-completers. Once a provider has
+      completed training, she may begin performing LUS on COVID patients. The images will be
+      wirelessly uploaded into PACS. The provider's LUS interpretation will be documented in the
+      EMR. Rapid Iterative RE-AIM will be performed on a weekly basis as a means of iteratively
+      screening for implementation barriers. The implementation outcomes of both fidelity and
+      adaptation will be prioritized although all aspects of implementation will be evaluated.
+      Interval Reach will be screened for using EMR data. For RE-AIM domains with poor
+      implementation, the investigators will use rapid qualitative methods to obtain stakeholder
+      perspectives of barriers and suggestions for adaptations to existing strategies or new
+      strategies.
+
+      Measures/Data Collection Study Outcomes:
+
+      Reach: The investigators will measure the percentage of patients hospitalized with a positive
+      COVID test result who received a LUS during the hospitalization. The investigators will
+      compare the demographics and characteristics of the eligible patients who received a LUS
+      versus those that did not in order to identify disparities in implementation that can be
+      addressed by adapting our implementation strategies. The investigators will explore the
+      underlying reasons for disparities in Reach using rapid qualitative interviews of providers
+      and other stakeholders as appropriate.
+
+      Effectiveness: Using a quasi-experimental interrupted time series design, the investigators
+      will compare the number of chest x-rays and CTs performed, PPE use and inpatient mortality in
+      patient hospitalized with COVID before implementation of LUS versus after.
+
+      Adoption:
+
+      Adoption by clinicians will be measured by calculating the percentage of clinicians who
+      completed the LUS training module within the UCH hospitalist group. The investigators will
+      also measure the percentage of clinicians who performed at least 1 LUS exam. The
+      investigators will evaluate for differences between providers who did and did not complete
+      training. The investigators will interview hospitalists who did not complete training or did
+      not perform LUS to understand why LUS was not adopted.
+
+      Implementation:
+
+      The investigators will focus on collecting implementation outcomes that are particularly
+      relevant to the evaluation of diagnostic tests. Fidelity will be measured using data
+      available through the EMR and through qualitative interviews of providers regarding their
+      clinical decision-making. EMR data will be gathered by random selection of at least 10% of
+      LUS exams within the EMR over the prior 30 days using the following 3 components to evaluate
+      fidelity. 1. Image quality: Through the EMR, the investigators will assess whether image
+      acquisition was adequate using a checklist of image requirements. 2. Image interpretation:
+      the investigators will review interpretation of POCUS by assessing ultrasound reports in the
+      EMR using a checklist 3. Clinical Decision-making using the LUS result: Assess appropriate
+      integration of POCUS findings into the clinical decision-making by review of the LUS report
+      in the EMR and daily clinician progress notes well as through qualitative interviews of
+      providers.
+
+      Feasibility/Acceptability:
+
+      The investigators will measure feasibility and acceptability of the 1) LUS training module 2)
+      use of LUS for evaluation of patients with COVID using a questionnaire as well as rapid
+      qualitative interviews of hospitalists and other stakeholders
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adoption of lung ultrasound by hospitalists caring for patients with COVID</measure>
+    <time_frame>1 year</time_frame>
+    <description>number of hospitalists who obtain lung ultrasound in their patients with COVID</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients with COVID who receive a lung ultrasound</measure>
+    <time_frame>1 year</time_frame>
+    <description>percentage of patients with COVID who receive a lung ultrasound</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chest x-ray utilization</measure>
+    <time_frame>1 year</time_frame>
+    <description>Compare number of chest x-rays obtained in patients with COVID prior to lung ultrasound implementation intervention versus after</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adequacy of Lung ultrasound images, interpretation and clinical decision-making as measured by a lung ultrasound expert</measure>
+    <time_frame>1 year</time_frame>
+    <description>Expert adjudication of the adequacy of images, interpretation and clinical decision-making using lung ultrasound</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inpatient mortality</measure>
+    <time_frame>1 year</time_frame>
+    <description>Compare inpatient mortality of patients with COVID prior to lung ultrasound implementation versus after adjusted for risk factors</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Lung ultrasound Feasibility score</measure>
+    <time_frame>1 year</time_frame>
+    <description>Feasibility of using lung ultrasound as measured by a validated survey completed by hospitalists</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Lung ultrasound Implementation arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hospitalists undergo training to use lung ultrasound in their patients hospitalized with COVID</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Lung ultrasound use in patients hospitalized with COVID</intervention_name>
+    <description>Hospitalists will be taught to use lung ultrasound in the management of their patients with COVID</description>
+    <arm_group_label>Lung ultrasound Implementation arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Physicians and advanced care provider faculty in the Division of hospital medicine at
+             University of Colorado Hospital, Aurora Colorado
+
+        Exclusion Criteria:
+
+          -  Physicians and advanced care provider Faulty within the Division of Hospital medicine
+             at University of Colorado Hospital who care for hospitalized patients less than 2
+             weeks per year
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anna Maw, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado, Denver</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anna Maw, MD</last_name>
+    <phone>917-246-0702</phone>
+    <email>anna.maw@cuanschutz.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Colorado</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80238</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Maw, MD</last_name>
+      <phone>917-246-0702</phone>
+    </contact>
+    <investigator>
+      <last_name>Anna Maw, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>lung ultrasound</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

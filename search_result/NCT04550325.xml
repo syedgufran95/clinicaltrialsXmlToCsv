@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1711">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04550325</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Kamada Anti-SARS-CoV-2-001</org_study_id>
+    <nct_id>NCT04550325</nct_id>
+  </id_info>
+  <brief_title>Safety, PK and PD of Kamada Anti-SARS-CoV-2 in COVID-19</brief_title>
+  <official_title>A Phase 1/2 Open Label, Multicenter, Single Arm Study to Evaluate the Safety, Pharmacokinetics and Pharmacodynamics of Single Dose Kamada Anti-SARS-CoV-2 in COVID-19 Hospitalized Patients With Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kamada, Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kamada, Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluate the safety pharmacokinetics and pharmacodynamics (PK/PD)of a single dose of Kamada
+      anti-severe acute respiratory syndrome (SARS)- CoV-2 in patients hospitalized with COVID-19
+      caused pneumonia
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 5, 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>A Phase 1/2 Open Label, Single Arm Study to Evaluate the Safety, Pharmacokinetics and Pharmacodynamics of Single Dose Kamada Anti-SARS-CoV-2 in COVID-19 Hospitalized Patients with Pneumonia</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adverse events, serious adverse events, and deaths</measure>
+    <time_frame>14 days</time_frame>
+    <description>Record adverse events, serious adverse events, and deaths</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse events, serious adverse events, and deaths</measure>
+    <time_frame>28 days</time_frame>
+    <description>Record adverse events, serious adverse events, and deaths</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>AUC0-7 of Anti SARS CoV-2 antibodies</measure>
+    <time_frame>7 days</time_frame>
+    <description>Measurement of the area under the curve of anti SARS CoV-2 immunoglobulin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralization activity</measure>
+    <time_frame>7 days</time_frame>
+    <description>Evaluate virus neutralization activity of patient's plasma</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Duration of Hospitalization</measure>
+    <time_frame>84 days</time_frame>
+    <description>Time patient spent in hospital</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Clinical status on the 6 point ordinate scale</measure>
+    <time_frame>84 days</time_frame>
+    <description>Score on the 6 point ordinate scale</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Covid19</condition>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>Immune gamma globulin (IgG)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of 4g Immune gamma globulin (IgG) preparation Kamada Anti-SARS-CoV-2 given as an intravenous infusion</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Kamada Anti-SARS-CoV-2</intervention_name>
+    <description>Anti-SARS-CoV-2 is a preparation of immune gamma globulin manufactured from convalescent plasma of COVID-19 recovered patients, using Kamada's proprietary purification methods</description>
+    <arm_group_label>Immune gamma globulin (IgG)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age ≥ 18 years
+
+          2. Laboratory confirmed SARS-CoV-2 infection by nasopharyngeal swab Real time polymerase
+             chain reaction (RT-PCR)
+
+          3. Hospitalized for COVID-19 pneumonia
+
+          4. Dosing should be within 10 days of symptom start
+
+          5. Able and willing to sign informed consent form
+
+        Exclusion Criteria:
+
+          1. History of hypersensitivity to plasma products and/or severe Immunoglobulin A
+             deficiency (&lt; 7 mg/dL)
+
+          2. Requirement of high flow oxygen devices, or non-invasive ventilation or mechanical
+             ventilation, or extracorporeal membrane oxygenation (ECMO) at screening
+
+          3. Cardiovascular instability
+
+          4. History of thrombo-embolic events
+
+          5. Acute renal failure or creatinine &gt;2 mg/dL or estimated estimated glomerular
+             filtration rate (eGFR) &lt;30 mL/min
+
+          6. History of lung transplantation
+
+          7. Major surgery (abdominal and chest) within the last 4 weeks
+
+          8. Severe chronic background disease, per investigator's judgement for example, Cirrhosis
+             grade C, Dialysis, cardiac insufficiency (NYHA III), pulmonary disease (FEV1&lt;50
+             percent of predicted) etc.
+
+          9. Pregnancy or lactation
+
+         10. Treatment with plasma units or immunoglobulin preparations within the last 4 weeks
+
+         11. Participation in another pharmaceutical interventional clinical study within 4 weeks
+             from screening
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sharon Castro, MSc</last_name>
+    <phone>+972 8 9406472</phone>
+    <email>Sharonc@kamada.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Wolfson Medical Center</name>
+      <address>
+        <city>Holon</city>
+        <zip>5822012</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah Medical Center</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91120</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sheba Medical Center Hospital- Tel Hashomer</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kaplan Medical Center</name>
+      <address>
+        <city>Reẖovot</city>
+        <zip>7661041</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 15, 2020</study_first_posted>
+  <last_update_submitted>September 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 15, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

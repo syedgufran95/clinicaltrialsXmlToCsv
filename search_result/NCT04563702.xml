@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1295">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04563702</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VXA-COV2-101</org_study_id>
+    <nct_id>NCT04563702</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity Trial of an Oral SARS-CoV-2 Vaccine (VXA-CoV2-1) for Prevention of COVID-19 in Healthy Adults</brief_title>
+  <official_title>A Phase 1 Open-Label, Dose-Ranging Trial to Determine the Safety and Immunogenicity of an Adenoviral-Vector Based Vaccine (VXA-CoV2-1) Expressing a SARS-CoV-2 Antigen and dsRNA Adjuvant Administered Orally to Healthy Adult Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vaxart</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Vaxart</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      VXA-CoV2-1 is a non-replicating Ad5 vector adjuvanted oral tableted vaccine being developed
+      to prevent COVID-19, the disease resulting from Severe Acute Respiratory Syndrome coronavirus
+      (SARS-CoV-2) infection. The study is designed to evaluate the safety and immunogenicity of
+      VXA-CoV2-1 vaccine with repeat dosing at multiple dose levels. Safety and immunogenicity will
+      be evaluated for up to 12 months after the second dose of VXA-CoV2-1.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label, dose-ranging trial to determine the safety and immunogenicity of an
+      orally administered adenoviral-vector based vaccine (VXA-COV2-1) expressing a SARS-CoV-2
+      antigen and dsRNA adjuvant. Post screening activities, healthy adult volunteers aged 18 - 54
+      yrs old, inclusive, will be enrolled into the study. Participants will receive an oral dose
+      of vaccine at Days 1 and 29; total study period will last ~ 2 months during the active phase,
+      with a total 12 month safety follow-up period post last vaccination. Safety, reactogenicity
+      and immunogenicity assessments will be performed at set times during the study active and
+      follow-up periods. Subjects will be monitored for symptoms of COVID-19 throughout the
+      duration of the study follow-up period.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Open-label, repeat dose, dose ranging</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of solicited symptoms of reactogenicity</measure>
+    <time_frame>Day 1 through Day 8 post each immunization</time_frame>
+    <description>Subject reported symptoms of local and systemic reactogenicity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Grade of solicited symptoms of reactogenicity</measure>
+    <time_frame>Day 1 through Day 8 post each immunization</time_frame>
+    <description>Subject reported symptoms of local and systemic reactogenicity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of unsolicited adverse events</measure>
+    <time_frame>Day 1 through Day 29 post each immunization</time_frame>
+    <description>Any adverse events observed or reported following vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Grade of unsolicited adverse events</measure>
+    <time_frame>Day 1 through Day 29 post each immunization</time_frame>
+    <description>Any adverse events observed or reported following vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of serious adverse events (SAEs)</measure>
+    <time_frame>Day 1 through Day 390</time_frame>
+    <description>Any adverse events reported following vaccination meeting definition of serious</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of medically-attended adverse events (MAAEs)</measure>
+    <time_frame>Day 1 through Day 390</time_frame>
+    <description>Any adverse events reported following vaccination meeting definition of serious</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 specific IgG/IgA</measure>
+    <time_frame>Day 1 through Day 390</time_frame>
+    <description>SARS-CoV-2 specific IgG/IgA by enzyme-linked immunosorbent assay (ELISA)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibody titers to SARS-CoV-2</measure>
+    <time_frame>Day 1 through Day 390</time_frame>
+    <description>serum based assay of Ab titers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antigen-specific IgG/IgA antibody secreting (ASCs)</measure>
+    <time_frame>Day 1 through Day 44</time_frame>
+    <description>ASCs by ELISpot</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Th1/Th2 polarization</measure>
+    <time_frame>Day 1 through Day 44</time_frame>
+    <description>Flow Cytometry</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Low Dose VXA-CoV2-1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low dose (1E10 I.U.) of VXA-CoV2-1 oral tableted vaccine dispensed at Days 1 and 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High Dose (1E11 I.U.) of VXA-CoV2-1 oral tableted vaccine dispensed at Days 1 and 29</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>VXA-CoV2-1</intervention_name>
+    <description>non replicating Ad5 adjuvanted oral tableted vaccine</description>
+    <arm_group_label>High Dose</arm_group_label>
+    <arm_group_label>Low Dose VXA-CoV2-1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Male or female between the ages of 18 to 54 years, inclusive.
+
+          2. Negative for SARS-CoV-2 infection at the time of screening
+
+          3. In generally good health, without significant medical illness
+
+          4. Demonstrates comprehension of the protocol procedures and is able to provide written
+             informed consent.
+
+          5. Available for all planned visits and willing to complete all protocol defined
+             procedures and assessments
+
+          6. Body mass index between 17 and 30 kg/m2 at screening.
+
+          7. Female subjects must have a negative pregnancy test at screening and before each
+             vaccination and fulfill an acceptable method of birth control (per protocol)
+
+        Exclusion Criteria:
+
+          1. Known previous exposure to SARS-CoV-2 or receipt of an investigational product for the
+             prevention or treatment of COVID-19, middle east respiratory syndrome (MERS), or
+             severe acute respiratory syndrome (SARS).
+
+          2. Is in a current occupation with high risk of exposure to SARS-CoV-2
+
+          3. Individuals with the following underlying medical conditions who are at higher risk
+             (or might be at higher risk) of severe illness from COVID-19 per the CDC's guidance
+
+          4. Donation or use of blood or blood products within 4 weeks prior to vaccination or
+             planned donation during the study period.
+
+          5. Diagnosed bleeding disorder or significant bruising or bleeding difficulties that
+             could make blood draws problematic.
+
+          6. Any condition that resulted in the absence or removal of the spleen.
+
+          7. Positive HIV, HBsAg or HCV tests at the screening visit.
+
+          8. Stool sample with occult blood at screening.
+
+          9. Use of antiviral medications, including anti-retrovirals, or any prescriptive
+             medications for the prevention of COVID-19 within 7 days before vaccination
+
+         10. Use of antibiotics, proton pump inhibitors, H2 blockers or antacids or medications
+             known to affect the immune function within 7 to 14 days before vaccination
+
+         11. Regular use of nonsteroidal anti-inflammatory drugs, sulfonylureas, and angiotensin II
+             blockers within 7 days before vaccination
+
+         12. Acute disease within 72 hours prior to vaccination defined as the presence of a
+             moderate or severe illness
+
+         13. History of drug, alcohol or chemical abuse within 1 year of screening or positive
+             urine drug screen for drugs of abuse at screening
+
+         14. History of hypersensitivity or allergic reaction to any component of the
+             investigational vaccine
+
+         15. Administration of any investigational vaccine, drug or device within 8 weeks preceding
+             vaccination
+
+         16. Any other condition that in the clinical judgment of the investigator would jeopardize
+             the safety or rights of a subject participating in the trial, would render the subject
+             unable to comply with the protocol or would interfere with the evaluation of the study
+             endpoints.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>54 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Shaily J Garg</last_name>
+    <phone>650-550-3534</phone>
+    <email>sgarg@vaxart.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Josefina Martinez</last_name>
+    <phone>650-550-3504</phone>
+    <email>jmartinez@vaxart.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>WCCT</name>
+      <address>
+        <city>Cypress</city>
+        <state>California</state>
+        <zip>90630</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Priscilla Trejo</last_name>
+      <phone>877-777-9228</phone>
+      <email>ptinfo@wcct.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tami Islam, MPH</last_name>
+      <phone>7142520700</phone>
+      <phone_ext>1120</phone_ext>
+      <email>tamima.islam@wcct.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Youngjun Kim, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 24, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>VXA-C0V2-1</keyword>
+  <keyword>Vaxart oral vaccine</keyword>
+  <keyword>tablet vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>A plan on how to share individual subject's outcomes will be defined within the next few months.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

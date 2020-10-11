@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2524">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04494386</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ULSC-CV-01</org_study_id>
+    <nct_id>NCT04494386</nct_id>
+  </id_info>
+  <brief_title>Umbilical Cord Lining Stem Cells (ULSC) in Patients With COVID-19 ARDS</brief_title>
+  <acronym>ULSC</acronym>
+  <official_title>Phase 1/2a Study of Umbilical Cord Lining Stem Cells (ULSC) in Patients With ARDS Due to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Restem, LLC.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Restem, LLC.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      ULSC-CV-01 is a clinical trial that comprises both Phase 1 and Phase 2a, which will be
+      conducted sequentially. This trial will evaluate the safety and potential efficacy of
+      allogeneic Umbilical Cord Lining Stem Cells (ULSC), which are a type of umbilical cord tissue
+      derived mesenchymal stem cells (MSC), with intravenous (IV) administration in hospitalized
+      patients with acute respiratory distress syndrome (ARDS) due to COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Phase 1, open-label, non-controlled trial in this study will investigate the safety of
+      intravenous (IV) infusion of ULSC in a total of 20 patients with COVID-19-related ARDS that
+      will include patients that are not intubated and not on a ventilator (NV) and patients that
+      are intubated and on a ventilator (V) for respiratory support. Separate cohorts of each group
+      (NV and V) will receive either a single dose (one infusion) or repeat dose (two infusions
+      separated by 48-hour interval).
+
+      The Phase 2a randomized and placebo-controlled trial in this study will investigate the
+      potential efficacy of IV infusion of ULSC in a total of 40 patients with COVID-19-related
+      ARDS that will all be EITHER NV or V; the determination of that eligibility criterion and the
+      ULSC dosing regimen will be based on Phase 1 data of safety and tolerability. Phase 2a will
+      evaluate EITHER single dose (one infusion) or repeat dose (two infusions separated by 48-hour
+      interval). The randomization will be 3:1 with 30 patients receiving investigational product
+      (ULSC) and 10 patients receiving placebo (carrier control).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 23, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Dose Limiting Toxicity (DLT)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Number of subjects with a DLT event during or within 24 hours after ULSC infusion
+[Dose Limiting Toxicities are treatment-emergent suspected adverse reactions graded as severe, such as severe infusion-related hypersensitivity toxicities of grade ≥3, and any treatment-emergent serious adverse event (SAE) will be investigated to determine if DLT.]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Dose Limiting Toxicity (DLT), suspected adverse reaction (SAR), or serious adverse event (SAE)</measure>
+    <time_frame>1 week</time_frame>
+    <description>Number of subjects with a DLT event, suspected adverse reaction, or any serious adverse event (SAE) within 1 week of each ULSC infusion</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment-emergent adverse events (AE) and serious adverse events (SAE)</measure>
+    <time_frame>1 month</time_frame>
+    <description>Treatment-emergent adverse events (AE; incidence, grade, and assessment of relatedness or causality) and serious adverse events (SAE) during the study up to 1-month follow-up</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment-emergent adverse events (AE) and serious adverse events (SAE)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Treatment-emergent adverse events (AE; incidence, grade, and assessment of relatedness or causality) and serious adverse events (SAE) during the study and up to the 12-month follow-up</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Levels of COVID-19 related ARDS as defined by the Berlin Definition of ARDS</measure>
+    <time_frame>1 month</time_frame>
+    <description>Times to transitions between levels of COVID-19 related ARDS as defined by the Berlin Definition of ARDS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline pulse oximetric saturation SpO2/FiO2 ratio or arterial oxygen pressure pAO2/FiO2 ratio</measure>
+    <time_frame>1 month</time_frame>
+    <description>Changes in SpO2/FiO2 ratio or pAO2/FiO2 ratio compared to baseline, measured daily at a minimum; oxygenation index daily when on ventilator</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of ventilator-free days (VFD)</measure>
+    <time_frame>1 month</time_frame>
+    <description>Number of ventilator-free days (VFD) in period of 1 month from study treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Complete Blood Count (CBC) with differential from baseline</measure>
+    <time_frame>1 month, 2 months, 3 months, 6 months, and 12 months</time_frame>
+    <description>Changes in CBC with differential from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in levels of blood glucose (mg/dL) from baseline</measure>
+    <time_frame>1 month, 2 months, 3 months, 6 months, and 12 months</time_frame>
+    <description>Changes in blood glucose (mg/dL) from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in levels of sodium (mEq/L) from baseline</measure>
+    <time_frame>1 month, 2 months, 3 months, 6 months, and 12 months</time_frame>
+    <description>Changes in levels of sodium (mEq/L) from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in levels of potassium (mEq/L) from baseline</measure>
+    <time_frame>1 month, 2 months, 3 months, 6 months, and 12 months</time_frame>
+    <description>Changes in levels of potassium (mEq/L) from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in levels of blood urea nitrogen (BUN; mg/dL) from baseline</measure>
+    <time_frame>1 month, 2 months, 3 months, 6 months, and 12 months</time_frame>
+    <description>Changes in levels of blood urea nitrogen (BUN; mg/dL) from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in levels of alanine transaminase (ALT; U/L) from baseline</measure>
+    <time_frame>1 month, 2 months, 3 months, 6 months, and 12 months</time_frame>
+    <description>Changes in levels of alanine transaminase (ALT; U/L) from baseline to 1 month, 2 months, 3 months, 6 months, and 12 months after study treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Urinalysis (UA) from baseline</measure>
+    <time_frame>1 month</time_frame>
+    <description>Change in Urinalysis (UA) at baseline and 1 month after study treatment to assess for presence and qualitative proteinuria</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>SARS-CoV Infection</condition>
+  <condition>ARDS</condition>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>ULSC in Phase 1 Open Label</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intravenous (IV) infusion of ULSC in 20 patients with COVID-19 ARDS:
+In Phase 1, two separate cohorts per group will receive either a single dose (one infusion) or repeat dose regimen (two infusions separated by 48-hour interval). The first cohort enrolled will receive the single dose; the next cohort enrolled will be administered the repeat dose regimen.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ULSC in Phase 2a Randomized</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intravenous (IV) infusion of ULSC in 30 patients with COVID-19 ARDS:
+In Phase 2a, 30 patients assigned ULSC will receive either a single dose (one infusion) or repeat dose regimen (two infusions separated by 48-hour interval). The ULSC dosing regimen will be chosen based on Phase 1 data of safety and tolerability.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo in Phase 2a Randomized</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Intravenous (IV) infusion of carrier control in 10 patients with COVID-19 ARDS:
+In Phase 2a, 10 patients assigned Placebo will receive either single dose (one infusion) or repeat dose (two infusions separated by 48-hour interval) of carrier control; the dosing regimen will correspond to that of the experimental arm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Umbilical Cord Lining Stem Cells (ULSC)</intervention_name>
+    <description>IV infusion of allogeneic ULSC (100 million cells per dose) in sterile saline for injection</description>
+    <arm_group_label>ULSC in Phase 1 Open Label</arm_group_label>
+    <arm_group_label>ULSC in Phase 2a Randomized</arm_group_label>
+    <other_name>Umbilical Cord Lining Stem Cells (ULSC), type of mesenchymal stem cells (MSC) derived from single donor umbilical cord tissue for allogeneic use</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo (carrier control)</intervention_name>
+    <description>IV infusion of carrier control consisting of sterile saline for injection</description>
+    <arm_group_label>Placebo in Phase 2a Randomized</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Adult, male or female, age ≥18 years old
+
+          2. Diagnosis of the presence of the COVID-19 agent with confirmation of COVID-19 by
+             standard reverse transcriptase polymerase chain reaction (RT-PCR) or equivalent test.
+
+          3. Patient with diagnosis of COVID-related ARDS, classified as either:
+
+               -  Not requiring mechanical ventilation (NV) or
+
+               -  Requiring mechanical ventilation (V).
+
+             According to Berlin Definition of Acute Respiratory Distress Syndrome (ARDS), patients
+             will be categorized based on degrees of hypoxemia [arterial partial pressure of oxygen
+             (PaO2)/oxygen concentration (FiO2)]:
+
+               -  Mild ARDS: 200 mm Hg &lt; PaO2/FIO2 ≤ 300 mm Hg
+
+               -  Moderate ARDS: 100 mm Hg &lt; PaO2/FIO2 ≤ 200 mm Hg
+
+               -  Severe ARDS: PaO2/FIO2 ≤ 100 mm Hg
+
+          4. Patient who has exhibited deterioration in condition during the past 72 hours prior to
+             the informed consent.
+
+          5. Patient receiving standard of care in-hospital therapy, including appropriate critical
+             oxygenation, fluid, and hemodynamic support as indicated clinically.
+
+          6. Patient or responsible family member or surrogate signs informed consent.
+
+        Exclusion Criteria
+
+          1. Hypersensitivity to study product components. History of hypersensitivity to dimethyl
+             sulfoxide (DMSO).
+
+          2. Active cancer or prior diagnosis of cancer within the past year; however, patients
+             with basal and squamous cell cancer of skin will not be excluded.
+
+          3. Organ transplant recipient.
+
+          4. Chronic renal failure being treated by renal replacement therapy (dialysis) before
+             development of COVID-19.
+
+          5. Any other condition that, in the judgment of the Investigator or Sponsor, would be a
+             contraindication to enrollment, study product administration, or follow-up.
+
+          6. Pregnancy or lactation; a negative pregnancy test between screening and day 1 (before
+             administration of treatment) will be required of women with childbearing potential,
+             and they will be advised of the requirement to use an effective means of
+             contraception. A woman is considered to be of childbearing potential unless she is
+             postmenopausal and without menses for 12 months or without a uterus and/or both
+             ovaries.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Central Contact</last_name>
+    <phone>951-817-7478</phone>
+    <email>info@restem.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Sanford Research</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William C Spanos, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Jason Knudtson, MD</last_name>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 31, 2020</study_first_posted>
+  <last_update_submitted>August 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 13, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

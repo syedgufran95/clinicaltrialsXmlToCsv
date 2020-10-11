@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1599">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04530500</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-5907</org_study_id>
+    <nct_id>NCT04530500</nct_id>
+  </id_info>
+  <brief_title>COVID-19 In-vitro Diagnostic Test and Androgen Receptor Gene Expression</brief_title>
+  <official_title>In-vitro Diagnostic Test to Predict COVID-19 Mortality and Disease Severity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Irvine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Applied Biology, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Irvine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research study will evaluate the association of Androgen Receptor (AR) gene expression
+      and COVID-19 disease severity and mortality. The research procedure involves collection of a
+      single saliva sample which will be mailed to the participants by the study team. This saliva
+      will be used in a COVID-19 Androgen Sensitivity Test (CoVAST) which will detect AR gene
+      expression. Eligible participants are males, at least 18 years or older, and have tested
+      positive for COVID-19.
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">August 13, 2020</start_date>
+  <completion_date type="Anticipated">August 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients deceased</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of subjects deceased at or before 28 days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients discharged</measure>
+    <time_frame>14 days</time_frame>
+    <description>Number of patients discharged at or before 14 days</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <condition>Androgen Receptor Gene Overexpression</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <description>Males first tested positive for SARS-CoV-2 at the site (medical center) with CAG length &lt;24 (based on the CoVAST Test)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <description>Males first tested for SARS-CoV-2 at the site (medical center) with CAG length &gt;=24 (based on the CoVAST Test)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>COVID-19 Androgen Sensitivity Test (CoVAST)</intervention_name>
+    <description>The CoVAST Test is an in-vitro non diagnostic test. The test reports the genetic health risk of male patients in developing severe symptoms following COVID 19 infection. The genetic information provided by this test will help physicians evaluate the association of AR gene polymorphism with disease severity and mortality following COVID-19 infection. The CoVAST Test is indicated for reporting of the following variant associated with the following gene.</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Saliva samples
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Males over age 18 who have tested positive for SARS-CoV-2 infection within the University
+        of California, Irvine Health System.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male over the age of 18
+
+          -  Laboratory confirmed SARS-CoV-2 infection
+
+          -  Able to give verbal informed consent
+
+        Exclusion Criteria:
+
+          -  Unable to give informed consent
+
+          -  Diagnosed with an additional respiratory co-infection
+
+          -  XXY males
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Natasha Mesinkovska, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Irvine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Applied Biology, Inc</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Irvine - Dermatology Clinical Research</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92697</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>androgen receptor</keyword>
+  <keyword>severity</keyword>
+  <keyword>mortality</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Androgens</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

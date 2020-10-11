@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2354">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04528888</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Staunch-19-1.1-26-04-20</org_study_id>
+    <nct_id>NCT04528888</nct_id>
+  </id_info>
+  <brief_title>Steroids and Unfractionated Heparin in Critically Ill Patients With Pneumonia From COVID-19 Infection</brief_title>
+  <acronym>STAUNCH-19</acronym>
+  <official_title>Steroids and Unfractionated Heparin in Critically Ill Patients With Pneumonia From COVID-19 Infection. A Multicenter, Interventional, Randomized, Three Arms Study Design</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massimo Girardis</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Modena and Reggio Emilia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SARS-CoV-2 infection seems to induce in most critical cases an excessive and aberrant
+      hyper-inflammatory host immune response that is associated with a so-called &quot;cytokine storm&quot;,
+      moreover pro-thrombotic derangements of haemostatic system is another common finding in most
+      severe forms of COVID19 infections, which may be explained by the activation of coagulative
+      cascade primed by inflammatory stimuli, in line with what is observed in many other forms of
+      sepsis. Targeting inflammatory responses exploiting steroids' anti-inflammatory activity
+      along with thrombosis prevention may be a promising therapeutic option to improve patients'
+      outcome. Despite the biological plausibility, no good evidence is available on the efficacy
+      and safety of heparin on sepsis patients, and many issues have to be addressed, regarding the
+      proper timing, dosages and administration schedules of anticoagulant drugs. The primary
+      objective is to assess the hypothesis that an adjunctive therapy with steroids and
+      unfractionated heparin (UFH) or with steroids and low molecular weight heparin (LMWH) are
+      more effective in reducing any-cause mortality in critically-ill patients with pneumonia from
+      COVID- 19 infection compared to low molecular weight heparin (LMWH) alone. Mortality will be
+      measured at 28 days. The study is designed as a multicenter, national, interventional,
+      randomized, investigator sponsored, three arms study. Patients, who satisfy all inclusion
+      criteria and no exclusion criteria, will be randomly assigned in a ratio 1:1:1 to one of the
+      three treatment groups: LMWH group, LMWH+steroids or UFH+steroid group. A possible result
+      showing the efficacy of the composite treatment in reducing the mortality rate among
+      critically ill patients with pneumonia from COVID-19 infection will lead to a revision of the
+      current clinical approach to this disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Rationale It is very likely that the most severe manifestations of COVID-19 may be linked to
+      an excessive and aberrant hyper-inflammatory host immune response along with pro-thrombotic
+      derangements of haemostatic system, two processes mutually reinforcing.
+
+      Steroids exert potent anti-inflammatory activity by inhibition of leucocytes extravasation,
+      function of macrophages and antigen-presenting cells, production of TNF alpha, interleukin-1
+      and nitric oxide. A Chinese report on 201 patients with COVID-19 pneumonia pointed out a
+      survival benefit of more than 15% among patients with ARDS who received Methylprednisolone
+      compared to those who did not .
+
+      The use of Low Molecular Weight Heparin (LMWH) or Unfractionated Heparin (UFH) at
+      prophylactic doses has been demonstrated to be associated with a reduced 28-day in more
+      severe patients with Sepsis Induced Coagulopathy (SIC) score ≥4 (40.0% vs 64.2%, P=0.029), or
+      D-dimer &gt; 6 fold of upper limit of normal (32.8% vs 52.4%, P=0.017) . This finding agrees
+      with the already described immune-modulatory properties and protective action of glycocalyx
+      from shedding displayed by heparin. Despite the biological plausibility, no good evidence is
+      available on the efficacy and safety of heparin on sepsis patients, and many issues have to
+      be addressed, regarding the proper timing, dosages and administration schedules of
+      anticoagulant drugs.
+
+      Targeting inflammatory responses along with thrombosis prevention may be a promising
+      therapeutic option to improve outcomes in patients with COVID-19.
+
+      Study objective The primary objective is to assess the hypothesis that an adjunctive therapy
+      with steroids and unfractionated heparin or with steroids and molecular weight heparin (LMWH)
+      are more effective in reducing any-cause mortality in critically-ill patients with pneumonia
+      from COVID- 19 infection compared to low molecular weight heparin (LMWH) alone. Mortality
+      will be measured at 28 days. A possible result showing the efficacy of the composite
+      treatment in reducing the mortality rate among critically ill patients with pneumonia from
+      COVID-19 infection will lead to a revision of the current clinical approach to this disease.
+
+      Study setting The study will involve 8 Italian Academic and non-Academic Intensive Care
+      Units. The recruitment of 210 participants will be completed in around 10 months.
+
+      Interventions Patients who satisfy all inclusion criteria and no exclusion criteria will be
+      randomly assigned to a LMWH group (Group 1), LMWH+steroids (group 2) or UFH+steroid group
+      (Group 3). The study in conceived as open-label: the patients and all the health-care
+      personnel will be aware of the assigned group. The treatments will be initiated as soon as
+      possible after randomization (maximum allowed starting time 12h after randomization). In both
+      groups, before enrolment in the study it will be allowed the administration of low-dosages
+      steroids for ARDS treatment (maximum 320 mg of Metilprednisolone per day for a maximum of 2
+      days).
+
+        -  LMWH group (group 1): Patients in this group will be administered enoxaparin at standard
+           prophylactic dose.
+
+        -  LMWH + steroids group (group 2): Patients in this group will receive enoxaparin at
+           standard prophylactic dose and methylprednisolone.
+
+        -  UFH + steroid group (group 3): Patients in this group will receive unfractionated
+           heparin at therapeutic dosages and methylprednisolone.
+
+      Unfractionated heparin will be administered intravenously in UFH + steroid group at
+      therapeutic doses. The infusion will be started at an infusion rate of 18 IU/kg/hour and then
+      modified to attain APTT Ratio in the range 1.5-2.0. aPTT will be periodically checked at
+      intervals no longer than 12 hours. The treatment with unfractionated heparin will be
+      administered up to ICU discharge. After ICU discharge anticoagulant therapy may be
+      interrupted or switched to prophylaxis with LMWH in the destination ward up to clinical
+      judgement of the attending physician.
+
+      Enoxaparin will be administered in both LMWH group and LMWH + steroids group at standard
+      prophylactic dose (i.e., 4000 UI once day, increased to 6000 UI once day for patients
+      weighting more than 90 kg). The treatment will be administered subcutaneously daily up to ICU
+      discharge. After ICU discharge it may be continued or interrupted in the destination ward up
+      to clinical judgement of the attending physician.
+
+      Methylprednisolone will be administered in both LMWH + steroids group and UHF + steroids
+      group intravenously with an initial bolus of 0,5 mg/kg followed by administration of 0,5
+      mg/kg 4 times daily for 7 days, 0,5 mg/kg 3 times daily from day 8 to day 10, 0,5 mg/kg 2
+      times daily at days 11 and 12 and 0,5 mg/kg once daily at days 13 and 14.
+
+      Concomitant medications: Depending on their clinical status, patients will be treated
+      according to the principles of the Good Clinical Practice and clinical judgement of the
+      attending physician. No other pharmacological therapy or treatment will be influenced from
+      the study protocol. There are no restrictions to concomitant treatments provided to patients
+      in this study. All relevant concomitant medications and treatments taken or administered in
+      the 24 hours before screening and during the study period will be recorded. Upon clinical
+      judgement of the attending physicians, the patients can receive rescue administration of
+      high- dose steroids or immune-modulatory drugs. Need and timing of rescue treatments
+      administration will be recorded.
+
+      Criteria for discontinuing or modifying allocated interventions: The duration of study
+      therapy will be until ICU discharge for LMWH and UFH and 7 days for Methylprednisolone.
+      Patients may be prematurely discontinued from study protocol at the discretion of the
+      Investigator, should any untoward effect occur (including an AE or clinically significant
+      laboratory abnormality that, in the opinion of the Investigator, warrants the subject's
+      permanent discontinuation of study protocol-directed care).
+
+      Data collection and management Every patient who meets the inclusion criteria will be
+      included and randomised in the three groups. The study data will be collected along the
+      entire study period in a dedicated electronic Case Report Form (eCRF). The eCRF will be
+      provided by the steering committee with proper options to minimize data entry errors: the
+      datasheet will incorporate un-amendable fixed intervals of values (for continuous variables)
+      and pre-defined coding system (for binary or categorical variables). Data entry will be
+      performed and double-checked from a dedicated researcher in each centre; in order to limit
+      collection errors, 10% of all records will be randomly re- checked from the PI in each
+      participating centre. The data collection will be also checked by a Clinical Monitor, by
+      phone calls as agreed with the investigators. The study Monitor will be responsible for
+      performing the monitoring in accordance with good clinical practice (GCP) guidelines. The
+      investigators will agree on monitoring phone calls to assess the progress of the study,
+      verify adherence to the protocol, check the eligibility of patients, the accuracy and
+      completeness of the eCRF, check the correlation between the data reported into eCRF and those
+      recorded in the hospital documents (medical records, patient registries, etc.), check for the
+      correct reporting of adverse events, verify that evaluations planned and documentation of the
+      study are properly stored and handled. Data will be collected and stored in on hardware
+      supports in every participant centre and sent to the coordinating centre at the end of the
+      study and protected by password to prevent unintentional modifications or deletion. Each
+      satellite centre will monthly communicate and report via e-mail with the coordinating centre
+      about number of recruited patients, eventual missing data or missing visit or any kind of
+      problem correlated to data collection. Data related to the study will be stored for eventual
+      further analysis or study purpose for 10 years after the end of the study. All the data about
+      the included patients will be extrapolated from the clinical documentation and recorded in an
+      eCRF from adequately trained researcher.
+
+      Demographic information (gender, age) and co-morbidities, will be registered at the
+      inclusion, severity of critical illness (quantified by the Simplified Acute Physiology Score
+      II, SAPS II) will be calculated by the data from the first 24 h of ICU stay. During the study
+      duration clinical and laboratory parameters will be evaluated and recorded following the
+      scheduled timeline: SOFA score and its components, vital signs such as mean arterial pressure
+      (MAP), hearth rate (HR), respiratory rate (RR), systemic temperature, diuresis, fluid
+      balance, data from routine laboratory test such as haemoglobin, platelets count, white blood
+      cells count, troponin, coagulative parameters (INR, PT, aPTT), parameters for liver and renal
+      function (AST, ALT, bilirubin, creatinine), oxygen inspired fraction, blood gas analysis
+      results (BGA), ventilation mode, need of adjunctive therapy for ARDS (i.e. prone position,
+      Nitric oxide, ECMO), blood cells count, C-reactive protein (PCR), procalcitonin (PCT),
+      interleukin-6 (IL-6), immunoglobulin titers (IgG, IgM, IgA) , occurrence of ICU-acquired
+      (from 48 hours after ICU admission) blood, respiratory and urinary-tract infection and the
+      implicated microorganisms, reactivation of viral infections (CMV-DNA titres). Other recorded
+      parameters will include duration and mode of ventilatory support in days, duration and type
+      of antiviral, antibiotic and antifungal therapy in days, need of vasoactive drugs, use of
+      immune-modulatory drugs or other adjunctive treatment for COVID-19 pneumonia. As a blood-bank
+      for possible further biochemical investigations (e.g. cytokines titers, different
+      biomarkers), for each patient who will be included in the study a blood sample of about 6 ml
+      will be collected at baseline, day 7 and 28 or at ICU discharge and stored, after
+      centrifugation, at -70°C in the local laboratory of each site.
+
+      Methods for statistical analysis All patients enrolled in the study will be entered in the
+      full analysis set independently of his/her treatment time. The intention to treat population
+      will be considered for primary analysis. A descriptive statistical analysis will be performed
+      to describe every relevant variable. In general, categorical data will be presented using
+      counts and percentages, whilst continuous variables will be presented using the number of
+      patients, mean, standard deviation, median, minimum, and maximum. Denominators for
+      calculation of percentages will be taken as the number of non-missing responses in the
+      specified analysis population and treatment group unless otherwise stated, and percentages
+      will be rounded to one decimal. Minima and maxima will usually be reported to the same level
+      of accuracy as the raw data; means, medians and standard deviations will be presented to one
+      further decimal place; standard errors (if presented) will be presented to 2 decimal places
+      more than the raw data. 97.5 % confidence interval will be calculated for primary outcome and
+      for the relevant secondary ones. All data recorded in the CRF will be listed. Distribution of
+      SAPSII and SOFA score (total and for single organ) at admission, P/F ratio distribution at
+      baseline and at day 3, biomarkers PCR, PCT and IL-6 P/F ratio distribution at baseline and at
+      day 3 will be summarized. The comparison between 1. LMHW + steroids group and LMWH group 2.
+      UHF + steroids group and LMWH group with binary outcomes will be performed by using Relative
+      Risks (RRs), whereas for continuous data, the difference of means (DMs) will be used.
+      Comparisons involving time to event data will be displayed by using Kaplan-Maier survival
+      curves and summarised by Hazard Ratios (HRs). All measures of association will be presented
+      with their confidence intervals. A result will be considered as statistically significant if
+      its p-values will be less than 0.025 (2.5%). The analyses will be performed by using STATA
+      software. As the study has not been sized to assess the difference between LMHW + steroids
+      group and UHF + steroids group, the results obtained from this comparison will be reported
+      and will be interpreted with caution. The main analyses will not take into account the
+      factors of stratification.
+
+      Data monitoring An independent Data Safety Monitoring Board (DSMB), consisting of 2 experts
+      in clinical research in intensive care and 1bio-statistic will be established before patient
+      enrolment. The DSMB Charter will be prepared by the steering committee and signed by the
+      members of the DSMB before the trial commences. The DSMB will have access to all results and
+      make the appropriate considerations about the appropriateness of the sample size, the
+      efficiency and quality of data collection system, eventual occurrence of suspected
+      protocol-related adverse event. The DSMB has the right to stop the trial for safety reasons.
+
+      Analyses ad interim Considering a statistical approach based on two phases, an interim
+      analysis is planned after the randomization of 90 patients (50% of sample size) for the
+      double objective of monitoring safety and verifying the accuracy of the assumptions made for
+      sample size estimation regarding the primary end-point event rate in relation to the
+      anticipated survival benefit. With the interim analysis we will be able to evaluate whether
+      there is a substantial superiority of one treatment. The obtained results will be evaluated
+      by the DSMB and by the steering committee and, in case of significant differences in survival
+      among the groups, all patients will be switched to the most promising treatment.
+
+      Harms All the patients, regardless the inclusion in the study and the randomization group,
+      will benefit from the best standard of care following the principles of Good Clinical
+      Practice. All the included patients will be intensively monitored following the standard
+      procedures of intensive care medicine and any suspected protocol-related adverse event will
+      be reported to the steering committee, the data safety and monitoring board, other
+      participating centres and the competent authorities. In Beyond suspected protocol-related
+      adverse event, the data safety and monitoring board will have access to all results of the
+      trial and make the appropriate considerations about the appropriateness of the sample size,
+      the efficiency and quality of data collection system and has the right to stop the trial for
+      safety reasons or futility.
+
+      Ethics and dissemination The study will be conducted in line with the protocol, the
+      Declaration of Helsinki (1964) and subsequent amendments and updates (Fortaleza, Brazil,
+      October 2013). Moreover, it is the responsibility of the investigator to ensure that the
+      study will be done in line with to the requirements of Good Clinical Practice (GCP) and the
+      applicable regulatory requirements.
+
+      Research ethics approval The entire study protocol, including informative material for the
+      patients and modules for the informed consent, have been approved by the Ethics Committee of
+      Italian National institute for Infectious diseases (Istituto Nazionale per le Malattie
+      Infettive Lazzaro Spallanzani -IRCCS).
+
+      The study will not start before obtaining a favourable opinion from the EC, the Competent
+      Authority Authorization and any other authorization required by local regulation. Every
+      intention to modify any element of the original protocol after the first approval will be
+      promptly notified to the Ethics Committee and will be applied only after its written
+      authorization. Investigator/sponsor will be responsible to submit to the Ethics Committee any
+      amendments to the protocol.
+
+      Consent and confidentiality Before inclusion in the study, conscious patients must be
+      informed of the purpose and of clinical procedures required by the protocol. The
+      investigators will explain the purpose, risks and benefits associated with study
+      participation. In addition, patients will be informed of his right to withdraw from the study
+      at any time without explanation and without losing the right to future medical care. If the
+      patient will be unable to comprehend or to give his consent (because of compromised
+      neurological status), the following consent options are acceptable: (i) A priori consent by a
+      legal representative (ii) delayed consent from a legal representative; (iii) Delayed consent
+      from the patient; (iv) waiver of consent; (v) consent provided by an ethics committee or
+      other legal authority. Which options are available at individual participating sites will be
+      determined by the relevant ethics committee and subject to applicable laws. The approach to
+      patients unable to provide an informed consent before enrolment will be to consider whether
+      participation is in the best interests of each individual patient and as soon as it is
+      practical and reasonable to do so, to seek the advice of persons interested in the patient's
+      welfare (e.g. family member) to establish that study participation is consistent with the
+      patient's wishes. All participants who recover sufficiently will be given the opportunity to
+      provide informed consent for ongoing study participation and for the use of data collected
+      for the study. Every patient is free to leave the study protocol at any state of the study
+      and can request to retire his consent and, consequently, to ask the elimination of all his
+      data from the database. In order to comply with legal requirements regarding privacy and the
+      processing of sensitive personal data, Legislative Decree 30/06/2003 n. 196 on the protection
+      of personal data and Regulation (EU) 2016/679 of the European Parliament and of the Council
+      of 27 April 2016 on the protection of natural persons with regard to the processing of
+      personal data and on the free movement of such data, and repealing Directive 95/46/EC
+      (General Data Protection Regulation), each patient will be given an information sheet on the
+      study they participate in and will be asked for sign the consent to the processing of
+      personal data. Data about personal and private information, included sensible data, will be
+      treated following current legislation on data protection; patients will be identified with a
+      coding system and data registered in anonymous form. Collected data will be processed by the
+      Investigator for the exclusive purposes of fulfil to the present study requirements, and in
+      anonymous form, aggregate in the study database with data obtained from the other patients
+      participating, solely on the basis of finalizing the study and achievement objectives.
+      Obtained data will not be disclosed except in strictly anonymous and aggregated form.
+
+      Direct access to the original medical records may be requested only by commissioning DMC of
+      the study and will be accessible by the PI, its delegate to perform monitoring on the conduct
+      of the trial, the EC or by the regulatory Authorities, such as personnel of the Italian
+      Ministry of Health and the Italian Medicines Agency (AIFA) to verify that the information
+      entered in the documents of the study are correct and methods that guarantee the privacy and
+      confidentiality of the data are respected. Such verification activities will be always
+      carried out under the supervision of the SC, executed professionally and to guarantee the
+      privacy of the subject.
+
+      Dissemination policy The Circ. Min. Health N° 6 of 09/02/2002 obliges each researcher who
+      gets any results of interest to public health, to publish the results within 12 months from
+      the end of the study. All the patients will freely agree or disagree to participate to the
+      study in the belief that the results will be useful to improve knowledge about their
+      pathologies, for health benefit from themselves or other patients. To respect their will and
+      in the maximum interest of honest clinical research, the investigators agree on the need to
+      ensure the wide publication and diffusion of their results in a consistent and responsible
+      way under their responsibility. The study coordinator is the official data owner. The
+      steering committee has the right to present methods and results of the study at public
+      symposia and conferences. The principal publications from the trial will be in the name of
+      Investigators with full credit assigned to all collaborating investigators and institutions.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">July 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study is designed as a multicenter, national, interventional, randomized, investigator sponsored, three arms study. Patients, who satisfy all inclusion criteria and no exclusion criteria, will be randomly assigned to one of the three treatment groups in a ratio 1:1:1. A block randomisation will be used with variable block sizes (block size 4-6-8), stratified by centre. Central randomisation will be performed using a secure, web-based, randomisation system. The allocation sequence will be generated by the study statistician using computer generated random numbers.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>The study in conceived as open-label: the patients and all the health-care personnel will be aware of the assigned group.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause mortality at day 28</measure>
+    <time_frame>Day 28 from randomization</time_frame>
+    <description>All-cause mortality at day 28, defined as the comparison of proportions of patients death for any cause at day 28 from randomization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality at ICU discharge</measure>
+    <time_frame>from randomization to ICU discharge, censored at day 30</time_frame>
+    <description>All-cause mortality at ICU discharge, defined as the comparison of proportions of patients death for any cause at ICU discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality at hospital discharge</measure>
+    <time_frame>from randomization to ICU discharge, censored at day 90</time_frame>
+    <description>All-cause mortality at Hospital discharge, defined as the comparison of proportions of patients death for any cause at hospital discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need of rescue administration of high-dose steroids or immune-modulatory drugs</measure>
+    <time_frame>from randomization to ICU discharge, censored at day 28</time_frame>
+    <description>Occurrence of rescue administration of high-dose steroids or immune-modulatory drugs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New organ dysfunction during ICU stay</measure>
+    <time_frame>From randomization to ICU discharge, censored at day 28</time_frame>
+    <description>Occurrence of new organ dysfunction during ICU stay. Organ dysfunction is defined as a Sequential Organ Failure Assessment (SOFA) score ≥3 for the corresponding organ occurring after randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Grade of organ dysfunction during ICU stay</measure>
+    <time_frame>From randomization to ICU discharge, censored at day 28</time_frame>
+    <description>Grade of organ dysfunction during ICU stay, grade of dysfunction is measured with Sequential Organ Failure Assessment (SOFA) score daily from randomization to day 28 or ICU discharge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU free days at day 28</measure>
+    <time_frame>From randomization to day 28</time_frame>
+    <description>Total number of days between ICU discharge and day 28. If death occurs during the ICU stay before day 28 the ICU free days calculation will be 0. The ICU readmission before day 28 after randomization will be considered.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of new infections</measure>
+    <time_frame>from randomization to day 28</time_frame>
+    <description>Occurrence of new infections including bacterial infections, fungal infections by Candida, Aspergillus, and viral reactivations including Adenovirus, Herpes Virus e Cytomegalovirus</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilation free days at day 28</measure>
+    <time_frame>From randomization to day 28, censored at hospital discharge</time_frame>
+    <description>Total number of days that patient is alive and free of ventilation between randomisation and day 28. Ventilation is considered as positive pressure ventilation, either invasive or non-invasive. Periods of assisted breathing lasting less than 24 hours for surgical procedures will not count against the ventilation free days calculation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vasopressors free-days at day 28</measure>
+    <time_frame>From randomization to day 28, censored at hospital discharge</time_frame>
+    <description>Total number of days that patient is alive and free of vasopressors between randomisation and day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Switch from non-invasive to invasive mechanical ventilation</measure>
+    <time_frame>from randomization to ICU discharge, censored at day 28</time_frame>
+    <description>Occurrence of switch from non-invasive to invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delay from start of non-invasive ventilation to switch to invasive ventilation</measure>
+    <time_frame>from randomization to ICU discharge, censored at day 28</time_frame>
+    <description>Total number of hours from start of non-invasive to invasive ventilation to switch to invasive ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of protocol related adverse events</measure>
+    <time_frame>From randomization to day 28</time_frame>
+    <description>Adverse events occurred from randomization to day 28. Events that are part of the natural history of the primary disease process or expected complications of critical illness will not be reported as adverse events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of venous thromboembolism, stroke or myocardial infarction</measure>
+    <time_frame>from randomization to ICU discharge, censored at day 28</time_frame>
+    <description>Occurrence of objectively confirmed venous thromboembolism, stroke or myocardial infarction</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of major bleeding (safety end point)</measure>
+    <time_frame>from randomization to ICU discharge, censored at day 28</time_frame>
+    <description>Occurrence of major bleeding defined as transfusion of 2 or more units of packed red blood cells in a day, bleeding that occurs in at least one of the following critical sites [intracranial, intraspinal, intraocular (within the corpus of the eye; thus, a conjunctival bleed is not an intraocular bleed), pericardial, intra-articular, intramuscular with compartment syndrome, or retroperitoneal], bleeding that necessitates surgical intervention and bleeding that is fatal (defined as a bleeding event that was the primary cause of death or contributed directly to death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of clinically relevant non-major bleeding (safety end point)</measure>
+    <time_frame>from randomization to ICU discharge, censored at day 28</time_frame>
+    <description>Occurrence of clinically relevant non-major bleeding defined ad acute clinically overt bleeding that does not meet the criteria for major and consists of any bleeding compromising hemodynamic; spontaneous hematoma larger than 25 cm2, or 100 cm2, intramuscular hematoma documented by ultrasonography, haematuria that was macroscopic and was spontaneous or lasted for more than 24 hours after invasive procedures; haemoptysis, hematemesis or spontaneous rectal bleeding requiring endoscopy or other medical intervention or any other bleeding requiring temporary cessation of a study drug.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Mean arterial pressure</measure>
+    <time_frame>Daily from inclusion until ICU discharge, censored day 28</time_frame>
+    <description>Mean arterial pressure will be measured in millimeters of mercury</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>hearth rate</measure>
+    <time_frame>Daily from inclusion until ICU discharge, censored day 28</time_frame>
+    <description>hearth rate will be measured in beats per minute</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>respiratory rate</measure>
+    <time_frame>Daily from inclusion until ICU discharge, censored day 28</time_frame>
+    <description>respiratory rate will be measured in breaths per minute</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>diuresis</measure>
+    <time_frame>Daily from inclusion until ICU discharge, censored day 28</time_frame>
+    <description>diuresis will be measured daily in milliliters of urine output in the previous 24 hours</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>systemic body temperature</measure>
+    <time_frame>Daily from inclusion until ICU discharge, censored day 28</time_frame>
+    <description>systemic body temperature will be measured in celsius degrees</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>fluid balance</measure>
+    <time_frame>Daily from inclusion until ICU discharge, censored day 28</time_frame>
+    <description>fluid balance will be measured in milliliters of fluids input and output in the previous 24 hours</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Haemoglobin concentration</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>Haemoglobin will be measured in mg/dl</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>platelets count</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>platelets count will be measured in U 10^3/mm^3</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>white blood cells count</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>white blood cells count will be measured in U per 10^9/L</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>troponin</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>troponin will be measured in µg/L</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>coagulative function</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>coagulative function will be measured with parameters INR, PT, aPTT</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>D-dimer</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>D-dimer will be measured in µg/ml</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>anti-thrombin</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>anti-thrombin will be measured as a percentage</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Liver function</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>liver function will be assessed through measurement of AST, ALT in U/L</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Bilirubin</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>Bilirubin will be measured in mg/dL</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Creatinine</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>Creatinine will be measured in mg/dL</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Blood cells count</measure>
+    <time_frame>daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>Blood cells count will be measured in Units per x 10^9/L of blood</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>C-reactive protein (CRP)</measure>
+    <time_frame>daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>C-reactive protein (CRP) will be measured in mg/dl</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>procalcitonin(PCT)</measure>
+    <time_frame>daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>procalcitonin(PCT) wiull be measured in ng/ml</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>interleukin 6 (IL-6)</measure>
+    <time_frame>daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>interleukin 6 (IL-6) will be measured in pg/ml</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Ventilation mode</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>Ventilation mode will be cathegorized in spontaneous breathing, invasive or non invasive ventilation</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>inspired oxygen fraction</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>inspired oxygen fraction will be measured in percentage of oxygen in inspired air</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Gas exchanges</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>Gas exchanges will be assessed by measurement of PaO2, PaCO2 in mmHg by arterial blood gas analysis</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>lactates</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>lactates will be measured in mMol/L</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>pH</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>pH will be measured in pH scale</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>oxygen saturation in blood</measure>
+    <time_frame>Daily from inclusion to ICU discharge (censored at day 28)</time_frame>
+    <description>oxygen saturation in blood will be measured in arterial and venous samples in percentage values</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>New infections</measure>
+    <time_frame>From randomization to day 28</time_frame>
+    <description>New blood, respiratory and urinary-tract infections will be recorded</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Viral reactivation</measure>
+    <time_frame>From randomization to day 28</time_frame>
+    <description>Viral reactivation measured by CMV DNA titres will be recorded.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Need of new renal replacement therapy</measure>
+    <time_frame>from randomization to day 28</time_frame>
+    <description>Need of new renal replacement therapy (intermittent haemodialysis or continuous veno-venous hemofiltration) will be recorded.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adjunctive treatments</measure>
+    <time_frame>from randomization to ICU discharge (censored at day 28);</time_frame>
+    <description>Adjunctive treatment such as pronation cycles, Nitric Oxide or ECMO will be recorded</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">210</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Pneumonia, Viral</condition>
+  <condition>Coagulopathy</condition>
+  <arm_group>
+    <arm_group_label>LMWH group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The treatments will be initiated as soon as possible after randomization (maximum allowed starting time 12h after randomization). Patients in this group will be administered enoxaparin at standard prophylactic dose (i.e., 4000 UI once day, increased to 6000 UI once day for patients weighting more than 90 kg). The treatment with enoxaparin will be initiated as soon as possible after randomization (maximum allowed starting time 12h after randomization). The treatment will be administered subcutaneously, daily up to ICU discharge. After ICU discharge it may be continued or interrupted in the destination ward up to clinical judgement of the attending physician.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LMWH + steroids group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The treatments will be initiated as soon as possible after randomization (maximum allowed starting time 12h after randomization).
+Patients in this group will receive enoxaparin and methylprednisolone. Enoxaparin will be administered at standard prophylactic dose (i.e., 4000 UI once day, increased to 6000 UI once day for patients weighting more than 90 kg). The treatment will be administered subcutaneously daily up to ICU discharge. After ICU discharge it may be continued or interrupted in the destination ward up to clinical judgement of the attending physician. Methylprednisolone will be administered intravenously with an initial bolus of 0,5 mg/kg followed by administration of 0,5 mg/kg 4 times daily for 7 days, 0,5 mg/kg 3 times daily from day 8 to day 10, 0,5 mg/kg 2 times daily at days 11 and 12 and 0,5 mg/kg once daily at days 13 and 14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>UFH + steroid group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The treatments will be initiated as soon as possible after randomization (maximum 12h). Patients will receive unfractionated heparin and methylprednisolone. Unfractionated heparin will be administered intravenously at therapeutic doses. The infusion will be started at an infusion rate of 18 IU/kg/hour and then modified to attain APTT Ratio in the range 1.5-2.0. aPTT will be periodically checked at intervals no longer than 12 hours. The treatment with unfractionated heparin will be administered up to ICU discharge. After ICU discharge anticoagulant therapy may be interrupted or switched to prophylaxis with LMWH in the destination ward up to clinical judgement of the attending physician. Methylprednisolone will be administered intravenously with an initial bolus of 0,5 mg/kg followed by administration of 0,5 mg/kg 4 times daily for 7 days, 0,5 mg/kg 3 times daily from day 8 to day 10, 0,5 mg/kg 2 times daily at days 11 and 12 and 0,5 mg/kg once daily at days 13 and 14.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Enoxaparin</intervention_name>
+    <description>Enoxaparin will be administered subcutaneously at standard prophylactic dose (i.e., 4000 UI once day, increased to 6000 UI once day for patients weighting more than 90 kg). The treatment will be administered daily up to ICU discharge. After ICU discharge it may be continued or interrupted in the destination ward up to clinical judgement of the attending physician.</description>
+    <arm_group_label>LMWH + steroids group</arm_group_label>
+    <arm_group_label>LMWH group</arm_group_label>
+    <other_name>Inhixa</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methylprednisolone</intervention_name>
+    <description>Methylprednisolone will be administered intravenously with an initial bolus of 0,5 mg/kg followed by administration of 0,5 mg/kg 4 times daily for 7 days, 0,5 mg/kg 3 times daily from day 8 to day 10, 0,5 mg/kg 2 times daily at days 11 and 12 and 0,5 mg/kg once daily at days 13 and 14.</description>
+    <arm_group_label>LMWH + steroids group</arm_group_label>
+    <arm_group_label>UFH + steroid group</arm_group_label>
+    <other_name>solu-medrol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>unfractionated heparin</intervention_name>
+    <description>Patients in this group will receive unfractionated heparin and methylprednisolone. Unfractionated heparin will be administered intravenously at therapeutic doses. The infusion will be started at an infusion rate of 18 IU/kg/hour and then modified to attain APTT Ratio in the range 1.5-2.0. aPTT will be periodically checked at intervals no longer than 12 hours. The treatment with unfractionated heparin will be administered up to ICU discharge. After ICU discharge anticoagulant therapy may be interrupted or switched to prophylaxis with LMWH in the destination ward up to clinical judgement of the attending physician.</description>
+    <arm_group_label>UFH + steroid group</arm_group_label>
+    <other_name>Veracer</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Positive SARS-CoV-2 diagnostic (on pharyngeal swab of deep airways material)
+
+          2. Positive pressure ventilation (either non-invasive or invasive) from &gt; 24 hours
+
+          3. Invasive mechanical ventilation from &lt; 96 hours
+
+          4. P/F ratio &lt; 150
+
+          5. D-dimer level &gt; 6 x upper limit of local reference range
+
+          6. PCR &gt; 6 fold upper limit of local reference range
+
+        Exclusion Criteria:
+
+          1. Age &lt; 18 years
+
+          2. On-going treatment with anticoagulant drugs
+
+          3. Platelet count &lt;100.000/mmc
+
+          4. History of heparin-induced thrombocytopenia
+
+          5. Allergy to sodium enoxaparine or other LMWH, unfractionated heparin or
+             metylprednisolone;
+
+          6. Active bleeding or on-going clinical condition deemed at high risk of bleeding
+             contraindicating anticoagulant treatment
+
+          7. Recent (in the last 1 month prior to randomization) brain, spinal or ophthalmic
+             surgery
+
+          8. Chronic assumption or oral corticosteroids
+
+          9. Pregnancy or breastfeeding or positive pregnancy test. In childbearing age women,
+             before inclusion, a pregnancy test will be performed if not available;
+
+         10. Clinical decision to withhold life-sustaining treatment or &quot;too sick to benefit&quot;;
+
+         11. Presence of other severe diseases impairing life expectancy (e.g. patients are not
+             expected to survive 28 days given their pre-existing medical condition);
+
+         12. Lack or withdrawal of informed consent.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Massimo Girardis, PI</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Modena and Reggio Emilia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Massimo Girardis, PD</last_name>
+    <phone>0594225878</phone>
+    <phone_ext>0039</phone_ext>
+    <email>massimo.girardis@unimore.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Stefano Busani</last_name>
+    <phone>0594224897</phone>
+    <phone_ext>0039</phone_ext>
+    <email>stefanobusani7@gmail.com</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 27, 2020</study_first_posted>
+  <last_update_submitted>August 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Modena and Reggio Emilia</investigator_affiliation>
+    <investigator_full_name>Massimo Girardis</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Steroids</keyword>
+  <keyword>heparine</keyword>
+  <keyword>critically-ill</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>COVID19</keyword>
+  <keyword>sars-cOv-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Critical Illness</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Methylprednisolone Hemisuccinate</mesh_term>
+    <mesh_term>Heparin</mesh_term>
+    <mesh_term>Enoxaparin</mesh_term>
+    <mesh_term>Calcium heparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no plan to share individual participant data</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

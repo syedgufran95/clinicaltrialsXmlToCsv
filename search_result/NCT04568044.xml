@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2008">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04568044</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20SM6089</org_study_id>
+    <nct_id>NCT04568044</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Humoral Immunity Following COVID-19 in Pregnancy</brief_title>
+  <acronym>ImmunoCOVID</acronym>
+  <official_title>Evaluation of Cell-mediated and Humoral Immunity Following COVID-19 in Pregnancy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Imperial College London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The proposed study is designed to investigate if and how pregnant women infected with
+      Coronavirus Disease-19 (COVID-19) infection go on to develop long-term immunity. In December
+      2019, a group of people in Wuhan, China presented with symptoms of a pneumonia of an unknown
+      cause that led to the discovery of a new coronavirus called COVID-19. COVID-19 has caused a
+      global pandemic with 7,140,000 confirmed cases and 418,000 deaths as of 13th June 2020. In
+      the United Kingdom (UK), there have been 294,000 cases and 41,662 deaths as of 13th June
+      2020. In humans, this infection primarily involves the upper part of the lungs, but it can
+      also affect other organs. It causes mild symptoms in the majority of people affected but some
+      people can have severe infections, with some even requiring critical care in hospital. During
+      Severe acute respiratory syndrome (SARS), a previous coronavirus epidemic, pregnant women
+      were disproportionately affected with severe illness. Understanding how the immune system
+      responds long-term to this infection may hold the key to developing better vaccines and
+      efficient treatment plans. Specialised immunity develops when individuals are infected by
+      this and other viruses. The investigators of this study propose that, in pregnancy, this
+      specialised immunity may not behave effectively. This may affect their ability to develop
+      long lasting immunity and make them more vulnerable to re-infection. In this study, the
+      investigators aim to recruit patients across 6 groups including COVID-19 newly infected
+      pregnant women, and people with differing illness severity, mild to moderate,
+      severe/critical, no infection (controls), as well as pregnant women with influenza and those
+      receiving influenza vaccine. The study team will compare COVID-19 in pregnancy with
+      non-pregnant infected and with influenza infected and vaccinated pregnant women. The study
+      team will consent patients in all of these groups to provide a series of blood samples at
+      different time points in a 12-month period.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background
+
+      Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), commonly known as Coronavirus
+      Disease-19 (COVID-19), is a global pandemic with 7,410,000 confirmed cases and 418,000 deaths
+      as of 13th June 2020. It is believed that SARS-CoV-2 shares 79.6% of its sequence identity
+      with SARS-CoV and resembles some clinical outcomes like viral pneumonia. However, it causes
+      milder symptoms in majority of people infected, and can be an asymptomatic infection in some
+      individuals. Just in the 21st century, we have seen three major coronavirus (CoV) outbreaks:
+      SARS-CoV, Middle East respiratory syndrome (MERS)-CoV, and the novel SARS-CoV-2, which have
+      resulted in many deaths and have posed a real threat to public health. In fact, during SARS
+      more pregnant women required intensive care and ventilation, and the number of deaths was
+      higher when compared to non-pregnant adults. This is partly because in pregnancy, the risk of
+      viral pneumonia is greater compared to the general population.
+
+      Understanding T and B cell mediated immunity in COVID-19 participants may hold the key to
+      developing better vaccines and efficient treatment plans. To date there is only one study
+      that has investigated circulatory T follicular helper cells (cTFH), which like there germinal
+      centre counterparts are a specialised effector cluster of differentiation 4 (CD4) T cell that
+      induces B cell activation, and differentiation into class-switched and antibody secreting
+      long-lasting plasmablasts. This study observed an increase in cTFH during pregnancy. However,
+      studies in older patients, which comprise another high risk group, have shown mixed results
+      with cTFH showing lower levels of activation. This will impact on long term antibody
+      production following infection or vaccination. We propose that circulatory cTFH, and B cells
+      may not be as activated in both pregnant women and patients with severe to critical patients
+      when compared with mild to moderate patients resulting in less or poorly functioning
+      anti-SARS-CoV-2 antibodies. Therefore, we expect in infected pregnant individuals the
+      development of long-term immunity may be worse when compared to non-pregnant people with
+      similar disease severity, making them more susceptible to re-infection. Compared to
+      influenza, which is another respiratory illness with significant morbidity in pregnancy and
+      has a current vaccination program, we expect that the same measures of immunity will be less
+      pronounced post COVID-19 infection. Furthermore, the development of long-term immunity will
+      be less effective in patients with severe illness, who for the most part, comprise a
+      particularly high-risk group including the elderly and patients with multiple comorbidities.
+      It is vital that we expand our knowledge of long-lasting immunity in individuals who have
+      recovered from COVID-19 to see how long these individuals are protected against re-infection
+      and whether they develop long lasting immunity. Moreover, there is no current research
+      establishing the parameters of seroprotective immunity. Previous research has suggested that
+      SARS-CoV specific Immunoglobin G (IgG) declines significantly within 2 years with some
+      reports showing a complete loss within 6 years in most SARS-CoV recovered patients. This may
+      equate to a loss of long-term protection. The investigators of this study propose measuring
+      SARS-CoV-2 specific IgG levels by doing memory B cell (Enzyme-Linked ImmunoSpot) ELISpots and
+      comparing the data with cTFH and B cell flow cytometry panels. The research team will be able
+      to profile the generation and persistence of protective antibodies produced by infected
+      individuals who go on to recover. The findings from this study will generate hypotheses to be
+      tested in larger studies of COVID-19 recovered pregnant patients, and also assist researchers
+      working trying to understand the effectiveness of the vaccines in pregnancy once these become
+      commercially available.
+
+      Research Question
+
+      In pregnant individuals who have recovered from COVID-19:
+
+      A. How long will their SARS-CoV-2 specific Immunoglobulin G (IgG) levels remain in peripheral
+      blood, what is the rate of decline and how does this compare to non-pregnant individuals?
+
+      B. How did their T cell mediated immune function differ from non-pregnant patients during the
+      infection?
+
+      C. How do their SARS-CoV-2 specific memory T cell differ when compared to severe to
+      non-pregnant patients' post-recovery?
+
+      D. How does antibody production, and B and T cell function post COVID-19 infection in
+      pregnancy compare with influenza infection and vaccination?
+
+      Hypothesis
+
+      The investigators hypothesise that pregnant patients with COVID-19 will develop a less robust
+      and measurable B-cell response when compared to influenza infected/vaccinated women and
+      non-pregnant individuals, and that their seroprotective antibody responses will decline by 12
+      months post infection.
+
+      Study Aims
+
+      A. Establish robust assays to measure SARS-CoV-2-specific IgG from individuals who have
+      recovered from COVID-19 infection and track these levels over a 12-month period to measure
+      any decline. In pregnancy, compare this to influenza antibodies produced after infection and
+      vaccination.
+
+      B. Measure frequency of activated cTFH, and antigen-secreting cells (ASCs) at days 7-14 of
+      symptom onset in pregnant patients with COVID-19 and compare with non-pregnant groups, and
+      pregnant influenza infected and influenza vaccinated. In addition, compare between
+      non-pregnant groups with mild to moderate symptoms when compared to severe to critical
+      patients.
+
+      C. Measure frequency of activated memory B cells at day 28 in pregnant patients with COVID-19
+      and compare with non-pregnant groups, and pregnant influenza infected and influenza
+      vaccinated. In addition, compare between non-pregnant groups with mild to moderate symptoms
+      when compared to severe to critical patients.
+
+      D. Measure frequency of CD4 and cluster of differentiation 8 (CD8) T cells in pregnant
+      patients with COVID-19 and compare with non-pregnant groups, and pregnant influenza infected
+      and influenza vaccinated. In addition, compare between non-pregnant groups with mild to
+      moderate symptoms when compared to severe to critical patients.
+
+      E. Quantify antigen-specific memory T cells and measure frequency of activated T cells in all
+      patient groups.
+
+      F. Quantification of SARS-CoV-2 viral load from infected participants.
+
+      Study Design
+
+      This study will be a prospective observational project to investigate the potential decline
+      of protective immunity in pregnancy after participants have recovered from SARS-CoV-2. The
+      research team will compare these findings with non-pregnant patients who have had COVID-19
+      and developed mild to moderate symptoms or severe to critical participants. Patients who go
+      on to join a SARS-CoV-2 vaccine trial will not be excluded but the vaccination date will be
+      recorded, and their results interpreted accordingly. In order to compare COVID-19 infection
+      with another respiratory infection and assess long term protective immunity with an
+      intervention already in place in this patient group designed to provide seroprotective
+      antibodies, the investigators will investigate influenza and influenza vaccine. Therefore,
+      data from pregnant patients will also be compared with influenza infected pregnant women and
+      those who have received the influenza vaccination.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 16, 2020</start_date>
+  <completion_date type="Anticipated">July 3, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phenotyping antibody secreting cells (ASCs) and memory B cells during COVID-19 infection, and post recovery.</measure>
+    <time_frame>Groups A, B, D: Between 4 months with a minimum of 2 time points (i.e. 8 and 12 months), and 12 months with a maximum 5 time points (i.e. 7-14 days, then 1, 4, 8, 12 months) post infection. Group C: 1 day. 1 time point.</time_frame>
+    <description>Devise a flow cytometry panel to phenotype B cells.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quantification of SARS-CoV-2 specific IgG production by memory B cells to measure long-lasting immune protection against re-infection.</measure>
+    <time_frame>Groups A, B, D: Between 4 months with a minimum of 2 time points (i.e. 8 and 12 months), and 12 months with a maximum 5 time points (i.e. 7-14 days, then 1, 4, 8, 12 months) post infection. Group C: 1 day. 1 time point.</time_frame>
+    <description>B cell ELISpot assay and quantify Immunoglobulin A (IgA) and IgG using Enzyme-linked immunosorbent assay (ELISA) from plasma and/or serum from COVID-19 recovered individuals.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quantification of SARS-COV-2 viral load using PCR.</measure>
+    <time_frame>Groups A, B, D: at 7-14 days and during recovery phase. Group C: 1 day. 1 time point.</time_frame>
+    <description>Use real-time PCR (RT-PCR) and nested PCR to detect SARS-CoV-2 viral load</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immuno-phenotype circulatory T follicular helper cells (cTFH) cells post SARS-CoV-2 infection.</measure>
+    <time_frame>Groups A, B, D: at 7-14 days post infection or vaccination. Group C: 1 day. 1 time point.</time_frame>
+    <description>Devise a flow cytometry panel to phenotype cTFH cells.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Investigating T cell mediated immune function post COVID-19</measure>
+    <time_frame>Groups A, B, D: Between 4 months with a minimum of 2 time points (i.e. 8 and 12 months), and 12 months with a maximum 5 time points (i.e. 7-14 days, then 1, 4, 8, 12 months) post infection/vaccination. Group C: 1 day. 1 time point.</time_frame>
+    <description>Use a combination of flow cytometry, enzyme-linked immunospot (ELISpot) assays, and DNA/RNA analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In pregnancy, comparing antibody production, and immune phenotype and function (as outlined above) between COVID-19 infection, and influenza infected or vaccinated.</measure>
+    <time_frame>Groups A, B, D, E and F: Between 4 months with a minimum of 2 time points (i.e. 8 and 12 months), and 12 months with a maximum 5 time points (i.e. 7-14 days, then 1, 4, 8, 12 months) post infection/vaccination. Group C: 1 day. 1 time point.</time_frame>
+    <description>Parameters including antibody titres, cTFH and memory B cell and ASC proportions, and T cell function will be compared between COVID-19 infected, and influenza infected and vaccinated pregnant women.</description>
+  </secondary_outcome>
+  <number_of_groups>6</number_of_groups>
+  <enrollment type="Anticipated">96</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Pregnancy Related</condition>
+  <condition>Influenza, Human</condition>
+  <arm_group>
+    <arm_group_label>Group A: Mild to moderate COVID-19 (non-pregnant)</arm_group_label>
+    <description>Current male or female COVID-19 infected (age 18-60 years old) with mild to moderate illness.
+Blood samples will be taken between 4 months with a minimum of 2 time points (i.e. 8 and 12 months), and 12 months with a maximum 5 time points (i.e. 7-14 days, then 1, 4, 8, 12 months).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B: Severe to critical COVID-19 (non-pregnant)</arm_group_label>
+    <description>Current male or female COVID-19 infected (age 18-60 years old) with severe to critical illness.
+Blood samples will be taken between 4 months with a minimum of 2 time points (i.e. 8 and 12 months), and 12 months with a maximum 5 time points (i.e. 7-14 days, then 1, 4, 8, 12 months).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group C: Controls (non-pregnant)</arm_group_label>
+    <description>Male of female uninfected (age 18-60 years old) who have no history of COVID-19 symptoms or illness.
+A blood sample will be taken on 1 day and at 1 time point.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group D: Pregnant or postnatal with COVID-19</arm_group_label>
+    <description>Current pregnant or postnatal COVID-19 infected (age 18-50 years old) Pregnant or postnatal who were diagnosed with COVID-19 less than 8 months previously (age 18-50 years old). Singleton pregnancies only.
+Blood samples will be taken between 4 months with a minimum of 2 time points (i.e. 8 and 12 months), and 12 months with a maximum 5 time points (i.e. 7-14 days, then 1, 4, 8, 12 months).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group E: Pregnant or postnatal with influenza</arm_group_label>
+    <description>Current pregnant or postnatal influenza infected (age 18-50 years old). Singleton pregnancies only.
+Blood samples over 12 months and 5 time points (i.e. 7-14 days, then 1, 4, 8, 12 months).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group F: Pregnant and have received the influenza vaccine</arm_group_label>
+    <description>Current pregnant and have received the influenza vaccine (age 18-50 years old). Singleton pregnancies only.
+Blood samples over 12 months and 5 time points (i.e. 7-14 days, then 1, 4, 8, 12 months).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Blood sample</intervention_name>
+    <description>Peripheral blood sample will be obtained.</description>
+    <arm_group_label>Group A: Mild to moderate COVID-19 (non-pregnant)</arm_group_label>
+    <arm_group_label>Group B: Severe to critical COVID-19 (non-pregnant)</arm_group_label>
+    <arm_group_label>Group C: Controls (non-pregnant)</arm_group_label>
+    <arm_group_label>Group D: Pregnant or postnatal with COVID-19</arm_group_label>
+    <arm_group_label>Group E: Pregnant or postnatal with influenza</arm_group_label>
+    <arm_group_label>Group F: Pregnant and have received the influenza vaccine</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Human blood components and/or immune cells will be stored for analysis as required during the
+      study period. DNA/RNA analysis will be undertaken to complement our understanding of the
+      assays of immune function used during laboratory experiments.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        16 patients per group will be required. In the COVID-19 infected, non-pregnant groups, the
+        study team will be recruiting both male and female participants who would have been healthy
+        prior to contracting SARS-CoV-2. Once all the samples have been collected, the
+        investigators may stratify them based on gender, BMI, and ethnicity.
+
+        Of note, in pregnant and postnatal women with COVID-19, the research team expect small
+        numbers of recruits and currently the overall number of COVID-19 patients in London is on
+        the decline. Therefore, the investigators will invite participants who were diagnosed up to
+        the preceding 8 months to participate and have blood samples taken from the nearest
+        time-point to the interval from their symptom onset and then continue with the sample
+        collection schedule.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Group A: Mild to moderate COVID-19 (non-pregnant)
+
+             • Current male or female COVID-19 infected (age 18-60 years old) with mild to moderate
+             illness
+
+          2. Group B: Severe to critical COVID-19 (non-pregnant)
+
+             • Current male or female COVID-19 infected (age 18-60 years old) with severe to
+             critical illness
+
+          3. Group C: Controls (non-pregnant)
+
+             • Male of female uninfected (age 18-60 years old) who have no history of COVID-19
+             symptoms or illness
+
+          4. Group D: Pregnant or postnatal with COVID-19
+
+               -  Current pregnant or postnatal COVID-19 infected (age 18-50 years old)
+
+               -  Pregnant or postnatal (within 6 weeks since birth) who were diagnosed with
+                  COVID-19 less than 4 months previously (age 18-50 years old)
+
+               -  Singleton pregnancy
+
+          5. Group E: Pregnant or postnatal with influenza
+
+               -  Current pregnant or postnatal influenza infected (age 18-50 years old)
+
+               -  Pregnant or postnatal (within 6 weeks since birth) who were diagnosed with
+                  influenza less than 4 months previously (age 18-50 years old)
+
+               -  Singleton pregnancy
+
+          6. Group F: Pregnant and have received the influenza vaccine
+
+               -  Current pregnant who has received the influenza vaccine (age 18-50 years old)
+
+               -  Singleton pregnancy
+
+        Exclusion Criteria:
+
+          1. Group A, Group B and Group C:
+
+               -  Patients unable to understand verbal or written information in English, regarding
+                  the study. Lack of capacity to consent at the point of recruitment
+
+               -  Pregnant
+
+               -  Participants who have previously been part of any SARS-CoV-2 vaccine trial
+
+               -  Evidence of HIV infection
+
+               -  Participants on medication that may significantly affect their immune system such
+                  as chemotherapy drugs
+
+               -  Vulnerable patients with known safe-guarding issues
+
+               -  Pregnant with more than one baby
+
+          2. Group D, E and F:
+
+               -  Patients unable to understand verbal or written information in English, regarding
+                  the study.
+
+               -  Lack of capacity to consent at the point of recruitment
+
+               -  Participants who have previously been part of any SARS-CoV-2 vaccine trial
+
+               -  Evidence of HIV infection
+
+               -  Participants on medication that may significantly affect their immune system such
+                  as chemotherapy drugs other than steroids, which have been given for fetal lung
+                  maturity
+
+               -  Vulnerable patients with known safe-guarding issues
+
+               -  Pregnant with more than one baby
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nishel M Shah, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Head of Research Governance and Integrity</last_name>
+    <phone>020 7594 1862</phone>
+    <email>r.nicholson@imperial.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chelsea and Westminster NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>SW10 9NH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Research Delivery Operations Manager</last_name>
+      <phone>020 3315 6825</phone>
+      <email>Damon.Foster@chelwest.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Nishel M Shah, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Imperial College Healthcare NHS Trust</name>
+      <address>
+        <city>London</city>
+        <zip>W2 1NY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Senior Research Facilitator</last_name>
+      <email>ribeya.mahmood1@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Charlotte-Eve Short, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>https://www.who.int/emergencies/diseases/novel-coronavirus-2019</url>
+    <description>Coronavirus disease (COVID-19) pandemic updates</description>
+  </link>
+  <reference>
+    <citation>Kong WH, Li Y, Peng MW, Kong DG, Yang XB, Wang L, Liu MQ. SARS-CoV-2 detection in patients with influenza-like illness. Nat Microbiol. 2020 May;5(5):675-678. doi: 10.1038/s41564-020-0713-1. Epub 2020 Apr 7.</citation>
+    <PMID>32265517</PMID>
+  </reference>
+  <reference>
+    <citation>Sahu KK, Mishra AK, Lal A. Coronavirus disease-2019: An update on third coronavirus outbreak of 21st century. QJM. 2020 May 1;113(5):384-386. doi: 10.1093/qjmed/hcaa081.</citation>
+    <PMID>32125418</PMID>
+  </reference>
+  <reference>
+    <citation>Wong SF, Chow KM, Leung TN, Ng WF, Ng TK, Shek CC, Ng PC, Lam PW, Ho LC, To WW, Lai ST, Yan WW, Tan PY. Pregnancy and perinatal outcomes of women with severe acute respiratory syndrome. Am J Obstet Gynecol. 2004 Jul;191(1):292-7.</citation>
+    <PMID>15295381</PMID>
+  </reference>
+  <reference>
+    <citation>Bentebibel SE, Khurana S, Schmitt N, Kurup P, Mueller C, Obermoser G, Palucka AK, Albrecht RA, Garcia-Sastre A, Golding H, Ueno H. ICOS(+)PD-1(+)CXCR3(+) T follicular helper cells contribute to the generation of high-avidity antibodies following influenza vaccination. Sci Rep. 2016 May 27;6:26494. doi: 10.1038/srep26494.</citation>
+    <PMID>27231124</PMID>
+  </reference>
+  <reference>
+    <citation>Matsui K, Adelsberger JW, Kemp TJ, Baseler MW, Ledgerwood JE, Pinto LA. Circulating CXCR5⁺CD4⁺ T Follicular-Like Helper Cell and Memory B Cell Responses to Human Papillomavirus Vaccines. PLoS One. 2015 Sep 2;10(9):e0137195. doi: 10.1371/journal.pone.0137195. eCollection 2015.</citation>
+    <PMID>26333070</PMID>
+  </reference>
+  <reference>
+    <citation>Brenna E, Davydov AN, Ladell K, McLaren JE, Bonaiuti P, Metsger M, Ramsden JD, Gilbert SC, Lambe T, Price DA, Campion SL, Chudakov DM, Borrow P, McMichael AJ. CD4(+) T Follicular Helper Cells in Human Tonsils and Blood Are Clonally Convergent but Divergent from Non-Tfh CD4(+) Cells. Cell Rep. 2020 Jan 7;30(1):137-152.e5. doi: 10.1016/j.celrep.2019.12.016.</citation>
+    <PMID>31914381</PMID>
+  </reference>
+  <reference>
+    <citation>Victora GD, Nussenzweig MC. Germinal centers. Annu Rev Immunol. 2012;30:429-57. doi: 10.1146/annurev-immunol-020711-075032. Epub 2012 Jan 3. Review.</citation>
+    <PMID>22224772</PMID>
+  </reference>
+  <reference>
+    <citation>Herati RS, Reuter MA, Dolfi DV, Mansfield KD, Aung H, Badwan OZ, Kurupati RK, Kannan S, Ertl H, Schmader KE, Betts MR, Canaday DH, Wherry EJ. Circulating CXCR5+PD-1+ response predicts influenza vaccine antibody responses in young adults but not elderly adults. J Immunol. 2014 Oct 1;193(7):3528-37. doi: 10.4049/jimmunol.1302503. Epub 2014 Aug 29.</citation>
+    <PMID>25172499</PMID>
+  </reference>
+  <reference>
+    <citation>Linterman MA. How T follicular helper cells and the germinal centre response change with age. Immunol Cell Biol. 2014 Jan;92(1):72-9. doi: 10.1038/icb.2013.77. Epub 2013 Nov 12. Review.</citation>
+    <PMID>24217812</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou M, Zou R, Gan H, Liang Z, Li F, Lin T, Luo Y, Cai X, He F, Shen E. The effect of aging on the frequency, phenotype and cytokine production of human blood CD4 + CXCR5 + T follicular helper cells: comparison of aged and young subjects. Immun Ageing. 2014 Aug 23;11:12. doi: 10.1186/1742-4933-11-12. eCollection 2014. Erratum in: Immun Ageing. 2015;12:13.</citation>
+    <PMID>25177353</PMID>
+  </reference>
+  <reference>
+    <citation>Tang F, Quan Y, Xin ZT, Wrammert J, Ma MJ, Lv H, Wang TB, Yang H, Richardus JH, Liu W, Cao WC. Lack of peripheral memory B cell responses in recovered patients with severe acute respiratory syndrome: a six-year follow-up study. J Immunol. 2011 Jun 15;186(12):7264-8. doi: 10.4049/jimmunol.0903490. Epub 2011 May 16.</citation>
+    <PMID>21576510</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pregnancy</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Immunity</keyword>
+  <keyword>Influenza</keyword>
+  <keyword>Vaccination</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

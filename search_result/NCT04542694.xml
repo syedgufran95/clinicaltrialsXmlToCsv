@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="300">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542694</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FAV052020</org_study_id>
+    <nct_id>NCT04542694</nct_id>
+  </id_info>
+  <brief_title>Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</brief_title>
+  <official_title>Open-label Randomized Multicenter Comparative Study on the Efficacy and Safety of Areplivir Film-coated Tablets (PROMOMED RUS LLC, Russia) in Patients Hospitalized With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Promomed, LLC</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Promomed, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is open-labe randomized multicenter comparative Phase III study conducted in 5 medical
+      facilities. The objective of the study is to assess the efficacy and safety of Favipiravir
+      compared with the Standard of care (SOC) in hospitalized patients with moderate COVID-19
+      pneumonia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Upon signing the informed consent form and screening, 200 eligible patients with polymerase
+      chain reaction (PCR) confirmed COVID-19 are randomized at a 1:1 ratio to receive either
+      Favipiravir 1600 mg twice a day (BID) on Day 1 followed by 600 mg BID on Days 2-14 (1600/600
+      mg), or SOC. The course of treatment by Favipiravir is 14 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 21, 2020</start_date>
+  <completion_date type="Actual">August 20, 2020</completion_date>
+  <primary_completion_date type="Actual">August 10, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to clinical improvement</measure>
+    <time_frame>10 days</time_frame>
+    <description>Time (in days) to improvement in clinical status by WHO categorical ordinal scale of clinical status improvement.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of clinical status improvement</measure>
+    <time_frame>10 days</time_frame>
+    <description>Rate of clinical status improvement by categorical ordinal scale of clinical status improvement by 2 or more categories by Day 10</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of viral elimination by Day 10</measure>
+    <time_frame>10 days</time_frame>
+    <description>Percentage of patients with elimination* of COVID-19 according to PCR data by day 10</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time before the end of fever</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time (in days) before the end of fever (body temperature &lt; 37.2 ° C for 3 consecutive days without antipyretic medication).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the level of lung damage according to CT</measure>
+    <time_frame>Days 15, 21, 28</time_frame>
+    <description>Assessment of lung injury (% of patients) according to CT data comparing to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of transfer to the intensive care unit</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Percentage of patients transferred to intensive care unit (% of patients).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of the use of non-invasive lung ventilation</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Percentage of cases with non-invasive lung ventilation (% of patients).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of the use of mechanical ventilation</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Percentage of cases with mechanical lung ventilation (% of patients)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Incidence of fatal cases (% of patients)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">200</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Favipiravir (Areplivir)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favipiravir</intervention_name>
+    <description>200 mg coated tablets</description>
+    <arm_group_label>Favipiravir (Areplivir)</arm_group_label>
+    <other_name>AREPLIVIR</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Drug: Standard of Care Standard of Care will be prescribed in accordance with the recommended treatment regimens presented in the Russian guidelines for the prevention, diagnosis and treatment of COVID-19 according to the decision of the Investigator.
+Other Name: Hydroxychloroquine, chloroquine, lopinavir/ritonavir, etc.</description>
+    <arm_group_label>Standard of care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Signing and dating of the Informed Consent Form of the Patient Information Leaflet
+             (PIL) by patients.
+
+          2. Men and women aged 18 to 80 years inclusive at the time of signing the Informed
+             Consent Form in PIL.
+
+          3. No difficulty with oral medication (e.g. swallowing disorder).
+
+          4. Patient diagnosed with &quot;Coronavirus infection caused by SARS-CoV-2 (confirmed)1,
+             moderate severity form*&quot; established in accordance with the Interim Guidelines of the
+             Russian Ministry of Health for the prevention, diagnosis and treatment of a new
+             coronavirus infection (COVID-19), (revision 6 of 28.04.2020).
+
+             *Moderate severity form: fever above 38 °C, BR above 22/min, dyspnea during exercise,
+             pneumonia (confirmed by lung CT), SpO2 &lt; 95%, C reactive protein (CRP) serum level
+             above 10 mg/l.
+
+          5. Patient should be hospitalized no more than 48 hours before the start of the study
+             therapy.
+
+          6. Positive PCR result for presence of SARS-CoV-2 RNA at screening phase (results
+             obtained within 7 days prior to screening are appropriate).
+
+          7. Patient's consent to use reliable contraceptive methods throughout the study and
+             within 1 month for women and 3 months for men after its completion. Persons eligible
+             for participation in the study: - Women who have a negative pregnancy test and use the
+             following contraceptives: barrier method (condom or occlusive cap (diaphragm or
+             cervical/vaulted cap)) or double barrier method of contraception (condom or occlusive
+             cap (diaphragm or cervical/vaulted cap) plus spermicide
+             (foam/gel/film/cream/suppository)). Women incapable of childbearing may also
+             participate in the study (with past history of: hysterectomy, tubal ligation,
+             infertility, menopause more than 1 year) or men with preserved reproductive function
+             who use barrier contraceptives, as well as men with infertility or vasectomy in the
+             past medical history.
+
+        Exclusion Criteria:
+
+          1. Hypersensitivity to favipiravir and/or other components of the study drug.
+
+          2. Impossibility of CT procedure (for example, gypsum dressing or metal structures in the
+             field of imaging).
+
+          3. The need to use drugs from the list of prohibited therapy.
+
+          4. Need for treatment in the intensive care unit.
+
+          5. Impaired liver function (AST and/or ALT ≥ 2 UNL and/or total bilirubin ≥ 1.5 UNL) at
+             the time of screening.
+
+          6. Impaired kidney function (creatinine clearance according to Cockcroft-Gault formula
+             less than 45 ml/min) at the time of screening.
+
+          7. Positive testing for HIV, syphilis, hepatitis B and/or C.
+
+          8. Chronic heart failure FC III-IV according to New York Heart Association (NYHA)
+             functional classification.
+
+          9. Malabsorption syndrome or other clinically significant gastrointestinal disease that
+             may affect absorption of the study drug (non-correctable vomiting, diarrhea,
+             ulcerative colitis, and others).
+
+         10. Malignancies in the past medical history.
+
+         11. Alcohol, pharmacological and/or drug addiction in the past medical history and/or at
+             the time of screening.
+
+         12. Schizophrenia, schizoaffective disorder, bipolar disorder, or other history of mental
+             pathology or suspicion of their presence at the time of screening.
+
+         13. Severe, decompensated or unstable somatic diseases (any disease or condition that
+             threaten the patient's life or impair the patient's prognosis, and also make it
+             impossible for him/her to participate in the clinical study).
+
+         14. Any history data that the investigating physician believes could lead to complication
+             in the interpretation of the study results or create an additional risk to the patient
+             as a result of his/her participation in the study.
+
+         15. Patient's unwillingness or inability to comply with procedures of the Study Protocol
+             (in the opinion of physician investigator).
+
+         16. Pregnant or nursing women or women planning pregnancy.
+
+         17. Participation in another clinical study for 3 months prior to inclusion in the study.
+
+         18. Other conditions that, according to the physician investigator, prevent the patient
+             from being included in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dmitriy Pushkar</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Moscow State Clinical Hospital №50</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>State Clinical Hospital №50</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Clinic Hospital of Ryazan</name>
+      <address>
+        <city>Ryazan'</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>City Hospital N40 of Kurortny District</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical institute Ogarev Mordovia State university</name>
+      <address>
+        <city>Saransk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Smolensk clinical hospital №1</name>
+      <address>
+        <city>Smolensk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Favipiravir</keyword>
+  <keyword>Areplivir</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>2019-nCoV</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

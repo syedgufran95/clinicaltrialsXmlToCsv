@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="180">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04528368</url>
+  </required_header>
+  <id_info>
+    <org_study_id>34651120.8.0000.5249</org_study_id>
+    <nct_id>NCT04528368</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma for Treating Patients With COVID-19 Pneumonia Without Indication of Ventilatory Support</brief_title>
+  <official_title>Efficacy and Safety of Using Convalescent Plasma for Treating Patients With COVID-19 Pneumonia Without Indication of Ventilatory Support</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>D'Or Institute for Research and Education</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital do Coracao</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>D'Or Institute for Research and Education</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 pandemic has been spreading continuously, and in Brazil, until August 18, 2020,
+      there have been more than 3,359,000 cases with more than 108,536 deaths, with daily
+      increases. The present study proposes to evaluate the efficacy and safety of using
+      convalescent plasma for treating patients with COVID-19 pneumonia without indication of
+      ventilatory support.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">August 18, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Area under the curve of SARS-COV-2 viral load obtained from nasopharyngeal and /or oropharyngeal swabs.</measure>
+    <time_frame>0, 3, 6, 9, 12, 15, 18 and 21 days</time_frame>
+    <description>To evaluate the area under the curve of SARSCoV-2 viral load in nasopharyngeal and or oropharyngeal samples on days 0, 3, 6, 9, 12, 15, 18 and 15 after randomization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of clinical improvement using an Ordinal Severity Scale</measure>
+    <time_frame>0, 7, 10, 14, 21 and 28 days</time_frame>
+    <description>The seven-point scale is as follows:
+Death 7 points;
+Hospital admission for mechanical ventilation plus additional organ support (eg, pressors, RRT, ECMO) = 6 points;
+Hospital admission for mechanical ventilation = 5 points;
+Hospital admission for non-invasive ventilation or high-flow oxygen therapy = 4 points;
+Hospital admission for oxygen therapy (but not requiring high-flow or non-invasive ventilation) = 3 points;
+Hospital admission but not requiring oxygen therapy = 2 points;
+Discharged with limitations of activities = 1 point;
+Discharged with no limitations of activities = 0 point;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate oxygen saturation</measure>
+    <time_frame>0, 3, 6, 9, 12, 15, 18 and 21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate oxygen supplementation</measure>
+    <time_frame>0, 3, 6, 9, 12, 15, 18 and 21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess respiratory rate</measure>
+    <time_frame>0, 3, 6, 9, 12, 15, 18 and 21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the PaO2 / FiO2 ratio (for patients on mechanical mechanisms)</measure>
+    <time_frame>0, 3, 6, 9, 12, 15, 18 and 21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in intensive care</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the rate of orotracheal intubation</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the profile of cytokines/chemokines in both groups</measure>
+    <time_frame>0, 3, 6, 9, 12, 15, 18 and 21 days</time_frame>
+    <description>Quantification by ELISA the levels of 36 molecules determined simultaneously using the Human Cytokine Array Kit da R&amp;D Systems (C5a, IL-4, IL-32 alpha, CD40 ligand, IL-5, CXCL10 / IP-10, G-CSF, IL-6, CXCL11 / I-TAC, GM-CSF, IL-8, CCL2 / MCP-1, CXCL1 / GRO alpha, IL-10, MIF, CCL1 / I-309, IL-12 p70, CCL3 / MIP-1 alpha, ICAM-1, IL-13, CCL4 / MIP-1 beta, IFN -gamma, IL-16, CCL5 / RANTES, IL-1 alpha, IL-17, CXCL12 / SDF-1, IL-1 beta, IL-17E, Serpin E1 / PAI-1, IL-1ra, IL-23, TNF-alpha, IL-2, IL-27 and TREM-1)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of antibodies against SARS-CoV-2 in serum after convalescent plasma administration</measure>
+    <time_frame>0, 3, 6, 9, 12, 15, 18 and 21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death rate</measure>
+    <time_frame>7, 10, 14, 21 and 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of transfusion reactions to convalescent plasma infusion</measure>
+    <time_frame>21 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Convalescent Plasma + Standard treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the standard treatment and convalescent plasma</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard treatment</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants will receive the standard treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent plasma</intervention_name>
+    <description>The intervention group will receive 400 mL of convalescent plasma with a SARS-CoV-2 antispike antibody titer with a dilution ≥ 1: 320.</description>
+    <arm_group_label>Convalescent Plasma + Standard treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Recipient Inclusion Criteria:
+
+          -  Confirmed diagnosis of COVID-19 by RT-PCR;
+
+          -  Time between symptom onset and inclusion ≤ 7 days;
+
+          -  Chest tomography with &lt;50% involvement of the lung parenchyma;
+
+          -  No indication of ventilatory support at the time of randomization;
+
+          -  Sign the consent form.
+
+        Recipient Exclusion Criteria:
+
+          -  Contraindication to transfusion or history of previous reactions to blood products for
+             transfusion;
+
+          -  Pregnant women;
+
+          -  Limiting comorbidity for administering the therapies provided for in this protocol in
+             the opinion of the investigator.
+
+        Donor Inclusion Criteria for Plasmapheresis:
+
+          -  Convalescent plasma donation will be eligible for patients ≥ 18 years old who had
+             previously confirmed COVID-19 by RT-PCR, which met the criteria adopted by technical
+             notes n13 and 21/2020-CGSH/DAET/SAES/MS;
+
+          -  SARS-COV-2 negative RT-PCR;
+
+          -  Asymptomatic for at least 14 days;
+
+          -  SARS-CoV-2 anti-peak titre with dilution ≥ 1: 320;
+
+          -  Sign the consent form.
+
+        Donor Exclusion Criteria:
+
+          -  Female gender with previous pregnancy;
+
+          -  Absence of peripheral venous network compatible with the apheresis procedure;
+
+          -  Positive or indeterminate result in any of the infectious screening tests;
+
+          -  Presence of intellectual incapacity to understand the guidelines regarding the risks
+             and benefits of participating in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eduardo M Rego, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>D'Or Institute for Research and Education</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eduardo M Rego, MD, PhD</last_name>
+    <phone>55 16 981110090</phone>
+    <email>edumrego@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Abel Costa Neto, MD</last_name>
+    <phone>55 11 964999091</phone>
+    <email>abel.neto@oncologiador.com.br</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>D'Or Institute for Research and Education</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eduardo M Rego, MD, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Eduardo M Rego, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 27, 2020</study_first_posted>
+  <last_update_submitted>August 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Convalescent plasma</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

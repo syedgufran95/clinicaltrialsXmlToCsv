@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3409">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04495543</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BSL-01</org_study_id>
+    <nct_id>NCT04495543</nct_id>
+  </id_info>
+  <brief_title>Mitigating Suicide Risk With Single Session 'Brief Skills for Safer Living'</brief_title>
+  <official_title>Mitigating Suicide Risk During the COVID-19 Pandemic Via Telehealth Using an Intensive Single Session of &quot;Brief Skills for Safer Living&quot;</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. Michael's Hospital, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>St. Michael's Hospital, Toronto</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Mental health concerns have been on the rise since the onset of the COVID-19 pandemic. The
+      pandemic has worsened risk factors for suicide, including job loss, anxiety, depression, and
+      loneliness. Timely and easy access to mental health services is a dire need, and this study
+      will test the efficacy and feasibility of a brief clinical intervention, Brief Skills for
+      Safer Living (Brief-SfSL), at reducing suicide risk. The goal of this study is to investigate
+      whether Brief-SfSL, delivered online, is a suitable, acceptable and effective method for
+      reducing suicide risk and providing timely mental health services. The results from this
+      study will provide vital insight into effective interventions for suicide risk that are
+      accessible and can be widely distributed.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will test a brief online clinical intervention targeting suicide risk that will be
+      delivered widely, remotely, rapidly and with minimal load on the healthcare system in Canada.
+      The &quot;Skills for Safer Living&quot; (SfSL) intervention, a transdiagnostic 20-week group therapy
+      intervention designed to teach concepts, skills and coping strategies through modules
+      targeting common areas of deficits (Personal Safety, Emotional Literacy, Interpersonal
+      Relationships and Problem-Solving), will be adapted into a single session &quot;Brief-SfSL&quot; that
+      can be delivered in an online format. The proposed study will test the effectiveness of
+      Brief-SfSL on reducing suicide risk, as measured by reductions in suicidal ideation after 3
+      months, and will provide evidence for a scalable intervention that can broadly reach urban
+      and rural communities. Lack of suicide intervention services is an immense unmet need that is
+      especially pronounced during this pandemic and is associated with increased burden on
+      individuals and on the healthcare system. Considering the long wait times to access
+      consistent psychiatric services, this proposed intervention is an essential step in providing
+      evidence-based accessible suicide risk services during and even beyond the pandemic.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 2020</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>3 month, within subjects longitudinal study, with each participant receiving an intensive, single session of the 'Brief Skills for Safer Living' intervention designed to mitigate suicide risk. All participants recruited will have experienced suicidal ideation within the past week at time of enrolment.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in suicidal ideation using Beck Scale for Suicide Ideation</measure>
+    <time_frame>From baseline to 3 months; also administered at screening, 1 week and 1 month</time_frame>
+    <description>Beck Scale for Suicide Ideation is a 21-item self-report scale that quantifies suicidal ideation. Items are scored 0 to 2 and yield a total score ranging from 0 to 38. Higher scores reflect greater severity of suicidal ideation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in depression symptoms using the Quick Inventory of Depressive Symptoms self-report scale (QIDS-SR)</measure>
+    <time_frame>From baseline to 3 months; also administered at 1 week and 1 month</time_frame>
+    <description>The QIDS-SR is a 16-item validated self-report depression scale. Total scores range from 0 (none) to 27 (very severe).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in anxiety symptoms using the Generalized Anxiety Disorder 7-item scale (GAD-7)</measure>
+    <time_frame>From baseline to 3 months; also administered at 1 week and 1 month</time_frame>
+    <description>The GAD-7 is a brief 7-item self-report scale measuring anxiety symptoms. Total scores range from 0 to 21, with higher scores reflecting more severe anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Acquired Capability of Suicide Scale (ACSS)</measure>
+    <time_frame>From baseline to 3 months; also administered at 1 week and 1 month</time_frame>
+    <description>The ACSS is a 20-item self-report instrument to assess the construct of acquired capability. Total scores range from 0 to 80, with higher scores reflecting greater acquired capability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Interpersonal Needs Questionnaire score</measure>
+    <time_frame>From baseline to 3 months; also administered at 1 week and 1 month</time_frame>
+    <description>The Interpersonal Needs Questionnaire is a 15-item self-report scale assessing connectedness to others and burdensomeness. Items are rated 1 to 7, with total scores ranging from 15 to 105. Higher scores reflect worse outcomes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Dimensional Anhedonia Rating Scale (DARS) score</measure>
+    <time_frame>From baseline to 3 months; also administered at 1 week and 1 month</time_frame>
+    <description>The DARS is a 26-item self-report scale measuring anhedonia across four domains. Items are scored on a 5-point Likert scale with lower total scores reflecting more severe anhedonia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Sheehan Disability Scale (SDS) score</measure>
+    <time_frame>From baseline to 3 months; also administered at 1 month</time_frame>
+    <description>The SDS is a brief 3-item self-report scale that probes work/school, social, and family/home functioning. Each item is scored from 0 to 10. Total scores range from 0 (unimpaired) to 30 (highly impaired).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Treatment Utilization</measure>
+    <time_frame>From screening to 3 months; also administered at 1 month</time_frame>
+    <description>Use of healthcare services will be assessed through four questions enquiring about the frequency and description of health care professional visits, use of mental health services, hospital admissions, and emergency room visits in the preceding specified time frame (1-3 months).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Participant feedback on their experiences with specific aspects of the Brief-SfSL intervention</measure>
+    <time_frame>3 months</time_frame>
+    <description>Feasibility and Acceptability survey and interview created in-house with questions designed to collect quantitative and qualitative feedback from participants with respect to the feasibility and acceptability of the Brief-SfSL intervention.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Suicidal Ideation</condition>
+  <condition>Suicide</condition>
+  <condition>Mental Health Issue</condition>
+  <condition>Depression</condition>
+  <arm_group>
+    <arm_group_label>Brief-Skills for Safer Living (Brief-SfSL)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with current suicidal ideation (Beck Suicide Scale &gt;10) will undergo Brief-SfSLtherapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Brief Skills for Safer Living</intervention_name>
+    <description>Brief-SfSL is a single-session individual therapy adaptation of the core goals/principles of the 20-week SfSL group therapy. Brief-SfSL incorporates the SfSL guiding principles of emphasizing safety, attending to the therapeutic relationship, recognizing the participant as the expert in their own experience, taking a trauma-informed approach, working with emotions while recognizing the role of alexithymia, and incorporating solution-focused concepts. The goal is to increase a person's understanding and capacity to engage in what would enable them to keep safe, even if thoughts of suicide are present. The intervention procedure is dynamic, but includes 4 core tasks: 1) understanding the individual's suicidal experience, 2) skills building, 3) developing a safety plan, and 4) identifying obstacles to enacting or engaging with the safety plan.</description>
+    <arm_group_label>Brief-Skills for Safer Living (Brief-SfSL)</arm_group_label>
+    <other_name>Brief-SfSL</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  18 years or older
+
+          -  Experiencing suicidal ideation in the past week (Beck Suicide Scale&gt;10)
+
+          -  Ability to undergo psychotherapy in English
+
+          -  Access to a computer with a camera or a mobile phone with a camera
+
+          -  Access to internet
+
+          -  Access to an emergency contact and hospital within commuting distance
+
+          -  Not receiving other psychotherapy concurrently
+
+          -  Willing to have the session recorded to review therapy fidelity
+
+          -  Follow-up visits with a psychiatrist or family doctor where a psychotherapeutic
+             modality (e.g. DBT, psychodynamic therapy, etc.) is not being used are allowable.
+
+        Exclusion Criteria:
+
+          -  The presence of cognitive impairment that would limit consent or understanding of
+             Brief-SfSL
+
+          -  The presence of active psychosis
+
+          -  Current substance use disorder
+
+          -  Unwilling or unable to provide informed consent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sakina Rizvi, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>St. Michael's Hospital, Toronto</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sakina Rizvi, PhD</last_name>
+    <phone>416-864-6060</phone>
+    <phone_ext>6489</phone_ext>
+    <email>sakina.rizvi@unityhealth.to</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Michael Morton, HBSc</last_name>
+    <phone>416-864-6060</phone>
+    <phone_ext>47844</phone_ext>
+    <email>michael.morton@unityhealth.to</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>St. Michael's Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5B 1M8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Michael Morton, HBSc</last_name>
+      <phone>416-864-6060</phone>
+      <phone_ext>47844</phone_ext>
+      <email>michael.morton@unityhealth.to</email>
+    </contact>
+    <investigator>
+      <last_name>Sakina Rizvi, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sidney H Kennedy, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yvonne Bergmans, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aleksandra Lalovic, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 3, 2020</study_first_posted>
+  <last_update_submitted>July 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>St. Michael's Hospital, Toronto</investigator_affiliation>
+    <investigator_full_name>Sakina Rizvi</investigator_full_name>
+    <investigator_title>Scientist</investigator_title>
+  </responsible_party>
+  <keyword>Suicide</keyword>
+  <keyword>Suicide Prevention</keyword>
+  <keyword>Suicide Risk</keyword>
+  <keyword>Suicidal Ideation</keyword>
+  <keyword>Psychotherapy</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Depression</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Suicide</mesh_term>
+    <mesh_term>Suicidal Ideation</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

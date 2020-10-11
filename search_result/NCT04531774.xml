@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2578">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04531774</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BASEC-Nr.2020-00796</org_study_id>
+    <nct_id>NCT04531774</nct_id>
+  </id_info>
+  <brief_title>RECHARGE: A Brief Psychological Intervention to Build Resilience in Healthcare Workers During COVID-19</brief_title>
+  <official_title>RECHARGE: A Brief Psychological Intervention to Build Resilience in Healthcare Workers During COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Naser Morina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The University of New South Wales</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Zurich</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The healthcare industry is inherently demanding, stressful, and, at times, emotionally
+      draining. On a typical day, many workers must make rapid and critical decisions, manage
+      numerous demands, team conflicts, and challenging situations with patients and their
+      families. For some health care workers (HCW), the current pandemic - COVID-19 - has also
+      exacerbated these challenges. Providing psychological support is key in alleviating stress
+      among HCWs, yet the situation does not require therapy because HCWs do not principally suffer
+      from a mental disorder. RECHARGE was specifically developed for HCWs and is an abbreviated
+      online version of Problem Management Plus, an evidence-based intervention that helps to cope
+      with stress in times of crisis. As a brief psychological intervention for adults affected by
+      adversity emerging from stress exposure, RECHARGE teaches people three well-documented
+      strategies to manage acute stress (a: managing stress, b: managing worry, c: meaningful
+      activity). It includes psychoeducation, arousal reduction techniques, managing worries and
+      problem-solving skills, behavioral activation, and enhancement of meaningful activities,
+      which are all based on the principles of cognitive-behavioral therapy. The aim of this study
+      is to evaluate the efficacy of RECHARGE to reduce stress in HCWs and enhance their work
+      performance. Participants in this randomized controlled trial (RCT) study are randomly
+      assigned to either RECHARGE or the active control group. To this end, stress including
+      symptoms of burnout, worries, anxiety, depression, PTSD, and work performance will be
+      measured at baseline, post-intervention, and at a 2 and 6 month follow up.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 28, 2020</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in psychological distress Kessler Psychological Distress Scale (K10) at Week 5 and Week 13</measure>
+    <time_frame>Baseline (Week 1), post-intervention (Week 5) and 2 month follow-up (Week 13)</time_frame>
+    <description>HCWs in the intervention condition (RECHARGE) demonstrate a lower level of distress after the intervention and at 2-month follow-up than HCWs in the active control condition.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Fewer worries in intervention group than in active control group</measure>
+    <time_frame>post-intervention (Week 5) and 2 month follow-up (Week 13)</time_frame>
+    <description>HCWs in the intervention condition demonstrate fewer worries after the intervention and at 2-month follow-up than HCWs in the active control condition.
+Worries are measured using the Generalized Anxiety Disorder Assessment (GAD-7)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Less anxiety symptoms in intervention group than in active control group</measure>
+    <time_frame>post-intervention (Week 5) and 2 month follow-up (Week 13)</time_frame>
+    <description>HCWs in the intervention condition demonstrate less anxiety after the intervention and at 2-month follow-up than HCWs in the active control condition.
+Anxiety is measured using the Hospital Anxiety and Depression Scale (HADS).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fewer depression symptoms in intervention group than in active control group</measure>
+    <time_frame>post-intervention (Week 5) and 2 month follow-up (Week 13)</time_frame>
+    <description>HCWs in the intervention condition demonstrate fewer symptoms of depression after the intervention and at 2-month follow-up than HCWs in the active control condition.
+Depression is measured using the Hospital Anxiety and Depression Scale (HADS).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lower level of burnout in intervention group than in active control group</measure>
+    <time_frame>post-intervention (Week 5) and 2 month follow-up (Week 13)</time_frame>
+    <description>HCWs in the intervention condition demonstrate a lower level of burnout after the intervention and at 2-month follow-up than HCWs in the active control condition. Burnout is measured using the Maslach Burnout Inventory (MBI).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Less traumatic stress in intervention group than in active control group</measure>
+    <time_frame>post-intervention (Week 5) and 2 month follow-up (Week 13)</time_frame>
+    <description>HCWs in the intervention condition demonstrate less traumatic stress after the intervention and at 2-month follow-up than HCWs in the active control condition.
+Traumatic stress is measured using the PTSD Checklist (PCL-5).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lower level of distress due to perceived moral injury in intervention group than in active control group</measure>
+    <time_frame>post-intervention (Week 5) and 2 month follow-up (Week 13)</time_frame>
+    <description>HCWs in the intervention condition demonstrate a lower level of distress due to perceived moral injury after the intervention and at 2-month follow-up than HCWs in the active control condition. Distress due to perceived moral injury is measured using Moral Injury Appraisals (MI).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Higher work performance in intervention group than in active control group</measure>
+    <time_frame>post-intervention (Week 5) and 2 month follow-up (Week 13)</time_frame>
+    <description>HCWs in the intervention condition demonstrate a higher work performance after the intervention and at 2-month follow-up than HCWs in the active control condition. Work performance is measured using the Work Ability Index (WAI).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Stress</condition>
+  <condition>Burnout</condition>
+  <condition>Anxiety</condition>
+  <condition>Depression</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>RECHARGE</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>4 1-hour sessions of RECHARGE are delivered online using Skype for Business within 2 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Online self-study of stress management strategies</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Self study during 2 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>RECHARGE</intervention_name>
+    <description>RECHARGE is an abbreviated and adapted version of Problem Management Plus (PM+), an evidence-based intervention that helps to cope with stress in times of crisis. Recharge is specifically developed for HCWs as a brief psychological intervention for adults affected by adversity emerging from stress exposure and teaches people three well-documented strategies to manage acute stress. The strategies are: a) managing stress, b) managing worry, c) meaningful activity. It includes psychoeducation, arousal reduction techniques, managing worries and problem-solving skills, behavioural activation, enhancement of meaningful activities, and relapse prevention, which are all based on the principles of cognitive-behavioural therapy.
+RECHARGE is delivered online in a 1 to 1 setting between coach and participant. Trained peers (medical doctors, nurses, psychologists) act as coaches.</description>
+    <arm_group_label>RECHARGE</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Self Study</intervention_name>
+    <description>HCWs are referred to a few recommended webpages that outline well-validated, adaptive coping strategies for managing stress.</description>
+    <arm_group_label>Online self-study of stress management strategies</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Healthcare worker
+
+          -  Sufficient German language comprehension
+
+          -  Access to teleconferencing platform
+
+        Exclusion Criteria:
+
+          -  Currently participating in a similar study
+
+          -  Currently in psychotherapeutic treatment / coaching
+
+          -  Currently on sick leave for more than 2 weeks
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Naser Morina, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Zurich</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Naser Morina, PhD</last_name>
+    <phone>+41442555280</phone>
+    <email>naser.morina@usz.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sonja Weilenmann, PhD</last_name>
+    <phone>+41 44 255 52 52</phone>
+    <email>sonja.weilenmann@usz.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Klinik für Konsiliarpsychiatrie und Psychosomatik</name>
+      <address>
+        <city>Zürich</city>
+        <zip>8091</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naser Morina, PhD</last_name>
+      <phone>+41 44 255 52 80</phone>
+      <email>naser.morina@usz.ch</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <link>
+    <url>https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/</url>
+    <description>Declaration of Helsinki</description>
+  </link>
+  <link>
+    <url>https://www.admin.ch/opc/de/classified-compilation/20061313/index.html</url>
+    <description>Human Research Act (HRA)</description>
+  </link>
+  <link>
+    <url>http://www.ich.org/fileadmin/Public_Web_Site/ICH_Products/Guidelines/Efficacy/E6/E6_R2__Step_4_2016_1109.pdf</url>
+    <description>International Conference on Harmonization (ICH) E6(R2) Guideline for Good Clinical Practice</description>
+  </link>
+  <link>
+    <url>http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/09/WC500002749.pdf</url>
+    <description>International Conference on Harmonization (ICH) E2A Clinical Safety Data Management: Definitions and Standards for Expedited Reporting</description>
+  </link>
+  <link>
+    <url>https://www.admin.ch/opc/de/classified-compilation/20121176/index.html</url>
+    <description>Ordinance on Clinical Trials in Human Research (ClinO)</description>
+  </link>
+  <reference>
+    <citation>Tam CW, Pang EP, Lam LC, Chiu HF. Severe acute respiratory syndrome (SARS) in Hong Kong in 2003: stress and psychological impact among frontline healthcare workers. Psychol Med. 2004 Oct;34(7):1197-204.</citation>
+    <PMID>15697046</PMID>
+  </reference>
+  <reference>
+    <citation>Nickell LA, Crighton EJ, Tracy CS, Al-Enazy H, Bolaji Y, Hanjrah S, Hussain A, Makhlouf S, Upshur RE. Psychosocial effects of SARS on hospital staff: survey of a large tertiary care institution. CMAJ. 2004 Mar 2;170(5):793-8.</citation>
+    <PMID>14993174</PMID>
+  </reference>
+  <reference>
+    <citation>Grace SL, Hershenfield K, Robertson E, Stewart DE. Factors affecting perceived risk of contracting severe acute respiratory syndrome among academic physicians. Infect Control Hosp Epidemiol. 2004 Dec;25(12):1111-3.</citation>
+    <PMID>15636301</PMID>
+  </reference>
+  <reference>
+    <citation>Ho SM, Kwong-Lo RS, Mak CW, Wong JS. Fear of severe acute respiratory syndrome (SARS) among health care workers. J Consult Clin Psychol. 2005 Apr;73(2):344-9.</citation>
+    <PMID>15796643</PMID>
+  </reference>
+  <reference>
+    <citation>Maunder RG, Lancee WJ, Rourke S, Hunter JJ, Goldbloom D, Balderson K, Petryshen P, Steinberg R, Wasylenki D, Koh D, Fones CS. Factors associated with the psychological impact of severe acute respiratory syndrome on nurses and other hospital workers in Toronto. Psychosom Med. 2004 Nov-Dec;66(6):938-42.</citation>
+    <PMID>15564361</PMID>
+  </reference>
+  <reference>
+    <citation>Bai Y, Lin CC, Lin CY, Chen JY, Chue CM, Chou P. Survey of stress reactions among health care workers involved with the SARS outbreak. Psychiatr Serv. 2004 Sep;55(9):1055-7.</citation>
+    <PMID>15345768</PMID>
+  </reference>
+  <reference>
+    <citation>Styra R, Hawryluck L, Robinson S, Kasapinovic S, Fones C, Gold WL. Impact on health care workers employed in high-risk areas during the Toronto SARS outbreak. J Psychosom Res. 2008 Feb;64(2):177-83. doi: 10.1016/j.jpsychores.2007.07.015.</citation>
+    <PMID>18222131</PMID>
+  </reference>
+  <reference>
+    <citation>Marjanovic Z, Greenglass ER, Coffey S. The relevance of psychosocial variables and working conditions in predicting nurses' coping strategies during the SARS crisis: an online questionnaire survey. Int J Nurs Stud. 2007 Aug;44(6):991-8. Epub 2006 Apr 17.</citation>
+    <PMID>16618485</PMID>
+  </reference>
+  <reference>
+    <citation>Brooks SK, Webster RK, Smith LE, Woodland L, Wessely S, Greenberg N, Rubin GJ. The psychological impact of quarantine and how to reduce it: rapid review of the evidence. Lancet. 2020 Mar 14;395(10227):912-920. doi: 10.1016/S0140-6736(20)30460-8. Epub 2020 Feb 26. Review.</citation>
+    <PMID>32112714</PMID>
+  </reference>
+  <reference>
+    <citation>The Lancet. COVID-19: protecting health-care workers. Lancet. 2020 Mar 21;395(10228):922. doi: 10.1016/S0140-6736(20)30644-9.</citation>
+    <PMID>32199474</PMID>
+  </reference>
+  <reference>
+    <citation>Remuzzi A, Remuzzi G. COVID-19 and Italy: what next? Lancet. 2020 Apr 11;395(10231):1225-1228. doi: 10.1016/S0140-6736(20)30627-9. Epub 2020 Mar 13. Review.</citation>
+    <PMID>32178769</PMID>
+  </reference>
+  <reference>
+    <citation>Su TP, Lien TC, Yang CY, Su YL, Wang JH, Tsai SL, Yin JC. Prevalence of psychiatric morbidity and psychological adaptation of the nurses in a structured SARS caring unit during outbreak: a prospective and periodic assessment study in Taiwan. J Psychiatr Res. 2007 Jan-Feb;41(1-2):119-30. Epub 2006 Feb 7.</citation>
+    <PMID>16460760</PMID>
+  </reference>
+  <reference>
+    <citation>Maunder RG, Leszcz M, Savage D, Adam MA, Peladeau N, Romano D, Rose M, Schulman B. Applying the lessons of SARS to pandemic influenza: an evidence-based approach to mitigating the stress experienced by healthcare workers. Can J Public Health. 2008 Nov-Dec;99(6):486-8. Review.</citation>
+    <PMID>19149392</PMID>
+  </reference>
+  <reference>
+    <citation>Maunder RG, Lancee WJ, Balderson KE, Bennett JP, Borgundvaag B, Evans S, Fernandes CM, Goldbloom DS, Gupta M, Hunter JJ, McGillis Hall L, Nagle LM, Pain C, Peczeniuk SS, Raymond G, Read N, Rourke SB, Steinberg RJ, Stewart TE, VanDeVelde-Coke S, Veldhorst GG, Wasylenki DA. Long-term psychological and occupational effects of providing hospital healthcare during SARS outbreak. Emerg Infect Dis. 2006 Dec;12(12):1924-32.</citation>
+    <PMID>17326946</PMID>
+  </reference>
+  <reference>
+    <citation>Shanafelt TD, Noseworthy JH. Executive Leadership and Physician Well-being: Nine Organizational Strategies to Promote Engagement and Reduce Burnout. Mayo Clin Proc. 2017 Jan;92(1):129-146. doi: 10.1016/j.mayocp.2016.10.004. Epub 2016 Nov 18. Review.</citation>
+    <PMID>27871627</PMID>
+  </reference>
+  <reference>
+    <citation>Panagioti M, Geraghty K, Johnson J, Zhou A, Panagopoulou E, Chew-Graham C, Peters D, Hodkinson A, Riley R, Esmail A. Association Between Physician Burnout and Patient Safety, Professionalism, and Patient Satisfaction: A Systematic Review and Meta-analysis. JAMA Intern Med. 2018 Oct 1;178(10):1317-1331. doi: 10.1001/jamainternmed.2018.3713. Erratum in: JAMA Intern Med. 2019 Apr 1;179(4):596.</citation>
+    <PMID>30193239</PMID>
+  </reference>
+  <reference>
+    <citation>Scheepers RA, Boerebach BC, Arah OA, Heineman MJ, Lombarts KM. A Systematic Review of the Impact of Physicians' Occupational Well-Being on the Quality of Patient Care. Int J Behav Med. 2015 Dec;22(6):683-98. doi: 10.1007/s12529-015-9473-3. Review.</citation>
+    <PMID>25733349</PMID>
+  </reference>
+  <reference>
+    <citation>Wallace JE, Lemaire JB, Ghali WA. Physician wellness: a missing quality indicator. Lancet. 2009 Nov 14;374(9702):1714-21. doi: 10.1016/S0140-6736(09)61424-0. Review.</citation>
+    <PMID>19914516</PMID>
+  </reference>
+  <reference>
+    <citation>Zhu Z, Xu S, Wang H, Liu Z, Wu J, Li G, Miao J, Zhang C, Yang Y, Sun W, Zhu S, Fan Y, Chen Y, Hu J, Liu J, Wang W. COVID-19 in Wuhan: Sociodemographic characteristics and hospital support measures associated with the immediate psychological impact on healthcare workers. EClinicalMedicine. 2020 Jun 24;24:100443. doi: 10.1016/j.eclinm.2020.100443. eCollection 2020 Jul.</citation>
+    <PMID>32766545</PMID>
+  </reference>
+  <reference>
+    <citation>Liu CY, Yang YZ, Zhang XM, Xu X, Dou QL, Zhang WW, Cheng ASK. The prevalence and influencing factors in anxiety in medical workers fighting COVID-19 in China: a cross-sectional survey. Epidemiol Infect. 2020 May 20;148:e98. doi: 10.1017/S0950268820001107.</citation>
+    <PMID>32430088</PMID>
+  </reference>
+  <reference>
+    <citation>Lai J, Ma S, Wang Y, Cai Z, Hu J, Wei N, Wu J, Du H, Chen T, Li R, Tan H, Kang L, Yao L, Huang M, Wang H, Wang G, Liu Z, Hu S. Factors Associated With Mental Health Outcomes Among Health Care Workers Exposed to Coronavirus Disease 2019. JAMA Netw Open. 2020 Mar 2;3(3):e203976. doi: 10.1001/jamanetworkopen.2020.3976.</citation>
+    <PMID>32202646</PMID>
+  </reference>
+  <reference>
+    <citation>Maunder R. The experience of the 2003 SARS outbreak as a traumatic stress among frontline healthcare workers in Toronto: lessons learned. Philos Trans R Soc Lond B Biol Sci. 2004 Jul 29;359(1447):1117-25.</citation>
+    <PMID>15306398</PMID>
+  </reference>
+  <reference>
+    <citation>Chan AO, Huak CY. Psychological impact of the 2003 severe acute respiratory syndrome outbreak on health care workers in a medium size regional general hospital in Singapore. Occup Med (Lond). 2004 May;54(3):190-6.</citation>
+    <PMID>15133143</PMID>
+  </reference>
+  <reference>
+    <citation>Dawson KS, Bryant RA, Harper M, Kuowei Tay A, Rahman A, Schafer A, van Ommeren M. Problem Management Plus (PM+): a WHO transdiagnostic psychological intervention for common mental health problems. World Psychiatry. 2015 Oct;14(3):354-7. doi: 10.1002/wps.20255.</citation>
+    <PMID>26407793</PMID>
+  </reference>
+  <reference>
+    <citation>Rahman A, Hamdani SU, Awan NR, Bryant RA, Dawson KS, Khan MF, Azeemi MM, Akhtar P, Nazir H, Chiumento A, Sijbrandij M, Wang D, Farooq S, van Ommeren M. Effect of a Multicomponent Behavioral Intervention in Adults Impaired by Psychological Distress in a Conflict-Affected Area of Pakistan: A Randomized Clinical Trial. JAMA. 2016 Dec 27;316(24):2609-2617. doi: 10.1001/jama.2016.17165.</citation>
+    <PMID>27837602</PMID>
+  </reference>
+  <reference>
+    <citation>Rahman A, Khan MN, Hamdani SU, Chiumento A, Akhtar P, Nazir H, Nisar A, Masood A, Din IU, Khan NA, Bryant RA, Dawson KS, Sijbrandij M, Wang D, van Ommeren M. Effectiveness of a brief group psychological intervention for women in a post-conflict setting in Pakistan: a single-blind, cluster, randomised controlled trial. Lancet. 2019 Apr 27;393(10182):1733-1744. doi: 10.1016/S0140-6736(18)32343-2. Epub 2019 Apr 1.</citation>
+    <PMID>30948286</PMID>
+  </reference>
+  <reference>
+    <citation>Bryant RA, Schafer A, Dawson KS, Anjuri D, Mulili C, Ndogoni L, Koyiet P, Sijbrandij M, Ulate J, Harper Shehadeh M, Hadzi-Pavlovic D, van Ommeren M. Effectiveness of a brief behavioural intervention on psychological distress among women with a history of gender-based violence in urban Kenya: A randomised clinical trial. PLoS Med. 2017 Aug 15;14(8):e1002371. doi: 10.1371/journal.pmed.1002371. eCollection 2017 Aug.</citation>
+    <PMID>28809935</PMID>
+  </reference>
+  <reference>
+    <citation>Kessler RC, Barker PR, Colpe LJ, Epstein JF, Gfroerer JC, Hiripi E, Howes MJ, Normand SL, Manderscheid RW, Walters EE, Zaslavsky AM. Screening for serious mental illness in the general population. Arch Gen Psychiatry. 2003 Feb;60(2):184-9.</citation>
+    <PMID>12578436</PMID>
+  </reference>
+  <reference>
+    <citation>Slade T, Grove R, Burgess P. Kessler Psychological Distress Scale: normative data from the 2007 Australian National Survey of Mental Health and Wellbeing. Aust N Z J Psychiatry. 2011 Apr;45(4):308-16. doi: 10.3109/00048674.2010.543653. Epub 2011 Feb 21.</citation>
+    <PMID>21332432</PMID>
+  </reference>
+  <reference>
+    <citation>Price M, Szafranski DD, van Stolk-Cooke K, Gros DF. Investigation of abbreviated 4 and 8 item versions of the PTSD Checklist 5. Psychiatry Res. 2016 May 30;239:124-30. doi: 10.1016/j.psychres.2016.03.014. Epub 2016 Mar 8.</citation>
+    <PMID>27137973</PMID>
+  </reference>
+  <reference>
+    <citation>Zigmond AS, Snaith RP. The hospital anxiety and depression scale. Acta Psychiatr Scand. 1983 Jun;67(6):361-70.</citation>
+    <PMID>6880820</PMID>
+  </reference>
+  <reference>
+    <citation>Spitzer RL, Kroenke K, Williams JB, Löwe B. A brief measure for assessing generalized anxiety disorder: the GAD-7. Arch Intern Med. 2006 May 22;166(10):1092-7.</citation>
+    <PMID>16717171</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>September 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Zurich</investigator_affiliation>
+    <investigator_full_name>Naser Morina</investigator_full_name>
+    <investigator_title>PD Dr. Naser Morina</investigator_title>
+  </responsible_party>
+  <keyword>Health Care Workers</keyword>
+  <keyword>Stress</keyword>
+  <keyword>Anxiety</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Burnout</keyword>
+  <keyword>Work Load</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Resilience</keyword>
+  <keyword>Brief Psychological Intervention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Burnout, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We follow open science practices and will use open access journals and repositories to publish results, anonymized original data, and meta-data describing the data and procedures (e.g., study protocol, statistical codes, instructions concerning the use of the data) to ensure full transparency and reproducibility.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>One year after conclusion of the study.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

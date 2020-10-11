@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="675">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04558749</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ADCOVID</org_study_id>
+    <nct_id>NCT04558749</nct_id>
+  </id_info>
+  <brief_title>Anxiety and Depression Among Pregnant Women During COVID-19 Pandemic</brief_title>
+  <official_title>Assessment of Anxiety and Depression Among Pregnant Women During COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pregnancy and early parenthood are life changing periods characterized by intense emotions
+      and a high vulnerability to emotional problems. Overall 10 - 20 % of pregnant women and women
+      in early postpartum period suffer from mental health problems.
+
+      In the first months of 2020 , pregnant and breastfeeding women have also needed to face the
+      COVID19 pandemic including the exceptional quarantine measures that have disturbed private
+      and professional life . In addition to the fear of infection , these measures might have
+      negatively impacted the emotional wellbeing of women . As depressive symptoms and anxiety in
+      the pre and peripartum period have been associated with adverse maternal , neonatal and
+      infant outcomes , the psychological impact of COVID19 , and its associated quarantine
+      measures , on pregnant women and new mothers is cause for concern
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The mean scores anxiety and depression among pregnant women during COVID-19 pandemic</measure>
+    <time_frame>one hour</time_frame>
+    <description>This scale is composed of two parts, part one measures anxiety traits and part two measures anxiety state. Each part comprises 20 statements. This scale is a (4) point scale, with a score ranging a minimum of 20 grades to a maximum of 80 grades.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Study group</arm_group_label>
+    <description>The study population comprised women that will attend their routine visit to the antenatal clinic. The study population will be recruited by using simple random sampling method after verbal consent will be obtained. Resident in the Department of Obstetrics and Gynaecology who will be trained to administer the questionnaire will interview women. Face masks will be provided to the study population during the process of data collection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>State-trait anxiety inventory scale</intervention_name>
+    <description>This scale is composed of two parts, part one measures anxiety traits and part two measures anxiety state. Each part comprises 20 statements. This scale is a (4) point scale, with a score ranging a minimum of 20 grades to a maximum of 80 grades.</description>
+    <arm_group_label>Study group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Edinburgh Postnatal Depression Scale (EDPS)</intervention_name>
+    <description>The EPDS is a self-report measure that focuses on the cognitive symptoms of depression. It excludes somatic items that might generate false positives both during pregnancy and after childbirth.7 The EPDS consists of 10 items, each scored 0-3 points, with a potential scale score of 0-30.</description>
+    <arm_group_label>Study group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population comprised women that will attend their routine visit to the antenatal
+        clinic. The study population will be recruited by using simple random sampling method after
+        verbal consent will be obtained. Resident in the Department of Obstetrics and Gynaecology
+        who will be trained to administer the questionnaire will interview women. Facemasks will be
+        provided to the study population during the process of data collection.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        All pregnant women presented to the Antenatal care clinic, will be included in the study
+        irrespective of the gestational age of the pregnancy
+
+        Exclusion Criteria:
+
+        Women previously diagnosed with any psychiatric disorder.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Ahmed Mohamed Abbas</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

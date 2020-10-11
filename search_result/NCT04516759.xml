@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="306">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516759</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SGS.1656.201</org_study_id>
+    <secondary_id>2020-002211-21</secondary_id>
+    <nct_id>NCT04516759</nct_id>
+  </id_info>
+  <brief_title>AZD1656 in Diabetic Patients Hospitalised With Suspected or Confirmed COVID-19</brief_title>
+  <acronym>ARCADIA</acronym>
+  <official_title>A Phase II, Randomised, Double-blind, Placebo-controlled Clinical Trial to Assess the Safety and Efficacy of AZD1656 in Diabetic Patients Hospitalised With Suspected or Confirmed COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St George Street Capital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>St George Street Capital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The ARCADIA Trial is a randomised, double-blind, placebo-controlled clinical trial to assess
+      the safety and efficacy of AZD1656 in patients with either Type 1 or Type 2 diabetes,
+      hospitalised with COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The ARCADIA Trial will assess the safety and efficacy of AZD1656 in 150 patients with either
+      Type 1 or Type 2 diabetes who have been hospitalised with COVID-19.
+
+      AZD1656 is a glucokinase (GK; hexokinase 4) activator which has been shown to reduce blood
+      glucose for up to 4 months in humans. Diabetic patients admitted to hospital with COVID-19
+      often present with hyperglycaemia and are particularly vulnerable to progression to severe
+      COVID-19. Treatment with AZD1656 (in addition to their usual care) may provide additional
+      glucose control which could help improve clinical outcomes in both Type 1 and Type 2 diabetic
+      populations.
+
+      In addition to its glucose lowering effect, AZD1656 may have additional benefits to COVID-19
+      patients via its effects on immune function. In many patients with severe COVID-19, an
+      overreaction of the body's own immune system can cause severe problems including damage to
+      the lungs and heart, which can lead to breathing problems necessitating intubation and
+      ventilation. AZD1656 has been shown to activate the migration of T regulatory cells to sites
+      of inflammation in preclinical experiments. This migration of Treg cells to inflamed tissue
+      is crucial for their immune-modulatory function (Kishore et al (2017)). AZD1656 could enhance
+      Treg migratory capacity and may prevent the development of cardiorespiratory complications
+      observed in hospitalised patients with COVID-19, leading to lower requirements for oxygen
+      therapy and assisted ventilation, and reduced incidences of pneumonia and acute respiratory
+      distress syndrome (ARDS).
+
+      Diabetic patients hospitalised with COVID-19 will be randomised to receive either AZD1656
+      tablets or placebo tablets on a 1:1 basis until they are discharged from hospital or until
+      they require intubation/mechanical ventilation. The aim of the study is to determine whether
+      AZD1656 improves clinical outcomes in diabetic patients hospitalised with COVID-19. The World
+      Health Organization (WHO) 8-point Ordinal Scale for Clinical Improvement will be used as the
+      standard methodology for measuring patient outcomes.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 12, 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a randomised double-blind study. Eligible patients will be randomly assigned to one of two groups (AZD1656 plus usual care or placebo plus usual care) on a 1:1 basis</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Improvement by Day 14</measure>
+    <time_frame>Day 1 to Day 14</time_frame>
+    <description>Clinical Improvement measured as the percentage of subjects at Day 14 who are in categories 1-3 according to the WHO 8-point Ordinal Scale for Clinical Improvement, comparing AZD1656 treatment to placebo</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>*Title: Clinical Improvement at Day 7, 14 and 21</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Clinical Improvement measured as the percentage of patients categorised at each severity rating on the WHO 8-point Ordinal Scale at Day 7, Day 14 and Day 21 versus baseline, comparing AZD1656 treatment with placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glycaemic Control</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Degree of glycaemic control as measured by the need to increase baseline medication requirements or the need to add additional diabetic medications to maintain appropriate blood glucose levels in patients receiving AZD1656 compared with placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of Adverse Events</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Proportion of Treatment Emergent Adverse Events (TEAEs) leading to study drug discontinuation in patients receiving AZD1656 compared with placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of Serious Adverse Events</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Proportion of Serious Adverse Events (SAEs) in patients receiving AZD1656 compared with placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalisation</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Time from hospital admission to hospital discharge (in hours) in patients receiving AZD1656 compared with placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Intubation/ Mechanical Intervention</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Time from hospital admission to receiving intubation/mechanical ventilation in patients receiving AZD1656 compared with placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality Rate</measure>
+    <time_frame>Day 1 to Day 28</time_frame>
+    <description>Mortality rate in patients receiving AZD1656 compared with placebo.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic Analysis</measure>
+    <time_frame>Day 1 to Day 7</time_frame>
+    <description>Plasma AZD1656 levels during first 7 days of treatment in patients receiving AZD1656 compared with placebo.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immunophenotyping Analysis</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Immunophenotyping panel to be conducted by Flow Cytometry: between group comparison (AZD1656 versus placebo)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Immunochemistry Analysis</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Immunochemistry panel to be conducted using the Meso Scale Discovery (MSD) U-Plex multiplex assay.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cardiac Injury</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Measurement of hsTroponin and NTproBNP to determine extent of cardiac injury in patients receiving AZD1656 compared with placebo</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Correlation of clinical outcomes with pre-treatment vitamin D levels (by measurement of 25-hydroxyvitamin D levels).</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Measurement of 25-hydroxyvitamin D levels before treatment to determine whether there is any correlation between baseline vitamin D level and clinical improvement in patients treated with AZD1656 versus placebo.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Correlation of patient ethnicity with clinical improvement</measure>
+    <time_frame>Day 1 to Day 21</time_frame>
+    <description>Sub group analysis of patient ethnicity, to determine whether there is any correlation between patient ethnicity and clinical improvement in patients treated with AZD1656 versus placebo.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>AZD1656 (plus Usual Hospital Care)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>50mg film-coated tablets at a dose of 100mg BID</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Matched Placebo (plus Usual Hospital Care)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matched placebo tablets</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AZD1656</intervention_name>
+    <description>50mg film-coated tablets (at daily dose of 100mg BID)</description>
+    <arm_group_label>AZD1656 (plus Usual Hospital Care)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matched placebo tablets</description>
+    <arm_group_label>Matched Placebo (plus Usual Hospital Care)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Male or Female.
+
+          2. Aged 18 and older.
+
+          3. Have either Type I or Type II Diabetes Mellitus.
+
+          4. Hospitalised with suspected or confirmed novel coronavirus (Severe Acute Respiratory
+             Syndrome Coronavirus 2 (SARS-CoV-2)) infection at time of enrolment, categorised as
+             stage 3, 4 or 5 on the WHO Ordinal Scale for Clinical Improvement.
+
+          5. Blood glucose level at or above 4 mmol/L.
+
+          6. Able to take oral (tablet) formulation of medication.
+
+          7. Patient is able to provide written informed consent prior to initiation of any study
+             procedures.
+
+        Exclusion Criteria:
+
+          1. In the opinion of the clinical team, progression to intubation or mechanical
+             ventilation is imminent and inevitable, within the next 24 hours, irrespective of the
+             provision of treatments.
+
+          2. Patients admitted with primary suspected or proven Mycoplasma pneumoniae, Chlamydia
+             pneumoniae and bacterial pneumonia, who acquired COVID-19 while hospitalized.
+
+          3. Treatment with immunomodulators or anti-rejection drugs within the last 3 months.
+
+          4. Pregnant or breast feeding.
+
+          5. Men, and women of child-bearing potential, unwilling to use highly effective
+             contraception during their participation in the trial and for 2 weeks after study
+             completion.
+
+          6. Anticipated transfer to another hospital which is not a study site within 72 hours.
+
+          7. Known sensitivity to any of the study medication/placebo excipients.
+
+          8. Prior dosing with AZD1656 on a previous clinical trial.
+
+          9. Patients admitted as a result of and receiving immediate treatment for an acute
+             asthmatic attack, acute myocardial infarction, acute cerebrovascular event.
+
+         10. Any known non-COVID-19, non-diabetes related, serious condition which, in the opinion
+             of the clinical team, makes the patient unsuitable for the trial.
+
+         11. Known history of drug or alcohol abuse within previous 12 months of screening.
+
+         12. Known history of HIV, hepatitis C or unresolved hepatitis B or severe liver disease.
+
+         13. Current or planned use of gemfibrozil or any other strong inhibitors of CYP2C8.
+
+         14. Current or previous participation in another clinical trial where the patient has
+             received a dose of an Investigational Medicinal Product (IMP) containing small
+             molecule treatment(s) within 30 days or 5 half-lives (whichever is longer) prior to
+             enrolment into this study, or containing biological treatment(s) within 3 months prior
+             to entry into this study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kieran McCafferty, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Barts &amp; The London NHS Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mike Johnson</last_name>
+    <phone>+44 (0)7768335460</phone>
+    <email>info@sgscapital.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Bradford Teaching Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Bradford</city>
+        <zip>BD9 6RJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>North Bristol NHS Trust</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS10 5NB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Croydon Health Services NHS Trust</name>
+      <address>
+        <city>Croydon</city>
+        <zip>CR7 7YE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Dudley Group NHS Foundation Trust</name>
+      <address>
+        <city>Dudley</city>
+        <zip>DY1 2HQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medway NHS Foundation Trust</name>
+      <address>
+        <city>Gillingham</city>
+        <zip>ME7 5NY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Barts Health NHS Trust</name>
+      <address>
+        <city>London</city>
+        <zip>E1 1FR</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Free London NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>NW3 2QG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Penine Acute Hospitals NHS Trust</name>
+      <address>
+        <city>Salford</city>
+        <zip>M6 8HD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sheffield Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Sheffield</city>
+        <zip>S10 2SB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Somerset NHS Foundation Trust</name>
+      <address>
+        <city>Taunton</city>
+        <zip>TA1 5DA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Walsall Healthcare NHS Trust</name>
+      <address>
+        <city>Walsall</city>
+        <zip>WS2 9PS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>http://www.sgscapital.org</url>
+    <description>Link to St George Street Capital's website</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>September 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Diabetes Mellitus</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Regulatory T Cell</keyword>
+  <keyword>Glucokinase</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

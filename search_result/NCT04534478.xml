@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1172">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04534478</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-003651-15</org_study_id>
+    <nct_id>NCT04534478</nct_id>
+  </id_info>
+  <brief_title>Oral Prednisone Regimens to Optimize the Therapeutic Strategy in Patients With Organizing Pneumonia Post-COVID-19</brief_title>
+  <acronym>NORCOVID</acronym>
+  <official_title>Randomized, Open, Parallel, Single-center, Non-inferiority Clinical Trial, With an Active Control Group, Comparing Two Oral Prednisone Regimens With the Aim of Optimizing the Therapeutic Strategy in Patients With Organizing Pneumonia Post-COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Universitari Vall d'Hebron Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Universitari Vall d'Hebron Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Based on data from the 2003 SARS-COVID pandemic, other serious lung infections,
+      and patients with respiratory distress, it is estimated that 10-30% of patients with severe
+      SARS-COVID-2 pneumonia may present as a sequel an organized pneumonia. The treatment of this
+      complication is not well defined. The use of oral corticosteroids is mandatory to avoid a
+      possible evolution to pulmonary fibrosis, however, the doses to be administered and the
+      duration of treatment are unknown as there is no study specifically aimed at solving this
+      doubt. Many authors advocate high-dose treatment regimens for a minimum of six months, as
+      proposed for cryptogenic organized pneumonia. However, there is a question whether in
+      non-idiopathic cases of organized pneumonia, less intense treatment could resolve the
+      disease. Hypothesis: The use of a less intensive prednisone regimen may be sufficient for
+      therapeutic control in patients with post-COVID-19 organizing pneumonia, in relation to the
+      established standard regimen Simplicity of the procedures: The objective of the NORCOVID
+      study is to identify the optimal treatment regimen with corticosteroids in post-COVID19
+      patients diagnosed with NO. Specifically, the primary objective of this multicenter
+      randomized trial is to evaluate whether treatment with a less intensive regimen of
+      corticosteroids produces a non-inferior therapeutic effect than the established control
+      regimen. Secondary objectives are to evaluate the effect of treatment on secondary efficacy
+      variables and on safety. DLCO, respiratory function tests, 6MWT test, need for rescue,
+      radiological tests, complications, mortality and the WHO ordinal scale will be evaluated.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hypothesis The use of a less intensive prednisone regimen may be sufficient for therapeutic
+      control in patients with post-COVID-19 organizing pneumonia, in relation to the established
+      standard regimen.
+
+      Objectives The objective of the NORCOVID study is to identify the optimal treatment regimen
+      with corticosteroids in post-COVID19 patients diagnosed with NO. Specifically, the primary
+      objective of this multicenter randomized trial is to evaluate whether treatment with a less
+      intensive regimen of corticosteroids produces a non-inferior therapeutic effect than the
+      established control regimen. Secondary objectives are to evaluate the effect of treatment on
+      secondary efficacy variables and on safety. DLCO, respiratory function tests, 6MWT test, need
+      for rescue, radiological tests, complications, mortality and the WHO ordinal scale will be
+      evaluated.
+
+      Study population: inclusion and exclusion criteria
+
+        -  Inclusion criteria 1) Patients over 18 years of age 2) Diagnosis of COVID-19 pneumonia
+           that would have required hospital admission 3) Diagnosis of post-COVID-19 organized
+           pneumonia 4) Without any contraindication to the study drug 5) That, properly informed,
+           voluntarily agree to participate in the study after knowing its objectives and risks and
+           give their consent.
+
+        -  Exclusion criteria Patients will not be randomized if: 1) They do not authorize their
+           participation 2) Patients with contraindications to receiving corticosteroid treatment
+           3) Impossibility of understanding the requirements of the study, in the opinion of the
+           investigator. 4) Expected survival less than the duration of the study in the opinion of
+           the investigator. 5) Clinical evidence of active infection, including but not limited to
+           bronchitis, pneumonia, sinusitis, urinary tract infection, and / or cellulitis. 6)
+           Patient who is subject to receiving a lung transplant during the study period. 7)
+           Impossibility of conducting lung function studies. 8) Poorly controlled diabetes
+           mellitus (glycosylated Hb&gt; 10%). 9) Pregnancy or breastfeeding 10) Have any
+           contraindication to the study drug 11) Are participating in another intervention study.
+
+      Products evaluated and administration regimens.
+
+      The product evaluated will be Prednisone orally in two administration schedules:
+
+        1. Control Group: Prednisone 0.75mg / Kg / d 4week; 0.5mg / Kg / d 4 weeks; 20mg / d 4
+           weeks; 10mg / d 6 weeks; 5mg / d 6 weeks (6m).
+
+        2. Experimental Group: Prednisone 0.5mg / Kg / d 3 weeks, 20mg / day 3 weeks; 15mg / day 2
+           weeks; 10mg / day 2 weeks, 5mg / day 2 weeks and discontinue.
+
+      Main variable - The main variable will be the change in pulmonary diffusion, in terms of
+      predicted DLCO (%), between the baseline value and that obtained at 6 months, comparing the
+      two treatment groups adjusting for the baseline value using a model of Repeated measures with
+      random effects (mixed model for repeated measurements: MMRM).
+
+      Secondary variables
+
+        -  DLCO in original units (DLCO10s mLmin - 1mmHg - 1)
+
+        -  Percentage of patients with values &lt;80% predicted
+
+        -  Respiratory function tests
+
+        -  6-Minute-Walk Test (6MWT) test
+
+        -  Need for rescue
+
+        -  Computed Axial Tomography Test
+
+        -  Complications related to the evolution of the disease (serious and non-serious)
+
+        -  Complications related to corticosteroid treatment (serious and non-serious)
+
+        -  Complication of any kind (serious and non-serious)
+
+        -  Mortality from any cause
+
+        -  Ordinal variable of clinical improvement recommended by the WHO R&amp;D Blueprint expert
+           group15 for the acute phase. The worst score obtained during the study will be evaluated
+           at each visit and as a summary measure.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 7, 2020</start_date>
+  <completion_date type="Anticipated">December 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Parallel clinical trial with therapeutic intervention, randomized, open and controlled, of non-inferiority</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in pulmonary diffusion.</measure>
+    <time_frame>Six Months</time_frame>
+    <description>The main variable will be the change in pulmonary diffusion, in terms of predicted DLCO (%), between the baseline value and that obtained at 6 months, comparing the two treatment groups, adjusting for the baseline value using a repeated measures model with random effects (mixed model for repeated measurements.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Prednisone 0.75mg / Kg / d 4 weeks; 0.5mg / Kg / d 4 weeks; 20mg / d 4 weeks; 10mg / d 6 weeks; 5mg / d 6 weeks (6m)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Prednisone 0.5mg / Kg / d 3 weeks, 20mg / day 3 weeks; 15mg / day 2 weeks; 10mg / day 2 weeks, 5mg / day 2 weeks and discontinue.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisone</intervention_name>
+    <description>Patients will be randomized 1: 1 between the two arms of the study</description>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_label>Experimental group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients over 18 years of age
+
+          -  Diagnosis of COVID-19 pneumonia that would have required hospital admission
+
+          -  Post COVID-19 Organized Pneumonia Diagnosis
+
+          -  Without any contraindication to the study drug
+
+          -  That, adequately informed, voluntarily agree to participate in the study after knowing
+             its objectives and risks and grant their written consent.
+
+        Exclusion Criteria:
+
+          -  They do not authorize their participation
+
+          -  Patients with contraindications to receiving treatment with corticosteroids
+
+          -  Impossibility of understanding the requirements of the study, in the opinion of the
+             researcher.
+
+          -  Expected survival less than the duration of the study in the opinion of the
+             investigator.
+
+          -  Clinical evidence of active infection, including but not limited to bronchitis,
+             pneumonia, sinusitis, urinary tract infection and / or cellulitis.
+
+          -  Patient who receives a lung transplant during the study period.
+
+          -  Impossibility of carrying out lung function studies. - Poorly controlled diabetes
+             mellitus (glycosylated Hb&gt; 10%).
+
+          -  Pregnancy or breastfeeding
+
+          -  They are participating in another intervention study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Maria-Jesus Cruz, PhD</last_name>
+    <phone>0034934894048</phone>
+    <email>mj.cruz@vhir.org</email>
+  </overall_contact>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>August 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prednisone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

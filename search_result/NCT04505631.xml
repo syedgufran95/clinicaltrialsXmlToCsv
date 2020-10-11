@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1518">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04505631</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GHR 1052</org_study_id>
+    <secondary_id>IDRCB 2020-A01089-30</secondary_id>
+    <nct_id>NCT04505631</nct_id>
+  </id_info>
+  <brief_title>Follow-up of Respiratory Sequelae of Hospitalized Patients With COVID-19</brief_title>
+  <acronym>SISCOVID</acronym>
+  <official_title>Follow-up of Respiratory Sequelae of Patients Hospitalized With SARS-CoV-2: a Prospective Multicenter Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Groupe Hospitalier de la Region de Mulhouse et Sud Alsace</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Groupe Hospitalier de la Region de Mulhouse et Sud Alsace</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this multicenter observational study is to describe respiratory sequelae of
+      COVID-19 patients hospitalized for severe pneumonia requiring oxygen supply.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Main objective To assess respiratory sequelae after SARS-CoV-2 infection in hospitalized
+      patients with severe pneumonia requiring oxygen supply and followed up for 6 months after
+      hospital discharge (see primary and secondary outcomes).
+
+      Secondary objectives
+
+      To describe pulmonary sequelae according to :
+
+        -  the unit in which the patient was hospitalized,
+
+        -  the maximum oxygen flow rate required during hospitalization,
+
+        -  McCabe score,
+
+        -  age,
+
+        -  tobacco consumption,
+
+        -  biological data (e.g. blood count, CRP, fibrinogen, LDH, albumin, D-dimer, ferritin),
+
+        -  number of days from onset of symptoms to hospitalization,
+
+        -  co-morbidities (e.g. diabetes, hypertension, coronary artery disease/heart failure, mild
+           to moderate COPD/respiratory failure, overweight),
+
+        -  concomitant treatments (e.g. non-steroidal anti-inflammatory drugs, corticosteroids,
+           immunosuppressants, ACE inhibitors)
+
+        -  specific drug treatments administered to treat COVID-19 infection,
+
+        -  non-drug treatments (invasive ventilation, non-invasive ventilation, postural treatment)
+           to manage respiratory disorders of COVID-19 infection.
+
+      To assess the impact of factors of social inequality on the severity of COVID-19 infection.
+
+      Conduct of research Patients who have been hospitalized for severe pneumonia due to CoV-2
+      SARS infection will be seen in consultation at approximately 3 and 6 months after hospital
+      discharge, as per standard practice.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 10, 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Presence of respiratory sequelae</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>The presence of respiratory sequelae will be assessed by low dose thoracic tomodensitometry</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Presence of respiratory sequelae on low dose thoracic tomodensitometry</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced vital capacity (FVC, %)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced vital capacity (FVC, %)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced expiratory volume in 1 second (FEV1, %)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced expiratory volume in 1 second (FEV1, %)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tiffeneau-Pinelli index (FEV1/FVC, %)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tiffeneau-Pinelli index (FEV1/FVC, %)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total lung capacity (TLC, %)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total lung capacity (TLC, %)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Residual volume (RV, %)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Residual volume (RV, %)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>RV/TLC ratio (%)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>RV/TLC ratio (%)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximal inspiratory pressure (MIP, %)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximal inspiratory pressure (MIP, %)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximal expiratory pressure (MEP, %)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximal expiratory pressure (MEP, %)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diffusion capacity of the lungs for carbon monoxide (DLCO, %)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diffusion capacity of the lungs for carbon monoxide (DLCO, %)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Respiratory functional exploration</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pH</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Arterial gasometry will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pH</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Arterial gasometry will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial oxygen partial pressure (PaO2, mmHg)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Arterial gasometry will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial oxygen partial pressure (PaO2, mmHg)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Arterial gasometry will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial carbon dioxide partial pressure (PaCO2, mmHg)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Arterial gasometry will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial carbon dioxide partial pressure (PaCO2, mmHg)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Arterial gasometry will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bicarbonate concentration (mmol/L)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Arterial gasometry will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bicarbonate concentration (mmol/L)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Arterial gasometry will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial oxygen saturation (SaO2, %)</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Arterial gasometry will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial oxygen saturation (SaO2, %)</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Arterial gasometry will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Six-minute walk test</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Six-minute walk test will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Six-minute walk test</measure>
+    <time_frame>3 months after hospital discharge</time_frame>
+    <description>Six-minute walk test will be performed under ambient air and under oxygen</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>Dyspnea</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who have been hospitalized for severe pneumonia due to SARS-CoV-2 infection will
+        be seen in consultation at approximately 3 and 6 months after hospital discharge, as per
+        standard practice.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:
+
+          -  Age ≥ 18 years old
+
+          -  SARS-CoV-2 infection proven by RT-PCR and/or retrospective serology and/or a COVID-19
+             syndrome with evocative chest CT scan
+
+          -  Hospitalized for severe pneumonia due to SARS-CoV-2 infection requiring oxygen supply
+
+        Exclusion criteria:
+
+          -  Not hospitalized for a severe COVID-19 infection
+
+          -  Absence of respiratory symptoms at V1 (3 months after hospital discharge), defined as:
+             absence of residual exertional dyspnea and persistent pulmonary infiltrates on
+             follow-up chest radiography at 1 month (if available), transcutaneous oxyhemoglobin
+             saturation &gt;94% and normal pulmonary auscultation
+
+          -  Patient with pre-existing chronic lung disease prior to the first episode of COVID-19:
+             chronic obstructive pulmonary disease confirmed by respiratory function testing with a
+             forced expiratory volume in one second (FEV1) &lt; 50% and/or a diffusing capacity for
+             carbon monoxide (DLCO) &lt; 60%, fibrotic lung disease or chronic respiratory failure (on
+             long-term oxygen therapy)
+
+          -  Opposition to participation in the study
+
+          -  Patient under legal protection
+
+          -  Patient not affiliated to/beneficiary of a social security scheme
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>George-Daniel Calcaianu, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>GHRMSA hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marie Diesel</last_name>
+    <phone>+33 3 89 64 84 28</phone>
+    <email>marie.diesel@ghrmsa.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier de Mulhouse et de la Région Sud-Alsace</name>
+      <address>
+        <city>Mulhouse</city>
+        <state>Alsace</state>
+        <zip>68100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>George-Daniel Calcaianu, MD</last_name>
+      <phone>+ 33 3 89 64 70 28</phone>
+      <email>george-daniel.calcaianu@ghrmsa.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Didier Debieuvre, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de la Côte Basque - Bayonne</name>
+      <address>
+        <city>Bayonne</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cécilia Nocent-Ejnaini, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Métropole Savoie</name>
+      <address>
+        <city>Chambéry</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johanna Claustre, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Colmar</name>
+      <address>
+        <city>Colmar</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean-Philippe Oster, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Douai</name>
+      <address>
+        <city>Douai</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stéphanie Romanet, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de Dunkerque</name>
+      <address>
+        <city>Dunkerque</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amélie Leurs, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Départemental Vendée - La Roche sur Yon</name>
+      <address>
+        <city>La Roche-sur-Yon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Acya Bizieux, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier du Mans</name>
+      <address>
+        <city>Le Mans</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>François Goupil, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Robert Boulin - Libourne</name>
+      <address>
+        <city>Libourne</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laurent Portel, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Annecy Genevois</name>
+      <address>
+        <city>Metz-Tessy</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stéphane Hominal, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Régional Metz-Thioville</name>
+      <address>
+        <city>Metz</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nadine Paillot, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Le Raincy Montfermeil</name>
+      <address>
+        <city>Montfermeil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cécile Carvallo, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Régional Orléans</name>
+      <address>
+        <city>Orléans</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hugues Morel, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de Soissons</name>
+      <address>
+        <city>Soissons</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marie-Germaine Legrand, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 10, 2020</study_first_posted>
+  <last_update_submitted>August 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <keyword>PNEUMOPATHY</keyword>
+  <keyword>DYSPNEA</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dyspnea</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

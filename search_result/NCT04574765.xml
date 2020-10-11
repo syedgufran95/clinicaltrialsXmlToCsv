@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3290">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04574765</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OZUHN-001</org_study_id>
+    <secondary_id>20-5289</secondary_id>
+    <nct_id>NCT04574765</nct_id>
+  </id_info>
+  <brief_title>A Research Platform to Screen Healthcare Workers</brief_title>
+  <acronym>RESPECT</acronym>
+  <official_title>A Research Platform to Screen and Protect Individuals That Work Within a Food Production, Healthcare, Research or Clinical Organization - RESPECT</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Health Network, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Health Network, Toronto</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Recent studies have shown that some individuals may be asymptomatic but continue to shed the
+      COVID-19 virus. These individuals may represent a population that can unknowingly transmit
+      the virus. Healthcare workers (HCW) may acquire COVID-19 from the community or from possibly
+      infected patients. It is important to gather data with respect to this to further understand
+      the prevalence of asymptomatic carriage in individuals who work in research facilities,
+      offices and clinical areas of hospitals and research facilities/institutes since this has
+      important implications for infection control, as well as staff and patient safety. The
+      purpose of this study is to test whether a proportion of these individuals may be
+      asymptomatic shedders of the COVID-19 virus.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Healthcare workers of participating institutions who agree to be participants will:
+
+        -  Fill out some information about participants into a database portal system. Participants
+           will have the ability to check their COVID-19 test results via the portal.
+
+        -  Have nasopharyngeal (NP) swabs done for COVID-19 testing. This can be done about once a
+           week for up to 8 weeks (about 1-8 swabs total).
+
+        -  Provide optional blood samples to look for COVID-19 specific antibodies and/or proteins
+           at the time of enrollment and after 8 weeks.
+
+        -  Fill out questionnaires about participant exposures and travel history, occupation
+           category, any symptoms in the past 21 days, whether they have provided any face-to-face
+           care of a known COVID-19 positive patients in past 14 days or if participants have any
+           children at home who are less than 12 years of age.
+
+        -  Fill out an optional questionnaire about their mental health
+
+        -  Be contacted by telephone if participants are tested positive, to determine whether
+           participants have symptoms of COVID-19, and for the results of any follow-up COVID-19
+           testing that may have been done.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 16, 2020</start_date>
+  <completion_date type="Anticipated">April 16, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 16, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of healthcare workers who are asymptomatic and COVID-19 positive</measure>
+    <time_frame>1 year</time_frame>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100000</enrollment>
+  <condition>Healthcare Worker</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Healthcare Worker</arm_group_label>
+    <description>Individuals who work within a food production, healthcare, research or clinical organization of participating institutions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Nasopharyngeal swab</intervention_name>
+    <description>Nasopharyngeal swab for COVID-19</description>
+    <arm_group_label>Healthcare Worker</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire collection</intervention_name>
+    <description>Fill out questionnaires regarding exposures and travel history, occupation category, any symptoms in the past 21 days, any face-to-face care of a known COVID-19 positive patients in past 14 days or any children at home who are less than 12 years of age.</description>
+    <arm_group_label>Healthcare Worker</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Optional blood completion</intervention_name>
+    <description>Provide blood samples to look for COVID-19 specific antibodies and/or proteins at the time of enrollment and after 8 weeks.</description>
+    <arm_group_label>Healthcare Worker</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Optional questionnaire completion</intervention_name>
+    <description>Fill out an optional mental health questionnaire.</description>
+    <arm_group_label>Healthcare Worker</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Nasopharyngeal swabs Optional blood samples
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Individuals who work within a food production, healthcare, research or clinical
+        organization.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Individuals who work within a food production, healthcare, research or clinical
+             organization.
+
+          -  Asymptomatic as per daily screening.
+
+          -  No contraindication to performing a NP swab.
+
+        Exclusion Criteria:
+
+          -  Any individual with fever, respiratory or flu-like symptoms will not be eligible.
+             Symptom positive individuals who were not picked up at entry screening will be
+             referred to their Occupational Health. Specific symptoms include:
+
+               -  Fever, chills or headache
+
+               -  New or worsening cough
+
+               -  Shortness of breath, difficulty breathing, sore throat or difficulty swallowing
+
+               -  Runny nose or stuffy nose without another cause (e.g. allergies)
+
+               -  Nausea/vomiting, diarrhea, stomach pain
+
+               -  Decrease/loss of taste or smell
+
+               -  Unexplained fatigue, malaise, muscle aches
+
+               -  Eye pain or pink eye In addition to those symptoms listed above, individuals
+                  should also be screened for symptoms as per their institutional requirements.
+
+          -  Enrolled in a COVID-related interventional study (eg. Behavioural or drug study).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amit M Oza, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Health Network, Toronto</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amit M Oza, MD</last_name>
+    <phone>416-946-2818</phone>
+    <email>amit.oza@uhn.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Health Network</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amit Oza, MD</last_name>
+      <phone>416-946-2818</phone>
+      <email>amit.oza@uhn.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Amit M Oza, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 5, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

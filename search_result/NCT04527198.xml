@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="425">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527198</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200644</org_study_id>
+    <secondary_id>2020-A01559-30</secondary_id>
+    <nct_id>NCT04527198</nct_id>
+  </id_info>
+  <brief_title>Brainstem Dysfunction in COVID-19 Critically Ill Patients: a Prospective Observational Study</brief_title>
+  <acronym>BRAINSTEM-COV</acronym>
+  <official_title>Brainstem Dysfunction in Ventilated and Deeply Sedated COVID-19 Critically Ill Patients: a Prospective Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the prevalence of brainstem dysfunction in
+      critically ill ventilated and deeply sedated patients hospitalized in the Intensive Care Unit
+      (ICU) for a SARS-CoV-s2 infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The recent development of the pandemic due to the SARS-CoV-2 virus has showed that a
+      substantial proportion of patients developed a severe condition requiring critical care,
+      notably because of acute respiratory distress syndrome requiring mechanical ventilation and
+      deep sedation. Outside of this coronavirus infection, this situation is classically
+      associated with a high prevalence of brainstem dysfunction, even in the absence of brain
+      injury. This dysfunction, either structural or functional, can be detected using appropriate
+      clinical tools such as the BRASS score and/or using the quantitative analysis of EKG and EEG.
+      Crucially, brainstem dysfunction is associated not only with ICU complications such as
+      delirium, but also with a poorer survival.
+
+      Moreover, some reports of encephalitis cases and the presence of anosmia/agueusia raised the
+      question of whether the virus could directly invade the central nervous system.
+
+      For these two reasons, it is reasonable to assume that brainstem dysfunction is particularly
+      prevalent in critically ill patients infected with SARS-CoV-2 and that this dysfunction could
+      be one of the major determinant of patients outcome.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brainstem dysfunction prevalence</measure>
+    <time_frame>At inclusion or in patients with neuromuscular blockade 12h-72h following neuromuscular blocking agent cessation</time_frame>
+    <description>Clinical cranial nerves anomalies using validated scale (BRASS score- ranges from 0 to 7 - ) in deeply sedated patient (RASS &lt;-3)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Brainstem dysfunction prevalence after sedation weaning</measure>
+    <time_frame>Day 4 to day 7 after sedation weaning</time_frame>
+    <description>Clinical cranial nerves anomalies using validated scale (BRASS score)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Link between brainstem dysfunction and clinical dysautonomia</measure>
+    <time_frame>At inclusion or in patients with neuromuscular blockade 12h-72h following neuromuscular blocking agent cessationn</time_frame>
+    <description>Analysis of the sympathico-parasympathetic ratio (using spectral analysis of the EKG signal) according to the presence or absence of brainstem dysfunction and its severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Link between brainstem dysfunction and clinical dysautonomia after sedation weaning</measure>
+    <time_frame>4 to 7 days after sedation weaning</time_frame>
+    <description>Analysis of the sympathico-parasympathetic ratio (using spectral analysis of the EKG signal) according to the presence or absence of brainstem dysfunction and its severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterization of brainstem dysfunction in COVID-19 patients: EEG power</measure>
+    <time_frame>At inclusion or in patients with neuromuscular blockade 12h-72h following neuromuscular blocking agent cessation</time_frame>
+    <description>EEG power in delta, theta, alpha, beta and gamma frequency bands according to the presence or absence of brainstem dysfunction and its severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterization of brainstem dysfunction in COVID-19 patients: EEG power after sedation weaning</measure>
+    <time_frame>Day 4 to day 7 after sedation weaning.</time_frame>
+    <description>EEG power in delta, theta, alpha, beta and gamma frequency bands according to the presence or absence of brainstem dysfunction and its severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterization of brainstem dysfunction in COVID-19 patients: EEG functional connectivity</measure>
+    <time_frame>At inclusion or in patients with neuromuscular blockade 12h-72h following neuromuscular blocking agent cessation</time_frame>
+    <description>EEG functional connectivity using weighted Symbolic Mutual Information and weighted Phase Lag Index according to the presence or absence of brainstem dysfunction and its severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterization of brainstem dysfunction in COVID-19 patients: EEG functional connectivity, after sedation weaning</measure>
+    <time_frame>Day 4 to day 7 after sedation weaning.</time_frame>
+    <description>EEG functional connectivity using weighted Symbolic Mutual Information and weighted Phase Lag Index according to the presence or absence of brainstem dysfunction and its severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterization of brainstem dysfunction in COVID-19 patients: EEG complexity</measure>
+    <time_frame>At inclusion or in patients with neuromuscular blockade 12h-72h following neuromuscular blocking agent cessation</time_frame>
+    <description>EEG complexity using Kolmogorov complexity and permutation entropy according to the presence or absence of brainstem dysfunction and its severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterization of brainstem dysfunction in COVID-19 patients: EEG complexity after sedation weaning</measure>
+    <time_frame>Day 4 to day 7 after sedation weaning.</time_frame>
+    <description>EEG complexity using Kolmogorov complexity and permutation entropy according to the presence or absence of brainstem dysfunction and its severity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterization of brainstem dysfunction in COVID-19 patients: multivariate classification</measure>
+    <time_frame>At inclusion or in patients with neuromuscular blockade 12h-72h following neuromuscular blocking agent cessation</time_frame>
+    <description>Multivariate classification of the presence or absence of brainstem dysfunction using support vector machine and extra-trees algorithm based on the EEG derived quantitative features presented above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Characterization of brainstem dysfunction in COVID-19 patients: multivariate classification after sedation weaning</measure>
+    <time_frame>Day 4 to day 7 after sedation weaning.</time_frame>
+    <description>Multivariate classification of the presence or absence of brainstem dysfunction using support vector machine and extra-trees algorithm based on the EEG derived quantitative features presented above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>at ICU discharge up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>at ICU discharge up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalisation</measure>
+    <time_frame>at hospital discharge up to 90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of coma, disturbance of consciousness, delirium</measure>
+    <time_frame>at ICU discharge up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurological functional evolution with mRankin</measure>
+    <time_frame>90 days after inclusion</time_frame>
+    <description>Using validated functional scale modified Rankin (mRankin) for independence assessment (mRankin ranges from 0 to 6 with higher scores indicating more severe disability)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurological functional evolution with GOSE</measure>
+    <time_frame>90 days after inclusion</time_frame>
+    <description>Using validated functional scale Glasgow Outcome Scale Extended (GOSE) for independence assessment (GOSE ranges from 1 to 8 with higher scores indicating less severe disability outcome)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Major patients, admitted in intensive care for a SARS-CoV-2 infection and requiring mechanical ventilation and deep sedation (with or without neuromuscular blockade)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Brainstem Responses Assessment Sedation Score (BRASS)</intervention_name>
+    <description>It consists of a standardized evaluation of brainstem reflexes with a score of 1 attributed for absence of pupillary light reflex, cough reflex and the combined absence of grimace and oculocephalic reflex, a score of 2 for absent corneal reflex and a score of 3 for absent grimace in the presence of oculocephalic The resulting sum ranges from 0 to 7.
+It will be performed at two times points: a first time under sedation and a second time 3 to 5 days after sedation weaning.</description>
+    <arm_group_label>group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Electroencephalogram with EKG lead</intervention_name>
+    <description>A 20 minutes clinical (12 electrodes) EEG with an EKG lead will be performed a first time under sedation and a second time 3 to 5 days after sedation weaning.
+These EEG recordings will allow to measure the sympathic-parasympathetic ratio using spectral analysis of the EKG and also to measure quantitative markers of brain EEG activity (spectral power and connectivity in delta, theta, alpha, beta and gamma band; complexity).</description>
+    <arm_group_label>group 1</arm_group_label>
+    <other_name>EEG</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  ICU hospitalization
+
+          -  Invasive mechanical ventilation
+
+          -  Deep sedation (RASS&lt;-3) &gt;12 hours
+
+          -  Positive SARS-COV-2 PCR
+
+        Exclusion Criteria:
+
+          -  History of neurologic disease (stroke, degenerative disease)
+
+          -  Pregnant women
+
+          -  Moribund patients
+
+          -  Minor patient
+
+          -  Major patient under guardianship or curatorship
+
+          -  Prior inclusion in the study
+
+          -  Patient not affiliated to a social security scheme
+
+          -  Limitations and cessation of active therapies
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bertrand HERMANN, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bertrand HERMANN, MD, PhD</last_name>
+    <phone>+33 1 56 09 32 15</phone>
+    <email>bertrand.hermann@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Adèle BELLINO</last_name>
+    <phone>+33 1 58 41 11 95</phone>
+    <email>adele.bellino@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hôpital Cochin</name>
+      <address>
+        <city>Paris</city>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sarah BENGHANEM, MD</last_name>
+      <email>sarah.benghanem@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>HEGP</name>
+      <address>
+        <city>Paris</city>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bertrand HERMANN, MD,PhD</last_name>
+      <phone>+33156093215</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>Rohaut B, Porcher R, Hissem T, Heming N, Chillet P, Djedaini K, Moneger G, Kandelman S, Allary J, Cariou A, Sonneville R, Polito A, Antona M, Azabou E, Annane D, Siami S, Chrétien F, Mantz J, Sharshar T; Groupe d'Exploration Neurologique en Réanimation (GENER). Brainstem response patterns in deeply-sedated critically-ill patients predict 28-day mortality. PLoS One. 2017 Apr 25;12(4):e0176012. doi: 10.1371/journal.pone.0176012. eCollection 2017.</citation>
+    <PMID>28441453</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>June 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>September 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Brainstem dysfunction</keyword>
+  <keyword>Delirium</keyword>
+  <keyword>Awareness</keyword>
+  <keyword>Arousal</keyword>
+  <keyword>Dysautonomia</keyword>
+  <keyword>Autonomic system</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>sedation</keyword>
+  <keyword>mechanical ventilation</keyword>
+  <keyword>EEG</keyword>
+  <keyword>EKG</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Critical Illness</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

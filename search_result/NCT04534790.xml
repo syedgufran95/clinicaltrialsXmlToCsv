@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1112">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04534790</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PI-2020-2858</org_study_id>
+    <nct_id>NCT04534790</nct_id>
+  </id_info>
+  <brief_title>Anti-inflammatory Effect of Low-Dose Whole-Lung Radiation for COVID-19 Pneumonia</brief_title>
+  <official_title>Randomized Trial, Anti-inflammatory Effect of Low-Dose Whole-Lung Radiation for COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto Mexicano del Seguro Social</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instituto Mexicano del Seguro Social</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There are several clinical studies that mention the benefits of treatment with low-dose
+      radiation therapy to patients with COVID 19, so this study protocol will be started to
+      determine if there is clinical improvement with treatment and low-dose radiation therapy. to
+      all the lung.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Until now, multiple studies with antibiotics and monoclonal antibodies have been used to try
+      to stop this infection, however, the studies have not been conclusive about the real benefit
+      of these drugs, so the search for other alternatives has been an obligation for doctors in
+      all the world. For this reason, it was proposed to carry out a treatment with radiotherapy to
+      the lung based on studies published in the middle of the last century.
+
+      In the studies where radiation therapy was given to the lung in cases of infections in the
+      1930s and 1940s, the most important and with the largest number of patients are the studies
+      by Powel, Scott, Rosseasuy and Openheimer, where together they were treated 594 patients with
+      viral and bacterial infections, obtaining a cure in a total of 524 patients, that is, an 88%
+      chance of cure with this treatment in an average of 7 days.
+
+      Treatment with low doses of total lung radiotherapy has not only been used in the treatment
+      of pneumonia in 1930-1940, it has also been used recently in other pathologies such as
+      metaplasia with myeloid myelofibrosis, where they are treated with 1 Gy to both lungs and
+      there is a significant improvement in hypoxia, as well as edema within the first 72 hrs.
+      without presenting side effects due to the treatment at low doses of radiotherapy, control
+      studies were also carried out where it was shown that the low dose of Lung radiotherapy is
+      safe and effective, these studies show that low doses of radiotherapy are safe for patients
+      since it does not generate serious side effects that put the patient's health at risk.
+
+      These results are similar to the results obtained in one of the few studies of low-dose total
+      lung radiotherapy in patients with COVID-19, which was performed at Emory University Hospital
+      in Atlanta, where 5 patients with pneumonia, positive for COVID 19 that required supplemental
+      oxygen to which they were given a treatment with radiotherapy 1.5 Gy single dose, at 24 hrs.,
+      4 of the patients rapidly improved clinically, recovering in an average of 1.5 days (range 3
+      to 96 hrs.). Subsequent imaging and laboratory studies confirmed that low doses of radiation
+      therapy are effective and safe in reducing the symptoms produced by COVID 19.
+
+      Recently at the University of Teran in Israel the results of their study were also published,
+      which recruited 5 patients with COVID 19 pneumonia who were oxygen dependent. In this study,
+      a single dose of 0.5 Gy was given, reporting an improvement in 80% of patients and they were
+      discharged from 3 to 7 days.
+
+      For which this study was carried out with the objective of determine the anti-inflammatory
+      effect of low-dose total lung radiation therapy in patients with respiratory distress
+      syndrome secondary to covid-19 infection.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 24, 2020</start_date>
+  <completion_date type="Anticipated">April 5, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical improvement</measure>
+    <time_frame>7 days</time_frame>
+    <description>improvement of oxygen saturation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>improvement of laboratory and imaging parameters</measure>
+    <time_frame>7 -14 days</time_frame>
+    <description>improvement in acute phase reactants and simple tomography</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Not radiotherapy</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>control group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Radiotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>patientis with treatment with radiotherapy 1 Gy to Whole lung.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Low Dose Radiotherapy</intervention_name>
+    <description>anti-inflammatory effect with low-dose radiation to the lungs</description>
+    <arm_group_label>Radiotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Both sexes
+
+          2. Age &gt; 18 years
+
+          3. Laboratory confirmation of SARS-CoV-2 infection
+
+          4. Acute Respiratory Distress Syndrome in any degree with a hospital treatment
+             requirement.
+
+        Exclusion Criteria:
+
+          1. Patients who do not agree to receive the treatment
+
+          2. Sepsis data
+
+          3. Hemodynamic instability
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Social Secure Mexican Institute</name>
+      <address>
+        <city>Leon</city>
+        <state>Guanajuato</state>
+        <zip>37160</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alejandro Olmos Guzman, MD</last_name>
+      <phone>5531075073</phone>
+      <email>alex_olmos13@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>August 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Instituto Mexicano del Seguro Social</investigator_affiliation>
+    <investigator_full_name>Alejandro Olmos Guzmán</investigator_full_name>
+    <investigator_title>Principal Investigator, MD,</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

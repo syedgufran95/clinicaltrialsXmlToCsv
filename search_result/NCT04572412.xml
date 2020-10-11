@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="64">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04572412</url>
+  </required_header>
+  <id_info>
+    <org_study_id>285167</org_study_id>
+    <nct_id>NCT04572412</nct_id>
+  </id_info>
+  <brief_title>Low Dose Lung Radiotherapy to Treat COVID-19 Pneumonia</brief_title>
+  <official_title>Low Dose Lung Radiotherapy to Treat COVID-19 Pneumonia (a Phase I Feasibility Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lancashire Teaching Hospitals NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NIHR Lancashire Clinical Research Facility</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Lancashire Teaching Hospitals NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to document the feasibility and tolerability of low dose
+      thoracic radiotherapy in patients with WHO level 5 COVID 19 infections.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects will be identified following admission to hospital who test positive for COVID-19
+      infection. They will then be informed and consented, and eligibility confirmed and registered
+      to study. Following this the first, sentinel patient, will be treated with 0.5Gy dose
+      radiotherapy to cover the lungs, with heterogeneity correction. A further 0.5Gy dose can be
+      repeated within 96 hours. There shall then be a 7 day gap prior to recruiting patient 2. The
+      remaining patients will be recruited, treated and observed in cohorts of 3.
+
+      The patients shall then be followed up at 48 hours post Radiotherapy, 7 days post
+      radiotherapy and 29 days post radiotherapy. With assessment of Physiological parameters,
+      survival status, laboratory testing and imaging performed on follow up at 7 and 29 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of Recruitment</measure>
+    <time_frame>6 months</time_frame>
+    <description>Feasibility to recruit to the study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability of Low dose Radiotherapy</measure>
+    <time_frame>48 hours</time_frame>
+    <description>Proportion of patients with no decline in PaO2/FiO2 ratio (P/F Ratio) at 48 hours after each fraction of radiotherapy</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Withdrawal</measure>
+    <time_frame>6 months</time_frame>
+    <description>The number of patients who withdraw from the study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>1 month</time_frame>
+    <description>The number of Grade 4 or higher CTCAE v5 (apart from asymptomatic lymphopenia) adverse events reported</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility of biochemical analysis</measure>
+    <time_frame>1 week</time_frame>
+    <description>Ability to perform lymphocyte subset, IL-6, and IL-10 analysis at baseline and 7 days post last fraction of radiotherapy</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">13</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Low Dose Radiotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low Dose Radiotherapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Low dose Radiotherapy</intervention_name>
+    <description>External Beam irradiation, single fraction of 0.5Gy, to be delivered within 48 hours of enrolment to study. With field to cover as close to lung edges as AP/PA technique allows.
+A further 0.5GY to the thorax given up to 96 hours apart from first fraction is permitted, if a patient had either (a) responded to the first dose but then deteriorated, however remaining better than baseline level or (b) stabilized after first dose but not fully improved.</description>
+    <arm_group_label>Low Dose Radiotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥ 50 years.
+
+          -  Patients have symptoms of COVID-19 infection as per WHO guidelines (e.g. cough, fever,
+             dyspnea, etc.) for under 5 days from hospital admission.
+
+          -  Patients are hospitalized and meet the criteria for WHO level 5 COVID pneumonia. In
+             addition:
+
+          -  SpO2 &lt;94% on Room Air;
+
+          -  Respiratory rate &gt;20 Breaths per minute on Room Air.
+
+          -  Laboratory confirmed COVID-19 infection based on PCR.
+
+          -  Patients need ward-based oxygen between 28 to 40%.
+
+          -  Patients able to provide witnessed verbal informed consent.
+
+          -  Patient is free of other severe medical conditions that would preclude radiotherapy
+             treatment (e.g. severe recent CVA).
+
+        Exclusion Criteria:
+
+          -  Pregnant or lactating women.
+
+          -  Presence of secondary infection with procalcitonin assessment at baseline.
+
+          -  Patient is generating aerosols e.g. use of CPAP device.
+
+          -  Hereditary syndromes known to have increase sensitivity to Radiotherapy including, but
+             not limited to, ataxia-telangiectasia, and Njemgen Breakage Syndrome.
+
+          -  History of prior thoracic radiotherapy.
+
+          -  Inability to undergo radiotherapy for any reason as determined by the treating medical
+             team.
+
+          -  Alternative diagnosis for lung compromise unrelated to COVID-19 / deemed more likely
+             than COVID-19 related lung compromise.
+
+          -  Inability to consent directly.
+
+          -  If patient has participated in any other COVID-19 therapy study within the last month
+             (4 weeks).
+
+          -  Pre-existing generalized pulmonary fibrosis.
+
+          -  Known prior systemic use of the following drugs within the last 6 months: Bleomycin,
+             Carmustine, Methotrexate, Busulfan, Cyclophosphamide, or Amiodarone.
+
+          -  History of lung lobectomy or pneumonectomy.
+
+          -  Known history of pulmonary sarcoidosis, Wegener's Granulomatosis, Systemic Lupus
+             Erythematosus, or other autoimmune disease affecting lungs.
+
+          -  Symptomatic congestive heart failure within the past 6 months including during
+             hospitalization.
+
+          -  History of recent or current malignancy receiving any cytotoxic chemotherapy or
+             immunotherapy within the past 6 months.
+
+          -  Bone marrow transplantation.
+
+          -  Latent tuberculosis.
+
+          -  Any solid organ transplant (renal, cardiac, liver, lung) requiring immunosuppressive
+             therapy.
+
+          -  Septic shock and organ dysfunction.
+
+          -  Severe ARDS P/F ratio ≤100mmHg.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dennis Hadjiyiannakis</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>LTHTR</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Aashish Vyas</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>LTHTR</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dennis Hadjiyiannakis</last_name>
+    <phone>(+44) 01772 528272</phone>
+    <email>research.access@lthtr.nhs.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Lancashire Teaching Hospitals NHS</name>
+      <address>
+        <city>Preston</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Research Access</last_name>
+      <phone>(+44) 01772 528272</phone>
+      <email>research.access@lthtr.nhs.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>https://www.medrxiv.org/content/10.1101/2020.06.03.20116988v1</url>
+    <description>Low-Dose Whole-Lung Radiation for COVID-19 Pneumonia: Planned Day-7 Interim Analysis of a Registered Clinical Trial</description>
+  </link>
+  <reference>
+    <citation>Calabrese EJ, Dhawan G. How radiotherapy was historically used to treat pneumonia: could it be useful today? Yale J Biol Med. 2013 Dec 13;86(4):555-70.</citation>
+    <PMID>24348219</PMID>
+  </reference>
+  <reference>
+    <citation>Lara PC, Burgos J, Macias D. Low dose lung radiotherapy for COVID-19 pneumonia. The rationale for a cost-effective anti-inflammatory treatment. Clin Transl Radiat Oncol. 2020 Apr 25;23:27-29. doi: 10.1016/j.ctro.2020.04.006. eCollection 2020 Jul.</citation>
+    <PMID>32373721</PMID>
+  </reference>
+  <reference>
+    <citation>Hadjiyiannakis D, Dimitroyannis D, Eastlake L, Peedell C, Tripathi L, Simcock R, Vyas A, Deutsch E, Chalmers AJ. Personal View: Low-Dose Lung Radiotherapy Should be Evaluated as a Treatment for Severe COVID-19 Lung Disease. Clin Oncol (R Coll Radiol). 2020 Aug 14. pii: S0936-6555(20)30321-6. doi: 10.1016/j.clon.2020.08.003. [Epub ahead of print]</citation>
+    <PMID>32829986</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 1, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>All data will be kept anonymized and confidential. Data will be held securely for 15 years pending further study.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

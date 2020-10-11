@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1412">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04575584</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4482-001</org_study_id>
+    <secondary_id>2020-003367-26</secondary_id>
+    <secondary_id>MK-4482-001</secondary_id>
+    <nct_id>NCT04575584</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Molnupiravir (MK-4482) in Hospitalized Adult Participants With COVID-19 (MK-4482-001)</brief_title>
+  <official_title>A Phase 2/3, Randomized, Placebo-Controlled, Double-Blind Clinical Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of MK-4482 in Hospitalized Adults With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the safety, tolerability and efficacy of molnupiravir (MK-4482)
+      compared to placebo. The primary hypothesis is that molnupiravir is superior to placebo as
+      assessed by the rate of sustained recovery through Day 29.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 19, 2020</start_date>
+  <completion_date type="Anticipated">October 18, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 15, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time-to-sustained recovery</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Sustained recovery is defined as: the participant is alive and not hospitalized; or the participant is alive and medically ready for discharge as determined by the investigator.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with an adverse event (AE)</measure>
+    <time_frame>Up to 19 days</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants who discontinued study intervention due to an AE</measure>
+    <time_frame>Up to 6 days</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants with all-cause mortality</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>All-cause mortality is death due to any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary score on a scale</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Pulmonary score is a score on an ordinal scale which focuses on respiratory sequalae based on oxygen requirements using 7 mutually exclusive categories. The score ranges from 1 to 7 with a higher score indicating more severe respiratory sequalae.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary+ score on a scale</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Pulmonary+ score is a score on an ordinal scale which is a 7-category assessment that captures the range of disease severity, including coagulation-related complications and respiratory dysfunction. The score ranges from 1 to 7 with a higher score indicating more severe sequalae.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>National Early Warning Score on a scale</measure>
+    <time_frame>End of Treatment (EOT) (Up to 6 days)</time_frame>
+    <description>The National Early Warning Score assesses a participant's degree of illness as assessed by clinical risk prediction categories for poor clinical outcomes including mortality within 24 hours of a set of vital sign measurements. There are 7 physiological parameters, of which 6 are assigned a point value ranging from 0 to 3, and 1 is assigned a point value ranging from 0 to 2. The total aggregate score may range from 0 to 20 with an increasing aggregate score indicating increasing clinical risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WHO 11-point outcomes score on a scale</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>The World Health Organization (WHO) outcome scale is an 11-point ordinal score that categorizes clinical progression. Score ranges from 0 to 10 with higher score indicating clinical progression.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">1300</enrollment>
+  <condition>Coronavirus Disease (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Part 1: Molnupiravir 200 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>200 mg molnupiravir administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Molnupiravir 400 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>400 mg molnupiravir administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Molnupiravir 800 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>800 mg molnupiravir administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo matching molnupiravir administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Molnupiravir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Molnupiravir (dose to be selected) administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo matching molnupiravir administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Molnupiravir</intervention_name>
+    <description>Molnupiravir administered orally in capsule form every 12 hours for 5 days (10 doses total)</description>
+    <arm_group_label>Part 1: Molnupiravir 200 mg</arm_group_label>
+    <arm_group_label>Part 1: Molnupiravir 400 mg</arm_group_label>
+    <arm_group_label>Part 1: Molnupiravir 800 mg</arm_group_label>
+    <arm_group_label>Part 2: Molnupiravir</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo matching molnupiravir administered orally in capsule form every 12 hours for 5 days (10 doses total)</description>
+    <arm_group_label>Part 1: Placebo</arm_group_label>
+    <arm_group_label>Part 2: Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Has documentation of polymerase chain reaction (PCR)-confirmed severe acute
+             respiratory syndrome coronavirus 2 (SARS-CoV-2) infection with sample collection ≤ 10
+             days prior to randomization. PCR is the preferred method; however other diagnostic
+             methods are allowed if authorized by use in the country.
+
+          -  Had initial onset of signs/symptoms attributable to COVID-19 for ≤10 days prior to
+             randomization and ≥1 sign/symptom attributable to COVID-19 present at randomization.
+
+          -  Requires medical care in the hospital for ongoing clinical manifestations of COVID-19
+             (not just for public health or quarantine purposes).
+
+          -  Is willing and able to take oral medication.
+
+          -  Males agree to the following during the intervention period and for at least 90 days
+             after the last dose of study intervention: Refrain from donating sperm; and either
+             abstain from heterosexual intercourse as their preferred and usual lifestyle
+             (abstinent on a long term and persistent basis) and agree to remain abstinent; or must
+             agree to use contraception.
+
+          -  Females are not pregnant or breastfeeding, and at least one of the following
+             conditions applies: Is not a woman of child bearing potential (WOCBP); or is a WOCBP
+             and using a contraceptive method that is highly effective (a low user dependency
+             method OR a user dependent method in combination with barrier method), or be abstinent
+             from heterosexual intercourse as their preferred and usual lifestyle (abstinent on a
+             long-term and persistent basis) during the intervention period and for at least 7
+             months after the last dose of study intervention; a WOCBP must have a negative highly
+             sensitive pregnancy test (serum test is required) within 24 hours before the first
+             dose of study intervention.
+
+        Exclusion Criteria:
+
+          -  Has critical COVID-19 with any of the following: respiratory failure (including
+             endotracheal intubation and mechanical ventilation, oxygen delivered by high-flow
+             nasal cannula (flow rates &gt;20L/min with fraction of delivered oxygen &gt;= 0.5),
+             noninvasive positive pressure ventilation, or extracorporeal membrane oxygenation
+             (ECMO))
+
+          -  Is on dialysis or has reduced estimated glomerular filtration rate (eGFR) &lt;30
+             mL/min/1.73m^2 by the Modification of Diet in Renal Disease (MDRD) equation
+
+          -  Has any of the following conditions: human immunodeficiency virus (HIV) with a recent
+             viral load &gt;50 copies/mL or cluster of differentiation 4 (CD4) &lt;200 cell/mm^3;
+             chemotherapy required within 6 weeks before randomization; a neutrophilic granulocyte
+             absolute count &lt;500/mm^3; autologous or allogeneic hematopoietic stem cell transplant
+             recipient
+
+          -  Has an active diagnosis of hepatitis due to any cause
+
+          -  Has a history of acute pancreatitis within 3 months prior to randomization or a
+             history of chronic pancreatitis
+
+          -  Is taking or is anticipated to require any prohibited therapies
+
+          -  Is unwilling to abstain from participating in another interventional clinical trial
+             through Day 29 with an investigational compound or device, including those for
+             COVID-19 therapeutics
+
+          -  Is anticipated to require transfer to a non-study hospital within 72 hours
+
+          -  Has a baseline heart rate of &lt; 50 beats per minute at rest
+
+          -  Has a platelet count &lt;100,000/μL or received a platelet transfusion in the 5 days
+             prior to randomization.
+
+          -  Has hypersensitivity or other contraindication to any of the components of the study
+             interventions as determined by the investigator
+
+          -  Has any condition for which, in the opinion of the investigator, participation would
+             not be in the best interest of the participant or that could prevent, limit, or
+             confound the protocol-specified assessments including but not limited to: participants
+             who are not expected to survive longer than 48 hours after randomization, participants
+             who are expected to require mechanical ventilation within 48 hours after
+             randomization, or participants with a recent history of mechanical ventilation not
+             associated with COVID-19, or participants with conditions that could limit
+             gastrointestinal absorption of capsule contents.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 5, 2020</study_first_posted>
+  <last_update_submitted>October 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

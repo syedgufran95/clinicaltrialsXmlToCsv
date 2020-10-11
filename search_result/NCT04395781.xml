@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1546">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04395781</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/2094</org_study_id>
+    <nct_id>NCT04395781</nct_id>
+  </id_info>
+  <brief_title>Pediatric Acute and Critical Care COVID-19 Registry of Asia</brief_title>
+  <acronym>PACCOVRA</acronym>
+  <official_title>Pediatric Acute and Critical Care COVID-19 Registry of Asia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>KK Women's and Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>King Chulalongkorn Memorial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ramathibodi Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Postgraduate Institute of Medical Education and Research, Chandigarh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rumah Sakit Anak dan Bunda Harapan Kita</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National University Hospital, Singapore</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>St. Marianna University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tokyo Metropolitan Children's Medical Center, Japan</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Aichi Children's Health and Medical Center, Japan</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>General Hospital H. Adam Malik</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Children's Hospital of Chongqing Medical University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Zhengzhou Children's Hospital, China</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universiti Kebangsaan Malaysia Medical Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Penang Hospital, Malaysia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Vicente Sotto Memorial Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hyogo Prefectural Kobe Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Singapore Clinical Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>KK Women's and Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In December 2019, an outbreak of pneumonia of unknown aetiology was first reported in the
+      city of Wuhan, Hubei Province, People's Republic of China. Since then, a novel coronavirus,
+      2019 novel Coronavirus (2019-nCoV) has emerged as the most likely causative agent. To date,
+      it has evolved into a pandemic involving over a million cases and thousands of deaths have
+      been identified, including a high burden in countries like Italy, Spain, United Kingdom and
+      the United States. This study aims to investigate the clinical epidemiology of 2019-novel
+      coronavirus (2019-nCoV) pandemic in Asia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A retrospective/prospective outbreak study of all suspect cases admitted to hospital since
+      the beginning of the pandemic (December 2019). Clinical and epidemiological information will
+      be extracted from medical databases for analysis.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 18, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>60 Days</target_duration>
+  <primary_outcome>
+    <measure>Overall severity of illness</measure>
+    <time_frame>60days (or duration of hospital stay)</time_frame>
+    <description>Mild, moderate, severe, critical</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory complications</measure>
+    <time_frame>60days (or duration of hospital stay)</time_frame>
+    <description>e.g. URTI, bronchiolitis, pneumonia, pneumothorax, effusion, pneumonitis, ARDS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory support</measure>
+    <time_frame>60days (or duration of hospital stay)</time_frame>
+    <description>e.g. oxygen, HFNC, NIV, mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Other systems complications</measure>
+    <time_frame>60days (or duration of hospital stay)</time_frame>
+    <description>e.g. cardiovascular, renal, hepatic, neurological, haematological dysfunction</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>60days (or duration of hospital stay)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>60days (or duration of hospital stay)</time_frame>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>COVID</condition>
+  <condition>Pediatric Disorder</condition>
+  <arm_group>
+    <arm_group_label>Control cases</arm_group_label>
+    <description>Children who suspected COVID-19 cases but tested negative for COVID-19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Confirmed cases</arm_group_label>
+    <description>Children who tested positive for COVID-19</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood Respiratory fluid Stool
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All children presenting to acute care hospitals within the PACCMAN collaborative sites.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  COVID-19 suspected cases (by whatever definition)
+
+          -  COVID-19 confirmed cases (based on PCR or serum specific IgM and IgG antibody of novel
+             coronavirus; serum specific IgG of novel coronavirus from negative to positive or 4
+             times higher in convalescence than in acute phase)
+
+          -  &lt;/=21years of age
+
+        Exclusion Criteria:
+
+          -  COVID-19 suspected cases should not be SARSCoV-2
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Judith Ju Ming Wong</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>KK Women's and Children's Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Judith Ju Ming Wong</last_name>
+    <phone>+6592355980</phone>
+    <email>judith.wong.jm@singhealth.com.sg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cecilia Chandra</last_name>
+    <phone>63941616</phone>
+    <email>cecilia.a.chandra@kkh.com.sg</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Chongqing Hospital Children's Medical Center</name>
+      <address>
+        <city>Chongqing</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Hongxing Dang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zhengzhou Children's hospital</name>
+      <address>
+        <city>Zhengzhou</city>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yibing Cheng</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Post Graduate Institute of Medical Education and Research</name>
+      <address>
+        <city>Chandigarh</city>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Muralidharan Jayashree</last_name>
+      <email>mjshree@hotmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital H. Adam Malik</name>
+      <address>
+        <city>Medan</city>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ririe Malisie</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Murni Teguh Memorial Hospital</name>
+      <address>
+        <city>Medan</city>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ririe Malisie</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Marianna University School of Medicine</name>
+      <address>
+        <city>Kanagawa</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naoki Shimizu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universiti Kebangsaan Malaysia Medical Centre</name>
+      <address>
+        <city>Bandar Tun Razak</city>
+        <state>Kuala Lumpur</state>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chian Wern Tai</last_name>
+      <email>chianwern@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pei Chuen Lee</last_name>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Enche' Besar Hajjah Khalsom</name>
+      <address>
+        <city>Kluang</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Boon Siew Ooi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Malaya Medical Centre</name>
+      <address>
+        <city>Kuala Lumpur</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chin Seng Gan</last_name>
+      <email>csgan@ummc.edu.my</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Penang General Hospital</name>
+      <address>
+        <city>Pulau Pinang</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kah Min Pon</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Tuanku Ja'afar, Seremban, Malaysia</name>
+      <address>
+        <city>Seremban</city>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Chun Er Ng</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aga Khan University Hospital</name>
+      <address>
+        <city>Karachi</city>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Qalab Abbas</last_name>
+      <email>qalababbas@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>KK Women's and Children's Hospital</name>
+      <address>
+        <city>Singapore</city>
+        <zip>229899</zip>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judith Wong, MBBCh BAO</last_name>
+      <phone>+6592355980</phone>
+      <email>judith.wong.jm@singhealth.com.sg</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National University Hospital, Singapore</name>
+      <address>
+        <city>Singapore</city>
+        <country>Singapore</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jacqueline Soo May Ong</last_name>
+      <email>jacqueline_ong@nuhs.edu.sg</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+    <country>India</country>
+    <country>Indonesia</country>
+    <country>Japan</country>
+    <country>Malaysia</country>
+    <country>Pakistan</country>
+    <country>Singapore</country>
+  </location_countries>
+  <verification_date>May 2020</verification_date>
+  <study_first_submitted>May 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 20, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

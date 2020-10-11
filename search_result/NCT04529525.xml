@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="644">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04529525</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IVERCORCOVID19MSPICC</org_study_id>
+    <nct_id>NCT04529525</nct_id>
+  </id_info>
+  <brief_title>Ivermectin to Prevent Hospitalizations in COVID-19</brief_title>
+  <acronym>IVERCORCOVID19</acronym>
+  <official_title>Ivermectin to Prevent Hospitalizations in COVID-19: Randomized, Double-blind, Placebo-controlled</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto de Cardiología de Corrientes</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instituto de Cardiología de Corrientes</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It is a single-center, prospective, randomized, double-blind, placebo-controlled study
+      carried out by the Ministry of Public Health of the Province of Corrientes, Argentina, in
+      coordination with the Corrientes Institute of Cardiology &quot;Juana F. Cabral&quot;. Patients who meet
+      all the inclusion criteria and none of the exclusion criteria are randomized via the web
+      system to receive placebo or ivermectin. The need for hospitalization in patients with
+      COVID-19 is assessed as the primary end point. As secondary end points are evaluated: time to
+      hospitalization (in days); use of invasive mechanical ventilation; time to invasive
+      mechanical ventilation (in days); dialysis; all-cause mortality; negative of the swab at 3 ±
+      1 days and 12 ± 2 days after entering the study and ivermectin safety.
+
+      Intermediate internal analyzes of study objectives and serious adverse events will be
+      performed, including 125; 250 and 375 patients in order to assess the possible need for early
+      termination of the study. For these intermediate internal analyzes, the Haybittle-Peto rule
+      will be followed, therefore a value of p &lt;0.001 will be considered significant
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will be carried out in the province of Corrientes, in the Argentine Republic. All
+      patients must be domiciled in this province. In the province of Corrientes, the care of
+      patients with COVID19 is in charge of a single group of professionals (Crisis Committee) and
+      patients who require hospitalization will be carried out in a single hospital destined for
+      this purpose
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 19, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Hospitalization of medical cause in patients with COVID-19 in each arm</measure>
+    <time_frame>through study completion, an average of 30 days</time_frame>
+    <description>Hospitalization will be considered when at least 24 hours have elapsed in a health institution, in any of its services.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to hospitalization</measure>
+    <time_frame>through study completion, an average of 30 days</time_frame>
+    <description>Number of days elapsed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Use of invasive mechanical ventilation support in each arm</measure>
+    <time_frame>through study completion, an average of 30 days</time_frame>
+    <description>All patients who are connected to invasive mechanical ventilation support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to invasive mechanical ventilation support</measure>
+    <time_frame>through study completion, an average of 30 days</time_frame>
+    <description>Number of days elapsed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of dialysis in each arm</measure>
+    <time_frame>through study completion, an average of 30 days</time_frame>
+    <description>All patients who require temporary or permanent renal replacement therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>through study completion, an average of 30 days</time_frame>
+    <description>Death of the patient, from any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Negative of the swab at 3±1 days and 12±2 days after entering the study</measure>
+    <time_frame>At days 3±1 and 12±2</time_frame>
+    <description>Negative Nasal Swab Using Polymerase Chain Reaction Technique</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events [Safety and Tolerability])</measure>
+    <time_frame>through study completion, an average of 30 days</time_frame>
+    <description>According to the adverse events that patients may present.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Ivermectin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The dose of ivermectin in patients who are randomized to the active substance depends on the weight of the patient:
+More than 48 kg and less than 80 kg: Two tablets of 6 mg each (12 mg in total) at the time of inclusion and the same dose at 24 hours.
+More than 80 kg and less than 110 kg: Three tablets of 6 mg each (18 mg in total) at the time of inclusion and the same dose at 24 hours.
+More than 110 Kg: Four tablets of 6 mg each (24 mg in total) at the time of inclusion and the same dose at 24 hours.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The dose of placebo in patients who are randomized to the this depends on the weight of the patient:
+More than 48 kg and less than 80 kg: Two tablets of 6 mg each (12 mg in total) at the time of inclusion and the same dose at 24 hours.
+More than 80 kg and less than 110 kg: Three tablets of 6 mg each (18 mg in total) at the time of inclusion and the same dose at 24 hours.
+More than 110 Kg: Four tablets of 6 mg each (24 mg in total) at the time of inclusion and the same dose at 24 hours.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin</intervention_name>
+    <description>Patients will receive the tablet from the branch to which they were randomized only at the time of inclusion and 24 hours after the first dose.</description>
+    <arm_group_label>Ivermectin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Patients will receive the tablet from the branch to which they were randomized only at the time of inclusion and 24 hours after the first dose.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Over 18 years of age who reside in the province of Corrientes at the time of
+             diagnosis;
+
+          -  Confirmed diagnosis of COVID-19 by polymerase chain reaction test for detection of
+             SARS-CoV2 in the last 48 hours;
+
+          -  In the case of women of childbearing age, they must be using a contraceptive method of
+             proven efficacy and safety (barrier, hormonal or permanent contraceptives) for at
+             least 3 months prior to inclusion in the present study and for the entire period of
+             time for the duration of the study and until at least 30 days after the end of this
+             study. A woman will be considered to have no reproductive capacity if she is
+             postmenopausal (at least 2 years without her menstrual cycles) or if she has undergone
+             surgical sterilization (at least one month before the time of inviting her to
+             participate in this study);
+
+          -  Weight at the time of inclusion greater than 48,000 kilograms;
+
+          -  That they sign the informed consent for participation in the study.
+
+        Exclusion Criteria:
+
+          -  Pregnant or breastfeeding women;
+
+          -  Known allergy to ivermectin or some of the components of ivermectin tablets or
+             placebo;
+
+          -  Current use of home oxygen;
+
+          -  That require hospitalization due to COVID-19 at the time of diagnosis or history of
+             hospitalization for COVID-19;
+
+          -  Presence of mal-absorptive syndrome;
+
+          -  Presence of any other concomitant acute infectious disease;
+
+          -  Known history of severe liver disease, for example liver cirrhosis;
+
+          -  Need or use of antiviral drugs at the time of admission for another viral pathology
+             other than COVID-19;
+
+          -  Need or use of hydroxychloroquine or chloroquine;
+
+          -  Use of ivermectin up to 7 days prior to randomization;
+
+          -  Patients on dialysis or who have required it in the last 2 months or who plan to do it
+             in the next 2 months;
+
+          -  Current participation or in the last 30 days in a research study that has included the
+             administration of a drug.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Rodrigo Zoni, Dr</last_name>
+    <phone>+5493794269233</phone>
+    <email>rodrizoni@yahoo.com.ar</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julio Vallejos, Dr</last_name>
+    <phone>+543794788655</phone>
+    <email>juliovallejos@funcacorr.org.ar</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ministry of Public Health of the Province of Corrientes</name>
+      <address>
+        <city>Corrientes</city>
+        <zip>3400</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rodrigo Zoni, Dr</last_name>
+      <phone>+54379154269233</phone>
+      <email>rodrizoni@yahoo.com.ar</email>
+    </contact>
+    <contact_backup>
+      <last_name>Julio Vallejos, Dr</last_name>
+      <phone>+543794788655</phone>
+      <email>juliovallejos@funcacorr.org.ar</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Julio Vallejos, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rodrigo Zoni, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria Bangher, Dra</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Silvina Villamandos, Dra</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Angelina Bobadilla, Dra</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fabian Plano, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fernando Achinelli, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Claudia Campias</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jorge Ojeda, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hector A Gugliermone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gerardo Andino</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Natalia E Ruiz Diaz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pablo Kawerin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Diego Farizano</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria F Medina</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Silvina D Dellamea</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Antonia C Aquino</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Victor A Flores</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Claudia E Chaparro Campias</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carolina N Martemucci</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Juan E Segovia</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eduardo Castillo Ruveda</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria M Vernengo</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Silvana M Martinez</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Elba Meza</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria G Aguirre</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <results_reference>
+    <citation>Şimşek Yavuz S, Ünal S. Antiviral treatment of COVID-19. Turk J Med Sci. 2020 Apr 21;50(SI-1):611-619. doi: 10.3906/sag-2004-145. Review.</citation>
+    <PMID>32293834</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>González Canga A, Sahagún Prieto AM, Diez Liébana MJ, Fernández Martínez N, Sierra Vega M, García Vieitez JJ. The pharmacokinetics and interactions of ivermectin in humans--a mini-review. AAPS J. 2008;10(1):42-6. doi: 10.1208/s12248-007-9000-9. Epub 2008 Jan 25. Review.</citation>
+    <PMID>18446504</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Götz V, Magar L, Dornfeld D, Giese S, Pohlmann A, Höper D, Kong BW, Jans DA, Beer M, Haller O, Schwemmle M. Influenza A viruses escape from MxA restriction at the expense of efficient nuclear vRNP import. Sci Rep. 2016 Mar 18;6:23138. doi: 10.1038/srep23138. Erratum in: Sci Rep. 2016 May 09;6:25428.</citation>
+    <PMID>26988202</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lundberg L, Pinkham C, Baer A, Amaya M, Narayanan A, Wagstaff KM, Jans DA, Kehn-Hall K. Nuclear import and export inhibitors alter capsid protein distribution in mammalian cells and reduce Venezuelan Equine Encephalitis Virus replication. Antiviral Res. 2013 Dec;100(3):662-72. doi: 10.1016/j.antiviral.2013.10.004. Epub 2013 Oct 22.</citation>
+    <PMID>24161512</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tay MY, Fraser JE, Chan WK, Moreland NJ, Rathore AP, Wang C, Vasudevan SG, Jans DA. Nuclear localization of dengue virus (DENV) 1-4 non-structural protein 5; protection against all 4 DENV serotypes by the inhibitor Ivermectin. Antiviral Res. 2013 Sep;99(3):301-6. doi: 10.1016/j.antiviral.2013.06.002. Epub 2013 Jun 14.</citation>
+    <PMID>23769930</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wagstaff KM, Sivakumaran H, Heaton SM, Harrich D, Jans DA. Ivermectin is a specific inhibitor of importin α/β-mediated nuclear import able to inhibit replication of HIV-1 and dengue virus. Biochem J. 2012 May 1;443(3):851-6. doi: 10.1042/BJ20120150.</citation>
+    <PMID>22417684</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Chi NC, Adam EJ, Adam SA. Sequence and characterization of cytoplasmic nuclear protein import factor p97. J Cell Biol. 1995 Jul;130(2):265-74.</citation>
+    <PMID>7615630</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Görlich D, Mattaj IW. Nucleocytoplasmic transport. Science. 1996 Mar 15;271(5255):1513-8. Review.</citation>
+    <PMID>8599106</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rowland RR, Chauhan V, Fang Y, Pekosz A, Kerrigan M, Burton MD. Intracellular localization of the severe acute respiratory syndrome coronavirus nucleocapsid protein: absence of nucleolar accumulation during infection and after expression as a recombinant protein in vero cells. J Virol. 2005 Sep;79(17):11507-12.</citation>
+    <PMID>16103202</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Timani KA, Liao Q, Ye L, Zeng Y, Liu J, Zheng Y, Ye L, Yang X, Lingbao K, Gao J, Zhu Y. Nuclear/nucleolar localization properties of C-terminal nucleocapsid protein of SARS coronavirus. Virus Res. 2005 Dec;114(1-2):23-34. Epub 2005 Jun 29.</citation>
+    <PMID>15992957</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Caly L, Druce JD, Catton MG, Jans DA, Wagstaff KM. The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro. Antiviral Res. 2020 Jun;178:104787. doi: 10.1016/j.antiviral.2020.104787. Epub 2020 Apr 3.</citation>
+    <PMID>32251768</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 27, 2020</study_first_posted>
+  <last_update_submitted>September 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 15, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Ivermectin</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

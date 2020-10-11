@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3235">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04391946</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FILO-COVID19_LLC-MW</org_study_id>
+    <nct_id>NCT04391946</nct_id>
+  </id_info>
+  <brief_title>Observatory of Patients With Chronic Lymphocytic Leukemia / Lymphocytic Lymphoma or Waldenstrom Disease Infected With COVID-19</brief_title>
+  <acronym>COVID19_LLC-MW</acronym>
+  <official_title>National Prospective and Retrospective Follow-up of Patients With COVID-19 Infected Chronic Lymphocytic Leukemia / Lymphocytic Lymphoma or Waldenström Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>French Innovative Leukemia Organisation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institut de Cancerologie Strasbourg Europe</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>French Innovative Leukemia Organisation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 epidemic (Coronavirus Disease 2019) which is currently raging in France is an
+      emerging infectious disease linked to a virus of the genus coronavirus (SARS-CoV-2). The
+      first cases were reported in Wuhan, China, in late December 2019 [1]. Globally, it has been
+      placed in the &quot;pandemic&quot; stage by the WHO since March 11, 2020. Coronavirus viruses have been
+      responsible for epidemics in the past such as the SARS epidemic in 2002 (Syndrome Severe
+      Acute Respiratory) linked to the SARS-CoV virus, or the epidemic of MERS (Middle East
+      Respiratory Syndrome) that affected the Middle East in 2012.
+
+      Patients with chronic lymphocytic leukemia (CLL) / lymphocytic lymphoma or Waldenstrom
+      Disease (WD) therefore represent a population at high risk of developing a severe form in the
+      event of COVID-19 infection.
+
+      To date, no data is available in the literature to assess the impact of the COVID-19 epidemic
+      in this population of patients with CLL / lymphocytic lymphoma or WD.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 14, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>12 Years</target_duration>
+  <primary_outcome>
+    <measure>Prognostic factors for healing of COVID-19 infection</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Hematological pathology Description</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Medical care of Coronavirus infection</measure>
+    <time_frame>within 12 months after diagnosis</time_frame>
+    <description>Describe the management carried out concerning Coronavirus infection and its impact on the treatment of hemopathy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>national epidemiological monitoring</measure>
+    <time_frame>through study completion, an average of 2 years</time_frame>
+    <description>Allow national epidemiological monitoring and regularly inform the hematology community.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Chronic Lymphocytic Leukemia, Lymphocytic Lymphoma or Waldenstrom Disease</condition>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Data registry</intervention_name>
+    <description>Collection of clinical data, treatment regimens and survival data</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID-19 infected patients with chronic lymphocytic leukemia / lymphocytic lymphoma or
+        Waldenström disease
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Diagnosis of chronic lymphocytic leukemia / lymphocytic lymphoma or Waldenstrom
+             disease according to the criteria of the WHO 2016 with a proven or probable infection
+             by COVID-19 according to the following criteria:
+
+          -  Proven infection: PCR positive regardless of the radio-clinical picture (Other tests
+             made available later and having good diagnostic performance will be accepted)
+
+          -  Probable infection: the diagnosis of probable infection is retained in case of
+             negative PCR or not made if presence of at least 2 major criteria or of a major
+             criterion associated with at least 2 minor criteria among the following, in the
+             absence other documented cause.
+
+          -  Major criteria:
+
+               -  Fever
+
+               -  Loss of smell / taste
+
+               -  At least one respiratory sign among cough, dyspnea, chest pain
+
+               -  Radiological signs suggestive of the scanner (areas or diffuse appearance of
+                  frosted glass, condensations including pseudonodular condensations, association
+                  of frosted glass and condensation within the same lesion, nodules and
+                  micronodules, thickening of the interlobular septa) or on an X-ray of the thorax
+                  ( interstitial, alveolo-interstitial or alveolar syndrome, unilateral or
+                  bilateral)
+
+               -  Notion of storytelling with a person whose SARS-CoV-2 infection has been formally
+                  documented
+
+          -  Minor criteria
+
+               -  Aches
+
+               -  Sore throat
+
+               -  Rhinorrhea
+
+               -  Headache
+
+               -  Diarrhea
+
+               -  Abdominal pain
+
+               -  Frank asthenia
+
+               -  Conjunctivitis
+
+        Exclusion Criteria:
+
+          -  Patient opposition
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Luc-Matthieu FORNECKER, Pr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>French Innovative Leukemia Organisation</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Raoul HERBRECHT, Pr</last_name>
+    <phone>3 88 68 76 73 73</phone>
+    <phone_ext>33</phone_ext>
+    <email>r.herbrecht@icans.eu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Valérie ROUILLE</last_name>
+    <phone>4 67 33 26 45</phone>
+    <phone_ext>+33</phone_ext>
+    <email>v-rouille@chu-montpellier.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Chu Angers</name>
+      <address>
+        <city>Angers</city>
+        <zip>49933</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Aline CLAVERT, MD</last_name>
+      <phone>+33 2 41 35 45 24</phone>
+      <email>aline.clavert@chu-angers.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Jean Minjoz - Hématologie</name>
+      <address>
+        <city>Besançon</city>
+        <zip>25000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Annie BRION, Dr</last_name>
+      <phone>03 81 66 82 32</phone>
+      <phone_ext>33</phone_ext>
+      <email>abrion@chu-besancon.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Avicenne - Centre de Recherche Clinique</name>
+      <address>
+        <city>Bobigny</city>
+        <zip>93009</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Vincent LEVY, Pr</last_name>
+      <phone>01 48 95 56 41</phone>
+      <email>vincent.levy@avc.aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Estaing - Hématologie Clinique Adulte</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Romain GUIEZE, Dr</last_name>
+      <phone>+33 4 73 75 00 65</phone>
+      <email>rguieze@chu-clermontferrand.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chu Creteil</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jehan DUPUIS, MD</last_name>
+      <phone>+33149812051</phone>
+      <email>jehan.dupuis@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Grenoble - Hématologie</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>388043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lysiane MOLINA, Dr</last_name>
+      <phone>04 76 76 57 55</phone>
+      <email>LMolina@chu-grenoble.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chd Vendee</name>
+      <address>
+        <city>La Roche-sur-Yon</city>
+        <zip>85925</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Bruno Villemagne, MD</last_name>
+      <phone>+33251446173</phone>
+      <email>bruno.villemange@chd-vendee.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier du Mans</name>
+      <address>
+        <city>Le Mans</city>
+        <zip>72000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kamel LARIBI, Dr</last_name>
+      <phone>02 43 43 43 43</phone>
+      <email>klaribi@ch-lemans.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Saint Vicent de Paul</name>
+      <address>
+        <city>Lille</city>
+        <zip>59000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Bénédicte HIVERT, Dr</last_name>
+      <phone>33 (0)3 20 87 45 32</phone>
+      <email>hivert.benedicte@ghicl.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Léon Bérard - Hématologie</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne-Sophie MICHALLET, Dr</last_name>
+      <phone>04 78 78 26 41</phone>
+      <email>anne-sophie.michallet@lyon.unicancer.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institut Paoli Calmette</name>
+      <address>
+        <city>Marseille</city>
+        <zip>130009</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Thérèse AURRAN, MD</last_name>
+      <phone>+33491223667</phone>
+      <email>aurrant@ipc.unicancer.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital E.Muller</name>
+      <address>
+        <city>Mulhouse</city>
+        <zip>68100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bernard DRENOU, Dr</last_name>
+      <phone>03 89 64 77 85</phone>
+      <email>drenoub@ghrmsa.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU DE NANTES - Hematologie clinique</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Beatrice MAHE, Dr</last_name>
+      <phone>02 40 08 32 71</phone>
+      <email>beatrice.mahe@chu-nantes.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Pitie Salpetriere Service Hematologie Clinique - Pavillon de L'Enfant Et Adolescent</name>
+      <address>
+        <city>Paris</city>
+        <zip>75651</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Damien ROOS WEIL, Dr</last_name>
+      <phone>01 42 16 15 96</phone>
+      <email>damien.roosweil@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Lyon Sud</name>
+      <address>
+        <city>Pierre-Bénite</city>
+        <zip>69495</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emmanuelle FERRANT, MD</last_name>
+      <phone>+33478864521</phone>
+      <email>emmanuel.ferrant2@chu-lyon.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital de la Milétrie - Hématologie et Thérapie Cellulaire</name>
+      <address>
+        <city>Poitiers</city>
+        <zip>86021</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Cécile TOMOWIAK, Dr</last_name>
+      <phone>05 49 44 43 07</phone>
+      <email>cecile.tomowiak@chu-poitiers.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Robert Debré - Hématologie Clinique</name>
+      <address>
+        <city>Reims</city>
+        <zip>51092</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alain DELMER, Pr</last_name>
+      <phone>03 26 78 36 44</phone>
+      <email>adelmer@chu-reims.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Henri Becquerel - Service Hématologie Clinique</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76038</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Stéphane LEPRETRE, Pr</last_name>
+      <phone>+33 2 32 08 29 46</phone>
+      <email>stephane.lepretre@chb.unicancer.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Hautepierre - Hématologie</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67098</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luc-Matthieu FORNECKER, Dr</last_name>
+      <phone>03 88 12 76 70</phone>
+      <email>luc-matthieu.fornecker@chru-strasbourg.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IUCT ONCOPOLE - Hématologie</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Loïc YSEBAERT, Dr</last_name>
+      <phone>05 31 15 63 51</phone>
+      <email>ysebaert.loic@iuct-oncopole.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Bretonneau - Hématologie et Thérapie Cellulaire</name>
+      <address>
+        <city>Tours</city>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Caroline DARTIGEAS, Dr</last_name>
+      <phone>02 47 47 37 12</phone>
+      <email>c.dartigeas@chu-tours.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Nancy Brabois</name>
+      <address>
+        <city>Vandœuvre-lès-Nancy</city>
+        <zip>54500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre FEUGIER, Pr</last_name>
+      <phone>33 (0)3 83 15 32 82</phone>
+      <email>p.feugier@chru-nancy.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>May 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 18, 2020</study_first_posted>
+  <last_update_submitted>August 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Osteochondritis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

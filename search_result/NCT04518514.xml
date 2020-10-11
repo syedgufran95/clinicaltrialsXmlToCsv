@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3432">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04518514</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-174</org_study_id>
+    <nct_id>NCT04518514</nct_id>
+  </id_info>
+  <brief_title>Telemedical Risk Assessment and Preoperative Evaluation (TAPE)</brief_title>
+  <official_title>Telemedical Risk Assessment and Preoperative Evaluation for Anesthesia During the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>RWTH Aachen University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Docs in Clouds Telecare GmbH</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>RWTH Aachen University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the feasibility, patient satisfaction and time saving
+      of a telemedical risk assessment and preoperative evaluation for anesthesia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The preanesthesia evaluation and risk assessment is conducted by an anesthesiologist prior to
+      elective surgery. The physician assesses the patient´s medical records and specifies the
+      individual preoperative procedure in order to minimize the perioperative risks. The on-site
+      meeting is often connected with extended travel time and during the COVID-19 pandemic also
+      with an increased infection risk for the patient. This project was initiated to reduce time
+      efforts on patient site and to reduce possible infection risks. The TAPE-software turns every
+      patients home into a remote facility allowing the physician to conduct the preanesthesia
+      evaluation over distance.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 20, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility (as defined below) of telemedical risk assessment and preoperative evaluation in anesthesiology as assessed by a questionnaire.</measure>
+    <time_frame>6 months</time_frame>
+    <description>We focus on the feasibility of a telemedical risk assessment and preoperative evaluation in anesthesiology. We defined feasibility in our scenario as:
+establishment of a video-audio-connection possible
+complete assessment of the patients medical records possible
+assessment of the individual perioperative risk possible
+physician is put into the position to explain planned procedures and related risks
+digital documentation possible
+physician is put into the position to answer patient questions
+physician can acquire all necessary information
+digital signature on both sides possible
+Those criteria will be assessed by our questionnaires. After preanesthesia evaluation the patient as well as the physician are asked to answer our online questionnaire (two different ones).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient acceptance of a telemedical preanesthesia evaluation as assessed by a questionnaire.</measure>
+    <time_frame>6 months</time_frame>
+    <description>After preanesthesia evaluation the patient is asked to answer our online questionnaire. The questionnaire is partly based on a previously published study (Follmann et al., Technical Support by Smart Glasses During a Mass Casualty Incident: A Randomized Controlled Simulation Trial on Technically Assisted Triage and Telemedical App Use in Disaster Medicine, J Med Internet Res 2019;21(1):e11939).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient satisfaction with a telemedical preanesthesia evaluation as assessed by a questionnaire.</measure>
+    <time_frame>6 months</time_frame>
+    <description>We aim to investigate patient satisfaction of a telemedical risk assessment and preoperative evaluation in anesthesiology prior to elective surgery. After preanesthesia evaluation the patient is asked to answer our online questionnaire. The questionnaire is partly based on a previously published study (Follmann et al., Technical Support by Smart Glasses During a Mass Casualty Incident: A Randomized Controlled Simulation Trial on Technically Assisted Triage and Telemedical App Use in Disaster Medicine, J Med Internet Res 2019;21(1):e11939).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time saving for the patient</measure>
+    <time_frame>6 months</time_frame>
+    <description>We quantify time saving on patient site due to the fact that patients do not have to travel to the hospital anymore.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time saving for the physician</measure>
+    <time_frame>6 months</time_frame>
+    <description>On physician site we investigate possible time saving due to the implementation of the investigator's software.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of patients in whom telemedical preanesthesia evaluation lead to adverse events such as postponed surgery and adverse events during surgery which are caused by the preanesthesia evaluation.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Patients Undergoing Elective Surgery With Anesthesia</condition>
+  <arm_group>
+    <arm_group_label>Preoperative evaluation and risk assessment via telemedicine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>TAPE-Software</intervention_name>
+    <description>Telemedical Risk Assessment and Preoperative Evaluation prior to anaesthesia via personal computer</description>
+    <arm_group_label>Preoperative evaluation and risk assessment via telemedicine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  ≥18 years
+
+          -  estimated ASA I/II classification based on the American Society of Anesthesiologists
+             (ASA) classification
+
+          -  elective surgery
+
+          -  surgery at least 14 days in the future
+
+          -  patient access to a Windows-10-based personal computer with webcam
+
+        Exclusion Criteria:
+
+          -  language or cognitive barriers (e.g. dementia, laryngectomy...)
+
+          -  high risk surgeries with need of postoperative ICU stay
+
+          -  acute infection with required auscultation
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andreas Follmann, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>RWTH Aachen University Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jan Wienhold, cand. med.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>RWTH Aachen University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andreas Follmann, Dr.</last_name>
+    <phone>0049 0241 8036219</phone>
+    <email>afollmann@ukaachen.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jan Wienhold, cand. med.</last_name>
+    <phone>0049 0241 8036923</phone>
+    <email>jwienhold@ukaachen.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>RWTH Aachen University Hospital</name>
+      <address>
+        <city>Aachen</city>
+        <zip>52074</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andreas Follmann, Dr.</last_name>
+      <phone>0049 2418036219</phone>
+      <email>afollmann@ukaachen.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jan Wienhold, cand. med.</last_name>
+      <phone>0049 2418036923</phone>
+      <email>jwienhold@ukaachen.de</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 19, 2020</study_first_posted>
+  <last_update_submitted>August 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>RWTH Aachen University</investigator_affiliation>
+    <investigator_full_name>Jan Wienhold</investigator_full_name>
+    <investigator_title>cand. Dr. med.</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

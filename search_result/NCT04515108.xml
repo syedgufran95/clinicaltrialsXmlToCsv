@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1463">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04515108</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E1-20-672</org_study_id>
+    <nct_id>NCT04515108</nct_id>
+  </id_info>
+  <brief_title>Perinatal Outcomes and Hematologic Parameters in COVID-19 Pregnancies</brief_title>
+  <official_title>Comparison of Hematological Parameters and Perinatal Outcomes in COVID-19 Pregnancies and Healthy Pregnancy Cohort</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ankara City Hospital Bilkent</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ankara City Hospital Bilkent</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Complete blood count parameters are routinely evaluated cost-effective markers in diagnosis
+      and clinical follow-up of infectious diseases.There is increasing number of studies to report
+      the course of COVID-19 in pregnancy. The current study aimed to elucidate the changes in
+      hematologic parameters in response to SARS-CoV-2 infection and whether there was an increase
+      in adverse perinatal outcomes such as increased neonatal intensive care unit admission and
+      lower APGAR scores in pregnancies with COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The objective of this study is to evaluate the relationship between Coronavirus Disease 2019
+      (COVID-19) in pregnancy and adverse perinatal outcomes. The secondary aim is to analyze the
+      diagnostic value of hematologic parameters in COVID-19 complicated pregnancies.The current
+      study is conducted in a high volume tertiary obstetrics center burdened by COVID-19
+      pandemics, in Turkey, between March 20 and July 25, 2020. The study included a pregnant women
+      cohort who had been regularly followed up and delivered in our clinics. The cohort was
+      divided into two groups to reveal the impact of COVID-19 on the complete blood count cell
+      indices and unfavorable obstetric and early neonatal outcomes in pregnant women. The
+      clinically confirmed diagnosis of COVID-19 cases were included in Study Group (n=39) the
+      healthy pregnant women without COVID-19 were included in Control Group (n=69). The study
+      achieved a power of 0.89 and 0.98 with a 5% level of significance.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 10, 2020</start_date>
+  <completion_date type="Actual">August 10, 2020</completion_date>
+  <primary_completion_date type="Actual">August 5, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>complete blood count parameters (including the number of lymphocytes, Leukocytes, monocytes, platelets and red blood cells).</measure>
+    <time_frame>first 1 hour of hospitalization.</time_frame>
+    <description>cell count per mm3.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>APGAR score</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>1st and 5th minute newborn assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>maternal and newborn length</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>centimeters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>maternal and newborn weight</measure>
+    <time_frame>2 minutes</time_frame>
+    <description>kilograms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body temperature</measure>
+    <time_frame>2 minutes</time_frame>
+    <description>Celsius degree</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">108</enrollment>
+  <condition>Pregnancy, Infections in</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Group 1 (Pregnants with COVID-19)</arm_group_label>
+    <description>Study group included pregnant women with clinically confirmed COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2 (Pregnants without COVID-19)</arm_group_label>
+    <description>Control group consisted of healthy pregnant women in the same number and same gestational week with the Study group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Clinical assessment</intervention_name>
+    <description>Perinatal outcomes and diagnostic value of hematologic parameters were compared between pregnancies with and without COVID-19.</description>
+    <arm_group_label>Group 1 (Pregnants with COVID-19)</arm_group_label>
+    <arm_group_label>Group 2 (Pregnants without COVID-19)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The current study included 39 pregnant women with clinical diagnosis of COVID-19 on the
+        obstetric isolation unite and 69 pregnant women without COVID-19.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Spontaneous pregnancy,
+
+          -  Singleton pregnancy,
+
+          -  Clinically diagnosed COVID-19 (SARS-CoV-2 positivity in real time-polymerase chain
+             reaction)
+
+        Exclusion Criteria:
+
+          -  Chronic maternal diseases (rheumatological diseases, renal failure, vascular
+             malformations, hypertension, cardiac disease, diabetes mellitus, obesity,
+             hypo-hyperthyroidism, congenital hematological disorders),
+
+          -  Acute inflammatory conditions (acute pancreatitis, acute appendicitis),
+
+          -  Pregnancy complications (gestational diabetes, PPROM, preeclampsia),
+
+          -  Multiple pregnancies,
+
+          -  Anticoagulant medication.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>42 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Esin Merve Erol Koç, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ankara City Hospital Bilkent</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ankara City Hospital</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <results_reference>
+    <citation>Cheng B, Jiang T, Zhang L, Hu R, Tian J, Jiang Y, Huang B, Li J, Wei M, Yang J, Ren S, Wang G. Clinical Characteristics of Pregnant Women With Coronavirus Disease 2019 in Wuhan, China. Open Forum Infect Dis. 2020 Jul 11;7(8):ofaa294. doi: 10.1093/ofid/ofaa294. eCollection 2020 Aug.</citation>
+    <PMID>32760752</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Peng J, Qi D, Yuan G, Deng X, Mei Y, Feng L, Wang D. Diagnostic value of peripheral hematologic markers for coronavirus disease 2019 (COVID-19): A multicenter, cross-sectional study. J Clin Lab Anal. 2020 Jul 17:e23475. doi: 10.1002/jcla.23475. [Epub ahead of print]</citation>
+    <PMID>32681559</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sun S, Cai X, Wang H, He G, Lin Y, Lu B, Chen C, Pan Y, Hu X. Abnormalities of peripheral blood system in patients with COVID-19 in Wenzhou, China. Clin Chim Acta. 2020 Aug;507:174-180. doi: 10.1016/j.cca.2020.04.024. Epub 2020 Apr 24.</citation>
+    <PMID>32339487</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Dashraath P, Wong JLJ, Lim MXK, Lim LM, Li S, Biswas A, Choolani M, Mattar C, Su LL. Coronavirus disease 2019 (COVID-19) pandemic and pregnancy. Am J Obstet Gynecol. 2020 Jun;222(6):521-531. doi: 10.1016/j.ajog.2020.03.021. Epub 2020 Mar 23. Review.</citation>
+    <PMID>32217113</PMID>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 17, 2020</study_first_posted>
+  <last_update_submitted>August 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ankara City Hospital Bilkent</investigator_affiliation>
+    <investigator_full_name>Esin Merve Erol Koç</investigator_full_name>
+    <investigator_title>Medical Doctor</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Pregnancy</keyword>
+  <keyword>Complete blood count</keyword>
+  <keyword>Perinatal outcome</keyword>
+  <keyword>Monocyte/lymphocyte ratio (MLR)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pregnancy Complications, Infectious</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Data belonging to participant only will be available to any researcher or editorial review board if needed</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

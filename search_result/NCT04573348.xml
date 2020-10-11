@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2140">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04573348</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PBMC _COVID 19</org_study_id>
+    <nct_id>NCT04573348</nct_id>
+  </id_info>
+  <brief_title>T Cells Response to SARS COV 2 Peptides</brief_title>
+  <official_title>Prospective, One Center, Four Groups, Open, Comparative, Controlled Study to Explore T Cells Response to SARS COV 2 Peptides by Metabolic Activity Method in Convalesce and Healthy Individuals Versus Antibody Response</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Savicell Diagnostics Ltd</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Savicell Diagnostics Ltd</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The analysis method described in this protocol is a novel simple plausible immunological
+      approach which is non-invasive, high throughput, real-time quantitative monitoring of
+      metabolic activity (MA) profiles of fresh Peripheral Blood Mononuclear Cells (PBMC) in
+      response to various reagents at different concentrations. The purpose of this study is to
+      evaluate the T cells reactivity to SARS COV 2 immunogenic selected peptides by Metabolic
+      Activity Method in convalesce and healthy individuals and to compare it with Antibody
+      response (ELISA) and clinical information
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, four groups, open, comparative, controlled study. A total of 400
+      completed, evaluated subjects will be enrolled in this study. Main Study Measures: Reactivity
+      of T cells to selected SARS COV-2 peptides by MA test and IgG Antibody response to SARS COV-2
+      by commercial ELISA test.
+
+      Study Procedures:
+
+        -  Screening
+
+        -  Informed consent signing
+
+        -  Medical history review
+
+        -  Blood collection.
+
+        -  MA test and ELISA test will be performed at Savicell's Laboratory site.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 10, 2020</start_date>
+  <completion_date type="Anticipated">October 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 10, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Positive and negative diagnosis (scored 0/1 dichotomously) in accordance with test results (MA/ELISA/PCR)</measure>
+    <time_frame>week</time_frame>
+    <description>T cells reactivity to SARS COV 2 immunogenic</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence of positive for SARS - COV2 - in healthy donors.</measure>
+    <time_frame>week</time_frame>
+    <description>Antibody response (ELISA)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Groups 1-4</arm_group_label>
+    <description>no intervention will be performed in this study, only blood drawn</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Savicell's ImmunoBiopsy™</intervention_name>
+    <description>ImmunoBiopsy and ELISA</description>
+    <arm_group_label>Groups 1-4</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      peripheral Blood samples (27ml) once from each participant
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Group 1 :COVID -19 convalesce individuals that tested positive to COVID -19 by swab PCR
+        test who were severe/acute/moderate - ill with hospitalization/drug treatment/ breathing
+        support and who have passed one months or more since recovering from COVID-19 illness Group
+        2:Belong to family members who shared a household with donors in group 1 and were exposed
+        at the time of symptomatic disease, without any diagnoses of COVID-19 and tested PCR
+        negative to COVID-19. Group 3:COVID - 19 convalesce individuals that tested positive to
+        COVID -19 by swab PCR test who were mild or asymptomatic and who have passed more than two
+        weeks since recovering from illness. Group 4:COVID - 19 healthy blood donors that keep
+        rules of social distance and wearing a mask.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All recruited subjects are between 18 to 90 years old.
+
+          -  All recruited subjects read the informed consent and then signed the informed consent.
+
+          -  All recruited subjects filled out the questionnaire form
+
+        Exclusion Criteria:
+
+          -  Subject has active infection or inflammation determined clinically at screening.
+
+          -  Subject is currently treated with concomitant medication related directly or can
+             affect the immune system as steroids.
+
+          -  Subject has impaired judgment.
+
+          -  Known positive HIV, hepatitis B, or hepatitis C, autoimmune disease.
+
+          -  Known history of a significant medical disorder, which in the investigators' judgment
+             contraindicates the patient's participation.
+
+          -  Drug or alcohol abuse
+
+          -  Subject is participating in any other clinical trial for drug investigation within 10
+             days prior sample collection
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shafrira Shai, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Savicell Diagnostics Ltd</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yochai Adir, Prof</last_name>
+    <phone>+972-0506-265820</phone>
+    <email>yochaiad@clalit.org.il</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Carmel Medical Center</name>
+      <address>
+        <city>Haifa</city>
+        <state>North</state>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yochai Adir, Prof</last_name>
+      <phone>972-0506-265820</phone>
+      <email>yochaiad@clalit.org.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Irena Shahar, BA</last_name>
+      <phone>+972-50-877-9066</phone>
+      <email>irenas@savicell.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <reference>
+    <citation>Leslie M. T cells found in coronavirus patients 'bode well' for long-term immunity. Science. 2020 May 22;368(6493):809-810. doi: 10.1126/science.368.6493.809.</citation>
+    <PMID>32439770</PMID>
+  </reference>
+  <reference>
+    <citation>Seydoux E, Homad LJ, MacCamy AJ, Parks KR, Hurlburt NK, Jennewein MF, Akins NR, Stuart AB, Wan YH, Feng J, Nelson RE, Singh S, Cohen KW, McElrath MJ, Englund JA, Chu HY, Pancera M, McGuire AT, Stamatatos L. Characterization of neutralizing antibodies from a SARS-CoV-2 infected individual. bioRxiv. 2020 May 12. pii: 2020.05.12.091298. doi: 10.1101/2020.05.12.091298. Update in: Immunity. 2020 Jul 14;53(1):98-105.e5.</citation>
+    <PMID>32511342</PMID>
+  </reference>
+  <reference>
+    <citation>Robbiani DF, Gaebler C, Muecksch F, Lorenzi JCC, Wang Z, Cho A, Agudelo M, Barnes CO, Gazumyan A, Finkin S, Hagglof T, Oliveira TY, Viant C, Hurley A, Hoffmann HH, Millard KG, Kost RG, Cipolla M, Gordon K, Bianchini F, Chen ST, Ramos V, Patel R, Dizon J, Shimeliovich I, Mendoza P, Hartweger H, Nogueira L, Pack M, Horowitz J, Schmidt F, Weisblum Y, Michailidis E, Ashbrook AW, Waltari E, Pak JE, Huey-Tubman KE, Koranda N, Hoffman PR, West AP Jr, Rice CM, Hatziioannou T, Bjorkman PJ, Bieniasz PD, Caskey M, Nussenzweig MC. Convergent Antibody Responses to SARS-CoV-2 Infection in Convalescent Individuals. bioRxiv. 2020 May 22. pii: 2020.05.13.092619. doi: 10.1101/2020.05.13.092619. Update in: Nature. 2020 Aug;584(7821):437-442.</citation>
+    <PMID>32511384</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 2, 2020</study_first_posted>
+  <last_update_submitted>October 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COV-19</keyword>
+  <keyword>T cells</keyword>
+  <keyword>COV-2 PEPTIDE</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

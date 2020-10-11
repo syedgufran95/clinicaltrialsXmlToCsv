@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3327">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04567927</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-01266</org_study_id>
+    <nct_id>NCT04567927</nct_id>
+  </id_info>
+  <brief_title>Prevalence and Risk Factors for Venous Thromboembolic Events in Critically Ill Patients With COVID-19</brief_title>
+  <official_title>Prevalence and Risk Factors for Venous Thromboembolic Events in Critically Ill Patients With SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chiesa Alessandro Felice</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ente Ospedaliero Cantonale, Bellinzona</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to assess the frequency of the occurrence of a venous thrombosis
+      in patients with the new Coronavirus disease, who are admitted to the Intensive Care Unit for
+      impending respiratory failure requiring intubation and mechanical ventilation. Furthermore,
+      the investigators aim at identifying potential risk factors for thrombosis and death.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Symptomatic infection with the severe acute respiratory syndrome coronavirus 2 ranges from
+      mild to critical spectrum. About 80% of laboratory confirmed infections presented with mild
+      symptoms, usually not requiring hospitalization. Critical disease requiring respiratory
+      and/or circulatory support was reported in 5% of the subjects. Acute respiratory distress
+      syndrome represents the most common complication in patients with severe disease. Several
+      cases of venous thromboembolism in patients with laboratory confirmed infection have been
+      reported, but it is unclear if this occurrence is higher in this specific patients'
+      population. The purpose of the present study is to assess the prevalence of deep venous
+      thrombosis in patients infected with SARS-CoV-2 admitted to the Intensive care Unit requiring
+      invasive mechanical ventilation using vein ultrasonography.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 3, 2020</start_date>
+  <completion_date type="Actual">May 28, 2020</completion_date>
+  <primary_completion_date type="Actual">May 28, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Period prevalence of deep vein thrombosis (DVT)</measure>
+    <time_frame>From date of inclusion in the study until the date of development of a DVT, date of death from any cause, or date of discharge from the ICU, whichever came first, assessed up to 3 months</time_frame>
+    <description>Percent (%) of patients with a DVT</description>
+  </primary_outcome>
+  <enrollment type="Actual">80</enrollment>
+  <condition>SARS Virus</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Ultrasonography</intervention_name>
+    <description>Venous compression ultrasonography using real-time B-mode and colour doppler in transverse and longitudinal views</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All consecutive adult patients with laboratory confirmed SARS-CoV-2 infection admitted to
+        the Intensive Care Unit requiring invasive respiratory support
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  patients admitted to the Intensive Care Unit
+
+          -  laboratory confirmed SARS-CoV-2 infection
+
+          -  invasive respiratory support
+
+        Exclusion Criteria:
+
+          -  none
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Ospedale Regionale di Bellinzona e Valli</name>
+      <address>
+        <city>Bellinzona</city>
+        <state>Ticino</state>
+        <zip>6500</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <results_reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Grasselli G, Zangrillo A, Zanella A, Antonelli M, Cabrini L, Castelli A, Cereda D, Coluccello A, Foti G, Fumagalli R, Iotti G, Latronico N, Lorini L, Merler S, Natalini G, Piatti A, Ranieri MV, Scandroglio AM, Storti E, Cecconi M, Pesenti A; COVID-19 Lombardy ICU Network. Baseline Characteristics and Outcomes of 1591 Patients Infected With SARS-CoV-2 Admitted to ICUs of the Lombardy Region, Italy. JAMA. 2020 Apr 28;323(16):1574-1581. doi: 10.1001/jama.2020.5394.</citation>
+    <PMID>32250385</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 May;8(5):475-481. doi: 10.1016/S2213-2600(20)30079-5. Epub 2020 Feb 24. Erratum in: Lancet Respir Med. 2020 Apr;8(4):e26.</citation>
+    <PMID>32105632</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang T, Chen R, Liu C, Liang W, Guan W, Tang R, Tang C, Zhang N, Zhong N, Li S. Attention should be paid to venous thromboembolism prophylaxis in the management of COVID-19. Lancet Haematol. 2020 May;7(5):e362-e363. doi: 10.1016/S2352-3026(20)30109-5. Epub 2020 Apr 9.</citation>
+    <PMID>32278361</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Ente Ospedaliero Cantonale, Bellinzona</investigator_affiliation>
+    <investigator_full_name>Chiesa Alessandro Felice</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thromboembolism</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

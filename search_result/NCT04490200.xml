@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2918">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04490200</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VESTA Trial</org_study_id>
+    <secondary_id>32862320.0.0000.0030</secondary_id>
+    <nct_id>NCT04490200</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of a Novel Respirator With Chitosan Nanoparticles</brief_title>
+  <official_title>Effectiveness of a Novel Respirator With Chitosan Nanoparticles to Reduce the Incidence of SARS-CoV-2 Infection in Healthcare Professionals: Randomized Controlled Trial (VESTA Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Brasilia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Campinas, Brazil</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centro de Pesquisa em Biotecnologia Ltda</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Regional da Asa Norte (HRAN)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital da Região Leste (HRL)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitário de Brasília (HUB/UnB)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Brasilia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The use of nanomaterials in facial respirators could decrease the permeability of particles
+      and promote a biocidal effect compared to conventional respirators (N95) and, therefore,
+      enhance the filtering power, aiming to mitigate harmful effects of bacteria and viruses.
+      Chitosan is a natural cationic polymer derived from chitin, with important characteristics
+      such as being biodegradable, biocompatible, non-toxic, and presenting antimicrobial activity.
+      This polymer shows virucidal activity in several types of viruses, including other
+      coronavirus serotypes, given the attractive factor of its cationic charge for negative
+      charges. The effectiveness of a novel individual protection semi facial respirator (called
+      VESTA) will be investigated, compared to a conventional N95 respirator. The respirators will
+      be tested in healthcare professionals working in hospital environments and the effectiveness
+      will be attributed to the lower incidence rate of infection by the SARS-CoV-2. The
+      effectiveness of respirators will also be attributed to the ability to filter these viruses
+      after use by healthcare professionals exposed to potentially contaminated environments. The
+      study will be carried out in two stages: i) Pilot Randomized Clinical Trial with reduced
+      sample and ii) Controlled Randomized Clinical Trial (RCT). This RCT will be conducted with
+      healthcare professionals who have contact with environments/patients infected by SARS-CoV-2
+      in hospital sectors with greater vulnerability to infection (urgency, emergency and intensive
+      care units). The pilot trial will be conducted initially with a group of fifty participants
+      (n = 25 in each group) for initial investigation of the potential for efficacy with the use
+      of the respirators (VESTA and conventional N95) in two sectors (emergency and ICU) of a
+      Hospital. The RCT will consist of two parallel groups: (1) Experimental Group (GExp) that
+      will use the novel respirator (VESTA) and (2) Control Group (CG) that will use the standard
+      respirator (N95). Participants will be recruited from participating centers and will be
+      accompanied by eight consecutive shifts (each shift lasting 6 to 12 hours, followed by
+      approximately 36 hours of rest). Participants will be accompanied during 21 days, and will be
+      assessed at baseline (T0), at the end of the 10th day (T1) and at the end of the 21st day
+      (T2). The respirators will be assessed after the end of the 1st hospital shift for
+      morphological characterization (virus quantity and inactivation).
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 30, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a randomized controlled clinical trial, characterized by the application of semi facial respirators, in which participants will be randomly and concealed allocated into two groups: VESTA respirator (GExp) and Conventional N95 respirator (CG). The participants will be healthcare professionals working in hospital environments contaminated by SARS-Cov-2. The study will be reported following the recommendations of the CONSORT Statement.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+    <masking_description>The outcome assessor won't have any knowledge about the study purposes and will be unaware of the group allocation.
+Participants will be blinded as they will not distinguish the novel respirator (VESTA) from the conventional N95 respirator (both will have the same shape, color and size).
+The statistical analysis will also be performed blinded for group allocation.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of laboratory-confirmed COVID-19</measure>
+    <time_frame>21 days</time_frame>
+    <description>Number of professionals infected, confirmed by reverse-transcription polymerase chain reaction (RT-PCR)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Ability of the filtering element to inactivate the SARS-Cov-2</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Electron microscopy technique will be used, to identify if there is viruses present (through its direct visualization and morphological recognition) and they are inactive. This assessment will occur after the end of the first hospital shift.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Usability and comfort of the respirator</measure>
+    <time_frame>Assessments at T1 (day 10) and T2 (day 21)</time_frame>
+    <description>11-point Likert scale ranging from -5 (&quot;extremely unsatisfied&quot;), 0 (&quot;neutral&quot;), to 5 (&quot;completely satisfied&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adherence to the use of the Respirator</measure>
+    <time_frame>Assessments at the end of the first and second weeks of intervention</time_frame>
+    <description>quantified based on the activities and procedures performed by the participants. Adherence will be measured by a self-report recorded in a diary, estimating the percentage of use referring to the total workhours.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stress</measure>
+    <time_frame>Change from Pre-Intervention (T0), compared to Post-Intervention (T2 - day 21)</time_frame>
+    <description>Measured by the Job Stress Scale Questionnaire (17 questions composed by 4-point Likert scales)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Burnout</measure>
+    <time_frame>Change from Pre-Intervention (T0), compared to Post-Intervention (T2 - day 21)</time_frame>
+    <description>Measured by the Maslach Burnout Inventory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported quality of life</measure>
+    <time_frame>Change from Pre-Intervention (T0), compared to Post-Intervention (T2 - day 21)</time_frame>
+    <description>Measured by the Six-dimensional short form quality of life questionnaire (SF-6D), with scores ranging from 0 to 1 (in which 0 is equal to the worst health state and 1 is equal to the best health state).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Musculoskeletal discomfort</measure>
+    <time_frame>Change from Pre-Intervention (T0), compared to Post-Intervention (T2 - day 21)</time_frame>
+    <description>Measured by the Nordic Musculoskeletal Questionnaire, which assess the self-report of musculoskeletal symptoms in the last 12 months and last 7 days. Identification of areas of the body causing musculoskeletal problems in a body map (possible sites being neck, shoulders, upper back, elbows, low back, wrist/hands, hips/thighs, knees and ankles/feet).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work ability</measure>
+    <time_frame>Change from Pre-Intervention (T0), compared to Post-Intervention (T2 - day 21)</time_frame>
+    <description>Measured by a VAS-scale ranging from 0 to 10, being 0 the worst work ability and 10 the best work ability, considering the present time.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Worker-Patient Transmission, Healthcare</condition>
+  <arm_group>
+    <arm_group_label>Novel chitosan semi facial respirator (VESTA)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>VESTA is a semi facial respirator that follows the same technical specifications of a N95 class PFF2 respirator. However, the VESTA respirator has nanoparticles in the filtering element, which is manufactured with a product of 50 gsm melt blown polypropylene-treated with an electrostatic charge. This filtering element deposits nanoparticles of polymeric biodegradable material known as chitosan. Chitosan can act as a surface for adsorption and viral inactivation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventional N95 semi facial respirator</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The N95 PFF2 respirators are manufactured from TNT as defined in ABNT NBR 15052: 2004 and in the resolution of ANVISA RDC No. 356. The filtering element is usually formed by a layer of thin polypropylene fibers arranged at random. This configuration influences the particles (which constitute aerosols) to move along an extensive and tortuous path in relation to their size; thus, increasing the probability of them coming into contact with the fibers and being retained. A number of mechanisms influence the interception of particles by the fibers of the filter element. In addition to the mechanical interception mechanisms, the presence of charges on the surface of the filter material can enhance the association of particles with its fibers and optimize the efficiency of the respirator.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>VESTA respirator</intervention_name>
+    <description>The protocol will be composed by the use of the VESTA respirator during 21 days (approximately eight consecutive shifts - each shift lasting 6 to 12 hours, followed by approximately 36 hours of rest). Each participant will receive a total of approximately 8 respirators, with 1 respirator to be used on each shift (with instructions for a maximum usage time of 8 hours). All participants will receive a booklet with guidelines and training in the use and proper handling of the respirator. All respirators will be sterilized and packaged in the laboratory, to ensure that they are not contaminated before use by the participants. The intervention will not change the participants' routine, considering that they already follow instructions for the use of protective personal equipment (PPE) and the proposed intervention will follow all local regulations and guidelines for the use and conservation of PPE and semi facial respirators.</description>
+    <arm_group_label>Novel chitosan semi facial respirator (VESTA)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Conventional N95 respirator</intervention_name>
+    <description>The protocol will be composed by the use of the N95 respirator during 21 days (approximately eight consecutive shifts - each shift lasting 6 to 12 hours, followed by approximately 36 hours of rest). Each participant will receive a total of approximately 8 respirators, with 1 respirator to be used on each shift (with instructions for a maximum usage time of 8 hours). All participants will receive a booklet with guidelines and training in the use and proper handling of the respirator. All respirators will be sterilized and packaged in the laboratory, to ensure that they are not contaminated before use by the participants. The intervention will not change the participants' routine, considering that they already follow instructions for the use of protective personal equipment (PPE) and the proposed intervention will follow all local regulations and guidelines for the use and conservation of PPE and semi facial respirators.</description>
+    <arm_group_label>Conventional N95 semi facial respirator</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Full-time employees (defined as direct patient care for more than 24 hours weekly) and
+             work primarily at the study site or co-participants (more than 75% of working hours).
+
+          -  Professionals working in emergency departments, ICUs and other hospital settings
+             exposed to SARS-Cov-2.
+
+          -  Negative clinical and laboratory results for SARS-Cov-2 infection.
+
+          -  Have previous experience using N95 PFF2 respirators.
+
+        Exclusion Criteria:
+
+          -  Pregnant or breastfeeding women.
+
+          -  History of high-risk comorbidities, such as high-risk heart disease or respiratory
+             diseases.
+
+          -  Presence of heterogeneous facial anatomical characteristics such as: bulky beard,
+             facial deformities or facial dimensions incompatible with the respirators.
+
+          -  Smoker or frequent user of narcotic substances such as alcohol or illegal drugs.
+
+          -  User of any substance or assistance equipment that interferes with normal respiratory
+             function.
+
+          -  Professionals with history of COVID-19 or positive result for IgG+ or IgG+ or RT-PCR+
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rodrigo L Carregaro, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidade de Brasília (FCE/UnB)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Suelia S Fleury Rosa, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Universidade de Brasília (FGA/UnB)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marcella L Brettas Carneiro, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Universidade de Brasília (FUP/UnB)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Henry M Peixoto, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Universidade de Brasília (FM/UnB)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Aline M Toledo, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Universidade de Brasília (FCE/UnB)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Graziella A Joanitti, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Universidade de Brasília (FCE/UnB)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Glécia V Silva Luz, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Brasilia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mario Fleury Rosa, PhD</last_name>
+    <phone>+55 (61) 3107-8901</phone>
+    <email>projeto.covid2020@gmail.com</email>
+  </overall_contact>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>July 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>October 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Brasilia</investigator_affiliation>
+    <investigator_full_name>Prof. Rodrigo Luiz Carregaro</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Protective personal equipment</keyword>
+  <keyword>SARS-Cov-2</keyword>
+  <keyword>Chitosan</keyword>
+  <keyword>Occupational health</keyword>
+  <keyword>Prevention</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

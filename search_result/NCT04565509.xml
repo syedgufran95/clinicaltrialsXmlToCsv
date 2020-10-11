@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2433">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04565509</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202009060</org_study_id>
+    <nct_id>NCT04565509</nct_id>
+  </id_info>
+  <brief_title>Supporting the Health and Well-being of Children With Intellectual and Developmental Disability During COVID-19 Pandemic</brief_title>
+  <official_title>Supporting the Health and Well-being of Children With Intellectual and Developmental Disability During COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Missouri, Kansas City</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hugo W. Moser Research Institute at Kennedy Krieger, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary goal of this project is to identify the best messaging and implementation
+      strategies to maximize SARS-CoV-2 testing for children with intellectual and developmental
+      disabilities (IDD) and their teachers to help ensure a safe school environment. Additionally,
+      we will understand nationally the perceptions of COVID-19 and identify facilitators and
+      barriers to help with the adoption of testing in other parts of the US and the necessary
+      strategies to address other mitigation strategies including vaccination.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This research study will occur at six schools dedicated to children with IDD that are a part
+      of the Special School Districts in St. Louis, MO. Additionally, surveys, focus groups, and
+      fuzzy cognitive mapping sessions will be conducted at these six schools and at schools within
+      the Kennedy Krieger School Programs in Baltimore, MD. Finally, a national survey will be
+      administered to families, teachers, and staff of the 67 University Centers for Excellence in
+      Developmental Disabilities (UCEDD) which is sponsored by the Association of University
+      Centers for Disability (AUCD).
+
+      The first aim will involve focus groups of parents/guardians, teachers, and school staff to
+      identify the barriers and facilitators to frequent SARS-CoV-2 testing, impressions of
+      COVID-19, and best messages and implementation strategies to promote increase testing and
+      vaccination. A formal process for developing two types of messages (general versus focused)
+      will be performed using focus group data and involving key stakeholders to test the messages.
+      A cluster randomized adaptive clinical trial will then occur at the six special school
+      district schools. In phase 1, the schools will be randomized initially to either the general
+      or focused message to promote the adoption of weekly SARS-CoV-2 testing by the students and
+      teachers. After 5 months, data analysis will be conducted to determine which strategy led to
+      the highest percentage of testing. Phase 2 will begin at 7 months after the schools are
+      randomized to either the best message determined from phase 1 or best message plus an
+      augmented implementation strategy.
+
+      The second aim will assess the national perspectives among parents of children with IDD and
+      school staff regarding the impact of COVID-19 and importance of SARS-CoV-2 testing. Fuzzy
+      cognitive mapping (FCM) and the administration of local and national surveys will be used to
+      accomplish this aim. FCM will involve in-person sessions with parents from the 6 schools in
+      aim 1 and 4 Kennedy Krieger Institute schools in Baltimore, MD for children with IDD. These
+      sessions will help identify the facilitators and barriers SARS-CoV-2 testing and other
+      mitigation strategies including COVID-19 vaccine. Since no accepted measures have been
+      developed for understanding parent and school staff concerns for children with IDD around
+      COVID-19, local (St. Louis and Baltimore) and national surveys will be conducted. Custom
+      surveys will be deployed across two stakeholder groups: parent/guardians and school staff. We
+      will administer the survey at baseline and during the trial across school settings (St. Louis
+      and Baltimore). A national survey will also be administered across the UCEDDs. Psychometric
+      analysis will be performed to help identify the questions for a national survey at the end of
+      the study period. In addition to the custom surveys, NIH recommended parent-report surveys
+      from the PhenX Toolkit will be used. The surveys to be used include the Psychological Stress
+      Associated with the COVID-19 Crisis Scale and COVID-19 impact questionnaires.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2020</start_date>
+  <completion_date type="Anticipated">September 21, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>A cluster randomized adaptive trial will be conducted. The first phase will randomize 6 schools to either a general message or focus/targeted message. Data analysis will occur and then the schools will be randomized to the best message strategy from phase 1 alone or best message plus and augmented message or implementation strategy.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adoption of weekly testing by each participant</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Ratio of the total number test per the number of weeks of analysis (eg. Phase 1 20 weeks)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability of Messaging/Implementation Strategy</measure>
+    <time_frame>1 year</time_frame>
+    <description>The acceptability of each strategy will be assessed with a validated survey of the families and staff prior to the intervention and at the conclusion of the intervention being utilized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility of Messaging/Implementation Strategy</measure>
+    <time_frame>1 year</time_frame>
+    <description>The feasibility of each strategy will be assessed with a validated survey of the families and staff prior to the intervention and at the conclusion of the intervention being utilized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Appropriateness of Messaging/Implementation Strategy</measure>
+    <time_frame>1 year</time_frame>
+    <description>The appropriate of each strategy will be assessed with a validated survey of the families and staff prior to the intervention and at the conclusion of the intervention being utilized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of missed school days by students or work days by staff</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>The total number of days missed by students and staff at the special schools during the 52 weeks of the study will be obtained.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Students and staff positive SARS-CoV-2 virus</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>The percentage of students and staff positive for SARS-CoV-2 virus will be determined</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>School-based SARS-CoV-2 transmission events</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Number of possible SARS-CoV-2 transmission events occurring between students and staff within the school setting.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">2500</enrollment>
+  <condition>Covid19</condition>
+  <condition>Intellectual Disability</condition>
+  <condition>Developmental Disability</condition>
+  <condition>Child Development Disorder</condition>
+  <arm_group>
+    <arm_group_label>General Message</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In phase 1, three schools will be randomized to a messaging strategy that is developed from focus groups that generally describes COVID-19 and the importance of testing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Focus/Targeted Message</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In phase 1, three schools will be randomized to a messaging strategy that is developed from focus groups that is targeted to address specific concerns of the different communities. Messages may target groups being tested (staff versus students) or sociodemographic or race/ethnicity differences between schools depending on the FG input.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Best Message Alone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In phase 2, the schools will be randomized a second time after data analysis at 5 months to determine which communication strategy is determined to provide the best uptake of testing by students and staff. Three schools will be randomized to receive the best messaging strategy alone to begin at 7 months after testing starts.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Best Message + Augmented Message or Implementation Strategy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In phase 2, the schools will be randomized a second time after data analysis at 5 months to determine which communication strategy is determined to provide the best uptake of testing by students and staff. Three schools will be randomized to receive the best messaging strategy plus an augmented messaging or implementation strategy. The augmented messaging and implementation strategies will be informed by the barriers and facilitators identified based on the CFIR domains and results of focus groups and surveys in Aim 2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>General Communication Message</intervention_name>
+    <description>A messaging strategy will be developed from focus groups that generally describes COVID-19 and the importance of testing.</description>
+    <arm_group_label>General Message</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Focused/Targeted Message</intervention_name>
+    <description>A messaging strategy that is developed from focus groups that is targeted to address specific concerns of the different communities. Messages may target groups being tested (staff versus students) or sociodemographic or race/ethnicity differences between schools depending on the focus groups input.</description>
+    <arm_group_label>Focus/Targeted Message</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Best Message Alone</intervention_name>
+    <description>The best message will be either the general or focused/targeted message described above.</description>
+    <arm_group_label>Best Message Alone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Best Message + Augmented Message or Implementation Strategy</intervention_name>
+    <description>The augmented messaging and implementation strategies will be informed by the barriers and facilitators identified based on the CFIR domains and results of focus groups and surveys in Aim 2.</description>
+    <arm_group_label>Best Message + Augmented Message or Implementation Strategy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Students enrolled in the St. Louis Special School District.
+
+          -  Teachers/Staff working at the 6 St. Louis Special Schools dedicated to teaching
+             children with IDD.
+
+        or
+
+          -  Parents/ of students, teachers and/or staff employed by the St. Louis Special School
+             District or Kennedy Krieger Institute schools in Maryland or
+
+          -  Families, teachers, and staff of the 67 University Centers for Excellence in
+             Developmental Disabilities (UCEDD) which is sponsored by the Association of University
+             Centers for Disability (AUCD).
+
+        Exclusion Criteria:
+
+          -  Members of the research team will not be eligible to participate in the focus groups.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jason G. Newland, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jason G. Newland, MD</last_name>
+    <phone>314 747-5128</phone>
+    <email>jgnewland@wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hugo W. Moser Research Institute at Kennedy Krieger, Inc.</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Bradley Schlaggar, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Missouri</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>George S Grotto, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://evaluationcenter.wustl.edu/</url>
+    <description>Brown School Evaluation Center at Washington University in St. Louis</description>
+  </link>
+  <link>
+    <url>http://hcrl.wustl.edu/</url>
+    <description>Health Communication Research Laboratory at Washington University in St. Louis</description>
+  </link>
+  <link>
+    <url>http://iddrc.wustl.edu/</url>
+    <description>Intellectual and Developmental Disabilities Research Center at Washington University in St. Louis</description>
+  </link>
+  <link>
+    <url>https://www.kennedykrieger.org/research/centers-labs-cores/intellectual-and-developmental-disabilities-research-center-iddrc</url>
+    <description>Kennedy Krieger Institute Intellectual and Developmental Disabilities Research Center</description>
+  </link>
+  <link>
+    <url>https://ihd.umkc.edu/about-ihd/</url>
+    <description>UMKC Institute for Human Development</description>
+  </link>
+  <reference>
+    <citation>Lalli MA, Chen X, Langmade SJ, et al. Rapid and extraction-free detection of SARS-CoV-2 from saliva with colorimetric LAMP. medRxiv. 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Wylie AL, Fourneir J, Casanovas-Massana A, et al. Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs. medRxiv. 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Rader B, Astley CM, Sy KTL, Sewalk K, Hswen Y, Brownstein JS, Kraemer MUG. Geographic access to United States SARS-CoV-2 testing sites highlights healthcare disparities and may bias transmission estimates. J Travel Med. 2020 May 15. pii: taaa076. doi: 10.1093/jtm/taaa076. [Epub ahead of print]</citation>
+    <PMID>32412064</PMID>
+  </reference>
+  <reference>
+    <citation>Silliman Cohen RI, Bosk EA. Vulnerable Youth and the COVID-19 Pandemic. Pediatrics. 2020 Jul;146(1). pii: e20201306. doi: 10.1542/peds.2020-1306. Epub 2020 Apr 28. Review.</citation>
+    <PMID>32345686</PMID>
+  </reference>
+  <reference>
+    <citation>Landes SD, Turk MA, Formica MK, McDonald KE, Stevens JD. COVID-19 outcomes among people with intellectual and developmental disability living in residential group homes in New York State. Disabil Health J. 2020 Jun 24:100969. doi: 10.1016/j.dhjo.2020.100969. [Epub ahead of print]</citation>
+    <PMID>32600948</PMID>
+  </reference>
+  <reference>
+    <citation>Ross LF, Loup A, Nelson RM, Botkin JR, Kost R, Smith GR, Gehlert S. Nine key functions for a human subjects protection program for community-engaged research: points to consider. J Empir Res Hum Res Ethics. 2010 Mar;5(1):33-47. doi: 10.1525/jer.2010.5.1.33.</citation>
+    <PMID>20235862</PMID>
+  </reference>
+  <reference>
+    <citation>Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC. Fostering implementation of health services research findings into practice: a consolidated framework for advancing implementation science. Implement Sci. 2009 Aug 7;4:50. doi: 10.1186/1748-5908-4-50.</citation>
+    <PMID>19664226</PMID>
+  </reference>
+  <reference>
+    <citation>Waltz TJ, Powell BJ, Fernández ME, Abadie B, Damschroder LJ. Choosing implementation strategies to address contextual barriers: diversity in recommendations and future directions. Implement Sci. 2019 Apr 29;14(1):42. doi: 10.1186/s13012-019-0892-4.</citation>
+    <PMID>31036028</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou G, Lee MC, Atieli HE, Githure JI, Githeko AK, Kazura JW, Yan G. Adaptive interventions for optimizing malaria control: an implementation study protocol for a block-cluster randomized, sequential multiple assignment trial. Trials. 2020 Jul 20;21(1):665. doi: 10.1186/s13063-020-04573-y.</citation>
+    <PMID>32690063</PMID>
+  </reference>
+  <reference>
+    <citation>Steiner JF. Using stories to disseminate research: the attributes of representative stories. J Gen Intern Med. 2007 Nov;22(11):1603-7. Epub 2007 Sep 1.</citation>
+    <PMID>17763914</PMID>
+  </reference>
+  <reference>
+    <citation>Weiner BJ, Lewis CC, Stanick C, Powell BJ, Dorsey CN, Clary AS, Boynton MH, Halko H. Psychometric assessment of three newly developed implementation outcome measures. Implement Sci. 2017 Aug 29;12(1):108. doi: 10.1186/s13012-017-0635-3.</citation>
+    <PMID>28851459</PMID>
+  </reference>
+  <reference>
+    <citation>Jetter AJ, Schweinfort W. Building scenarios with Fuzzy Cognitive Mapping: An exploratory study of solar energy. Futures. 2011;43(1):52-66.</citation>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 25, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Washington University School of Medicine</investigator_affiliation>
+    <investigator_full_name>Jason Newland</investigator_full_name>
+    <investigator_title>Professor of Pediatrics</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Intellectual Disability</mesh_term>
+    <mesh_term>Developmental Disabilities</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

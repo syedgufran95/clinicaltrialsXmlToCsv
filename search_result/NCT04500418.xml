@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="161">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04500418</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CVC for COVID-19</org_study_id>
+    <secondary_id>2020-001493-29</secondary_id>
+    <nct_id>NCT04500418</nct_id>
+  </id_info>
+  <brief_title>Charité Trial of Cenicriviroc (CVC) Treatment for COVID-19 Patients</brief_title>
+  <official_title>Charité Trial of Cenicriviroc (CVC) Treatment for COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Charite University, Berlin, Germany</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Allergan</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Charite University, Berlin, Germany</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to test Cenicriviroc (CVC) as a means to reduce the severity of the
+      lung disease COVID-19 caused by an infection with SARS-CoV-2. The safety of CVC, when
+      administered to COVID-19 patients, will also be assessed. Furthermore, the clinical trial
+      aims to answer the question of whether patients with pre-existing conditions, who have an
+      increased risk of severe COVID-19 progression, benefit more and particularly from CVC. CVC is
+      an orally available dual inhibitor of the chemokine receptors CCR2 and CCR5, which is
+      expected to reduce (hyper-) inflammation in COVID-19.
+
+      The main goal of the study is to determine whether CVC helps increase the number of patients
+      who are symptom-free and not hospitalized after 14 days compared to a placebo. Approximately
+      66.7% of the patients enrolled in the study will receive CVC and 33.3% will get an optically
+      identical pill (placebo).
+
+      Subjects will be assessed daily while hospitalized. Discharged patients will be asked to
+      attend study visits at Days 8, 15, 22, and 29 and 85. All subjects will undergo a series of
+      clinical, safety, and laboratory assessments. Blood samples and oropharyngeal (OP) swabs will
+      be obtained on Day 1; 3, 5 (while hospitalized); and Day 8, 15 and 29 (if able to return to
+      clinic or still hospitalized). The presence of anti-SARS-CoV-2 antibodies will be determined
+      on Days 29 and 85.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 25, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A monocentric, randomized, double-blind, placebo-controlled trial.
+Randomization will be stratified by:
+Presence of baseline score of &quot;3&quot; on 7-point ordinal scale versus presence of baseline score of &quot;4&quot; or &quot;5&quot; on seven-point ordinal scale
+Presence of one or more of the following comorbidities: Diabetes mellitus, Obesity (BMI &gt;30kg/m2), COPD or Asthma, Heart failure (NYHA Class I or II)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Subject´s Responder status (score on the 7-point ordinal scale on Day 15)</measure>
+    <time_frame>14 days after enrollment (Day 15)</time_frame>
+    <description>The Primary Endpoint will be the subject's responder status defined by achieving a score of &quot;1&quot; or &quot;2&quot; (discharged from hospital e.g.) on Day 15 on the following 7-point scale:
+Not hospitalized, no limitations on activities;
+Not hospitalized, limitation on activities;
+Hospitalized, not requiring supplemental oxygen;
+Hospitalized, requiring supplemental oxygen;
+Hospitalized, on non-invasive ventilation or high-flow oxygen devices;
+Hospitalized, on invasive mechanical ventilation or ECMO (Extracorporeal membrane oxygenation);
+Death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of change in clinical condition based on the 7-point ordinal scale</measure>
+    <time_frame>day of enrollment and 15 days after enrollment</time_frame>
+    <description>7-point ordinal scale to be assessed on Day 15 (and Day 1 for baseline comparison), analyses of
+ordinal change of 2 or more, compared with baseline
+ordinal change of 1 or more, compared with baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of change in clinical condition based on the 7-point ordinal scale and Responder Status</measure>
+    <time_frame>day of enrollment, 8 days, 22 days and 29 days after enrollment</time_frame>
+    <description>7-point ordinal scale assessed on: Days 8, 22, 29 (and Day 1 for baseline comparison), analyses of:
+Responder status (achieving a score of a &quot;1&quot; or a &quot;2&quot;)
+ordinal change of 2 or more, compared with baseline
+ordinal change of 1 or more, compared with baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital resource utilization comparison</measure>
+    <time_frame>29 days after enrollment, 85 days after enrollment</time_frame>
+    <description>Analysis of:
+Length of time spent in the ICU (days)
+Length of time spent in the hospital (days)
+Days alive and out of hospital through Day 29
+Days free of endotracheal tube-based ventilation through Day 29</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">183</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Cenicriviroc (CVC)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Approximately 122 patients. Day 1: CVC 450 mg (300 mg AM; 150 mg PM; if patients receive their first dose on Day 1 past 2 PM, then their evening dose will be 300 mg and their next dose will be the following AM.) Days 2-28: CVC BID 150 mg (AM/PM). Every dose should be taken with food (within 30 min).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Approximately 61 patients. A matching placebo will be given to the patients in the Placebo group at an equal volume and at the same schedule.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cenicriviroc (CVC)</intervention_name>
+    <description>Treatment with Cenicriviroc tablets of 150mg. (450g/300g on day 1 and 300mg/d on days 2-28).</description>
+    <arm_group_label>Cenicriviroc (CVC)</arm_group_label>
+    <other_name>Cenicriviroc Mesylate</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Optically identical pills without CVC.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subject provides written informed consent prior to initiation of any study procedures.
+             Understands and agrees to comply with planned study procedures.
+
+          -  Male or non-pregnant female adult ≥18 years of age at time of enrolment.
+
+          -  Has laboratory-confirmed SARS-CoV-2 infection as determined by PCR and fulfils the
+             case criteria of COVID-19 (One or more of the following must be met in lieu of a
+             positive PCR test: fever [defined as a temperature ≥ 100.0°F / 37.8°C documented
+             within 24 hr. of randomization] , absolute and relative lymphopenia and leukopenia,
+             new typical infiltrates in x-ray of the chest or chest CT scan [only if obtained for
+             clinical reasons; not required by study], no improvement on antibiotics).
+
+          -  Scoring a &quot;3&quot; or &quot;4&quot; (or &quot;5&quot;, at the Investigator's discretion) on the 7-Point Ordinal
+             Scale (see Outcome Measures) at enrolment. Note, if scoring a &quot;2&quot; at screening,
+             inclusion will be met if the patient is in the process of being hospitalized or
+             admitted to an inpatient setting. Such a patient would be assigned a &quot;3&quot; at enrolment
+             for Baseline assessment purposes.
+
+          -  No participation in other clinical trials according to the German Medicines Act (AMG)
+             (3 months before) at the time of this trial.
+
+        Exclusion Criteria:
+
+          -  ALT/AST &gt; 5 times the upper limit of normal.
+
+          -  Patients with severe hepatic impairment (defined as liver cirrhosis Child stage B or
+             C)
+
+          -  Stage 4 chronic kidney disease or requiring dialysis (i.e. eGFR &lt; 30 ml/min)
+
+          -  Advanced cardiac (eg, severe heart failure [NYHA III-IV]) or pulmonary diseases which,
+             in the Investigator's judgment, would not make participation appropriate.
+
+          -  Pregnancy or breast feeding.
+
+          -  Anticipated transfer to another hospital which is not a study site within 72 hours.
+
+          -  Known allergy or hypersensitivity to CVC or its components.
+
+          -  Use of medications that are contraindicated with CVC and that could not be replaced or
+             stopped during the trial period
+
+          -  Administration of specified drugs which interfere with the metabolism of CVC.
+
+          -  Patients immediately or imminently requiring mechanical ventilation.
+
+          -  Patients unwilling to consent to saving and propagation of pseudonymised medical data
+             for study reasons.
+
+          -  Subjects who are legally detained in an official institution.
+
+          -  Subjects that are unsuitable to understand or to comply with the study requirements in
+             the opinion of the investigator.
+
+          -  Subjects who may be dependent on the sponsor, the investigator or the trial sites.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Frank Tacke, Prof. Dr.med.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Charité University, Berlin, Germany</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Frank Tacke, Prof. Dr. med.</last_name>
+    <phone>+49 30 450 553 022</phone>
+    <email>frank.tacke@charite.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Christoph Jochum, PD Dr. med.</last_name>
+    <phone>+49 30 450 514 102</phone>
+    <email>christoph.jochum@charite.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Medical Department of Hepatology and Gastroenterology, Charité University Medicine, Campus Virchow Klinikum (CVK) and Campus Charité Mitte (CCM)</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10117</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frank Tacke, Prof. Dr. med.</last_name>
+      <phone>+4930450553022</phone>
+      <email>frank.tacke@charite.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Christoph Jochum, PD Dr. med.</last_name>
+      <phone>+4930450514102</phone>
+      <email>christoph.jochum@charite.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Frank Tacke, Prof. Dr. med.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christoph Jochum, PD Dr. med.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Münevver Demir, PD Dr. med.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Florian Kurth, PD Dr. med.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christoph Ruwwe-Glösenkamp, Dr. med.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 5, 2020</study_first_posted>
+  <last_update_submitted>August 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 26, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Charite University, Berlin, Germany</investigator_affiliation>
+    <investigator_full_name>Prof. Dr. med. Frank Tacke</investigator_full_name>
+    <investigator_title>Prof. Dr. med., PhD, MHBA</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Cenicriviroc</keyword>
+  <keyword>CVC</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>TAK-652</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Undecided at this moment. (08/2020)</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

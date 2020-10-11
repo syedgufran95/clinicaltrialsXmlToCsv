@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3226">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04548544</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-29083 (b)</org_study_id>
+    <nct_id>NCT04548544</nct_id>
+  </id_info>
+  <brief_title>A Randomized Controlled Feasibility Study of Emotional Well-being of Adolescents Undergoing a Mindfulness Training During COVID-19</brief_title>
+  <official_title>A Randomized Controlled Feasibility Study of Emotional Well-being of Adolescents Undergoing a Mindfulness Training During the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 pandemic has been significantly affecting people's lives around the globe.
+      Social distancing, self-quarantine, shelter-in-place measures, economic challenges, and
+      COVID-19-cased illness and deaths have the potential to significantly impact mental health
+      and cause stress, anxiety, and depression. Adolescents may be especially vulnerable to this
+      situation, due to their increased vulnerability to the onset of depression and anxiety in
+      general.
+
+      One promising approach to reduce anxiety and depression in youth is a neuroscience-based
+      mindfulness intervention Training for Awareness Resilience and Action (TARA) (Henje Blom et
+      al., 2014). TARA is usually delivered over 12 weeks by two facilitators in groups of 10-15
+      adolescents in-person, and it has been shown to reduce symptoms of depression and anxiety in
+      depressed adolescents (Henje Blom et al., 2016) and modify brain properties (Yuan et al.,
+      2020). The TARA intervention can also be delivered remotely. Other types of therapy delivered
+      remotely, such as internet-based cognitive behavioral therapy, have shown comparable
+      efficiency to face-to-face delivery (Carlbring et al., 2017).
+
+      The objective of this study is to utilize an individually randomized group treatment,
+      open-label, waitlist-controlled clinical trial to test the feasibility of TARA (delivered
+      partially over Zoom) in improving the self-reported emotional well-being primary outcome
+      (emotional problems measured with the Strengths and Difficulties Questionnaire [SDQ]) in
+      healthy adolescents between the ages of 14 to 18 years old during the COVID-19 pandemic.
+
+      Our central hypothesis is that emotional well-being of adolescents in the intervention group
+      will improve stronger (or deteriorate less) than in the control group. We will test this
+      hypothesis in 21 adolescents randomized to the TARA intervention (partially delivered over
+      Zoom) (12 adolescents) or to the waitlist control group (9 adolescents).
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 18, 2019</start_date>
+  <completion_date type="Actual">May 20, 2020</completion_date>
+  <primary_completion_date type="Actual">May 20, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Emotional Problems</measure>
+    <time_frame>Baseline/randomization and 12 weeks after baseline/randomization</time_frame>
+    <description>Change in the level of emotional problems measured with the Strengths and Difficulties Questionnaire (SDQ). The emotional problems scores have a possible range of 0 to 10. Higher scores represent higher levels of emotional problems.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">21</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>TARA training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Training for Awareness, Resilience, and Action (TARA)</intervention_name>
+    <description>This will be a 12-week group meditation training - Training for Awareness, Resilience, and Action (TARA)</description>
+    <arm_group_label>TARA training</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Healthy female and male adolescents, 14-18 years old
+
+          -  Fluency in English
+
+        Exclusion Criteria:
+
+          -  Subjects younger or older than 14-18 years old.
+
+          -  Subjects who are not healthy. Subjects who are taking any psychotropic medication.
+
+          -  MRI contraindications (ferromagnetic objects on or inside the body, e.g., braces) and
+             pregnancy.
+
+          -  Not allowable: Current mindfulness training (e.g. MBSR, MBCT, DBT) and/or practice
+             with a typically sitting meditation or yoga of 20 or more minutes two or more times
+             per week within 60 days prior to study entry.
+
+          -  Potential adolescent subjects with current drug or alcohol use or dependence that, in
+             the opinion of the site investigator, would interfere with adherence to the study
+             requirements will be excluded and not allowed to enter the study.
+
+          -  Potential subjects with an inability or unwillingness to give written informed assent
+             or whose legal guardian/representative are unable or unwilling to give written
+             informed consent will be excluded and not allowed to enter the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Olga Tymofiyeva, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCSF</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

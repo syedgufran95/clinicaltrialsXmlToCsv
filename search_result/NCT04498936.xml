@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="516">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04498936</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-19 treatment</org_study_id>
+    <nct_id>NCT04498936</nct_id>
+  </id_info>
+  <brief_title>Sofosbuvir/Ledipasvir and Nitazoxanide for Treatment of COVID-19</brief_title>
+  <official_title>Efficacy of Adding Sofosbuvir/Ledipasvir Combination, or Nitazoxanide to the Standard of Care in Treatment of COVID-19: A Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Helwan University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The efficacy of treating COVID-19 infection by using Sofosbuvir/Ledipasvir and Nitazoxanide
+      will be examined. Included patients will be into 3 groups. The 1st group will receive
+      Sofosbuvir/Ledipasvir plus the standard care treatment (SCT). The 2nd group will take
+      Nitazoxanide and SCT, while the 3rd group will receive only SCT. Then the clinical
+      improvement and the rate of PCR change from positive to negative will be evaluated in each
+      group.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is an open-label, randomized, controlled trial. A total of 240 patients who are
+      recruited in 2 quarantine hospitals (15th of May hospital, Cairo, and Al Rajhi hospital,
+      Assiut), will be randomly assigned in a 1:1:1 ratio (80 patient in each treatment arm), to
+      receive either the fixed combination of Sofosbuvir/Ledipasvir (400 mg and 90 mg, orally) once
+      daily for 14 days, plus the standard care treatment regimen (SCT) for COVID-19 patients
+      according to the Egyptian Ministry of Health (MOH) protocol (Group 1), or nitazoxanide (500
+      mg, orally) four times per day for 14 days, plus STC (Group 2), or SCT alone (Group 3). All
+      treatment groups will be followed up by laboratory investigations and PCR for SARS-CoV-2
+      virus at the time of enrollment, days 5, 8, 11, and 14. Supportive care comprised, as
+      necessary, supplemental oxygen, noninvasive and invasive ventilation, antibiotic agents,
+      vasopressor support, renal-replacement therapy, and extracorporeal membrane oxygenation
+      (ECMO). To ensure a balanced distribution of case severities in all study groups,
+      randomization will be stratified based on the case severity index issued by WHO
+      (https://www.who.int/docs/default-source/coronaviruse/clinical-management-of-novel-cov.pdf).
+
+      Written informed consent will be obtained from all patients or the patient's legal
+      representative if the patient is too unwell to provide consent. The trial will be conducted
+      in accordance with the principles of the Declaration of Helsinki and the Good Clinical
+      Practice guidelines of the International Conference on Harmonisation. The authors are
+      responsible for designing the trial and for compiling and analyzing the data. The authors
+      vouch for data completeness and accuracy and adherence to the trial protocol.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 15, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change of PCR from positive to negative</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>The PCR will be done at time of recruitment, day 5, 8, 11, and 14. The time taken to have negative will be measured in each group.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical improvement</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Clinical improvement will be measured by detection of downgrading of cases severity according to the World Health Organization case severity classification.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>All patients will be asked about any possible adverse effects that they may suffer from taken drugs during their follow up. Any mentioned side effect will be reported. Drug discontinuation and it cause will be also reported if it happened.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>COVID</condition>
+  <arm_group>
+    <arm_group_label>Sofosbuvir/Ledipasvir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will receive a fixed combination of Sofosbuvir/Ledipasvir (400 mg and 90 mg, orally) once daily for 14 days, plus the standard care treatment regimen (SCT) for COVID-19 patients according to the Egyptian Ministry of Health (MOH) protocol.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will receive nitazoxanide (500 mg, orally) four times per day for 14 days, plus the standard care treatment regimen (SCT) for COVID-19 patients according to the Egyptian Ministry of Health (MOH) protocol.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard care treatment</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This group will receive only the standard care treatment regimen (SCT) for COVID-19 patients according to the Egyptian Ministry of Health (MOH) protocol.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sofosbuvir and Ledipasvir</intervention_name>
+    <description>Evaluate the efficacy of Sofosbuvir/Ledipasvir in treatment of COVID-19</description>
+    <arm_group_label>Sofosbuvir/Ledipasvir</arm_group_label>
+    <other_name>Treatment</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nitazoxanide</intervention_name>
+    <description>Evaluate the efficacy of Nitazoxanide in treatment of COVID-19</description>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+    <other_name>Treatment</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        This study is an open-label, randomized, controlled trial. A total of 216 patients who are
+        recruited in 2 quarantine hospitals (15th of May hospital, Cairo, and Al Rajhi hospital,
+        Assiut), will be randomly assigned in a 1:1:1 ratio (72 patient in each treatment arm), to
+        receive either the fixed combination of Sofosbuvir/Ledipasvir (400 mg and 90 mg, orally)
+        once daily for 14 days, plus the standard care treatment regimen (SCT) for COVID-19
+        patients according to the Egyptian Ministry of Health (MOH) protocol (Group 1), or
+        nitazoxanide (500 mg, orally) four times per day for 14 days, plus STC (Group 2), or SCT
+        alone (Group 3). All treatment groups will be followed up by laboratory investigations and
+        PCR for SARS-CoV-2 virus at the time of enrollment, days 5, 8, 11, and 14. Supportive care
+        comprised, as necessary, supplemental oxygen, noninvasive and invasive ventilation,
+        antibiotic agents, vasopressor support, renal-replacement therapy, and extracorporeal
+        membrane oxygenation (ECMO). To ensure a balanced distribution of case severities in all
+        study groups, randomization will be stratified based on the case severity index issued by
+        WHO
+        (https://www.who.int/docs/default-source/coronaviruse/clinical-management-of-novel-cov.pdf)
+        .
+
+        Written informed consent will be obtained from all patients or the patient's legal
+        representative if the patient is too unwell to provide consent. The trial will be conducted
+        in accordance with the principles of the Declaration of Helsinki and the Good Clinical
+        Practice guidelines of the International Conference on Harmonisation. The authors are
+        responsible for designing the trial and for compiling and analyzing the data. The authors
+        vouch for data completeness and accuracy and adherence to the trial protocol.
+
+        Inclusion Criteria:
+
+          -  This study will include patients with confirmed COVID-19 infection and admitted to
+             COVID-19 quarantine hospitals. Included patients should be &gt; 12 years old, with
+             creatinine clearance &gt; 30 mL/ml, and without any malignancy. Patients with COVID-19
+             infection are classified clinically into mild, moderate, severe, and critical cases
+             according to the management guide for COVID-19 published by the Egyptian Ministry of
+             Health and Population. Mild cases are defined as patients in whom clinical symptoms
+             are mild, and no pneumonia manifestations can be found in imaging. Moderate cases are
+             defined as patients having symptoms such as fever and respiratory tract symptoms, etc.
+             and pneumonia manifestations can be seen in imaging. Severe cases are patients who
+             meet any of the following criteria; (a) respiratory rate &gt; 30 breaths/min, (b) oxygen
+             saturations&lt; 93% at a rest state, (c) arterial partial pressure of oxygen (PaO2)/
+             Fraction of inspired oxygen (FiO2)&lt;300 mm Hg, or (d) patients with more than 50%
+             lesions progression within 24 to 48 hours in lung imaging should be treated as severe
+             cases. Finally, critical patients are those who are meeting any of the following
+             criteria; (a) occurrence of respiratory failure requiring mechanical ventilation, or
+             (b) the presence of shock; other organ failures that require monitoring and treatment
+             in the ICU. All patients with an established diagnosis of COVID-19 in Egyptian
+             quarantine hospitals at any clinical stage will be included in this study.
+
+        Exclusion Criteria:
+
+          -  Patients &lt; 12 years old.
+
+          -  Pregnant females.
+
+          -  Patients with renal impairment with creatinine clearance &lt; 30 mL/min.
+
+          -  Patients with malignancies particularly Hepatocellular Carcinoma (HCC).
+
+          -  Patients using Favipiravir or Lopinavir-Ritonavir, as the co-administration of these
+             drugs with Sofosbuvir/Ledipasvir has not been studied.
+
+          -  Patients with decompensated liver cirrhosis (Child-Pugh score B and C).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mohammed A Medhat, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mohamed El Kassas, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Helwan University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Haidi K Ramadan, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mohammed A Medhat, PhD</last_name>
+    <phone>+201000493632</phone>
+    <email>mmedhat83@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>15th May Hospital</name>
+      <address>
+        <city>Helwan</city>
+        <state>Cairo</state>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mohamed El kassas</last_name>
+      <email>m_elkassas@hq.helwan.edu.eg</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Assiut University Hospital</name>
+      <address>
+        <city>Assiut</city>
+        <zip>71515</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mohammed Medhat</last_name>
+      <phone>01000493632</phone>
+      <email>mohammed.medhat@aun.edu.eg</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <link>
+    <url>https://google.com/covid19-map/?hl=en</url>
+    <description>Epidemiological data about Covid-19</description>
+  </link>
+  <reference>
+    <citation>Ju, J., et al., Nucleotide Analogues as Inhibitors of Viral Polymerases. bioRxiv, 2020: p. 2020.01.30.927574.</citation>
+  </reference>
+  <reference>
+    <citation>Zumla A, Chan JF, Azhar EI, Hui DS, Yuen KY. Coronaviruses - drug discovery and therapeutic options. Nat Rev Drug Discov. 2016 May;15(5):327-47. doi: 10.1038/nrd.2015.37. Epub 2016 Feb 12. Review.</citation>
+    <PMID>26868298</PMID>
+  </reference>
+  <reference>
+    <citation>Elfiky AA. Ribavirin, Remdesivir, Sofosbuvir, Galidesivir, and Tenofovir against SARS-CoV-2 RNA dependent RNA polymerase (RdRp): A molecular docking study. Life Sci. 2020 Jul 15;253:117592. doi: 10.1016/j.lfs.2020.117592. Epub 2020 Mar 25. Erratum in: Life Sci. 2020 Aug 27;:118350.</citation>
+    <PMID>32222463</PMID>
+  </reference>
+  <reference>
+    <citation>Chen YW, Yiu CB, Wong KY. Prediction of the SARS-CoV-2 (2019-nCoV) 3C-like protease (3CL (pro)) structure: virtual screening reveals velpatasvir, ledipasvir, and other drug repurposing candidates. Version 2. F1000Res. 2020 Feb 21 [revised 2020 Jan 1];9:129. doi: 10.12688/f1000research.22457.2. eCollection 2020.</citation>
+    <PMID>32194944</PMID>
+  </reference>
+  <reference>
+    <citation>Mo Y, Fisher D. A review of treatment modalities for Middle East Respiratory Syndrome. J Antimicrob Chemother. 2016 Dec;71(12):3340-3350. Epub 2016 Sep 1. Review.</citation>
+    <PMID>27585965</PMID>
+  </reference>
+  <reference>
+    <citation>Cao B, Wang Y, Wen D, Liu W, Wang J, Fan G, Ruan L, Song B, Cai Y, Wei M, Li X, Xia J, Chen N, Xiang J, Yu T, Bai T, Xie X, Zhang L, Li C, Yuan Y, Chen H, Li H, Huang H, Tu S, Gong F, Liu Y, Wei Y, Dong C, Zhou F, Gu X, Xu J, Liu Z, Zhang Y, Li H, Shang L, Wang K, Li K, Zhou X, Dong X, Qu Z, Lu S, Hu X, Ruan S, Luo S, Wu J, Peng L, Cheng F, Pan L, Zou J, Jia C, Wang J, Liu X, Wang S, Wu X, Ge Q, He J, Zhan H, Qiu F, Guo L, Huang C, Jaki T, Hayden FG, Horby PW, Zhang D, Wang C. A Trial of Lopinavir-Ritonavir in Adults Hospitalized with Severe Covid-19. N Engl J Med. 2020 May 7;382(19):1787-1799. doi: 10.1056/NEJMoa2001282. Epub 2020 Mar 18.</citation>
+    <PMID>32187464</PMID>
+  </reference>
+  <reference>
+    <citation>European Association for the Study of the Liver. Electronic address: easloffice@easloffice.eu; European Association for the Study of the Liver. EASL Recommendations on Treatment of Hepatitis C 2018. J Hepatol. 2018 Aug;69(2):461-511. doi: 10.1016/j.jhep.2018.03.026. Epub 2018 Apr 9.</citation>
+    <PMID>29650333</PMID>
+  </reference>
+  <reference>
+    <citation>Wu A, Peng Y, Huang B, Ding X, Wang X, Niu P, Meng J, Zhu Z, Zhang Z, Wang J, Sheng J, Quan L, Xia Z, Tan W, Cheng G, Jiang T. Genome Composition and Divergence of the Novel Coronavirus (2019-nCoV) Originating in China. Cell Host Microbe. 2020 Mar 11;27(3):325-328. doi: 10.1016/j.chom.2020.02.001. Epub 2020 Feb 7.</citation>
+    <PMID>32035028</PMID>
+  </reference>
+  <reference>
+    <citation>Frieman M, Baric R. Mechanisms of severe acute respiratory syndrome pathogenesis and innate immunomodulation. Microbiol Mol Biol Rev. 2008 Dec;72(4):672-85, Table of Contents. doi: 10.1128/MMBR.00015-08. Review.</citation>
+    <PMID>19052324</PMID>
+  </reference>
+  <reference>
+    <citation>Rossignol JF. Nitazoxanide: a first-in-class broad-spectrum antiviral agent. Antiviral Res. 2014 Oct;110:94-103. doi: 10.1016/j.antiviral.2014.07.014. Epub 2014 Aug 7. Review.</citation>
+    <PMID>25108173</PMID>
+  </reference>
+  <reference>
+    <citation>Lam KK, Zheng X, Forestieri R, Balgi AD, Nodwell M, Vollett S, Anderson HJ, Andersen RJ, Av-Gay Y, Roberge M. Nitazoxanide stimulates autophagy and inhibits mTORC1 signaling and intracellular proliferation of Mycobacterium tuberculosis. PLoS Pathog. 2012;8(5):e1002691. doi: 10.1371/journal.ppat.1002691. Epub 2012 May 10.</citation>
+    <PMID>22589723</PMID>
+  </reference>
+  <reference>
+    <citation>Rossignol JF. Nitazoxanide, a new drug candidate for the treatment of Middle East respiratory syndrome coronavirus. J Infect Public Health. 2016 May-Jun;9(3):227-30. doi: 10.1016/j.jiph.2016.04.001. Epub 2016 Apr 16. Review.</citation>
+    <PMID>27095301</PMID>
+  </reference>
+  <reference>
+    <citation>Rossignol JF, La Frazia S, Chiappa L, Ciucci A, Santoro MG. Thiazolides, a new class of anti-influenza molecules targeting viral hemagglutinin at the post-translational level. J Biol Chem. 2009 Oct 23;284(43):29798-808. doi: 10.1074/jbc.M109.029470. Epub 2009 Jul 28.</citation>
+    <PMID>19638339</PMID>
+  </reference>
+  <reference>
+    <citation>Cao J, Forrest JC, Zhang X. A screen of the NIH Clinical Collection small molecule library identifies potential anti-coronavirus drugs. Antiviral Res. 2015 Feb;114:1-10. doi: 10.1016/j.antiviral.2014.11.010. Epub 2014 Nov 28.</citation>
+    <PMID>25451075</PMID>
+  </reference>
+  <reference>
+    <citation>Padmanabhan, S., Potential dual therapeutic approach against SARS-CoV-2/COVID-19 with Nitazoxanide and Hydroxychloroquine. 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Ueda Y, Ikegami T, Akamatsu N, Soyama A, Shinoda M, Goto R, Okajima H, Yoshizumi T, Taketomi A, Kitagawa Y, Eguchi S, Kokudo N, Uemoto S, Maehara Y. Treatment with sofosbuvir and ledipasvir without ribavirin for 12 weeks is highly effective for recurrent hepatitis C virus genotype 1b infection after living donor liver transplantation: a Japanese multicenter experience. J Gastroenterol. 2017 Aug;52(8):986-991. doi: 10.1007/s00535-017-1310-9. Epub 2017 Jan 30.</citation>
+    <PMID>28138756</PMID>
+  </reference>
+  <reference>
+    <citation>Liu CJ, Chuang WL, Sheen IS, Wang HY, Chen CY, Tseng KC, Chang TT, Massetto B, Yang JC, Yun C, Knox SJ, Osinusi A, Camus G, Jiang D, Brainard DM, McHutchison JG, Hu TH, Hsu YC, Lo GH, Chu CJ, Chen JJ, Peng CY, Chien RN, Chen PJ. Efficacy of Ledipasvir and Sofosbuvir Treatment of HCV Infection in Patients Coinfected With HBV. Gastroenterology. 2018 Mar;154(4):989-997. doi: 10.1053/j.gastro.2017.11.011. Epub 2017 Nov 22.</citation>
+    <PMID>29174546</PMID>
+  </reference>
+  <reference>
+    <citation>Lim YS, Ahn SH, Lee KS, Paik SW, Lee YJ, Jeong SH, Kim JH, Yoon SK, Yim HJ, Tak WY, Han SY, Yang JC, Mo H, Garrison KL, Gao B, Knox SJ, Pang PS, Kim YJ, Byun KS, Kim YS, Heo J, Han KH. A phase IIIb study of ledipasvir/sofosbuvir fixed-dose combination tablet in treatment-naïve and treatment-experienced Korean patients chronically infected with genotype 1 hepatitis C virus. Hepatol Int. 2016 Nov;10(6):947-955. Epub 2016 May 20.</citation>
+    <PMID>27198664</PMID>
+  </reference>
+  <reference>
+    <citation>Fox LM, Saravolatz LD. Nitazoxanide: a new thiazolide antiparasitic agent. Clin Infect Dis. 2005 Apr 15;40(8):1173-80. Epub 2005 Mar 14.</citation>
+    <PMID>15791519</PMID>
+  </reference>
+  <reference>
+    <citation>Stockis A, Deroubaix X, Lins R, Jeanbaptiste B, Calderon P, Rossignol JF. Pharmacokinetics of nitazoxanide after single oral dose administration in 6 healthy volunteers. Int J Clin Pharmacol Ther. 1996 Aug;34(8):349-51.</citation>
+    <PMID>8864798</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>April 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 5, 2020</study_first_posted>
+  <last_update_submitted>August 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Mohammed Ahmed Medhat</investigator_full_name>
+    <investigator_title>Lecturer of Tropical Medicine and Gastroenterology</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sofosbuvir</mesh_term>
+    <mesh_term>Ledipasvir</mesh_term>
+    <mesh_term>Ledipasvir, sofosbuvir drug combination</mesh_term>
+    <mesh_term>Nitazoxanide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

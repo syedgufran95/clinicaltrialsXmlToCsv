@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2896">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04529421</url>
+  </required_header>
+  <id_info>
+    <org_study_id>172155</org_study_id>
+    <nct_id>NCT04529421</nct_id>
+  </id_info>
+  <brief_title>Assocation Between In-person Instruction and COVID-19 Risk</brief_title>
+  <acronym>Campus&amp;Corona</acronym>
+  <official_title>Relationship Between In-person Instruction and COVID-19 Incidence Among University Students: A Prospective Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oslo Metropolitan University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Norwegian Institute of Public Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oslo Metropolitan University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Whether university teaching on campus with infection control measures in place is associated
+      with higher risk of COVID-19 than online instruction, is unknown. The investigators will
+      assess this by conducting repeated surveys among students at universities and university
+      colleges in Norway, where some instruction is given in-person, and some is provided online
+      (hybrid model). The investigators will ask about the students' COVID-19 status, and how much
+      in-person and online instruction the students are getting. The investigators will estimate
+      the association between in-person instruction and COVID-19-risk using multivariate
+      regression, controlling for likely confounders. The investigators will also assess whether
+      type of instruction is associated with how satisfied the students are with the instruction
+      the students are offered, their quality of life, and learning outcomes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators are inviting all universities and university colleges in Norway to take
+      part. All students at institutions that agree to participate will receive an SMS
+      (alternatively an e-mail) inviting them to take part in the study. The invitation includes a
+      link that directs participants to a web-based informed consent-form and questionnaire. The
+      investigators will use the University of Oslo's solutions for online consent form, web-based
+      survey (Nettskjema), and secure storage of research data (TSD).
+
+      The investigators will ask the participants if the participants have been tested for
+      COVID-19, the results of such a test, how much in-person instruction the students have been
+      offered, and how much online instruction the students have been offered. The investigators
+      will also inquire about other risk factors for COVID-19 and background variables that may be
+      included as potential adjustment factors (confounders) in the analyses (see Attachment 1 -
+      Questionnaire).
+
+      The investigators will survey the students every two weeks by new invitations by SMS or
+      e-mail. The study period will last as long as the universities maintain their arrangement
+      with in-person instruction for only select groups of students. The investigators plan for a
+      study period that lasts for the remainder of 2020. The investigators will ask for the
+      participants consent to link the survey results to information on study programme, basis for
+      admission, study status, academic results, sex and age from the Common Student System.
+
+      The investigators will run multivariate regressions to test whether there is an association
+      between in-person instruction and the outcomes.
+
+      In-person instruction is a continuous variable, defined as
+
+      (Number of days offered in-person instruction) / (Number of days offered in-person
+      instruction + Number of days offered online instruction)
+
+      The investigators will control for potentially confounding variables, including year of study
+      program, field of study, age, and gender. The investigators plan for separate analyses for
+      each participating university/university college, and a pooled analysis across institutions.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 incidence</measure>
+    <time_frame>Through study completion, i.e. 4 months.</time_frame>
+    <description>Self-reported positive test results</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life</measure>
+    <time_frame>Through study completion, i.e. 4 months.</time_frame>
+    <description>Self-reported (&quot;Overall, how satisfied are you with life right now?&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Satisfaction with teaching</measure>
+    <time_frame>Through study completion, i.e. 4 months.</time_frame>
+    <description>Self-reported (&quot;Overall, how satisfied have you been with the teaching you have received in the past 14 days?&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 testing incidence</measure>
+    <time_frame>Through study completion, i.e. 4 months.</time_frame>
+    <description>Self-reported</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Learning outcome</measure>
+    <time_frame>End of term, December 2020.</time_frame>
+    <description>Exam results from Common Student System</description>
+  </secondary_outcome>
+  <number_of_groups>12</number_of_groups>
+  <enrollment type="Anticipated">70000</enrollment>
+  <condition>Infection</condition>
+  <condition>Infection Control</condition>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 1</arm_group_label>
+    <description>All students at Higher Education Institution 1 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 2</arm_group_label>
+    <description>All students at Higher Education Institution 2 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 3</arm_group_label>
+    <description>All students at Higher Education Institution 3 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 4</arm_group_label>
+    <description>All students at Higher Education Institution 4 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 5</arm_group_label>
+    <description>All students at Higher Education Institution 5 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 6</arm_group_label>
+    <description>All students at Higher Education Institution 6 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 7</arm_group_label>
+    <description>All students at Higher Education Institution 7 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 8</arm_group_label>
+    <description>All students at Higher Education Institution 8 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 9</arm_group_label>
+    <description>All students at Higher Education Institution 9 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 10</arm_group_label>
+    <description>All students at Higher Education Institution 10 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 11</arm_group_label>
+    <description>All students at Higher Education Institution 11 who agree to take part in study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Students, Higher Education Institution 12</arm_group_label>
+    <description>All students at Higher Education Institution 12 who agree to take part in study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Online instruction</intervention_name>
+    <description>For some courses and groups of students, instruction is primarily offered digitally, so that the students can participate from outside campus.</description>
+    <arm_group_label>Students, Higher Education Institution 1</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 10</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 2</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 3</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 4</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 5</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 6</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 7</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 8</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 9</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>In-person instruction</intervention_name>
+    <description>For some courses and groups of students, instruction is primarily offered in-person, on campus (or elsewhere).</description>
+    <arm_group_label>Students, Higher Education Institution 1</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 10</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 2</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 3</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 4</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 6</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 7</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 8</arm_group_label>
+    <arm_group_label>Students, Higher Education Institution 9</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All university of university college students who agree to participate.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Student enrolled at university or university college
+
+          -  Agrees to participate (signed consent form)
+
+        Exclusion Criteria:
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Atle Fretheim, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oslo Metropolitan University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Atle Fretheim, PhD</last_name>
+    <phone>+4791649828</phone>
+    <email>atle.fretheim@fhi.no</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Arnfinn Helleve, PhD</last_name>
+    <phone>+4793046659</phone>
+    <email>arnfinn.helleve@fhi.no</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Oslo Metropolitan University</name>
+      <address>
+        <city>Oslo</city>
+        <zip>0130</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Atle Fretheim, PhD</last_name>
+      <phone>91649828</phone>
+      <email>atle.fretheim@fhi.no</email>
+    </contact>
+    <contact_backup>
+      <last_name>Gro Jamtvedt, PhD</last_name>
+      <email>groj@oslomet.no</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 27, 2020</study_first_posted>
+  <last_update_submitted>August 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Oslo Metropolitan University</investigator_affiliation>
+    <investigator_full_name>Atle Fretheim</investigator_full_name>
+    <investigator_title>Adjunct Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Social distancing</keyword>
+  <keyword>Digital instruction</keyword>
+  <keyword>In-person instruction</keyword>
+  <keyword>Campus</keyword>
+  <keyword>University</keyword>
+  <keyword>College</keyword>
+  <keyword>Higher education institutions</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We plan to make the full data set publicly available, after ensuring the re-identification of individuals is not possible.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>From spring 2021 and for at least 5 years.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

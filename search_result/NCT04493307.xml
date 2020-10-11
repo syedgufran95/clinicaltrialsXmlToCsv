@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="796">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04493307</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1602903</org_study_id>
+    <nct_id>NCT04493307</nct_id>
+  </id_info>
+  <brief_title>The Evaluation of Hemostasis in Hospitalized COVID-19 Patients</brief_title>
+  <acronym>TARGET-COVID</acronym>
+  <official_title>The Evaluation of Hemostasis by Thromboelastography, Platelet Function Testing, and Biomarker Analysis in Hospitalized COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>LifeBridge Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Haemonetics Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Inflammatory Markers Laboratory</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Chronolog Corporation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Precision Biologics, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>LifeBridge Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19), a viral respiratory illness caused by the severe acute
+      respiratory syndrome coronavirus 2 (SARS-CoV-2), has been shown to predispose patients to
+      thrombotic diseases (venous and arterial) with reported rates in hospitalized patients
+      between 17-40%. The influence of SARS-CoV-2 infection on the coagulation is hypothesized to
+      be regulated by platelet activation, proinflammatory cytokines, endothelial cell injury and
+      stasis. The elevated levels of d-dimer and fibrinogen and clinical signs of organ damage
+      point to a significant hypercoagulable state. The latter induces a high risk for
+      micro-thrombi and multi-organ ischemia. Therefore, early detection and a comprehensive
+      understanding of the influence of the virus on the coagulation and platelet pathways are
+      essential to address this epidemic. It is critical at this time to make all efforts possible
+      to optimize our available technology to care for COVID-19 patients who are at risk for
+      thrombotic disease through appropriate choice, dosing, and laboratory monitoring of
+      antithrombotic therapy.
+
+      The investigators hypothesize that COVID-19 is a heightened prothrombotic/hypercoagulability
+      state that can be characterized using platelet function testing and thrombelastography. More
+      information is required to study the effect of COVID-19 on coagulation and platelet pathways
+      to develop effective antithrombotic treatment strategies.
+
+      This is a multi-center center, non-interventional study enrolling patients who are COVID-19
+      positive or who have tested negative showing indication of the disease (high D-dimer and
+      positive lung imaging). The study specific laboratory assessments will be obtained at
+      baseline (closest to time of hospitalization), Day 3, and Day 8 from baseline and at hospital
+      discharge. Laboratory measurements for TEG 6S , platelet aggregation, T-TAS, urinary
+      thromboxane, genotyping, serum and plasma biomarkers will be analyzed . In-hospital and
+      clinical follow-up data will be entered into a COVID registry Patients will be followed for
+      clinical events during hospitalization, and up to 6 months after discharge.
+
+      Patients (n=100) hospitalized with at least one of the following will be enrolled.
+
+        1. With a confirmed diagnosis of COVID-19 infection using a positive RT- PCR or a positive
+           IgG antibody test prior to or during hospitalization or
+
+        2. With a negative COVID-19 RT-PCR test but with symptoms of possible
+
+      COVID-19 infection and:
+
+        1. an elevated D-dimer and/or
+
+        2. positive imaging results showing unilateral or bilateral pneumonia or ground-glass
+           opacity in lungs.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators hypothesize that serial evaluation of (a) intrinsic thrombogenicity
+      measured by thromboelastography (b) platelet activation and aggregation, and (c) selected
+      biomarkers will provide the &quot;blueprint&quot; of individual hemostasis to precisely characterize
+      COVID-19 patients who are at heightened risk for thrombosis or bleeding. The latter will
+      facilitate future efforts to personalize antithrombotic therapy regimens in COVID-19
+      patients.
+
+      Coronavirus disease 2019 (COVID-19), a viral respiratory illness caused by the severe acute
+      respiratory syndrome coronavirus 2 (SARS-CoV-2), has been shown to predispose patients to
+      thrombotic diseases (venous and arterial) with reported rates in hospitalized patients
+      between 17- 40%. The influence of SARS-CoV-2 infection on the coagulation is hypothesized to
+      be regulated by platelet activation, proinflammatory cytokines, endothelial cell injury and
+      stasis.
+
+      The elevated levels of d-dimer and fibrinogen and clinical signs of organ damage point to a
+      significant hypercoagulable state. The latter induces a high risk for micro-thrombi and
+      multiorgan ischemia. Therefore, early detection and a comprehensive understanding of the
+      influence of the virus on the coagulation and platelet pathways are essential to address this
+      epidemic. It is critical at this time to make all efforts possible to optimize our available
+      technology to care for COVID-19 patients who are at risk for thrombotic disease through
+      appropriate choice, dosing, and laboratory monitoring of antithrombotic therapy.
+
+      Our research group and others have reported a &quot;thrombo-inflammatory&quot; state-a distinct
+      pathophysiological state -of heightened platelet function, hypercoagulability, and
+      inflammation in several cardiovascular disease (CVD) processes. It has been demonstrated that
+      patients with acute respiratory infections are at elevated risk for acute myocardial
+      infarction after influenza (incidence ratio [IR] 6.1, 95% CI 3.9-9.5) and after non-influenza
+      viral illnesses including other coronavirus species (IR 2.8, 95% CI 1.2-6.2). Tantry et al.
+      proposed a mechanistic link between inflammation and heightened thrombogenicity in the
+      presence of unstable CVD state. Furthermore, investigators have hypothesized that this
+      thrombo-inflammatory state becomes even more relevant when patients with CVD and human
+      immunodeficiency virus (HIV) infection undergo percutaneous coronary intervention (PCI).A
+      similar scenario may be present during COVID-19 infection, where evidence of an early
+      myonecrosis may be related to fundamental changes in pathways affecting thrombosis. However,
+      currently, there is no information on how COVID-19 influences hemostasis/thrombosis pathways
+      and subsequent adverse clinical event occurrences.
+
+      Cardiovascular comorbidities including hypertension, obesity, high cholesterol, and diabetes
+      mellitus are common in patients with COVID-19 and such patients are at higher risk for
+      morbidity and mortality.12 Furthermore, emerging demographic data in COVID-19 patients shows
+      that incidence and mortality is disproportionately higher in African Americans and Latinos.
+      In a study conducted at Sinai hospital, Lev et al. analyzed a large cohort of racially
+      diverse patients (n=1,172) with CAD or CV risk and demonstrated that sex and race are
+      significantly associated with platelet-fibrin clot strength, a marker of hypercoagulability.
+      Most interesting, AA women had the highest thrombogenicity profile, potentially conferring a
+      highrisk phenotype for thrombotic event occurrence. Furthermore, in a study entitled,
+      &quot;PlateletReactivity in Different Ethnicities&quot; also conducted at Sinai hospital, investigators
+      have demonstrated that Latino and AA races had the highest platelet-fibrin clot strength as
+      compared to Caucasians and others races studied.The latter findings may be described by
+      difference in frequency of a single-nucleotide variant in protease-activated receptor-4
+      (PAR-4) between AA and Caucasians respectively (63% vs 19%). PAR-4 is an active thrombin
+      receptor on human platelets essential for thrombin-induced platelet activation and has been
+      shown to be more active in African Americans as compared to Caucasians. This evidence may
+      provide a potential mechanistic explanation for racial disparities observed in COVID-19
+      patients and require further investigation. Hence, investigators will collect a genetic
+      sample to analyze single-nucleotide variant of PAR-4 and other genetic markers related to
+      thrombosis.
+
+      Thromboelastography (TEG) is a method for measuring global hemostasis and has been widely
+      used in surgery and anesthesiology, emergency departments, trauma centers, intensive care
+      units,and cardiac catheterization labs for transfusion management, prediction of thrombotic
+      and bleeding events, and choice/adjustment of anticoagulation and antiplatelet therapies.
+      Light transmittance aggregometry (LTA) is a widely used gold standard method for identifying
+      heightened platelet reactivity to various agonists, a marker of thrombotic risk.More common
+      conventional coagulation tests include prothrombin time (PT, INR), partial thromboplastin
+      time (aPTT), fibrinogen, platelet count, and d-dimer. However, these latter tests do not
+      reflect interactions between platelets, endothelium, and fibrinolytic factors and must be
+      used in combination to provide a complete picture of hemostasis status. Unlike these tests,
+      the TEG can assess platelet function, clot strength, and fibrinolysis. Furthermore, The TEG6s
+      Hemostasis Analyzer is a portable, all-in-one cartridge-based system that requires minimal
+      blood sample and minimal sample processing, a potential safety advantage when processing
+      blood samples in COVID-19 patients. Lastly, COVID-19 infection may be associated with acute
+      cardiac injury as indicated by elevation of cardiac biomarkers to &gt; 99th percentile of the
+      upper reference limit, but also electrocardiographic and echocardiographic abnormalities.
+      Cardiac injury is highly prevalent in patients with COVID-19 but may not be an important
+      marker as it occurs after damage has been done. Inosine and hypoxanthine are specific markers
+      of acute cardiac ischemia (ACI) that are measurable within 20 minutes as compared to 4 hours
+      with CKMB and Troponin testing. Investigators believe that this marker may indicate the early
+      presence of micro-thrombi and organ damage. Investigators plan to investigate these novel
+      markers in this trial. Investigators hypothesize that COVID-19 is a heightened
+      prothrombotic/hypercoagulability state that can be characterized using platelet function
+      testing and Thromboelastography. More information is required to study the effect of COVID-19
+      on coagulation and platelet pathways to develop effective antithrombotic treatment
+      strategies.
+
+      The study is a multi-center, non-interventional study involving laboratory testing of blood
+      samples and data collection for a COVID registry using electronic medical records. The study
+      specific laboratory assessments will be obtained at baseline (closest to time of
+      hospitalization), Day 3 and Day 8 from baseline, and at hospital discharge. Patients will be
+      followed for clinical events during hospitalization, and 1 and 6 months after discharge.
+      Patients (n=100) hospitalized at Sinai Hospital of Baltimore and Northwest Hospital with at
+      least one of the following will be enrolled.
+
+        1. With a confirmed diagnosis of COVID-19 infection using a positive RT-PCR or a positive
+           IgG antibody test prior to or during hospitalization or,
+
+        2. With a negative COVID-19 RT-PCR test but with symptoms of possible COVID-19infection
+           and:
+
+             1. an elevated D-dimer and/or
+
+             2. positive imaging results showing unilateral or bilateral pneumonia or ground glass
+                opacity in lungs.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 30, 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of Hypercoagulability as measured by thromboelastography measured by TEG and platelet aggregation.</measure>
+    <time_frame>up to day 8</time_frame>
+    <description>Frequency of Hypercoagulability as measured by point-of-care thromboelastography (TEG6s)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of High Platelet Reactivity (HPR)</measure>
+    <time_frame>up to day 8</time_frame>
+    <description>Incidence of High Platelet Reactivity as measured by platelet aggregation and TEG6s</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of thrombo-inflammatory syndrome</measure>
+    <time_frame>up to day 8</time_frame>
+    <description>Frequency of thrombo -inflammatory syndrome as determined by D-Dimer and TEG6s</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between TEG6s parameters and clinical outcomes</measure>
+    <time_frame>through study completion, an average of 6 months</time_frame>
+    <description>Correlation between TEG6s parameters and clinical outcomes (thrombotic and bleeding events, need for ventilation, death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between HPR and clinical outcomes</measure>
+    <time_frame>through study completion, an average of 6 months</time_frame>
+    <description>Correlation between HPR and clinical outcomes (thrombotic and bleeding events, need for ventilation, death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine response to anticoagulation therapy</measure>
+    <time_frame>up to day 8</time_frame>
+    <description>Determine response to anticoagulation therapy by calculating change in R-value (CK -CKH)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine level of platelet aggregation</measure>
+    <time_frame>up to day 8</time_frame>
+    <description>Determine level of platelet aggregation by impedance aggregometry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine level of platelet aggregation</measure>
+    <time_frame>up to day 8</time_frame>
+    <description>Determine percent platelet aggregation by TEG-6S platelet Mapping assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine platelet thrombi and fibrin rich platelet thrombus Area Under the Curve</measure>
+    <time_frame>up to day 8</time_frame>
+    <description>Determine platelet thrombi and fibrin rich platelet thrombus Area Under the Curve using TTAS analyzer</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>COVID-19</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Phlebotomy</intervention_name>
+    <description>Serial assessment of hemostasis by blood and urine collection</description>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood and urine samples will be collected at study timepoints for the following:
+
+        1. TEG6S with citrated multi-channel and Platelet Mapping cartridges
+
+        2. Platelet aggregation will be assessed using a Chronolog Lumi- Aggregometer
+
+        3. Serum and Plasma Biomarkers of Inflammation/Cytokine Storm, Coagulation,and
+           Ischemia/Organ Injury
+
+        4. Urinary 11-dehydrothromboxane B2
+
+        5. Evaluation of whole blood thrombogenicity using The Total Thrombus- Formation Analysis
+           System (T-TAS)
+
+        6. Genotyping: Genetic variations of single nucleotide polymorphisms (SNPs) related to
+           coagulation, platelet function, immune response and thrombosis related clinical outcomes
+           using SNP microarrays and PCR-based methods.
+
+        7. COVID-19 Antibody Detection
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study's intended population is inclusive of both genders (males and females), aged 3
+        years and older, and all racial and ethnic groups.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  · Confirmed diagnosis of COVID-19 infection using a positive RT-PCR or a positive IgG
+             antibody test prior to or during hospitalization or,
+
+             · With a negative COVID-19 RT-PCR test but with symptoms of possible COVID-19
+             infection and:
+
+          -  elevated D-dimer and/or
+
+          -  positive imaging results showing unilateral or bilateral pneumonia or ground-glass
+             opacity in lungs · The subject or legal authorized representative able to read and
+             sign an informed consent document including authorization permitting release of
+             personal health information approved by the investigator's Institutional Review Board
+             (IRB).
+
+        Exclusion Criteria:
+
+        Subjects will be excluded from entry if ANY of the criteria listed below are met:
+
+          -  Less than 3 years of age
+
+          -  Subject is pregnant
+
+          -  Active treatment for cancer
+
+          -  History of long-term use of immunosuppressive agents
+
+          -  History of severe chronic respiratory disease and requirement for long-term oxygen
+             therapy
+
+          -  Patients undergoing hemodialysis or peritoneal dialysis
+
+          -  Patients on full dose anticoagulant at the time of enrollment
+
+          -  Any condition unsuitable for the study as determined by investigators
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul A Gurbel, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>LifeBridge Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>kevin bliden, MBA</last_name>
+    <phone>4432441497</phone>
+    <email>kbliden@lifebridgehealth.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cescelle Barbour, MSN</last_name>
+    <phone>4106014194</phone>
+    <email>cbarbour@lifebridgehealth.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sinai Center for Thrombosis Research</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kevin P Bliden, B.S. MBA</last_name>
+      <phone>443-244-1497</phone>
+      <email>kbliden@lifebridgehealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Cescelle B Barbour, MSN</last_name>
+      <phone>4106014194</phone>
+      <email>cbarbour@lifebridgehealth.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Paul A Gurbel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jaime Barnes, DO</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ashwin Dharmadhikari, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>June 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>July 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

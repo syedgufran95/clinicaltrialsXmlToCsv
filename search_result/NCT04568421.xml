@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2500">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04568421</url>
+  </required_header>
+  <id_info>
+    <org_study_id>01</org_study_id>
+    <nct_id>NCT04568421</nct_id>
+  </id_info>
+  <brief_title>Argentinian Registry of Patients With Rheumatic Diseases and COVID-19 Infection</brief_title>
+  <acronym>SAR-COVID</acronym>
+  <official_title>Argentinian Registry of Patients With Rheumatic Diseases and COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sociedad Argentina de Reumatologia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sociedad Argentina de Reumatologia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SAR-COVID is a national, multicenter, prospective, observational longitudinal registry of
+      consecutive patients with diagnosis of rheumatic diseases treated or not with
+      immunomodulatory and/or immunosuppressive drugs and SARS-CoV-2 infection (asymptomatic or
+      COVID-19).
+
+      Hypothesis: Patients with rheumatic diseases who are under chronic treatment with
+      immunomodulatory and/or immunosuppressive drugs more frequently have an asymptomatic
+      infection, a milder COVID-19 and lower mortality than patients with rheumatic diseases
+      without immunomodulatory and/or immunosuppressive treatments.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SAR-COVID is a national, multicenter, prospective, observational longitudinal registry of
+      consecutive patients with diagnosis of rheumatic diseases treated or not with
+      immunomodulatory and/or immunosuppressive drugs and SARS-CoV-2 infection (asymptomatic or
+      COVID-19).
+
+      HYPOTESIS: Patients with rheumatic diseases who are under chronic treatment with
+      immunomodulatory and/or immunosuppressive drugs more frequently have an asymptomatic
+      infection, a milder COVID-19 and lower mortality than patients with rheumatic diseases
+      without immunomodulatory and/or immunosuppressive treatments.
+
+      TARGET POPULATION: Patients &gt; 18 years of age with any rheumatic disease. ELIGIBILITY
+      CRITERIA Inclusion Criteria
+
+        -  Age &gt; 18 years.
+
+        -  Patients with diagnosis of rheumatic diseases (treated or not with immunomodulatory
+           and/or immunosuppressive drugs).
+
+        -  Patients with diagnosis of SARS-CoV-2 infection (past or present) with positive test for
+           the virus SARS-CoV-2 from analysis of nasopharyngeal or oropharyngeal swab specimens
+           (reverse transcriptase-polymerase- chain-reaction assay) or by serology, independently
+           of symptoms.
+
+      Exclusion Criteria
+
+      • Patients who do not wish to participate or are unable to give informed consent.
+
+      RECRUITMENT: All rheumatologists, members of the Argentine Society of Rheumatology will be
+      invited to participate in the registry. It is expected that 3,000 patients with COVID-19 and
+      some rheumatic disease, who are cared for by rheumatologists in any of the 23 provinces of
+      Argentina, will be enrolled in the SAR-COVID registry during the period from July 1 to
+      December 31, 2020. Twelve-month extension of the recruitment period will be applied if the
+      expected number of patients is not achieved by the end of the inclusion date. Two cohorts
+      will be included: the first will enroll 1,500 patients treated with immunomodulatory and/or
+      immunosuppressive drugs, and the second will enroll 1,500 patients without immunomodulatory
+      and/or immunosuppressive drugs.
+
+      DATA COLLECTION: All variables will be collected by self-report, clinical and laboratory
+      examination and/or medical records review, performed by the rheumatologist during patient
+      hospitalization due to COVID-19, or at the patient control visit performed after SARS-CoV-2
+      infection. The data will be entered into the ARTHROS eCRF (online application designed ad
+      hoc), which in turn will facilitate generating queries and perform the statistical analysis.
+
+      PERIODIC REPORTS: Patients will be followed up for 12 months, in order to evaluate their
+      evolution and identify the effect of the SARS-CoV-2 infection on their rheumatological
+      disease. For this reason, in this registry the data will be collected in two phases:
+
+        -  PHASE I: Corresponds to the baseline visit (T0). Sociodemographic data, diagnosis,
+           symptoms, treatment, hospitalization, complications, characteristics of the rheumatic
+           disease and its treatment before and during the infectious process will be recorded.
+
+        -  PHASE II: This second visit (T1) will be carried out 12 months after patients
+           registration. Its objective is to identify long-term complications after SARS-CoV-2
+           infection and to assess the impact of infection on rheumatic disease.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 18, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>12 Months</target_duration>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>2 month</time_frame>
+    <description>Death caused by SARS-CoV-2 infection</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hospitalization</measure>
+    <time_frame>2 month</time_frame>
+    <description>Hospitalization because of SARS-CoV-2 infection</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 infection presentation</measure>
+    <time_frame>1 month</time_frame>
+    <description>To describe clinical presentation of SARS-CoV-2 infection in patients with rheumatic diseases</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Admission at the intensive care unit</measure>
+    <time_frame>2 month</time_frame>
+    <description>Proportion of patients admitted at the intensive care unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Invasive mechanical ventilation</measure>
+    <time_frame>2 month</time_frame>
+    <description>Proportion of patients who required invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Complications</measure>
+    <time_frame>2 month</time_frame>
+    <description>Proportion of patients who had complications associated with COVID-19 infection and describe them</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Recovery rate</measure>
+    <time_frame>2 month</time_frame>
+    <description>Proportion of patients fully or partially recovered after COVID-19 infection.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Rheumatic Diseases</condition>
+  <arm_group>
+    <arm_group_label>Treated with immunomodulatory and/or -suppressive drugs</arm_group_label>
+    <description>Patients with rheumatic diseases treated with immunomodulatory and/or immunosuppressive drugs and with diagnosis of SARS-CoV-2 infection (past or present) with positive test for the virus SARS-CoV-2 from analysis of nasopharyngeal or oropharyngeal swab specimens (reverse transcriptase-polymerase- chain-reaction assay) or by serology, independently of symptoms.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Not treated with immunomodulatory and/or -suppressive drugs</arm_group_label>
+    <description>Patients with rheumatic diseases not treated with immunomodulatory and/or immunosuppressive drugs and with diagnosis of SARS-CoV-2 infection (past or present) with positive test for the virus SARS-CoV-2 from analysis of nasopharyngeal or oropharyngeal swab specimens (reverse transcriptase-polymerase- chain-reaction assay) or by serology, independently of symptoms.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Immunosuppressive Agents</intervention_name>
+    <description>Immunomodulatory and/or immunosuppressive drugs according to the indication of the treating physician</description>
+    <arm_group_label>Treated with immunomodulatory and/or -suppressive drugs</arm_group_label>
+    <other_name>Immunomodulatory and/or immunosuppressive treatments</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with COVID-19 and some rheumatic disease, who are cared for by rheumatologists in
+        any of the 23 provinces of Argentina
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age equal or older than 18 years.
+
+          -  Patients with diagnosis of rheumatic diseases (treated or not with immunomodulatory
+             and/or immunosuppressive drugs).
+
+          -  Patients with diagnosis of SARS-CoV-2 infection (past or present) with positive test
+             for the virus SARS-CoV-2 from analysis of nasopharyngeal or oropharyngeal swab
+             specimens (reverse transcriptase-polymerase- chain-reaction assay) or by serology,
+             independently of symptoms.
+
+        Exclusion Criteria:
+
+          -  Patients who do not wish to participate or are unable to give informed consent.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Guillermo Pons-Estel</last_name>
+    <role>Study Director</role>
+    <affiliation>Unidad de Investigación Sociedad Argentina Reumatología</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Guillermo Pons-Estel, PhD</last_name>
+    <phone>+5493412644125</phone>
+    <email>unisar@reumatologia.org.ar</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Carolina Isnardi, MD</last_name>
+    <phone>+5491169583394</phone>
+    <email>carolina.isnardi@reumatologia.org.ar</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sociedad Argentina de Reumatología</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <state>Caba</state>
+        <zip>1022</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Guillermo Posn-Estel, PhD</last_name>
+      <phone>+5493412644125</phone>
+      <email>unisar@reumatologia.org.ar</email>
+    </contact>
+    <contact_backup>
+      <last_name>Carolina Isnardi, MD</last_name>
+      <phone>+541169583394</phone>
+      <email>carolina.isnardi@reumatologia.org.ar</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rheumatic Diseases</mesh_term>
+    <mesh_term>Collagen Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunosuppressive Agents</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 14, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/21/NCT04568421/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

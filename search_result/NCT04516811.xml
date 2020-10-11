@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1893">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516811</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PROTECT-Patient trial</org_study_id>
+    <nct_id>NCT04516811</nct_id>
+  </id_info>
+  <brief_title>Therapeutic Use of Convalescent Plasma in the Treatment of Patients With Moderate to Severe COVID-19</brief_title>
+  <official_title>A Prospective, Randomized, Placebo-controlled, Double-blinded, Phase III Clinical Trial of the Therapeutic Use of Convalescent Plasma in the Treatment of Patients With Moderate to Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>South African National Blood Service</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>South African National Blood Service</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A prospective, randomized, placebo-controlled, double-blinded, phase III clinical trial of
+      the therapeutic use of convalescent plasma in the treatment of patients with moderate to
+      severe COVID-19
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Full Title: A prospective, randomized, placebo-controlled, double-blinded, phase III clinical
+      trial of the therapeutic use of convalescent plasma in the treatment of patients with
+      moderate to severe COVID-19.
+
+      Short Title: PROTECT-Patient study
+
+      Aim: Assess the safety and efficacy of COVID-19 convalescent plasma (CCP) as a therapeutic
+      treatment for hospitalised patients with moderate to severe COVID-19
+
+      Study Design: Randomised, double-blinded, placebo-controlled, phase III clinical trial
+
+      Intervention: Randomised 1:1 to either CCP plus standard of care (SOC) or to SOC plus placebo
+      (200 mL normal saline)
+
+      Active Agent: A single unit of approximately 200-250 mL of CCP that contains anti-SARS-CoV-2
+      collected by plasmapheresis from a volunteer who recovered from COVID19 with SOC as
+      determined by local practice and guidelines.
+
+      Placebo: A single unit of 200 mL normal saline with SOC as determined by local practice and
+      guidelines
+
+      Sample Size: 600
+
+      Study Population: Consenting adult inpatients with moderate to severe COVID-19, not requiring
+      invasive ventilation, who are admitted to a participating public or private sector hospital
+      and who are not enrolled in another COVID-19 treatment trial.
+
+      Settings: Participating public and private sector hospitals in South Africa
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 21, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participant identification numbers (PIN), assigned at the screening/enrolment visit, will be used throughout the study. After signing the informed consent document, eligible participants will be randomised to one of the treatment arms, stratified by study site, age group (&lt;=65; &gt;65 years old) and body mass index (BMI) (&lt;30; &gt;=30 kg/m2). An electronic randomisation application will generate the treatment allocation. The trial Program Manager (PM), who will have no direct contact with trial participants or involvement in eligibility assessment or outcome assignment, will maintain the randomisation code.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Neither participants nor the investigators will be aware of the participant's treatment allocation until the end of the study (double blinding). Blinding will be maintained by local blood bank preparing the appropriate IP and Placebo. Unmasking procedures are detailed by SOP</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Improvement</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of participants with successful treatment outcome, defined as clinical improvement (≥ 2 points on WHO R&amp;D BOSCI 1) by Day 28 post-randomisation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events of special interest</measure>
+    <time_frame>Day 28</time_frame>
+    <description>1. Proportion of participants with adverse events of special interest (Transfusion-Associated Circulatory Overload (TACO); Transfusion-Related Acute Lung Injury (TRALI); allergic transfusion reaction).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious Adverse Events</measure>
+    <time_frame>Day 28</time_frame>
+    <description>2. Proportion of participants with serious adverse events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival</measure>
+    <time_frame>Day 28</time_frame>
+    <description>3. Proportion of participants surviving at Day 28 post-randomisation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Invasive mechanical ventilation</measure>
+    <time_frame>Day 28</time_frame>
+    <description>4. Proportion of participants requiring invasive mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease severity</measure>
+    <time_frame>Day 28</time_frame>
+    <description>5. Proportion of participants with moderate and severe ARDS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to outcomes of interest</measure>
+    <time_frame>Day28</time_frame>
+    <description>6. Time from randomization to death, clinical improvement, ICU admission, and invasive mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay meausures</measure>
+    <time_frame>Day28</time_frame>
+    <description>7. Duration of hospitalisation, ICU stay, and mechanical ventilation in survivors.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV PCR</measure>
+    <time_frame>Day28</time_frame>
+    <description>8. Proportion negative SARS-CoV-2 PCR at Day 28; time to viral clearance (PCR-negativity); change in SARS-CoV-2 PCR Ct value.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory markers</measure>
+    <time_frame>Day28</time_frame>
+    <description>9. Proportion with and time to normalisation of inflammatory markers, including CRP, lymphocyte count, D-dimer, ferritin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiography</measure>
+    <time_frame>Day28</time_frame>
+    <description>10. Worsening of radiographic abnormalities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fever &amp; Hypoxia</measure>
+    <time_frame>Day28</time_frame>
+    <description>11. Proportion with and time to resolution of fever and hypoxia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>patients with HIV infection and other comorbidities</measure>
+    <time_frame>Day 28</time_frame>
+    <description>12. Proportion of patients with HIV infection and other comorbidities (obesity, diabetes, hypertension) with primary efficacy outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Timing of IP &amp; Efficacy Outcome</measure>
+    <time_frame>Day 28</time_frame>
+    <description>13. Relationship between timing of transfusion from symptom onset and primary efficacy outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralising Ab</measure>
+    <time_frame>Day28</time_frame>
+    <description>14. Relationship between convalescent plasma neutralizing antibody titers and primary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS CoV Antibody titre</measure>
+    <time_frame>Day28</time_frame>
+    <description>15. Comparison of anti-SARS-CoV-2 titer dynamics between treatment arms</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single unit of approximately 200-250 mL of CCP that contains anti-SARS-CoV-2 collected by plasmapheresis from a volunteer who recovered from COVID19 with SOC as determined by local practice and guidelines.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>A single unit of 200 mL normal saline with SOC as determined by local practice and guidelines.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 convalescent plasma (CCP) plus standard of care (SOC)</intervention_name>
+    <description>A single unit of approximately 200-250 mL of CCP that contains anti-SARS-CoV-2 collected by plasmapheresis from a volunteer who recovered from COVID19 with SOC as determined by local practice and guidelines.</description>
+    <arm_group_label>Arm 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Standard of care (SOC) plus placebo</intervention_name>
+    <description>A single unit of 200 mL normal saline with SOC as determined by local practice and guidelines</description>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Laboratory confirmed SARS-CoV-2 by positive RT-PCR on any respiratory sample;
+
+          -  Age ≥ 18 years;
+
+          -  Require hospital admission for COVID-19 pneumonia as defined by the presence of
+             pulmonary infiltrates on chest x-ray;
+
+          -  Moderate to severe Covid-19 disease, defined as: SpO2 ≤ 93% on room air; plus
+             requiring non-invasive oxygen therapy (WHO R&amp;D BOSCI 4 or 5
+
+          -  Signed informed consent;
+
+          -  Pregnant women will be allowed to participate.
+
+        Exclusion Criteria:
+
+          -  Current participation in another therapeutic clinical trial for COVID-19;
+
+          -  Invasive mechanical ventilation;
+
+          -  Expected survival &lt; 24 hours based on clinical assessment (however, the study does not
+             exclude critically ill patients who are not, due to resource limitations, candidates
+             for critical care admission and/or mechanical ventilation);
+
+          -  Known hypersensitivity to immunoglobulin or any components of the formulation;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sean Wasserman, A/Professor</last_name>
+    <role>Study Chair</role>
+    <affiliation>CIDRI-Africa, University of Cape Town</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Karin vandenBerg, Dr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>South African National Blood Service</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cynthia Nyoni</last_name>
+    <phone>+27117619279</phone>
+    <phone_ext>9279</phone_ext>
+    <email>Cynthia.Nyoni@sanbs.org.za</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mpumi Maxebengula, BCom</last_name>
+    <phone>+27214066497</phone>
+    <phone_ext>6497</phone_ext>
+    <email>mpumi.maxebengula@uct.ac.za</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Universitas Hospital</name>
+      <address>
+        <city>Bloemfontein</city>
+        <state>Free State</state>
+        <zip>9301</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jacques Malherbe</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mitchells Plain Hospital</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7786</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sean Wasserman</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>South Africa</country>
+  </location_countries>
+  <reference>
+    <citation>Coronaviridae Study Group of the International Committee on Taxonomy of Viruses. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nat Microbiol. 2020 Apr;5(4):536-544. doi: 10.1038/s41564-020-0695-z. Epub 2020 Mar 2.</citation>
+    <PMID>32123347</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Zu ZY, Jiang MD, Xu PP, Chen W, Ni QQ, Lu GM, Zhang LJ. Coronavirus Disease 2019 (COVID-19): A Perspective from China. Radiology. 2020 Aug;296(2):E15-E25. doi: 10.1148/radiol.2020200490. Epub 2020 Feb 21. Review.</citation>
+    <PMID>32083985</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang L, Liu Y. Potential interventions for novel coronavirus in China: A systematic review. J Med Virol. 2020 May;92(5):479-490. doi: 10.1002/jmv.25707. Epub 2020 Mar 3.</citation>
+    <PMID>32052466</PMID>
+  </reference>
+  <reference>
+    <citation>Richardson S, Hirsch JS, Narasimhan M, Crawford JM, McGinn T, Davidson KW; the Northwell COVID-19 Research Consortium, Barnaby DP, Becker LB, Chelico JD, Cohen SL, Cookingham J, Coppa K, Diefenbach MA, Dominello AJ, Duer-Hefele J, Falzon L, Gitlin J, Hajizadeh N, Harvin TG, Hirschwerk DA, Kim EJ, Kozel ZM, Marrast LM, Mogavero JN, Osorio GA, Qiu M, Zanos TP. Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area. JAMA. 2020 May 26;323(20):2052-2059. doi: 10.1001/jama.2020.6775. Erratum in: JAMA. 2020 May 26;323(20):2098.</citation>
+    <PMID>32320003</PMID>
+  </reference>
+  <reference>
+    <citation>Thorlund K, Dron L, Park J, Hsu G, Forrest JI, Mills EJ. A real-time dashboard of clinical trials for COVID-19. Lancet Digit Health. 2020 Jun;2(6):e286-e287. doi: 10.1016/S2589-7500(20)30086-8. Epub 2020 Apr 24.</citation>
+    <PMID>32363333</PMID>
+  </reference>
+  <results_reference>
+    <citation>Yuen KS, Ye ZW, Fung SY, Chan CP, Jin DY. SARS-CoV-2 and COVID-19: The most important research questions. Cell Biosci. 2020 Mar 16;10:40. doi: 10.1186/s13578-020-00404-4. eCollection 2020.</citation>
+    <PMID>32190290</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>South African National Blood Service</investigator_affiliation>
+    <investigator_full_name>Karin van den Berg</investigator_full_name>
+    <investigator_title>Site Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Where available and applicable, the results of this study will be reported to the appropriate scientific and management divisions of participating institutions. In addition, interim results may be communicated to lay press if doing so is deemed appropriate and relevant by the Study Management Committee. Interim and final results will be presented at various scientific congresses, meeting and in appropriate peer-reviewed scientific journals. Under no circumstances will personal identifier be revealed to any party not legally entitled to such information.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Undecided</ipd_time_frame>
+    <ipd_access_criteria>undecided</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

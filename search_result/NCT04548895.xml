@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1241">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04548895</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSA-001</org_study_id>
+    <nct_id>NCT04548895</nct_id>
+  </id_info>
+  <brief_title>Non-invasive Biometric Monitoring in Nursing Homes to Fight COVID-19</brief_title>
+  <official_title>Non-invasive Biometric Monitoring for the Prevention of COVID-19 Transmission and Deaths in Nursing Homes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Health Stream Analytics, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Health Stream Analytics, LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Solving the problem of detecting asymptomatic carriers who can transmit infection is key to
+      protecting vulnerable residents of nursing homes and assisted living facilities, to
+      protecting frontline workers who care for them, and to facilitating return to work (including
+      return of nurses and medical assistants).
+
+      The wearable biometric technology, if widely disseminated among vulnerable populations and
+      the community-at-large, will help avoid the ravages of seasonal flu and other contagious
+      illnesses, and the society will be better prepared for future waves of COVID-19 or other
+      pandemics. Even if a vaccine is developed, due to immune senescence and immunocompromise,
+      elderly people and those with chronic medical conditions may not be well protected by it.
+      Continuous biomonitoring provides another layer of protection for them.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Building the algorithm for early, pre-symptomatic DETECTION OF RESPIRATORY VIRAL
+           INFECTION and for predicting eventual DETERIORATION.
+
+        2. Create an APP that AUTOMATES these algorithms and clearly REPORTS ACTIONABLE RESULTS to
+           users, i.e., to medical professionals and citizens-at-large in near-real time. If
+           alerted to a possible - and likely still asymptomatic - COVID-19 infection, they can
+           self-isolate or be quarantined, get confirmatory COVID-19 testing done promptly, limit
+           transmission to others, and stay safe knowing that if they are likely to deteriorate,
+           the algorithm will alert the participants and their caregivers to the need to obtain
+           medical attention promptly.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">February 26, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of quality signals obtained out of all monitoring time for each device</measure>
+    <time_frame>8 weeks from first enrollment</time_frame>
+    <description>Feasibility assessment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Predictive characteristics of the algorithm for respiratory tract infection</measure>
+    <time_frame>2 months</time_frame>
+    <description>Algorithm development, sensitivity, specificity, positive and negative predictive value at different lead times ahead of symptom onset</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid19</condition>
+  <condition>Community-Acquired Respiratory Tract Infection</condition>
+  <arm_group>
+    <arm_group_label>LTCF residents and involved health practitioners</arm_group_label>
+    <description>The intervention will take place in nursing homes, assisted living facilities and long-term care facilities (LTCF) in the United States (henceforth collectively referred to as &quot;LTCF&quot;).
+Staff who work in the participating LTCF ≥ 20 hours/week and who have direct contact with the residents are also eligible to participate and to employ the biometric monitoring equipment in their private residences.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Observational measurement of biometric data. No change to health care provided.</intervention_name>
+    <description>Emfit devices will be installed once after enrollment under each participant's mattress and left to record automatically without further intervention. The participants will wear their Biostrap wristbands consistently, ideally 24 hours a day, 7 days a week, for 2 months.
+A virus panel will be upon enrollment (baseline) and then every two weeks (± 3 days, or on the closest convenient sampling day if the LTCF is testing all residents on the same day) for a maximum of 5 times during the two-month period. Using polymerase chain reaction or next generation sequencing, the virus panel will detect COVID-19 and 12 other common respiratory viruses that may cause similar symptoms and similar biometric signatures. These include influenza A and B, parainfluenza types 1 through 4, respiratory syncytial virus, non-COVID coronavirus, rhinovirus, adenovirus, bocavirus and metapneumovirus.</description>
+    <arm_group_label>LTCF residents and involved health practitioners</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Nasal swabs will be taken at five time points to test for virus presence.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Residents and staff members of U.S. LTCFs where COVID-19 transmission is actively
+        occurring. The LTCF medical director must agree to enroll the LTCF, and each participant
+        must have the capacity to agree and sign consent.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Residents and staff members of U.S. LTCFs where COVID-19 transmission is actively
+             occurring. The LTCF medical director must agree to enroll the LTCF, and each
+             participant must have the capacity to agree and sign consent.
+
+        Exclusion Criteria:
+
+          -  Current atrial fibrillation.
+
+               -  NB: Paroxysmal atrial fibrillation is permitted if the participant is in atrial
+                  fibrillation less than 50% of the day on most days.
+
+          -  Pacemaker in place.
+
+          -  Known active infection other than COVID-19.
+
+          -  Dementia
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Martin G Frasch</last_name>
+    <role>Study Chair</role>
+    <affiliation>Health Stream Analytics, LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Martin G Frasch, MD, PhD</last_name>
+    <phone>206-705-3381</phone>
+    <email>martin@healthstreamanalytics.com</email>
+  </overall_contact>
+  <link>
+    <url>https://www.nytimes.com/interactive/2020/us/coronavirus-nursing-homes.html</url>
+    <description>At least 55,000 or more than 40% of currently over 120,000 deaths from COVID-19 were residents and workers at nursing homes and other long-term care facilities for older adults in the United States.</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 15, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 15, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>wearables</keyword>
+  <keyword>biometric data</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

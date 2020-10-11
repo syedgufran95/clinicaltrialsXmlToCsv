@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="650">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04530435</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0211-00023B</org_study_id>
+    <nct_id>NCT04530435</nct_id>
+  </id_info>
+  <brief_title>PEP Flute-selfcare in COVID-19</brief_title>
+  <acronym>PEP-CoV</acronym>
+  <official_title>PEP Flute-selfcare to Prevent Respiratory Deterioration and Hospitalization Among COVID-19 Patients: a Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bispebjerg Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hvidovre University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Bispebjerg Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Most research on the coronavirus SARS-CoV-2 and COVID-19 disease relate to screening
+      measures, development of vaccines and optimising treatment of hospitalised patients. It is
+      likely that this pandemic will be ongoing for several years until a high level of immunity is
+      reached in the population or a vaccine has been developed. Thus, there is a need of measures
+      to help the SARS-CoV-2 infected individual at home to overcome the course of disease with
+      less symptoms and strain. A Positive Expiratory Pressure (PEP) flute is feasible for home use
+      and it is possible that regular use of PEP flute may prevent the progression of respiratory
+      symptoms in non-hospitalized individuals with COVID-19 disease.
+
+      The primary objective of the study is to examine the effect of PEP flute use among SARS-CoV-2
+      infected, non-hospitalized patients on self-reported change in COPD Assessment Test (CAT)
+      score during 30 days of follow-up.
+
+      The secondary objectives are to compare the development in hospitalization rates and use of
+      antibiotics in the intervention group and the control group during the follow-up period.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is hypothesized that the PEP flute has positive effects on SARS-CoV-2 infected
+      individual's self-reported respiratory symptoms such as dyspnoea, coughing and perceived
+      mucus clearance through beneficial effects on lung function and airway clearance.
+      Furthermore, the investigators expect a lower rate of hospitalization and use of antibiotics
+      in the intervention group as compared to the control group.
+
+      Finally, potential subgroup effects by gender, age, comorbidity and BMI at study entry will
+      be explored for all outcomes.
+
+      Based upon a sample size estimation the investigators assess that inclusion of 200
+      participants in each intervention arm will be an adequate number. Based on the present
+      testing strategy and COVID-19 incidence, current expectations are that two months should be
+      enough to recruit 400 patients. The investigators will allow for recruitment to the end of
+      December 2020, but will terminate enrolment at n = 400.
+
+      Link to detailed protocol paper will be added once published.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study is designed as a randomised, controlled, open-label trial with two parallel groups and a primary endpoint of CAT-score after 30 days of intervention.
+Randomization lists will be computer-generated using an appropriate statistical software and based upon permuted random blocks. The allocation ratio will be 1:1 stratified for the following baseline conditions:
+Sex
+Age (≥60 and &lt;60 years)</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Outcome assessors will be blinded to treatment allocation where possible. This is of outmost importance, and participants are requested not to disclose their allocation when outcomes are assessed. To test the blinding efficacy, the outcome assessors are asked what treatment strategy they think a patient has received after assessments.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Self-reported CAT-score (COPD Assessment Test)</measure>
+    <time_frame>Day 30</time_frame>
+    <description>CAT-scores will be measured using a telephone administered questionnaire. The CAT-score is validated to evaluate symptoms in COPD patients. Eight items covers symptoms of cough, sputum, chest pain, dyspnoea, activities of daily living at home, feeling safe at home despite symptoms (modified for the present study from feeling safe at leaving home despite symptoms), sleep quality and vigour. The eight items sum up to a range of 0-40 with higher scores indicating more respiratory impairment. Although validated for COPD-use, the CAT-scale is considered useful in the present study because several of the items (dyspnoea, cough, fatigue, sputum and pleuritic chest pain) previously have been used as outcome variables in pneumonia studies. The outcome assessment can be taken within + 1 week for the scheduled visit.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital admissions</measure>
+    <time_frame>Up to day 30, 90 and 180</time_frame>
+    <description>Will be obtained from the Danish National Patient Registry, from which also data of comorbidity will be retrieved.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Use of antibiotics</measure>
+    <time_frame>Up to day 30, 90 and 180</time_frame>
+    <description>Will be obtained from the Danish National Prescription Registry.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported CAT-score (COPD Assessment Test)</measure>
+    <time_frame>Day 90, Day 180</time_frame>
+    <description>CAT-scores will be measured using a telephone or email-administered questionnaire. The outcome assessment can be taken within + 1 week for the scheduled visit.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Serious Adverse Events</measure>
+    <time_frame>During treatment, up to 30 days.</time_frame>
+    <description>Assessed by Common Terminology Criteria for Adverse Event (CTCAE)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Treatment group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participants will be handed three airway resistances equivalent to a resistance of 10-20 cm H2O alongside one PEP flute. Two videos will guide the participants in use of the PEP flute; one with instructions of the rationale and how to use the flute, including how to choose the suitable resistance and one video, which gives instructions of hygienic maintenance.
+Participants in the intervention group will be advised to continue use of their PEP flute in the active intervention period of 30 days or at least if they still have respiratory symptoms. They will receive daily text-messages to prompt their reporting and to use the PEP flute according to instructions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The participants in the control group will receive daily text-messages to prompt their reporting of CAT-scores. To avoid attrition of the trial due to early recovery of symptoms, the project manager will call the participants by phone at day 15 to ask them about their present condition (i.e. CAT-score) and address potential concerns of continued participation of the trial. Otherwise, they will only receive usual care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>PEP flute</intervention_name>
+    <description>Participants are advised to use a PEP flute at least three times daily at an appropriate resistance. Ideally, each session consists of 15 breaths (for approximately 1 minute) repeated twice at an upright position.</description>
+    <arm_group_label>Treatment group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Positive SARS-CoV-2
+
+          -  Symptoms of SARS-CoV-2 infection e.g. fever, cough and shortness of breath.
+
+          -  Access to use a smartphone
+
+          -  Can reply to a questionnaire (sent on email, text messages or via telephone interview)
+             in Danish
+
+          -  Given informed consent
+
+        Exclusion Criteria:
+
+          -  Age &lt; 18 years.
+
+          -  Any condition or impairment that, in the opinion of the investigator, makes a
+             potential participant unsuitable for participation or which obstruct participation,
+             such as psychiatric disorders.
+
+          -  Hospitalised patients or citizens living in nursing homes
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Berit L. Heitmann, Professor, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Research Unit for Dietary Studies at the Parker Institute, Bispebjerg and Frederiksberg Hospitals, Denmark</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Annette Mollerup, PhD</last_name>
+    <phone>+45 38 16 31 02</phone>
+    <email>annette.mollerup@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sofus C. Larsen, PhD</last_name>
+    <phone>+45 38 16 30 64</phone>
+    <email>sofus.larsen@regionh.dk</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Bispebjerg Hospital</investigator_affiliation>
+    <investigator_full_name>Berit Lilienthal Heitmann</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Respiratory symptoms</keyword>
+  <keyword>Positive expiratory pressure</keyword>
+  <keyword>Positive expiratory pressure flute</keyword>
+  <keyword>Airway clearance techniques</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

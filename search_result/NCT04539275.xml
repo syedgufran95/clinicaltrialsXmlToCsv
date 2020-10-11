@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1685">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04539275</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID19-8900-22</org_study_id>
+    <nct_id>NCT04539275</nct_id>
+  </id_info>
+  <brief_title>COVID-19 (VA CURES-1)</brief_title>
+  <acronym>VA CURES-1</acronym>
+  <official_title>VA CoronavirUs Research and Efficacy Studies-1 (VA CURES-1)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine if treatment with convalescent plasma improves the
+      clinical outcomes of Veterans who are hospitalized and require supplemental oxygen due to
+      COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As of August 25, 2020, SARS-Coronavirus 2 (SARS-CoV-2; COVID-19) infections are approaching 6
+      million persons and 180,000 deaths in the US. Of the 20% of patients admitted to hospital, up
+      to half progress to ICU admission, respiratory failure or death. Prominent among these
+      progressors are older men, particularly those with underlying comorbidities (e.g.,
+      hypertension, diabetes, lung, heart, kidney or liver disease, obesity and immunocompromised),
+      all common among Veterans. There are no drugs or other therapeutics approved by the FDA to
+      prevent or treat COVID-19 infection.
+
+      Convalescent plasma therapy is being used empirically, although only five of six small
+      uncontrolled case series (total n=56) in SARS-CoV-23-8 and a recent study with non-randomized
+      controls suggest improved selected clinical, virologic and laboratory outcomes; outcomes in
+      another small randomized trial were equivocal. For other infections, such as influenza and
+      Ebola virus, promising observational studies were not reliably confirmed by controlled
+      trials. In multiple infections, use of convalescent plasma has been distinguished by its
+      safety profile but not by the consistency of its benefit.
+
+      The current double-blind, placebo-controlled RCT is designed to determine definitively
+      whether this intervention is effective in a population at high risk of complications and
+      death from SARS-CoV-2 infection. The investigators compare the effect of convalescent plasma
+      vs. saline placebo with a robust study design, adequate sample size and statistical and
+      logistical rigor to assure that the interventions the investigators make to treat serious
+      disease are well-validated to support its use or to move on to test other potentially safe
+      and effective treatments.
+
+      This study is taking place at approximately 25 VA Medical Centers located across the US. A
+      participant's involvement will last up to 33 days. The entire study, from the date the first
+      person enters until the last participant is seen, is expected to last about 20 months.
+
+      Data collected for this study will be analyzed and stored at the Palo Alto Cooperative
+      Studies Program Coordinating Center (CSPCC). After the study is completed, the de-identified,
+      archived data will continue to be stored at the Palo Alto CSPCC, accessible for use by
+      researchers including those outside of the study with an approved Data Use Agreement. The
+      biospecimens collected in the study for current and future research will be kept at the VA
+      Biorepository in Palo Alto, CA unless otherwise specified. The biospecimens will be
+      accessible for future research with an approved Sample Use Agreement. The VA CIRB will
+      oversee the biorepository for this study. All samples will be destroyed by standard practice
+      within 20 years of study completion. Sample destruction will be validated according to the
+      Standard Operating Procedures of the VA Biorepository.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 19, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 14, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>There are two study treatment arms: convalescent plasma versus saline. Participants will be randomized in 1:1 ratio to these two arms.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>The participants, site investigators, clinical prescribers, site coordinators, and most other individuals involved in this study will be blinded to the treatment assignment.
+Furthermore, the blind will not routinely be broken in order to select post-study, pharmacologic treatment for SARS-CoV-2 infection administered by clinical healthcare providers.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants developing acute hypoxemic respiratory failure or all-cause death</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+    <description>Respiratory failure is defined by requiring mechanical ventilation, with or without endotracheal intubations, or extra-corporeal membrane oxygenation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time (in days) to recovery</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+    <description>Day of recovery is defined as the first day on which the subject satisfies one of the following three categories from the ordinal scale: 1) Not hospitalized, no limitations on activities; 2) Not hospitalized, limitation on activities and/or requiring home oxygen; 3) Hospitalized, not requiring supplemental oxygen and no longer requires ongoing medical care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time (in days) to death or respiratory failure</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+    <description>Defined as the first day on which the subject died from any cause or had respiratory failure. Respiratory failure is defined by requiring mechanical ventilation, with or without endotracheal intubations, or extra-corporeal membrane oxygenation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who died from any cause, had respiratory failure, or required humidified heated high-flow nasal cannula (HHHFNC) at 15 Lpm</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+    <description>Defined as the proportion of subjects who died from any cause or had respiratory failure, or who required humidified heater high-flow cannula (HHHFNC). Respiratory failure is defined by requiring mechanical ventilation, with or without endotracheal intubations, or extra-corporeal membrane oxygenation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time (in days) to death or respiratory failure or HHHFNC at 15 Lpm</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+    <description>Time to death or respiratory failure is defined as the first day on which the subject died from any cause or had respiratory failure (defined above), or who required HHHFNC at 15 Lpm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subject 28-day all-cause mortality</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+    <description>Date and cause of death (if applicable)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to an improvement of one category using an ordinal scale</measure>
+    <time_frame>Up through 28 days.</time_frame>
+    <description>Modified WHO 8-point Ordinal Scale for Clinical Improvement. The scale is as follows: 0) No clinical or Virologic evidence of infection; 1) No limitation of activity; 2) Limitation of activity and/or home oxygen; 3) Hospitalized, no oxygen therapy; 4) Oxygen by mask or nasal prong; 5a) Humidified high-flow oxygen; 5b) Non-invasive ventilation; 6) Intubation and mechanical Ventilation; 7) Ventilation + additional organ support-pressors, RRT, ECMO; 8) Death. The higher the score, the worse the outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to an improvement of two categories using an ordinal scale</measure>
+    <time_frame>Up through 28 days.</time_frame>
+    <description>Modified WHO 8-point Ordinal Scale for Clinical Improvement. The scale is as follows: 0) No clinical or Virologic evidence of infection; 1) No limitation of activity; 2) Limitation of activity and/or home oxygen; 3) Hospitalized, no oxygen therapy; 4) Oxygen by mask or nasal prong; 5a) Humidified high-flow oxygen; 5b) Non-invasive ventilation; 6) Intubation and mechanical Ventilation; 7) Ventilation + additional organ support-pressors, RRT, ECMO; 8) Death. The higher the score, the worse the outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participant's clinical status by ordinal scale</measure>
+    <time_frame>Up through 28 days.</time_frame>
+    <description>Modified WHO 8-point Ordinal Scale for Clinical Improvement. The scale is as follows: 0) No clinical or Virologic evidence of infection; 1) No limitation of activity; 2) Limitation of activity and/or home oxygen; 3) Hospitalized, no oxygen therapy; 4) Oxygen by mask or nasal prong; 5a) Humidified high-flow oxygen; 5b) Non-invasive ventilation; 6) Intubation and mechanical Ventilation; 7) Ventilation + additional organ support-pressors, RRT, ECMO; 8) Death. The higher the score, the worse the outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in the ordinal scale</measure>
+    <time_frame>Days 2, 4, 7, 11, 14, 21, and 28.</time_frame>
+    <description>Modified WHO 8-point Ordinal Scale for Clinical Improvement. The scale is as follows: 0) No clinical or Virologic evidence of infection; 1) No limitation of activity; 2) Limitation of activity and/or home oxygen; 3) Hospitalized, no oxygen therapy; 4) Oxygen by mask or nasal prong; 5a) Humidified high-flow oxygen; 5b) Non-invasive ventilation; 6) Intubation and mechanical Ventilation; 7) Ventilation + additional organ support-pressors, RRT, ECMO; 8) Death. The higher the score, the worse the outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discharge or to a National Early Warning Score (NEWS)-2 of = 2 and maintained for 24 hours, whichever occurs first</measure>
+    <time_frame>Up through 28 days.</time_frame>
+    <description>The NEWS2 score has demonstrated an ability to discriminate patients at risk of poor outcomes. This score is based on 7 clinical parameters. The NEW Score-2 is being used as an efficacy measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in NEWS-2 Score from Day 1 (baseline) to Days 2, 4, 7, 11, 15, and 29</measure>
+    <time_frame>From Day 1 (baseline) to Days 2, 4, 7, 11, 15, and 29</time_frame>
+    <description>The NEWS2 score has demonstrated an ability to discriminate patients at risk of poor outcomes. This score is based on 7 clinical parameters. The NEW Score-2 is being used as an efficacy measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+    <description>Measured in days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of hospitalizations related to COVID-19</measure>
+    <time_frame>Day 1 through Day 28</time_frame>
+    <description>Measured in days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of Serious Adverse Events (SAEs)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>An SAE is defined as an AE or suspected adverse reaction is considered serious if, in the view of either the investigator or the sponsor, it results in death, a life-threatening AE, inpatient hospitalization or prolongation of existing hospitalization, a persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions, or a congenital anomaly/birth defect.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of Grade 3 and 4 clinical and/or laboratory adverse events (AEs)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Grade 3 AEs are defined as events that interrupt usual activities of daily living, or significantly affects clinical status, or may require intensive therapeutic intervention. Severe events are usually incapacitating. Grade 4 AEs are defined as events that are potentially life threatening.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of discontinuation or temporary suspension of study product administrations (for any reason)</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Incidence of occurrence.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in hemoglobin</measure>
+    <time_frame>Day 1 to Days 2, 4, and 7 (while hospitalized); and Days 15 and 29 (if attends in-person visit or still hospitalized).</time_frame>
+    <description>g/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in platelets</measure>
+    <time_frame>Day 1 to Days 2, 4, and 7 (while hospitalized); and Days 15 and 29 (if attends in-person visit or still hospitalized).</time_frame>
+    <description>K/mcL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in creatinine</measure>
+    <time_frame>Day 1 to Days 2, 4, and 7 (while hospitalized); and Days 15 and 29 (if attends in-person visit or still hospitalized).</time_frame>
+    <description>mm/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in glucose</measure>
+    <time_frame>Day 1 to Days 2, 4, and 7 (while hospitalized); and Days 15 and 29 (if attends in-person visit or still hospitalized).</time_frame>
+    <description>mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in total bilirubin</measure>
+    <time_frame>Day 1 to Days 2, 4, and 7 (while hospitalized); and Days 15 and 29 (if attends in-person visit or still hospitalized).</time_frame>
+    <description>mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in alanine transaminase (ALT)</measure>
+    <time_frame>Day 1 to Days 2, 4, and 7 (while hospitalized); and Days 15 and 29 (if attends in-person visit or still hospitalized).</time_frame>
+    <description>U/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in aspartate transaminase (AST)</measure>
+    <time_frame>Day 1 to Days 2, 4, and 7 (while hospitalized); and Days 15 and 29 (if attends in-person visit or still hospitalized).</time_frame>
+    <description>U/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in prothrombin time (PT)</measure>
+    <time_frame>Day 1 to Days 2, 4, and 7 (while hospitalized); and Days 15 and 29 (if attends in-person visit or still hospitalized).</time_frame>
+    <description>PT reported as international normalized ratio (INR).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">702</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study intervention consists of intravenous administration of 200-500mL of convalescent plasma administered in two equally divided doses, less than 12 hours apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Masked Saline Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The study intervention consists of intravenous administration of 200-500mL of 0.9% saline administered in two equally divided doses, less than 12 hours apart.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Convalescent Plasma</intervention_name>
+    <description>Convalescent plasma from persons recovered from SARS-CoV-2 is being used to treat hospitalized individuals with complicated COVID-19 infection.</description>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Masked Saline Placebo</intervention_name>
+    <description>0.9% saline solution will be used as the Masked Saline Placebo</description>
+    <arm_group_label>Masked Saline Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Veterans must meet ALL of the following criteria to be eligible to participate:
+
+          1. Admitted to a participating VA clinical site with symptoms suggestive of SARS-CoV-2
+             infection.
+
+          2. Participant (or legally authorized representative) provides informed consent prior to
+             initiation of any study procedures.
+
+          3. Participant (or legally authorized representative) understands and agrees to comply
+             with planned study procedures.
+
+          4. Veteran 18 years of age at time of screening.
+
+          5. Has laboratory-confirmed SARS-CoV-2 infection as determined by polymerase chain
+             reaction (PCR) or antigen test, as documented by either of the following:
+
+        (1)RT-PCR or antigen positive (nasopharyngeal, oropharyngeal, saliva, lower respiratory) in
+        sample collected 72 hours prior to screening; (2)RT-PCR or antigen positive in sample
+        collected &gt; 72 hours but 168 hours (i.e. 7 days) prior to screening, documented inability
+        to obtain a repeat sample (e.g. due to lack of testing supplies, limited testing capacity,
+        results taking &gt; 24 hours, etc.), AND progressive disease suggestive of ongoing SARS-CoV-2
+        infection.
+
+        6.Requiring oxygen by nasal cannula or by face-mask as a new treatment (or if previously on
+        home oxygen, at a liter flow at least 2 Lpm greater than home prescription), but not on
+        humidified heated high-flow nasal cannula (HHHFNC) at 15 Lpm.
+
+        7.Can be randomized within 72 hours of hospital admission. 8.Agrees not to participate in
+        another therapeutic clinical trial for the treatment of COVID-19 or SARS-CoV-2 through Day
+        29 without approval from the investigator(s). Taking part in other research studies,
+        including those unrelated to SARS-CoV-2, without first discussing it with the investigators
+        of this study may invalidate the results of this study, as well as that of the other study.
+
+        Exclusion Criteria:
+
+        An individual who meets any of the following criteria will be excluded from participation
+        in this study:
+
+          1. Respiratory failure requiring mechanical ventilation, non-invasive ventilation
+             including CPAP (for an indication other than previously diagnosed sleep apnea and
+             maintained on outpatient settings), or extra-corporeal membrane oxygenation or
+             anticipated to require any of those treatments or to die within 24 hours.
+
+          2. Anticipated discharge from the hospital or transfer to another hospital that is not a
+             study site within 72 hours.
+
+          3. History of previous transfusion reaction.
+
+          4. Previously documented serum IgA deficiency (&lt;7 mg/dL)
+
+          5. Documented to have received convalescent plasma in the last 60 days.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edward N. Janoff, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Rocky Mountain Regional VA Medical Center, Aurora, CO</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Edward N Janoff, MD</last_name>
+    <phone>(730) 723-6255</phone>
+    <email>Edward.Janoff@va.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sheldon T Brown</last_name>
+    <phone>(718) 584-9000</phone>
+    <phone_ext>5842</phone_ext>
+    <email>Sheldon.Brown@va.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Birmingham VA Medical Center, Birmingham, AL</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Amit Gaggar, MD</last_name>
+      <phone>205-933-8101</phone>
+      <email>Amit.Gaggar@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Phoenix VA Health Care System, Phoenix, AZ</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Felipe Gutierrez</last_name>
+      <phone>602-277-5551</phone>
+      <phone_ext>7331</phone_ext>
+      <email>Felipe.Gutierrez@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Regional VA Medical Center, Aurora, CO</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Edward N Janoff, MD</last_name>
+      <phone>730-723-6255</phone>
+      <email>Edward.Janoff@va.gov</email>
+    </contact>
+    <investigator>
+      <last_name>Edward N. Janoff, MD</last_name>
+      <role>Study Chair</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Florida/South Georgia Veterans Health System, Gainesville, FL</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Peruvemba Sriram, MD</last_name>
+      <phone>352-376-1611</phone>
+      <phone_ext>106243</phone_ext>
+      <email>Peruvemba.Sriram@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>James A. Haley Veterans' Hospital, Tampa, FL</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Anthony Cannella, MD</last_name>
+      <phone>813-972-2000</phone>
+      <email>Anthony.Cannella@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta VA Medical and Rehab Center, Decatur, GA</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Maria Ribeiro, MD</last_name>
+      <phone>404-728-7680</phone>
+      <email>Maria.Ribeiro@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Southeast Louisiana Veterans Health Care System, New Orleans, LA</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Edwin Swiatlo, MD</last_name>
+      <phone>504-507-2000</phone>
+      <email>Edwin.Swiatlo@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VA Ann Arbor Healthcare System, Ann Arbor, MI</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jeffrey Curtis, MD</last_name>
+      <phone>734-845-5679</phone>
+      <email>Jeffrey.Curtis@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>John D. Dingell VA Medical Center, Detroit, MI</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Suganthini Krishnan-Natesan, MD</last_name>
+      <phone>313-576-1000</phone>
+      <email>Suganthini.KrishnanNatesan@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VA Southern Nevada Healthcare System, North Las Vegas, NV</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jason Dazley, MD</last_name>
+      <phone>702-791-9000</phone>
+      <phone_ext>14096</phone_ext>
+      <email>Jason.Dazley@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>James J. Peters VA Medical Center, Bronx, NY</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10468</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Norbert Brau, MD</last_name>
+      <phone>917-701-3867</phone>
+      <email>Norbert.Brau@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Louis Stokes VA Medical Center, Cleveland, OH</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Usha Stiefel, MD</last_name>
+      <phone>216-791-3800</phone>
+      <phone_ext>64788</phone_ext>
+      <email>Usha.Stiefel@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oklahoma City VA Medical Center, Oklahoma City, OK</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>George Kurdgelashvili, MD</last_name>
+      <phone>405-456-2544</phone>
+      <email>George.Kurdgelashvili@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VA Portland Health Care System, Portland, OR</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mitchell B Sally, MD</last_name>
+      <phone>503-220-8262</phone>
+      <phone_ext>5678</phone_ext>
+      <email>Mitchell.Sally@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VA North Texas Health Care System Dallas VA Medical Center, Dallas, TX</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Roger Bedimo, MD</last_name>
+      <phone>214-857-1410</phone>
+      <email>Roger.Bedimo@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Michael E. DeBakey VA Medical Center, Houston, TX</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Maria Rodriguez-Barradas, MD</last_name>
+      <phone>713-794-8856</phone>
+      <email>Maria.Rodriguez-Barradas2@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>South Texas Health Care System, San Antonio, TX</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Antonio Anzueto, MD</last_name>
+      <phone>210-617-5256</phone>
+      <email>Antonio.Anzueto@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hunter Holmes McGuire VA Medical Center, Richmond, VA</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Leroy Vaughan, MD</last_name>
+      <phone>804-675-5000</phone>
+      <phone_ext>679</phone_ext>
+      <email>Leroy.Vaughan2@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>William S. Middleton Memorial Veterans Hospital, Madison, WI</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Prakash Balasubramanian, MD</last_name>
+      <phone>608-256-1901</phone>
+      <phone_ext>17055</phone_ext>
+      <email>Prakash.Balasubramanian@va.gov</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 4, 2020</study_first_posted>
+  <last_update_submitted>October 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>2019 novel coronavirus disease</keyword>
+  <keyword>COVID-19 pandemic</keyword>
+  <keyword>COVID-19 virus infection</keyword>
+  <keyword>COVID-19 virus disease</keyword>
+  <keyword>Respiratory failure</keyword>
+  <keyword>Pneumonia, viral / therapy</keyword>
+  <keyword>Blood Component Transfusion</keyword>
+  <keyword>Severity of Illness Index</keyword>
+  <keyword>Survival Analysis</keyword>
+  <keyword>Treatment Outcome</keyword>
+  <keyword>Prospective Study</keyword>
+  <keyword>Humans</keyword>
+  <keyword>Adults</keyword>
+  <keyword>Male</keyword>
+  <keyword>Female</keyword>
+  <keyword>convalescent plasma</keyword>
+  <keyword>SARS CoV-2</keyword>
+  <keyword>COVID-19 convalescent plasma</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

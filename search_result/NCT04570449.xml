@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="360">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04570449</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00015598</org_study_id>
+    <nct_id>NCT04570449</nct_id>
+  </id_info>
+  <brief_title>Pilot Randomized Controlled Trial: Fluoxetine to Reduce Hospitalization From COVID-19 Infection (FloR COVID-19)</brief_title>
+  <official_title>Pilot Randomized Controlled Trial: Fluoxetine to Reduce Hospitalization From COVID-19 Infection (FloR COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Milton S. Hershey Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Milton S. Hershey Medical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The current research is a pilot study to determine the feasibility of recruiting and
+      retaining 40 participants diagnosed with COVID-19. The purpose is to observe the early use of
+      fluoxetine (commonly known as Prozac) to reduce the severity of the COVID-19 illness.
+      Fluoxetine is a drug that has been approved by the U.S. Food and Drug Administration (FDA)
+      since 1987 for various mental health disorders.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Morbidity and mortality resulting from COVID-19 infections are associated with multisystem
+      organ failure due to a rapid increase in cytokine production. Fluoxetine has been shown to
+      reduce the mechanisms that cause the cytokine storm that leads to COVID-19 fatalities.
+
+      This is a pilot study to assess feasibility of recruiting and retaining participants
+      diagnosed with COVID-19. The purpose of this study is to observe the early use of fluoxetine
+      treatments on illness outcome: primary outcome is hospitalization and secondary outcomes of
+      complications including intubation and death. Additional secondary outcomes include effects
+      on outcomes for depression and post-traumatic stress disorder, two common illnesses which may
+      be improved by fluoxetine.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of hospitalization</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Measures number of subjects hospitalized for COVID-19 symptoms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physical symptoms assessed through daily checklist</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The 23-item daily symptom checklist measures the presence or absence of COVID-related symptoms (e.g. shortness of breath, fever, chills) and other possible symptoms (e.g. ear pain, vomit, seizures).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of intubation</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Measures number of subjects intubated for COVID-19 symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of death</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Measures number of subjects who die from COVID-19 symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depressive symptoms assessed weekly</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Measured using the 9-item Patient Health Questionnaire (PHQ-9) each item rated on a scale of 0-3, where 0=no depressive symptoms and 3=depressive symptoms present nearly every day. A high score indicates severe depression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post traumatic stress disorder symptoms assessed weekly</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Measured using the 4-item SPAN assessment rated on a scale from 0-4 where 0=not at all distressing and 4=extremely distressing. A score greater than 5 indicates the presence of PTSD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety symptoms assessed weekly</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Measured using the 7-item General Anxiety Disorder Scale (GAD-7) rated from 0-3, where 0=no anxiety symptoms and 3=anxiety symptoms present nearly ever day. A high score indicates severe anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Suicidality assessed daily</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Measured using the 6-item Columbia-Suicide Severity Rating Scale (C-SSRS), a semi-structured interview on the presence or absence of suicidal ideation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Fluoxetine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants instructed to take fluoxetine 20 mg capsule orally daily for 8 weeks in the following schedule:
+Week 1 = 1 pill (20 mg), Week 2 = 2 pills (40 mg), Weeks 3-6 = 3 pills (60 mg), Week 7 = 2 pills (40 mg), Week 8 = pill (20 mg)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants instructed to take fluoxetine placebo capsule matching fluoxetine orally daily for 8 weeks in the following schedule:
+Week 1 = 1 pill, Week 2 = 2 pills, Weeks 3-6 = 3 pills, Week 7 = 2 pills, Week 8 = pill</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluoxetine</intervention_name>
+    <description>20 mg capsule</description>
+    <arm_group_label>Fluoxetine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>fluoxetine placebo capsule</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. English speaking participant
+
+          2. 18 years of age or older
+
+          3. able to give informed consent
+
+          4. Tested positive for active SARS-CoV-2 infection and
+
+               1. It's been less than 10 days since symptoms first appeared;
+
+               2. Fever persists for longer than 24 hours without the use of fever reducing
+                  medications; and
+
+               3. Experiencing other symptoms of COVID-19 as described by the CDC
+
+        Exclusion Criteria:
+
+          1. Prisoner or institutionalized patient
+
+          2. Unable to give informed consent
+
+          3. Less than 18 years of age
+
+          4. Hospitalization
+
+          5. Active bleeding requiring blood products in past week
+
+          6. Diagnosed with bipolar disorder and not on mood stabilizing medication
+
+          7. Known allergy or hypersensitivity to fluoxetine
+
+          8. Currently taking a monoamine oxidase inhibitor (MAOI)
+
+          9. Currently taking an selective serotonin reuptake inhibitor (SSRI) or selective
+             norepinephrine reuptake inhibitor (SNRI)
+
+         10. Outpatient and currently taking hydroxychloroquine
+
+         11. Known pregnancy
+
+         12. Breastfeeding
+
+         13. Known prolonged QTc, such as congenital prolonged QTc syndromes
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Erika Saunders, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Milton S. Hershey Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Erika Saunders, MD</last_name>
+    <phone>717-531-8516</phone>
+    <email>esaunders@pennstatehealth.psu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Milton S. Hershey Medical Center Clinical Research Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Erika Saunders, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Amitai M, Taler M, Carmel M, Michaelovsky E, Eilat T, Yablonski M, Orpaz N, Chen A, Apter A, Weizman A, Fennig S. The Relationship Between Plasma Cytokine Levels and Response to Selective Serotonin Reuptake Inhibitor Treatment in Children and Adolescents with Depression and/or Anxiety Disorders. J Child Adolesc Psychopharmacol. 2016 Oct;26(8):727-732. Epub 2016 Jan 15.</citation>
+    <PMID>26771135</PMID>
+  </reference>
+  <reference>
+    <citation>Blatteau JE, Barre S, Pascual A, Castagna O, Abraini JH, Risso JJ, Vallee N. Protective effects of fluoxetine on decompression sickness in mice. PLoS One. 2012;7(11):e49069. doi: 10.1371/journal.pone.0049069. Epub 2012 Nov 8.</citation>
+    <PMID>23145072</PMID>
+  </reference>
+  <reference>
+    <citation>Blatteau JE, de Maistre S, Lambrechts K, Abraini J, Risso JJ, Vallée N. Fluoxetine stimulates anti-inflammatory IL-10 cytokine production and attenuates sensory deficits in a rat model of decompression sickness. J Appl Physiol (1985). 2015 Dec 15;119(12):1393-9. doi: 10.1152/japplphysiol.00602.2015. Epub 2015 Oct 22.</citation>
+    <PMID>26494447</PMID>
+  </reference>
+  <reference>
+    <citation>Branco-de-Almeida LS, Kajiya M, Cardoso CR, Silva MJ, Ohta K, Rosalen PL, Franco GC, Han X, Taubman MA, Kawai T. Selective serotonin reuptake inhibitors attenuate the antigen presentation from dendritic cells to effector T lymphocytes. FEMS Immunol Med Microbiol. 2011 Aug;62(3):283-94. doi: 10.1111/j.1574-695X.2011.00816.x. Epub 2011 Jun 16.</citation>
+    <PMID>21569123</PMID>
+  </reference>
+  <reference>
+    <citation>Cai Z, Liu J, Bian H, Cai J, Jin Q, Han J. Fluoxetine, an Antidepressant Drug, Inhibited Cigarette Smoke-Induced Pulmonary Inflammation and Apoptosis in Rats. Inflammation. 2017 Aug;40(4):1375-1381. doi: 10.1007/s10753-017-0580-y.</citation>
+    <PMID>28477248</PMID>
+  </reference>
+  <reference>
+    <citation>Dong C, Zhang JC, Yao W, Ren Q, Yang C, Ma M, Han M, Saito R, Hashimoto K. Effects of escitalopram, R-citalopram, and reboxetine on serum levels of tumor necrosis factor-α, interleukin-10, and depression-like behavior in mice after lipopolysaccharide administration. Pharmacol Biochem Behav. 2016 May;144:7-12. doi: 10.1016/j.pbb.2016.02.005. Epub 2016 Feb 15.</citation>
+    <PMID>26892759</PMID>
+  </reference>
+  <reference>
+    <citation>Durairaj H, Steury MD, Parameswaran N. Paroxetine differentially modulates LPS-induced TNFα and IL-6 production in mouse macrophages. Int Immunopharmacol. 2015 Apr;25(2):485-92. doi: 10.1016/j.intimp.2015.02.029. Epub 2015 Mar 2.</citation>
+    <PMID>25744603</PMID>
+  </reference>
+  <reference>
+    <citation>Gobin V, Van Steendam K, Denys D, Deforce D. Selective serotonin reuptake inhibitors as a novel class of immunosuppressants. Int Immunopharmacol. 2014 May;20(1):148-56. doi: 10.1016/j.intimp.2014.02.030. Epub 2014 Mar 6. Review.</citation>
+    <PMID>24613205</PMID>
+  </reference>
+  <reference>
+    <citation>Hashioka S, Klegeris A, Monji A, Kato T, Sawada M, McGeer PL, Kanba S. Antidepressants inhibit interferon-gamma-induced microglial production of IL-6 and nitric oxide. Exp Neurol. 2007 Jul;206(1):33-42. Epub 2007 Mar 30.</citation>
+    <PMID>17481608</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Li XQ, Wang HM, Yang CG, Zhang XH, Han DD, Wang HL. Fluoxetine inhibited extracellular matrix of pulmonary artery and inflammation of lungs in monocrotaline-treated rats. Acta Pharmacol Sin. 2011 Feb;32(2):217-22. doi: 10.1038/aps.2010.187. Epub 2011 Jan 10.</citation>
+    <PMID>21217769</PMID>
+  </reference>
+  <reference>
+    <citation>Liu D, Wang Z, Liu S, Wang F, Zhao S, Hao A. Anti-inflammatory effects of fluoxetine in lipopolysaccharide(LPS)-stimulated microglial cells. Neuropharmacology. 2011 Sep;61(4):592-9. doi: 10.1016/j.neuropharm.2011.04.033. Epub 2011 May 11.</citation>
+    <PMID>21575647</PMID>
+  </reference>
+  <reference>
+    <citation>Liu RP, Zou M, Wang JY, Zhu JJ, Lai JM, Zhou LL, Chen SF, Zhang X, Zhu JH. Paroxetine ameliorates lipopolysaccharide-induced microglia activation via differential regulation of MAPK signaling. J Neuroinflammation. 2014 Mar 12;11:47. doi: 10.1186/1742-2094-11-47.</citation>
+    <PMID>24618100</PMID>
+  </reference>
+  <reference>
+    <citation>Lu X, Wang J, Chen X, Jiang Y, Pan ZK. Rolipram Protects Mice from Gram-negative Bacterium Escherichia coli-induced Inflammation and Septic Shock. Sci Rep. 2020 Jan 13;10(1):175. doi: 10.1038/s41598-019-56899-6.</citation>
+    <PMID>31932743</PMID>
+  </reference>
+  <reference>
+    <citation>Roumestan C, Michel A, Bichon F, Portet K, Detoc M, Henriquet C, Jaffuel D, Mathieu M. Anti-inflammatory properties of desipramine and fluoxetine. Respir Res. 2007 May 3;8:35.</citation>
+    <PMID>17477857</PMID>
+  </reference>
+  <reference>
+    <citation>Sherkawy MM, Abo-Youssef AM, Salama AAA, Ismaiel IE. Fluoxetine protects against OVA induced bronchial asthma and depression in rats. Eur J Pharmacol. 2018 Oct 15;837:25-32. doi: 10.1016/j.ejphar.2018.08.026. Epub 2018 Aug 23.</citation>
+    <PMID>30145150</PMID>
+  </reference>
+  <reference>
+    <citation>Taraz M, Khatami MR, Dashti-Khavidaki S, Akhonzadeh S, Noorbala AA, Ghaeli P, Taraz S. Sertraline decreases serum level of interleukin-6 (IL-6) in hemodialysis patients with depression: results of a randomized double-blind, placebo-controlled clinical trial. Int Immunopharmacol. 2013 Nov;17(3):917-23. doi: 10.1016/j.intimp.2013.09.020. Epub 2013 Oct 11.</citation>
+    <PMID>24121064</PMID>
+  </reference>
+  <reference>
+    <citation>Udina M, Hidalgo D, Navinés R, Forns X, Solà R, Farré M, Capuron L, Vieta E, Martín-Santos R. Prophylactic antidepressant treatment of interferon-induced depression in chronic hepatitis C: a systematic review and meta-analysis. J Clin Psychiatry. 2014 Oct;75(10):e1113-21. doi: 10.4088/JCP.13r08800. Review.</citation>
+    <PMID>25373120</PMID>
+  </reference>
+  <reference>
+    <citation>Vollmar P, Haghikia A, Dermietzel R, Faustmann PM. Venlafaxine exhibits an anti-inflammatory effect in an inflammatory co-culture model. Int J Neuropsychopharmacol. 2008 Feb;11(1):111-7. Epub 2007 Apr 20.</citation>
+    <PMID>17445357</PMID>
+  </reference>
+  <reference>
+    <citation>Wang L, Wang R, Liu L, Qiao D, Baldwin DS, Hou R. Effects of SSRIs on peripheral inflammatory markers in patients with major depressive disorder: A systematic review and meta-analysis. Brain Behav Immun. 2019 Jul;79:24-38. doi: 10.1016/j.bbi.2019.02.021. Epub 2019 Feb 21.</citation>
+    <PMID>30797959</PMID>
+  </reference>
+  <reference>
+    <citation>Young KC, Bai CH, Su HC, Tsai PJ, Pu CY, Liao CS, Lin YM, Lai HW, Chong LW, Tsai YS, Tsao CW. Fluoxetine a novel anti-hepatitis C virus agent via ROS-, JNK-, and PPARβ/γ-dependent pathways. Antiviral Res. 2014 Oct;110:158-67. doi: 10.1016/j.antiviral.2014.08.002. Epub 2014 Aug 21.</citation>
+    <PMID>25151487</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Milton S. Hershey Medical Center</investigator_affiliation>
+    <investigator_full_name>Erika Saunders</investigator_full_name>
+    <investigator_title>Hershey Medical Center Manager</investigator_title>
+  </responsible_party>
+  <keyword>covid-19</keyword>
+  <keyword>fluoxetine</keyword>
+  <keyword>cytokine</keyword>
+  <keyword>anti-inflammatory</keyword>
+  <keyword>IL-6</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fluoxetine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

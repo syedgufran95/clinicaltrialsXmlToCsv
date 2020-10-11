@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="851">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04490824</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KELEA-1</org_study_id>
+    <nct_id>NCT04490824</nct_id>
+  </id_info>
+  <brief_title>Inhalation of KELEA Excellerated Water in Covid-19 Infected Individuals</brief_title>
+  <official_title>Can Inhalation of KELEA Excellerated Water Reduce the Time Required for Covid-19 Infected Individuals to Become Symptom-Free and to Test Negative Using Either the PCR or Antigen Assay</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institute of Progressive Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institute of Progressive Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Preliminary reports have been received from several sources that the periodic inhaling of
+      water with a heightened level of kinetic activity has lessened the severity of symptoms in
+      Covid-19 infected patients. On at least several occasions, a repeat PCR test performed two
+      days after inhaling a particular water-based product was negative. There are no perceived
+      advese effects from inhaling the water using a nebulizer or humidifier. It is important,
+      however, to validate these preliminary findings and to include other similar products in the
+      testing
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Several producers of activated water have been in frequent communication with the Principal
+      Investigator (PI) over the last decade or longer. They have regularly supplied their water
+      products to the PI for laboratory testing, including measuring an activity attributed to the
+      absorption of an environmental force, referred to by the PI as KELEA, an abbreviation for
+      Kinetic Energy Limiting Electrostatic Attraction. KELEA is regarded as the source of cellular
+      energy for the body's alternative cellular energy (ACE) pathway. This pathway can provide a
+      non-immunological defense mechanism against infections, presumably including coronaviruses.
+      The proposed study is to test water products from several suppliers, as well as a naturally
+      available source of KELEA activated water in symptomatic individuals who have tested positive
+      by either PCR or antigen testing for Covid-19. The initial mode of administration will be by
+      inhalation using a nebulizer or diffuser. Several deep inhalations will be taken on 5
+      occasions daily. Prior to the first inhalation and at the end of the second day of
+      inhalation, swabs will be taken for Covid-19 PCR and/or antigen testing. The severity of
+      symptoms will also be monitored.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Participants will be sequentially assigned to receive KELEA activated or KELEA depleted water</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>The participant will not be informed as to whether the item that is first received is KELEA emitting or inactive. If requested an active item will be sent following receipt of the post inhalation results.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Inhalation of KELEA Excellerated Water in Covid-19 Infected Individuals</measure>
+    <time_frame>Two days of inhalation prior to the repeat Covid-19testing</time_frame>
+    <description>Proportion of the Covid-19 PCR or Antigen Positive Participants Who Subsequently Test Negative Using the Same Assay Procedure</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Inhalation of KELEA Excellerated Water in Covid-19 Infected Individuals</measure>
+    <time_frame>Symptoms prior to and after two days of inhalation</time_frame>
+    <description>Proportion of the Symptomatic Participants Who Become Asymptomatic</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Treated</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This Arm includes half of the total participants in the study. The results in this Arm will be compared to the results in the control participants and also with the known natural history of Covid-19 infections</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>This Arm includes half of the total participants in the study. Participants will receive water without an elevated level of KELEA</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>KELEA Excellerated Water</intervention_name>
+    <description>Water with increased kinetic activity as assessed by published methods of the PI</description>
+    <arm_group_label>Treated</arm_group_label>
+    <other_name>KELEA Activated Water</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Water Without an Elevated Level of KELEA</intervention_name>
+    <description>Bottled water without an elevated level of KELEA, as shown by proprietary testing will be provided as a control.</description>
+    <arm_group_label>Control</arm_group_label>
+    <other_name>Control Water</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Individuals entering into quarantine because of a positive Covid-19
+        test using either PCR or an authorized antigen assay. It is not necessary, but preferable,
+        for the participant to be symptomatic for Covid-19 -
+
+        Exclusion Criteria: Unwilling to do repeat PCR and/or antigen testing or to provide the
+        results of the repeat testing or the requested clinical data
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>W John Martin, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical Director</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>W John Martin, MD, PhD</last_name>
+    <phone>626-616-2868</phone>
+    <email>wjohnmartin@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Institute of Progressive Medicine</name>
+      <address>
+        <city>South Pasadena</city>
+        <state>California</state>
+        <zip>91030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>W John Martin, MD, PhD</last_name>
+      <phone>626-616-2868</phone>
+      <email>keleaclinicaltrial@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Martin WJ. Enhancing the Alternative Cellular Energy (ACE) Pathway with KELEA Activated Water as Therapy for Infectious Diseases. Infect Disord Drug Targets. 2020 Feb 10. doi: 10.2174/1871526520666200211115111. [Epub ahead of print]</citation>
+    <PMID>32066365</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Energy Medicine</keyword>
+  <keyword>KELEA</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

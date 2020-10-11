@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2617">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04561076</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HLX70-001US-255086</org_study_id>
+    <nct_id>NCT04561076</nct_id>
+  </id_info>
+  <brief_title>Evaluate Safety and Pharmacokinetics of HLX70 in Healthy Adult Volunteers</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Dose Escalation Phase I Clinical Study to Evaluate Safety and Pharmacokinetics of HLX70 in Healthy Adult Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hengenix Biotech Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sanyou Biopharmaceuticals(Shanghai)Co., Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Shanghai ZJ Bio-Tech Co., Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hengenix Biotech Inc</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Randomized, Double-Blind, Placebo-Controlled, Dose Escalation Phase I Clinical Study to
+      Evaluate Safety and Pharmacokinetics of HLX70 in Healthy Adult Volunteers
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A randomized, double-blind, single-dose by intravenous administration, placebo-controlled,
+      dose escalation, first-in-human study is proposed to evaluate the safety, PK, and
+      immunogenicity of HLX70 in healthy subjects. The investigators plan to enroll 8 subjects in
+      each of the 3 dose cohorts at 3 mg/kg, 10 mg/kg, and 30 mg/kg, of which 2 receive intravenous
+      injections of placebo and 6 receive intravenous injections of the investigational product
+      (IP). A total of 24 subjects will be enrolled.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 9, 2020</start_date>
+  <completion_date type="Anticipated">September 18, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 6, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-Blind, Placebo-Controlled</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with adverse events, serious adverse event and infusion-related reactions as assessed by CTCAE v5.0</measure>
+    <time_frame>up to 92 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety evaluation- proportion of subjects undergoing DLT events</measure>
+    <time_frame>Days 1 to 7</time_frame>
+    <description>The proportion of subjects undergoing DLT events</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PK parameters-Areas under the concentration-time curves</measure>
+    <time_frame>pre-infusion (pre-dose), immediately post-infusion, 3 hours, 6 hours and 10 hours post-infusion, Days 2, 3, 5, 8, 11, 15, 22, 29, 43, 57, 71 and 92.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameters-Maximum measured concentration</measure>
+    <time_frame>pre-infusion (pre-dose), immediately post-infusion, 3 hours, 6 hours and 10 hours post-infusion, Days 2, 3, 5, 8, 11, 15, 22, 29, 43, 57, 71 and 92.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameters-Time from dosing to maximum measured concentration</measure>
+    <time_frame>pre-infusion (pre-dose), immediately post-infusion, 3 hours, 6 hours and 10 hours post-infusion, Days 2, 3, 5, 8, 11, 15, 22, 29, 43, 57, 71 and 92.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameters-Terminal phase elimination rate constant</measure>
+    <time_frame>pre-infusion (pre-dose), immediately post-infusion, 3 hours, 6 hours and 10 hours post-infusion, Days 2, 3, 5, 8, 11, 15, 22, 29, 43, 57, 71 and 92.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameters-Terminal phase elimination half life</measure>
+    <time_frame>pre-infusion (pre-dose), immediately post-infusion, 3 hours, 6 hours and 10 hours post-infusion, Days 2, 3, 5, 8, 11, 15, 22, 29, 43, 57, 71 and 92.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameters-Clearance</measure>
+    <time_frame>pre-infusion (pre-dose), immediately post-infusion, 3 hours, 6 hours and 10 hours post-infusion, Days 2, 3, 5, 8, 11, 15, 22, 29, 43, 57, 71 and 92.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameters-Volume of distribution during terminal phase and at steady state</measure>
+    <time_frame>pre-infusion (pre-dose), immediately post-infusion, 3 hours, 6 hours and 10 hours post-infusion, Days 2, 3, 5, 8, 11, 15, 22, 29, 43, 57, 71 and 92.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameters-Mean residence time</measure>
+    <time_frame>pre-infusion (pre-dose), immediately post-infusion, 3 hours, 6 hours and 10 hours post-infusion, Days 2, 3, 5, 8, 11, 15, 22, 29, 43, 57, 71 and 92.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-drug antibody</measure>
+    <time_frame>pre-infusion and Days 15, day 29, day 57, and day 92</time_frame>
+    <description>The number of presence subjects that develop of anti-durg antibody (immunogenicity)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>COVID 19</condition>
+  <arm_group>
+    <arm_group_label>Sequence 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Random allocation to HLX70 3 mg/kg (IV, single dose), or placebo (IV, single dose) of which 2 receive intravenous injections of placebo and 6 receive intravenous injections of the HLX70.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sequence 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Random allocation to HLX70 10 mg/kg (IV, single dose), or placebo (IV, single dose) of which 2 receive intravenous injections of placebo and 6 receive intravenous injections of the HLX70.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sequence 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Random allocation to HLX70 30 mg/kg (IV, single dose), or placebo (IV, single dose) of which 2 receive intravenous injections of placebo and 6 receive intravenous injections of the HLX70.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HLX70</intervention_name>
+    <description>Single-dose, intravenous infusion</description>
+    <arm_group_label>Sequence 1</arm_group_label>
+    <arm_group_label>Sequence 2</arm_group_label>
+    <arm_group_label>Sequence 3</arm_group_label>
+    <other_name>Anti-spike protein-1 monoclonal antibody (mAb)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Single-dose, intravenous infusion</description>
+    <arm_group_label>Sequence 1</arm_group_label>
+    <arm_group_label>Sequence 2</arm_group_label>
+    <arm_group_label>Sequence 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Subjects with voluntary signing of the informed consent form (ICF);
+
+          2. Healthy males or females aged ≥ 18 and ≤ 60 years at the time of signing the ICF;
+
+          3. Subjects with body weight ≥ 50 kg and body mass index (BMI) must be higher than 18.5
+             kg/m2 and lower than 30 kg/m2 at screening visit;
+
+          4. Subjects who are determined to be in good health according to medical history, normal
+             (site normal ranges to be followed) or abnormal but clinically insignificant physical
+             examination, vital signs, ECG, laboratory test results (including hematology, serum
+             chemistry, coagulation function, urinalysis, etc.), and investigator's clinical
+             judgment (CTCAE grade 1 of triglycerides and uric acid is permitted). One re-test
+             allowed per investigator discretion to confirm result.
+
+          5. Subject who agrees that he/she, and his/her spouse or partner, will use reliable
+             contraception (see appendix 1) for 9 months after administration.
+
+        Exclusion Criteria:
+
+          1. Subjects with the lab-confirmed medical history of COVID-19, including nucleic acid
+             (PCR testing of nasopharyngeal samples) tested positive or antibody IgG/IgM tested
+             positive.
+
+          2. Subjects with the novel onset of pyrexia/cough/shortness of breath/diarrhea or history
+             of contact with confirmed COVID-19 individuals (positive for SARS-CoV-2 nucleic acid)
+             within the 14 days before randomization.
+
+          3. Subjects who are known to have chronic obstructive pulmonary disease (COPD), cirrhosis
+             of liver, cardiac failure or any condition that requires active medical intervention
+             or monitoring to avert serious danger to the participant's health or well-being.
+
+          4. Subjects with pneumonia or tuberculosis (TB) suggested by chest X-Ray.
+
+          5. Subjects with previous exposure to a mAb or any other biological agents in 6 months
+             before screening.
+
+          6. Subjects with previous exposure to vaccines in 3 months before screening, or who plans
+             to receive vaccination during the study period or in 3 months after the study.
+
+          7. Subjects with previous participation in clinical trials receiving investigational
+             drug/comparator within the longer of 30 days or 5 half-lives before screening.
+
+          8. Subjects who are known to have a history of allergy to any mAb, biological product,
+             protein product, or the ingredient of the IP.
+
+          9. Subjects with positive test result(s) for hepatitis B virus (positive for HBsAg or
+             positive for HBcAb and HBV-DNA), hepatitis C virus (HCV) antibodies, human
+             immunodeficiency virus (HIV) antibodies, or treponema pallidum.
+
+         10. Subjects who are known to have a history of psychotropic drug abuse, alcoholism, or
+             drug addiction within the last year.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Esther Yoon, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>California Clinical Trials Medical Group (CCTMG) managed by Parexel</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sherry Xu</last_name>
+    <phone>+86-21-33395800-6005</phone>
+    <email>Sherry_Xu@henlius.com</email>
+  </overall_contact>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 23, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Myeloma Proteins</mesh_term>
+    <mesh_term>Paraproteins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

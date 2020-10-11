@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2220">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04537975</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CP-01-004</org_study_id>
+    <nct_id>NCT04537975</nct_id>
+  </id_info>
+  <brief_title>C2Rx Hemofiltration Treatment in Severe or Critically Ill Adults With COVID-19</brief_title>
+  <official_title>A Randomized Clinical Trial of CLR2.0 Hemofiltration Treatment (C2Rx) in Severe or Critically Ill Adults With COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>SeaStar Medical</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>SeaStar Medical</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The clinical trial will evaluate the short term and extended impact on on respiration,
+      pulmonary function and cardiovascular function in C2Rx treatment verse Standard of Care (SOC)
+      in critically ill adults with COVID-19 infections .
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 15, 2020</start_date>
+  <completion_date type="Anticipated">January 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 15, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pulmonary Oxygenation Function</measure>
+    <time_frame>Up to 72 hours</time_frame>
+    <description>Change in patient Arterial Oxygen Partial Pressure (PaO2)/Fractional Inspired Oxygen (FiO2) Ratio</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary Compliance of Respiratory System (CRS)</measure>
+    <time_frame>Up to 96 hours</time_frame>
+    <description>Change in patient oxygenation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival</measure>
+    <time_frame>30 days and 60 days</time_frame>
+    <description>Change in the total number of patients that survived</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Costs 1</measure>
+    <time_frame>Out to 60 days</time_frame>
+    <description>Change in Hospital Utilization of ventilators (days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular Vasoactive-Inotropic Score (VIS)</measure>
+    <time_frame>Up to 96 hours</time_frame>
+    <description>Change in score based on the calculation of the following medications used: dopamine dose (µg/kg/min) + dobutamine dose (µg/kg/min) + 100 x adrenaline dose (µg/kg/min) + 100 x noradrenaline dose (µg/kg/min) + 10 x milrinone dose (µg/kg/min) + 10.000 x vasopressin dose (U/kg/min)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Costs 2</measure>
+    <time_frame>Out to 60 days</time_frame>
+    <description>Change in Hospital Utilization of vasopressor medication (days without use)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Costs 3</measure>
+    <time_frame>Out to 60 days</time_frame>
+    <description>Change in Hospital Utilization of Intensive Care Unit (ICU) Hospital free days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Costs 4</measure>
+    <time_frame>Out to 60 days</time_frame>
+    <description>Change in Hospital Utilization of Renal Replacement Therapy (days on therapy)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Costs 5</measure>
+    <time_frame>Out to 60 days</time_frame>
+    <description>Change in Hospital Utilization (days hospitalized)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Inflammatory mediators in blood</measure>
+    <time_frame>Out to 14 hours</time_frame>
+    <description>Changes in inflammatory mediators detected by Immunoassay of Multianalyte Panel - MAP Laboratory Panel of 253 analytes.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cytokine Sieving Effects</measure>
+    <time_frame>Out to 8 hours</time_frame>
+    <description>Change in cytokine levels obtained from plasma and blood collected prior to and after filter. Analyte concentrations in ultrafiltrate and plasma, expressed in the same concentration units, will be aggregated as a ratio of ultrafiltrate concentration to plasma concentration to yield a unitless Sieving Coefficient (SC). SC is an index of membrane function.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Specific Blood Indicators 1</measure>
+    <time_frame>Out to 14 hours</time_frame>
+    <description>Change in blood Ferritin (mg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Specific Blood Indicators 2</measure>
+    <time_frame>Out to 14 hours</time_frame>
+    <description>Change in blood Interleukin-6 (pg/mL)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Specific Blood Indicators 3</measure>
+    <time_frame>Out to 14 hours</time_frame>
+    <description>Change in blood C-reactive protein (CRP) (mg/L)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Specific Blood Indicators 4</measure>
+    <time_frame>Out to 14 hours</time_frame>
+    <description>Change in blood Lactate Dehydrogenase (LDH) (U/L)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Specific Blood Indicators 5</measure>
+    <time_frame>Out to 14 hours</time_frame>
+    <description>Change in blood D-dimer (mcg/L*FEU2)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Specific Blood Indicators 6</measure>
+    <time_frame>Out to 14 hours</time_frame>
+    <description>Change in blood White Blood Cell (WBC) count (%)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Specific Blood Indicators 7</measure>
+    <time_frame>Out to 14 hours</time_frame>
+    <description>Change in blood Neutrophil count (%)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Specific Blood Indicators 8</measure>
+    <time_frame>Out to 14 hours</time_frame>
+    <description>Change in blood lymphocyte count (%).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Hospital Acquired Infections (HAI) /Sepsis</measure>
+    <time_frame>30 and 60 days</time_frame>
+    <description>Change in the duration of days of diagnosed HAI/ Sepsis infections</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Composite Recovery</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Duration without Respiratory Replacement Therapy (RRT), ventilator, and time to discharge</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Composite Survival</measure>
+    <time_frame>30 and 60 days</time_frame>
+    <description>Survival without Respiratory Replacement Therapy (RRT), ventilator, or time to Long Term Care (LTC)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Composite Non-Recovery</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Survival with Respiratory Replacement Therapy (RRT), ventilator or in Long Term Care (LTC)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Continuous Renal Replacement Therapy</condition>
+  <condition>Pulmonary Edema</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>C2Rx</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Hemofiltration device</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care (SOC)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard of Care based on protocol inclusion/exclusion criteria</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>C2Rx</intervention_name>
+    <description>Hemofiltration</description>
+    <arm_group_label>C2Rx</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care (SOC)</intervention_name>
+    <description>Standard of care that excludes any protocol restrictions.</description>
+    <arm_group_label>Standard of Care (SOC)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  A patient, or legal authorized representative (LAR), has provided informed consent and
+             a written informed consent form.
+
+          -  Positive COVID-19 test.
+
+          -  Must be receiving medical care in an intensive care nursing situation.
+
+          -  Respiratory failure due to COVID-19 disease requiring invasive mechanical ventilation.
+             This care may include but is not required to include the use of dexamethasone.
+
+          -  Within 18 hours of tracheal intubation to support invasive mechanical ventilation. A
+             goal of this study is that T0 will occur within 24 hours of tracheal intubation to
+             support invasive mechanical ventilation.
+
+          -  Age 18 to 80 years.
+
+          -  Males and females (females of childbearing potential who are not pregnant confirmed by
+             a negative serum pregnancy test) and not lactating if recently post-partum).
+
+          -  Intent to deliver full supportive care through aggressive management utilizing all
+             available therapies for a minimum of 96 hours.
+
+        Exclusion Criteria:
+
+          -  Cardiovascular instability that precludes initiation of hemofiltration.
+
+          -  Irreversible brain damage based on available historical and clinical information.
+
+          -  Presence of any solid organ transplant at any time.
+
+          -  Patients with stem cell transplant in the previous 100 days or who have not engrafted.
+
+          -  Acute or chronic use of circulatory support device such as extracorporeal membrane
+             oxygenation (ECMO), left ventricular assist devices (LVADs), right ventricular assist
+             devices (RVADs), biventricular assist devices (BIVADs).
+
+          -  Metastatic malignancy which is actively being treated or may be treated with
+             chemotherapy or radiation during the subsequent three-month period after study
+             treatment.
+
+          -  Chronic immunosuppression defined as use of any immunosuppressant medications
+             (cyclophosphamide, azathioprine, methotrexate, rituximab, mycophenolate,
+             cyclosporine); prednisone use is excepted.
+
+          -  Patient is moribund or chronically debilitated for whom full supportive care is not
+             indicated.
+
+          -  Concurrent enrollment in another interventional clinical trial except trials of
+             COVID-19 convalescent plasma, anti-severe acute respiratory syndrome (SARS)-CoV2
+             monoclonal antibodies, or RemdesivirTM. Patients enrolled in observational studies
+             (without the use of an investigative device or drug), are allowed to participate. Any
+             communication between the Principal Investigator (PI) of this Protocol and the PI of
+             any other clinical study will include the Medical Director of the Sponsor; all such
+             correspondence will be documented.
+
+          -  Any reason the Investigator deems exclusionary
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Eric Schlorff</last_name>
+    <phone>844-427-8100</phone>
+    <email>Eric@seastarmed.com</email>
+  </overall_contact>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 3, 2020</study_first_posted>
+  <last_update_submitted>September 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulmonary Edema</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

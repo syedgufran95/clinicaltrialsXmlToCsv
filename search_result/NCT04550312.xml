@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3440">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04550312</url>
+  </required_header>
+  <id_info>
+    <org_study_id>XYFY2020-KL142-01</org_study_id>
+    <nct_id>NCT04550312</nct_id>
+  </id_info>
+  <brief_title>The Impact of Lifestyle Changes on Non-COVID Deaths</brief_title>
+  <official_title>The Impact of Lifestyle Alteration by Strict Prevention Measures on Non-COVID Deaths in the Region With Low COVID-19 Transmission Rate</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The First Affiliated Hospital with Nanjing Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The First Affiliated Hospital with Nanjing Medical University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The increase of all-cause mortality in the areas with high COVID-19 transmission rate due to
+      COVID-19 deaths and the collateral damage to other healthcare problems is well known.
+      However, the COVID-19 mortality is very low in the regions with low transmission rate and
+      sufficient medical resources. In such regions, strict prevention measures were taken and
+      these would alter the people's lifestyle and hygienic habits and further impact on
+      non-COVID-19 deaths. Yet, there has no thorough investigation in this aspect.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background The increase of all-cause mortality in the areas with high COVID-19 transmission
+      rate due to COVID-19 deaths and the collateral damage to other healthcare problems is well
+      known. However, the COVID-19 mortality is very low in the regions with low transmission rate
+      and sufficient medical resources. In such regions, strict prevention measures were taken and
+      these would alter the people's lifestyle and hygienic habits and further impact on
+      non-COVID-19 deaths. Yet, there has no thorough investigation in this aspect.
+
+      Methods The number of registered deaths among 8.8 million permanent residents with specific
+      causes from January 2018 to June 2020 were sourced from the Xuzhou Center for Disease Control
+      and Prevention, Jiangsu Province, China. Death rates were calculated and compared by weeks,
+      months, and years with a focus on the period of COVID-19 pandemic from Jan 24 to March 27,
+      2020. Numeric values of all-cause death and the death rates of non-COVID diseases were
+      compared in time series at different time scales.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">October 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Numeric values of all-cause death and the death rates of non-COVID diseases</measure>
+    <time_frame>from January 2018 to June 2020</time_frame>
+  </primary_outcome>
+  <enrollment type="Anticipated">80000</enrollment>
+  <condition>Lifestyle Alteration</condition>
+  <condition>Non-COVID Deaths</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        all cases of non-Covid-19 deaths in Xuzhou region between 2018 and 2020
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All cases of death reported to the Xuzhou CDC during the study period
+
+        Exclusion Criteria:
+
+          -  no
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>minglong chen, PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Xuzhou Medical University affiliated hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ming chu, PHD</last_name>
+    <phone>86-2568136965</phone>
+    <email>chuming@njmu.edu.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Xuzhou Medical University affiliated Hospital</name>
+      <address>
+        <city>Xuzhou</city>
+        <state>Jiangsu</state>
+        <zip>221000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ming Chu, PHD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Chenzong Li, PHD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 15, 2020</study_first_posted>
+  <last_update_submitted>September 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 15, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Death</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

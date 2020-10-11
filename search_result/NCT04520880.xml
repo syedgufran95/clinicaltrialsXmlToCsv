@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2317">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04520880</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ICU-06072020</org_study_id>
+    <nct_id>NCT04520880</nct_id>
+  </id_info>
+  <brief_title>Antibodies Responses to COVID-19 Infection in Hospitalized Patients</brief_title>
+  <acronym>No-SARS</acronym>
+  <official_title>Antibodies Responses to SARS-CoV 2 Infection (COVID-19) in Hospitalized Patients. A Prospective Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dammam University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dammam Medical Complex</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institute for Research and medical consultations (IRMC)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dammam University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      1.5. Why this clinical study?
+
+      The prevalence of seropositivity following SARS-CoV 2 infection might have its own potential
+      benefits in terms of predicting the end of pandemic and the validity of herd immunity. It is
+      not clear if SARS-CoV 2 infection would have a long-lasting antibody-mediated immunity, and
+      if the antibodies' persistence is dependent on disease severity.depends on the severity of
+      illness. If evidence is provided about the persistence of antibodies that is reflective of
+      the protective immune response, serodiagnosis will be an important tool to identify
+      individuals with various risk for infection, and those who are in need of receiving the
+      forthcoming vaccines.
+
+      The here proposed prospective clinical study will test the prevalence of seropositivity
+      following SARS-CoV 2 infection in critically ill patients compared to those who do not
+      require intensive care unit (ICU) admission or invasive ventilation with respect to the IgM
+      and IgG levels.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1.1. Prevalence of Coronavirus infection:
+
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has caused an ongoing
+      pandemic where the first case was reported in Wuhan china earlier in December 2019 then
+      spread exponentially to the rest of the world.
+
+      The disease has a wide spectrum of severity where most of the cases have caused mild or no
+      symptoms, 15-20% require hospitalization, and severe cases that need intensive care unit
+      admission account for approximately 3-5% which varies across countries with reported
+      mortality ranged from 30-80% for mechanically ventilated patients.
+
+      1.2. Immune response to coronavirus infection.
+
+      The immune system responds to infection with coronaviruses primary by developing humoral
+      antibodies responses, in which S-specific and to a lesser extent N-specific antibody are
+      typically elicited in infected individuals. Previous studies conducted during severe acute
+      respiratory syndrome (SARS) and the Middle East respiratory syndrome (MERS) epidemics
+      identified an S and N-specific antibodies that are elicited 2-3 weeks after infection and
+      persisted several weeks to months. During this SARS-CoV-2 pandemic, studies have revealed
+      evidence of seroconversion in those patients who were recovered SARS-CoV-2 infections with a
+      variable degree of response.
+
+      1.3. Immune response to SARS-CoV 2 infection.
+
+      A case series reported antibodies response to SARS-CoV-2 in some patients and health care
+      workers in a pediatric dialysis unit after contact with a seropositive patient where most of
+      them were asymptomatic.
+
+      Some studies showed different seroconversion sensitivity and titer changes over time-based on
+      the degree of symptoms where those who were symptomatic had higher and more sustainable
+      S-specific antibodies (IgM/IgG) response in their sera compared to asymptomatic patients.
+
+      Another study of 149 patients who were recovered from mild SARS-CoV-2 illness whom blood was
+      collected after an average of 39 days after the onset of symptoms had variable neutralizing
+      titers: less than 1:50 in 33% and below 1:1,000 in 79%, while only 1% showed titers above
+      1:5,000 and they conclude that most convalescent plasmas obtained from individuals who
+      recover from SARS-CoV-2 do not contain high levels of neutralizing antibodies activity.
+
+      1.4. Immune response to SARS-CoV 2 infection and severity of the disease.
+
+      Other investigators reported that in the asymptomatic group, the median duration of viral
+      shedding was 19 days (interquartile range (IQR),15-26 days). The shortest duration of viral
+      shedding in the asymptomatic group was 6 days and the longest was 45 days. In patients with
+      mild symptoms, the median duration of viral shedding was 14 days (IQR, 9-22 days).
+      Interestingly, 81.1% of the asymptomatic patients tested positive for (antigen: S-specific?)
+      IgG 3-4 weeks post-exposure and 83.8% of the symptomatic group tested positive for (antigen:
+      S specific?) IgG 3-4 weeks post-exposure. In the acute phase, (antigen to be specified) IgG
+      levels in the asymptomatic group (median S/CO, 3.4; IQR, 1.6-10.7) were significantly lower
+      (P = 0.005) relative to the symptomatic group (median S/CO, 20.5; IQR, 5.8-38.2). Of note,
+      93.3% of the asymptomatic group saw a decline in IgG levels during the convalescent phase (8
+      weeks post-hospitalization) compared with 96.8% of the symptomatic group - the median
+      percentage of decrease was 71.1% (range, 32.8-88.8%) and 76.2% (range, 10.9-96.2%)
+      respectively.
+
+      Other investigators published online in medRxiv, and not yet peer-reviewed, reported that 40%
+      of asymptomatic individuals became seronegative and 12.9% of the symptomatic group became
+      negative for (antigen) IgG in the early (8 weeks) convalescent phase.
+
+      SARS-Cov2 patients who survived critical illness expected to have a maximum immune response
+      which helped them to survive their illness, whether this response has the prolonged-lasting
+      effect or not compared to other hospitalized none critically ill patients with less disease
+      severity is to be investigated,
+
+      Objectives
+
+      Given the evidence available on this area, the investigators would measure the S specific and
+      N specific binding antibody levels as well as N neutralizing antibodies of COVID-19 patients
+      with different severity of illness at the different time periods.
+
+      The overall objectives of this prospective observational parallel clinical trial are to test
+      the persistence of humoral antibody responses measured by the levels of binding and
+      neutralizing antibodies after severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+      infection in hospitalized patients with different severity of illness over different time
+      intervals.
+
+      Here, the investigators aim to measure the proportion of patients with positive S-specific
+      and N-specific antibodies during at 4 to 6 and at least 16 weeks after the onset of symptoms
+      of SARS-Cov2 infection in ICU and non-ICU hospitalized patients.
+
+      The investigators would provide information for the scientific community to predict the
+      short-term herd immunity of the disease.
+
+      Hypothesis
+
+      The investigators hypothesize that, compared with symptomatic hospitalized patients, the
+      critically ill patients might be likely to produce long-lasting protective antibodies against
+      this virus following SARS-CoV-2 infection.
+
+      STUDY DESIGN
+
+      A multi-center, prospective observational, longitudinal study in patients with SARS-CoV 2.
+      The study will be conducted according to Good Clinical Practice (GCP) Guidelines and comply
+      with the principles of the Declaration of Helsinki. The study will be registered in a public
+      registry.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in the levels of S specific antibodies in severely ill patients compared to mild cases.</measure>
+    <time_frame>Changes from baseline (4 to 6 weeks) at 16 weeks after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>The measurements are dependent on epitope recognitions for synthetic, adsorbed S proteins</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the levels of N specific antibodies in severely ill patients compared to mild cases.</measure>
+    <time_frame>Changes from baseline (4 to 6 weeks) at 16 weeks after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>The measurements are dependent on epitope recognitions for synthetic, adsorbed N proteins</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>S specific binding antibodies of SARS-CoV-2</measure>
+    <time_frame>4 to 6 weeks and 16 weeks after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>Titers of the S specific binding antibodies of SARS-CoV-2 would be assayed as described in the interventions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>N specific binding antibodies of SARS-CoV-2</measure>
+    <time_frame>4 to 6 weeks and 16 weeks after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>Titers of the N specific binding antibodies of SARS-CoV-2 would be assayed as described in the interventions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibodies directed against S protein of SARS-CoV-2</measure>
+    <time_frame>4 to 6 weeks and 16 weeks after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>Titers of the neutralizing antibodies directed against S protein of SARS-CoV-2 would be assayed as described in the interventions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The severity category of critically ill</measure>
+    <time_frame>Day 0, 4 to 6 weeks and 16 weeks after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>The severity category of critically ill patients would be estimated using an APACHI II score. Minimum score = 0; maximum score = 71.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of ICU</measure>
+    <time_frame>For 16 weeks after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>Length of ICU stay from the admission day to the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stays</measure>
+    <time_frame>For 16 weeks after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>Length of hospital stay from the hospital admission day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alive status at 28-days</measure>
+    <time_frame>For 28 days after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>If the patients alive or dead through a telephone interview.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alive status at 90-day</measure>
+    <time_frame>For 90 days after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>If the patients alive or dead through a telephone interview.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the levels of S neutralizing antibodies and disease severity</measure>
+    <time_frame>For 16 weeks after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>To correlate the levels of S neutralizing antibodies in severely ill patients compared to mild cases.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the levels of N neutralizing antibodies and disease severity</measure>
+    <time_frame>For 16 weeks after the onset of symptoms of SARS-Cov2 infection</time_frame>
+    <description>To correlate the levels of N neutralizing antibodies in severely ill patients compared to mild cases.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">158</enrollment>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV 2 Infection)</condition>
+  <condition>Hospitalized Patients</condition>
+  <condition>Laboratory-confirmed SARS-CoV 2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Critically ill SARS-Cov2 patients</arm_group_label>
+    <description>Critically ill patients with acute hypoxemic respiratory failure defined as those admitted to ICU and receiving mechanical ventilation (invasive or non-invasive) or high-level supplemental oxygen (via a high-flow nasal cannula or non-rebreathing face mask at a flow rate of 15 L per min or greater), at or during hospitalization</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hospitalized non-critically ill SARS-Cov2 symptomatic patients</arm_group_label>
+    <description>Hospitalized non-critically ill SARS-Cov2 symptomatic patients</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Testing procedure for Binding antibodies</intervention_name>
+    <description>Levels of S-specific and N-specific binding antibodies will be measured by enzyme immune-sorbent assay (ELISA). Briefly, a purified, recombinant S or N proteins will be coated into 96-well plates and incubated for 1 hour at room temperature. The plates will be then washed with 1X PBS five times. The unbound regions of the coated S proteins are blocked by 5% non-fat dry milk. After overnight incubation at 4 C. The plates are washed several times with 5X PBS. Patients sera samples are added in duplicate and incubated for 1 hour at room temperature. After several washes. anti-human IgG HRP conjugate is added. After 1-hour incubation at room temperature, the plates are washed with 1X PBS five times 3,3', 5,5' tetramethylbenzidine (TMB) substrate is added to each wells and incubated for 5 minutes. The reaction will be then stopped with 0.2 M sulfuric acid and the absorbance is measured at 450nm.</description>
+    <arm_group_label>Critically ill SARS-Cov2 patients</arm_group_label>
+    <arm_group_label>Hospitalized non-critically ill SARS-Cov2 symptomatic patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Neutralizing antibodies</intervention_name>
+    <description>Neutralizing antibodies against the S protein of SARS-CoV-2 are measured by PV microneutralization assay. Briefly, individual plasmids expressing S.fl gene, luciferase genes, and reporter genes are co-transfected into 293T cells to produce luciferase-expressing pseudo-viruses. Then, pseudo-viruses are added at equal volume into 96 well plates and incubated at 37 for 1 hour. Then, the ACE2 expressing 293T cells are added into the 96well pates with 100 ul of patients' sera in duplicates. After, a single round of replication the cells are lysed with lysis buffer. Luciferase activity is measured by the luciferase assay kit. The activity of luciferases is proportional to the number of cells infected. Luciferase activity is then measured by the luminometer device and the neutralization rate is calculated.</description>
+    <arm_group_label>Critically ill SARS-Cov2 patients</arm_group_label>
+    <arm_group_label>Hospitalized non-critically ill SARS-Cov2 symptomatic patients</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      3-5 ml of blood would be obtained from each patient will be collected at 4 to 6 weeks and 16
+      weeks intervals after the onset of symptoms of SARS-Cov2 infection in a tube. The blood
+      samples are centrifuged and sera will be separated and stored at 20 C or below until further
+      immunological testing. Levels of S-specific and N-specific binding antibodies will be
+      measured by enzyme immune-sorbent assay (ELISA). Briefly, a purified, recombinant S or N
+      proteins will be coated into 96-well plates and incubated for 1 hour at room temperature.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Symptomatic inpatients (ICU and none ICU) patients with laboratory-confirmed SARS-CoV 2
+        infection admitted to the participating centers will be screened, eligible patients will be
+        consented then assessed for the timing of the onset of symptoms.
+
+        Patients will be included for testing of the virus-specific antibodies levels if they spend
+        at least 2 weeks from symptoms onset.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Symptomatic infection with at least 2 weeks' time interval since the symptom's onset.
+
+          -  Laboratory-confirmed COVID-19 with positive SARS-CoV-2 real-time polymerase chain
+             reaction (RT-PCR) testing of nasopharyngeal or oropharyngeal swabs.
+
+          -  Inpatients in either isolated wards or ICU.
+
+          -  Agreement for blood sampling during the course of the study.
+
+        Exclusion Criteria:
+
+          -  Decline consent to participate.
+
+          -  Pregnancy.
+
+          -  Asymptomatic patients, who are PCR positive during routine screening upon admission
+
+          -  Administration of immunoglobulins within the 3 proceeding months including Covid-19
+             convalescent plasma.
+
+          -  Patients with Don't resuscitate orders
+
+          -  Patients with terminal illnesses regardless of the severity of SARS-CoV 2 infection.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Mohammed S Alshahrani, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Critical Care and emergency Department, Associate Professor, College of Medicine, Imam Abdulrahman Ben Faisal University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Iman Almansour, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Associate Professor, Department of epidemic disease research, IRMC, IAU</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mohamed R El Tahan, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Anesthesiology Department, Associate Professor, College of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mohammed S Alshahrani, MD</last_name>
+    <phone>+966 55 696 6663</phone>
+    <email>msshahrani@iau.edu.sa</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mohamed R El Tahan, MD</last_name>
+    <phone>+966569371849</phone>
+    <email>mohamedrefaateltahan@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Imam Abdulrahman Bin Faisal University</name>
+      <address>
+        <city>Dammam</city>
+        <state>Eastern</state>
+        <zip>31952</zip>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mohammed SS Alshahrani, MD</last_name>
+      <phone>+966 55 696 6663</phone>
+      <email>msshahrani@iau.edu.sa</email>
+    </contact>
+    <contact_backup>
+      <last_name>Laila P Asonto, MD</last_name>
+      <phone>+966 55 458 6033</phone>
+      <email>lasonto@iau.edu.sa</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Mohammed SS Alshahrani, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Iman Almansour, Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mohamed R El Tahan, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Amani MM Alnimr, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yousef Al Mubarak, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Talal A Albrahim, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mohammed Alnabi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Moaz S Alammar, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hisham A Almuzayyen, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fatimah A Al-Mishkab, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jawaher Almusairii, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Saudi Arabia</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 20, 2020</study_first_posted>
+  <last_update_submitted>August 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 20, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Antibodies, Blocking</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The study protocol, statistical plan and raw data would be uploaded</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>There is an indefinite time limit, following publishing the scientific paper</ipd_time_frame>
+    <ipd_access_criteria>The database will be locked as soon as all data are entered, and all discrepant or missing data are resolved - or if all efforts are employed and we consider that the remaining issues cannot be fixed. At this step, the data will be reviewed before database locking. After that, the study database will be locked and exported for statistical analysis. At this stage, permission for access to the database will be removed for all investigators, and the database will be archived.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

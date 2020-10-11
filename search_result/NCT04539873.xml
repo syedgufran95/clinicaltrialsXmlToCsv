@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3037">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04539873</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5175</org_study_id>
+    <nct_id>NCT04539873</nct_id>
+  </id_info>
+  <brief_title>Impact of Colchicine in Hospitalized Colombian Patients With COVID-19</brief_title>
+  <acronym>(COLCOVID19)</acronym>
+  <official_title>Impact of Colchicine in Hospitalized Colombian Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundación Universitaria de Ciencias de la Salud</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital de San Jose</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fundación Universitaria de Ciencias de la Salud</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase IIIa, prospective, open-label, randomized, parallel-group study designed to
+      evaluate the efficacy and safety of oral colchicine plus standard therapy versus standard
+      therapy in the clinical course of SARS-CoV-2 infection, in a population group with moderate
+      COVID-19 compromise and requiring hospitalization.Aproximately 120 subjects meeting all
+      inclusion and not inclusion criteria will be randomized to receive either Colchicine plus
+      standard treatment or only standard treatment for 15 days
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Introduction: COVID-19 and mortality associated with acute respiratory distress syndrome
+      (ARDS) pose a global public health problem. The increase in spread and associated mortality
+      poses a scenario where cost-effective therapeutic options are urgently and effectively
+      proposed to control and reduce the pandemic and even to reduce the number of deaths
+      Objective: To evaluate the efficacy and safety of oral colchicine plus treatment standard
+      versus standard treatment in the clinical course of SARS-CoV-2 virus infection, in a
+      population group with moderate COVID-19 involvement and requiring hospitalization.
+      Methodology: A prospective, open, randomized, parallel-group study, the sample size of 120
+      subjects each arm of 60 subjects. Random assignment (1: 1) to either colchicine plus standard
+      treatment or control arm (standard treatment) orally for 14 days. An initial dose of 1.5 mg
+      orally on the first day, followed by 0.5 mg every 12 hours on days 2 to 7 and continuing with
+      0.5 mg a day until completing 14 days ± 1. It will be followed on days 1, 3, 7, 14, and day
+      28, evaluating physical examination, clinical situation, laboratories, and adverse events.
+      The primary efficacy data correspond to the deterioration in the clinical status of the
+      patients through the semiquantitative ordinal scale suggested by the WHO R&amp;D committee.
+      Expected results: It is expected to find out how, through different pathways, colchicine
+      could act in modulating or preventing the appearance of ARDS associated with COVID-19, its
+      possible effects on viral replication and antigenic presentation.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a phase IIIa, prospective, open-label, randomized, parallel-group study designed to evaluate the efficacy and safety of oral colchicine plus standard therapy versus standard therapy in the clinical course of SARS-CoV-2 infection, in a population group with moderate COVID-19 compromise and requiring hospitalization.
+Patients diagnosed with COVID-19 and meeting all eligibility criteria will be randomized for treatment in a 1: 1 ratio through a central voice response system. Randomization will be balanced in each of the 2 strata: 1) hospitalized patients with clinical stage 4 (requirement of supplemental oxygen by nasal contact lenses or mask) of the World Health Organization (WHO) classification, see ANNEX 2, who will receive in addition to the usual treatment for COVID-19 oral colchicine (exposed group); 2) hospitalized patients with clinical stage 4 of the WHO classification who will receive the usual treatment for COVID-19 (control group).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>the sample size of 120 subjects each arm of 60 subjects. Random assignment (1: 1) to either colchicine plus standard treatment or control arm (standard treatment) orally for 14 days. An initial dose of 1.5 mg orally on the first day, followed by 0.5 mg every 12 hours on days 2 to 7 and continuing with 0.5 mg a day until completing 14 days ± 1. It will be followed on days 1, 3, 7, 14, and day 28, evaluating physical examination, clinical situation, laboratories, and adverse events. The primary efficacy data correspond to the deterioration in the clinical status of the patients through the semiquantitative ordinal scale suggested by the WHO R&amp;D committee. Expected results: It is expected to find out how, through different pathways, colchicine could act in modulating or preventing</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants who die or require transfer to Intesive care unit</measure>
+    <time_frame>In the first 15 days after ramdomization</time_frame>
+    <description>The primary endpoint will be the need of transfert to ICU or composite of dead due to COVID19 infection</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who die</measure>
+    <time_frame>15 days after ramdomization</time_frame>
+    <description>The secondary end point is the ocurrence of death in the 15 days after ramdomization</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">128</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>COLHICINE PLUS STANDARD TREATMENT</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients treated in the exposed group will consist of a decreasing dose of colchicine: a dose of 1.5 mg orally on the first day (initial 1 mg and 0.5 mg at 2 hours), followed by 0.5 mg every 12 hours on days 2 to 7, and continuing with 0.5 mg per day until completing 14 ± 1 days. The duration of treatment will be 14 ± 1 days, depending on the clinical judgment of the investigator.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>STANDARD TREATMENT</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>In this case, the centers where the patients will be included adhere to the Colombian guidelines (Colombian Consensus of the Colombian Association of Infectious Diseases), and to standard treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colchicine 0.5 MG</intervention_name>
+    <description>Patientes in this arm will receive study medication colchicine 1,5 orally on the first day (initially two pills of 0,5 mg and 0.5 mg at 2 hours), followed by 0.5 mg every 12 hours on days 2 to 7, and continuing with 0.5 mg per day until completing 14 ± 1 days. The duration of treatment will be 14 ± 1 days, depending on the clinical judgment of the investigator.</description>
+    <arm_group_label>COLHICINE PLUS STANDARD TREATMENT</arm_group_label>
+    <other_name>EXPOSED GROUP</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>CONTROL GROUP</intervention_name>
+    <description>In this case, the centers where the patients are enrolled will adhere to the Colombian guidelines (Colombian Consensus of the Colombian Association of Infectious Diseases)</description>
+    <arm_group_label>STANDARD TREATMENT</arm_group_label>
+    <other_name>standard treatment</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients ≥18 years old.
+
+          -  Laboratory-confirmed SARS-CoV-2 infection: infection confirmed with nasopharyngeal
+             swab by positive RT PCR in the last 48 hours.
+
+          -  Hospital admission for COVID-19 in the previous 48 hours.
+
+          -  Clinical stage 3 (no supplemental oxygen requirement) or 4 (supplemental oxygen
+             requirement for nasal contact lenses or mask) of the WHO classification (see ANNEX 2).
+
+          -  The patient must be able and willing to provide informed written consent before
+             performing study procedures.
+
+          -  Patient confirmed to covid19 as positive by positive PCR test
+
+        Exclusion Criteria:
+
+          -  Pregnancy, nursing mothers, and women of childbearing potential who are unable to use
+             adequate contraception.
+
+          -  Known hypersensitivity or other clear contraindication to the use of colchicine.
+
+          -  History of end-stage renal disease (eGFR &lt;30 ml / min / 1.73 m2).
+
+          -  Medical history of cirrhosis (Child-Pugh C), liver failure, chronic active hepatitis,
+             or severe liver disease defined by alanine aminotransferase (ALT) or aspartate
+             aminotransferase (AST)&gt; 5 times the upper limit of normal.
+
+          -  History of pre-existing neuromuscular disease.
+
+          -  Previous severe hematologic disease or bleeding disorders.
+
+          -  Inflammatory bowel disease (Crohn's disease or ulcerative colitis), chronic diarrhea,
+             or malabsorptive syndrome.
+
+          -  Colchicine treatment for other indications.
+
+          -  Treatment with immunosuppressive/immunomodulatory agents, including glucocorticoids,
+             antivirals, antimalarials, and IL 6 antagonists for 30 days prior to enrollment.
+
+          -  Use of other investigational drugs at the time of inclusion, or during the 30 days
+             prior to inclusion.
+
+          -  Any medical condition or disease that, in the opinion of the investigator, may place
+             the patient at unacceptable risk to participate in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>JHON JAIME SPROCKEL, MD; IM</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital de San Jose</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>GIOVANNI MONTEALEGRE, MD. PS</last_name>
+    <phone>+571 3538100</phone>
+    <email>giosurg@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>WALTER CHAVES, MD; IM</last_name>
+    <phone>+571 3538100</phone>
+    <email>wchaves@fucsalud.edu.co</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Fundación Universitaria de Ciencias de La Salud</name>
+      <address>
+        <city>Bogota</city>
+        <state>Cundinamarca</state>
+        <zip>111411</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>ARLEY GOMEZ, MD;PhD</last_name>
+      <phone>+5714375401</phone>
+      <phone_ext>5150</phone_ext>
+      <email>agomez@fucsalud.edu.co</email>
+    </contact>
+    <contact_backup>
+      <last_name>HECTOR RESTREPO</last_name>
+      <phone>+5714375401</phone>
+      <phone_ext>5150</phone_ext>
+      <email>hfrestrepo@fucsalud.edu.co</email>
+    </contact_backup>
+    <investigator>
+      <last_name>WALTER CHAVES, MD. IM</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>JHON JAIME SPROCKEL, MD.IM</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Colombia</country>
+  </location_countries>
+  <results_reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, Shi Z, Hu Z, Zhong W, Xiao G. Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res. 2020 Mar;30(3):269-271. doi: 10.1038/s41422-020-0282-0. Epub 2020 Feb 4.</citation>
+    <PMID>32020029</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Montealegre-Gómez G, Garavito E, Gómez-López A, Rojas-Villarraga A, Parra-Medina R. [Colchicine: a potential therapeutic tool against COVID-19. Experience of 5 patients]. Reumatol Clin. 2020 May 16. doi: 10.1016/j.reuma.2020.05.001. [Epub ahead of print] Spanish.</citation>
+    <PMID>32426001</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Savarino A, Di Trani L, Donatelli I, Cauda R, Cassone A. New insights into the antiviral effects of chloroquine. Lancet Infect Dis. 2006 Feb;6(2):67-9.</citation>
+    <PMID>16439323</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tay MZ, Poh CM, Rénia L, MacAry PA, Ng LFP. The trinity of COVID-19: immunity, inflammation and intervention. Nat Rev Immunol. 2020 Jun;20(6):363-374. doi: 10.1038/s41577-020-0311-8. Epub 2020 Apr 28. Review.</citation>
+    <PMID>32346093</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 7, 2020</study_first_posted>
+  <last_update_submitted>September 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Colchicine</keyword>
+  <keyword>Gout</keyword>
+  <keyword>Antirheumatic Agents</keyword>
+  <keyword>Tubulin Modulators</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

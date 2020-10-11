@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1354">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04497779</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20204</org_study_id>
+    <secondary_id>NCI-2020-04000</secondary_id>
+    <secondary_id>20204</secondary_id>
+    <secondary_id>P30CA033572</secondary_id>
+    <secondary_id>TGen</secondary_id>
+    <nct_id>NCT04497779</nct_id>
+  </id_info>
+  <brief_title>Analysis of Coronavirus Disease 19 (COVID-19) Convalescent Plasma</brief_title>
+  <official_title>Evaluation of Coronavirus Disease 19 (COVID-19) Convalescent Plasma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>City of Hope Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>California Institute for Regenerative Medicine (CIRM)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>City of Hope Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Plasma from patients who have recovered from coronavirus disease 2019 (COVID-19) is referred
+      to as COVID-19 convalescent plasma (CCP), and may contain antibodies against SARS-CoV-2, the
+      virus responsible for COVID-19. CCP infusion is being evaluated as a therapeutic or
+      prophylactic approach in COVID-19 patients. The goal of this study is to help develop a bank
+      of convalescent plasma in California, especially in medically underserved communities
+      particularly affected by the disease. In parallel, CCP administered to COVID-19 patients will
+      be collected and analyzed to determine whether the antibody profile correlates with clinical
+      outcome. The purpose of this non-therapeutic study is to learn more about the CCP antibody
+      profile and the effect it may have in treating COVID-19 infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. Establish a testing service for screening prospective donors of coronavirus disease 2019
+      (COVID-19) convalescent plasma (CCP).
+
+      II. Characterize the titer and neutralizing properties of severe acute respiratory syndrome
+      coronavirus 2 (SARS-CoV-2) antibodies in CCP.
+
+      III. Correlate the SARS-CoV-2 antibody characteristics in CCP with the outcome in severely
+      ill COVID-19 patients treated with CCP.
+
+      EXPLORATORY OBJECTIVES:
+
+      I. Facilitate the recruitment of CCP donors in medically underserved areas.
+
+      II. Develop high-throughput methods for detection/characterization of SARS-CoV-2 neutralizing
+      and non-neutralizing antibodies.
+
+      III. Develop a bank of convalescent plasma that would be available for future studies
+      relating to the content of CCP.
+
+      IV. Study the impact of antibody levels, donor characteristics and patient characteristics on
+      outcome in COVID-19 patients treated with CCP.
+
+      V. Procure blood samples from COVID-19 convalescent volunteers for future COVID-19-related
+      studies.
+
+      OUTLINE:
+
+      PROSPECTIVE CCP DONORS: Participants undergo collection of blood and/or nasopharyngeal swabs
+      at the time of screening. Participants' medical records are reviewed.
+
+      CONVALESCENT BLOOD DONORS WHO CHOOSE NOT TO DONATE CCP: Participants undergo collection of
+      blood sample at the time of screening. Participants' medical records are reviewed.
+
+      CCP RECIPIENTS: Patients undergo collection collection of blood samples at baseline, between
+      CCP unit infusions, 24 hours after last CCP infusion, and between 14-28 after last CCP
+      infusion. Patients' medical records are reviewed.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 13, 2020</start_date>
+  <completion_date type="Anticipated">August 21, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 21, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Convalescent plasma (CCP) units infused in coronavirus disease-2019 (COVID-19) patients</measure>
+    <time_frame>Up to 12 months after enrollment</time_frame>
+    <description>Will be assayed for severe acute respiratory syndrome (SARS-CoV-2) immunoassay, coronavirus (CoV) PepSeq assay, and SARS-CoV-2 lenti-based neutralizing antibody titer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>At day 28 post-CCP infusion</time_frame>
+    <description>Will naturally be compared to reported data from the other studies. Analysis will focus on demonstrating that the antibody content of donor plasma increases the odds of surviving past day 28. Will also develop a nomogram for the probability of success (alive at day 28), accounting for patient, donor material and donor antibody characteristics measurable covariates.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Donor antibody levels</measure>
+    <time_frame>Up to 28 days post-CCP infusion</time_frame>
+    <description>Will be examined to see how this relates to the duration of hospitalization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 28 days post-CCP infusion</time_frame>
+    <description>Will be assessed on a 7-point ordinal scale, as recommended by the WHO patient outcome R&amp;D Blueprint Group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CCP recipient outcomes</measure>
+    <time_frame>Up to 28 days post-CCP infusion</time_frame>
+    <description>Will be assessed on a 7-point ordinal scale. The scale is as follows:
+Death;
+Hospitalized, on invasive mechanical ventilation or ECMO;
+Hospitalized, on non-invasive ventilation or high flow oxygen devices;
+Hospitalized, requiring low flow supplemental oxygen;
+Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise);
+Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care (other than per protocol RDV administration);
+Not hospitalized</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Duration of hospitalization (days)</measure>
+    <time_frame>Up to 28 days post-CCP infusion</time_frame>
+    <description>Patient can stay at the hospital for up to 28 days post-CCP infusion</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to clinical improvement (days)</measure>
+    <time_frame>Up to 28 days post-CCP infusion</time_frame>
+    <description>Will be assessed on a 7-point ordinal scale.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Asymptomatic COVID-19 Infection Laboratory-Confirmed</condition>
+  <condition>Symptomatic COVID-19 Infection Laboratory-Confirmed</condition>
+  <arm_group>
+    <arm_group_label>Screening (biospecimen collection, medical record review, CCP)</arm_group_label>
+    <description>PROSPECTIVE CCP DONORS: Participants undergo collection of blood and/or nasopharyngeal swabs at the time of screening. Participants' medical records are reviewed.
+CONVALESCENT BLOOD DONORS WHO CHOOSE NOT TO DONATE CCP: Participants undergo collection of blood sample at the time of screening. Participants' medical records are reviewed.
+CCP RECIPIENTS: Patients undergo collection of blood samples at baseline, 12-24 hours after each CCP infusion, and 7 days after last CCP infusion. Patients' medical records are reviewed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo collection of blood and/or nasopharyngeal swabs</description>
+    <arm_group_label>Screening (biospecimen collection, medical record review, CCP)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Diagnostic Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Screening (biospecimen collection, medical record review, CCP)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Electronic Health Record Review</intervention_name>
+    <description>Donors and recipients have their medical records reviewed.</description>
+    <arm_group_label>Screening (biospecimen collection, medical record review, CCP)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Screening (biospecimen collection, medical record review, CCP)</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Nasopharyngeal swab, blood samples
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with diagnosis of laboratory-confirmed COVID-19 infection
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        For COVID-19 convalescent individuals:
+
+          -  Age: ≥ 18 years
+
+          -  Evidence of COVID-19 documented by a laboratory test either by: a diagnostic test
+             (e.g., a NP swab) at the time of illness OR a positive serological test for SARS-CoV-2
+             antibodies after recovery, if prior diagnostic testing was not performed at the time
+             COVID-19 was suspected.
+
+        Note: If volunteers can't provide evidence of COVID-19, but are otherwise eligible, then we
+        will test them for SARS-CoV-2 antibodies to confirm eligibility.
+
+          -  Be willing to complete a pre-screening questionnaire
+
+          -  Be willing to donate blood samples
+
+          -  Permit medical record review
+
+          -  For prospective CCP donors only: weigh more than 110 pounds and be in general good
+             health
+
+        For (COVID-19 convalescent plasma (CCP) recipients:
+
+          -  Be enrolled in a clinical trial involving the infusion of CCP for the treatment of
+             COVID-19.
+
+          -  Be willing to provide blood samples
+
+          -  Permit medical record review
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Zaia</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>City of Hope Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Zaia</last_name>
+      <phone>626-218-1817</phone>
+      <email>jzaia@coh.org</email>
+    </contact>
+    <investigator>
+      <last_name>John Zaia</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.covidplasmastudy.com/</url>
+    <description>Website to register participants for the study</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>June 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 4, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Laboratory Infection</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

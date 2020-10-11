@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="61">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04537559</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-01017</org_study_id>
+    <nct_id>NCT04537559</nct_id>
+  </id_info>
+  <brief_title>Impact of COVID-19 Outbreak on Non-COVID-19 Patients</brief_title>
+  <acronym>NoCOVImpact</acronym>
+  <official_title>Impact of the COVID-19 Pandemic on the Morbidity and Mortality of Non-COVID-19 Patients Hospitalized Around the Epidemic Peak in the Geneva Area (Switzerland) (No COVID Impact)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Geneva</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Thomas Agoritsas</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sebastian Carballo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Pauline Darbellay</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Olivier Grosgurin</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Christophe Marti</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Mathieu Nendaz</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Jean-Luc Reny</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Jacques Serratrice</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Aimad Ourahmoune</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Delphine Courvoisier</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Virginie Prendki</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Christine Serratrice</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Dina Zekry</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Omar Kherad</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eric Gerstel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Geneva</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Geneva Canton organized the health crisis of the COVID-19 epidemic around the care of
+      COVID patients at the University Hospital (HUG), by moving the care of non-COVID patients to
+      private hospitals of the canton. The COVID epidemic appears to have been associated with a
+      decrease in consultations and care for non-COVID patients. An excess of morbidity and
+      mortality (non-COVID) would be possible during or after the epidemic in connection with this
+      &quot;under-medicalization&quot; of non-COVID patients.
+
+      The aim of this study is to measure and analyze the impact on the morbidity and mortality of
+      inpatients during and after the COVID-19 epidemic in the adult inpatient wards of HUG and
+      township hospitals / clinics.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The analysis of the various results will be carried out on all HUGs and on the various
+      hospitals / clinics in the canton.
+
+      A survival analysis for the outcome of death or rehospitalization will be performed, with a
+      comparison according to each period.
+
+      The outcomes will be compared between two periods: the 5-month period in 2020 (2-month
+      per-COVID period + 3-month post-COVID period) and the same period in 2019.
+
+      A description will be made in number (%) for numerical data and in median (IQR) for
+      quantitative data. Univariate comparisons between the different periods will be carried out
+      by statistical tests, parametric or not, adapted according to the data (Chi2 or Fisher's test
+      for qualitative data, Student's test or Mann-Whitney-Wilcoxon for quantitative data).
+      Statistical significance will be retained in the event of p &lt;0.05.
+
+      Multivariate analysis will be performed by logistic regression for the main outcome and by
+      cox model for survival analysis. Different variables will be included in the models,
+      including data on gender, age and comorbidity, as well as any variable having a difference
+      with p &lt;0.2 in univariate analysis.
+
+      Secondary analyzes will be carried out by pathology (as the main diagnosis) according to the
+      specific results defined for each situation. In retrospective analysis, these specific data
+      will be relatively limited on the HUG area of full analysis brings together around 20,000
+      hospital stays. Data from more than 40,000 hospital stays will therefore be analyzed (in 2019
+      and 2020).The main outcome data will be complete with no missing data. On the other hand,
+      since this is retrospective data, it is possible that some important variables are missing.
+      In this case, other patient data with missing data will not be included in the multivariate
+      analyzes. In the event of missing data greater than 10%, a second sensitivity analysis may be
+      performed after replacing the missing data with a multiple imputation method.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Anticipated">October 31, 2020</completion_date>
+  <primary_completion_date type="Actual">July 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Intra-hospital mortality</measure>
+    <time_frame>Assessed at the discharge date, up to 3 months after admission</time_frame>
+    <description>death during hospitalization of each patient</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>composite outcome (worsening during hospitalization)</measure>
+    <time_frame>At the discharge date of hospitalization, up to 3 months after admission</time_frame>
+    <description>intra-hospital mortality and / or transfer to intensive care and / or transfer to intermediate care during hospitalization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pathologies leading to hospitalization</measure>
+    <time_frame>At the discharge date of hospitalization, up to 3 months after admission</time_frame>
+    <description>Primary and secondary diagnosis during hospitalization (CIM10 codes)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>overall mortality at 3 months (90 days)</measure>
+    <time_frame>within the 3 months after the admission date</time_frame>
+    <description>intra or extra hospital mortality : death occuring during hospitalization or after</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Potentially avoidable readmission rate</measure>
+    <time_frame>During the 30 days after the patient's discharge</time_frame>
+    <description>Potentially avoidable readmission according to SQLape algorithm (http://www.sqlape.com/READMISSIONS.htm)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mortality rate by pathology at 3 months</measure>
+    <time_frame>within the 3 months after the admission date</time_frame>
+    <description>mortality for each top 10 of pathologies (intra or extra hospital mortality for each pathology)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>length of stay</measure>
+    <time_frame>At the discharge date of hospitalization, up to 3 months after admission</time_frame>
+    <description>Hospital length of stay (Time between admission date and discharge date)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>rate of transfer to intermediate or intensive care</measure>
+    <time_frame>At the discharge date, up to 3 months after admission</time_frame>
+    <description>Number of patients with transfer to intensive or intermediate care during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>rate of transfer to rehabilitation care</measure>
+    <time_frame>At the discharge date of acute care, up to 3 months after admission</time_frame>
+    <description>Number of patients with rehabilitation transfer during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>specific gravity outcomes for patients with pneumonia : CURB 65 scale (Confusion, Urea, Respiratory rate, Blood pressure, Age [&gt;65])</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>CURB65 scale: min-max 0 to 5 points [5 points : worse outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>specific gravity outcomes for patients with cardiac Failure : KILLIP class</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>KILLIP class (class 1 to 4) [class 4 : worse outcome]. The KILLIP classification is a system used in individuals with an acute myocardial infarction (heart attack), taking into account physical examination and the development of heart failure in order to predict and stratify their risk of mortality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>specific gravity outcomes for patients with cardiac Failure : Weight variation</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Weight variation : variation of weight at the admission compared to the basis weight</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>specific gravity outcomes for patients with cardiac Failure or lung disease</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>FIO2 (% O2 prescribed): Fraction of inspired oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Leukocytes serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Giga / litre</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Polynuclear neutrophils serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Giga / litre</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocytes serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Giga / litre</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemoglobin serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>gram/litre</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thrombocytes serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Giga / litre</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quick serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>in %</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>INR (International Normalized Ratio)</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>No unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>fibrinogen serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>gram/litre</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PTT serum level (partial Thromboplastin time)</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>in second</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-Dimers serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>ng / ml</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>glucose serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mmol / litre</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>glycated hemoglobin serum level (HbA1C)</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>in %</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein serum level (CRP)</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mg / litre</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>sodium serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>potassium serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>chlorides serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>calculated osmolality serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mOsm / kg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phosphates serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>corrected calcium serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>urea serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>creatinine serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>µmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>eGFR (CKD-EPI) serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>ml / min / 1.73m2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>albumin serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>g / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>prealbumin serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mg / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cyanocobalamin serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>pmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>folate serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>nmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>25-hydroxy vitamin D (D2 + D3) serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>nmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>proBNP (Brain Natriuretic Peptid) serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>ng / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ultra sensitive Troponin T serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>ng / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ASAT (aspartate transaminase) serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>U / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ALAT (alanine aminotransferase) serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>U / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alkaline phosphatases serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>U / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gamma glutamyl transpeptidase. serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>U / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total bilirubin serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>µmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ferritin serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>µg / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TSH serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mU / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial pH</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>No unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial pCO2 (carbon dioxide partial pressure)</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>kPa</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial pO2 (oxygen partial pressure)</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>kPa</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial lactate</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial HCO3 (bicarbonate)</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>mmol / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>protein serum level</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>g / l</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arterial pressure</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Arterial pression (min-max), in mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cardiac rates</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Bat/mn</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>respiratory rates</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>/mn</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>temperature</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Celsius degrees</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>oxygen saturation</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Percutaneous oxygen saturation (in %)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>peak flow</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>L/mn</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>specific scales : VAS of pain</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Visual analog Pain scale (min-max : 1 to 10 [worse outcome])</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>specific scales : FIM</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Functional Independence Measure (min-max : 18 [worse outcome]) to 126)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>specific scales : SOFA score</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Sequential Organ Failure Assessment Score (min-max : 0 to 24 [worse outcome])</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>specific scales : MNA</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Mini Nutritional Assessment (min-max : 0 [worse outcome] to 14)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>specific scales : NRS</measure>
+    <time_frame>At the acute care admission</time_frame>
+    <description>Nutrition Risk Screening (min-max : 0 to 12 [worse outcome])</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>serum or urine positive bacteriologic sample</measure>
+    <time_frame>At the acute care admission or during hospitalization</time_frame>
+    <description>number of positive hemoculture or urinary cultures</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient questionnaire</measure>
+    <time_frame>At the discharge date of hospitalization, up to 3 months after admission</time_frame>
+    <description>Questionnaire asking each patient if they had difficulty seeing a doctor before their hospitalization and if they delayed their hospitalization due to the COVID-19 crisis.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">40000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Per and post COVID-19 period</arm_group_label>
+    <description>Patients hospitalized between 1.3.2020 and 31.7.2020</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pre COVID-19 period</arm_group_label>
+    <description>Patients hospitalized between 1.3.2019 and 31.7.2019</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients hospitalized in Geneva hospital or clinic during both period (2019
+        [pre-COVID-19 period] and 2020 [per and post-COVID-19 period]
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient hospitalized in an adult department
+
+          -  During the per-COVID-19 and post-COVID-19 periods (in 2020) or between march and
+             august 2019 (pre-COVID-19).
+
+        Exclusion Criteria:
+
+          -  Patients who have been hospitalized for COVID-19 infection
+
+          -  Patients hospitalized in the Department of Adolescent Woman and Child, Department of
+             Psychiatry or Intensive Care Department during the same periods.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jerome Stirnemann, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Geneva</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Geneva University Hospital</name>
+      <address>
+        <city>Geneva</city>
+        <state>Canton De Genève</state>
+        <zip>1255</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <reference>
+    <citation>Welt FGP, Shah PB, Aronow HD, Bortnick AE, Henry TD, Sherwood MW, Young MN, Davidson LJ, Kadavath S, Mahmud E, Kirtane AJ; American College of Cardiology's Interventional Council and the Society for Cardiovascular Angiography and Interventions. Catheterization Laboratory Considerations During the Coronavirus (COVID-19) Pandemic: From the ACC's Interventional Council and SCAI. J Am Coll Cardiol. 2020 May 12;75(18):2372-2375. doi: 10.1016/j.jacc.2020.03.021. Epub 2020 Mar 19.</citation>
+    <PMID>32199938</PMID>
+  </reference>
+  <reference>
+    <citation>Garcia S, Albaghdadi MS, Meraj PM, Schmidt C, Garberich R, Jaffer FA, Dixon S, Rade JJ, Tannenbaum M, Chambers J, Huang PP, Henry TD. Reduction in ST-Segment Elevation Cardiac Catheterization Laboratory Activations in the United States During COVID-19 Pandemic. J Am Coll Cardiol. 2020 Jun 9;75(22):2871-2872. doi: 10.1016/j.jacc.2020.04.011. Epub 2020 Apr 10.</citation>
+    <PMID>32283124</PMID>
+  </reference>
+  <reference>
+    <citation>Roffi M, Guagliumi G, Ibanez B. The Obstacle Course of Reperfusion for ST-Segment-Elevation Myocardial Infarction in the COVID-19 Pandemic. Circulation. 2020 Jun 16;141(24):1951-1953. doi: 10.1161/CIRCULATIONAHA.120.047523. Epub 2020 Apr 21. Review.</citation>
+    <PMID>32315205</PMID>
+  </reference>
+  <reference>
+    <citation>Rosenbaum L. The Untold Toll - The Pandemic's Effects on Patients without Covid-19. N Engl J Med. 2020 Jun 11;382(24):2368-2371. doi: 10.1056/NEJMms2009984. Epub 2020 Apr 17.</citation>
+    <PMID>32302076</PMID>
+  </reference>
+  <reference>
+    <citation>Killip T 3rd, Kimball JT. Treatment of myocardial infarction in a coronary care unit. A two year experience with 250 patients. Am J Cardiol. 1967 Oct;20(4):457-64.</citation>
+    <PMID>6059183</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 3, 2020</study_first_posted>
+  <last_update_submitted>September 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital, Geneva</investigator_affiliation>
+    <investigator_full_name>Jerome Stirnemann</investigator_full_name>
+    <investigator_title>Dr</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19 Outbreak</keyword>
+  <keyword>non COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="738">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04573764</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-20021500</org_study_id>
+    <nct_id>NCT04573764</nct_id>
+  </id_info>
+  <brief_title>Acute Effects of 3-hydroxybutyrate on Cardiac Function in Patients With COVID-19</brief_title>
+  <acronym>KetoCOVID</acronym>
+  <official_title>Acute Effects of 3-hydroxybutyrate on Cardiac Function in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Steno Diabetes Center Copenhagen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Steno Diabetes Center Copenhagen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Based on Chinese studies, cardiac injury occurs in 20-30% of hospitalized patients and
+      contributes to 40% of deaths. There are many possible mechanisms of cardiac injury in
+      COVID-19 patients and increased myocardial oxygen demand and decreased myocardial oxygen
+      supply are likely contributors to increased risk of myocardial infarction and heart failure.
+      Interventions reducing the risk of cardiac injury are needed.
+
+      Ketone bodies, such as 3-hydroxybutyrate and acetoacetate, can maintain ATP production in the
+      heart and brain during starvation. It has been suggested that ketone bodies are more
+      efficient substrates of energy metabolism than glucose, with a lower oxygen consumption per
+      ATP-molecule produced. In addition, the reduction in hospitalizations due to heart failure
+      observed in type 2 diabetes patients treated with sodium-glucose cotransporter 2 inhibitors,
+      is suggested to be partly attributable to increased levels of 3-hydroxybutyrate. Infusion
+      with 3-hydroxybutyrate reaching a plasma level of approximately 3 mM had acute beneficial
+      hemodynamic effects in patients with heart failure and in healthy controls in a study by
+      Nielsen et al. Improved haemodynamics and reduced systemic oxygen consumption might be of
+      great benefit in patients with COVID-19.
+
+      The primary endpoint is left ventricular ejection fraction. Secondary endpoints are
+      conventional echocardiography parameters, peripheral blood oxygen saturation, venous blood
+      oxygen saturation and urine creatinine clearance.
+
+      The study population are twelve hospitalized patients with COVID-19
+
+      The study design is a randomized placebo-controlled double-blinded crossed-over acute
+      intervention study.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2020</start_date>
+  <completion_date type="Anticipated">January 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Randomized placebo-controlled double-blinded crossed-over acute intervention study.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Left Ventricular ejection fraction</measure>
+    <time_frame>1 hour</time_frame>
+    <description>Echocardiography</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Global longitudinal strain</measure>
+    <time_frame>1 hour</time_frame>
+    <description>Echocardiography</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiac output</measure>
+    <time_frame>1 hour</time_frame>
+    <description>Echocardiography</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peripheral blood oxygen saturation</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Pulse oximetry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Venous blood oxygen saturation</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>blood gas analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urine creatinine clearance</measure>
+    <time_frame>12 hours</time_frame>
+    <description>Urine will be collected during the two cross-over sessions and urine creatinine will be measured on these two volumes. Creatinine clearance in ml/min/1.73m2 will then be estimated and compared with plasma creatinine for estimating kidney function.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>3-hydroxybutyrate</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>3-hydroxybutyrate</intervention_name>
+    <description>The intervention is 3-hydroxybutyrate and will be bought commercially. As an example: One bottle of &quot;H.V.M.N Ketone Ester&quot; with 65 ml contains 25 g 3-hydroxybutyrate of the D-form (the active enantiomer). For more information please refer to: https://hvmn.com/products/ketone-ester. Placebo will be a taste-matched water solution provided by the company. The placebo solution and the active solution will be prepared in identic bottles and investigators will be blinded.</description>
+    <arm_group_label>3-hydroxybutyrate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Taste-matched water</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        - All patients hospitalized at hospitals of greater Copenhagen and the Zealand region with
+        a laboratory confirmed diagnosis of COVID-19 &gt; 18 years of age.
+
+        Exclusion Criteria:
+
+          -  Persons not able to cooperate
+
+          -  Persons unable to understand and sign &quot;informed consent&quot;
+
+          -  Diagnosis with chronic obstructive pulmonary disease
+
+          -  Diagnosis with asthma
+
+          -  Active treatment with sodium-glucose transporter 2 inhibitors
+
+          -  eGFR &lt; 15 ml/min/1.73m2
+
+          -  insulin-dependent diabetes
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tor Biering-Sørensen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Copenhagen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jens Christian Laursen, MD</last_name>
+    <phone>30913252</phone>
+    <phone_ext>0045</phone_ext>
+    <email>jens.christian.laursen.01@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Peter Rossing, MD</last_name>
+    <phone>38619705</phone>
+    <phone_ext>0045</phone_ext>
+    <email>peter.rossing@regionh.dk</email>
+  </overall_contact_backup>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 2, 2020</study_first_posted>
+  <last_update_submitted>October 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

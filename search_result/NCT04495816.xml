@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1374">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04495816</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCO 20-1132</org_study_id>
+    <nct_id>NCT04495816</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Anosmia Study</brief_title>
+  <official_title>COVID-19 Anosmia Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Icahn School of Medicine at Mount Sinai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Icahn School of Medicine at Mount Sinai</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To capture the natural history of COVID-19 associated olfactory dysfunction as measured by
+      two patient reported outcome measures (SNOT-22, QOD-NS) and a 6-week BSIT with a comparison
+      to an intervention arm receiving daily omega-3 supplements.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Infection with the novel coronavirus (COVID-19) has been linked to new-onset olfactory
+      dysfunction, often as the only presenting symptom. In one multicenter European study, 85.6%
+      of patients with mild to moderate symptoms reported hyposmia or anosmia with early recovery
+      of olfactory function in just under half of patients. However, the pathogenesis and natural
+      history of COVID-19 related olfactory dysfunction is poorly understood.
+
+      Anosmia most commonly arises in association with sinonasal disease or post-infectious or
+      post-traumatic disorders. Notably, olfactory loss has been associated with impaired quality
+      of life, higher rates of depression, and even increased mortality risk. Spontaneous recovery
+      has been observed in patients with post- infectious olfactory dysfunction, typically over a
+      period of months to years, with an estimated one-third of patients demonstrating meaningful
+      improvement after one year.
+
+      Smell retraining therapy appears to be an effective therapeutic option for patients with
+      post-infectious olfactory dysfunction, particularly for patients who initiate treatment
+      within one year from onset of symptoms, but requires an intervention period of at least three
+      to four months. Various pharmacotherapies have been investigated in the treatment of
+      post-infectious anosmia but none have clearly demonstrated utility with the exception of a
+      possible benefit for nasal steroid irrigations in combination with smell retraining therapy.
+
+      More recently, omega-3 polyunsaturated fat supplementation has emerged as a promising
+      pharmacotherapy for olfactory dysfunction in patients without sinonasal disease. Omega-3
+      fatty acid deficient mice demonstrate evidence of olfactory dysfunction and mice receiving
+      omega-3 fatty acids have improved recovery after peripheral nerve injury, which has been
+      linked to neuroprotective effects mediated through anti-oxidant and anti-inflammatory
+      pathways. In humans, a large cross-sectional study found that older adults with higher
+      dietary fat intake had lower incidence of olfactory impairment. From a clinical perspective,
+      patients without sinonasal disease receiving postoperative omega-3 fatty acid supplementation
+      after endoscopic endonasal skull base surgery in a randomized control trial demonstrated a
+      significantly greater rate of return of normal olfactory dysfunction.
+
+      Little is known about either the natural history of olfactory dysfunction associated with
+      COVID-19 infection or about the therapeutic efficacy of omega-3 fatty acid supplementation in
+      patients with post-viral anosmia. The study team hopes to gain a better understanding of each
+      through a randomized double-blind placebo control study that assesses both objective and
+      subjective perception of olfactory dysfunction over a period of 6 weeks after infection.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 15, 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomized into treatment and control groups. The treatment group will receive omega-3-fatty acid supplementation (1000 mg of omega-3 fatty acid blend including 683 mg Eicosapentaenoic Acid and 252 mg Docosahexaenoic Acid) to be taken twice daily for 6 weeks. The control arm will receive a placebo pill to be taken twice daily.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>The healthcare providers interacting with the patients, as well as the participants themselves, will not know which arm they have been assigned to. Only the research fellows will have access to the randomization scheme.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brief Smell Identification Test (BSIT)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Brief Smell Identification Test (BSIT) is a 12-item instrument, full range score from 0 to 12, higher score indicates better olfactory performances.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brief Smell Identification Test (BSIT)</measure>
+    <time_frame>6 weeks after beginning to take supplements</time_frame>
+    <description>Brief Smell Identification Test (BSIT) is a 12-item instrument, full range score from 0 to 12, higher score indicates better olfactory performances.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Modified Brief Questionnaire of Olfactory Dysfunction (mQOD-NS)</measure>
+    <time_frame>1 week after softgel initiation</time_frame>
+    <description>The modified Brief Questionnaire of Olfactory Dysfunction - Negative Statements (QOD-NS) survey is a 17-item instrument, each item graded on a scale from 0 to 3, with total scale range from 0 to 51. Higher score indicates better olfactory-specific quality of life (QOL).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Brief Questionnaire of Olfactory Dysfunction (mQOD-NS)</measure>
+    <time_frame>2 weeks after softgel initiation</time_frame>
+    <description>The modified Brief Questionnaire of Olfactory Dysfunction - Negative Statements (QOD-NS) survey is a 17-item instrument, each item graded on a scale from 0 to 3, with total scale range from 0 to 51. Higher score indicates better olfactory-specific quality of life (QOL).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Brief Questionnaire of Olfactory Dysfunction (mQOD-NS)</measure>
+    <time_frame>4 weeks after softgel initiation</time_frame>
+    <description>The modified Brief Questionnaire of Olfactory Dysfunction - Negative Statements (QOD-NS) survey is a 17-item instrument, each item graded on a scale from 0 to 3, with total scale range from 0 to 51. Higher score indicates better olfactory-specific quality of life (QOL).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Brief Questionnaire of Olfactory Dysfunction (mQOD-NS)</measure>
+    <time_frame>6 weeks after softgel initiation</time_frame>
+    <description>The modified Brief Questionnaire of Olfactory Dysfunction - Negative Statements (QOD-NS) survey is a 17-item instrument, each item graded on a scale from 0 to 3, with total scale range from 0 to 51. Higher score indicates better olfactory-specific quality of life (QOL).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sinonasal Outcomes Test (SNOT-22)</measure>
+    <time_frame>1 week after softgel initiation</time_frame>
+    <description>Sino-Nasal Outcome Test (SNOT-22) is a 22-item instrument, total scale range from 0 to 110, higher score indicates more severe QOL impact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sinonasal Outcomes Test (SNOT-22)</measure>
+    <time_frame>2 weeks after softgel initiation</time_frame>
+    <description>Sino-Nasal Outcome Test (SNOT-22) is a 22-item instrument, total scale range from 0 to 110, higher score indicates more severe QOL impact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sinonasal Outcomes Test (SNOT-22)</measure>
+    <time_frame>4 weeks after softgel initiation</time_frame>
+    <description>Sino-Nasal Outcome Test (SNOT-22) is a 22-item instrument, total scale range from 0 to 110, higher score indicates more severe QOL impact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sinonasal Outcomes Test (SNOT-22)</measure>
+    <time_frame>6 weeks after softgel initiation</time_frame>
+    <description>Sino-Nasal Outcome Test (SNOT-22) is a 22-item instrument, total scale range from 0 to 110, higher score indicates more severe QOL impact.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">126</enrollment>
+  <condition>Anosmia</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Omega-3</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>1,000 mg of omega-3 fatty acid (2 softgels per day for 6 weeks)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo/Control</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>2 softgels per day for 6 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Omega-3 Fatty Acid Supplement</intervention_name>
+    <description>Participants randomized to this arm will be instructed to take two of the softgels they received per day for 6 weeks. They will receive softgels containing 1,000 mg of omega-3 fatty acid. 1000 mg of omega-3 fatty acid blend including 683 mg Eicosapentaenoic Acid and 252 mg Docosahexaenoic Acid</description>
+    <arm_group_label>Omega-3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo/Control</intervention_name>
+    <description>Patients randomized to this arm will also be instructed to take two of the softgels they received per day for 6 weeks. They will receive placebo softgels that are indistinguishable from those containing fish oil.</description>
+    <arm_group_label>Placebo/Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adults (18 years of age or older) with self-reported new-onset olfactory dysfunction
+
+          -  Positive COVID-19 diagnosis will be deemed eligible for inclusion.
+
+        Exclusion Criteria:
+
+          -  Patients &lt;18 years of age
+
+          -  Patients who are unable to provide informed consent
+
+          -  Patients without a positive COVID-19 PCR result obtained through nasopharyngeal swab -
+             Patients with a COVID-19 diagnosis but without self-reported anosmia
+
+          -  Patients with severe COVID-19 disease as defined by the Mouth Sinai Health System
+             Treatment Guidelines for SARS-COV-2 (requiring high flow nasal cannula,
+             non-rebreather, CPAP/BIPAP, or mechanical ventilation OR patients requiring pressor
+             medication OR patients with evidence of end organ damage)
+
+          -  Patients with pre-existing self-reported olfactory dysfunction
+
+          -  Patients with a history of chronic nasal/sinus infections (rhinosinusitis) or history
+             of endoscopic sinus surgery
+
+          -  Patients using nasal steroid sprays or irrigations for any reason
+
+          -  Patients who are prisoners of the state
+
+          -  Patients who have psychiatric or developmental disorder conditions that may impair
+             ability to provide informed consent
+
+          -  Patients will also be excluded if they have an allergy to fish or an omega-3
+             supplement, or do not eat fish or fish- containing substances for any reason
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alfred-Marc Iloreta, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alfred-Marc Iloreta, MD</last_name>
+    <phone>212-241-5944</phone>
+    <email>alfred-marc.iloreta@mountsinai.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>David K Lerner, MD</last_name>
+    <phone>513-379-2815</phone>
+    <email>David.Lerner2@mountsinai.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mount Sinai Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alfred-Marc Iloreta, MD</last_name>
+      <phone>212-241-5944</phone>
+      <email>alfred-marc.iloreta@mountsinai.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>David K Lerner, MD</last_name>
+      <phone>513-379-2815</phone>
+      <email>david.lerner2@mountsinai.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Alfred-Marc Iloreta, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Vaira LA, Salzano G, Deiana G, De Riu G. Anosmia and Ageusia: Common Findings in COVID-19 Patients. Laryngoscope. 2020 Jul;130(7):1787. doi: 10.1002/lary.28692. Epub 2020 Apr 15.</citation>
+    <PMID>32237238</PMID>
+  </reference>
+  <reference>
+    <citation>Fonteyn S, Huart C, Deggouj N, Collet S, Eloy P, Rombaux P. Non-sinonasal-related olfactory dysfunction: A cohort of 496 patients. Eur Ann Otorhinolaryngol Head Neck Dis. 2014 Apr;131(2):87-91. doi: 10.1016/j.anorl.2013.03.006. Epub 2014 Mar 26.</citation>
+    <PMID>24679542</PMID>
+  </reference>
+  <reference>
+    <citation>Hendriks AP. Olfactory dysfunction. Rhinology. 1988 Dec;26(4):229-51. Review.</citation>
+    <PMID>3070710</PMID>
+  </reference>
+  <reference>
+    <citation>Eliezer M, Hautefort C, Hamel AL, Verillaud B, Herman P, Houdart E, Eloit C. Sudden and Complete Olfactory Loss of Function as a Possible Symptom of COVID-19. JAMA Otolaryngol Head Neck Surg. 2020 Jul 1;146(7):674-675. doi: 10.1001/jamaoto.2020.0832.</citation>
+    <PMID>32267483</PMID>
+  </reference>
+  <reference>
+    <citation>Croy I, Nordin S, Hummel T. Olfactory disorders and quality of life--an updated review. Chem Senses. 2014 Mar;39(3):185-94. doi: 10.1093/chemse/bjt072. Epub 2014 Jan 15. Review.</citation>
+    <PMID>24429163</PMID>
+  </reference>
+  <reference>
+    <citation>Reden J, Herting B, Lill K, Kern R, Hummel T. Treatment of postinfectious olfactory disorders with minocycline: a double-blind, placebo-controlled study. Laryngoscope. 2011 Mar;121(3):679-82. doi: 10.1002/lary.21401. Epub 2011 Feb 1.</citation>
+    <PMID>21287560</PMID>
+  </reference>
+  <reference>
+    <citation>Vukkadala N, Qian ZJ, Holsinger FC, Patel ZM, Rosenthal E. COVID-19 and the Otolaryngologist: Preliminary Evidence-Based Review. Laryngoscope. 2020 Mar 26. doi: 10.1002/lary.28672. [Epub ahead of print]</citation>
+    <PMID>32219846</PMID>
+  </reference>
+  <reference>
+    <citation>Ekström I, Sjölund S, Nordin S, Nordin Adolfsson A, Adolfsson R, Nilsson LG, Larsson M, Olofsson JK. Smell Loss Predicts Mortality Risk Regardless of Dementia Conversion. J Am Geriatr Soc. 2017 Jun;65(6):1238-1243. doi: 10.1111/jgs.14770. Epub 2017 Mar 22.</citation>
+    <PMID>28326534</PMID>
+  </reference>
+  <reference>
+    <citation>Sorokowska A, Drechsler E, Karwowski M, Hummel T. Effects of olfactory training: a meta-analysis. Rhinology. 2017 Mar 1;55(1):17-26. doi: 10.4193/Rhin16.195.</citation>
+    <PMID>28040824</PMID>
+  </reference>
+  <reference>
+    <citation>Lechien JR, Chiesa-Estomba CM, De Siati DR, Horoi M, Le Bon SD, Rodriguez A, Dequanter D, Blecic S, El Afia F, Distinguin L, Chekkoury-Idrissi Y, Hans S, Delgado IL, Calvo-Henriquez C, Lavigne P, Falanga C, Barillari MR, Cammaroto G, Khalife M, Leich P, Souchay C, Rossi C, Journe F, Hsieh J, Edjlali M, Carlier R, Ris L, Lovato A, De Filippis C, Coppee F, Fakhry N, Ayad T, Saussez S. Olfactory and gustatory dysfunctions as a clinical presentation of mild-to-moderate forms of the coronavirus disease (COVID-19): a multicenter European study. Eur Arch Otorhinolaryngol. 2020 Aug;277(8):2251-2261. doi: 10.1007/s00405-020-05965-1. Epub 2020 Apr 6.</citation>
+    <PMID>32253535</PMID>
+  </reference>
+  <reference>
+    <citation>Cavazzana A, Larsson M, Münch M, Hähner A, Hummel T. Postinfectious olfactory loss: A retrospective study on 791 patients. Laryngoscope. 2018 Jan;128(1):10-15. doi: 10.1002/lary.26606. Epub 2017 May 29.</citation>
+    <PMID>28556265</PMID>
+  </reference>
+  <reference>
+    <citation>Pekala K, Chandra RK, Turner JH. Efficacy of olfactory training in patients with olfactory loss: a systematic review and meta-analysis. Int Forum Allergy Rhinol. 2016 Mar;6(3):299-307. doi: 10.1002/alr.21669. Epub 2015 Dec 1. Review.</citation>
+    <PMID>26624966</PMID>
+  </reference>
+  <reference>
+    <citation>Boesveldt S, Postma EM, Boak D, Welge-Luessen A, Schöpf V, Mainland JD, Martens J, Ngai J, Duffy VB. Anosmia-A Clinical Review. Chem Senses. 2017 Sep 1;42(7):513-523. doi: 10.1093/chemse/bjx025. Review. Erratum in: Chem Senses. 2017 Sep 1;42(7):607.</citation>
+    <PMID>28531300</PMID>
+  </reference>
+  <reference>
+    <citation>Reden J, Mueller A, Mueller C, Konstantinidis I, Frasnelli J, Landis BN, Hummel T. Recovery of olfactory function following closed head injury or infections of the upper respiratory tract. Arch Otolaryngol Head Neck Surg. 2006 Mar;132(3):265-9.</citation>
+    <PMID>16549746</PMID>
+  </reference>
+  <reference>
+    <citation>Damm M, Pikart LK, Reimann H, Burkert S, Göktas Ö, Haxel B, Frey S, Charalampakis I, Beule A, Renner B, Hummel T, Hüttenbrink KB. Olfactory training is helpful in postinfectious olfactory loss: a randomized, controlled, multicenter study. Laryngoscope. 2014 Apr;124(4):826-31. doi: 10.1002/lary.24340. Epub 2013 Sep 19.</citation>
+    <PMID>23929687</PMID>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 3, 2020</study_first_posted>
+  <last_update_submitted>July 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Icahn School of Medicine at Mount Sinai</investigator_affiliation>
+    <investigator_full_name>Alfred-Marc Iloreta</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>Novel Coronavirus</keyword>
+  <keyword>Anosmia</keyword>
+  <keyword>Smell Loss</keyword>
+  <keyword>Parosmia</keyword>
+  <keyword>Fish Oil Supplement</keyword>
+  <keyword>Omega-3 Fatty Acid Supplements</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Olfaction Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

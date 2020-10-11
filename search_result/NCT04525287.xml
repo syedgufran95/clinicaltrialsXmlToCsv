@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1696">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04525287</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-12020001231</org_study_id>
+    <nct_id>NCT04525287</nct_id>
+  </id_info>
+  <brief_title>Prediction Models for Diagnosis and Prognosis of Severe COVID-19</brief_title>
+  <official_title>Prediction Models for Diagnosis and Prognosis of Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Second Affiliated Hospital, School of Medicine, Zhejiang University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Second Affiliated Hospital, School of Medicine, Zhejiang University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Clinical observation has found that COVID-19 patients often present inconsistency of clinical
+      features, nucleic acid of the SARS-CoV-2 and imaging findings, which brings challenges to the
+      management of patients.The quantitative assessment of patients' pulmonary lesions of chest
+      CT, combined with the basic information, epidemiological history, clinical symptoms, basic
+      diseases and other information of patients, will quickly establish a reliable prediction
+      model for the severe COVID-19. This model will greatly contribute to the effective diagnosis
+      and treatment of COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Research purpose
+
+           The research team collected the clinical and chest CT of 1,000 COVID-19 patients from
+           multiple hospitals. We plan to use these data to explore the imaging features of the
+           COVID-19 and develop a convenient, easy-to-use, highly reliable imaging AI model for
+           detecting and predicting the severe COVID-19. The model is used for imaging evaluation
+           of COVID-19 patients, in order to achieve the purpose of early diagnosis, reasonable
+           management of patients and prediction of severe COVID-19.
+
+        2. Research design and methods:
+
+      This research is a retrospective study. The project research period have 6 months. Start
+      time: the date of ethics approval.
+
+      End time: August 20, 2020.
+
+      2.1 Establish an AI model for the detection of COVID-19 chest CT lesions Based on existing
+      models and data, rapid detection of lesions on the chest high-resolution CT (HRCT) images of
+      COVID-19, identification of the character of the lesions including the volume of the lesions.
+
+      2.1.1 Research data COVID-19 Group: 1,000 cases of COVID-19 patients who were tested positive
+      for nucleic acid of the SARS-CoV-2 in more than ten designated hospitals within and outside
+      Zhejiang Province. all underwent chest HRCT examination and relatively complete clinical and
+      laboratory data.
+
+      Control group: patients with other viral and bacterial pneumonia. A collection of 1000
+      patients with other types of pneumonia in multiple centers, all underwent chest HRCT
+      examination and relatively complete clinical data.
+
+      2.1.2 Research methods
+
+        1. Lesion detection, segmentation and quantification. Based on the artificial intelligence
+           analysis function developed by Yitu Technology, the patient's chest CT image data is
+           analyzed, including: a. Detecting lung lesions; b. Quantitative and radiomics analysis
+           of key imaging features such as the shape, extent, and density of the lesions, and
+           accurately calculating the cumulative pneumonia burden of the disease; c. For focal
+           lesions, diffuse lesions, quantitative analysis of the severity of various pneumonia
+           diseases involving the entire lung.
+
+        2. Based on the above-mentioned lesion segmentation detection results, analyze the
+           characteristic manifestations of the COVID-19. Observe the differences in the number,
+           shape, range, density, and radiomics characteristics of lung lesions in patients with
+           COVID-19 and other pneumonia, and quantify their unique lung characteristics. Compare
+           and analyze the correlation of lung characteristics with clinical symptoms and guideline
+           classification characteristics, and clarify the value of quantitative mathematical
+           characteristics in auxiliary diagnosis classification.
+
+      2.2 Establish an AI model for predicting severe COVID-19 Establish a reliable AI model for
+      predicting severe COVID-19 through chest CT imaging data of the patient, basic patient
+      information, epidemiological history, clinical symptoms, and underlying diseases. It is
+      planned to establish a severe COVID-19 risk assessment system that can not only assist
+      doctors in the critical evaluation of patients in hospital, but also warn the severe risk of
+      patients in home isolation. The system will include simple and accurate models. The former
+      only uses patient images, basic demographic characteristics, symptoms and other
+      easy-to-collect information. This model may be used in Wuhan City that has basic data for
+      mild cases but has no treatment conditions. Allow them to be isolated at home or other
+      patients without medical resources, and early warning of the risk of severe transformation in
+      the hospital system for preliminary testing, so as to facilitate subsequent patient
+      management and treatment. The complex model will incorporate more complex and detailed
+      information, such as multiple images of patients and blood test data, to establish a more
+      accurate predictive model, which can be used to provide reference for the diagnosis and
+      treatment strategies of patients in the hospital, and can prompt more COVID-19 Factors
+      related to pneumonia.
+
+      2.2.1 Research object 1,000 patients with mild cases of novel coronavirus pneumonia were
+      diagnosed, and were divided into severe group and non-severe group based on subsequent
+      clinical outcomes.
+
+      Definition of mild illness: The patient only showed symptoms such as fever and respiratory
+      tract in general, and no severe symptoms occurred during the visit and follow-up.
+
+      Definition of severe illness: Patients who have one of the following conditions during
+      treatment: 1. Respiratory distress, RR≥30 beats/min; 2. In resting state, mean oxygen
+      saturation≤93%; 3. Arterial oxygen partial pressure ( PaO2)/Inhalation Oxygen Concentration
+      (FiO2) ≤300mmHg (1mmHg=0.133kPa); 4. Respiratory failure occurs and mechanical ventilation is
+      required; 5. Shock occurs; 6. ICU monitoring and treatment is required for combined other
+      organ failure.
+
+      2.2.2 Research methods This study uses artificial intelligence technology to predict the
+      severity of patients with mild illness. The data required for its modeling comes from
+      multiple sources: (1) Using radiomics analysis technology, extract the CT image of the
+      patient including the chest CT value, shape and size of the lesion high-dimensional imaging
+      radiomics features such as texture and wavelet features to obtain more accurate and
+      comprehensive image data information. Yitu's existing imaging raidomics feature extraction
+      tool can extract up to 5,900 CT image features to make lung state more accurate assessment
+      and prediction It becomes possible; (2) Collecting information on the subjective evaluation
+      of CT image signs by imaging doctors, as well as multi-dimensional information such as basic
+      patient information, disease history, laboratory test results, and clinical symptoms; (3)
+      Based on the developed chest CT image analysis Function to extract quantitative parameters
+      such as pneumonia load index, patch semi-quantitative information and so on using deep
+      learning technology.
+
+      The total collected data set is divided into training set and internal verification set.
+      Firstly, the information is analyzed by traditional medicine and multi-dimensional AI
+      algorithm, comprehensively and quantitatively analyze whether the data column is included in
+      the prediction model and the weight in the model, and look for strongly related factors. Try
+      to use machine learning, deep learning and other AI algorithms to establish a risk prediction
+      model for severe COVID-19. And the results output the probability of the patient's severity,
+      and classify the risk of the patient's severity. Evaluate the model's ability to identify
+      high-risk and low-risk patients with indicators such as sensitivity, specificity, and
+      preliminarily verify the stability of the model.
+
+      2.2.3 Clinical application verification After the prediction model is established, the
+      prediction model will continue to be used in the subsequent multi-center collection of
+      supplementary clinical patient data, use patient follow-up data to verify its sensitivity and
+      specificity, and continuously incorporate the newly collected data into the model training
+      set to continuously improve the prediction model. Improve the application efficiency of risk
+      assessment models. In the end, it will reduce the conversion rate of severe patients, reduce
+      the management pressure of mild patients, and better assist doctors in clinical diagnosis and
+      treatment decision-making and patient management.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 20, 2020</start_date>
+  <completion_date type="Anticipated">August 20, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 20, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Crossover</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Chest CT and clinical features</measure>
+    <time_frame>2020-1-1 to 2020-6-1</time_frame>
+    <description>chest CT imaging data of the patient, basic patient information, epidemiological history, clinical symptoms, and underlying diseases</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <condition>COVID19</condition>
+  <arm_group>
+    <arm_group_label>Severe COVID-19</arm_group_label>
+    <description>Patients who have one of the following conditions during treatment: 1. Respiratory distress, RR≥30 beats/min; 2. In resting state, mean oxygen saturation≤93%; 3. Arterial oxygen partial pressure ( PaO2)/Inhalation Oxygen Concentration (FiO2) ≤300mmHg (1mmHg=0.133kPa); 4. Respiratory failure occurs and mechanical ventilation is required; 5. Shock occurs; 6. ICU monitoring and treatment is required for combined other organ failure.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild COVID-19</arm_group_label>
+    <description>The patient only showed symptoms such as fever and respiratory tract in general, and no severe symptoms occurred during the visit and follow-up.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        1,000 cases of COVID-19 patients who were tested positive for nucleic acid of the
+        SARS-CoV-2 in more than ten designated hospitals within and outside Zhejiang Province. all
+        underwent chest HRCT examination and relatively complete clinical and laboratory data.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  The patient was tested positive for nucleic acid of the SARS-CoV-2
+
+        Exclusion Criteria:
+
+          -  none
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Minming Zhang, PHD</last_name>
+    <phone>+86 13906520711</phone>
+    <email>zhangminming@zju.edu.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>2nd Affiliated Hospital, School of Medicine, Zhejiang University, China</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luopei Wei</last_name>
+      <phone>+86 0571 87783759</phone>
+      <email>keyanlunli_zheer@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>June 2020</verification_date>
+  <study_first_submitted>August 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 25, 2020</study_first_posted>
+  <last_update_submitted>August 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

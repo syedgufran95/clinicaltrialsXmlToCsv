@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2345">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04558450</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200762</org_study_id>
+    <secondary_id>APHP200762</secondary_id>
+    <secondary_id>20.07.24.57438</secondary_id>
+    <nct_id>NCT04558450</nct_id>
+  </id_info>
+  <brief_title>Covid-19 Effects on Arterial Stiffness and Vascular Aging (CARTESIAN)</brief_title>
+  <acronym>CARTESIAN</acronym>
+  <official_title>Covid-19 Effects on ARTErial StIffness and Vascular AgiNg</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Association for Research into Arterial Structure and Physiology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institut National de la Santé Et de la Recherche Médicale, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to evaluate the presence of early vascular aging 6 months and 12
+      months after COVID-19 infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After being informed about the study and potential risks, all eligible patients giving
+      written informed consent will undergo a comprehensive non-invasive assessment of vascular and
+      cardiac function 6 months and 12 months after COVID-19 infection. Cardiovascular events and
+      mortality will be collected 2, 5 and 10 years after inclusion
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">June 2032</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Prospective cohort study</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PWV</measure>
+    <time_frame>6 months after COVID19 infection</time_frame>
+    <description>carotid-femoral pulse wave velocity measured by application tonometry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PWV</measure>
+    <time_frame>12 months after COVID19 infection</time_frame>
+    <description>carotid-femoral pulse wave velocity measured by application tonometry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PWV change</measure>
+    <time_frame>difference between PWV at 12 and 6 months after COVID19 infection</time_frame>
+    <description>carotid-femoral pulse wave velocity measured by application tonometry</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>arterial distensibility</measure>
+    <time_frame>6 months after COVID19 infection</time_frame>
+    <description>carotid, radial and digital distensibility by standard and ultrahigh frequency ultrasound</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>arterial distensibility</measure>
+    <time_frame>12 months after COVID19 infection</time_frame>
+    <description>carotid, radial and digital distensibility by standard and ultrahigh frequency ultrasound</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>arterial distensibility change</measure>
+    <time_frame>difference between arterial distensibility at 12 and 6 months after COVID19 infection</time_frame>
+    <description>carotid, radial and digital distensibility by standard and ultrahigh frequency ultrasound</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>brachial artery FMD</measure>
+    <time_frame>6 months after COVID19 infection</time_frame>
+    <description>brachial artery flow-mediated dilation for non-invasive evaluation of endothelial dysfunction, by ultrasound and automatic edge detection analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>brachial artery FMD</measure>
+    <time_frame>12 months after COVID19 infection</time_frame>
+    <description>brachial artery flow-mediated dilation for non-invasive evaluation of endothelial dysfunction, by ultrasound and automatic edge detection analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>brachial artery FMD change</measure>
+    <time_frame>difference between FMD at 12 and 6 months after COVID19 infection</time_frame>
+    <description>brachial artery flow-mediated dilation for non-invasive evaluation of endothelial dysfunction, by ultrasound and automatic edge detection analysis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>central blood pressure</measure>
+    <time_frame>6 months after COVID19 infection</time_frame>
+    <description>central blood pressure obtained non-invasively by application tonometry and validated transfer function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>central blood pressure</measure>
+    <time_frame>12 months after COVID19 infection</time_frame>
+    <description>central blood pressure obtained non-invasively by application tonometry and validated transfer function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>central blood pressure (BP) change</measure>
+    <time_frame>difference between central BP at 12 and 6 months after COVID19 infection</time_frame>
+    <description>central blood pressure obtained non-invasively by application tonometry and validated transfer function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>wave separation/wave intensity analysis (WSA/WIA)</measure>
+    <time_frame>6 months after COVID19 infection</time_frame>
+    <description>peripheral arterial waveform analysis aimed at exploring wave reflection and micro-macrocirculation crosstalk</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>wave separation/wave intensity analysis (WSA/WIA)</measure>
+    <time_frame>12 months after COVID19 infection</time_frame>
+    <description>peripheral arterial waveform analysis aimed at exploring wave reflection and micro-macrocirculation crosstalk</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WSA/WIA change</measure>
+    <time_frame>difference between WSA/WIA at 12 and 6 months after COVID19 infection</time_frame>
+    <description>peripheral arterial waveform analysis aimed at exploring wave reflection and micro-macrocirculation crosstalk</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cardiac diastolic dysfunction</measure>
+    <time_frame>6 months after COVID19 infection</time_frame>
+    <description>E/e' at rest and after low-level exercise</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cardiac diastolic dysfunction</measure>
+    <time_frame>12 months after COVID19 infection</time_frame>
+    <description>E/e' at rest and after low-level exercise</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cardiac diastolic dysfunction change</measure>
+    <time_frame>difference between cardiac diastolic dysfunction at 12 and 6 months after COVID19 infection</time_frame>
+    <description>E/e' at rest and after low-level exercise</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>myocardial stiffness</measure>
+    <time_frame>6 months after COVID19 infection</time_frame>
+    <description>cardioelastography by ultrafast ultrasound</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>myocardial stiffness</measure>
+    <time_frame>12 months after COVID19 infection</time_frame>
+    <description>cardioelastography by ultrafast ultrasound</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>myocardial stiffness change</measure>
+    <time_frame>difference between myocardial stiffness at 12 and 6 months after COVID19 infection</time_frame>
+    <description>cardioelastography by ultrafast ultrasound</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>total mortality</measure>
+    <time_frame>2 years</time_frame>
+    <description>individual data will be meta-analyzed with sister studies running in parallel worldwide</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>total mortality</measure>
+    <time_frame>5 years</time_frame>
+    <description>individual data will be meta-analyzed with sister studies running in parallel worldwide</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>total mortality</measure>
+    <time_frame>10 years</time_frame>
+    <description>individual data will be meta-analyzed with sister studies running in parallel worldwide</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>CV events</measure>
+    <time_frame>2 years</time_frame>
+    <description>fatal+non-fatal</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>CV events</measure>
+    <time_frame>5 years</time_frame>
+    <description>fatal+non-fatal</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>CV events</measure>
+    <time_frame>10 years</time_frame>
+    <description>fatal+non-fatal</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">360</enrollment>
+  <condition>Covid19</condition>
+  <condition>Arterial Stiffness</condition>
+  <condition>Endothelial Dysfunction</condition>
+  <condition>Diastolic Dysfunction</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients with confirmed infection by SARS-Cov-2, requiring a hospitalization in intensive care unit</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients with confirmed infection by SARS-Cov-2, requiring a hospitalization in a medicine unit</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients with confirmed infection by SARS-Cov-2, not requiring hospitalization</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>4) individuals having performed a test for SARS-Cov-2 infection, but resulted to be negative</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>carotid-femoral pulse-wave velocity</intervention_name>
+    <description>early vascular aging tests</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_label>Group 4</arm_group_label>
+    <other_name>arterial distensibility</other_name>
+    <other_name>wave separation/intensity analysis</other_name>
+    <other_name>flow-mediated dilation</other_name>
+    <other_name>cardiac diastolic dysfunction</other_name>
+    <other_name>myocardial stiffness</other_name>
+    <other_name>central blood pressure</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  age &gt;18 years, both sexes;
+
+          -  written informed consent;
+
+          -  affiliation to a social security regime;
+
+          -  a recent diagnosis of COVID19 (6±3 months) proven by PCR or serology (for group 1,2,3)
+
+          -  hospitalization in intensive care unit for COVID19 (for group 1)
+
+          -  hospitalization in a medicine unit for COVID19 (for group 2)
+
+          -  no hospitalization for COVID19 or hospitalization less than 24h (for group 3)
+
+          -  a negative test for SARS-nCOV2 infection (PCR or serology)(for group 4)
+
+        Exclusion Criteria:
+
+          -  Age &lt;18 years
+
+          -  Inability to express consent of the study
+
+          -  Diseases carrying out a life -expectancy &lt;1 year according to clinical judgment
+
+          -  Pregnancy and breastfeeding
+
+          -  Foreseen inability to attend scheduled visits
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pierre BOUTOUYRIE, MD PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rosa Maria BRUNO, MD</last_name>
+    <phone>+33 1 53 98 79 67</phone>
+    <email>rosa-maria.bruno@inserm.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hakima MANSEUR, MSc</last_name>
+    <phone>+33 1 56 09 59 71</phone>
+    <email>hakima.manseur@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU Lille</name>
+      <address>
+        <city>Lille</city>
+        <zip>59000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>David MONTAIGNE, PUPH</last_name>
+      <phone>+ 33 3 20 44 52 31</phone>
+      <email>david.montaigne@chru-lille.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Nancy</name>
+      <address>
+        <city>Nancy</city>
+        <zip>54500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Athanase BENETOS, PhD</last_name>
+      <phone>+ 33 3 83 15 33 22</phone>
+      <email>a.benetos@chru-nancy.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Européen Georges Pompidou - APHP</name>
+      <address>
+        <city>Paris</city>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pierre BOUTOUYRIE, PUPH</last_name>
+      <phone>+33 1 56 09 39 91</phone>
+      <email>Pierre.boutouyrie@aphp.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Rouen</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76031</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jérémy BELLIEN, PUPH</last_name>
+      <phone>+33 2 32 88 14 28</phone>
+      <email>jeremy.bellien@chu.rouen.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <link>
+    <url>http://www.arterysociety.org/our-activities-2/cartesian-2/</url>
+    <description>general description of the study</description>
+  </link>
+  <link>
+    <url>http://vascagenet.eu/successful-information-session-on-the-cartesian-study</url>
+    <description>summary and presentation of the global CARTESIAN initiative</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data (IPD) that underlie results in publication could be shared. IPD detailed in the protocol of a planned metaanalysis could be shared</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>One year after the last publication</ipd_time_frame>
+    <ipd_access_criteria>Data sharing must be accepted by the sponsor and the PI based on scientific project and scientific involvement of the PI team. The founder could be involved in the decision.
+Teams wishing obtain IPD must meet the sponsor and PI team to present scientifics (and commercial) purpose, IPD needed, format of data transmission, and timeframe. Technical feasibility and financial support will be discussed before mandatory contractualization.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="149">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04548557</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UniversityHSL-IVIG</org_study_id>
+    <nct_id>NCT04548557</nct_id>
+  </id_info>
+  <brief_title>Intravenous Immunoglobulins for the Treatment of Covid-19 Patients: a Clinical Trial</brief_title>
+  <official_title>Intravenous Immunoglobulins for the Treatment of Covid-19 Patients: a Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Health Sciences Lahore</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Lahore</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Amson Vaccine and Pharma (Pvt) Limited</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Health Sciences Lahore</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The current project is based on the immunological studies covering the potential of disease
+      induced immunoglobulins as treatment regime. We would be able to generate the concentrated
+      antibodies specific against coronavirus (Covid-19). These antibodies can be used as serum
+      therapy. Aside from a Covid-19 vaccine, antibodies from recovered patients could provide a
+      short-term &quot;passive immunization&quot; to the disease. Those antibodies can be extracted from the
+      blood serum of surviving patients and then injected into infected people. Passive
+      immunization usually lasts for a few weeks or months, after which those borrowed or donated
+      antibodies, get broken down by the host body within about 30 days. While drugs to treat
+      patients with covid-19, and vaccines to prevent infection are being developed, a fast acting,
+      stopgap serum therapy could be useful as a first aid for high-risk patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Emerging and re-emerging viruses are a significant threat to global public health. Since the
+      end of 2019, Chinese authorities have reported a cluster of human pneumonia cases in Wuhan
+      City, China and the disease was designated as coronavirus disease 2019 (COVID-19). These
+      cases showed symptoms such as fever, dyspnea, and were diagnosed as viral pneumonia. Whole
+      genome sequencing results show the causative agent is a novel coronavirus, which was
+      initially named 2019-nCoV by World Health Organization (WHO). Later the International
+      Committee on Taxonomy of Viruses (ICTV) officially designate the virus as SARS CoV-2
+      (Coronaviridae Study Group of the International Committee on Taxonomy of Viruses, 2020),
+      although many virologists argue that HCoV-19 is more appropriate . As of 24 February 2020,
+      79,331 laboratory-confirmed cases have been reported to the WHO globally, with 77,262 cases
+      in China, including 2,595 deaths. In addition, twenty-nine other countries have confirmed
+      imported cases of SARS-CoV-2 infection raising great public health concerns worldwide.
+      SARS-CoV-2 represents the seventh coronavirus that is known to cause human disease.
+      Coronaviruses (CoVs) are a group of large and enveloped viruses with positive sense,
+      single-stranded RNA genomes. Previously identified human CoVs that cause human disease
+      include severe acute respiratory syndrome coronavirus (SARS-CoV), and Middle East respiratory
+      syndrome coronavirus (MERS-CoV) . SARS-CoV and MERS-CoV infection can result in life
+      threatening disease and have pandemic potential. During 2002-2003, SARS-CoV initially emerged
+      in China and swiftly spread to other parts of the world, causing &gt; 8,000 infections and
+      approximately 800 related deaths worldwide. In 2012, MERS-CoV was first identified in the
+      Middle East and then spread to other countries. As of November 2019, a total of 2,494 MERS
+      cases with 858 related deaths have been recorded in 27 countries globally. Notably, new cases
+      of MERS-CoV infecting humans are still being reported recently. Both SARS-CoV and MERS-CoV
+      are zoonotic pathogens originating from animals. Detailed investigations indicate that
+      SARS-CoV is transmitted from civet cats to humans and MERS-CoV from dromedary camels to
+      humans. The source of SARS-CoV-2, however, is still under investigation, but linked to a wet
+      animal market. There is no specific antiviral treatment recommended for COVID-19, and no
+      vaccine is currently available. The treatment is symptomatic, and oxygen therapy represents
+      the major treatment intervention for patients with severe infection. Mechanical ventilation
+      may be necessary in cases of respiratory failure refractory to oxygen therapy, whereas
+      hemodynamic support is essential for managing septic shock. Although no antiviral treatments
+      have been approved, several approaches have been proposed such as lopinavir/ritonavir
+      (400/100 mg every 12 hours), chloroquine (500 mg every 12 hours), and hydroxychloroquine (200
+      mg every 12 hours). Alpha-interferon (e.g., 5 million units by aerosol inhalation twice per
+      day) is also used. Preclinical studies suggested that remdesivir (GS5734) - an inhibitor of
+      RNA polymerase with in vitro activity against multiple RNA viruses, including Ebola - could
+      be effective for both prophylaxis and therapy of HCoVs infections. This drug was positively
+      tested in a rhesus macaque model of MERS-CoV infection. One dose of 200 mL convalescent
+      plasma (CP) derived from recently recovered donors with the neutralizing antibody titers
+      above 1:640 was transfused to the patients as an addition to maximal supportive care and
+      antiviral agents. Despite a lack of completed clinical trials, the FDA has granted this
+      temporary authorization under its Investigational New Drug Applicants (eINDS) exemption, in
+      light of the extent and nature of the current public health threat that COVID-19 represents.
+      A number of pre-clinical and clinical trials around use of plasma from patients who have
+      recovered are underway, however, and there are some promising signs that convalescent plasma
+      could indeed be effective against SARS-CoV-2.
+
+      Apart from convalescent plasma, small scale concentrates of immunoglobulins prepared from
+      convalescent plasma collections provide higher potency and greater consistency than
+      individual units. The feasibility of production of large scale of diseases specific
+      immunoglobulins concentrates can considered for longer term, based on the course of epidemic,
+      access to large numbers of suitable plasma collections, and the available infrastructure for
+      manufacturing such products under GMP.
+
+      • Convalescent plasma can be used for serum therapy but it has further limitations which
+      include:
+
+        -  Separate plasma for separate blood groups: In case of plasma, it seems difficult to
+           arrange the required blood groups separately for serum therapy, while immunoglobulins
+           can be injected randomly to individual of different blood groups.
+
+        -  Serum Sickness &amp; Blood Proteins reactogencity: Only 18% of plasma constitutes
+           immunoglobulins required for passive immunization. Remaining portions contain proteins
+           that pose to reactogenicity threat to patient safety.
+
+        -  Dose volume: In case of plasma therapy, 200-300ml of plasma required for single patient
+           that depends upon number of recovered patients available. While in case of
+           immunoglobulins used in virus therapy require only 3-5ml per day.
+
+        -  Risk of microbial contamination: As most portion of plasma contain proteins and proteins
+           are more prone to contamination risk. It is difficult to handle the serum to maintain
+           its sterility while immunoglobulins are far less prone to sterility issues.
+
+        -  Potency: Concentrated immunoglobulins are far more potent as it shows targeted response.
+           In case of plasma, proteins fractions pose a delayed response.
+
+        -  Targeted Population: Plasma therapy is subjected to moderate to severe patients
+           specially, while all effected individuals can take benefit of immunoglobulin therapy
+           because dose of immunoglobulins can be controlled.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 15, 2020</start_date>
+  <completion_date type="Anticipated">November 15, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 15, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>one group in conventional with routine therapy and interventional group will receive intravenous immunoglobulin therapy</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>In hospital days</measure>
+    <time_frame>14 days or discharge</time_frame>
+    <description>total number of days the patient remain in hospital</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>14 day mortality</measure>
+    <time_frame>14 days</time_frame>
+    <description>mortality if any in the study duration of 14 days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>D-dimers</measure>
+    <time_frame>7 days</time_frame>
+    <description>reduction in D-dimers (&lt; 250 ng/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein</measure>
+    <time_frame>7 days</time_frame>
+    <description>reduction in C-Reactive protein (less than 10 mg/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen saturation</measure>
+    <time_frame>7 days</time_frame>
+    <description>improvement in oxygen saturation (pulse oximeter readings within range of 95 to 100%)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF alpha</measure>
+    <time_frame>7 days</time_frame>
+    <description>reduction in TNF alpha after IVIG treatment (upto 8.1 pg/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IL-6</measure>
+    <time_frame>7 days</time_frame>
+    <description>reduction in IL-6 after IVIG treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin</measure>
+    <time_frame>7 days</time_frame>
+    <description>reduction in ferritin levels after IVIG treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0</measure>
+    <time_frame>14 days</time_frame>
+    <description>safety and tolerability</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>They will not receive any intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IVIG group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>They will reveive intravenous immunoglobulin therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>intravenous immunoglobulin therapy</intervention_name>
+    <description>It is passive immunization therapy. Plasma therapy is subjected to moderate to severe patients specially, while all effected individuals can take benefit of immunoglobulin therapy because dose of immunoglobulins can be controlled</description>
+    <arm_group_label>IVIG group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age &gt; 18 yrs
+
+          -  Both genders
+
+          -  Lab Confirmed COVID-19 infection by PCR or plasma positive of specific antibody
+             against COVID-19
+
+          -  In hospital treatment ≥ 72 hours
+
+          -  Admitted patients
+
+          -  Mild to moderately severe patients
+
+        Exclusion Criteria:
+
+          -  Exist of other evidences that can explain pneumonia including but not limited to
+             influenza A virus, influenza B virus, bacterial pneumonia, fungal pneumonia,
+             noninfectious causes, etc.
+
+          -  Patients with respiratory diseases other than Covid-19 infection
+
+          -  Pregnant and breastfeeding women
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Javed Akram, MBBS,FRCP,MRCP</last_name>
+    <role>Study Chair</role>
+    <affiliation>Saglik Bilimleri Universitesi</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Fridoon J Ahmad, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Saglik Bilimleri Universitesi</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>riffat mehboob, Ph.D</last_name>
+    <phone>+923313380909</phone>
+    <email>mehboob.riffat@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fridoon J Ahmad, Ph.D</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Health Sciences</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punjab</state>
+        <zip>54000</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Riffat o Mehboob, PhD</last_name>
+      <email>mehboob.riffat@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Fridoon Jawad Ahmad, PhD</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Fridoon Jawad Ahmad, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Javed Akram, MBBS,FRCS,MRCP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Riffat Mehboob, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Syed Amir Gilani, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Muhammad Akram Tariq, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gibran Sheikh, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hassan Ahmad Khan, M.Phil</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <reference>
+    <citation>Gao GF. From &quot;A&quot;IV to &quot;Z&quot;IKV: Attacks from Emerging and Re-emerging Pathogens. Cell. 2018 Mar 8;172(6):1157-1159. doi: 10.1016/j.cell.2018.02.025.</citation>
+    <PMID>29522735</PMID>
+  </reference>
+  <reference>
+    <citation>Wang C, Horby PW, Hayden FG, Gao GF. A novel coronavirus outbreak of global health concern. Lancet. 2020 Feb 15;395(10223):470-473. doi: 10.1016/S0140-6736(20)30185-9. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 29;:.</citation>
+    <PMID>31986257</PMID>
+  </reference>
+  <reference>
+    <citation>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.</citation>
+    <PMID>31978945</PMID>
+  </reference>
+  <reference>
+    <citation>Wu F, Zhao S, Yu B, Chen YM, Wang W, Song ZG, Hu Y, Tao ZW, Tian JH, Pei YY, Yuan ML, Zhang YL, Dai FH, Liu Y, Wang QM, Zheng JJ, Xu L, Holmes EC, Zhang YZ. A new coronavirus associated with human respiratory disease in China. Nature. 2020 Mar;579(7798):265-269. doi: 10.1038/s41586-020-2008-3. Epub 2020 Feb 3. Erratum in: Nature. 2020 Apr;580(7803):E7.</citation>
+    <PMID>32015508</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, Si HR, Zhu Y, Li B, Huang CL, Chen HD, Chen J, Luo Y, Guo H, Jiang RD, Liu MQ, Chen Y, Shen XR, Wang X, Zheng XS, Zhao K, Chen QJ, Deng F, Liu LL, Yan B, Zhan FX, Wang YY, Xiao GF, Shi ZL. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020 Mar;579(7798):270-273. doi: 10.1038/s41586-020-2012-7. Epub 2020 Feb 3.</citation>
+    <PMID>32015507</PMID>
+  </reference>
+  <reference>
+    <citation>Jiang S, Shi Z, Shu Y, Song J, Gao GF, Tan W, Guo D. A distinct name is needed for the new coronavirus. Lancet. 2020 Mar 21;395(10228):949. doi: 10.1016/S0140-6736(20)30419-0. Epub 2020 Feb 19.</citation>
+    <PMID>32087125</PMID>
+  </reference>
+  <reference>
+    <citation>Lu G, Hu Y, Wang Q, Qi J, Gao F, Li Y, Zhang Y, Zhang W, Yuan Y, Bao J, Zhang B, Shi Y, Yan J, Gao GF. Molecular basis of binding between novel human coronavirus MERS-CoV and its receptor CD26. Nature. 2013 Aug 8;500(7461):227-31. doi: 10.1038/nature12328. Epub 2013 Jul 7.</citation>
+    <PMID>23831647</PMID>
+  </reference>
+  <reference>
+    <citation>Wevers BA, van der Hoek L. Recently discovered human coronaviruses. Clin Lab Med. 2009 Dec;29(4):715-24. doi: 10.1016/j.cll.2009.07.007. Review.</citation>
+    <PMID>19892230</PMID>
+  </reference>
+  <reference>
+    <citation>Ksiazek TG, Erdman D, Goldsmith CS, Zaki SR, Peret T, Emery S, Tong S, Urbani C, Comer JA, Lim W, Rollin PE, Dowell SF, Ling AE, Humphrey CD, Shieh WJ, Guarner J, Paddock CD, Rota P, Fields B, DeRisi J, Yang JY, Cox N, Hughes JM, LeDuc JW, Bellini WJ, Anderson LJ; SARS Working Group. A novel coronavirus associated with severe acute respiratory syndrome. N Engl J Med. 2003 May 15;348(20):1953-66. Epub 2003 Apr 10.</citation>
+    <PMID>12690092</PMID>
+  </reference>
+  <reference>
+    <citation>Zaki AM, van Boheemen S, Bestebroer TM, Osterhaus AD, Fouchier RA. Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia. N Engl J Med. 2012 Nov 8;367(19):1814-20. doi: 10.1056/NEJMoa1211721. Epub 2012 Oct 17. Erratum in: N Engl J Med. 2013 Jul 25;369(4):394.</citation>
+    <PMID>23075143</PMID>
+  </reference>
+  <reference>
+    <citation>Azhar EI, El-Kafrawy SA, Farraj SA, Hassan AM, Al-Saeed MS, Hashem AM, Madani TA. Evidence for camel-to-human transmission of MERS coronavirus. N Engl J Med. 2014 Jun 26;370(26):2499-505. doi: 10.1056/NEJMoa1401505. Epub 2014 Jun 4.</citation>
+    <PMID>24896817</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Health Sciences Lahore</investigator_affiliation>
+    <investigator_full_name>Prof. Dr. Fridoon Jawad Ahmad</investigator_full_name>
+    <investigator_title>Professor,</investigator_title>
+  </responsible_party>
+  <keyword>Covid 19</keyword>
+  <keyword>intravenous immunogloulin therapy</keyword>
+  <keyword>passive immunization</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>gamma-Globulins</mesh_term>
+    <mesh_term>Rho(D) Immune Globulin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

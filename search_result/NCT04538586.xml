@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="250">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04538586</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020 COVISTRESS Screening</org_study_id>
+    <nct_id>NCT04538586</nct_id>
+  </id_info>
+  <brief_title>Influence of the COVId-19 Pandemic on STRESS, and Screening Procedures (COVISTRESS Screening)</brief_title>
+  <official_title>Influence of the COVId-19 Pandemic on STRESS, and Screening Procedures</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Clermont-Ferrand</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Faculty of Medicine and Paramedical Professions, Clermont-Ferrand, France</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Clermont-Ferrand</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus has caused containment of more than a third of the world's population. Some
+      countries have used a major screening strategy. Screening procedures, such as waiting (or
+      resulting) for the test, can be stressful and can attract the most stressed people. However,
+      there is currently no data on the relationship between stress and screening for SARS-CoV2
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an observational study by REDCap questionnaire® via a flyer deposited in the waiting
+      room of the COVID screening centres. No incentive to complete the questionnaire will be made.
+      The self-survey will assess stress and its relationship to SARS-CoV2 screening procedures,
+      socio-demographic factors or lifestyle habits. This Screening questionnaire includes 31
+      questions.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Stress measures</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Attitudes and stress related to screening procedure will be measured via questionnaire</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Screening</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Attitudes towards screening will be measured via questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sociodemographic characteristics</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Age, gender, qualification, personal work status, ethnicity, life characteristics and stress will be assessed by questionnaires</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>COVID-19 Screening</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        People screened for COVID-19
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All volunteers who are screened
+
+        Exclusion Criteria:
+
+          -  None
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lise LACLAUTRE</last_name>
+    <phone>0473754963</phone>
+    <email>promo_interne_drci@chu-clermontferrand.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Univeristy Hospital, Clermont-Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lise LACLAUTRE</last_name>
+      <phone>0473754963</phone>
+      <email>promo_interne_drci@chu-clermontferrand.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Frederic DUTHEIL</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 4, 2020</study_first_posted>
+  <last_update_submitted>September 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Screening</keyword>
+  <keyword>Stress</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

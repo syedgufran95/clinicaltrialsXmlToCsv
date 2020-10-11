@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2383">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04515199</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Telemedicine in Mild COVID-19</org_study_id>
+    <nct_id>NCT04515199</nct_id>
+  </id_info>
+  <brief_title>Home Management of Adult Egyptian Mild COVID-19 Cases</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Effectiveness of Telemedicine Use in Home Management of Adult Egyptian Mild COVID-19 Cases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cairo University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cairo University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Keeping in mind the rising number of cases in Egypt and the strain they put on hospital
+      infrastructure, the idea of home isolation and follow up for COVID 19 positive cases has been
+      adopted in many countries and was approved by World Health Organization (WHO) and Egyptian
+      Ministry of health (MOH).
+
+      Telehealth can help to mitigate this risk by minimizing the amount of face-to-face
+      interactions. The WHO mentioned telemedicine among essential services in &quot;strengthening the
+      Health Systems Response to COVID-19&quot; policy. The aim in this study is to study the
+      effectiveness of telemedicine in managing mild COVID cases regarding isolation measures,
+      symptoms, medications adherence, and reporting of red flags and side effects.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Objectives:
+
+        -  To assess the effectiveness of follow up of mild COVID-19 cases in home isolation
+
+        -  To assess the applicability of telemedicine tools in the follow up of those patients and
+           early identification of warning symptoms needing more intensive management measures.
+
+        -  To assess the clinical characteristics for mild COVID-19 cases and post covid sequelae
+           and the course of symptoms
+
+        -  To assess the persistence of symptoms during follow up.
+
+        -  To assess the quality of life during home management period.
+
+        -  To assess cost-effectivenes of home isolation vs hospital admission in mild COVID-19
+           cases.
+
+      Study population &amp; Sample size :
+
+      The study includes 400 Adult (18-65 years) Egyptian patients with mild COVID 19 diagnosed by
+      PCR consented (oral consent) to home isolation to follow them.
+
+      Study Design:
+
+      Prospective observational study.
+
+      Methods:
+
+      • All patients will be subjected to thorough history and clinical examination. 400 adult mild
+      COVID cases consented to home isolation to follow them by: phone calls, what's app, hot line
+      for emergency, Triage sheet, zoom meetings.
+
+      Patients will be given brochures about home isolation (by Egyptian MOH), list of medications,
+      plan of follow up.
+
+        1. Daily follow up for: fever chart, report any new symptoms or progression of previously
+           present symptom or presence of red flags.
+
+        2. Blood samples will be obtained and CT chest will be done according to the usual
+           protocol.
+
+        3. Patients will be followed for 3 months to detect post covid sequelae and the course of
+           symptoms (and the persistence of any symptoms).
+
+        4. Questionnaire will be done to assess the patients' commitment to the advices and
+           regulations of home isolation as well as forms to assess fatigue and the quality of life
+           (36-Item Short Form Survey; SF-36).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>Percent of adherence to isolation measures</measure>
+    <time_frame>3-6 months</time_frame>
+    <description>A checklist to check the percent of the patients who followed the advices for home isolation and will be validated</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidence of symptoms and their duration</measure>
+    <time_frame>3-6 months</time_frame>
+    <description>days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Short Form 35 (SF-36) Questionnaire</measure>
+    <time_frame>3-6 months</time_frame>
+    <description>A validated questionnaire assessing function and quality of life for patients with pulmonary function issues</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cost- effectiveness of Home Isolation vs hospital admission in mild COVID-19 cases</measure>
+    <time_frame>3-6 months</time_frame>
+    <description>We will measure the costs of home isolation vs hospital admission through collectin the expected costs if those mild cases have been admitted in the hospital as in the start of the crisis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identifying the duration of post-COVID-19 symptoms</measure>
+    <time_frame>3-6 months</time_frame>
+    <description>Days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>long-term respiratory complications</measure>
+    <time_frame>3-6 months</time_frame>
+    <description>Interstitial lung disease diagnosed with a thoracic CT-scan</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <condition>Telemedicine</condition>
+  <condition>Quality of Life</condition>
+  <condition>Safety Issues</condition>
+  <condition>Symptoms</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        400 adult mild COVID cases consented to home isolation to follow them by: phone calls,
+        what's app, hot line for emergency, Triage sheet, zoom meetings.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. No co-morbidities that necessitates hospital admission due to high risk for
+             progression of the disease: Pregnancy, uncontrolled Diabetes, Chronic lung disease,
+             Chronic kidney disease, Chronic liver disease, Serious heart diseases (arrythmia,
+             Ischemic heart disease, uncontrolled hypertension), immunocompromised: prolonged use
+             of corticosteroids and other immunosuppressive drugs/ organ transplantation/ HIV/
+             Immunodeficiency.
+
+          2. No fever (oral, below or equal 37.50 C )
+
+          3. No shortness of breath (Respiratory rate 12-20/min)
+
+          4. Oxygen saturation &gt;= 96 %
+
+          5. CT chest: Normal
+
+          6. Labs: D-dimer&lt;1000ng/ml, CPK&lt; twice upper limit of normal, CRP&lt;100, LDH&lt;245,
+             Ferritin&lt;500, absolute lymphocytic count &gt;0.8
+
+        Exclusion Criteria:
+
+          1. Moderate and severe cases not fulfilling the definition of mild cases.
+
+          2. Children and young &lt; 18 years.
+
+          3. Age &gt;65 years.
+
+          4. Presence of any of the previously mentioned comorbidities.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ibrahim El Ebrashy, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Internal Medicine Department, Faculty of Medicine, Cairo University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mohamed Tharwat Hegazy, Lecturer</last_name>
+    <phone>01205408765</phone>
+    <phone_ext>+2</phone_ext>
+    <email>dr_moh_tharwat@kasralainy.edu.eg</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Maha Hossam Al-Din Ibrahim, Professor</last_name>
+    <phone>01227770290</phone>
+    <phone_ext>+2</phone_ext>
+    <email>mahahossam@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Faculty of Medicine Cairo University</name>
+      <address>
+        <city>Cairo</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mohamed Tharwat Hegazy, Lecturer</last_name>
+      <phone>01205408765</phone>
+      <phone_ext>+2</phone_ext>
+      <email>dr_moh_tharwat@kasralainy.edu.eg</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>Wynants L, Van Calster B, Collins GS, Riley RD, Heinze G, Schuit E, Bonten MMJ, Damen JAA, Debray TPA, De Vos M, Dhiman P, Haller MC, Harhay MO, Henckaerts L, Kreuzberger N, Lohman A, Luijken K, Ma J, Andaur CL, Reitsma JB, Sergeant JC, Shi C, Skoetz N, Smits LJM, Snell KIE, Sperrin M, Spijker R, Steyerberg EW, Takada T, van Kuijk SMJ, van Royen FS, Wallisch C, Hooft L, Moons KGM, van Smeden M. Prediction models for diagnosis and prognosis of covid-19 infection: systematic review and critical appraisal. BMJ. 2020 Apr 7;369:m1328. doi: 10.1136/bmj.m1328. Erratum in: BMJ. 2020 Jun 3;369:m2204.</citation>
+    <PMID>32265220</PMID>
+  </reference>
+  <reference>
+    <citation>Shi Y, Yu X, Zhao H, Wang H, Zhao R, Sheng J. Host susceptibility to severe COVID-19 and establishment of a host risk score: findings of 487 cases outside Wuhan. Crit Care. 2020 Mar 18;24(1):108. doi: 10.1186/s13054-020-2833-7.</citation>
+    <PMID>32188484</PMID>
+  </reference>
+  <reference>
+    <citation>Lee C, Chen D, Katz RL. Characteristics of nondepolarizing neuromuscular block: (I) post-junctional block by alpha-bungarotoxin. Can Anaesth Soc J. 1977 Mar;24(2):212-9.</citation>
+    <PMID>139198</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 17, 2020</study_first_posted>
+  <last_update_submitted>August 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cairo University</investigator_affiliation>
+    <investigator_full_name>Mohamed Tharwat Hegazy</investigator_full_name>
+    <investigator_title>Lecturer of Internal Medicine, Rheumatology and Clinical Immunology</investigator_title>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <keyword>Telemedicine</keyword>
+  <keyword>Home Isolation</keyword>
+  <keyword>Mild cases</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

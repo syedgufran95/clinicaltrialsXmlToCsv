@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3216">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04443868</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-IND-02</org_study_id>
+    <nct_id>NCT04443868</nct_id>
+  </id_info>
+  <brief_title>Nitric Oxide Releasing Solution to Treat and Prevent Exacerbation of Mild COVID-19 Infection</brief_title>
+  <official_title>Double-Blinded, Placebo-Controlled Parallel, Phase II Clinical Efficacy Study Evaluating NORS To Treat and Prevent the Exacerbation of Infection in Individuals With Documented Mild COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanotize Research and Development corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sanotize Research and Development corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a double-blinded, placebo-controlled parallel, phase II clinical efficacy study
+      evaluating Nitric Oxide Nasal Irrigation (NONI) for the treatment of COVID-19 in individuals
+      with mild COVID-19 Infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Up to 50 subjects will be enrolled into one of two cohorts of this study in a ratio of 1:1
+      (Treatment: Placebo Control). Subjects will be screened and randomized into one of two
+      parallel cohorts.
+
+        -  Treatment (N = up to 25): Subjects will be enrolled and receive daily NONI treatment for
+           14 days with a follow-up visit on Day 28 post randomization.
+
+        -  Placebo (N = up to 25): Subjects will be enrolled and receive a placebo for 14 days with
+           a follow-up visit on Day 28 post randomization.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To Measure the efficacy of NONI compared to saline placebo control to shorten the duration of COVID-19 viral infectivity</measure>
+    <time_frame>6 Days</time_frame>
+    <description>Measure the SARS-CoV-2 viral load (Cycle threshold) at baseline through Day 6 between NONI and control arms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To Measure the virucidal effect of NONI compared to placebo in the nasal cavity in subjects with mild COVID-19 infection</measure>
+    <time_frame>2, 4 and 6 days</time_frame>
+    <description>Measure the proportion of subjects reaching Ct threshold (ie: unmeasurable viral load) between NONI and control</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To Measure the virucidal effect of NONI compared to placebo in the nasal cavity in subjects with mild COVID-19 infection</measure>
+    <time_frame>2, 4 and 6 days</time_frame>
+    <description>Measure the difference in time-to Ct threshold (ie: unmeasurable viral load) between NONI and control.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To Measure the efficacy of NONI in prevention of progression of COVID-19</measure>
+    <time_frame>28 days</time_frame>
+    <description>Measure the proportion of subjects requiring hospitalization or ER/ED visits for COVID-19/flu-like symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To measure reduction of patient reported outcome (PRO) of clinical cold score symptoms and quality of life in subjects with COVID-19</measure>
+    <time_frame>6 days</time_frame>
+    <description>Measure the difference in PROs score from baseline between NONI and control arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To measure reduction of patient reported outcome (PRO) of clinical cold score symptoms and quality of life in subjects with COVID-19</measure>
+    <time_frame>2, 4, 6, 14 and 28 days</time_frame>
+    <description>Measure the difference in proportion of subjects experiencing a reduction of ≥ 5 from baseline between NONI and control arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To measure reduction of patient reported outcome (PRO) of clinical cold score symptoms and quality of life in subjects with COVID-19</measure>
+    <time_frame>2, 4, 6, 14 and 28 days</time_frame>
+    <description>Measure the difference in proportion of subjects with reduction to a score of zero from baseline between NONI and control arms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To measure the tolerance of NONI compared to saline placebo in participants with mild COVID-19 infection</measure>
+    <time_frame>14 days</time_frame>
+    <description>Number of participants lost-to-follow-up,discontinuing study treatment or number of treatments due to intolerance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To measure the tolerance of NONI compared to saline placebo in participants with mild COVID-19 infection</measure>
+    <time_frame>14 days</time_frame>
+    <description>Severity and frequency of adverse events, pain, discomfort or discontinuations of treatment.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Nitric Oxide Releasing Solution</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Daily nasal irrigation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Isotonic Saline</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Daily nasal irrigation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nitric Oxide-Releasing Drug</intervention_name>
+    <description>Nasal Spray + Nasal Irrigation</description>
+    <arm_group_label>Nitric Oxide Releasing Solution</arm_group_label>
+    <arm_group_label>Placebo Isotonic Saline</arm_group_label>
+    <other_name>nitric oxide</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Capable of understanding and providing signed informed consent and ability to adhere
+             to the requirements and restrictions of this protocol;
+
+          -  Men and Women ≥ 18years of age;
+
+          -  Internet access and capability and willingness to use to participate in audio or
+             audio/video engagements with medical professionals, receive texts, emails, and phone
+             calls from study staff and have a device and reasonable cellular data or other
+             internet access to submit daily study required information using a smart phone,
+             tablet, laptop, or desktop computer during the study period;
+
+          -  COVID-19 infection confirmed with a laboratory antigen or SARS-CoV-2 RT-PCR nasal
+             swab;
+
+          -  Specimen collected within the past 48 hours;
+
+          -  Mild COVID /FLU symptoms which may include no symptoms, fever, cough, sore throat,
+             malaise, headache, muscle pain, gastrointestinal symptoms, lack of taste or smell
+             without shortness of breath or dyspnea;
+
+          -  Must be willing to use one highly effective birth control method which include:
+             abstinence, hormonal contraceptives (e.g. combined oral contraceptives, patch, vaginal
+             ring, injectables, and implants); intrauterine device (IUD) or intrauterine system
+             (IUS); vasectomy and tubal ligation or to use two forms of effective birth control
+             methods which include: barrier methods of contraception (e.g. male condom, female
+             condom, cervical cap, diaphragm, contraceptive sponge);
+
+               -  Hormonal methods and the IUD must be in use at least 30 days prior to first Study
+                  drug administration
+
+               -  Abstinence and barrier methods must be in use at least 14 days prior to Study
+                  drug administration
+
+               -  Vasectomy must be completed 3 months prior to first Study drug administration; or
+                  in the alternative that a 0 sperm count will suffice.
+
+        Exclusion Criteria:
+
+          -  Current tracheostomy or laryngectomy;
+
+          -  Concomitant respiratory therapy such as oxygen or ventilatory support. Positive airway
+             pressure for obstructive sleep apnea is permitted if treatment was established with
+             good compliance at least 3 months before enrolment;
+
+          -  Need for hospitalization for any reason;
+
+          -  Inability to safely self-administer nasal irrigation
+
+          -  Any clinical contraindications, as judged by the Qualified Medical Practitioner;
+
+          -  Clinical signs indicative of moderate, severe or critical COVID severity symptoms (as
+             defined by FDA COVID-19 Guidance Document)
+
+          -  Mentally or neurologically disabled patients who are considered not fit to consent to
+             their participation in the study;
+
+          -  Lactating, pregnant or planning to become pregnant during the study period;
+
+          -  Diagnosed with prior COVID-19 infection (&gt;48 hours from the time the test is reported
+             prior to the time of screening).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mike armstrong, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Richmond ENT</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Chris Miller, Ph.D</last_name>
+    <role>Study Director</role>
+    <affiliation>SaNOtize Scientific Advisor</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mike Armstrong, MD</last_name>
+    <phone>804-330-5501</phone>
+    <email>drarmstrong@richmondent.com</email>
+  </overall_contact>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>June 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 23, 2020</study_first_posted>
+  <last_update_submitted>October 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nitric Oxide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

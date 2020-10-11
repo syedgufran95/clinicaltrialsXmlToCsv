@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="154">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04569292</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COICA_PAG_01</org_study_id>
+    <nct_id>NCT04569292</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Infection in Cancer Pantients</brief_title>
+  <acronym>COICA</acronym>
+  <official_title>Clinical Course of Cancer Patients Who Contracted COVID 19 Infection: An Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ospedale Andrea Tortora di Pagani</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ospedale Andrea Tortora di Pagani</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It's an obsevational retrospective/prospective study. Analyzing the evolution of COVID 19
+      infection in cancer patients can provide interesting information in the management of these
+      patients. For this reason, the purpose of this study is to implement a registry to describe
+      and monitor cancer patients affected by COVID 19, the factors that are associated with an
+      unfavorable evolution, to develop a strategy for the risk assessment of these patients and
+      recommendations. relating to their treatment.
+
+      Particular attention will be paid to patients suffering from urological tumors because the
+      treatment followed by the patients would seem to expose them to a greater risk when they are
+      infected with coronavirus, furthermore, from the literature it is clear that there may be a
+      connection between sex hormones and ACE2 levels in the plasma. In fact, the estrons
+      up-regulate the concentration of ACE2 in the circulation and this could be the reason why
+      women would seem more protected than men once they contract the coronavirus infection
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary objectives:
+
+        -  describe cancer patients with COVID-19 and their clinical course;
+
+        -  identify predictors of the most severe clinical course;
+
+        -  identify prognostic factors; Secondary objectives
+
+        -  Monitor patients with urological tumors with particular attention;
+
+        -  Dosing parameters of inflammation such as IL-6 and IFNα;
+
+        -  Measure the ACE2 levels.
+
+      Patients with oncological pathology who contracted COVID 19 infection from January 1, 2020
+      until the WHO declaration of the end of the pandemic will be studied.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2020</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>describe cancer patients with COVID-19 and their clinical course</measure>
+    <time_frame>Almost 1 year</time_frame>
+    <description>Describing cancer patients with COVID-19 and their clinical course will help us to identify predictors of the most severe clinical course and also prognostic factors</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Cancer patients</arm_group_label>
+    <description>confirmation of COVID-19 in the laboratory (RT-PCR techniques);
+suspected cases of COVID-19; clinically diagnosed based on symptoms (fever&gt; 37.5 °, decrease in oximeter saturation by at least 5%, cough, diarrhea, otitis, dysgeusia, myalgia, arthralgia, conjunctivitis and rhinorrhea) + close contact a COVID-19 subject positive;
+asymptomatic cases; diagnosed based on positive swab results but without symptoms</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No intervention on patients</intervention_name>
+    <description>No intervention on patients</description>
+    <arm_group_label>Cancer patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with oncological pathology who contracted COVID 19 infection from January 1, 2020
+        until the WHO declaration of the end of the pandemic will be studied.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  confirmation of COVID-19 in the laboratory (RT-PCR techniques);
+
+          -  suspected cases of COVID-19; clinically diagnosed based on symptoms (fever&gt; 37.5 °,
+             decrease in oximeter saturation by at least 5%, cough, diarrhea, otitis, dysgeusia,
+             myalgia, arthralgia, conjunctivitis and rhinorrhea) + close contact a COVID-19 subject
+             positive;
+
+          -  asymptomatic cases; diagnosed based on positive swab results but without symptoms even
+             dead patients
+
+        Exclusion Criteria:
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Giuseppe Di Lorenzo</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oncology Unit</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Data Manager Oncology Unit</last_name>
+    <phone>+390819213683</phone>
+    <email>trialclinici.oncopagani@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Oncology Unit, Hospital Andrea Tortora</name>
+      <address>
+        <city>Pagani</city>
+        <state>Salerno</state>
+        <zip>84016</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Data Manager Oncology Unit</last_name>
+      <phone>+390819213683</phone>
+      <email>trialclinici.oncopagani@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Data Manager Oncology Unit</last_name>
+      <phone>+390819213658</phone>
+      <email>trialclinici.oncopagani@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Oncological patients</keyword>
+  <keyword>Cancer</keyword>
+  <keyword>Coronavirus infection disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

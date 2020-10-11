@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="100">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04534673</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0129-20-SOR</org_study_id>
+    <secondary_id>SCRC200006</secondary_id>
+    <nct_id>NCT04534673</nct_id>
+  </id_info>
+  <brief_title>Pegylated Interferon Lambda for Treatment of COVID-19 Infection</brief_title>
+  <official_title>Pegylated Interferon Lambda for Treatment of COVID-19 Infection- A Randomized Open Label Pilot Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Soroka University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Soroka University Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomized, open-label, 2 arm, pilot trial of Lambda 180 mcg administered subcutaneously
+      once weekly, for up to two weeks (2 injections at most), in addition to standard supportive
+      care, compared to standard supportive care alone, in a population of COVID-19 infected
+      patients.
+
+      patients will be randomized according to 1:1 ratio to one of the 2 trial arms: Lambda 180 mcg
+      S.C + standard care (intervention arm) or standard care only (control arm).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Recently, a novel coronavirus (SARS-CoV-2) has been identified as the causative pathogen of a
+      rapidly spreading infection associated with pneumonia and severe acute respiratory syndrome
+      (COVID-19), for which there is currently no approved therapy. Interferon Lambda (IFN Lambda)
+      is a type III interferon with broad anti-viral activity and receptor distribution limited to
+      the respiratory and gastrointestinal epithelium. Studies in animal models suggest that IFN
+      Lambda may ameliorate infection with respiratory viruses such as influenza coronaviruses. The
+      WHO has recently included pegylated interferon lambda in its landscape analysis of potential
+      therapeutics for COVID-19.
+
+      In this randomized, open-label, 2 arms, pilot trial, up to 40 patients diagnosed with
+      COVID-19 and mild to moderate respiratory infection, will be randomized to one of 2 treatment
+      arms in 1:1 ratio: 1. Lambda 180 mcg administered S.C once weekly, for up to two weeks (2
+      injections at most) + standard care, Or 2. Standard care alone.
+
+      Efficacy of Lambda will be assessed by PCR analysis for COVID-19 (Fluxergy, Irvine CA), from
+      respiratory secretions obtained by nasopharyngeal and oropharyngeal swabs, collected
+      consecutively at day 1, 3, 5, 7, 10, 14 and 21 following initial diagnosis or until patients
+      are discharged following achievement of two consecutive PCR negative tests for COVID-19.
+      Safety and tolerability of Lambda will be assessed by adverse event (AE) monitoring, vital
+      signs assessment and clinical laboratory tests (CBC, and extended chemistry panel).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 5, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A randomized, open label, 2 arm, pilot trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Viral shedding in days since initial diagnosis</measure>
+    <time_frame>21 days</time_frame>
+    <description>The duration of viral shedding in days since initial diagnosis, as determined by RT-PCR to COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of adverse events and severe adverse events</measure>
+    <time_frame>21 days from entry</time_frame>
+    <description>Rate of treatment-emergent and treatment-related severe adverse events (SAEs)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical recovery</measure>
+    <time_frame>72 Hours</time_frame>
+    <description>the time (in hours) from initiation of trial treatment (Lambda or standard care) until normalization of fever, respiratory rate, and oxygen saturation, and alleviation of cough, sustained for at least 72 hours.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of non-invasive or mechanical ventilation</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Requirement for non-invasive (bipap) or mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>28 Days</time_frame>
+    <description>length of hospital stay from admission to discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>At day 28 following admission to the hospital</time_frame>
+    <description>All-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Undetectable COVID-19 virus levels</measure>
+    <time_frame>At days 7,14 and 21 from admission</time_frame>
+    <description>Rate of undetectable COVID-19 virus levels at different days</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Pegylated interferon lambda + Standard of care treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard of care treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lambda 180 mcg S.C</intervention_name>
+    <description>Prefilled injection syringe of 180 microgram Pegylated interferon lambda, administered on day 0 and if needed on day 7</description>
+    <arm_group_label>Intervention group</arm_group_label>
+    <other_name>Lambda</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Female and male patients over the age of 18.
+
+          2. Confirmed COVID-19 infection by PCR analysis
+
+          3. Hospitalized at Soroka University Medical Center.
+
+          4. Display mild to moderate symptoms of respiratory infection (Temperature &lt;39.0 oC,
+             respiratory rate &lt; 25, O2 % Sat &gt; 95% in room air or with supplemental oxygen through
+             nasal cannula, P/F ratio &gt; 150).
+
+          5. Willing and able to convey informed consent.
+
+          6. Willing and able to comply with all study procedures
+
+          7. Female patients of childbearing potential and male patients with partners of
+             childbearing potential must agree to use adequate methods of contraception during the
+             study and through 90 days after the last dose of study medication. Female patients of
+             childbearing potential are all those except patients who are surgically sterile, who
+             have medically documented ovarian failure, or who are at least 1 year postmenopausal.
+
+        For females: 2 of the following contraceptive methods, with at least 1 being a barrier
+        method:
+
+          -  Hormonal contraceptives for ≥ 27 days before dosing
+
+          -  Intrauterine device (IUD) in place ≥ 27 days before dosing
+
+          -  Double-barrier methods (use of condom [male partner] with either diaphragm with
+             spermicide or cervical cap with spermicide) from screening
+
+          -  Surgical sterilization of the partner (vasectomy ≥ 1 month before screening) Female
+             patients must have a negative urine pregnancy test (minimum sensitivity 25 IU/L or
+             equivalent units of human chorionic gonadotropin [hCG]) within 24 hours prior to the
+             start of investigational product.
+
+        For males:
+
+          -  Surgical sterilization (vasectomy ≥ 1 month before screening) Or
+
+          -  Both of the following contraceptive methods from screening:
+
+               -  Consistently and correctly use a condom
+
+               -  Partner must use a hormonal contraceptive or a nonhormonal barrier method (IUD or
+                  diaphragm with spermicide or cervical cap with spermicide).
+
+        Exclusion Criteria:
+
+          1. Treatment with interferons (IFNs) immunomodulators and/or immunosuppressive or B-cell
+             depleting medications within 12 months before screening.
+
+          2. Previous use of Interferon Lambda. Patients who previously participated in a clinical
+             trial of Interferon Lambda but are confirmed to have received placebo or another
+             non-Lambda IFNs are allowed.
+
+          3. History or evidence of any intolerance or hypersensitivity to IFNs.
+
+          4. Patients with respiratory infection requiring invasive or non-invasive ventilatory
+             support (bipap or intubation and mechanical ventilation).
+
+          5. Participation in a clinical trial with use of any investigational drug within 30 days
+             before screening.
+
+          6. History of any of the following diseases or conditions:
+
+               -  Advanced or decompensated liver disease (presence or history of bleeding varices,
+                  ascites, encephalopathy or hepato-renal syndrome)
+
+               -  Immunologically mediated disease (e.g., rheumatoid arthritis, inflammatory bowel
+                  disease, severe psoriasis, systemic lupus erythematosus) that requires more than
+                  intermittent nonsteroidal anti-inflammatory medications for management or that
+                  requires use of systemic corticosteroids in the 6 months before screening
+                  (inhaled asthma medications are allowed).
+
+               -  Retinal disorder or clinically relevant ophthalmic disorder.
+
+               -  Any malignancy within 5 years before screening. Exceptions are superficial
+                  dermatologic malignancies (e.g., squamous cell or basal cell skin cancer treated
+                  with curative intent).
+
+               -  Cardiomyopathy, significant ischemic cardiac or cerebrovascular disease
+                  (including history of angina, myocardial infarction, or interventional procedure
+                  for coronary artery disease), or cardiac rhythm disorder.
+
+               -  Chronic pulmonary disease (e.g., chronic obstructive pulmonary disease)
+                  associated with functional impairment.
+
+               -  Pancreatitis.
+
+               -  Severe or uncontrolled psychiatric disorder, e.g., depression, manic condition,
+                  psychosis, acute and/or chronic cognitive dysfunction, suicidal behavior, and
+                  relapse of substance abuse.
+
+               -  Active seizure disorder defined by either an untreated seizure disorder or
+                  continued seizure activity within the preceding year despite treatment with
+                  anti-seizure medication.
+
+               -  Bone marrow or solid organ transplantation
+
+               -  Other significant medical condition that may require intervention during the
+                  trial (such as uncontrolled diabetes or thyroid disease) Patients with any
+                  serious condition that, in the opinion of the investigator, would preclude
+                  evaluation of response or make it unlikely that the contemplated course of
+                  therapy and follow-up could be completed. Patients for whom participation in the
+                  trial would increase their risk.
+
+               -  Current eating disorder
+
+               -  Current alcohol abuse (excessive alcohol intake, defined as follows: &gt;20 g/day
+                  for females [1.5 standard alcohol drinks] or &gt;30 g/day for males [2.0 standard
+                  alcohol drinks]. A standard drink contains 14 g of alcohol: 360 mL of beer, 150
+                  mL of wine, or 45 mL of spirits
+
+               -  Drug abuse within the previous 6 months before screening, with the exception of
+                  cannabinoids and their derivatives
+
+          7. Any of the following abnormal laboratory test in the 12 months prior to enrollment
+
+               -  Platelet count &lt;90,000 cells/mm3
+
+               -  White blood cell (WBC) count &lt;3,000 cells/mm3
+
+               -  Absolute neutrophil count (ANC) &lt;1,500 cells/mm3
+
+               -  Hemoglobin &lt;11 g/dL for women and &lt;12 g/dL for men
+
+               -  Estimated creatinine clearance (CrCl) &lt; 50 mL/min by Cockroft-Gault formulation
+
+               -  ALT and/or ALT levels &gt; 10 times the upper limit of normal
+
+               -  Bilirubin level ≥ 2.5 mg/dL unless due to Gilbert's syndrome
+
+               -  Serum albumin level &lt;3.5 g/dL
+
+               -  International normalized ratio (INR) ≥1.5 (except patients maintained on
+                  anticoagulant medications)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ohad Etzion, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Soroka Univeersity Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ohad Etzion, MD</last_name>
+    <phone>+972-8-6403330</phone>
+    <email>ohadet@clalit.org.il</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ruthie Bekore</last_name>
+    <phone>+972-8-6244240</phone>
+    <email>Ruthieb@clalit.org.il</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Soroka UMC</name>
+      <address>
+        <city>Be'er Sheva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ohad Etion, MD</last_name>
+      <phone>+97286243330</phone>
+      <email>ohadet@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Ohad Etzion, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>April 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>August 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Soroka University Medical Center</investigator_affiliation>
+    <investigator_full_name>Ohad Etzion</investigator_full_name>
+    <investigator_title>Director, Department of Gastroenterology &amp; Liver Diseases</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Pegylated interferon lambda</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

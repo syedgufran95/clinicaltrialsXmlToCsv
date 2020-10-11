@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1977">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04512027</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CIMED - 002- 2020</org_study_id>
+    <nct_id>NCT04512027</nct_id>
+  </id_info>
+  <brief_title>Prolectin-M in COVID-19 Patients Having Mild to Moderate Symptoms Not Requiring Oxygen Support.</brief_title>
+  <acronym>Prolectin-M</acronym>
+  <official_title>Effect of Prolectin-M; a (1-6)-Alpha-D-Mannopyranose on SarsCoV2 Viral Copy Numbers: A Proof of Concept, Open Label Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Composite Interceptive Med Science</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pharmalectin Inc, a subsidiary of Bioxytran Inc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Composite Interceptive Med Science</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomised controlled trial of open label Prolectin-M; a (1-6)-alpha-D-Mannopyranose among
+      patients with RT PCR positive COVID-19 patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SarsCoV2 has infected over 20 million people worldwide. The virus has a unique protein
+      structure enabling it to rapidly infect and spread among the population. COVID19 is a global
+      health emergency and has affected lives of all people irrespective of being infected. There
+      are no proven therapies and a vaccine is yet to be approved for wide public usage.
+
+      Our study aims to test a hypothesis of physically blocking the spike protein from infecting
+      the human cells, thus promoting its rapid excretion from the infected person.
+
+      We will randomise 10 subjects in this proof of concept trial and test the hypothesis by
+      measuring the effect of Prolectin-M; a (1-6)-alpha-D-Mannopyranose in reducing the viral copy
+      numbers over 5 days of treatment. The absolute copy numbers will be measured on digital
+      droplet PCR developed by BioRad. A fall in copy numbers by 2-fold from baseline will be
+      considered a positive treatment effect in this population. All standard care measures
+      currently being practiced for these patients will be continued.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 15, 2020</start_date>
+  <completion_date type="Anticipated">October 16, 2020</completion_date>
+  <primary_completion_date type="Actual">September 19, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SarsCoV2 viral copy number</measure>
+    <time_frame>7 days from randomisation</time_frame>
+    <description>Change in absolute viral copy number</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>b. Disease progression will be measured on a 7-point scale at 28 days. A 2-point change will be considered disease progression.</measure>
+    <time_frame>28 days from randomisation</time_frame>
+    <description>7-point severity score (ordinal scale):
+Not hospitalized, no limitations on activities
+Not hospitalized, limitation on activities;
+Hospitalized, not requiring supplemental oxygen;
+Hospitalized, requiring supplemental oxygen;
+Hospitalized, on non-invasive ventilation or high flow oxygen devices;
+Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO);
+Death</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Prolectin-M; a (1-6)-alpha-D-Mannopyranose class+Stand of care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Tablet chewed for 5 days along and given alongside standard of care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>All patients will receive currently practiced standard of care medicines</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Prolectin-M; a (1-6)-alpha-D-Mannopyranose class</intervention_name>
+    <description>A treatment to decrease viral load, detected through digital droplet PCR, in mild to moderate cases of RT-PCR positive COVID-19</description>
+    <arm_group_label>Prolectin-M; a (1-6)-alpha-D-Mannopyranose class+Stand of care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Currently approved standard of care for patients without symptoms requiring hospitalisation will be provided to all.</description>
+    <arm_group_label>Prolectin-M; a (1-6)-alpha-D-Mannopyranose class+Stand of care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Symptomatic and laboratory-confirmed diagnosis of COVID-19.
+
+          -  Age ≥18 years and ≤45 years, male and non-pregnant female
+
+          -  Identified within 72 hours of testing positive on RT PCR.
+
+          -  Able to give informed consent to stay in institutional care and undergo 3 times
+             collection of throat and nasal swabs over 7-day period; Day 1, Day 3 and Day 5 since
+             randomization.
+
+        Exclusion Criteria:
+
+          -  Oxygen saturation at admission ≤96%.
+
+          -  High temperature ≥100 deg F (≥37.5 deg C) not controlled on oral doses of
+             acetaminophen.
+
+          -  Known history of diabetes on oral medications or insulin.
+
+          -  IL-6 levels ≥ 3times of laboratory reference range and / or significantly elevated
+             levels of CRP, serum ferritin or d-dimer.
+
+          -  Lymphocyte / monocyte ratio ≤3 or neutrophil / lymphocyte ratio ≥5 or platelet count
+             ≤150,000 cells per microliter
+
+          -  On any chronic medications for more than 4 weeks before randomization or active
+             malignancy or having any co-morbidity that increases risk of rapid disease
+             progression.
+
+          -  Previously tested positive and recovered from COVID-19
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>ALBEN SIGAMANI, MD</last_name>
+    <phone>00918029761114</phone>
+    <email>ALBEN.SIGAMANI.DR@NARAYANAHEALTH.ORG</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>VIKNESWAR GUNASEELAM, MD</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mazumdar Shaw Medical Centre</name>
+      <address>
+        <city>Bangalore</city>
+        <state>Karnataka</state>
+        <zip>560099</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alben Sigamani, MD</last_name>
+      <phone>8884431444</phone>
+      <email>alben.sigamani.dr@narayanahealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Charitha Gangadharan, PhD</last_name>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>India</country>
+  </location_countries>
+  <reference>
+    <citation>Suo T, Liu X, Feng J, Guo M, Hu W, Guo D, Ullah H, Yang Y, Zhang Q, Wang X, Sajid M, Huang Z, Deng L, Chen T, Liu F, Xu K, Liu Y, Zhang Q, Liu Y, Xiong Y, Chen G, Lan K, Chen Y. ddPCR: a more accurate tool for SARS-CoV-2 detection in low viral load specimens. Emerg Microbes Infect. 2020 Dec;9(1):1259-1268. doi: 10.1080/22221751.2020.1772678.</citation>
+    <PMID>32438868</PMID>
+  </reference>
+  <reference>
+    <citation>http://medrxiv.org/lookup/doi/10.1101/2020.02.29.20029439</citation>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 13, 2020</study_first_posted>
+  <last_update_submitted>September 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ddPCR,</keyword>
+  <keyword>SarsCoV2 Copies</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

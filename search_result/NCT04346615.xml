@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1047">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04346615</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BHV3500-203</org_study_id>
+    <nct_id>NCT04346615</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy Trial of Zavegepant* Intranasal for Hospitalized Patients With COVID-19 Requiring Supplemental Oxygen</brief_title>
+  <official_title>BHV3500-203: Double-Blind, Randomized, Placebo Controlled, Safety and Efficacy Trial of Zavegepant* (BHV-3500) Intranasal (IN) for Hospitalized Patients With COVID-19 Requiring Supplemental Oxygen</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Biohaven Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Biohaven Pharmaceuticals, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine if a CGRP receptor antagonist may potentially blunt
+      the severe inflammatory response at the alveolar level, delaying or reversing the path
+      towards oxygen desaturation, ARDS, requirement for supplemental oxygenation, artificial
+      ventilation or death in patients with COVID-19 on supplemental oxygen.
+
+      * BHV-3500, formerly &quot;vazegepant&quot;, is now referred to as &quot;zavegepant&quot; (za ve' je pant). The
+      World Health Organization (WHO) International Nonproprietary Names (INN) Expert Committee
+      revised the name to &quot;zavegepant&quot; which was accepted by the United States Adopted Names (USAN
+      ) Council for use in the U.S. and is pending formal adoption by the INN for international
+      use.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 25, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To compare the efficacy of zavegepant (BHV-3500) to placebo in subjects hospitalized with COVID-19 infection requiring supplemental oxygen, using a six-point rating scale at Day 15. .</measure>
+    <time_frame>Baseline to Day 15</time_frame>
+    <description>a. Efficacy will be measured by the difference between groups in the meah 6-point severity rating at Day 15. The severity ratings are:
+Death
+Hospitalized, on invasive mechanical ventilation or ECMO
+Hospitalized, on non-invasive ventilation or high flow oxygen devices
+Hospitalized, requiring supplemental oxygen
+Hospitalized, not requiring supplemental oxygen
+Not hospitalized</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who have a 6-point severity rating of 5 or 6, are alive, and do not use supplemental oxygen as a procedure at Day 29.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who have a 6-point severity rating of 2 or 3, or use any ventilation or high-flow nasal cannula as procedures, on any day through Day 29.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects admitted into an ICU on any day through Day 29 from AE eCRFs.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who have a 6-point severity rating of 3, 4, 5, or 6, are alive, and do not use invasive mechanical ventilation as a procedure at Day 15. The analogous definition is applied to Day 29.</measure>
+    <time_frame>Baseline at Day 15 and at Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who have a 6-point severity rating of 4, 5 or 6, or use a low- or high-flow nasal, are alive, and do not use any ventilation at Day 15. The analogous definition is applied to Day 29.</measure>
+    <time_frame>Baseline at Day 15 and at Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference between treatment groups in the mean 6-point severity rating at Day 29</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days from baseline to the first day through Day 29 with any 6-point severity rating greater than baseline.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days from baseline to the first of any 2 consecutive days through Day 29 with all SpO2/FiO2 ratios &gt; 400 on both days.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days from baseline to the first day through Day 29 with ≥ 1-point decrease in any NEWS2 score from baseline.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days from baseline to the first day through Day 29 with all NEWS2 scores &lt; 2 on that day.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change from baseline in NEWS2 score at Days 15 and 29 for subjects who are alive at these time points</measure>
+    <time_frame>Baseline at Day 15 and at Day 29.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who have a 6-point severity rating of 5 or 6, are alive, and do not use supplemental oxygen as a procedure at Day 15.</measure>
+    <time_frame>Baseline to Day 15</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who are discharged from the hospital, have a 6-point severity rating of 6 on any day after discharge, and use supplemental oxygen on any day after discharge.</measure>
+    <time_frame>Baseline to Day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean number of days with respiratory rate &gt; 24 breaths/minute through Day 29 for subjects who are alive at Day 29 and do not use invasive mechanical ventilation.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean number of days with supplemental oxygen use through Day 29 for subjects who are alive at Day 29. A day in which any 6-point severity rating is 2, 3, or 4, or supplemental oxygen is used as a procedure counts.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days from baseline to the first day through Day 29 on which any SpO2 ≥ 90%, any 6-point severity rating is 5 or 6, and no supplemental oxygen is used as a procedure.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean number of ventilator-free days through Day 29 for subjects who are alive at Day 29.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean SOFA total scores at ICU admission and Day 29 (if still in ICU), from SOFA and AE eCRFs.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean number of days of hospitalization through Day 29 for subjects who are alive on Day 29. All days on study on or before hospitalization discharge are days of hospitalization, from 6-point severity rating scale eCRFs</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days from baseline to the first of any 2 consecutive days through Day 29 in which all temperatures show lack of fever on both days and no antipyretics are used on either day.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of subjects with deaths, SAEs, severe AEs, and Grade 3 or 4 laboratory test abnormalities at any time on study.</measure>
+    <time_frame>Screening to Day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and percentage of subjects with severe or life-threatening bacterial, invasive fungal, or opportunistic infections at any time through Day 29 from AE/SAE eCRFs.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and percentage of subjects with intranasal administration reactions at any time through Day 29 from AE/SAE eCRFs.</measure>
+    <time_frame>Baseline to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with ≥ 50% reduction in eGFR from baseline at any time on study from laboratory test eCRFs.</measure>
+    <time_frame>Baseline to Day 60</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>COVID-19 Infection</condition>
+  <arm_group>
+    <arm_group_label>Zavegepant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Zavegepant (BHV-3500) 10 mg intranasal (IN) Q8h for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo Q8h for 14 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zavegepant (BHV-3500)</intervention_name>
+    <description>10 mg intranasal (IN) for 14 days</description>
+    <arm_group_label>Zavegepant</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo Q8h for 14 days</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Subjects must provide informed consent in accordance with requirements of the study
+             center's institutional review board (IRB) or eithics committee prior to the initiation
+             of any protocol-required procedures
+
+          2. Subjects must agree to provide all requested demographic information (i.e. gender,
+             race)
+
+          3. Subjects must be able to read and understand English or Spanish
+
+          4. Subjects must be over the age of 18 years
+
+          5. Subjects must have laboratory-confirmed SARS-CoV-2 infection as determined by
+             PCR-based commercial or public health assay
+
+          6. Subjects must have symptoms that require hospitalization with supplemental oxygen and
+             / or non-invasive ventilation as determined by the admitting physician. The maximum
+             nasal cannula O2 concentration should be determined by the treating clinician and the
+             limitations of the specific equipment
+
+          7. Subjects must be willing and able to comply with study-related procedures/assessments
+
+        Exclusion Criteria:
+
+          1. Subjects in immediate need of invasive mechanical ventilation or extracorporeal
+             membrane oxygenation (ECMO)
+
+          2. Subjects with an eGFR &lt; 30 mL/min, at the Screening Visit
+
+          3. Prisoners or subjects who are involuntarily incarcerated
+
+          4. Subjects who are participating in any other investigational clinical trial while
+             participating in this clinical trial
+
+          5. Subjects who are under the age of 18 years
+
+          6. Subjects who are pregnant (all potential female enrollees need to have a negative
+             pregnancy test prior to IP administration)
+
+          7. Subjects with multi-organ failure
+
+          8. Subjects who have received more than 48 hours of supplemental oxygen prior to
+             randomization
+
+          9. Subjects with prior significant pulmonary disease (e.g., severe COPD/ILD/CHF/IPF) are
+             excluded
+
+         10. Subjects receiving investigational therapies as part of a formal clinical trial for
+             the treatment of COVID-19. During the course of this study, investigational therapies
+             that may become &quot;standard of care&quot; to treat COVID-19, but are not part of a clinical
+             trial, are allowed
+
+         11. Subjects who are on long-acting CGRP monoclonal antibodies will be excluded including
+             Aimovig (erenumab), Emgality (galcanezumab), Ajovy (fremanezumab), and Vyepti
+             (eptinezumab). Additionally, the investigational oral CGRP receptor antagonist,
+             atogepant, that is taken daily will also be excluded. Oral CGRP receptor antagonists,
+             Nurtec ODT (rimegepant) and Ubelvy (ubrogepant) that are typically used PRN
+             infrequently will not be excluded as long the subject was not taking them on a daily
+             basis and does not take them during the current study
+
+         12. Subjects who are unlikely to survive for more than 48 hours from the Screening Visit
+
+         13. Subjects with any of the following abnormal laboratory values at screening: aspartate
+             AST or ALT greater than 5x ULN or bilirubin greater than 2x ULN
+
+         14. Subjects with known active TB, history of incompletely treated TB, suspected or known
+             extrapulmonary TB
+
+         15. Subjects with suspected or known systemic bacterial or fungal infections. However,
+             empiric antibiotics are permitted.
+
+         16. Subjects who have participated in any clinical research study evaluating an IP or
+             therapy within 3 months and less than 5 half-lives of IP prior to the screening visit
+
+         17. Subjects with any physical examination findings and/or history of any illness that, in
+             the opinion of the study investigator, might confound the results of the study or pose
+             an additional risk to the subject by their participation in the study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Elyse Stock, MD</last_name>
+    <phone>203-404-0410</phone>
+    <email>clinicaltrials@biohavenpharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Georgetown University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maximiliano Menna</last_name>
+      <phone>202-444-0371</phone>
+      <email>Mpm229@georgetown.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Agbenu Amali</last_name>
+      <phone>215-503-8954</phone>
+      <email>Agbenu.Amali@Jefferson.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Roper Hospital</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christine Horne</last_name>
+      <phone>843-402-0227</phone>
+      <email>chorne@lcids.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>April 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 15, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>COVID</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Biohaven</keyword>
+  <keyword>Intranasal</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>BHV-3500</keyword>
+  <keyword>Zavegepant</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

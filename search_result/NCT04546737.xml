@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2060">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04546737</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PI2020_843_0087</org_study_id>
+    <nct_id>NCT04546737</nct_id>
+  </id_info>
+  <brief_title>Study of Morphological, Spectral and Metabolic Manifestations of Neurological Complications in Covid-19 Patients</brief_title>
+  <acronym>NSpectroCovid</acronym>
+  <official_title>Study of Morphological, Spectral and Metabolic Manifestations of Neurological Complications in Covid-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire, Amiens</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire, Amiens</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Viral pandemics, such as HIV and SARS-Cov-V1, have shown that they can lead to acute and / or
+      delayed neurological complications. At the actual context of the pandemic Coronavirus disease
+      2019 (COVID-19), neurological manifestations seem to be confirmed since in 85% of COVID-19
+      patients, present neurological symptoms, including anosmia, ageusia, periorbital pain,
+      dizziness, fatigue, even moderate headache, moderate memory and/or behavioral disorders.
+
+      However, these neurological manifestations are not well studied and their radiological
+      features are not well described. It is therefore important to assess these potential
+      neurological complications in COVID-19 patients. To the investigator knowledge, there is no
+      previous study in the literature describing spectral brain changes in COVID + patients. Thus,
+      the goal of this work is to describe the radiological semiology using MRI and particularly
+      Magnetic Resonance Spectroscopic (MRS) biomarkers in the evaluation of acute and / or delayed
+      brain damage in COVID + patients presenting a neurological manifestations that are initially
+      related to the cranial nerves damage.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 8, 2020</start_date>
+  <completion_date type="Anticipated">May 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Variation from baseline of MRI radiological semiology in COVID-19 patients</measure>
+    <time_frame>9 months after patient inclusion</time_frame>
+    <description>The radiological semiology as described by MRI and particularly Magnetic Resonance Spectroscopic (MRS) biomarkers in the COVID-19 patients presenting neurological manifestations related initially to the cranial nerves damage.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <condition>Neurological Manifestations</condition>
+  <condition>Brain Damage</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Magnetic Resonance Spectroscopy (MRS).</intervention_name>
+    <description>This is a Nuclear Magnetic Resonance (NMR) technique which can detect the NMR signal allowing to measure under curves areas, amplitudes, ratios and concentrations of various metabolites contained in a biological tissue, in addition to water and lipids. This offers the possibility, in addition to the contribution of MRI imaging, to better characterize pathological processes (inflammatory, infectious, etc.) through spectral and metabolic changes that can be quantitatively evaluated. Spectroscopic measurements will be carried out with a mono-voxel spectroscopy using a PRESS [Point RESolved Spectroscopy] sequence with a short Echo Time (TE) of 35 ms, an intermediate TE of 144 ms and a long TE of 288 ms.</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Major COVID-19 patient (≥18 years old)
+
+          -  COVID-19 patient presenting at least one the neurological manifestations:
+
+        anosmia, ageusia, periorbital pain, dizziness, fatigue, moderate headache, moderate memory
+        and behavioral disorders.
+
+          -  Patient who have signed an informed consent form for the study
+
+        Exclusion Criteria:
+
+          -  Patient under guardianship or curators or under judicial protection
+
+          -  Pregnant and breastfeeding women
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jean-Marc CONSTANS, Pr</last_name>
+    <phone>(33)32266087511</phone>
+    <email>constans.jean-marc@chu-amiens.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU Amiens</name>
+      <address>
+        <city>Amiens</city>
+        <zip>80480</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean-Marc Constans, Pr</last_name>
+      <phone>03.22.6608.75.11</phone>
+      <email>constans.jean-marc@chu-amiens.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Neurological Manifestations</keyword>
+  <keyword>MRI and NMR spectroscopy</keyword>
+  <keyword>Radiological semiology</keyword>
+  <keyword>Spectral profile</keyword>
+  <keyword>Brain Damage</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Neurologic Manifestations</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

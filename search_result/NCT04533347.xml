@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="414">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04533347</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TQ 2020_06</org_study_id>
+    <nct_id>NCT04533347</nct_id>
+  </id_info>
+  <brief_title>A Double-blind Placebo-controlled Study to Assess the Efficacy and Safety of Oral Tafenoquine Versus Placebo in Patients With Mild to Moderate COVID-19 Disease</brief_title>
+  <official_title>A Double-blind Placebo-controlled Study to Assess the Efficacy and Safety of Oral Tafenoquine Versus Placebo in Patients With Mild to Moderate COVID-19 Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>60 Degrees Pharmaceuticals LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Peachtree BioResearch Solutions Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>60 Degrees Pharmaceuticals LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A clinical study to assess the efficacy and safety of oral tafenoquine compared to placebo in
+      patients with mild to moderate COVID 19 disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The TQ 2020_06 study is a double-blind placebo-controlled, Phase 2 clinical trial that plans
+      to enroll approximately 275 patients with mild to moderate infection with COVID-19. Patients
+      will undergo a brief screening period before being randomized to receive either
+      self-administer 200 mg tafenoquine or matching placebo for 10 days. Following the treatment
+      period, patients will have a follow up visit at study Day 28 (28 days after the first dose of
+      study medication). The study's primary efficacy endpoint is proportion of patients with
+      clinical recovery of COVID-19 symptoms on Day 12 [± 1 day].
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients with clinical recovery of COVID-19 symptoms on Day 12 [± 1 day]</measure>
+    <time_frame>Day 12 [± 1 day]</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with negative SARS-CoV-2 RT-PCR on Day 12 [± 1 day]</measure>
+    <time_frame>Day 12 [± 1 day]</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization rates due to COVID-19 symptoms (excluding admittance only for administrative or observations purposes)</measure>
+    <time_frame>Up to 28 Days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of COVID-19-related medical follow up visits [Doctor's office or emergency room (ER) visit]</measure>
+    <time_frame>Up to 28 Days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with COVID-19 symptoms at Day 12 by individual symptoms</measure>
+    <time_frame>Day 12 [± 1 day]</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">275</enrollment>
+  <condition>COVID 19 Disease</condition>
+  <arm_group>
+    <arm_group_label>Tafenoquine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Tafenoquine two 100 mg oral tablets 1x/day on Days 1,2,3 and 10</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo two tablets 1x/day on Days 1,2,3 and 10</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tafenoquine Oral Tablet</intervention_name>
+    <description>Patients will be randomized and will receive and self-administer 200 mg Tafenoquine or matching placebo on Days 1, 2, 3, and 10.</description>
+    <arm_group_label>Tafenoquine</arm_group_label>
+    <other_name>ARAKODA™</other_name>
+    <other_name>KODATEF™</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Patients will be randomized and will receive and self-administer 200 mg Tafenoquine or matching placebo on Days 1, 2, 3, and 10.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male or female, aged ≥18 years of age;
+
+          -  Laboratory confirmed infection with COVID-19 virus by an FDA-authorized SARS-Cov-2
+             RT-PCR;
+
+          -  Able and willing to give written informed consent.
+
+          -  Willing to keep an electronic diary from Study Day 1 to Day 12 [± 1 day] and have
+             daily phone or videoconferences with study team personnel.
+
+          -  At least one of the following clinical symptoms of COVID-19 infection within the 4
+             days prior to and inclusive of the day of screening:
+
+               1. Respiratory rate ≥ 24/min
+
+               2. New cough or shortness of breath that has presented within the last 4 days
+
+               3. Fever - temperature 37.7°C [oral or skin surface]
+
+          -  Must agree not to enroll in another study of an investigational agent prior to
+             completion of Day 28 of the study.
+
+          -  Able to take ARAKODA or KODATEF according to Prescribing Information
+
+          -  Have been symptomatic no longer than 5 days when the first dose of study medication is
+             administered.
+
+          -  If female, agree to use an acceptable method of birth control from the time of consent
+             through 56 days after the last dose of study drug.
+
+        Exclusion Criteria:
+
+          -  Have one of the contraindications for ARAKODA or KODATEF in the prescribing
+             information (section 16.1) including:
+
+               1. G6PD deficiency
+
+               2. Breastfeeding
+
+               3. Psychotic disorder or current psychotic symptoms
+
+               4. Known hypersensitivity reaction to TQ
+
+          -  Evidence of severe or critical illness, defined by at least one of the following:
+
+               1. Clinical signs indicative of severe systemic illness with COVID-19, such as
+                  respiratory rate ≥30 breaths per minute, heart rate ≥ 125 beats per minute, SpO2
+                  ≤93% on room air
+
+               2. Respiratory failure defined based on resource utilization requiring at least one
+                  of the following:
+
+             i. Endotracheal intubation and mechanical ventilation, oxygen delivered by high flow
+             nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at
+             flow rates &gt; 20 L/min with fraction of delivered oxygen ≥ 0.5), noninvasive positive
+             pressure ventilation, extracorporeal membrane oxygenation (ECMO), or clinical
+             diagnosis of respiratory failure (i.e., clinical need for one of the preceding
+             therapies, but preceding therapies not able to be administered in setting of resource
+             limitation) ii. Shock (defined by systolic blood pressure &lt; 90 mmHg, or diastolic
+             blood pressure &lt;60 mmHg or requiring vasopressors) iii. Multi-organ
+             dysfunction/failure
+
+          -  Any other clinically significant acute illness unrelated to COVID-19 within seven days
+             prior to first study drug administration
+
+          -  Receipt of any experimental treatment for COVID-19 (off-label, compassionate use, or
+             study-related) within the 30 days prior to the time of the screening evaluation
+
+          -  Any excluded concomitant medication as described in the ARAKODA package insert
+             [Section 16.1]
+
+          -  Any COVID-19 symptoms which, in the opinion of the investigator, is suggestive of
+             possible requirement to hospitalize within 48 hours of enrollment
+
+          -  Positive pregnancy test
+
+          -  Have been symptomatic for more than five days when the first dose would be
+             administered
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Geoffrey Dow, PhD</last_name>
+    <phone>202-327-5422</phone>
+    <email>geoffdow@60degreespharma.com</email>
+  </overall_contact>
+  <reference>
+    <citation>Geleris J, Sun Y, Platt J, Zucker J, Baldwin M, Hripcsak G, Labella A, Manson DK, Kubin C, Barr RG, Sobieszczyk ME, Schluger NW. Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19. N Engl J Med. 2020 Jun 18;382(25):2411-2418. doi: 10.1056/NEJMoa2012410. Epub 2020 May 7.</citation>
+    <PMID>32379955</PMID>
+  </reference>
+  <reference>
+    <citation>Xiao F, Tang M, Zheng X, Liu Y, Li X, Shan H. Evidence for Gastrointestinal Infection of SARS-CoV-2. Gastroenterology. 2020 May;158(6):1831-1833.e3. doi: 10.1053/j.gastro.2020.02.055. Epub 2020 Mar 3.</citation>
+    <PMID>32142773</PMID>
+  </reference>
+  <reference>
+    <citation>Center for Disease Control. CDC Covid-19 data tracker. https://www.cdc.gov/covid-data-tracker/index.html#cases. Accessed March 7, 2020.</citation>
+  </reference>
+  <results_reference>
+    <citation>Beigel JH, Tomashek KM, Dodd LE, Mehta AK, Zingman BS, Kalil AC, Hohmann E, Chu HY, Luetkemeyer A, Kline S, Lopez de Castilla D, Finberg RW, Dierberg K, Tapson V, Hsieh L, Patterson TF, Paredes R, Sweeney DA, Short WR, Touloumi G, Lye DC, Ohmagari N, Oh MD, Ruiz-Palacios GM, Benfield T, Fätkenheuer G, Kortepeter MG, Atmar RL, Creech CB, Lundgren J, Babiker AG, Pett S, Neaton JD, Burgess TH, Bonnett T, Green M, Makowski M, Osinusi A, Nayak S, Lane HC; ACTT-1 Study Group Members. Remdesivir for the Treatment of Covid-19 - Preliminary Report. N Engl J Med. 2020 May 22. doi: 10.1056/NEJMoa2007764. [Epub ahead of print]</citation>
+    <PMID>32445440</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Brueckner RP, Lasseter KC, Lin ET, Schuster BG. First-time-in-humans safety and pharmacokinetics of WR 238605, a new antimalarial. Am J Trop Med Hyg. 1998 May;58(5):645-9.</citation>
+    <PMID>9598455</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Crisafulli E, Clini EM. Measures of dyspnea in pulmonary rehabilitation. Multidiscip Respir Med. 2010 Jun 30;5(3):202-10. doi: 10.1186/2049-6958-5-3-202.</citation>
+    <PMID>22958431</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Dow GS, Luttick A, Fenner J, Wesche D, Yeo KR, Rayner C. Tafenoquine inhibits replication of SARS-Cov-2 at pharmacologically relevant concentrations in vitro. bioRxiv. January 2020:2020.07.12.199059. doi:10.1101/2020.07.12.199059</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Jia HP, Look DC, Shi L, Hickey M, Pewe L, Netland J, Farzan M, Wohlford-Lenane C, Perlman S, McCray PB Jr. ACE2 receptor expression and severe acute respiratory syndrome coronavirus infection depend on differentiation of human airway epithelia. J Virol. 2005 Dec;79(23):14614-21.</citation>
+    <PMID>16282461</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Skipper CP, Pastick KA, Engen NW, Bangdiwala AS, Abassi M, Lofgren SM, Williams DA, Okafor EC, Pullen MF, Nicol MR, Nascene AA, Hullsiek KH, Cheng MP, Luke D, Lother SA, MacKenzie LJ, Drobot G, Kelly LE, Schwartz IS, Zarychanski R, McDonald EG, Lee TC, Rajasingham R, Boulware DR. Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19: A Randomized Trial. Ann Intern Med. 2020 Jul 16. doi: 10.7326/M20-4207. [Epub ahead of print]</citation>
+    <PMID>32673060</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Velavan TP, Meyer CG. The COVID-19 epidemic. Trop Med Int Health. 2020 Mar;25(3):278-280. doi: 10.1111/tmi.13383. Epub 2020 Feb 16.</citation>
+    <PMID>32052514</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang Y, Zhang D, Du G, Du R, Zhao J, Jin Y, Fu S, Gao L, Cheng Z, Lu Q, Hu Y, Luo G, Wang K, Lu Y, Li H, Wang S, Ruan S, Yang C, Mei C, Wang Y, Ding D, Wu F, Tang X, Ye X, Ye Y, Liu B, Yang J, Yin W, Wang A, Fan G, Zhou F, Liu Z, Gu X, Xu J, Shang L, Zhang Y, Cao L, Guo T, Wan Y, Qin H, Jiang Y, Jaki T, Hayden FG, Horby PW, Cao B, Wang C. Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial. Lancet. 2020 May 16;395(10236):1569-1578. doi: 10.1016/S0140-6736(20)31022-9. Epub 2020 Apr 29. Erratum in: Lancet. 2020 May 30;395(10238):1694.</citation>
+    <PMID>32423584</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Worldometer. Coronavirus Update (Live). https://www.worldometers.info/coronavirus/. Accessed March 7, 2020.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, Si HR, Zhu Y, Li B, Huang CL, Chen HD, Chen J, Luo Y, Guo H, Jiang RD, Liu MQ, Chen Y, Shen XR, Wang X, Zheng XS, Zhao K, Chen QJ, Deng F, Liu LL, Yan B, Zhan FX, Wang YY, Xiao GF, Shi ZL. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020 Mar;579(7798):270-273. doi: 10.1038/s41586-020-2012-7. Epub 2020 Feb 3.</citation>
+    <PMID>32015507</PMID>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 31, 2020</study_first_posted>
+  <last_update_submitted>August 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>mild to moderate COVID 19 disease</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>infectious disease</keyword>
+  <keyword>severe acute respiratory syndrome coronavirus 2</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tafenoquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

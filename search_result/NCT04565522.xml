@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2120">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04565522</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DIAL-COVID-19</org_study_id>
+    <nct_id>NCT04565522</nct_id>
+  </id_info>
+  <brief_title>Transmission of COVID-19 Virus Among Patients and Staff in Dialysis Centers</brief_title>
+  <acronym>DIAL-COVID-19</acronym>
+  <official_title>Transmission of COVID-19 Among Patients and Health Personnel in Dialysis Centers: a Cohort Prospective Study (DIAL-COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Simeone Andrulli, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>A. Manzoni Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients on dialysis are at risk for several infectious diseases, since they have reduced
+      immunological and have to regularly attend dialysis centres even if a pandemic is going on.
+      Dialysis patients and healthcare professionals of dialysis centres can become infected one
+      with the other. The incident risk of COVID-19 in dialysis centres is still unknown.
+
+      Given the challenges of an early diagnosis of COVID-19, the likely transmission with
+      outbreaks, the possibility of reciprocal transmission of the infection among patients and
+      healthcare professionals, the frequent clinical severity of COVID-19 in dialysis patients
+      because of the coexistence of several comorbidities, CONTACT TRACING could be an effective
+      and efficient tool to contrast COVID-19 spreading in dialysis centres.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients on dialysis are at risk for several infectious diseases, since they have reduced
+      immunological and have to regularly attend dialysis centres from once to thrice a week
+      depending on their residual renal function even if a pandemic is going on.
+
+      Dialysis patients and healthcare professionals of dialysis centres can become infected one
+      with the other.
+
+      The incident risk of COVID-19 in dialysis centres is still unknown. Given the challenges of
+      an early diagnosis of COVID-19, the likely transmission with outbreaks, the possibility of
+      reciprocal transmission of the infection among patients and healthcare professionals, the
+      frequent clinical severity of COVID-19 in dialysis patients because of the coexistence of
+      several comorbidities, CONTACT TRACING could be an effective and efficient tool to contrast
+      COVID-19 spreading in dialysis centres. This modality keeps trace of the contacts the new
+      COVID-19 case have had and allow the identification of other possible cases in that outbreak
+
+      Contact tracing is the key tool to detect and trace COVID-19 cases among patients and health
+      care professionals, i.e. the space-time mapping of the contacts among these two categories:
+
+        1. Daily for healthcare professionals
+
+        2. At every dialysis session for haemodialysis patients
+
+        3. At every hospital visit for patients on peritoneal dialysis
+
+      Maximum follow will be up to 12 months excepting in those patients who develop a
+      COVID-19-related clinically significant event:
+
+        1. Diagnosis of symptomatic COVID-19 with or without hospitalisation
+
+        2. Respiratory insufficiency with the need of CPAP or mechanical ventilation
+
+        3. Death associated or related to COVID-19
+
+      In the participating centres, the enrolment of patients and healthcare professionals will be
+      prospective, progressive and competitive till the number of cases of COVD-19 will reach 200
+      subjects. If study participation will be 10% and COVID-19 will be taken by 4% of the patients
+      with no prior exposure to COVID-19, we can estimate to enrol 5000 subjects (dialysis patients
+      and healthcare professionals) over a period of 12 months in 50-150 centres. The length of the
+      enrolment period of 6-12 months will depend also on future evolution of the pandemic in the
+      Italian regions that have not been massively hit by the infection.
+
+      Study data will be stored on a web-database, which will be created on purpose. Privacy
+      protection of patients and health care professionals will be pursued and granted by anonymous
+      data collection.
+
+      Given the longitudinal and prospective design of the study, Kaplan-Meier curves will be used
+      to describe the incidence of COVID-19 infection and the survival of dialysis patients and
+      their healthcare professionals.
+
+      Cox multivariate analysis will be used to:
+
+        1. Estimate the incidence, morbidity and mortality of COVID-19 in the two categories
+
+        2. Estimate predictors and/or confounders associated with the incidence of the three study
+           outcomes (infection, morbidity and mortality)
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 21, 2020</start_date>
+  <completion_date type="Anticipated">October 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>incident risk of COVID-19 infection</measure>
+    <time_frame>1 year</time_frame>
+    <description>incident risk of COVID-19 infection in dialysis patients and in related dialysis healthcare professionals</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the morbidity of COVID-19</measure>
+    <time_frame>1 year</time_frame>
+    <description>Evaluate the morbidity (hospitalisation rate) of COVID-19 in the two subject categories</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the mortality of COVID-19</measure>
+    <time_frame>1 year</time_frame>
+    <description>Evaluate the mortality rate of COVID-19 in the two subject categories</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate the predictive role of comorbidities, inflammation indexes and therapy on the hospitalisation rate</measure>
+    <time_frame>Three months</time_frame>
+    <description>Estimate the predictive role of comorbidities, inflammation indexes and therapy on the hospitalisation rate in the three months after COVID-19 diagnosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate the predictive role of comorbidities, inflammation indexes and therapy on the mortality rate</measure>
+    <time_frame>Three months</time_frame>
+    <description>Estimate the predictive role of comorbidities, inflammation indexes and therapy on the mortality rate in the three months after COVID-19 diagnosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the infective role of dialysis staff towards patients</measure>
+    <time_frame>1 year</time_frame>
+    <description>Evaluate the infective role of dialysis staff towards patients over one year follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the infective role of patients towards dialysis staff</measure>
+    <time_frame>1 year</time_frame>
+    <description>Evaluate the infective role of patients towards dialysis staff over one year follow-up</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Dialysis</condition>
+  <condition>Nurse-Patient Relations</condition>
+  <arm_group>
+    <arm_group_label>Hemodialysis or peritoneal dialysis patients</arm_group_label>
+    <description>Hemodialysis or peritoneal dialysis Covid negative patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>dialysis staff healthcare professionals</arm_group_label>
+    <description>dialysis staff Covid negative healthcare professionals</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Prospective observation</intervention_name>
+    <description>Prospective observation until one year follow-up</description>
+    <arm_group_label>Hemodialysis or peritoneal dialysis patients</arm_group_label>
+    <arm_group_label>dialysis staff healthcare professionals</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        1. Patients on haemodialysis
+
+          2. Patients on peritoneal dialysis
+
+          3. Healthcare professionals in charge of dialysis patients
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. All the patients on haemodialysis or peritoneal dialysis giving their consent to
+             participate
+
+          2. All healthcare professionals in charge of dialysis patients giving their consent to
+             participate
+
+        Exclusion Criteria:
+
+          1. Dialysis patients or healthcare professionals who already have had Covid-19
+
+          2. Patients with kidney transplant
+
+          3. Patients with acute kidney injury (AKI) or on dialysis for less than 3 months
+
+          4. Life expectancy lower than 6 months
+
+          5. Patients already enrolled in other clinical trials
+
+          6. Absence of the consent to participate
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Simeone Andrulli, MD</last_name>
+    <phone>+393472217802</phone>
+    <email>simeone.andrulli@statgate.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>AOU Mater Domini</name>
+      <address>
+        <city>Catanzaro</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>PierAngela Presta, MD</last_name>
+      <email>piera.presta@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <link>
+    <url>http://statgate.it</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 25, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>A. Manzoni Hospital</investigator_affiliation>
+    <investigator_full_name>Simeone Andrulli, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>contact mapping</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

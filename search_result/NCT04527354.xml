@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1948">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527354</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-TRE-03</org_study_id>
+    <nct_id>NCT04527354</nct_id>
+  </id_info>
+  <brief_title>Pilot Study to Assess Efficacy and Safety of Treamid in the Rehabilitation of Patients After COVID-19 Pneumonia</brief_title>
+  <official_title>Multicenter, Randomized, Double-blind, Placebo-controlled Pilot Study of Treamid Efficacy and Safety in the Rehabilitation of Patients After COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>PHARMENTERPRISES LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>PHARMENTERPRISES LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The innovative drug Treamid is planned for use in the rehabilitation of patients after
+      COVID-19 pneumonia in a pilot, multicenter, randomized, double-blind, placebo-controlled
+      Phase II clinical study to assess the efficacy and safety of Treamid, tablets, 50 mg in
+      patients with fibrotic changes in the lungs after COVID-19 pneumonia during a 28-day
+      treatment.
+
+      The primary objective of the study is to demonstrate the efficacy of Treamid tablet, 50 mg in
+      change in forced vital capacity (FVC) and/or diffusing capacity of lung for carbon monoxide
+      (DLCO) at Week 4.
+
+      The secondary objective of the study is to evaluate the safety of Treamid tablet, 50 mg and
+      pharmacokinetics (PK).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      12-15 Russian centers are planned for participation in this pilot study. The study consists
+      of three periods: screening (2 weeks), treatment period (4 weeks) and follow-up period (2
+      weeks after completion of treatment with Treamid / Placebo). The duration of participation in
+      the study for each patient is no more than 8 weeks.
+
+      60 patients with fibrotic changes in the lungs after COVID-19 pneumonia are planned to be
+      randomized. All patients will undergo a qualitative determination of coronavirus severe acute
+      respiratory syndrome coronavirus 2 (SARS-CoV-2) by polymerase chain reaction (PCR). Patients
+      will be evaluated using the Modified British Medical Research Council (mMRC) Dyspnea Scale,
+      chest computed tomography (CT), spirometry and body plethysmography with determination of
+      DLCO. This examination should be conducted as close as possible to the expected randomization
+      date (no earlier than 5 days before). All eligible patients will be randomized into 2 groups
+      in a 1:1 ratio: Treamid 50 mg daily (30 patients); Placebo (30 patients).
+
+      During the treatment period (4 weeks), patients will receive 1 tablet Treamid / Placebo once
+      a day. Patients will be advised to continue the standard program of medical rehabilitation
+      under day inpatient or outpatient conditions (stage 3 according to the Interim Guidelines for
+      Medical Rehabilitation after New Coronavirus Infection (COVID-19), 2020.
+
+      Patients will visit the study center once a week. At the Week 1, Week 2 and Week 3 visits,
+      Adverse events (AEs) and concomitant therapy, investigational drug registration, body weight,
+      vital signs and Oxygen saturation (SpO2) scores, mMRC dyspnea score and spirometry will be
+      recorded.
+
+      During the Week 2 visit, physical examination, electrocardiography (ECG), complete blood
+      count (CBC) and biochemical blood test, PK study, common urine analysis, bodyplethysmography
+      with DLCO will also be conducted. Patients will complete the KBILD questionnaire. Also, the
+      patients will undergo a 6-minute walk test to measure the distance the patient walks for 6
+      minutes and evaluate using the Borg Scale. At the Week 4 visit (the end of the therapy),
+      registration of AEs and concomitant therapy, physical examination, measurement of height,
+      body weight, vital signs and SpO2, ECG, CBC and biochemical blood tests, PK study and common
+      urine analysis will be conducted. Patients will be evaluated using the mMRC Dyspnea Scale,
+      chest CT, spirometry and body plethysmography with determination of DLCO. Patients will
+      complete the King's Brief Interstitial Lung Disease Questionnaire (KBILD) followed by a
+      6-minute walk test to measure the distance the patient walks for 6 minutes and evaluate using
+      the Borg Scale.
+
+      Patient follow-up will continue for another 2 weeks. At the Week 6 visit, registration of AEs
+      and concomitant therapy, physical examination, measurement of height, body weight, vital
+      signs and SpO2, ECG, mMRC dyspnea score, CBC and biochemical blood tests, and common urine
+      analysis will be conducted.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 8, 2020</start_date>
+  <completion_date type="Anticipated">November 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>A blind will be performed by using Placebo equivalent to Treamid tablets without active substance and the corresponding labeling of the study drug.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of clinically significant change in FVC and/or DLCO at Week 4 relative to the baseline value</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+    <description>Clinically significant changes include a relative ≥ 10% increase in FVC or a relative increase in FVC within the range from ≥ 5% to &lt;10% and a relative ≥ 15% in DLCO</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in distance covered for 6 minutes (6MWD) at Weeks 2 and 4 from the baseline value (based on 6-minute walk test)</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the score of the Borg scale at Weeks 2 and 4 from the baseline value (based on the 6-minute walk test)</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in forced expiratory volume for the first second (FEV1) according to spirometry data at Weeks 1, 2, 3 and 4 relative to the baseline values</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in FVC according to spirometry data at Weeks 1, 2, 3 and 4 relative to the baseline values</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in FEV1/FVC according to spirometry data at Weeks 1, 2, 3 and 4 relative to the baseline values</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in DLCO according to bodyplethysmography at Week 2 and Week 4 relative to baseline values</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Total Lung Capacity (TLC) according to bodyplethysmography at Week 2 and Week 4 relative to baseline values</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Functional Residual Capacity (FRC) according to bodyplethysmography at Week 2 and Week 4 relative to baseline values</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The rate of reduction in the lung damage degree based on the computed tomography (CT) at Week 4 relative to the baseline value</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+    <description>Classification of lung damage includes the following stages: CT-0 (norm), CT-1 (&lt; 25% of lung damage), CT-2 (25-50% of lung damage), CT-3 (50-75% of lung damage), CT-4 (&gt; 75% of lung damage)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in mMRC Dyspnea Score in Week 1, Week 2, Week 3, and Week 4 from the baseline value</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the overall score of the KBILD Questionnaire at Week 2 and Week 4 relative to the baseline value</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>The rate of adverse events (AEs)</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>The rate of serious adverse events (SAEs)</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Residual concentration Ctrough of the active substance of Treamid</measure>
+    <time_frame>Day 1- Day 28</time_frame>
+    <description>Blood sampling for the PK study of the parameter Сtrough will be performed for all patients prior to administration of the Treamid / Placebo at Week 0, Week 2, and Week 4 visits.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>Fibrosis Lung</condition>
+  <arm_group>
+    <arm_group_label>Treamid 50 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 tablet of Treamid 50 mg once a day during 4 weeks of treatment period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>1 tablet of Placebo once a day during 4 weeks of treatment period</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Treamid</intervention_name>
+    <description>Participants will receive Treamid 50 mg once a day during 4 weeks</description>
+    <arm_group_label>Treamid 50 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants will receive Placebo once a day during 4 weeks</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Signed patient explanation sheet and informed consent for participation in the study.
+
+          2. Men and women at the age from 18 through 75 years old.
+
+          3. Fibrous changes in the lungs after COVID-19 pneumonia:
+
+               1. COVID-19 diagnosis in the past medical history confirmed by positive qualitative
+                  analysis of SARS-CoV-2 RNA by PCR method;
+
+               2. The first symptoms of COVID-19 appear no earlier than 2 months before the
+                  screening visit;
+
+               3. Fibrous changes in the lungs characteristic for COVID-19 confirmed by the chest
+                  CT scan at screening visit.
+
+          4. Negative COVID-19 screening test (confirmed).
+
+          5. Severity grade 2 (moderate) or 3 (severe) according to the mMRC Dyspnea Scale at the
+             screening and randomization visits.
+
+          6. Decreased lung function FVC and/or DLCO &lt;80% of the predicted value at the screening
+             visit.
+
+          7. The patient's consent to use adequate contraception methods during the entire study
+             and within 3 months after its completion. The adequate contraception methods include
+             the use of the following:
+
+               -  oral or transdermal contraceptives;
+
+               -  condom or diaphragm (barrier method) with spermicide;
+
+               -  intrauterine device.
+
+        Exclusion Criteria:
+
+          1. Pregnant or breastfeeding women, or women planning pregnancy during the clinical
+             study; women with childbearing potential (including those who have not been sterilized
+             by surgery and in the postmenopausal period for less than 2 years) who do not use
+             adequate contraception methods.
+
+          2. The use of invasive artificial lung ventilation (iALV), plasma transfusion (including
+             plasma of convalescents) and other blood components during therapy against COVID-19.
+
+          3. Chronic airway disease in the past medical history, including idiopathic pulmonary
+             fibrosis (IPF), bronchial asthma, chronic obstructive pulmonary disease (COPD), or
+             pulmonary hypertension, diagnosed before COVID-19.
+
+          4. Significant cardiovascular diseases at present time or during 6 months prior to the
+             screening, including: chronic heart failure class III or IV (according to the New York
+             Heart Association classification), clinically significant ventricular arrhythmias
+             (ventricular tachycardia, ventricular fibrillation), unstable angina, myocardial
+             infarction, heart and coronary surgery, significant heart valves disease, uncontrolled
+             hypertension with systolic blood pressure&gt; 180 mm Hg and diastolic blood pressure&gt; 110
+             mm Hg, thromboembolia of the pulmonary artery or deep vein thrombosis
+
+          5. Nephrotic syndrome, moderate to severe chronic renal failure, or significant kidney
+             disease with a glomerular filtration rate (GFR) &lt;60 ml/min at the screening visit.
+
+          6. Cirrhosis of the liver in the past medical history; increase in alanine
+             aminotransferase (ALT) and/or aspartate aminotransferase (AST) by 3 or more times from
+             the upper normal level (UNL) at the screening visit; an increase in the total
+             bilirubin level by 2 or more times from UNL at the screening visit.
+
+          7. Hemoglobin level &lt;90 g/L at the screening visit.
+
+          8. Severe diseases of the central nervous system, including seizures or conditions in the
+             past medical history that can cause their development; stroke or transient ischemic
+             attack within 6 months prior to the screening visit; traumatic brain injury or loss of
+             consciousness within 6 months prior to the screening visit; a brain tumor.
+
+          9. Signs of severe uncontrolled intercurrent disease, such as disorders of the nervous
+             system, kidney, liver, endocrine system and gastrointestinal tract, which, in the
+             opinion of the Investigator, could interfere with the patient's participation in the
+             study.
+
+         10. Malignant neoplasms requiring chemotherapy treatment within 6 months prior to the
+             screening visit.
+
+         11. HIV infection in the past-medical history.
+
+         12. Prostate cancer or benign prostatic hyperplasia (BPH) with residual urine volume of
+             more than 100 ml in the past medical history of men.
+
+         13. Hypersensitivity or intolerance to any component of the investigated drug.
+
+         14. Participation in other clinical studies within 2 months prior to the screening visit.
+
+         15. Administration of the following medications: bronchodilators, anticholinergics,
+             corticosteroids, cytostatics, colchicine, cyclosporin A, interferon-γ-1b, bosentan,
+             macitentan, etanercept, sildenafil, imatinib, n-acetylcysteine, warfarin, ambrisentan,
+             nintedanib, pirfenidone 1 month prior to the screening visit.
+
+         16. Inability to read or write; unwillingness to understand and follow the procedures of
+             the study protocol; noncompliance with the drugs administration or procedures
+             schedule, which according to the researchers may affect the study results or the
+             patient safety and prevent the further participation of the patient in the study; any
+             other associated medical or serious mental conditions that make the patient inadequate
+             for participation in the clinical study and restrict the validity of informed consent
+             or may affect the patient's ability to participate in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>State Federal-Funded Educational Institution of Higher Professional Training &quot;Kazan State Medical University&quot; of the Ministry of Health Care and Social Development of the Russian Federation</name>
+      <address>
+        <city>Kazan</city>
+        <zip>420012</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alexander Wiesel, MD, PhD, Prof.</last_name>
+      <phone>+7 843 2997075</phone>
+      <email>lordara@inbox.ru</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State-Funded Research Institution &quot;Research Institute of Complex Cardiovascular Diseases&quot;</name>
+      <address>
+        <city>Kemerovo</city>
+        <zip>650002</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Evgeniy Bazdyrev, MD, PhD</last_name>
+      <phone>+7 3842 341902</phone>
+      <email>edb624@mail.ru</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Federal-Funded Educational Institution of Higher Professional Training &quot;Kemerovo State Medical University&quot; of the Ministry of Healthcare of the Russian Federation</name>
+      <address>
+        <city>Kemerovo</city>
+        <zip>650029</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olga Barbarash, MD, PhD, Prof.</last_name>
+      <phone>+7 3842 643279</phone>
+      <email>olb61@mail.ru</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SBEI HPE The First Moscow State Medical University n.a. Sechenov of Ministry of Health of Russian Federation, University Hospital #2, Department of Development of New Medicines</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119435</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elena Smolyarchuk, MD, PhD</last_name>
+      <phone>+7 499 2450468</phone>
+      <email>smolyarchuk@mail.ru</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Federal-Funded Institution of Health Care of the city of Moscow &quot;City Clinical Hospital named after M.E. Zhadkevich of the Moscow City Health Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <zip>121374</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Svetlana Berns, MD, PhD, Prof.</last_name>
+      <phone>+7 495 7376232</phone>
+      <email>svberns@yandex.ru</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Moscow State Medical-Dentist University n.a. A.I. Evdokimov on basis of SMHI &quot;City Hospital № 62&quot;, branch 5</name>
+      <address>
+        <city>Moscow</city>
+        <zip>121552</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kirill Zykov, MD, PhD, Prof.</last_name>
+      <phone>+7 495 440 2093</phone>
+      <email>kirillaz@inbox.ru</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Institution of Healthcare &quot;Leningrad region Clinical Hospital&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>194291</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Svetlana Ermolova, MD</last_name>
+      <phone>+7 812 592 3702</phone>
+      <email>light158@mail.ru</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Federal-Funded Educational Institution of Higher Professional Training &quot;Saratov State Medical University named after V.I. Razumovsky&quot; of the Ministry of Healthcare of the Russian Federation</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410012</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Yuri Schwartz, MD, PhD, Prof.</last_name>
+      <phone>+7 8452 560295</phone>
+      <email>schwartz58@yandex.ru</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Federal-Funded Institution of Health Care &quot;Republican Clinical Hospital named after G.G. Kuvatov&quot;</name>
+      <address>
+        <city>Ufa</city>
+        <zip>450005</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lilia Kozyreva, MD, PhD</last_name>
+      <phone>+7 347 2722385</phone>
+      <email>liliko.65@mail.ru</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Federal-Funded Educational Institution of Higher Professional Training &quot;Bashkir State Medical University&quot; of the Ministry of Healthcare of the Russian Federation</name>
+      <address>
+        <city>Ufa</city>
+        <zip>450083</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Bulat Bakirov, MD, PhD</last_name>
+      <phone>+7 347 2353223</phone>
+      <email>bakirovb@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State Federal-Funded Educational Institution of Higher Professional Training &quot;Volgograd State Medical University&quot; of the Ministry of Healthcare of the Russian Federation</name>
+      <address>
+        <city>Volgograd</city>
+        <zip>400131</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olga Magnitskaya, MD, PhD</last_name>
+      <phone>+7 8442 534016</phone>
+      <email>magol73@yandex.ru</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>State autonomous healthcare institution of Yaroslavl Region &quot;Сlinical hospital for emergency medical care n. a. N.V. Solovyov&quot;</name>
+      <address>
+        <city>Yaroslavl</city>
+        <zip>150003</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vladimir Yakusevich, MD, PhD, Prof.</last_name>
+      <phone>+7 4852 732587</phone>
+      <email>yakusevich@yandex.ru</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Rehabilitation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3211">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04540939</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00152509-COVID Substudy</org_study_id>
+    <secondary_id>1R61AT009867</secondary_id>
+    <nct_id>NCT04540939</nct_id>
+  </id_info>
+  <brief_title>Neural Mechanisms of Mindfulness-based Cognitive Therapy (MBCT) for Posttraumatic Stress Disorder (PTSD) - COVID Related Substudy</brief_title>
+  <official_title>Neural Mechanisms of Mindfulness-based Cognitive Therapy (MBCT) for Posttraumatic Stress Disorder (PTSD) - COVID Related Substudy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Center for Complementary and Integrative Health (NCCIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial is a sub-study to treat participants that were not eligible in the main
+      study (HUM00152509/NCT03874793) to receive MBCT or MRT in hard hit COVID-19 areas with trauma
+      history and current COVID-related distress.
+
+      The purpose of this treatment-only sub-study is to see how eligible participants with life
+      history of any trauma and are currently experiencing elevated COVID-related stress are
+      affected by two different PTSD therapies involving Mind-Body practices; Mindfulness based
+      Cognitive Therapy (MBCT) and Muscle Relaxation Therapy.
+
+      The targeted individuals will reside in areas (Washtenaw, Wayne, and Oakland counties in
+      Michigan, etc.) that have been affected by COVID-19. Participants will have assessments
+      before and after 8 weeks of therapy (remote MBCT or MRT).
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+    <masking_description>Statistician will not know the group assignment until blind is broken. Statistician randomizes the groups. Principal investigator will not know group assignment until blind is broken.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient-Reported Outcomes Measurement Information System (PROMIS-adult short form level 2) Anxiety survey</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>This Anxiety-Adult measure 7-item PROMIS Anxiety Short Form assesses the pure domain of anxiety in individuals age 18 and older. The participants will select how often they have been bothered by symptoms during the past 7 days from 1=never to 5=always (the higher the score the more anxiety).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Penn State Worry Questionnaire (PSWQ-16) Worry survey</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>The PSWQ is a well-validated self-administered, 16-item, Likert-type scale designed to measure worry. Possible range of scores is 16-80 with the algorithm of Total scores: 16-34 Low Worry, 35-59 Moderate, and 60-80 High Worry.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PROMIS (adult short form) Emotional Depression survey</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>This is an 8 question survey where participants will select answers of 1= Never to 5= always. The higher the score the greater severity of depression.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Working Alliance Inventory- short revised (WAI-SR)</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>This is a 12-item measure that assesses therapy clients' perception of working alliance with their therapists, developed by Adam Horvath with 3 factors of shared goals, tasks, and personal bond / regard. The participants select from Seldom= 1, Sometimes=2, Fairly often =3, Very often = 4, and Always = 5. The higher the score the higher working alliance.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patient-Reported Outcomes Measurement Information System (PROMIS-adult short form level 2) Anxiety survey group differences (MBCT and PMR)</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>This Anxiety-Adult measure 7-item PROMIS Anxiety Short Form assesses the pure domain of anxiety in individuals age 18 and older. The participants will select how often they have been bothered by symptoms during the past 7 days from 1=never to 5=always (the higher the score the more anxiety). This will look at the group differences between MBCT and PMR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Penn State Worry Questionnaire (PSWQ-16) Worry survey group differences (MBCT and PMR)</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>The PSWQ is a well-validated self-administered, 16-item, Likert-type scale designed to measure worry. Possible range of scores is 16-80 with the algorithm of Total scores: 16-34 Low Worry, 35-59 Moderate, and 60-80 High Worry. This will look at the group differences between MBCT and PMR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PROMIS (adult short form) Emotional Depression survey group differences (MBCT and PMR)</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>This is an 8 question survey where participants will select answers of 1= Never to 5= always. The higher the score the greater severity of depression. This will look at the group differences between MBCT and PMR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Working Alliance Inventory- short revised (WAI-SR) group differences (MBCT and PMR)</measure>
+    <time_frame>up to 8 weeks</time_frame>
+    <description>This is a 12-item measure that assesses therapy clients' perception of working alliance with their therapists, developed by Adam Horvath with 3 factors of shared goals, tasks, and personal bond / regard. The participants select from Seldom= 1, Sometimes=2, Fairly often =3, Very often = 4, and Always = 5. The higher the score the higher working alliance.This will look at the group differences between MBCT and PMR.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Trauma</condition>
+  <arm_group>
+    <arm_group_label>Mindfulness-Based Cognitive Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Muscle Relaxation Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Mindfulness-Based Cognitive Therapy</intervention_name>
+    <description>There will be 8 sessions and these will be approximately 2 hours long. Over the 8-weeks participants will learn several mindfulness meditation techniques. Each session will involve group discussion and feedback. Participants will be asked to practice these techniques at home, and keep a log of mood, and stress ratings.
+Audio files with exercises will be given to participants so that they can practice at home between sessions.</description>
+    <arm_group_label>Mindfulness-Based Cognitive Therapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Muscle Relaxation Therapy</intervention_name>
+    <description>Each MR session is approximately 2 hours. Over the 8-weeks you will learn how to relax your body using a step-by-step process in which you alternate between squeezing and relaxing your muscles. You will learn about your body's natural response to stress and how to use muscle relaxation during your everyday life. Each session will also involve group discussion and feedback. You will be asked to practice these techniques at home, and keep a log of your mood, and stress ratings. You will receive audio files with exercises so you can practice at home between sessions.</description>
+    <arm_group_label>Muscle Relaxation Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  COVID distress sample: resides in geographical area heavily impacted by COVID-19 have
+             a history of trauma
+
+          -  Has current elevated levels of COVID related stress and/or distress (worry, repetitive
+             negative thinking) (COVID stress scale score &gt; 15, worry / repetitive negative
+             thinking, Penn State Worry Questionnaire (PSWQ) score &gt;35 ).
+
+        Exclusion Criteria:
+
+          -  Dissociative PTSD
+
+          -  Delayed-onset PTSD
+
+          -  Suicide risk
+
+          -  Psychosis
+
+          -  Life history of schizophrenia
+
+          -  Life history of bipolar disorder
+
+          -  Current substance dependence
+
+          -  Other factors that preclude safe and meaningful participation in the study, at
+             discretion of the PI and study team
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>72 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony King, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jung Park</last_name>
+    <phone>734-615-5249</phone>
+    <email>jungp@med.umich.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anthony King, Ph.D.</last_name>
+    <phone>734-936-4955</phone>
+    <email>samadhi@med.umich.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48170</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jung Park</last_name>
+      <phone>734-615-5249</phone>
+      <email>jungp@umich.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 7, 2020</study_first_posted>
+  <last_update_submitted>October 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Anthony King</investigator_full_name>
+    <investigator_title>Assistant Professor of Psychiatry, Medical School and Faculty Associate, Research Center for Group Dynamics, Institute for Social Research</investigator_title>
+  </responsible_party>
+  <keyword>Mindfulness-Based Cognitive Therapy</keyword>
+  <keyword>Muscle Relaxation</keyword>
+  <keyword>Group Psychotherapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We plan to make available data from human subjects initially to collaborators for independent replication / data pooling. Completely de-identified research data (redacted according to NIH practice to prevent disclosure of personal identifiers) which documents the research findings will be made available after the main findings from the finalized research dataset have been accepted for publication.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Within 36 months of completion of the project.</ipd_time_frame>
+    <ipd_access_criteria>Access to data generated by the project will be available for educational, research and non-profit purposes to researchers who provide a methodologically sound proposal. Data generated under this project will be administered in accordance with NIH Sharing policies, including NIH Policy on Dissemination of NIH-Funded Clinical Trial Information (8/2016), and the NIH Grants Policy Statement (Availability of Research Results) (11/2015). Depending on such NIH policies, Data generated by this project may be available for educational, research or non-commercial purposes under the terms of a data use agreement. Data will be stored in an established data repository (e.g. Inter-university Consortium for Political and Social Research (ICPSR): icpsr.umich.edu) with appropriate provisions for curation and longterm preservation.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

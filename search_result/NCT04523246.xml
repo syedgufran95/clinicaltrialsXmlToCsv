@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3238">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04523246</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OUHSC IRB#12394</org_study_id>
+    <nct_id>NCT04523246</nct_id>
+  </id_info>
+  <brief_title>Training the Innate Immune System Against SARS-CoV-2 (COVID-19) Using the Shingrix Vaccine in Nursing Home Residents</brief_title>
+  <acronym>NH-Shingrix</acronym>
+  <official_title>Training the Innate Immune System Against SARS-CoV-2 (COVID-19) Using the Shingrix Vaccine in Nursing Home Residents: A Randomized, Doubled-Blinded, Comparative Group Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Barbara Carlson</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Oklahoma Medical Research Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Oklahoma</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to measure the effect of the Shingrix vaccine on your immune
+      system and whether that has any effect on the body's ability to fight off other infections
+      such as COVID-19. We hypothesize that:
+
+      H1: Shingrix vaccination will elevate acute and trained immunity
+
+      H2: For 6 months following the first injection, increased levels of acute and trained
+      immunity is associated with less disease, including fewer hospitalizations and deaths
+      associated with flu, pneumonia, and COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this pilot study is to provide preliminary data in support of the concept that
+      training of the innate immune system occurs following immunization (2 doses, 2 months apart)
+      with the Shingrix vaccine as compared to placebo (normal saline) in older adults residing in
+      nursing homes. Two hundred nursing home residents, both men and women, aged &gt;65 years, who
+      have not acquired COVID-19 (verified through a screening questionnaire and by both viral
+      antigen and antibody testing at the screen and least one week before the first injection)
+      will get two intramuscular injections containing either the Shingrix vaccine, and the other
+      half, two injections containing a normal saline (placebo comparison) approximately two months
+      apart. Blood samples are collected before the baseline injection (day zero), 1 day after the
+      second injection (61 days post) and 1 month following the second injection (90 days). Weekly
+      symptom checks and monthly antibody testing around day 180- will identify residents with
+      COVID-19 and the severity of COVID-19 symptoms.
+
+      The primary outcome is the difference in immune cell capacity to produce type I interferon,
+      interferon associated molecules, and proinflammatory mediators after receiving a 2 injection
+      series of the Shingrix vaccine versus normal saline. Secondary outcomes include differences
+      in hospitalization, pulmonary infections, and positive COVID-19 cases (via antibody testing
+      on days 60, 90, and 180) in the Shingrix and normal saline groups. We anticipate that
+      residents receiving the Shingrix vaccine will demonstrate signs of &quot;trained&quot; immunity
+      compared to a control group receiving saline injections.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Two hundred nursing home residents, both men and women, aged &gt;65 years, who have not acquired COVID-19 (verified through a screening questionnaire and by both viral antigen and antibody testing at the screen and least one week before the first injection) will get two intramuscular injections containing either the Shingrix vaccine, and the other half, two injections containing a normal saline (comparison) approximately two months apart. Blood samples are collected before the baseline injection (day zero), 1 day after the second injection (61 days post) and 1 month following the second injection (90 days). Weekly symptom checks and monthly antibody testing around day 180- will identify residents with COVID-19 and the severity of COVID-19 symptoms.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Blinding is done to ensure staff and residents do not modify reports or reporting of COVID symptoms and to minimize other behaviors (such as sleeping, eating habits, physical activity) that may affect their innate immune system. It will also serve to minimize any bias in the processing/analysis of samples and the interpretation of the study results.
+During the conduct of the study, only three people (the statistician and 2 research nurses who will reconstitute, draw up, and administer the injections) will have knowledge of the group assignments. Participants, the staff at the nursing home, the staff collecting the COVID symptom data, and study investigators are blinded to the subject assignments.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evidenced of active and trained innate immunity</measure>
+    <time_frame>Day 61 and 90 (post vaccination)</time_frame>
+    <description>The primary outcome is change in the release of Type I interferon, interferon gamma, interferon associated molecules, and proinflammatory mediators released from monocytes/macrophages and natural killer cells (including gene activation) after receiving 2 injections of the Shingrix vaccine versus normal saline.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory Disease Severity (6 month)</measure>
+    <time_frame>Days 90 through 180</time_frame>
+    <description>cases ( nasal swab for viral antigen and antibody testing), symptoms (symptom checklist), hospitalizations (MDS 3.0 report/chart reviews) and deaths (MDS 3.0 report/chart reviews) associated with flu, pneumonia, and COVID-19.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Herpes Zoster</condition>
+  <condition>Allergy and Immunology</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Shingrix</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Shingrix Dosage: two .5 ml injections into the deltoid muscle, administered 2 months apart (Day 0 and Day 60).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Normal Saline</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Sterile Normal Saline Solution, two .5 ml injections into the deltoid muscle, administered 2 months apart (Day 0 and Day 60)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SHINGRIX (Zoster Vaccine REcombinant, Adjuvanted)</intervention_name>
+    <description>The Shingrix vaccine is a subunit vaccine that contains the recombinant varicella zoster virus (VZV) glycoprotein E (gE), adjuvanted with the proprietary Adjuvant System (AS01B). The AS01B Adjuvant system consists of two immune-stimulants, the saponin, Quillaja saponaria Molina, fraction 21 (QS21), and the TLR4 agonist, MPL (3-O-desacyl-40-MPL) that enhance the release of interferon gamma (IFNϒ), which in turn stimulates activation and recruitment of blood monocyte-derived and resident lymph node dendritic cells to take up and present gE to cluster of differentiation 4 (CD4+) T cells.</description>
+    <arm_group_label>Shingrix</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Normal Saline</intervention_name>
+    <description>Sterile normal saline, inactive control.</description>
+    <arm_group_label>Normal Saline</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Meet Centers for Medicare and Medicaid definition for Long term care resident.
+
+          2. 65 years and older.
+
+          3. Have already received or provide consent to receive the 2020 flu vaccine.
+
+          4. Negative screen (within the last 2 weeks) for COVID 19 virus.
+
+          5. Has a history of chickenpox or shingles.
+
+          6. Able to read and speak English.
+
+          7. Able to provide informed consent and assent (with guardian/health care proxy).
+
+        Exclusion Criteria:
+
+          1. Brief Interview of Mental Status (BIMS) score &lt;8 (indicating severe dementia).
+
+          2. Prior vaccination with the Shingrix.
+
+          3. Positive test for COVID 19 or prior history of COVID 19 infection.
+
+          4. Conditions that confound the interpretation of the innate immune measures. (i.e.
+             Terminal condition, receiving hospice, Stage 3 and 4 open wound, Chemotherapy, immune
+             modulators or other immunosuppressants, autoimmune disorders, and BMI &lt; 20 kg/m2).
+
+          5. Conditions that confound interpretation of respiratory symptoms. (i.e Ventilator
+             dependent, receiving more that 2-3 liters/min of oxygen by nasal cannula, chronic
+             diarrhea, recurrent infections).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Barbara W. Carlson, RN, Ph.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Professor, University of Oklahoma Health Sciences Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Barbara W. Carlson, RN, Ph.D.</last_name>
+    <phone>405-271-1491</phone>
+    <phone_ext>49187</phone_ext>
+    <email>Barbara-Carlson@ouhsc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Diana L Sturdevant, RN, Ph.D.</last_name>
+    <phone>918-429-8952</phone>
+    <email>Diana-Sturdevant@ouhsc.edu</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 21, 2020</study_first_posted>
+  <last_update_submitted>August 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Oklahoma</investigator_affiliation>
+    <investigator_full_name>Barbara Carlson</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Herpes Zoster</keyword>
+  <keyword>corona virus infection</keyword>
+  <keyword>allergy and immunology</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+    <mesh_term>Herpes Zoster</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3480">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04530448</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WVU Protocol #2005006707</org_study_id>
+    <nct_id>NCT04530448</nct_id>
+  </id_info>
+  <brief_title>Coronavirus Induced Acute Kidney Injury: Prevention Using Urine Alkalinization</brief_title>
+  <official_title>Coronavirus Induced Acute Kidney Injury: Prevention Using Urine Alkalinization</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>West Virginia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>West Virginia University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Our overarching goal is to improve the outcomes of critically ill COVID-19 patients with or
+      at risk for development of acute kidney injury (AKI). The objective of this study is to
+      determine the role of a protocol to manage urine alkalization using a simple medication that
+      has been used for a very long time, is safe, and without significant side-effects. We aim to
+      determine the feasibility and safety of a urine alkalinization protocol for the prevention of
+      AKI in patients testing positive for COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Emerging evidence suggests that acute kidney injury (AKI) secondary to COVID-19 (COV-AKI)
+      might result from direct infection of renal tubule epithelial cells (RTEC). A variety of
+      epithelial cells express the ACE2 receptor which contains the receptor-binding domain (RBD)
+      used by SARS-CoV-1 and SARS-CoV-2 to enter the cells. While direct infection of RTEC has not
+      yet been proven data from multiple laboratories show virus in the kidney. It is this direct
+      viral involvement of the RTEC that this proposal seeks to address.
+
+      One relatively simple approach would be to perturb the ability of the RBD to bind to its
+      cellular (hACE2) receptor. Changes in pH may cause each amino acid residue, in the RBD, to
+      assume a slightly different 'microscopic' conformation-dependent pKa value. Urine pH is
+      normally 5.5- 6.5 (not too dissimilar to alveolar fluid-6.4-6.86) and can be easily and
+      safely manipulated. In fact, urine alkalinization protocols have been used for decades to
+      reduce renal toxicity from various compounds (especially chemotherapy) and are recommended by
+      US and European toxicology societies. Here, the strategy will be deployed not for ion
+      trapping but to inhibit the virus from infecting RTEC. Alkalinizing the urine using IV
+      sodium-bicarbonate solution to pH of 7.5 or more can be easily and safely achieved.
+
+      While severe AKI does not appear to be a major part of the SARS-CoV-2 syndrome for most
+      patients, when severe AKI does occur, mortality is very high and preventing early AKI may
+      reduce AKI severity as the disease progresses.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 30, 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Group 1 (control) will receive standard of care treatment for coronavirus according to institutional protocols.
+Group 2 (treatment) will receive sodium bicarbonate 225 mEq (225 mL of an 8.4% solution) intravenously over 1 hour.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>pH</measure>
+    <time_frame>10 days</time_frame>
+    <description>Primary feasibility outcome will be the proportion of patients treated who achieve &gt;50% of urine measurements pH ≥= 7.2 over the duration of treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Days Alive Free of Stage 2-3 AKI</measure>
+    <time_frame>28 days post-treatment</time_frame>
+    <description>Primary efficacy outcome will be the number of days alive and free of stage 2-3 AKI (up to 28) in each group.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stage 2-3 AKI</measure>
+    <time_frame>28 days</time_frame>
+    <description>proportion of patients developing stage 2-3 AKI (or stage 3 if already at stage 2 at enrollment).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vent-Free</measure>
+    <time_frame>28 days</time_frame>
+    <description>Ventilator-free days to 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-Free</measure>
+    <time_frame>60 days post-index hospitalization</time_frame>
+    <description>Hospital-free days to 60 days</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID</condition>
+  <condition>Coronavirus</condition>
+  <condition>Coronavirus Infection</condition>
+  <condition>AKI</condition>
+  <condition>Acute Kidney Injury</condition>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard of Care treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sodium Bicarbonate</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Sodium bicarbonate 225 mEq (225 mL of an 8.4% solution) intravenously over 1 hour. Sodium bicarbonate 8.4% solution should not exceed 900 ml (4 boluses) in 24 hours.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium bicarbonate</intervention_name>
+    <description>Sodium bicarbonate 225 mEq (225 mL of an 8.4% solution) intravenously over 1 hour. Sodium bicarbonate 8.4% solution should not exceed 900 ml (4 boluses) in 24 hours.</description>
+    <arm_group_label>Sodium Bicarbonate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Standard of Care treatment</description>
+    <arm_group_label>Standard of Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Confirmed COVID-19 positive
+
+          -  Admission to ICU or step-down unit
+
+          -  Age ≥ 18 years old
+
+        Exclusion Criteria:
+
+          -  Stage 3 AKI by KDIGO criteria
+
+          -  CKD stage 4-5
+
+          -  Contraindications to Na bicarbonate therapy (e.g. met. alkalosis, severe heart
+             failure)
+
+          -  Urine pH &gt; 7.0
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ankit Sakhuja, MD</last_name>
+    <phone>304.598.6092</phone>
+    <email>ankit.sakhuja@hsc.wvu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lisa Fornaresio, PhD</last_name>
+    <email>lisa.fornaresio@wvumedicine.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>WVU Medicine Heart &amp; Vascular Institute</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.usrds.org/</url>
+    <description>UNITED STATES RENAL DATA SYSTEM</description>
+  </link>
+  <reference>
+    <citation>Arentz M, Yim E, Klaff L, Lokhandwala S, Riedo FX, Chong M, Lee M. Characteristics and Outcomes of 21 Critically Ill Patients With COVID-19 in Washington State. JAMA. 2020 Apr 28;323(16):1612-1614. doi: 10.1001/jama.2020.4326.</citation>
+    <PMID>32191259</PMID>
+  </reference>
+  <reference>
+    <citation>Ali T, Khan I, Simpson W, Prescott G, Townend J, Smith W, Macleod A. Incidence and outcomes in acute kidney injury: a comprehensive population-based study. J Am Soc Nephrol. 2007 Apr;18(4):1292-8. Epub 2007 Feb 21.</citation>
+    <PMID>17314324</PMID>
+  </reference>
+  <reference>
+    <citation>Al-Jaghbeer M, Dealmeida D, Bilderback A, Ambrosino R, Kellum JA. Clinical Decision Support for In-Hospital AKI. J Am Soc Nephrol. 2018 Feb;29(2):654-660. doi: 10.1681/ASN.2017070765. Epub 2017 Nov 2.</citation>
+    <PMID>29097621</PMID>
+  </reference>
+  <reference>
+    <citation>Hoste EA, Bagshaw SM, Bellomo R, Cely CM, Colman R, Cruz DN, Edipidis K, Forni LG, Gomersall CD, Govil D, Honoré PM, Joannes-Boyau O, Joannidis M, Korhonen AM, Lavrentieva A, Mehta RL, Palevsky P, Roessler E, Ronco C, Uchino S, Vazquez JA, Vidal Andrade E, Webb S, Kellum JA. Epidemiology of acute kidney injury in critically ill patients: the multinational AKI-EPI study. Intensive Care Med. 2015 Aug;41(8):1411-23. doi: 10.1007/s00134-015-3934-7. Epub 2015 Jul 11.</citation>
+    <PMID>26162677</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </reference>
+  <reference>
+    <citation>Wang HE, Muntner P, Chertow GM, Warnock DG. Acute kidney injury and mortality in hospitalized patients. Am J Nephrol. 2012;35(4):349-55. doi: 10.1159/000337487. Epub 2012 Apr 2.</citation>
+    <PMID>22473149</PMID>
+  </reference>
+  <reference>
+    <citation>Ponte B, Felipe C, Muriel A, Tenorio MT, Liaño F. Long-term functional evolution after an acute kidney injury: a 10-year study. Nephrol Dial Transplant. 2008 Dec;23(12):3859-66. doi: 10.1093/ndt/gfn398. Epub 2008 Jul 15.</citation>
+    <PMID>18632586</PMID>
+  </reference>
+  <reference>
+    <citation>Collister D, Pannu N, Ye F, James M, Hemmelgarn B, Chui B, Manns B, Klarenbach S; Alberta Kidney Disease Network. Health Care Costs Associated with AKI. Clin J Am Soc Nephrol. 2017 Nov 7;12(11):1733-1743. doi: 10.2215/CJN.00950117. Epub 2017 Oct 19.</citation>
+    <PMID>29051143</PMID>
+  </reference>
+  <reference>
+    <citation>Sakhuja A, Kumar G, Gupta S, Mittal T, Taneja A, Nanchal RS. Acute Kidney Injury Requiring Dialysis in Severe Sepsis. Am J Respir Crit Care Med. 2015 Oct 15;192(8):951-7. doi: 10.1164/rccm.201502-0329OC.</citation>
+    <PMID>26120892</PMID>
+  </reference>
+  <reference>
+    <citation>Kellum JA, Prowle JR. Paradigms of acute kidney injury in the intensive care setting. Nat Rev Nephrol. 2018 Apr;14(4):217-230. doi: 10.1038/nrneph.2017.184. Epub 2018 Jan 22. Review.</citation>
+    <PMID>29355173</PMID>
+  </reference>
+  <reference>
+    <citation>Tai W, He L, Zhang X, Pu J, Voronin D, Jiang S, Zhou Y, Du L. Characterization of the receptor-binding domain (RBD) of 2019 novel coronavirus: implication for development of RBD protein as a viral attachment inhibitor and vaccine. Cell Mol Immunol. 2020 Jun;17(6):613-620. doi: 10.1038/s41423-020-0400-4. Epub 2020 Mar 19.</citation>
+    <PMID>32203189</PMID>
+  </reference>
+  <reference>
+    <citation>Ren X, Glende J, Al-Falah M, de Vries V, Schwegmann-Wessels C, Qu X, Tan L, Tschernig T, Deng H, Naim HY, Herrler G. Analysis of ACE2 in polarized epithelial cells: surface expression and function as receptor for severe acute respiratory syndrome-associated coronavirus. J Gen Virol. 2006 Jun;87(Pt 6):1691-5.</citation>
+    <PMID>16690935</PMID>
+  </reference>
+  <reference>
+    <citation>Su H, Yang M, Wan C, Yi LX, Tang F, Zhu HY, Yi F, Yang HC, Fogo AB, Nie X, Zhang C. Renal histopathological analysis of 26 postmortem findings of patients with COVID-19 in China. Kidney Int. 2020 Jul;98(1):219-227. doi: 10.1016/j.kint.2020.04.003. Epub 2020 Apr 9.</citation>
+    <PMID>32327202</PMID>
+  </reference>
+  <reference>
+    <citation>Imai Y, Kuba K, Rao S, Huan Y, Guo F, Guan B, Yang P, Sarao R, Wada T, Leong-Poi H, Crackower MA, Fukamizu A, Hui CC, Hein L, Uhlig S, Slutsky AS, Jiang C, Penninger JM. Angiotensin-converting enzyme 2 protects from severe acute lung failure. Nature. 2005 Jul 7;436(7047):112-6.</citation>
+    <PMID>16001071</PMID>
+  </reference>
+  <reference>
+    <citation>Srivastava J, Barber DL, Jacobson MP. Intracellular pH sensors: design principles and functional significance. Physiology (Bethesda). 2007 Feb;22:30-9. Review.</citation>
+    <PMID>17289928</PMID>
+  </reference>
+  <reference>
+    <citation>RAMACHANDRAN GN, RAMAKRISHNAN C, SASISEKHARAN V. Stereochemistry of polypeptide chain configurations. J Mol Biol. 1963 Jul;7:95-9.</citation>
+    <PMID>13990617</PMID>
+  </reference>
+  <reference>
+    <citation>Wan Y, Shang J, Graham R, Baric RS, Li F. Receptor Recognition by the Novel Coronavirus from Wuhan: an Analysis Based on Decade-Long Structural Studies of SARS Coronavirus. J Virol. 2020 Mar 17;94(7). pii: e00127-20. doi: 10.1128/JVI.00127-20. Print 2020 Mar 17.</citation>
+    <PMID>31996437</PMID>
+  </reference>
+  <reference>
+    <citation>Choudhury D, Tanner MG, McAughtrie S, Yu F, Mills B, Choudhary TR, Seth S, Craven TH, Stone JM, Mati IK, Campbell CJ, Bradley M, Williams CK, Dhaliwal K, Birks TA, Thomson RR. Endoscopic sensing of alveolar pH. Biomed Opt Express. 2016 Dec 13;8(1):243-259. doi: 10.1364/BOE.8.000243. eCollection 2017 Jan 1.</citation>
+    <PMID>28101415</PMID>
+  </reference>
+  <reference>
+    <citation>Proudfoot AT, Krenzelok EP, Vale JA. Position Paper on urine alkalinization. J Toxicol Clin Toxicol. 2004;42(1):1-26. Review.</citation>
+    <PMID>15083932</PMID>
+  </reference>
+  <reference>
+    <citation>Kashani K, Al-Khafaji A, Ardiles T, Artigas A, Bagshaw SM, Bell M, Bihorac A, Birkhahn R, Cely CM, Chawla LS, Davison DL, Feldkamp T, Forni LG, Gong MN, Gunnerson KJ, Haase M, Hackett J, Honore PM, Hoste EA, Joannes-Boyau O, Joannidis M, Kim P, Koyner JL, Laskowitz DT, Lissauer ME, Marx G, McCullough PA, Mullaney S, Ostermann M, Rimmelé T, Shapiro NI, Shaw AD, Shi J, Sprague AM, Vincent JL, Vinsonneau C, Wagner L, Walker MG, Wilkerson RG, Zacharowski K, Kellum JA. Discovery and validation of cell cycle arrest biomarkers in human acute kidney injury. Crit Care. 2013 Feb 6;17(1):R25. doi: 10.1186/cc12503.</citation>
+    <PMID>23388612</PMID>
+  </reference>
+  <reference>
+    <citation>Emlet DR, Pastor-Soler N, Marciszyn A, Wen X, Gomez H, Humphries WH 4th, Morrisroe S, Volpe JK, Kellum JA. Insulin-like growth factor binding protein 7 and tissue inhibitor of metalloproteinases-2: differential expression and secretion in human kidney tubule cells. Am J Physiol Renal Physiol. 2017 Feb 1;312(2):F284-F296. doi: 10.1152/ajprenal.00271.2016. Epub 2016 Dec 21.</citation>
+    <PMID>28003188</PMID>
+  </reference>
+  <reference>
+    <citation>Singbartl K, Formeck CL, Kellum JA. Kidney-Immune System Crosstalk in AKI. Semin Nephrol. 2019 Jan;39(1):96-106. doi: 10.1016/j.semnephrol.2018.10.007. Review.</citation>
+    <PMID>30606411</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>September 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>West Virginia University</investigator_affiliation>
+    <investigator_full_name>Ankit Sakhuja</investigator_full_name>
+    <investigator_title>Assistant Professor of Medicine, Division of Cardiovascular Critical Care, Department of Cardiovascular and Thoracic Surgery</investigator_title>
+  </responsible_party>
+  <keyword>Acute Kidney Injury</keyword>
+  <keyword>AKI</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Sodium Bicarbonate</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Acute Kidney Injury</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

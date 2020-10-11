@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1877">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04556565</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/9203/I</org_study_id>
+    <nct_id>NCT04556565</nct_id>
+  </id_info>
+  <brief_title>MIND/COVID-19: Mental Health Impact and NeeDs Associated With COVID-19: a Comprehensive National Evaluation in Spain</brief_title>
+  <official_title>MIND/COVID-19: Mental Health Impact and NeeDs Associated With COVID-19: a Comprehensive National Evaluation in Spain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jordi Alonso</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Universitario 12 de Octubre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Instituto de Salud Carlos III</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universitat Pompeu Fabra</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Public Health Agency of Barcelona</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Jordi Gol i Gurina Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sistema de Emergencias Médicas de Cataluña (SEM)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Agència de Qualitat i Avaluació Sanitàries</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundación Investigación e Innovación Biosanitaria Madrid</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital del Mar</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundacion Clinic per a la Recerca Biomédica</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Vall d'Hebron</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Clínico Universitario de Valencia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital General Universitario Gregorio Marañon</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario Principe de Asturias</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital El Bierzo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario Araba</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario Donostia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital de Cruces</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario Torrecárdenas</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Parc Sanitari Sant Joan de Déu</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital del Mar Research Institute (IMIM)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the proposed project is to provide a comprehensive assessment of the mental health
+      impact of the ongoing COVID-19 outbreak in Spain. A prospective cohort study of three groups
+      will be conducted: (1) COVID-19 cases or close contacts recently isolated or quarantined; (2)
+      healthcare workers; (3) adult general population.
+
+      Recruitment through epidemiologic surveillance services, hospitals, primary care centers in 6
+      Spanish Autonomous Communities (groups 1 &amp; 2) and a random sample of individuals using
+      telephone numbers as the sampling frames(group 3). Web-based surveys or telephone interviews
+      at baseline and 6-month follow-up assess: current living and employment status; COVID-19
+      infection status; mental health (post-traumatic stress, panic, depression, anxiety, alcohol
+      and substance use, suicidality; services use); psychological functioning; general health
+      status and quality of life. Specific modules focus on isolation or quarantine (group 1) and
+      care for COVID-19 patients (group 2). Short bi-weekly brief follow-up surveys among groups 1
+      &amp; 2 will provide additional assessment of main outcomes in the two months following baseline
+      assessment.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background
+
+      Previous research on infectious disease outbreaks found substantial mental health impact
+      among cases placed under isolation or quarantine, among those working in the various
+      healthcare systems managing the outbreaks, and in the general population. Mental disorders
+      expected to rise during and after viral outbreaks include anxiety disorders, especially
+      post-traumatic stress disorder, as well as depression, and suicidality.
+
+      Justification
+
+      The magnitude of the ongoing 2019 novel coronavirus disease (COVID-19) pandemic points to the
+      urgent need to quantify mental health impact of the outbreak. Epidemiological research
+      enables rapid health needs assessment to benchmark and monitor the ongoing onset and
+      persistence of adverse mental health outcomes in the population, and to provide situational
+      awareness, i.e., essential information to understand current and midterm mental healthcare
+      needs, plan adequate responses, and allocate appropriate resources. The project is part of an
+      ongoing international effort to collect cross-nationally comparable data on the mental health
+      impact of the COVID-19 pandemic (World Mental Health Surveys).
+
+      Hypotheses:
+
+        1. Adverse mental health outcomes, such as symptoms of depression and anxiety(1),
+           post-traumatic stress disorder, and suicide, will increase from the onset of the
+           COVID-19 outbreak, compared to the previous mental health status. The most pronounced
+           increase will be in vulnerable groups, i.e., among recently isolated or quarantined
+           individuals and healthcare workers.
+
+        2. Working as healthcare worker, having been quarantined, having family members dead by
+           COVID19 will be some of the substantial risk factors to develop sub-sequent high levels
+           of adverse mental health. Also, some preoutbreak individual characteristics will be
+           predictors of the mental and psychological health impact, such as the level of formal
+           education or having a history of psychiatric illness.
+
+        3. A substantial part of the participants would require mental health services and some
+           type of psychological support. Most of the subjects reporting symptoms will not be using
+           the already available resources.
+
+      OBJECTIVES
+
+      The primary objectives of the proposed project are to:
+
+        1. assess the mental and psychological health impact of the COVID-19 outbreak among cases
+           or close contacts recently isolated or quarantined, healthcare workers and the general
+           population
+
+        2. identify risk and protective factors for adverse mental health onset and persistence;
+
+        3. quantify the use of available mental health resources;
+
+        4. quantify and characterize unmet mental healthcare needs. These objectives will be
+           achieved both at the short-term (onset and bi-weekly surveys) and the medium term (6
+           months).
+
+      The secondary objectives of the proposed project are to:
+
+        1. assess the potential benefits of using available mental health resources;
+
+        2. provide a reference point (benchmark) and evolution over time for future long-term
+           research on COVID-19 related mental and psychological health impact in the population.
+
+      Study population and recruitment
+
+      Three separate population groups will be assessed: (1) recently isolated or quarantined
+      COVID-19 cases and close contacts; (2) healthcare workers, including medical personnel
+      directly and indirectly involved with patients as well as other personnel (e.g.
+      administrative workers) and (3) a representative sample of the general adult population
+      (including those tele-working and working outside of home).
+
+      Even though the terms quarantine and isolation are often used interchangeably, here we
+      differentiate them following Brooks et al. According to this, Quarantine is the separation
+      and restriction of movement of people who have potentially been exposed to a contagious
+      disease to ascertain if they become unwell, so reducing the risk of them infecting others,
+      and Isolation is the separation of people who have been diagnosed with a contagious disease
+      from people who are not sick. Finally, we use the term confinement to define the situation of
+      the population in Spain who, in order to prevent further spread of the virus, has been
+      restricted to stay at home, and is only allowed to get out for specific tasks that need to be
+      justified.
+
+      Calculation and justification of the sample size
+
+      General population: a fixed sample size of n= 3,500 ensures a two-sided 95%CI of 0.025 for a
+      sample proportion of 0.20. Health professionals: up to 85,000 professionals work in the
+      participating institutions (30,000 at primary health care centers, 55,000 at hospitals).
+      Assuming a 15% participation rate, we expect a sample size of &gt;10,000. COVID-19 cases: Given
+      high numbers of (hospitalized) cases in Barcelona and Community of Madrid (the main
+      recruitment areas) and the population coverage of the participating institutions, we expect
+      to recruit n=2,000 cases and close contacts. Within each population subgroup, a sample of at
+      least 2,000 individuals achieves power &gt; 0.80, with alpha=0.05, to detect an odds ratio of
+      1.6 on a binary independent variable (of which 30% are in the group X=1) from a multivariable
+      logistic regression (with R2 &lt; 0.3 between X and remaining independent variables). An overall
+      sample of 16,000 achieves power &gt; 0.90 to detect an odds ratio of 1.2 under the same
+      conditions.
+
+      Study methodology/Procedures
+
+      Adult population groups 1 (cases and close contacts) and 2 (healthcare workers) will be
+      assessed at baseline using web-based self-report surveys (with response time ~15 minutes)
+      including both common and specific modules (specific for groups 1 &amp; 2). People with
+      unavoidable limitations to answer the webbased questionnaire will also be eligible to
+      participate in the study. In this case, the interview will be conducted by telephone. The
+      telephone interview will be carried out from the same center or may be outsourced, subject to
+      the patient's consent to share his/her contact details. Additionally, upon completion of the
+      baseline survey, group 1 (cases and close contacts) and group 2 (healthcare workers) will be
+      invited to respond very brief bi-weekly surveys (response time 3 - 5 minutes) on a maximum of
+      4 occasions to prospectively assess adverse mental health and the use of available resources
+      to counter mental health impact. General population participants will be assessed through
+      telephone interviews. All baseline participants of the 3 adult population groups will be
+      assessed at 6 months follow-up using web-based self-report surveys or telephone interviews
+      similar to their baseline assessment. At follow-up, groups 1 and 2 will also receive more
+      extensive clinical screeners that allow to accurately assess common psychiatric disorders.
+
+      Analyses
+
+      The data will be pseudo-anonymized through encrypted identifiers, separating the personal
+      information from the rest of the study data, to guarantee privacy and ensure the anonymized
+      treatment of the data in the analysis.
+
+      Descriptive statistics of mental health status, mental health service use, and use of
+      available resources at baseline and 6-month follow-up, and bivariate associations of these
+      outcomes with potential risk and protective factors are estimated, stratified by population
+      groups.
+
+      Bi-weekly brief survey data will be analyzed using time-lagged multilevel models and network
+      analysis to estimate the associations of short-term dynamic risk and protective factors with
+      mental health status and use of resources.
+
+      Multivariable generalized linear models will be used to identify baseline risk and protective
+      factors for onset and persistence/deterioration of adverse mental health outcomes at
+      follow-up. Potential benefits of use of available resources on preventing onset or
+      persistence of adverse mental health outcomes will be analyzed using propensity scores
+      methods to address the lack of baseline randomization and likely imbalance between treatment
+      groups (natural experiment research design). All analyses will adjust for time-of-survey.
+
+      Multiple imputation methods will be used to deal with missing values.
+
+      LIMITATIONS AND RISK AND CONTINGENCY PLANS
+
+      The established network of collaborators we already have in place guarantees adequate
+      recruitment of otherwise hard-to-reach groups 1 and 2 (cases and close contacts, healthcare
+      workers). The lack of randomized sampling of surveillance agencies and healthcare facilities
+      may affect representativeness of findings; this limitation will be countered by statistical
+      weighting techniques based on all information available a posteriori in centralized national
+      case register and healthcare facility data. Response rates will be maximized by repeated
+      invitations and reminders.
+
+      ETHICAL CONSIDERATIONS AND CONFIDENTIALITY
+
+      The study is in line with the principles established by national and international
+      regulations, including the Declaration of Helsinki (64th WMA General Assembly, Fortaleza,
+      Brasil, Oct 2013) and the Code of Ethics. The project will start upon approval by the
+      independent PSMAR Clinical Research Ethics Committee (PSMAR-CEIm). Recruitment in
+      collaborating institutions will be initiated only after project approval by its corresponding
+      ethics committee, whenever additional approval is required.
+
+      All personal data will be handled following Regulation (EU) 2016/679 of the European
+      Parliament and of the Council of 27 April 2016, and the national Organic Law 3/2018, of
+      December 5. All participants will provide explicit informed consent. When participants access
+      the link to the online questionnaire platform, the participant's information form specific
+      for the subpopulation they belong to will appear in the first screen, which will be written
+      in understandable language, and will describe in clear language the aims, methods, and
+      implications of the research. At the end of the information about the study, the different
+      points of the informed consent will be presented in the form of check options that will have
+      to be clicked. Access to the questionnaire will only be allowed if all check options have
+      been activated.
+
+      The answers to the different consent questions will be stored in the database, together with
+      the other responses, and may be used as evidence that the participant did, indeed, consent.
+      Exemption from obtaining a signed informed consent has been requested, given the
+      observational, online data collection nature of the study and given the fact that, to be able
+      to access the questionnaire, respondents will have to actively check all consent questions
+
+      The Qualtrics survey platform (web-based surveys; qualtrics.com) will be used for data
+      collection in subpopulations of cases and close contacts (1) and healthcare center workers
+      (2). This platform has three of the most important security certifications: FedRAMP, ISO
+      27001 and HITRUST Common Security Framework (CSF), to meet the security requirements of the
+      most regulated industries and organizations and those of the RGPD (European General Data
+      Protection Regulation). In addition, the platform has additional technology that allows the
+      user to also comply with this regulation (GDPR OneTouch Data Deletion). The data collected
+      through the platform is stored in servers located in the EU. All data stored in the EU data
+      center is encrypted via the AES256 cypher standard. All data transmitted to the Qualtrics
+      platform is encrypted via the industry standard protocol TLS 1.2 and higher. The only
+      personal information that will be requested to participants in the study are contact details
+      with the solely objective to be able to invite participants to the follow up surveys and to
+      send reminders within the framework of the project. This personal data will be collected
+      within the questionnaire, once the participant has given his or her consent to participate in
+      the study. The data will be pseudo-anonymized and neither the study investigators nor the
+      persons in charge of the analysis will have access to the personal data. Only the data
+      manager designated for the study will be able to relate the personal data of the participants
+      to the questionnaire responses. All data will be collected in a research file under the
+      responsibility of the institution, will be considered confidential and will only be used by
+      researchers for the purposes of the project. A Data Protection Officer involved in all stages
+      of data processing has been appointed, DPO: protecciodedades@imim.es).
+
+      With regard to the Adult General Population sample (subpopulation 3), the external company
+      IPSOS survey company (web-based surveys; ipsos.com), will be in charge of selecting the
+      sample, inviting participants to the study and carrying out the interviews. A verbal informed
+      consent to participate will be obtained: at the beginning of the contact call, a presentation
+      text with information on the study will be read, and explicit consent will be asked to the
+      participant to respond a questionnaire in two different occasions, baseline and after 6
+      months. This part of the call where explicit informed consent is requested will be recorded
+      and stored. . At the end of the 6-month follow-up interview, participants will be asked again
+      for verbal recorded consent asking permission for the company to provide contact details of
+      the participant to the study investigators, so that investigators can recontact them for
+      eventual subsequent follow up assessments of the study. IPSOS will ensure that personal data
+      of the participants will be treated with the maximum confidentiality measures according to
+      the current regulations in force (Regulation (EU) 2016/679 of the European Parliament and of
+      the Council of 27 April 2016, and the national Organic Law 3/2018, of December 5), and that
+      personal data will be exclusively used within the framework of this study. IPSOS data
+      protection policy is detailed in the following link:
+      https://www.ipsos.com/sites/default/files/201804/Global_Data_Protection_and_Privacy_Policy.pd
+      f.
+
+      A specific survey platform developed by IPSOS will be used in this group. IPSOS complies with
+      all relevant regulations for the industry, including the new EU directive: GDPR, but also
+      with the ethical, privacy and anti-spam precepts recommended by European Society for Opinion
+      and Marketing Research (ESOMAR). The extensive privacy policy is displayed during the
+      registration process and must be accepted by all the panelists. To this end, Ipsos applies
+      strict data protection and security protocols for both client and respondent data. Physical
+      security measures include strict control of access to data centers, firewalls, antivirus
+      procedures, data retention/destruction policies, or disaster recovery plans.
+
+      Given the observational approach of the study, without therapeutic intervention, it is
+      considered that it will pose minimum risk to the respondents. Participants with psychological
+      distress will be provided with a list of effective care resources at the end of the
+      questionnaire, including coordinates to nearby emergency care in case of suicidal symptoms.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 8, 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Post-traumatic stress disorder</measure>
+    <time_frame>6 months</time_frame>
+    <description>It will be assessed with the 4-item version of the PTSD checklist for DSM-5 (PCL-5), which evaluates the presence and severity of 4 DSM-5 Criteria symptoms of PTSD over the past month (0 = not at all to 4 = extremely) and has been shown to generate diagnoses that closely parallel those of the full PCL-5 (AUC&gt;0.9), making it well-suited for screening. The Spanish version is available.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Depression</measure>
+    <time_frame>6 months</time_frame>
+    <description>It will be evaluated with the Patient Health Questionnaire 8-item version (PHQ-8) with a 2-week recall period. Items have four response categories on frequency of the symptom that can be summed up to obtain a severity score, with cut-points of 5, 10, and 15 representing mild, moderate, and severe levels of depression, respectively, showing good diagnostic accuracy for depressive disorder (AUC&gt;0.90) and high reliability (&gt;0.8).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Generalized Anxiety Disorder</measure>
+    <time_frame>6 months</time_frame>
+    <description>It will be screened with the seven-item Generalized Anxiety Disorder scale (GAD-7). Cut-points of 5, 10, and 15 represent mild, moderate, and severe levels of anxiety, respectively, with AUC&gt;0.8 for the detection of anxiety. The Spanish versions of the PHQ and GAD-7 have been developed (https://www.phqscreeners.com).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Suicidal thoughts and behaviors</measure>
+    <time_frame>6 months</time_frame>
+    <description>It will be evaluated with a modified version of the Columbia Suicide Severity Rating Scale, including passive suicidal ideation (&quot;wish you were dead or would go to sleep and never wake up&quot;), active suicidal ideation (&quot;have thoughts of killing yourself&quot;), suicide plans (&quot;think about how you might kill yourself [e.g., taking pills, shooting yourself] or work out a plan of how to kill yourself&quot;), and suicide attempt (&quot;make a suicide attempt [i.e., purposefully hurt yourself with at least some intent to die]).It has been translated into Spanish showing good discrimination ability for suicidal behavior.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Alcohol and drug use problems</measure>
+    <time_frame>6 months</time_frame>
+    <description>It will be evaluated with the CAGE questionnaire, that consists of 4 items focusing on Cutting down, Annoyance by criticism, Guilty feeling, and Eye-openers and have proved useful in helping to make a diagnosis of alcoholism.Item responses on the CAGE questions are scored 0 for &quot;no&quot; and 1 for &quot;yes&quot; answers, with a higher score being an indication of alcohol problems. A total score of two or greater is considered clinically significant. The questionnaire has been adapted into Spanish.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Panic attacks</measure>
+    <time_frame>6 months</time_frame>
+    <description>It will be assessed with item taken and adapted from the CIDI Screening Scales(&quot;Panic or anxiety attacks are sudden, strong feelings of fear or anxiety that reach their peak within a few minutes and are usually accompanied by physical reactions like racing heart, sweating, shortness of breath, feeling faint, or feeling sick to your stomach. People who have panic attacks sometimes feel like they might lose control, go crazy, or suddenly die. With this definition in mind, about how many panic attacks did you have since the onset of COVID-19 outbreak?&quot;)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health-related Quality of Life</measure>
+    <time_frame>6 months</time_frame>
+    <description>It will be assessed with the 5-level version of the EQ-5D-5L, for which a Spanish version is available showing good validity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Perceived Health</measure>
+    <time_frame>6 months</time_frame>
+    <description>It will be evaluated with a single item assessing general health, ''In general, how would you rate your health'' with response options of ''excellent, very good, good, fair, or poor''), which has shown to have a strong association with negative health outcomes, including mortality [10.1111/j.1525-1497.2005.0291.x]. The Spanish version of the item has provided similar results .</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Role limitation</measure>
+    <time_frame>6 months</time_frame>
+    <description>It will be assessed using an adapted version of the Sheehan Disability Scale that assessed impairment separately in each of four role domains: home management/chores, work roles, close personal relationships, and social life.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">16000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Mental Health Disorder</condition>
+  <condition>Mental Health Conditions</condition>
+  <arm_group>
+    <arm_group_label>General population</arm_group_label>
+    <description>A representative sample of the general adult population (including those tele-working and working outside of home)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cases and contacts</arm_group_label>
+    <description>Recently isolated or quarantined COVID-19 cases and close contacts</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthcare workers</arm_group_label>
+    <description>Healthcare workers, including medical personnel directly and indirectly involved with patients as well as other personnel (e.g. administrative workers)</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Three separate population groups will be assessed: (1) recently isolated or quarantined
+        COVID-19 cases and close contacts; (2) healthcare workers, including medical personnel
+        directly and indirectly involved with patients as well as other personnel (e.g.
+        administrative workers); (3) a representative sample of the general adult population
+        (including those tele-working and working outside of home).
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Recently isolated or quarantined cases and close contacts:
+
+             a) Individuals aged 18 or older; and b) laboratory confirmed or suspected COVID-19
+             cases or quarantined close contacts.
+
+          -  Healthcare workers:
+
+             a) health center employees currently working in the participating institutions,
+             including medical and nursing personnel directly and indirectly involved with patients
+             as well as all other personnel (administrative workers, logistic workers, etc.); and
+             b) aged 18 years or older.
+
+          -  Spanish general adult population:
+
+               1. residents in Spain; b) aged 18 years or older; c) with a land-line or mobile
+                  telephone
+
+        Exclusion Criteria:
+
+          -  Recently isolated or quarantined cases and close contacts:
+
+             a) individuals too sick to participate (but they will become eligible after clinical
+             improvement); b) unable to understand the survey language; and c) do not provide
+             explicit consent to participate.
+
+          -  Healthcare workers:
+
+             a) individuals too sick to participate (but they will become eligible after clinical
+             improvement); b) unable to understand the survey language; and c) do not provide
+             explicit consent to participate.
+
+          -  Spanish general adult population:
+
+               1. unable to understand the survey language; and b) do not provide explicit consent
+                  to participate.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jordi Alonso, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Institut Hospital del Mar d'Investigacions Mèdiques</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jordi Alonso, MD</last_name>
+    <phone>(+34) 933 160 760</phone>
+    <email>jalonso@imim.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Universitario Príncipe Asturias</name>
+      <address>
+        <city>Alcalá De Henares</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Nieves Plana Farrás</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aurora Pérez Zapata</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Torrecárdenas</name>
+      <address>
+        <city>Almería</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Alma D. Martínez de Salazar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Agència de Salut Pública Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Cristina Rius Gibert</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fundació Clínic per a la Recerca Biomèdica</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Eduard Vieta</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Meritxell Espuga Jordana</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut d'Investigación en Atenció Primària, IDIAP Jordi Gol</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Enric Aragonés Benaiges</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Maria Teresa Puig Reixach</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Parc Sanitari Sant Joan de Déu</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Josep M. Haro Abad</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Psmar-Imim</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Consol Serra Pujadas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Víctor Pérez Solà</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sistema de Emergencias Médicas de Cataluña</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Mireia Campos Salanova</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Cruces</name>
+      <address>
+        <city>Bilbao</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>José Ignacio Pijoan Zubizarreta</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital El Bierzo</name>
+      <address>
+        <city>León</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>José María Pelayo Terán</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fundación Investigación e Innovación Biosanitaria de AP</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>M. Isabel Del Cura González</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andrés Aragón Peña</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Gregorio Marañón</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Nieves López Fresneña</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mara Parellada</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Juan de Dios Molina Martín</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Donostia</name>
+      <address>
+        <city>San Sebastián</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>José I. Emparanza Knörr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínic Universitari</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Rafael M. Ortí Lucas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Araba-Santiago</name>
+      <address>
+        <city>Vitoria</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Ana González Pinto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 21, 2020</study_first_posted>
+  <last_update_submitted>September 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital del Mar Research Institute (IMIM)</investigator_affiliation>
+    <investigator_full_name>Jordi Alonso</investigator_full_name>
+    <investigator_title>M.D., Ph.D., Coordinator of the Health Services Research Group, Director of the Epidemiology and Public Health Program</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19 outbreak</keyword>
+  <keyword>Health workers</keyword>
+  <keyword>Mental Health</keyword>
+  <keyword>Suicidal thoughts and behaviours</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Anxiety</keyword>
+  <keyword>Post-Traumatic Stress Disorder</keyword>
+  <keyword>General Population</keyword>
+  <keyword>Close contacts</keyword>
+  <keyword>Lockdown</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mental Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

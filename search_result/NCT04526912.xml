@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2966">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04526912</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VIB7734.P1.S2</org_study_id>
+    <nct_id>NCT04526912</nct_id>
+  </id_info>
+  <brief_title>Treatment and Prevention of Acute Lung Injury (ALI) in Patients With COVID-19 Infection</brief_title>
+  <acronym>ALI</acronym>
+  <official_title>A Proof of Concept Study of the Safety and Efficacy of VIB7734 for the Treatment and Prevention of Acute Lung Injury (ALI) in Patients With SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Viela Bio</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Viela Bio</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aims to assess the potential benefit and evaluate the safety and tolerability of a
+      single subcutaneous (SC) dose of VIB7734 in hospitalized patients with documented infection
+      of severe acute respiratory syndrome coronavirus 2 (SARS CoV-2) with pulmonary involvement.
+      Subjects will be administered a single dose of VIB7734 injected under the skin, assessed for
+      efficacy for 28 days and followed for an additional 42 days.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, double-blind, placebo-controlled study intended to assess the potential
+      benefit and evaluate the safety and tolerability of a single subcutaneous (SC) dose of
+      VIB7734 in hospitalized patients with documented infection of severe acute respiratory
+      syndrome coronavirus 2 (SARS CoV-2) with pulmonary involvement. Efficacy will be assessed
+      during the 28 days following a single administration of VIB7734. Safety will be assessed for
+      10 weeks following dosing. The pharmacokinetics (PK), pharmacodynamics (PD), and
+      immunogenicity of VIB7734 in patients with confirmed SARS-CoV-2 infections will also be
+      assessed.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 28, 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of patients who achieve treatment success through Day 28, defined as avoidance of death and critical illness</measure>
+    <time_frame>Day 1 (Baseline) through Day 28</time_frame>
+    <description>Critical illness is defined by respiratory failure (requiring any of the following: endotracheal intubation, oxygen delivered by high flow nasal cannula, non-invasive positive pressure ventilation, extracorporeal membrane oxygenation or clinical diagnosis of respiratory failure) or shock (systolic blood pressure &lt; 90 mm Hg, or diastolic blood pressure &lt; 60 mm Hg, or requiring vasopressors)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Treatment-emergent Adverse Events (TEAEs), Treatment-emergent fatal and life-threatening SAEs, Treatment-emergent Serious Adverse Events</measure>
+    <time_frame>Day 1 (Baseline) through Day 70</time_frame>
+    <description>Defined as measure of safety</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in safety laboratory parameters</measure>
+    <time_frame>Day 1 (Baseline) through Day 70</time_frame>
+    <description>Safety evaluation via review of labs (white blood cell (WBC) with differential counts, hemoglobin, platelet count, liver function tests (aspartate aminotransferase [AST], alanine aminotransferase [ALT], and total bilirubin levels), serum chemistry, cardiac troponin coagulation markers (prothrombin time [PT], partial thromboplastin time [PTT], D dimer, fibrinogen), and urinalysis)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Acute Lung Injury</condition>
+  <arm_group>
+    <arm_group_label>VIB7734 Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single subcutaneous dose of VIB7734.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive a single subcutaneous dose of placebo (saline) matched to single dose of VIB7734.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VIB7734</intervention_name>
+    <description>Single subcutaneous dose</description>
+    <arm_group_label>VIB7734 Dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intravenous single dose matched to VIB7734.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:
+
+          -  Hospitalized with coronavirus disease 2019 (COVID-19) pneumonia confirmed by World
+             Health Organization criteria.
+
+          -  Oxygen saturation ≤ 94% at room air or arterial partial pressure of oxygen/fraction of
+             inspired oxygen &lt; 300 mm Hg and &gt; 200 mm Hg.
+
+          -  Negative influenza test.
+
+          -  Lymphocyte counts &lt; 10^3/μL and the presence of at least one of the following markers
+             of hyperinflammation within 1 day prior to VIB7734 administration:
+
+               -  Elevated high sensitivity C-reactive protein (hsCRP) &gt; 50 mg/L
+
+               -  Ferritin &gt; 500 ng/mL
+
+               -  Lactate dehydrogenase (LDH) &gt; 300 U/L
+
+               -  D-dimers &gt; 500 ng/mL
+
+        NOTE: Other protocol defined inclusion criteria apply
+
+        Key Exclusion Criteria:
+
+          -  Respiratory failure requiring mechanical ventilation.
+
+          -  In the opinion of the Investigator, progression to mechanical ventilation or death is
+             imminent and inevitable within the next 24 hours.
+
+          -  Valid Do Not Intubate (DNI) or Do Not Resuscitate (DNR) order.
+
+          -  Anticipated duration of hospital stay &lt; 72 hours.
+
+          -  History of allergy or hypersensitivity reaction to any component of the IP.
+
+          -  Participation in another clinical study with an IP within 4 weeks prior to Day 1 or
+             within 5 half-lives of the IP, whichever is longer. (Participation in COVID-19
+             antiviral or antimalarial trials may be permitted after discussion with the Medical
+             Monitor).
+
+          -  Liver cirrhosis or liver failure.
+
+          -  Known human immunodeficiency virus infection.
+
+          -  Known hepatitis B or known hepatitis C infection in the absence of a history of
+             curative therapy.
+
+          -  Known or suspect active or latent tuberculosis infection.
+
+          -  Active bacterial, fungal, viral, or other infection (besides COVID-19).
+
+          -  Clinically significant cardiac disease within 6 months.
+
+          -  History of severely impaired respiratory function at baseline (not related to
+             COVID-19) based on requirement for home oxygen of &gt; 4 L/min or based on other medical
+             history known to the Investigator.
+
+          -  History of cancer within 12 months of enrollment.
+
+          -  Receipt of chemotherapy, biologic immunomodulators (including JAK inhibitors), or
+             immunosuppressive therapies within 8 weeks of enrollment, or receipt of rituximab or
+             other B cell-depleting mAb therapy within 6 months.
+
+        NOTE: Other protocol defined exclusion criteria apply
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gábor Illei, MD, PhD, MHS</last_name>
+    <role>Study Director</role>
+    <affiliation>Vice President, Clinical Development Lead</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gábor Illei, MD, PhD, MHS</last_name>
+    <phone>240-920-0072</phone>
+    <email>IlleiG@VielaBio.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Daniel Falleroni</last_name>
+    <phone>240-356-4437</phone>
+    <email>FalleroniD@VielaBio.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>pneumonia</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-Cov-2</keyword>
+  <keyword>acute respiratory disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

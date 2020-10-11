@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="965">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04518969</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BrugmannUH 1066</org_study_id>
+    <nct_id>NCT04518969</nct_id>
+  </id_info>
+  <brief_title>Determination of the Hemoadsorption Impact as Adjunctive Treatment Upon the Support Therapy of COVID-19</brief_title>
+  <official_title>Comparing the Cytokine Clearances of Pro-, and Anti-inflammatory Mediators, Chemokines and Complement in the COVID-19 Patients Treated With CytoSorb as Compared to the Same Patient Population Who do Not Receive Blood Purification Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr David DE BELS</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brugmann University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A) Comparing the % of change in each clearances of pro-, and anti-inflammatory mediators
+      (cytokine, chemokines and complement) in the COVID-19 patients treated with CytoSorb as
+      compared to the same patient population who do not receive blood purification treatment.
+
+      B) Testing the Cytokinetic model by measuring cytokines in the blood stream and in the BAL to
+      see if you can create a reverse gradient allowing a massive passage of leucocyte from the
+      blood toward the infected lungs.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronavirus disease-19 (COVID-19) has emerged as a serious pandemic recently, with high
+      mortality especially in those patients who went on to develop acute respiratory failure
+      (around 50%), and especially in those who also developed acute kidney injury (AKI) (80%).
+      Extracorporeal cytokine removal has been recommended by international expert. Two technical
+      approaches have been studied one from Jafron® HA380 (Jafron Biomedical, Zhuhai, Chine) and
+      Cytosorb® (Cytosorbents Corporation, NJ, USA). Basically, it is a single -use sorbent
+      technology that can be used together with an hemofiltration circuit in CVVHD mode only. The
+      cartridge is made of adsorptive porous polymeric beats that represent all together an active
+      surface of 60,000 square meters.The cut-off of these cartridge is about 60,000 daltons and
+      all the cytokines smaller can easily removed by the cartridge especially in the blood stream.
+      The elimination percentage goes from 4 to 30 % with the CytoSorb® and remain steady for the
+      first 6 to 12 hours. The full elimination from the blood stream vary amongst cytokines. It is
+      about 28 % for IL-6- (p = 0.006) and somewhat less for TNF-alpha (8,5%, p = 0.13). Currently,
+      there is no available randomized controlled trial that assess morbidity and mortality in ARDS
+      secondary to COVID infections. There is one pilot study looking at 20 patients with early
+      (&lt;24 h) onset of septic shock of medical origin, on mechanical ventilation, norepinephrine&gt;10
+      μg/min, procalcitonin (PCT) &gt; 3 ng/mL without the need for renal replacement therapy were
+      randomized into CytoSorb (n = 10) and Control groups (n = 10). CytoSorb therapy lasted for 24
+      h. This was the first trial to investigate the effects of early extracorporeal cytokine
+      adsorption treatment in septic shock applied without renal replacement therapy. It was found
+      to be safe with significant effects on norepinephrine requirements, PCT and Big-endothelin-1
+      concentrations compared to controls.
+
+      Actually, other studies are only case report series upon other pulmonary infections than
+      COVID 19.The sorbent chose is the CytoSorb ® it is easier to install, has a CEE approval and
+      his temporally approval by the FDA for the time of the pandemic.
+
+      The features of acute hypoxemic respiratory failure in COVID-19 show two fundamentally
+      different phenotypes. One is the L-type: Low elastance; Low ventilation-to-perfusion ratio;
+      Low lung weight; Low lung recruitability. The H-type is characterized by the opposite
+      features. The latter is more similar to the classical ARDS and being investigated by several
+      studies. However, little is known about pathogenesis of the L-type, which can cause hypoxemia
+      to the same degree as the H-type. Even the pathophysiology is yet to be discovered, however,
+      vasoplegia is considered one of the major factors leading to severe right-to-left shunt.
+
+      It is postulated that cytokines , chemokines play a crucial role in the pathogenesis, but it
+      has not been investigated yet. Therefore we have chosen the clearance of these substances as
+      our primary endpoint. Usually, CytoSorb is attached to a CRRT circuit which has to run in a
+      CVVHD mode only. In some circumstances CytoSorb might be attached to the ECMO device. In
+      addition to cytokines complements may also play a major role in the pathophysiology of the
+      COVID 19. Therefore, we decided to investigate whether early treatment with blood
+      purification could exert any effects on the cytokine and complement profile and oxygenation
+      in these patients. Testing the Cytokinetic model by measuring cytokines in the blood stream
+      and in the BAL to see if you can create a reverse gradient allowing a massive passage of
+      leucocyte from the blood toward the infected lungs.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 3, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Pilot randomized controlled study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>comparing % of change in cytokine's clearances of pro et anti -inflammatory types</measure>
+    <time_frame>Day 1 to 5</time_frame>
+    <description>comparing the % of change in cytokine's clearances of pro et anti -inflammatory types, as well chemokines and complement pathway between a control population and a treated population with sorbent technology.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the impact upon the survival rate at 28 and 90 days.</measure>
+    <time_frame>Day 28 and Day 90</time_frame>
+    <description>Evaluation of the impact upon the survival rate at 28 and 90 days.Beside mortality, morbidity will be evaluate (free ventilatory days, ICU length of stay, shock free days , need of ECMO and secondary bacterial infections.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chemokine kinetics</measure>
+    <time_frame>Day 1 to 5</time_frame>
+    <description>Chemokine kinetics over time and compared to the control group Chemkine kinetics between blood and lung [time frame at day 1,3 and 5]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokine kinetics</measure>
+    <time_frame>Day 1 to 5</time_frame>
+    <description>Cytokine kinetics in COVID critically ill patients over time and compared to the control group. [Time Frame: Day 1 to 5] Cytokine kinetics over time and compared to the control group. Chemkine kinetics between blood and lung [time frame at day 1,3 and 5]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complement pathway kinetics</measure>
+    <time_frame>Day 1 to 5</time_frame>
+    <description>Complement pathway kinetics in COVID critically ill patients. [Time Frame: Day 1 to 5] Complement pathway kinetics over time and compared to the control group Complement pathway kinetics between blood and lung [time frame at day 1,3 and 5]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PaO2/FiO2 ratio</measure>
+    <time_frame>Up to 90 days</time_frame>
+    <description>Evaluation of PaO2/FiO2 ratio evolution during ICU stay</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard medical therapy (ie: control group) : Adult intensive care patient admit in acute respiratory distress needing intubation with suspicion of under the CT Scan of Covid 19 confirmed by positive antigen or PCR technology N =12 -Mechanical ventilation, prone position if needed,fluid challenge if needed , vasopressors if needed, inotropic support in needed……</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cytosorb</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CytoSorb therapy (ie: study group): Adult intensive care patient admit in acute respiratory distress needing intubation with suspicion of under the CT Scan of Covid 19 confirmed by positive antigen or PCR technology N =12 -Mechanical ventilation, prone position if needed,fluid challenge if needed , vasopressors if needed, inotropic support in needed…… Plus patients will be on CRRT with CytoSorb.Nevertheless , patients will be uniquely in CVVHD mode in order to measure only the CytoSorb Effect.
+First 24 h : the CytoSorb should be changed after 12 h as we forecast a huge cytokine storm in the first 24 hours.
+After the initial 24 h, cartridge change will occur every 24 hours up a maximum of 96 h in total in the inflammation storm persist.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CytoSorb</intervention_name>
+    <description>CRRT with CytoSorb.Nevertheless , patients will be uniquely in CVVHD mode in order to measure only the CytoSorb Effect.
+First 24 h : the CytoSorb should be changed after 12 h as we forecast a huge cytokine storm in the first 24 hours.
+After the initial 24 h, cartridge change will occur every 24 hours up a maximum of 96 h in total in the inflammation storm persist.</description>
+    <arm_group_label>Cytosorb</arm_group_label>
+    <other_name>CRRT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        - Adult intensive care patient admit in acute respiratory distress needing intubation with
+        suspicion of under the CT Scan of Covid 19 confirmed by positive antigen or PCR
+        technology-Patient COVID type L (Criteria Gattinoni -CT Scan )
+
+        Exclusion Criteria:
+
+          -  Patient COVID type H ( Gattinoni's Criteria -CT Scan )
+
+          -  Patient's refusal or refusal of his legal representative
+
+          -  HIV + AIDS
+
+          -  Short life Expectancy
+
+          -  Patients over 80 years of age.
+
+          -  Patients under ECMO or ECCO2R
+
+          -  Immunosuppression (steroids, chemotherapy…)
+
+          -  Cancer
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patrick Honore, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU Brugmann</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Patrick Honore, MD</last_name>
+    <phone>0032/24773946</phone>
+    <email>Patrick.Honore@CHU-Brugmann.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU Brugmann</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrick Honoré, MD</last_name>
+      <phone>0032/24773946</phone>
+      <email>Patrick.Honore@CHU-Brugmann.be</email>
+    </contact>
+    <investigator>
+      <last_name>Patrick Honoré, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <reference>
+    <citation>Naicker S, Yang CW, Hwang SJ, Liu BC, Chen JH, Jha V. The Novel Coronavirus 2019 epidemic and kidneys. Kidney Int. 2020 May;97(5):824-828. doi: 10.1016/j.kint.2020.03.001. Epub 2020 Mar 7.</citation>
+    <PMID>32204907</PMID>
+  </reference>
+  <reference>
+    <citation>Ronco C, Navalesi P, Vincent JL. Coronavirus epidemic: preparing for extracorporeal organ support in intensive care. Lancet Respir Med. 2020 Mar;8(3):240-241. doi: 10.1016/S2213-2600(20)30060-6. Epub 2020 Feb 6.</citation>
+    <PMID>32035509</PMID>
+  </reference>
+  <reference>
+    <citation>Kellum JA, Venkataraman R, Powner D, Elder M, Hergenroeder G, Carter M. Feasibility study of cytokine removal by hemoadsorption in brain-dead humans. Crit Care Med. 2008 Jan;36(1):268-72.</citation>
+    <PMID>18090355</PMID>
+  </reference>
+  <reference>
+    <citation>Hawchar F, László I, Öveges N, Trásy D, Ondrik Z, Molnar Z. Extracorporeal cytokine adsorption in septic shock: A proof of concept randomized, controlled pilot study. J Crit Care. 2019 Feb;49:172-178. doi: 10.1016/j.jcrc.2018.11.003. Epub 2018 Nov 10.</citation>
+    <PMID>30448517</PMID>
+  </reference>
+  <reference>
+    <citation>Gattinoni L, Chiumello D, Caironi P, Busana M, Romitti F, Brazzi L, Camporota L. COVID-19 pneumonia: different respiratory treatments for different phenotypes? Intensive Care Med. 2020 Jun;46(6):1099-1102. doi: 10.1007/s00134-020-06033-2. Epub 2020 Apr 14.</citation>
+    <PMID>32291463</PMID>
+  </reference>
+  <reference>
+    <citation>Adrie C, Adib-Conquy M, Laurent I, Monchi M, Vinsonneau C, Fitting C, Fraisse F, Dinh-Xuan AT, Carli P, Spaulding C, Dhainaut JF, Cavaillon JM. Successful cardiopulmonary resuscitation after cardiac arrest as a &quot;sepsis-like&quot; syndrome. Circulation. 2002 Jul 30;106(5):562-8.</citation>
+    <PMID>12147537</PMID>
+  </reference>
+  <reference>
+    <citation>Kellum JA, Kong L, Fink MP, Weissfeld LA, Yealy DM, Pinsky MR, Fine J, Krichevsky A, Delude RL, Angus DC; GenIMS Investigators. Understanding the inflammatory cytokine response in pneumonia and sepsis: results of the Genetic and Inflammatory Markers of Sepsis (GenIMS) Study. Arch Intern Med. 2007 Aug 13-27;167(15):1655-63.</citation>
+    <PMID>17698689</PMID>
+  </reference>
+  <reference>
+    <citation>Honore PM, Hoste E, Molnár Z, Jacobs R, Joannes-Boyau O, Malbrain MLNG, Forni LG. Cytokine removal in human septic shock: Where are we and where are we going? Ann Intensive Care. 2019 May 14;9(1):56. doi: 10.1186/s13613-019-0530-y. Review.</citation>
+    <PMID>31089920</PMID>
+  </reference>
+  <reference>
+    <citation>Cavaillon JM, Munoz C, Fitting C, Misset B, Carlet J. Circulating cytokines: the tip of the iceberg? Circ Shock. 1992 Oct;38(2):145-52. Review.</citation>
+    <PMID>1423923</PMID>
+  </reference>
+  <reference>
+    <citation>Akil A, Ziegeler S, Reichelt J, Rehers S, Abdalla O, Semik M, Fischer S. Combined Use of CytoSorb and ECMO in Patients with Severe Pneumogenic Sepsis. Thorac Cardiovasc Surg. 2020 Apr 6. doi: 10.1055/s-0040-1708479. [Epub ahead of print]</citation>
+    <PMID>32252114</PMID>
+  </reference>
+  <reference>
+    <citation>Gralinski LE, Sheahan TP, Morrison TE, Menachery VD, Jensen K, Leist SR, Whitmore A, Heise MT, Baric RS. Complement Activation Contributes to Severe Acute Respiratory Syndrome Coronavirus Pathogenesis. mBio. 2018 Oct 9;9(5). pii: e01753-18. doi: 10.1128/mBio.01753-18.</citation>
+    <PMID>30301856</PMID>
+  </reference>
+  <reference>
+    <citation>Peng ZY, Wang HZ, Carter MJ, Dileo MV, Bishop JV, Zhou FH, Wen XY, Rimmelé T, Singbartl K, Federspiel WJ, Clermont G, Kellum JA. Acute removal of common sepsis mediators does not explain the effects of extracorporeal blood purification in experimental sepsis. Kidney Int. 2012 Feb;81(4):363-9. doi: 10.1038/ki.2011.320. Epub 2011 Sep 14.</citation>
+    <PMID>21918497</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>April 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 19, 2020</study_first_posted>
+  <last_update_submitted>August 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Brugmann University Hospital</investigator_affiliation>
+    <investigator_full_name>Dr David DE BELS</investigator_full_name>
+    <investigator_title>Chairmn ICU</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1003">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04502342</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RDIMFPG</org_study_id>
+    <nct_id>NCT04502342</nct_id>
+  </id_info>
+  <brief_title>Add on to Azythromycine, Phytomedicine and/or Antimalarial Drug vs Hydroxychloroquine in Uncomplicated COVID-19 Patients</brief_title>
+  <acronym>CANCOVID-19</acronym>
+  <official_title>Évaluationefficacité et tolérance d'Une médication à Base de Cosphérunate et d'un phytomédicament Antiviral Par Voie Orale en Comparaison Avec un Traitement à Base d'Hydroxychloroquine Chez Des Adultes Malades Covid-19 Sans Complications</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institute for Research and Development of Medicinal and Food Plants of Guinea</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institute for Research and Development of Medicinal and Food Plants of Guinea</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The phase II clinical trial, with three arms and at rate of 10 patients per arm, received the
+      approval of the National Committee for Ethics and Health Research. This is a non inferiority
+      test aimed to compare the efficacy and safety in add on to Azithromycin, an antimalarial
+      drug, a treatment combination of the antimalrial drug with an antiviral phytomedicine versus
+      Hydroxychloroquine in COVID-19 patients without complications.
+
+      During the treatment, viral clearance, adverse effects related to treatment, and symptoms
+      progression will be assessed on days 3, 6 and 14. Clinical, paraclinical and laboratory tests
+      will be performed throughout the 3-month trial. Ethical and deontological considerations will
+      be applied.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The patient who has signed the informed consent for participation in the study will be
+      immediately taken care of by the investigating clinicians. The clinician will determine the
+      history of the disease and identify any clinical signs shown by the patient. Clinical data
+      will be recorded in the patient's medical file. At the end of the clinical examination, the
+      investigating clinician will draw up the report of the biological examinations.
+
+      Laboratory examinations will be carried out according to the procedures and method by
+      accredited laboratories in Guinea (National Institute of Public Health; Hemorrhagic Fevers
+      Laboratory; CREMS - Kindia Laboratory; Institut Pasteur de Guinée) for the diagnosis of
+      COVID19.
+
+      After inclusion, patients are assigned by randomization into separate treatment arms with 10
+      patients per arm. They remain in these treatment arms for the duration of the trial,
+      analysis, and follow-up activities. A random sequence will be generated and implemented so as
+      to randomize.
+
+      The treatments will be made available to investigative clinicians by the Institute for
+      Research and Development of Medicinal and Food Plants of Guinea.
+
+      All subjects meeting the inclusion criteria will benefit from an individual file which will
+      include data relating to general information, the complete clinical examination and the
+      paraclinical examination. The data will be coded, entered and processed using statistical
+      software. Data entry quality control will be performed on all files. The selected patients
+      are distributed randomly into 3 parallel arms, each arm having a different treatment
+      modality.
+
+      A homogeneity test on the main socio-demographic variables (age, sex, weight, hemoglobin
+      level, etc.) will be carried out between the different treatment arms before any specific
+      analysis. Baseline characteristics and treatment of subjects in arms 1, 2 and 3 will be
+      presented as medians, ranges for all parameters such as clinical, anthropometric, biochemical
+      values and as percentages or numbers for symptoms. The comparison between the three cohorts
+      will be made using either the Anova test for continuous variables or the chi2 test for
+      categorical variables.
+
+      The rate of change over time of virologic clearance, fever and other symptom values as well
+      as the differences for these rates between treatment arms will be tested using mixed-effects
+      modeling.
+
+      The duration of the trial is 20 days for each patient recruited. In anticipation of future
+      analyzes, the biological samples will be kept at the biobank of the National Institute of
+      Public Health of Guinea.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Eligible consenting symptomatic patients with COVID-19 confirmed by a positive Polymerase Chain Reaction test were subjected to the 10 days of treatment allocated to each of the 3 arms of the trial. Virological clearance is assessed on days 3, 6 and 14. Side effects and the onset of COVID symptoms are evaluated throughout the trial period. Clinical, paraclinical and laboratory examinations are occasionally provided. The data are statiscally processed.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Virological clearance of throat swabs or lower respiratory tract secretions</measure>
+    <time_frame>day 3 to day 14</time_frame>
+    <description>Virological clearance from admission to discharge at days 3, 6 and 14</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse effects</measure>
+    <time_frame>day 1 to day 14</time_frame>
+    <description>number of patients who developed treatment-related adverse effects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Worsened conditions</measure>
+    <time_frame>day 1 to day 14</time_frame>
+    <description>number of patients whose conditions worsened</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 symptoms</measure>
+    <time_frame>day 1 to day 14</time_frame>
+    <description>number of patients whose fever, cough and any other clinical sign observed on introduction have resolved</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine/Azythromycin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients received Hydroxychloroquine 200 mg tablet orally 3 times daily for 10 days and Azythromycine 250 mg orally at the rate of 2 tablets the first day, then one tablet for 5 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cospherunate/Azithromycine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients received Cospherunate (50 mg Artésunate/125 mg Amodiaquine) at the rate of 2 tablets orally twice daily for 6 days and Azythromycine 250 mg orally at the rate of 2 tablets the first day, then one tablet for 5 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cospherunate/Phytomedicine/Azithromycine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients received Cospherunate (50 mg Artésunate/125 mg Amodiaquine) at the rate of 2 tablets orally twice daily for 6 days and Phytomedicine tablet 350 mg at the rate of 2 tablets orally twice daily for 6 days, and Azythromycine 250 mg orally at the rate of 2 tablets the first day, then one tablet for 5 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Hydroxycloroquine and Azythromycine</intervention_name>
+    <description>dual treatment with Hydroxycloroquine and Azythromycine</description>
+    <arm_group_label>Hydroxychloroquine/Azythromycin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Cospherunate/Azythromycine</intervention_name>
+    <description>dual treatment with Cospherunate and Azythromycine</description>
+    <arm_group_label>Cospherunate/Azithromycine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Cospherunate/Phytomedicine/Azythromycien</intervention_name>
+    <description>triple treatment with Cospherunate, Asen and Azythromycine</description>
+    <arm_group_label>Cospherunate/Phytomedicine/Azithromycine</arm_group_label>
+    <other_name>Cospherunate/Asen/Azythromycine</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  eligible patients are symptomatic adults with COVID-19 confirmed by a positive
+             Polymerase Chain Reaction test without complications
+
+        Exclusion Criteria:
+
+          -  any patient herpersensitive to hydroxychloroquine or under antimalarial treatment in
+             the 2 weeks preceding inclusion;
+
+          -  any patient with a complication who must be taken care of in an Emergency or Intensive
+             Care Unit;
+
+          -  any patient with other acute or chronic ilnesses such as heart failure, arterial
+             hypertension, renal failure, hepatocellular failure, tuberculosis or unable to take
+             the oral the oral treatment;
+
+          -  any patient for whom one of the treatments under study is contraindicated according to
+             the doctor's opinion;
+
+          -  pregant women;
+
+          -  severe neurological manifestations.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mamadou A Baldé</last_name>
+    <role>Study Director</role>
+    <affiliation>RDIMFPG</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Donka; Kenien; Gbessia</name>
+      <address>
+        <city>Conakry</city>
+        <zip>224 Conakry</zip>
+        <country>Guinea</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Guinea</country>
+  </location_countries>
+  <reference>
+    <citation>Sohrabi C, Alsafi Z, O'Neill N, Khan M, Kerwan A, Al-Jabir A, Iosifidis C, Agha R. World Health Organization declares global emergency: A review of the 2019 novel coronavirus (COVID-19). Int J Surg. 2020 Apr;76:71-76. doi: 10.1016/j.ijsu.2020.02.034. Epub 2020 Feb 26. Review. Erratum in: Int J Surg. 2020 May;77:217.</citation>
+    <PMID>32112977</PMID>
+  </reference>
+  <reference>
+    <citation>Mahase E. Covid-19: WHO declares pandemic because of &quot;alarming levels&quot; of spread, severity, and inaction. BMJ. 2020 Mar 12;368:m1036. doi: 10.1136/bmj.m1036.</citation>
+    <PMID>32165426</PMID>
+  </reference>
+  <reference>
+    <citation>Colson P, Rolain JM, Lagier JC, Brouqui P, Raoult D. Chloroquine and hydroxychloroquine as available weapons to fight COVID-19. Int J Antimicrob Agents. 2020 Apr;55(4):105932. doi: 10.1016/j.ijantimicag.2020.105932. Epub 2020 Mar 4.</citation>
+    <PMID>32145363</PMID>
+  </reference>
+  <reference>
+    <citation>Baldé AM, Traoré MS, Baldé MA, Barry MS, Diallo A, Camara M, Traoré S, Kouyaté M, Traoré S, Ouo-Ouo S, Myanthé AL, Keita N, Haba NL, Goumou K, Bah F, Camara A, Diallo MS, Sylla M, Baldé ES, Diané S, Pieters L, Oularé K. Ethnomedical and ethnobotanical investigations on the response capacities of Guinean traditional health practioners in the management of outbreaks of infectious diseases: The case of the Ebola virus epidemic. J Ethnopharmacol. 2016 Apr 22;182:137-49. doi: 10.1016/j.jep.2016.02.021. Epub 2016 Feb 18.</citation>
+    <PMID>26900129</PMID>
+  </reference>
+  <reference>
+    <citation>Ayisi NK, Nyadedzor C. Comparative in vitro effects of AZT and extracts of Ocimum gratissimum, Ficus polita, Clausena anisata, Alchornea cordifolia, and Elaeophorbia drupifera against HIV-1 and HIV-2 infections. Antiviral Res. 2003 Mar;58(1):25-33.</citation>
+    <PMID>12719004</PMID>
+  </reference>
+  <reference>
+    <citation>D'Alessandro S, Scaccabarozzi D, Signorini L, Perego F, Ilboudo DP, Ferrante P, Delbue S. The Use of Antimalarial Drugs against Viral Infection. Microorganisms. 2020 Jan 8;8(1). pii: E85. doi: 10.3390/microorganisms8010085. Review.</citation>
+    <PMID>31936284</PMID>
+  </reference>
+  <reference>
+    <citation>Haładyj E, Sikora M, Felis-Giemza A, Olesińska M. Antimalarials - are they effective and safe in rheumatic diseases? Reumatologia. 2018;56(3):164-173. doi: 10.5114/reum.2018.76904. Epub 2018 Jun 30. Review.</citation>
+    <PMID>30042604</PMID>
+  </reference>
+  <reference>
+    <citation>Das AK. Anticancer Effect of AntiMalarial Artemisinin Compounds. Ann Med Health Sci Res. 2015 Mar-Apr;5(2):93-102. doi: 10.4103/2141-9248.153609. Review.</citation>
+    <PMID>25861527</PMID>
+  </reference>
+  <reference>
+    <citation>Gwitira I, Murwira A, Mberikunashe J, Masocha M. Spatial overlaps in the distribution of HIV/AIDS and malaria in Zimbabwe. BMC Infect Dis. 2018 Nov 27;18(1):598. doi: 10.1186/s12879-018-3513-y.</citation>
+    <PMID>30482166</PMID>
+  </reference>
+  <reference>
+    <citation>Santana Vdos S, Lavezzo LC, Mondini A, Terzian AC, Bronzoni RV, Rossit AR, Machado RL, Rahal P, Nogueira MC, Nogueira ML. Concurrent Dengue and malaria in the Amazon region. Rev Soc Bras Med Trop. 2010 Sep-Oct;43(5):508-11.</citation>
+    <PMID>21085859</PMID>
+  </reference>
+  <reference>
+    <citation>Liu DH, Liang BZ, Huang LY. [Clinical observation on the preventive effect of kangdu bufei decoction on acute severe respiratory syndrome]. Zhongguo Zhong Xi Yi Jie He Za Zhi. 2004 Aug;24(8):685-8. Chinese.</citation>
+    <PMID>15366588</PMID>
+  </reference>
+  <reference>
+    <citation>Tong X, Li A, Zhang Z, Duan J, Chen X, Hua C, Zhao D, Xu Y, Shi X, Li P, Tian X, Lin F, Cao Y, Jin L, Chang M, Wang Y. TCM treatment of infectious atypical pneumonia--a report of 16 cases. J Tradit Chin Med. 2004 Dec;24(4):266-9.</citation>
+    <PMID>15688692</PMID>
+  </reference>
+  <reference>
+    <citation>Liu BY, He LY, Liang ZW, Tong XY, Hu JQ, Jiao Q, Ni Q, Liu XM, Xie YM, Li P, Gao FZ, Wen TC, Liu WM. [Effect of glucocorticoid with traditional Chinese medicine in severe acute aespiratory syndrome (SARS)]. Zhongguo Zhong Yao Za Zhi. 2005 Dec;30(23):1874-7. Chinese.</citation>
+    <PMID>16499032</PMID>
+  </reference>
+  <reference>
+    <citation>Li Y, Liu X, Guo L, Li J, Zhong D, Zhang Y, Clarke M, Jin R. Traditional Chinese herbal medicine for treating novel coronavirus (COVID-19) pneumonia: protocol for a systematic review and meta-analysis. Syst Rev. 2020 Apr 8;9(1):75. doi: 10.1186/s13643-020-01343-4.</citation>
+    <PMID>32268923</PMID>
+  </reference>
+  <results_reference>
+    <citation>Efferth T, Romero MR, Wolf DG, Stamminger T, Marin JJ, Marschall M. The antiviral activities of artemisinin and artesunate. Clin Infect Dis. 2008 Sep 15;47(6):804-11. doi: 10.1086/591195. Review.</citation>
+    <PMID>18699744</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>• WHO | World Health Organization. Coronavirus (COVID-19) events as they happen [Internet]. 2020 [cited 2020 Mar 20]. Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen</citation>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Treatment; clinical research</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The samples stored in the biobank could be shared with other researchers with a view to in-depth analyzes in order to dig for example a posteriori on the hypotheses relating to the blood levels of the phytomedicine, hydroxychloroquine, etc., cardio-metabolic biological markers infarction, insulin sensitivity, thrombosis, specific antibodies, genetic markers, viral markers ...</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>The data could be available from september 30th to december 30th</ipd_time_frame>
+    <ipd_access_criteria>partnership framework established</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

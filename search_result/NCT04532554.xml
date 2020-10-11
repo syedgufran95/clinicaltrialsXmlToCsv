@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="576">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04532554</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PR0015</org_study_id>
+    <nct_id>NCT04532554</nct_id>
+  </id_info>
+  <brief_title>Growth Hormone in Obese Cases With Covid-19</brief_title>
+  <official_title>The Impact of Growth Hormone in Obese Cases With Covid-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ClinAmygate</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ClinAmygate</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The use of growth hormone in obese cases with COVID-19 may help them to recover earlier.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It is well known that lymphoid organs such the thymus, the spleen and peripheral blood
+      produce growth hormone (GH) and GH receptor is expressed on different subpopulations of
+      lymphocytes. Many in vitro and in animal studies demonstrate an important role of GH in
+      immunoregulation. GH stimulates T and B cells proliferation and immunoglobulin synthesis,
+      enhances the maturation of myeloid progenitor cells and is also able to modulate cytokine
+      response.
+
+      The use of growth hormone in obese cases with COVID-19 may help them to recover earlier.
+    </textblock>
+  </detailed_description>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    No participants enrolled
+  </why_stopped>
+  <start_date type="Anticipated">October 26, 2020</start_date>
+  <completion_date type="Anticipated">December 20, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 10, 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Need for hospitalization</measure>
+    <time_frame>one to two weeks</time_frame>
+    <description>need to be hospitalized due to deterioration</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to recovery</measure>
+    <time_frame>one to four weeks</time_frame>
+    <description>Time to recovery from symptoms and signs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of reduction in CRP</measure>
+    <time_frame>one to two weeks</time_frame>
+    <description>Percentage of reduction in CRP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of reduction in LDH</measure>
+    <time_frame>one to two weeks</time_frame>
+    <description>Percentage of reduction in LDH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of reduction in Ferritin</measure>
+    <time_frame>one to two weeks</time_frame>
+    <description>Percentage of reduction in Ferritin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to recovery from leucopenia</measure>
+    <time_frame>one to two weeks</time_frame>
+    <description>Time to recovery from leucopenia</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">0</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Growth hormone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Recombinant GH will be used for those patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Saline will be used</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Growth Hormone</intervention_name>
+    <description>Recombinant growth hormone will be used</description>
+    <arm_group_label>Growth hormone</arm_group_label>
+    <other_name>Recombinant growth hormone</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Saline injection with the same amount</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Saline</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Obese with BMI &gt; 30
+
+        Exclusion Criteria:
+
+          -  History of hypersensitivity to GH
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Emad R Issak, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assalam Clinics</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Asalam</name>
+      <address>
+        <city>Maadi</city>
+        <state>Cairo</state>
+        <zip>11433</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <link>
+    <url>https://www.researchgate.net/publication/7329964_Effect_of_growth_hormone_GH_on_the_immune_system</url>
+    <description>Effect of growth hormone (GH) on the immune system.</description>
+  </link>
+  <results_reference>
+    <citation>Meazza C, Pagani S, Travaglino P, Bozzola M. Effect of growth hormone (GH) on the immune system. Pediatr Endocrinol Rev. 2004 Aug;1 Suppl 3:490-5. Review.</citation>
+    <PMID>16444180</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 31, 2020</study_first_posted>
+  <last_update_submitted>September 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hormones</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

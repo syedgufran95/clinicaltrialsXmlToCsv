@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2516">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04525820</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-01401</org_study_id>
+    <nct_id>NCT04525820</nct_id>
+  </id_info>
+  <brief_title>High Dose Vitamin-D Substitution in Patients With COVID-19: a Randomized Controlled, Multi Center Study</brief_title>
+  <acronym>VitCov</acronym>
+  <official_title>High Dose Vitamin-D Substitution in Patients With COVID-19: a Randomized Controlled, Multi Center Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Prof. Dr. Jörg Leuppi</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cantonal Hosptal, Baselland</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The world is currently facing a pandemic with the coronavirus (SARS-CoV-2) which leads to the
+      disease of COVID-19. Risk factors for a poor outcome of COVID-19 have so far been identified
+      as older age and co-morbidity including chronic respiratory conditions such as chronic
+      obstructive pulmonary disease (COPD) and current smoking status. Previous studies found, that
+      vitamin D deficiency is more prevalent among patients with these risk factors. There are
+      observational studies reporting independent associations between low serum concentrations of
+      25-hydroxyvitamin D (the major circulating vitamin D metabolite) and susceptibility to acute
+      respiratory tract infection.
+
+      Vitamin D substitution in patients with COVID-19 who show a vitamin D deficiency should
+      therefore be investigated for efficacy and safety.
+
+      The study is designed as a randomized, placebo-controlled, double blind study. The objective
+      of the study is to test the hypothesis that patients with vitamin D deficiency suffering from
+      COVID-19 treated under standardized conditions in hospital will recover faster when
+      additionally treated with a single high dose of vitamin D compared to standard treatment
+      only.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The world is currently experiencing a coronavirus (SARS-CoV-2) pandemic. The disease caused
+      by infection with this virus is known as COVID-19. Risk factors for a poor outcome of
+      COVID-19 have so far been found to include, older age and co-morbidity including chronic
+      respiratory conditions and current smoking status. Previous studies found, that vitamin D
+      deficiency is more prevalent among patients with these risk factors.
+
+      There are observational studies reporting independent associations between low serum
+      concentrations of 25-hydroxyvitamin D (the major circulating vitamin D metabolite) and
+      susceptibility to acute respiratory tract infection. 25-hydroxyvitamin D supports induction
+      of antimicrobial peptides in response to both viral and bacterial stimuli suggesting a
+      potential mechanism by which vitamin D inducible protection against respiratory pathogens
+      might be mediated. The clear functions of vitamin D in the immune system are difficult to
+      define because the immune response is not a static process. The vitamin-D-receptor, which has
+      also been detected in immunological cells, suggests that vitamin D can regulate some
+      processes related to immunity. A further argument which supports a potential antiviral
+      activity of vitamin D is the modulation of the inflammatory response. The release of
+      pro-inflammatory cytokines by the influenza virus appeared to correlate with the severity of
+      illness. The use of vitamin D as a prophylactic for influenza has shown promise in prevention
+      of illness and reduction of secondary asthma in children. Inadequate vitamin D status is
+      associated with susceptibility to upper respiratory infections in patients with chronic
+      obstructive pulmonary disease (COPD). In the ViDiCo-trial vitamin D supplementation protected
+      against moderate or severe exacerbation, but not upper respiratory infection, in patients
+      with COPD. A further study retrospectively examined data from 108 patients with acute
+      respiratory distress syndrome (ARDS) for whom a vitamin D status was available at the time of
+      diagnosis revealed that over 95% of these patients had vitamin D deficiency. When examined
+      according to quarterly of serum 25- hydroxyvitamin D, a consistent inverse relationship
+      between serum 25-hydroxyvitamin D and length of hospital and ICU stay among survivors was
+      observed. Vitamin D substitution in patients with COVID-19 who show a vitamin D deficiency
+      should therefore be investigated for efficacy and safety.
+
+      For this purpose the investigators designed a randomized, placebo controlled double blind
+      trial to test the hypothesis hypothesis that a single high dose of vitamin D in addition to
+      standard treatment improves the recovery period positively in patients with COVID-19 and
+      vitamin D deficiency compared to standard treatment only. That means, that the time of
+      recovery is shorter in the single high dose vitamin D group relative to standard treatment
+      group only.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>one group receives a single high dose of vitamin D in addition to treatment as usual (TAU) the other group receives a single dose of placebo in addition to TAU</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The blinding is performed by the hospital pharmacy of the university hospital of Basel. They will provide us with packed and labeled study medication and placebo. They will provide us with medication packages for each patient which includes either high dose vitamin D and the standard medication or the placebo and the standard medication.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Length of hospitalization</measure>
+    <time_frame>Administration to Discharge from hospital care (mean duration is between 14 and 22 days for Patients with COVID 19)</time_frame>
+    <description>Overall duration of the hospitalization from day of admission until the day of discharge or fatality</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Need of intensive care</measure>
+    <time_frame>Until discharge or fatality (mean duration is between 14 and 22 days for Patients with COVID-19)</time_frame>
+    <description>Did the patient need a intensive care treatment during the hospitalization (yes/no)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lenght of the Intensive Care Treatment</measure>
+    <time_frame>Until discharge or fatality (mean duration is between 14 and 22 days for Patients with COVID-19)</time_frame>
+    <description>Day of admission to ICU until discharge or fatality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall mortality</measure>
+    <time_frame>During the length of hospitalisation (mean duration is between 14 and 22 days for Patients with COVID-19)</time_frame>
+    <description>Percentage of patient died during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of vitamin D levels</measure>
+    <time_frame>Day 1 (Baseline) and Day 7 after the first administration of the high dose vitamin D or the placebo and at discharge (mean hospital stay is between 14 and 22 days for Patients with COVID-19)</time_frame>
+    <description>percentage of patients with 25-hydroxyvitamin D &gt; 50nmol/L (&gt;20ng/mL) at day 7
+- The values of calcium, phosphorus, 24-hydroxyvitamin D, 1.25-dihydroxyvitamin D, parathyroid hormone.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of sepsis</measure>
+    <time_frame>During the length of hospitalization (mean duration is between 14 and 22 days for Patients with COVID-19)</time_frame>
+    <description>percentage of patients developing a sepsis</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Complications due to COVID-19</measure>
+    <time_frame>During the length of hospitalization (mean duration is between 14 and 22 days for Patients with COVID-19)</time_frame>
+    <description>We assess every other complications which occurs due to COVID-19</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Blood pressure (BP)</measure>
+    <time_frame>Daily until discharge or fatality (mean duration is between 14 and 22 days for Patients with COVID-19)</time_frame>
+    <description>The BP will be assessed daily in mmHg</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Heart rate</measure>
+    <time_frame>Daily until discharge or fatality (mean duration is between 14 and 22 days for Patients with COVID-19)</time_frame>
+    <description>The heart rate will be assessed daily in bpm</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Peripheral oxygen saturation (SpO2)</measure>
+    <time_frame>Daily until discharge or fatality (mean duration is between 14 and 22 days for Patients with COVID 19)</time_frame>
+    <description>The SpO2 will be assessed daily in %</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Percentage of patients who require oxygen</measure>
+    <time_frame>Daily until discharge or fatality (mean duration is between 14 and 22 days for Patients with COVID 19)</time_frame>
+    <description>Requirement for oxygen will be assessed daily (yes/no) if yes how many liters per minute</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Breathing frequency</measure>
+    <time_frame>Daily until discharge or fatality (mean duration is between 14 and 22 days for Patients with COVID 19)</time_frame>
+    <description>Breathing frequence will be assessed daily in breaths per minute</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Glasgow Coma Scale (GCS)</measure>
+    <time_frame>Daily until discharge or fatality (mean duration is between 14 and 22 days for Patients with COVID 19)</time_frame>
+    <description>GCS will be assessed daily 3 to 15 points. It describes the extent of impaired consciousness. 15 points means no impairment, 3 points means severe impairment of consciousness.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Percentage of patients are smokers, former smokers or lifelong non-smokers</measure>
+    <time_frame>Assessing of the smoking Status at Basleine</time_frame>
+    <description>Assessing the history of smoking in pack years (PY). the assessment will be made with the following options for answering Current smoker: Smoking for how many years? Cigarettes per day? Former smoker, how many years smoked? How many cigarettes per day Life-long non-smoker</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Current Symptoms</measure>
+    <time_frame>Daily until discharge or fatality (mean duration is between 14 and 22 days for Patients with COVID 19)</time_frame>
+    <description>Assessed in No/ Mild/ Moderate /Severe</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Temperature</measure>
+    <time_frame>Daily until discharge or fatality (mean duration is between 14 and 22 days for Patients with COVID 19)</time_frame>
+    <description>Temperature will be assessed daily in degrees celsius</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Covid19</condition>
+  <condition>Vitamin D Deficiency</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>ARDS</condition>
+  <condition>Coronavirus</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>High Dose Vitamin D</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient will receive a single high dose of vitamin D (140'000) in addition to daily 800 IU of vitamin D.
+The medication be administered orally</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patient will receive a single dose of placebo, orally administered and then treatment as usual (daily 800 IU of vitamin D, orally administered)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Single high dose vitamin D</intervention_name>
+    <description>Patient receives either one dose orally of 140'000 IU (7 ml) of this drug once as an intervention treatment additionally to TAU or the patient receives 7 ml of the placebo Solution (7 ml) in addition to TAU</description>
+    <arm_group_label>High Dose Vitamin D</arm_group_label>
+    <other_name>VITAMIN D3 oil 500 IU/drop</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Patient receives a single dose of a placebo solution</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Oily placebo solution</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Treatment as usual vitamin D</intervention_name>
+    <description>Both groups receive the treatment as usual after the single high dose or the placebo which will be 800 IU per day</description>
+    <arm_group_label>High Dose Vitamin D</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Vitamin D3 solution 4000 IU/ml</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Informed Consent as documented by signature
+
+          -  Hospitalized Patient
+
+          -  Ongoing COVID-19 infection
+
+          -  Vitamin D deficiency defined as a serum 25-hydroxyvitamin D concentration ≤ 50nmol/l(
+             ≤20ng/ml)
+
+          -  &gt; 18 years of age
+
+        Exclusion Criteria:
+
+          -  Known hypersensitivity to one of the used products of vitamin D or indigents in the
+             drug's composition
+
+          -  Active malignancy
+
+          -  Hypercalcemia
+
+          -  Granulomatous disease such as sarcoidosis
+
+          -  History of renal stones within the past year
+
+          -  Pregnancy/breastfeeding, as evaluated through screening,
+
+          -  Previous enrollment into the current study,
+
+          -  Enrollment of the investigator, his/her family members, employees and other dependent
+             persons,
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jörg D Leuppi, Professor</last_name>
+    <role>Study Director</role>
+    <affiliation>Kantonsspital Baselland</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jörg D Leuppi, Professor</last_name>
+    <phone>+41 61 925 2181</phone>
+    <email>joerg.leuppi@ksbl.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fabienne Jaun, BScN</last_name>
+    <phone>+41 61 925 37 55</phone>
+    <email>fabienne.jaun@ksbl.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cantonal Hospital Aarau</name>
+      <address>
+        <city>Aarau</city>
+        <state>AG</state>
+        <zip>5001</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Philipp Schütz, Professor</last_name>
+      <phone>+41 62 838 95 25</phone>
+      <email>philipp.schuetz@ksa.ch</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cantonal Hospital Baselland Liestal</name>
+      <address>
+        <city>Liestal</city>
+        <state>BL</state>
+        <zip>4410</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cantonal Hospital St. Gallen</name>
+      <address>
+        <city>Saint Gallen</city>
+        <state>SG</state>
+        <zip>9001</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Michael Brändle, Professor</last_name>
+      <phone>+41 62 494 22 22</phone>
+      <email>michael.braendle@kssg.ch</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 25, 2020</study_first_posted>
+  <last_update_submitted>August 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Cantonal Hosptal, Baselland</investigator_affiliation>
+    <investigator_full_name>Prof. Dr. Jörg Leuppi</investigator_full_name>
+    <investigator_title>Chief Physician, Medical University Clinic, Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Vitamin D Deficiency</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>Corona Virus</keyword>
+  <keyword>High dose vitamin D</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Vitamin D Deficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Ergocalciferols</mesh_term>
+    <mesh_term>Cholecalciferol</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+    <mesh_term>Pharmaceutical Solutions</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

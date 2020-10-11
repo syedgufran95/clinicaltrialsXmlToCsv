@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="665">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04543006</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EssaiClinique_PANCOLIN</org_study_id>
+    <nct_id>NCT04543006</nct_id>
+  </id_info>
+  <brief_title>Persistence of Neutralizing Antibodies 6 and 12 Months After a Covid-19</brief_title>
+  <acronym>PANCOLIN</acronym>
+  <official_title>Persistence of Neutralizing Antibodies 6 and 12 Months After a Covid-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Grenoble</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Grenoble</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Covid-19 is associated with the onset of anti-SARS-CoV-2 antibodies; in a majority of
+      patients, neutralizing antibodies are detected. However, the long-term persistence of such
+      protective antibodies is not known.
+
+      The investigators will explore patients with a proven Covid-19 (positive PCR) 6 and 12 months
+      after the diagnosis to determine whether neutralizing antibodies are still detected.
+
+      The investigators will determine whether this persistance varies according to
+
+        -  the severity of the Covid-19
+
+        -  a treatment by steroids during the covid-19. This will help to anticipate whether a
+           second wave of infection is possible in a non-naive population.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Covid-19 is associated with the onset of anti-SARS-CoV-2 antibodies; in a majority of
+      patients, neutralizing antibodies are detected. However, the long-term persistence of such
+      protective antibodies is not known.
+
+      The investigators will explore adult patients with a proven Covid-19 (positive PCR) 6 and 12
+      months after the diagnosis to determine whether neutralizing antibodies are still detected.
+
+      The investigators will determine whether this persistance varies according to
+
+        -  the severity of the Covid-19 (3 groups: no oxyegn therapy; oxygen therapy of less than
+           3L/min; oxygen therapy of 3L/min or more)
+
+        -  a treatment by steroids during the covid-19. Immunocompromised patients will be
+           excluded.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 8, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>sample of patients 6 and 12 months after the acute disease</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>anti-SARS-CoV-2 neutralizing antibody titers</measure>
+    <time_frame>1 day</time_frame>
+    <description>Titer in plamsa of neutralizing anti-SARS-CoV-2 antibody</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">170</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Covid-19</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>only arm: Covid-19 proven by PCR</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>serology</intervention_name>
+    <description>blood sample of 10 ml twice (6 and 12 months after the Covid-19)</description>
+    <arm_group_label>Covid-19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  positive SARS-CoV-2
+
+        Exclusion Criteria:
+
+          -  age under 18
+
+          -  immunocompromised at the onset of Covid-19
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Olivier Epaulard, MD,PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Grenoble</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Olivier Epaulard, MD,PhD</last_name>
+    <phone>0033476765291</phone>
+    <email>oepaulard@chu-grenoble.fr</email>
+  </overall_contact>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 15, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>neutralizing antibodies</keyword>
+  <keyword>long-term persistence</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

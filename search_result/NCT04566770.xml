@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1881">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04566770</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JSVCT093</org_study_id>
+    <nct_id>NCT04566770</nct_id>
+  </id_info>
+  <brief_title>Phase IIb Clinical Trial of A COVID-19 Vaccine Named Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector)</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo -Controlled Phase IIb Clinical Trial to Evaluate the Safety and Immunogenicity of Ad5-nCoV in Person 6 Years of Age and Older and Those Who Have Previously Been Vaccinated With Ad5-EBOV</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CanSino Biologics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Beijing Institute of Biotechnology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Jiangsu Province Centers for Disease Control and Prevention</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>CanSino Biologics Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized, double-blind, placebo -controlled IIb clinical trial, in order to
+      evaluate the safety and immunogenicity of Recombinant Novel Coronavirus Vaccine (Adenovirus
+      Type 5 Vector) in people 6 years old and above and .
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase IIb clinical trial to evaluate safety and immuogenicity of Ad5-nCoV developed
+      by Cansino and Beijing Institute of Biotechnology in health people aged 6 years old and
+      above.
+
+      The study will be double-blind, placebo-controlled trial with participants randomly allocated
+      2:1 to placebo and experimental vaccine .
+
+      The immunization schedule is two doses intramuscular injections (deltoid).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 24, 2020</start_date>
+  <completion_date type="Anticipated">October 20, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 21, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety indexes of adverse reactions</measure>
+    <time_frame>within 14 days post each vaccination</time_frame>
+    <description>Occurrence of adverse reactions post vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunogencity indexes of GMT</measure>
+    <time_frame>Day 28 post the second vaccination</time_frame>
+    <description>Evaluate the Geometric mean titer (GMT) of IgG antibody</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunogencity indexes of neutralizing antibody</measure>
+    <time_frame>Day 28 post the second vaccination</time_frame>
+    <description>Evaluate the Geometric mean titer (GMT) of neutralizing antibody</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety indexes of adverse events</measure>
+    <time_frame>Day 0-7,0-14,0-28 post each vaccination</time_frame>
+    <description>Occurrence of adverse reactions post-vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety indexes of Hematological examination measures</measure>
+    <time_frame>pre-vaccination, day 4 post each vaccination</time_frame>
+    <description>Occurrence of abnormal changes of Hematological examination indexes(only fit for MID and sentinel group)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety indexes of Blood routine measures</measure>
+    <time_frame>pre-vaccination, day 4 post each vaccination</time_frame>
+    <description>Occurrence of abnormal changes of lBlood routine indexes (only fit for MID and sentinel group)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety indexes of SAE</measure>
+    <time_frame>Within 6 months post the second vaccination</time_frame>
+    <description>Occurrence of serious adverse events post-vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogencity indexes of GMT</measure>
+    <time_frame>Day 28 post the first vaccination, pre the second vaccination ,Month 6 post the second vaccination</time_frame>
+    <description>Evaluate the Geometric mean titer of IgG antibody</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogencity indexes of neutralizing antibody</measure>
+    <time_frame>Day 28 post the first vaccination, pre the second vaccination ,Month 6 post the second vaccination</time_frame>
+    <description>Evaluate the Geometric mean titer (GMT) of neutralizing antibody</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogencity indexes of cellular immune</measure>
+    <time_frame>Day 28 post the first vaccination, pre and day 28 post the second vaccination</time_frame>
+    <description>Number of cell-mediated immune response against SARS-CoV-2（IL-2）</description>
+  </secondary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">481</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>MID A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 participants(18-49), Ad5-nCoV , two doses, Intramuscular administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MID B</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>10 participants(18-49), Ad5-nCoV-placebo , two doses, Intramuscular administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MIN A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 participants(6-17), Ad5-nCoV , two doses, Intramuscular administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MIN B</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>50 participants(6-17), Ad5-nCoV-placebo , two doses, Intramuscular administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>OLD A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 participants(56 years of age and above), Ad5-nCoV , two doses(Low dose), Intramuscular administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>OLD B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 participants(56 years of age and above), Ad5-nCoV , two doses(Middle dose), Intramuscular administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>OLD C</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>50 participants(56 years of age and above), Ad5-nCoV-placebo , two doses, Intramuscular administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EBOV A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>34 participants, Ad5-nCoV , two doses, Intramuscular administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EBOV B</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>17 participants, Ad5-nCoV , two doses, Intramuscular administration</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector)</intervention_name>
+    <description>Intramuscular other name:Ad5-nCoV</description>
+    <arm_group_label>EBOV A</arm_group_label>
+    <arm_group_label>MID A</arm_group_label>
+    <arm_group_label>MIN A</arm_group_label>
+    <arm_group_label>OLD A</arm_group_label>
+    <arm_group_label>OLD B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector) -placebo</intervention_name>
+    <description>Intramuscular other name:Ad5-nCoV</description>
+    <arm_group_label>EBOV B</arm_group_label>
+    <arm_group_label>MID B</arm_group_label>
+    <arm_group_label>MIN B</arm_group_label>
+    <arm_group_label>OLD C</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Aged 18 to 55 years old in MID group; aged 6-17 years old in MIN group; aged 56 years
+             and above in OLD group; aged in EBO group is not limited.
+
+          -  Able to understand the content of informed consent and willing to sign the informed
+             consent
+
+          -  Able and willing to complete all the secluded study process during the whole 6 months
+             study follow-up period.
+
+          -  Negative in HIV diagnostic test.
+
+          -  Negative in serum antibodies (IgG and IgM) screening of COVID-19.
+
+          -  Axillary temperature ≤37.0°C.
+
+          -  General good health as established by medical history and physical examination.
+
+        Exclusion Criteria:
+
+          -  Family history of seizure, epilepsy, brain or mental disease
+
+          -  Subject allergic to any component of the investigational vaccine, or a more severe
+             allergic reaction and history of allergies in the past.
+
+          -  Woman who is pregnant, breast-feeding or positive in β-HCG (human chorionic
+             gonadotropin) pregnancy test (urine) on day of enrollment, or become pregnant during
+             the next 6 months
+
+          -  Any acute fever disease or infections.
+
+          -  History of SARS
+
+          -  Major congenital defects or not well-controlled chronic illness, such as asthma,
+             diabetes, or thyroid disease.
+
+          -  Serious cardiovascular diseases, such as arrhythmia, conduction block, myocardial
+             infarction, severe hypertension without controllable drugs, etc.
+
+          -  Hereditary angioneurotic edema or acquired angioneurotic edema Urticaria in last one
+             year
+
+          -  No spleen or functional spleen.
+
+          -  Platelet disorder or other bleeding disorder may cause injection contraindication
+
+          -  Faint at the sight of needles.
+
+          -  Prior administration of immunodepressant or corticosteroids, antianaphylaxis
+             treatment, cytotoxic treatment in last 6 months.
+
+          -  Prior administration of blood products in last 4 months
+
+          -  Prior administration of other research medicines in last 1 month
+
+          -  Prior administration of attenuated vaccine in last 1 month
+
+          -  Prior administration of inactivated vaccine in last 14 days
+
+          -  Current anti-tuberculosis prophylaxis or therapy
+
+          -  According to the judgement of investigator,various medical, psychological, social or
+             other conditions, those could affect the subjects to sign informed consent.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>6 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fengcai Zhu, MSD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jiangsu Provincal Center for Disease Control and Prevention</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Wenjuan Wang, MSD</last_name>
+    <phone>025-83759911</phone>
+    <email>wangwj@jscdc.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Taixing City center for Disease Control and Prevention</name>
+      <address>
+        <city>Taizhou</city>
+        <state>Jiangsu</state>
+        <zip>210000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wenjuan Wang, MSD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 28, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>Ad5</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Immunogencity</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Adenovirus Vector</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

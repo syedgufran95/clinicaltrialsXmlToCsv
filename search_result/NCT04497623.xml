@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="183">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04497623</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202006-25502</org_study_id>
+    <nct_id>NCT04497623</nct_id>
+  </id_info>
+  <brief_title>Clinical Evaluation of Ventilador Innovation Product in Colombia in the SARS COVID 19 Pandemic, Unisabana Herons.</brief_title>
+  <acronym>SabanaHerons</acronym>
+  <official_title>Clinical Evaluation of Ventilator Innovation Product in Colombia in the SARS Pandemic Covid 19, Unisabana Herons - A Cohort Study - Phase 1</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundación Neumologica Colombiana</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universidad de la Sabana</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundación Cardioinfantil Instituto de Cardiología</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Clínica Universidad de La Sabana</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fundación Neumologica Colombiana</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to evaluate the efficacy and safety of the Unisabana-Herons
+      invasive mechanical ventilator designed to provide the basic ventilatory support necessary to
+      preserve the life of patients with respiratory failure and indication of mechanical
+      ventilation, especially for those who suffer from acute respiratory distress syndrome (ARDS)
+      when conventional commercial invasive ventilators are not available in the context of the
+      health emergency due to the COVID-19 epidemic.
+
+      The Unisabana-Herons ventilator allows to precisely configure the respiratory rate, tidal
+      volume (or inspired air volume), inspiratory time, the inspiration: expiration ratio, the
+      positive pressure at the end of expiration (PEEP), the inspired fraction of oxygen and
+      inspiratory air flow, parameters that allow managing the respiratory failure associated with
+      COVID-19. The ventilator also monitors peak inspiratory pressures (PIP), mean, PEEP, plateau,
+      and graphs in real time the pressure-time, volume-time, flow-time curves, which allows
+      detecting when one of these is at levels dangerous to induce ventilator trauma (barotrauma
+      and volutrauma) and thus ensure effective and safe ventilation, so as to avoid
+      ventilator-induced lung injury.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Unisabana-Herons ventilator is an invasive mechanical ventilator that works on the same
+      principles of invasive positive pressure mechanical ventilators that have existed for 80
+      years. Although the effectiveness of ventilatory assistance in saving human lives was known
+      since biblical times, the first mechanical ventilators only appeared in 1800 and it was in
+      1900 when the first positive pressure ventilators were manufactured, which have a turning
+      point in 1940 as a result of the polio epidemic, when invasive positive pressure mechanical
+      ventilators were developed that could be used massively and have evolved to current models.
+      These positive pressure fans completely replaced the first negative pressure models, have
+      abundant support in the scientific literature, and are the most commonly used today.
+
+      Since the beginning of the COVID-19 epidemic in Colombia, the University of La Sabana, a
+      multidisciplinary team in order to find solutions to deal with the disease, and its first
+      project, consisted in the design and manufacture of an invasive mechanical ventilator
+      (Ventilator Unisabana-Herons) able to supply the basic ventilatory needs of the patient with
+      severe respiratory failure due to COVID-19 at the time when the installed capacity of classic
+      commercial mechanical ventilators is exhausted. The Unisabana-Herons ventilator was built
+      based on those recommended by INVIMA, the MHRA (UK Medicines and Devices Regulatory Agency)
+      and the FDA, to provide efficient and safe volume controlled ventilation to patients with
+      indications. of mechanical ventilation for respiratory failure according to the ventilatory
+      modes already affected that have strong scientific evidence.
+
+      This study seeks to evaluate the effectiveness, usability and safety of the Unisabana-Herons
+      ventilator for the management of patients with an indication for invasive mechanical
+      ventilatory support, admitted to level III and IV university hospitals with Intensive Care
+      services enabled through a cohort study of 5 patients with a 24-hour follow-up.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 28, 2020</start_date>
+  <completion_date type="Actual">September 20, 2020</completion_date>
+  <primary_completion_date type="Actual">August 13, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Enrolled patients receive mechanical ventilation using the Unisabana-Herons ventilator during 24 hours</intervention_model_description>
+    <primary_purpose>Device Feasibility</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Improvement or maintenance of the oxygenation level measured by PaO2</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Maintenance: less than 20% drop in PaO2 with respect to the baseline measurements made in the 30 minutes before connecting the Unisabana-Herons ventilator.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Improvement or maintenance of the oxygenation level measured by O2 Saturation</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Maintenance: less than 20% drop in SatO2 levels with respect to the baseline measurements made in the 30 minutes before connecting the Unisabana-Herons ventilator.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Improvement or maintenance of adequate levels of carbon dioxide measured by PaCO2</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Maintenance is defined as a change of less than 20% in the levels of this variable with respect to the baseline measurements made in the 30 minutes before connecting the Unisabana-Herons ventilator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement or maintenance of adequate levels of HCO3</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Maintenance is defined as a change of less than 20% in the levels of this variable with respect to the baseline measurements made in the 30 minutes before connecting the Unisabana-Herons ventilator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement or maintenance of adequate levels of excess base.</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Maintenance is defined as a change of less than 20% in the levels of this variable with respect to the baseline measurements made in the 30 minutes before connecting the Unisabana-Herons ventilator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement or maintenance of adequate levels of blood pH</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Maintenance is defined as a change of less than 20% in the levels of this variable with respect to the baseline measurements made in the 30 minutes before connecting the Unisabana-Herons ventilator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement or maintenance of PaO2/FiO2</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Stability is defined as a decrease of less than 20% in this variable with respect to the baseline measurements made in the 30 minutes before connecting the Unisabana-Herons ventilator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement or maintenance of SatO2/FiO2</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Stability is defined as a decrease of less than 20% in this variable with respect to the baseline measurements made in the 30 minutes before connecting the Unisabana-Herons ventilator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Uninterrupted and faultless operation in the period of use of the ventilator</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inspiratory peak pressure&gt; 35 cm H2O that does not have a clinical explanation other than the ventilator (such as a mucus plug)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Peak pressure &gt;35 CM H20.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plateau airway pressure&gt; 30 cm H2O that does not have a clinical explanation other than the ventilator</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VT&gt; 8 cc / kg of ideal weight that does not have a clinical explanation other than the ventilator</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Decrease or increase in respiratory rate, tidal volume, PEEP, peak inspiratory pressure, FiO2, not due to a clinician order (changes not ordered by the clinical team but due to the ventilator variability)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pneumothorax (not having an explanation other than ventilatory support, such as the insertion of a central catheter)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pneumomediastinum (not having an explanation other than ventilatory support, such as the insertion of a central catheter)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subcutaneous emphysema (not having an explanation other than ventilatory support, such as the insertion of a central catheter)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemodynamic deterioration in the hour following the start of the Unisabana-Herons ventilator that requires a 100% increase in the dose of vasopressors and that does not have a clinical explanation other than the ventilator</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiac arrest without a clinical explanation other than the ventilator</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death without a clinical explanation other than the ventilator</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elevation of creatinine that does not have a clinical explanation other than the ventilator</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elevation of BUN that does not have a clinical explanation other than the ventilator</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Digestive bleeding without a clinical explanation other than ventilator</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stress ulcers (upper gastrointestinal tract) without a clinical explanation other than ventilator</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pneumonia associated with ventilator.</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tracheobronchitis associated with ventilator.</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Critical care polyneuropathy that does not have a different explanation for the use of the ventilator and / or muscle relaxants necessary for mechanical ventilation</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Critical care myopathy that does not have a different explanation for the use of the ventilator and / or muscle relaxants necessary for mechanical ventilation</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Present or absent outcome</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">5</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Intervention arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with indication for volume-controlled mechanical ventilation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Invasive mechanical ventilation using the Unisabana-Herons Ventilator during 24 hours</intervention_name>
+    <description>Recruited patients will receive volume-controlled mechanical ventilation (assist-control mode) using the Unisabana-Herons ventilator for 24 hours. Information on clinical, hemodynamic, and respiratory variables will be recorded from 30 minutes before the start of mechanical ventilation with the Unisabana-Herons ventilator. Recordings will be made in the first 4 hours every 15 minutes in the CFR, except for arterial blood gases which will be taken every 30 minutes. In the following 20 hours, arterial blood gas controls will be taken at hour 12 from the start of the ventilator and at hour 24. Other hemodynamic and respiratory variables will be recorded every hour from hour 4 of ventilator start until hour 24.</description>
+    <arm_group_label>Intervention arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients older than 18 years and younger than 70 years with indication of
+             volume-controlled mechanical ventilation for more than 24 hours.
+
+          -  Patients with acute respiratory failure (PaO2 / FiO2 &lt;300) requiring volume-controlled
+             mechanical ventilation. These patients may or may not have COVID-19 (at the current
+             time of the epidemic, it is assumed that every patient with an indication for
+             mechanical ventilation is a possible case of COVID-19).
+
+          -  Postoperative patients who require ventilatory support and are expected to need it for
+             more than 24 hours.
+
+          -  Patients with traumatic brain injury and indication of mechanical ventilatory support
+             with an expected duration greater than 24 hours
+
+          -  Patients with acute intoxication and respiratory depression and indication of
+             mechanical ventilatory support with an expected duration greater than 24 hours
+
+        Exclusion Criteria:
+
+          -  Pregnant women
+
+          -  Patients with hypotension MAP &lt;65 mmHg
+
+          -  Patients with PaO2 / FiO2 &lt;100
+
+          -  Cerebral edema in cerebral protection and / or suspected endocranial hypertension
+
+          -  SOFA &gt;9
+
+          -  For those patients who are already receiving mechanical ventilation, the presence of
+             one or more of the following criteria: PEEP&gt; 8 cmH2O, plateau pressure&gt; 30 cm H2O or
+             FiO2&gt; 70%
+
+          -  COVID-19 confirmed by RT-PCR.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Luis F Giraldo-Cadavid, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Fundación Neumológica Colombiana y Universidad de La Sabana</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Fabio A Varon-Vega, MD, PhD(c)</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fundacion Neumologica Colombiana</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alirio R Bastidas, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad de la Sabana</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Fundacion Neumologica Colombiana</name>
+      <address>
+        <city>Bogotá</city>
+        <state>Bogota</state>
+        <zip>110131399</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universidad de la Sabana</name>
+      <address>
+        <city>Chia</city>
+        <state>Cundinamarca</state>
+        <zip>250001</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universidad de la Sabana</name>
+      <address>
+        <city>Chía</city>
+        <state>Cundinamarca</state>
+        <zip>210001</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Colombia</country>
+  </location_countries>
+  <reference>
+    <citation>Petrucci N, Iacovelli W. Lung protective ventilation strategy for the acute respiratory distress syndrome. Cochrane Database Syst Rev. 2007 Jul 18;(3):CD003844. Review. Update in: Cochrane Database Syst Rev. 2013;2:CD003844.</citation>
+    <PMID>17636739</PMID>
+  </reference>
+  <reference>
+    <citation>ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012 Jun 20;307(23):2526-33. doi: 10.1001/jama.2012.5669.</citation>
+    <PMID>22797452</PMID>
+  </reference>
+  <reference>
+    <citation>Bellani G, Laffey JG, Pham T, Fan E, Brochard L, Esteban A, Gattinoni L, van Haren F, Larsson A, McAuley DF, Ranieri M, Rubenfeld G, Thompson BT, Wrigge H, Slutsky AS, Pesenti A; LUNG SAFE Investigators; ESICM Trials Group. Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries. JAMA. 2016 Feb 23;315(8):788-800. doi: 10.1001/jama.2016.0291. Erratum in: JAMA. 2016 Jul 19;316(3):350. JAMA. 2016 Jul 19;316(3):350.</citation>
+    <PMID>26903337</PMID>
+  </reference>
+  <reference>
+    <citation>Briel M, Meade M, Mercat A, Brower RG, Talmor D, Walter SD, Slutsky AS, Pullenayegum E, Zhou Q, Cook D, Brochard L, Richard JC, Lamontagne F, Bhatnagar N, Stewart TE, Guyatt G. Higher vs lower positive end-expiratory pressure in patients with acute lung injury and acute respiratory distress syndrome: systematic review and meta-analysis. JAMA. 2010 Mar 3;303(9):865-73. doi: 10.1001/jama.2010.218. Review.</citation>
+    <PMID>20197533</PMID>
+  </reference>
+  <reference>
+    <citation>Meade MO, Cook DJ, Guyatt GH, Slutsky AS, Arabi YM, Cooper DJ, Davies AR, Hand LE, Zhou Q, Thabane L, Austin P, Lapinsky S, Baxter A, Russell J, Skrobik Y, Ronco JJ, Stewart TE; Lung Open Ventilation Study Investigators. Ventilation strategy using low tidal volumes, recruitment maneuvers, and high positive end-expiratory pressure for acute lung injury and acute respiratory distress syndrome: a randomized controlled trial. JAMA. 2008 Feb 13;299(6):637-45. doi: 10.1001/jama.299.6.637.</citation>
+    <PMID>18270352</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 4, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mechanical ventilator</keyword>
+  <keyword>Covid 19</keyword>
+  <keyword>SARSCOV2</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The clinical and ventilatory data of the patients will be entered into an anonymized database hosted on the RedCap platform with which the University of La Sabana has an agreement.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

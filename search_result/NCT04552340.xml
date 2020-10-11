@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1585">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04552340</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2485</org_study_id>
+    <nct_id>NCT04552340</nct_id>
+  </id_info>
+  <brief_title>Epidemiologic, Clinical and Molecular Characteristics of Patients With Acute Respiratory Failure Affected by 2019-NCOV.</brief_title>
+  <official_title>Epidemiologic, Clinical and Molecular Characteristics of Patients With Acute Respiratory Failure Affected by 2019-NCOV: A Retrospective-Prospective Cohort Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituto Clinico Humanitas</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istituto Clinico Humanitas</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to identify possible predictor factor of mortality in
+      patients affected by COVID-19 with respiratory failure needing oxygen therapy or ventilatory
+      support. In addiction the study aims to identify factors related to: predisposition to
+      SARS-CoV2 viral infection, different symptoms, response to therapy, predisposition to
+      complications related to the disease. To this end, the haemodynamic parameters and all
+      imaging reports will be evaluated and clinical and laboratory tests as well as cellular and
+      molecular analyzes will be performed in the analyzed patients. In addition, investigations
+      will be carried out on the profile of the alveolar or nasal microbiota and, if possible, of
+      the metabolic products, and estimates on antibody titers.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study is a cohort study with retrospective-prospective data collection. All the clinical
+      data collected in the study are usually monitored in the clinical practice and no additional
+      clinical exams will be required for the sole purpose of the study.
+
+      Patients will be asked consent for the research use of blood and bronchial lavage/residual
+      samples from nasopharyngeal swabs to perform cellular and molecular analyses aimed at better
+      understanding the disease pathogenesis and the individual differences in susceptibility to
+      the disease. These experiments will have no direct impact on the clinical management of
+      patients. It is impossible to detail now all the experiments that will be performed on stored
+      samples. It is possible to anticipate that samples could be used to analyze the immune
+      response by studying immune cells and soluble mediators of the immune response. Moreover,
+      samples will be used to extract nucleic acids to analyze gene expression profiles and DNA
+      variations possibly related with disease susceptibility. Part of the genetic studies could be
+      conducted in other laboratories abroad (i.e. the Institute of Clinical Molecular Biology of
+      the Christian-Albrechts-University of Kiel and the Institute of Clinical Medicine of the
+      University of Oslo) as part of scientific collaborations. In particular, the investigators
+      plan to study the expression levels of molecules known to mediated viral infection, like the
+      Angiotensin converting enzyme 2 (ACE2) and the Transmembrane protease, serine 2 enzyme
+      (TMPRSS2). Genetic variants in these genes, and more in general in other genes in the genome,
+      could be related to susceptibility to the viral infection and/or to the severity of the
+      clinical course of the disease. Therefore, the investigators plan to compare the frequency of
+      genetic variants potentially related with COVID-19 susceptibility/severity in different
+      subgroups of patients, ranging from individuals positive for the virus but asymptomatic to
+      individuals affected by COVID-19 with ARDS requiring admission to ICU. The extension of the
+      analyses that will be performed can't be anticipated as it depends also on the amount of
+      funding that will be available to the study; potentially the entire genome could be analyzed.
+
+      Original sepsis and ARDS biomarkers developed at ICH (e.g. PTX3, sIL-1R2, MSF) will be used
+      to address their prognostic potential in COVID-19 patients. PBMC will be analyzed by FACS to
+      investigate the immunophenotype and correlate it to the clinical outcome. Original markers of
+      leukocyte functional activation developed at ICH will be included in the analysis (e.g.
+      IL-1R8, IL-1R2). The residual BAL and rhinopharyngeal swab will be used for microbiota
+      analysis, metabolomics and cytokine measurement. Plasma and saliva/sputum will be used also
+      to test anti-SARS-Cov-2 antibodies (IgM, IgG and IgA) and for microbiota analysis.
+
+      In order to better describe the populations of COVID-19 patients treated at our hospital, it
+      is necessary to collect disease outcome data over a short, medium and long-term follow-up
+      process. The investigators aim to understand how disease and intensive treatments affect the
+      lives of recovering patients. In particular, the investigators want to explore the
+      health-related quality of life, the impact of the disease on a psychological level, the
+      residual cardio-respiratory functional capacity and muscle strength. All the tests chosen are
+      common use tests in the follow-up of critically ill patients in particular with acute
+      respiratory distress syndrome.
+
+      The health-related quality of the life will be measured with the validated international
+      questionnaire EQ-5D-5L, in its Italian validated form. The questionnaire is attached, and has
+      been authorized for free non-commercial use by the EuroQuol consortium.
+
+      As a screening tool to evaluate the presence of psychological symptoms, such as anxiety and
+      depression, the Hospital Anxiety and Depression Scale (HADS) questionnaire will be
+      administered in its Italian version.
+
+      The cardio-respiratory functional capacity will be measured with the Six-Minutes Walk Test,
+      following the international guidelines published by the American Thoracic Society.
+
+      The single breath count tets will be performed, as well. It consists in the ability to count
+      from zero to twenty after a single maximum inspiration.
+
+      Finally, dynamic tests such as the Timed Up-and-Go (TUG) test and the Short physical
+      performance battery (SPPB) test will be performed to evaluate muscle strength, in particular
+      of the lower limbs, the ability to balance while walking and the general mobility of
+      patients. Both the aforementioned tests re internationally validated and are commonly used in
+      the evaluation of the functional reserve of patients in the geriatric and rehabilitation
+      setting. All this tests can be administered to patients during their hospital stay or after
+      their discharge at scheduled appointments.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 16, 2020</start_date>
+  <completion_date type="Anticipated">July 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality predictors in patients with Respiratory Failure who require oxygen therapy in the Intensive Care Unit or ventilatory support.</measure>
+    <time_frame>1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Molecular profile of cell populations present in the BAL at early timepoint during SARS-CoV2 infection to predict severity of disease progression.</measure>
+    <time_frame>1 year</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Type of possible complications such as AKI (Acute Kidney Injury) , infection, shock</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV2 mechanisms of infection in alveolar macrophages</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV2 genotypes in a cohort of patients representative of the Lombardy population</measure>
+    <time_frame>3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of successful respiratory weaning</measure>
+    <time_frame>1 year</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Patient with SAR-CoV-2 infection</intervention_name>
+    <description>Study population The study cohort will be enrolled among patients referred to our the Humanitas Research Hospital, the Hospital Cliniche Gavazzeni (Bergamo) hospitals for SARS-CoV-2 screening who will/will not be hospitalized in wards dedicated to COVID-19 patients or admitted to intensive care unit.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Lack of informed consent according to local procedure per critically ill patients.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult patients who underwent to a swab or BAL test for the presence of SAR-CoV-2
+             infection, aged ≥ 18 years;
+
+          -  Patients with Acute Respiratory Failure who require ventilatory support / patients
+             admitted to the ICU;
+
+          -  Patients affected by COVID-19
+
+          -  Patients infected by SARS-CoV-2.
+
+        Exclusion Criteria:
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maurizio Cecconi</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Humanitas Research Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maurizio Cecconi</last_name>
+    <phone>0282244151</phone>
+    <email>maurizio.cecconi@hunimed.eu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Humanitas Research Hospital</name>
+      <address>
+        <city>Rozzano</city>
+        <state>Milan</state>
+        <zip>20089</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maurizio Cecconi</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 17, 2020</study_first_posted>
+  <last_update_submitted>September 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

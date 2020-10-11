@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="479">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04531345</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Covid Cytokine</org_study_id>
+    <nct_id>NCT04531345</nct_id>
+  </id_info>
+  <brief_title>Cytokine Status of Covid-19 Patients</brief_title>
+  <official_title>The Cytokine Status of Covid-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istanbul Training and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istanbul Training and Research Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19, spreading rapidly all over the world, causes serious morbidity and mortality. In
+      severe COVID-19 infections, after pulmonary inflammation, cardiovascular organ failure,
+      cytokine storm, hemophagocytosis, septic shock, develops due to uncontrolled hypoxia, and
+      isolated organ failure turns into multi-organ failure. It is noteworthy that it causes
+      lymphopenia in patients. In the studies, the blood levels of certain inflammatory cytokines,
+      interleukin-1β,interleukin-6 and TNF-α, were evaluated. In addition, blood values of a
+      limited number of cytokines were investigated similarly in a limited number of studies
+      published in our country.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The causative agent of coronavirus 2019 (COVID-19) disease, which started in Wuhan province
+      of China in December 2019, was severe acute respiratory failure syndrome coronavirus 2
+      (SARS-CoV-2), which quickly spread all over the world and caused a pandemic. COVID-19 can
+      cause death with symptoms such as fever, cough, muscle pain, shortness of breath, and
+      pneumonia (1). Pulmonary pathology of COVID-19 is diffuse alveolar damage, focal reactive
+      hyperplasia of pneumocytes with patchy inflammatory cells, intravascular thrombosis,
+      monocyte, macrophage and lymphocyte infiltration into pulmonary spaces. Severe infiltration
+      of pulmonary tissue affects alveolar gas exchange. In addition, cardiovascular morbidity,
+      tachyarrhythmia and thromboembolic events are observed in 1/5 of the hospitalized patients
+      with troponin elevation, which is closely related to mortality. In severe COVID-19
+      infections, after pulmonary inflammation, cardiovascular organ failure, cytokine storm,
+      hemophagocytosis, septic shock, develops due to uncontrolled hypoxia, and isolated organ
+      failure turns into multi-organ failure. It is noteworthy that it causes lymphopenia in
+      patients. In the studies , the blood levels of certain inflammatory cytokines,
+      interleukin-1β,interleukin-6 and TNF-α, were evaluated. In addition, blood values of a
+      limited number of cytokines were investigated in a similar way in a limited number of studies
+      published in our country.
+
+      We aimed to study IL-1β, IFN-α2, IFN-γ, TNF-α, MCP-1 (CCL2), IL-6, IL-8 (CXCL8), IL-10,
+      IL-12p70, IL-17A, IL-18, IL-23, IL-33 at Covid 19 and healthy volunteers.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">October 15, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cytokine levels of patients</measure>
+    <time_frame>1 month</time_frame>
+    <description>IL-1β, IFN-α2, IFN-γ, TNF-α, MCP-1 (CCL2), IL-6, IL-8 (CXCL8), IL-10, IL-12p70, IL-17A, IL-18, IL-23, IL-33 levels</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Case Group</arm_group_label>
+    <description>Patients with Covid 19 PCR (+) results</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <description>Healthy volunteers</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Flow cytometric analysis</intervention_name>
+    <description>IL-1β, IFN-α2, IFN-γ, TNF-α, MCP-1 (CCL2), IL-6, IL-8 (CXCL8), IL-10, IL-12p70, IL-17A, IL-18, IL-23, IL-33 cytokine analysis of COvid-19 patients and healthy volunteers</description>
+    <arm_group_label>Case Group</arm_group_label>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who admitted to the emergency department with the complaint of respiratory
+        failure, lymphopenia in blood tests and Covid 19 (+) in the PCR tests are case group.
+
+        Also healty volunteers who don't have complaint of respiratory failure, lymphopenia in
+        blood tests and Covid 19 (-) in the PCR tests are control group.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with Covid 19 PCR (+) results
+
+        Exclusion Criteria:
+
+          -  Cancer Patients
+
+          -  Patients with known immunodeficiency
+
+          -  Pregnancy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ufuk Oguz Idiz, Assoc. Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Istanbul Training and Research Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ufuk Oguz Idiz, Assoc. Prof</last_name>
+    <phone>+905062044714</phone>
+    <email>oguzidiz@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tahir Talat Yurttas, MD</last_name>
+    <phone>+905325835419</phone>
+    <email>tahirtalat_yurttas@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Istanbul Training and Reseach Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34098</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Channappanavar R, Perlman S. Pathogenic human coronavirus infections: causes and consequences of cytokine storm and immunopathology. Semin Immunopathol. 2017 Jul;39(5):529-539. doi: 10.1007/s00281-017-0629-x. Epub 2017 May 2. Review.</citation>
+    <PMID>28466096</PMID>
+  </reference>
+  <reference>
+    <citation>Hu B, Huang S, Yin L. The cytokine storm and COVID-19. J Med Virol. 2020 Jun 27. doi: 10.1002/jmv.26232. [Epub ahead of print] Review.</citation>
+    <PMID>32592501</PMID>
+  </reference>
+  <reference>
+    <citation>Soy M, Keser G, Atagündüz P, Tabak F, Atagündüz I, Kayhan S. Cytokine storm in COVID-19: pathogenesis and overview of anti-inflammatory agents used in treatment. Clin Rheumatol. 2020 Jul;39(7):2085-2094. doi: 10.1007/s10067-020-05190-5. Epub 2020 May 30. Review.</citation>
+    <PMID>32474885</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istanbul Training and Research Hospital</investigator_affiliation>
+    <investigator_full_name>Ufuk Oguz Idiz</investigator_full_name>
+    <investigator_title>Assoc. Prof.</investigator_title>
+  </responsible_party>
+  <keyword>interleukin</keyword>
+  <keyword>cytokine</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

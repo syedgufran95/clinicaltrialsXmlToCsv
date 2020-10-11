@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="942">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04501965</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRDPMAG</org_study_id>
+    <nct_id>NCT04501965</nct_id>
+  </id_info>
+  <brief_title>Phytomedicines Versus Hydroxychloroquine as an Add on Therapy to Azythromycin in Asymptomatic Covid-19 Patients</brief_title>
+  <acronym>PHYTCOVID-19</acronym>
+  <official_title>Evaluation de l'efficacité et de la tolérance de Quinquina et d'un phytomédicament &quot; ACAR &quot; en Comparaison Avec l'Hydroxychloroquine Chez Des Adultes Malades de Covid-19 Sans symptômes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institute for Research and Development of Medicinal and Food Plants of Guinea</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institute for Research and Development of Medicinal and Food Plants of Guinea</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Our previous work on plants has indicated significant antimalarial and antiviral activities.
+      Of these plants, two recipes are proposed for evaluation for COVID-19. It is Cinchona, an
+      antimalarial and a combination of 4 plants with antiviral, antimalarial, antitussive and
+      anti-inflammatory properties.
+
+      The phase II clinical trial, with three arms and at a rate of 77 patients per arm, received
+      the approval of the National Committee for Ethics and Health Research. This is a
+      non-inferiority test aimed at comparing the therapeutic impact in &quot;add on&quot; to Azithromycin,
+      phytomedicines versus Hydroxychloroquine in asymptomatic COVID-19 patients.
+
+      After 10 days of treatment, viral clearance and symptom progression will be assessed on days
+      3, 6 and 14. Clinical, paraclinical and laboratory tests will be performed throughout the
+      3-month trial. Ethical and deontological considerations will be applied
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All consenting subjects who meet the inclusion criteria will benefit from an individual file
+      which will include data relating to general information, the complete clinical examination
+      and the paraclinical examination. They are distributed randomly into three parallel groups,
+      each arm having a different treatment modality. A balanced randomization by permutation block
+      of 5 will be applied using the &quot;Randomizer for Clinical Trial&quot; application developed by the
+      company Medsharing). Laboratory examinations are carried out according to the procedures and
+      method by laboratories accredited in Guinea for the diagnosis of COVID19. Data is encoded,
+      entered and processed using statistical software.
+
+      The comparison between the three cohorts will be made using either the Anova test for
+      continuous variables or the chi-square test for categorical variables. The rate of change
+      over time of virologic clearance, fever and other symptoms values as well as the differences
+      for these rates between treatment arms will be tested using mixed-effects modeling.
+
+      The biological samples will be stored at the biobank of the National Institute of Public
+      Health of Guinea.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Eligible consenting symptom-free patients with COVID-19 confirmed by a positive Polymerase Chain Reaction test were subjected to the 10 days of treatment allocated to each of the 3 arms of the trial. Virological clearance is assessed on days 3, 6 and 14. Side effects are noted throughout the trial period. Clinical, paraclinical and laboratory examinations are occasionally provided. Viral clearance, side effects, and the onset of COVID symptoms are evaluated and the data is statistically processed.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Virologic clearance of throat swabs or lower respiratory tract secretions</measure>
+    <time_frame>day 3 to day 14</time_frame>
+    <description>Virologic clearance from admission to discharge at days 3, 6 and 14</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 symptoms development</measure>
+    <time_frame>day 1 to day 14</time_frame>
+    <description>number of patients who developed fever, cough, and any other clinical sign typical of the disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse effects</measure>
+    <time_frame>day 1 to day 14</time_frame>
+    <description>number of participants who developed treatment-related adverse effects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Worsened condition</measure>
+    <time_frame>day 1 to day 14</time_frame>
+    <description>number of patients whose condition worsened on D14</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">231</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine/Azythromycin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients received Hydroxychloroquine 200 mg tablet orally 3 times daily for 10 days and Azythromycine 250 mg orally at the rate of 2 tablets the first day, then one tablet for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Quinquina/Azythromycin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive 3.5g tea bags of Cinchona/Stevia powder orally at the rate of 3 tea bags per day for 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>4plants/Azythromycin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants received 4Plants powder in a 3.5g tea bag orally three times daily for 10 days and Azythromycine 250 mg orally at the rate of 2 tablets the first day, then one tablet for 5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Hydroxychloroquine/Azithromycine</intervention_name>
+    <description>Dual treatment with Hydroxychloroquine and Azythromycin</description>
+    <arm_group_label>Hydroxychloroquine/Azythromycin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Quinquina-Stevia/Azythromycin</intervention_name>
+    <description>Dual treatment with Quinquina/Stevia (3/0,5) and Azythromycin</description>
+    <arm_group_label>Quinquina/Azythromycin</arm_group_label>
+    <other_name>CILE</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>4Plants/Azythromycin</intervention_name>
+    <description>Dual treatment with 4 plant species drug and Azythromycin</description>
+    <arm_group_label>4plants/Azythromycin</arm_group_label>
+    <other_name>ACAR</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Eligible patients are adults with COVID-19 confirmed by a positive PCR (Polymerase
+             Chain Reaction) test and without symptoms
+
+        Exclusion Criteria:
+
+          -  any patient hypersensitive to hydroxychloroquine or under traditional herbal treatment
+             in the two weeks preceding inclusion,
+
+          -  any patient with other acute or chronic illnesses such as heart failure, arterial
+             hypertension, renal failure, hepatocellular failure, tuberculosis or unable to take
+             the oral treatment;
+
+          -  any patient for whom one of the treatments under study is contraindicated according to
+             the doctor's opinion.
+
+          -  pregnant women,
+
+          -  severe neurological manifestations
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Saliou Sow</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Infectious Disease Department - Donka National Hospital Conakry Guinea</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mohamed Cissé</last_name>
+    <role>Study Chair</role>
+    <affiliation>Faculté des Sciences et Techniques de Santé, Université GAN Conakry</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mamadou A Baldé</last_name>
+    <role>Study Director</role>
+    <affiliation>Institute for Research and Development of Medicinal and Food Plants of Guinea</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Support Centers of Donka, Kenien and Gbessia</name>
+      <address>
+        <city>Conakry</city>
+        <zip>224</zip>
+        <country>Guinea</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Guinea</country>
+  </location_countries>
+  <results_reference>
+    <citation>Ayisi NK, Nyadedzor C. Comparative in vitro effects of AZT and extracts of Ocimum gratissimum, Ficus polita, Clausena anisata, Alchornea cordifolia, and Elaeophorbia drupifera against HIV-1 and HIV-2 infections. Antiviral Res. 2003 Mar;58(1):25-33.</citation>
+    <PMID>12719004</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Baldé AM, Traoré MS, Baldé MA, Barry MS, Diallo A, Camara M, Traoré S, Kouyaté M, Traoré S, Ouo-Ouo S, Myanthé AL, Keita N, Haba NL, Goumou K, Bah F, Camara A, Diallo MS, Sylla M, Baldé ES, Diané S, Pieters L, Oularé K. Ethnomedical and ethnobotanical investigations on the response capacities of Guinean traditional health practioners in the management of outbreaks of infectious diseases: The case of the Ebola virus epidemic. J Ethnopharmacol. 2016 Apr 22;182:137-49. doi: 10.1016/j.jep.2016.02.021. Epub 2016 Feb 18.</citation>
+    <PMID>26900129</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Baldé ES, Megalizzi V, Traoré MS, Cos P, Maes L, Decaestecker C, Pieters L, Baldé AM. In vitro antiprotozoal, antimicrobial and antitumor activity of Pavetta crassipes K. Schum leaf extracts. J Ethnopharmacol. 2010 Aug 9;130(3):529-35. doi: 10.1016/j.jep.2010.05.042. Epub 2010 May 31.</citation>
+    <PMID>20561931</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Camara A, Haddad M, Reybier K, Traoré MS, Baldé MA, Royo J, Baldé AO, Batigne P, Haidara M, Baldé ES, Coste A, Baldé AM, Aubouy A. Terminalia albida treatment improves survival in experimental cerebral malaria through reactive oxygen species scavenging and anti-inflammatory properties. Malar J. 2019 Dec 18;18(1):431. doi: 10.1186/s12936-019-3071-9.</citation>
+    <PMID>31852507</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Colson P, Rolain JM, Lagier JC, Brouqui P, Raoult D. Chloroquine and hydroxychloroquine as available weapons to fight COVID-19. Int J Antimicrob Agents. 2020 Apr;55(4):105932. doi: 10.1016/j.ijantimicag.2020.105932. Epub 2020 Mar 4.</citation>
+    <PMID>32145363</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>D'Alessandro S, Scaccabarozzi D, Signorini L, Perego F, Ilboudo DP, Ferrante P, Delbue S. The Use of Antimalarial Drugs against Viral Infection. Microorganisms. 2020 Jan 8;8(1). pii: E85. doi: 10.3390/microorganisms8010085. Review.</citation>
+    <PMID>31936284</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ren JL, Zhang AH, Wang XJ. Corrigendum to &quot;Traditional Chinese medicine for COVID-19 treatment&quot; [Pharmacol. Res. 155 (2020) 104743]. Pharmacol Res. 2020 May;155:104768. doi: 10.1016/j.phrs.2020.104768. Epub 2020 Mar 25.</citation>
+    <PMID>32222346</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Langeder J, Grienke U, Chen Y, Kirchmair J, Schmidtke M, Rollinger JM. Natural products against acute respiratory infections: Strategies and lessons learned. J Ethnopharmacol. 2020 Feb 10;248:112298. doi: 10.1016/j.jep.2019.112298. Epub 2019 Oct 11. Review.</citation>
+    <PMID>31610260</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ni L, Zhou L, Zhou M, Zhao J, Wang DW. Combination of western medicine and Chinese traditional patent medicine in treating a family case of COVID-19. Front Med. 2020 Apr;14(2):210-214. doi: 10.1007/s11684-020-0757-x. Epub 2020 Mar 13.</citation>
+    <PMID>32170559</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liu BY, He LY, Liang ZW, Tong XY, Hu JQ, Jiao Q, Ni Q, Liu XM, Xie YM, Li P, Gao FZ, Wen TC, Liu WM. [Effect of glucocorticoid with traditional Chinese medicine in severe acute aespiratory syndrome (SARS)]. Zhongguo Zhong Yao Za Zhi. 2005 Dec;30(23):1874-7. Chinese.</citation>
+    <PMID>16499032</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liu DH, Liang BZ, Huang LY. [Clinical observation on the preventive effect of kangdu bufei decoction on acute severe respiratory syndrome]. Zhongguo Zhong Xi Yi Jie He Za Zhi. 2004 Aug;24(8):685-8. Chinese.</citation>
+    <PMID>15366588</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Luo H, Tang QL, Shang YX, Liang SB, Yang M, Robinson N, Liu JP. Can Chinese Medicine Be Used for Prevention of Corona Virus Disease 2019 (COVID-19)? A Review of Historical Classics, Research Evidence and Current Prevention Programs. Chin J Integr Med. 2020 Apr;26(4):243-250. doi: 10.1007/s11655-020-3192-6. Epub 2020 Feb 17. Review.</citation>
+    <PMID>32065348</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Magassouba FB, Diallo A, Kouyaté M, Mara F, Mara O, Bangoura O, Camara A, Traoré S, Diallo AK, Zaoro M, Lamah K, Diallo S, Camara G, Traoré S, Kéita A, Camara MK, Barry R, Kéita S, Oularé K, Barry MS, Donzo M, Camara K, Toté K, Berghe DV, Totté J, Pieters L, Vlietinck AJ, Baldé AM. Ethnobotanical survey and antibacterial activity of some plants used in Guinean traditional medicine. J Ethnopharmacol. 2007 Oct 8;114(1):44-53. Epub 2007 Jul 14. Erratum in: J Ethnopharmacol. 2010 Apr 21;128(3):705-8.</citation>
+    <PMID>17825510</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mahase E. Covid-19: WHO declares pandemic because of &quot;alarming levels&quot; of spread, severity, and inaction. BMJ. 2020 Mar 12;368:m1036. doi: 10.1136/bmj.m1036.</citation>
+    <PMID>32165426</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Schlagenhauf P, Grobusch MP, Maier JD, Gautret P. Repurposing antimalarials and other drugs for COVID-19. Travel Med Infect Dis. 2020 Mar - Apr;34:101658. doi: 10.1016/j.tmaid.2020.101658. Epub 2020 Apr 2.</citation>
+    <PMID>32247925</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sohrabi C, Alsafi Z, O'Neill N, Khan M, Kerwan A, Al-Jabir A, Iosifidis C, Agha R. World Health Organization declares global emergency: A review of the 2019 novel coronavirus (COVID-19). Int J Surg. 2020 Apr;76:71-76. doi: 10.1016/j.ijsu.2020.02.034. Epub 2020 Feb 26. Review. Erratum in: Int J Surg. 2020 May;77:217.</citation>
+    <PMID>32112977</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tong X, Li A, Zhang Z, Duan J, Chen X, Hua C, Zhao D, Xu Y, Shi X, Li P, Tian X, Lin F, Cao Y, Jin L, Chang M, Wang Y. TCM treatment of infectious atypical pneumonia--a report of 16 cases. J Tradit Chin Med. 2004 Dec;24(4):266-9.</citation>
+    <PMID>15688692</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Traore MS, Baldé MA, Diallo MS, Baldé ES, Diané S, Camara A, Diallo A, Balde A, Keïta A, Keita SM, Oularé K, Magassouba FB, Diakité I, Diallo A, Pieters L, Baldé AM. Ethnobotanical survey on medicinal plants used by Guinean traditional healers in the treatment of malaria. J Ethnopharmacol. 2013 Dec 12;150(3):1145-53. doi: 10.1016/j.jep.2013.10.048. Epub 2013 Oct 31.</citation>
+    <PMID>24184265</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>• WHO, 2013. WHO Traditional medicine strategy 2014-2023. https://www.who.int/medicines/publications/traditional/trm_strategy14_23/en/.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Li Y, Liu X, Guo L, Li J, Zhong D, Zhang Y, Clarke M, Jin R. Traditional Chinese herbal medicine for treating novel coronavirus (COVID-19) pneumonia: protocol for a systematic review and meta-analysis. Syst Rev. 2020 Apr 8;9(1):75. doi: 10.1186/s13643-020-01343-4.</citation>
+    <PMID>32268923</PMID>
+  </results_reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Treatment; clinical research</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azithromycin</mesh_term>
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The samples stored in the biobank could be shared with other researchers with a view to in-depth analyzes in order to dig for example a posteriori on the hypotheses relating to the blood levels of the phytomedicine, hydroxychloroquine, etc., cardio-metabolic biological markers infarction, insulin sensitivity, thrombosis, specific antibodies, genetic markers, viral markers ...</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>The data could be available from september 30th to december 30th</ipd_time_frame>
+    <ipd_access_criteria>partnership framework established</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

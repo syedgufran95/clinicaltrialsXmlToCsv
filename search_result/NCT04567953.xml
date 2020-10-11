@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="342">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04567953</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PLRD202001</org_study_id>
+    <nct_id>NCT04567953</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Tests With Saliva Specimens</brief_title>
+  <official_title>COVID-19 Tests With Saliva Specimens</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Paradigm Laboratories LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Paradigm Laboratories LLC</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Upper respiratory swabs, such as the nasopharyngeal (NP) swab, have so far been major
+      specimen sources used for the SARS-COV-2 molecular test. However, due to the discomfort and
+      invasiveness of NP collection, and the expense of personal protective equipment, alternative
+      sampling sources such as saliva are desired. The purpose of this proposed study is: 1) to
+      examine whether saliva can be used as an specimen for the SARS-COV-2 molecular test; 2) to
+      test if gingival crevicular fluids is a reliable specimen for the SARS-COV-2 antibodies.
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 28, 2020</start_date>
+  <completion_date type="Anticipated">June 27, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The clinical evaluation of saliva as specimen for COVID-19 molecular test</measure>
+    <time_frame>1 hour</time_frame>
+    <description>We will evaluate the positive and negative agreement of saliva with nasopharyngeal swab as specimens for COVID-19 molecular test.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Saliva and NP paired specimen collection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Saliva collection</intervention_name>
+    <description>Use Spectrum Solutions SDNA1000 or Orasure collection kit or dry tube to collect 1-3 ml of saliva</description>
+    <arm_group_label>Saliva and NP paired specimen collection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Persons referred for COVID-19 testing including those with COVID-19 symptoms and/or a
+             suspected SARS-COV-2 infection or undergoing surveillance testing and
+
+               -  Is able to give informed consent
+
+               -  Is able to understand oral or written instructions, and
+
+               -  Is able to mentally and physically perform self-collection of saliva using the
+                  provided collection device.
+
+        Exclusion Criteria:
+
+          -  - Adults unable to consent
+
+          -  Individuals who are not yet adults (infants, children, teenagers)
+
+          -  Employees of Paradigm lab and the assisted living facilities involved in the study
+
+          -  Members of other vulnerable populations
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wenli Zhou, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Paradigm Laboratories</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Paradigm Laboratories</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

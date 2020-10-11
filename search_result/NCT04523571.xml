@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2144">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04523571</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BNT162-03</org_study_id>
+    <nct_id>NCT04523571</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity of SARS-CoV-2 mRNA Vaccine (BNT162b1) in Chinese Healthy Subjects</brief_title>
+  <official_title>Safety and Immunogenicity of SARS-CoV-2 mRNA Vaccine (BNT162b1) in Chinese Healthy Subjects: A Phase I, Randomized, Placebo-controlled, Observer-blind Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech RNA Pharmaceuticals GmbH</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Shanghai Fosun Pharmaceutical Development Co, Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase I, randomized, placebo-controlled, observer-blind study, for evaluation of
+      safety and immunogenicity of SARS-CoV-2 mRNA vaccine (BNT162b1) in Chinese healthy
+      population. After randomization, the trial for each subject will last for approximately 12
+      months. Screening period is 2 weeks prior to randomization (Day -14 to Day 0), and each dose
+      of either SARS-CoV-2 vaccine (BNT162b1) or placebo will be given intramuscularly (IM).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 28, 2020</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of solicited local reactions in the subjects (e.g., vaccination sites: pain/tenderness, erythema/redness, induration/swelling) during the 14-days after each dose of BNT162b1 or placebo.</measure>
+    <time_frame>14 days following each dose administration</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occurrence of solicited systematic reactions (e.g., nausea, vomiting, diarrhea, headache, fatigue, myalgia, arthralgia, chills, loss of appetite, malaise, and fever) during 14-day after each dose of BNT162b1 or placebo.</measure>
+    <time_frame>14 days following each dose administration</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occurrence of adverse event (AE) associated with vaccination in subjects during the 21-day period after prime vaccination of BNT162b1 or placebo.</measure>
+    <time_frame>21-day period after prime vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Occurrence of AE associated with vaccination in subjects during the 28-day period after boost dose of BNT162b1 or placebo.</measure>
+    <time_frame>28-day period after boost dose</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of subjects experiencing serious adverse events (SAEs), occurring up to Day 21 after prime vaccination and Day 28 after boost vaccination, up to Month 3, 6 and 12.</measure>
+    <time_frame>Day 21 after prime vaccination, Day 28 after boost vaccination, and Month 3, 6 and 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of subjects experiencing AE associated with BNT162b1, occurring up to Month 3, 6 and 12.</measure>
+    <time_frame>up to Month 3, 6 and 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of subjects experiencing abnormal markers of hematology, blood chemistry and urine analysis, occurring at Hour 24 and Day 7 after prime vaccination and Day 7 period after boost dose of BNT162b1 or placebo.</measure>
+    <time_frame>Hour 24 and Day 7 after prime vaccination and Day 7 after boost dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean titer (GMT) of anti-S1 IgG antibody at Day 7, Day 21 after prime vaccination, at Day 7, Day 21 after boost vaccination, and at Month 3, 6 and 12.</measure>
+    <time_frame>Day 7, Day 21 after prime vaccination, Day 7, Day 21 after boost vaccination, and Month 3, 6 and 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT of anti-receptor binding domain (RBD) immunoglobulin G (IgG) antibody at Day 7, Day 21 after prime vaccination, at Day 7, Day 21 after boost vaccination, and at Month 3, 6 and 12.</measure>
+    <time_frame>Day 7, Day 21 after prime vaccination, Day 7, Day 21 after boost vaccination, and Month 3, 6 and 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT of SARS-CoV-2 neutralizing antibody (including true virus-based SARS-CoV-2 neutralizing test) at Day 7, Day 21 after prime vaccination, at Day 7, Day 21 after boost vaccination, and at Month 3, 6 and 12.</measure>
+    <time_frame>Day 7, Day 21 after prime vaccination, Day 7, Day 21 after boost vaccination, and Month 3, 6 and 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold increase in antibody anti-S1 IgG antibody titers, as compared to baseline, at Day 7, Day 21 after prime vaccination, at Day 7, Day 21 after boost vaccination, and at Month 3, 6 and 12.</measure>
+    <time_frame>Day 7, Day 21 after prime vaccination, Day 7, Day 21 after boost vaccination, and Month 3, 6 and 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold increase in antibody anti-RBD IgG antibody titers, as compared to baseline, at Day 7, Day 21 after prime vaccination, at Day 7, Day 21 after boost vaccination, and at Month 3, 6 and 12.</measure>
+    <time_frame>Day 7, Day 21 after prime vaccination, Day 7, Day 21 after boost vaccination, and Month 3, 6 and 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold increase in SARS-CoV-2 neutralizing antibody titers (virus neutralizing test), as compared to baseline, at Day 7, Day 21 after prime vaccination, at Day 7, Day 21 after boost vaccination, and at Month 3, 6 and 12.</measure>
+    <time_frame>Day 7, Day 21 after prime vaccination, Day 7, Day 21 after boost vaccination, and Month 3, 6 and 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion rates (SCR) defined as a minimum of 4-fold increase of antibody titers, as compared to baseline, at Day 7, Day 21 after prime vaccination, and at Day 7, Day 21 after boost vaccination.</measure>
+    <time_frame>Day 7, Day 21 after prime vaccination, and Day 7, Day 21 after boost vaccination</time_frame>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">144</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Low-dose, 18-55 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose, 18-55 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo, 18-55 years of age</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-dose, 65-85 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose, 65-85 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo, 65-85 years of age</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b1</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>High-dose, 18-55 years of age</arm_group_label>
+    <arm_group_label>High-dose, 65-85 years of age</arm_group_label>
+    <arm_group_label>Low-dose, 18-55 years of age</arm_group_label>
+    <arm_group_label>Low-dose, 65-85 years of age</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Placebo, 18-55 years of age</arm_group_label>
+    <arm_group_label>Placebo, 65-85 years of age</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        For adult group (age ≥18 and ≤55)
+
+          -  Male or female subjects of ≥18 years old and ≤55 years old with body mass index (BMI)
+             ≥18 and ≤30 at the Screening Visit.
+
+          -  Individuals who are in good health condition at the time of entry into the trial as
+             determined by medical history, physical examination (including vital signs,
+             electrocardiogram [ECG]) and eligibility screening test (hematology, blood chemistry
+             and urine analysis) and clinical judgment of the investigator at Screening Visit.
+
+          -  The subject can provide with informed consent and signs and dates a written informed
+             consent form (ICF) prior to the initiation of any trial procedures.
+
+          -  They must be able to understand and follow trial-related instructions.
+
+          -  They must be willing and able to comply with planned visits, treatment schedule,
+             laboratory tests and other requirements of the trial.
+
+          -  Negative in antibodies screening of SARS-CoV-2 (fingerstick).
+
+          -  Normal in chest computed tomography (CT) scans (no imaging features of COVID-19).
+
+          -  Axillary temperature ≤ 37.0ºC.
+
+          -  Negative SARS-CoV-2 test in throat swabs by reverse transcription-polymerase chain
+             reaction (RT-PCR).
+
+          -  Women of childbearing potential (WOCBP) must have a negative beta-human chorionic
+             gonadotropin (β-hCG) in serum sample at Screening Visit. Women that are postmenopausal
+             (Menopause≥12 consecutive months) or permanently sterilized will be considered as not
+             having reproductive potential.
+
+          -  WOCBP must have used effective contraception 14 days prior to screening and agree to
+             use effective contraception continuously during the trial period, from 14 days prior
+             to Screening Visit to 60 days after the last immunization.
+
+          -  WOCBP must agree not to donate eggs (ova, oocytes) for the purposes of assisted
+             reproduction during trial, starting from Screening Visit and continuously until 60
+             days after being given the last immunization.
+
+          -  Men who are sexually active with a WOCBP and have not had a vasectomy must agree to
+             practice an effective form of contraception with their female partner of childbearing
+             potential during the trial, starting from Screening Visit and continuously until 60
+             days after being given the last immunization.
+
+          -  Men must be willing to refrain from sperm donation, starting from Screening Visit and
+             continuously until 60 days after receiving the last immunization.
+
+        For the elderly group (age ≥65 and ≤85)
+
+          -  Male or female subjects ≥65 years old and ≤85 years old at Screening Visit
+
+          -  Individuals who are in a health condition that can receive the investigational
+             vaccine, at the time of entry into the trial as determined by medical history,
+             physical examination (including vital signs, ECG) and eligibility screening tests
+             (hematology, biochemistry and urinalysis) and clinical judgment of the investigator at
+             Screening Visit.
+
+          -  The subject can provide with informed consent and signs and dates a written ICF prior
+             to the initiation of any trial procedures.
+
+          -  They must be able to understand and follow trial-related instructions.
+
+          -  They must be willing and able to comply with planned visits, treatment schedule,
+             laboratory tests and other requirements of the trial.
+
+          -  Negative in antibodies screening of SARS-CoV-2 (blood sample from fingertip).
+
+          -  No imaging features of COVID-19 in chest CT.
+
+          -  Axillary temperature ≤ 37.0ºC.
+
+          -  Negative SARS-CoV-2 test in throat swabs by RT-PCR.
+
+          -  WOCBP must have a negative serum β-hCG at Screening Visit. Women that are
+             postmenopausal (Menopause ≥12 consecutive months) or permanently sterilized will be
+             considered as not having reproductive potential.
+
+          -  WOCBP must have used effective contraception 14 days prior to screening and agree to
+             use effective contraception continuously during the trial period, from 14 days prior
+             to Screening Visit to 60 days after the last immunization.
+
+          -  WOCBP must agree not to donate eggs (ova, oocytes) for the purposes of assisted
+             reproduction during trial, starting from Screening Visit and continuously until 60
+             days after being given the last immunization.
+
+          -  Men who are sexually active with a WOCBP and have not had a vasectomy must agree to
+             practice an effective form of contraception with their female partner of childbearing
+             potential during the trial, starting from Screening Visit and continuously until 60
+             days after being given the last immunization.
+
+          -  Men must be willing to refrain from sperm donation, starting from Screening Visit and
+             continuously until 60 days after receiving the last immunization.
+
+        Exclusion Criteria:
+
+        For adult group (age ≥18 and ≤55)
+
+          -  Have had any acute illness, as determined by the investigator, with or without fever,
+             within 72 hours prior to the prime vaccination. An acute illness which is nearly
+             resolved with only minor residual symptoms remaining is allowable if, in the opinion
+             of the investigator, the residual symptoms will not compromise their well-being if
+             they participate as trial subjects in the trial, or that could prevent, limit, or
+             confound the protocol-specified assessments.
+
+          -  Are breastfeeding on the day of Screening Visit or who plan to breastfeed during the
+             trial, starting from Screening Visit and continuously until at least 90 days after the
+             last immunization. Women or partners who plan to become pregnant within 1 year post
+             the Screening Visit.
+
+          -  Have a known allergy, hypersensitivity, or intolerance to the planned vaccine for
+             trial including any excipients.
+
+          -  Used to have a history of hypersensitivity or serious reactions to vaccination.
+
+          -  Received any vaccination within 4 weeks prior to Visit 1.
+
+          -  Don't agree to not be vaccinated during the trial, starting from Screening Visit and
+             continuously until 28 days after receiving the last immunization, except emergency
+             vaccination (e.g. rabies vaccine, tetanus vaccine).
+
+          -  Had any medical condition (e.g., autoimmune disease) or any major surgery (e.g.,
+             requiring general anesthesia) within the past 5 years, which in the opinion of the
+             investigator, could compromise their well-being if they participate as trial subjects
+             in the trial, or that could prevent, limit, or confound the protocol-specified
+             assessments.
+
+          -  Have any surgery planned during the trial, starting from Screening Visit and
+             continuously until at least 90 days after the last immunization.
+
+          -  Had any chronic use (more than 14 continuous days) of any systemic medications that
+             affects immune function, including immunosuppressant or other immune-modifying drugs,
+             within 6 months prior to Screening Visit unless in the opinion of the investigator,
+             the medication would not prevent, limit, or confound the protocol-specified
+             assessments or could compromise safety of subjects.
+
+          -  Had administration of any immunoglobulins and/or any blood products within the 3
+             months prior to Screening Visit.
+
+          -  Had administration of another investigational product including vaccines within 60
+             days or 5 half-lives (whichever is longer), prior to Screening Visit.
+
+          -  With known history of AIDS or human immunodeficiency virus (HIV) test positive.
+
+          -  History of hepatitis B virus (HBV) or hepatitis C virus (HCV) infection, through
+             medical inquiry.
+
+          -  History of SARS, SARS-CoV-2 or middle east respiratory syndrome (MERS) infection.
+             Suspected SARS patients should be screened for SARS antibodies.
+
+          -  Previously participated in a clinical trial involving lipid nanoparticles.
+
+          -  Are subject to exclusion periods of other clinical trials or simultaneous
+             participation in another clinical trial.
+
+          -  Have any affiliation with the study site (e.g., are close relative of the investigator
+             or dependent person, such as an employee or student of the study site).
+
+          -  Have a history of drug abuse or known medical, psychological, or social conditions
+             within the past 5 years. In the opinion of the investigator, could comprise their
+             well-being if they participate as trial subjects in the trial, or that could prevent,
+             limit, or confound the protocol-specified assessments.
+
+          -  Have a history of narcolepsy.
+
+          -  Have history of alcohol abuse or drug addiction within 1 year prior to Screening
+             Visit.
+
+          -  Have a history of or suspected immunosuppressive condition, acquired or congenital, as
+             determined by medical history and/or physical examination at Screening Visit.
+
+          -  Have any abnormality or permanent body art (e.g., tattoo), that in the opinion of the
+             investigator, would obstruct the ability to observe local reactions at the vaccination
+             site.
+
+          -  Have had any blood loss &gt;400 mL, e.g., due to donation of blood or blood products or
+             injury, within the 28 days prior to Screening Visit or plan to donate blood or plasma
+             during the trial, starting from Screening Visit and continuously until at least 28
+             days after being given the last immunization.
+
+          -  Travel or live in any country or region with a high SARS-CoV-2 infection risk (as
+             defined at Screening Visit) within the 14 days prior to Screening Visit.
+
+          -  They plan to visit any country or region with a high SARS-CoV-2 infection risk (as
+             defined at Screening Visit), from Screening Visit until 14 days after being given the
+             last immunization.
+
+          -  Symptoms of COVID-19, e.g., respiratory symptoms, fever, cough, shortness of breath
+             and breathing difficulties.
+
+          -  Have had contact with confirmed COVID-19 patients or persons tested positive for
+             SARS-CoV-2 within the 30 days prior to Screening Visit.
+
+          -  Are vulnerable persons, e.g., soldiers, subjects in detention, contract research
+             organization (CRO) or Fosun staff or their family members.
+
+        For the elderly group (age ≥65 and ≤85)
+
+          -  Baseline laboratory abnormalities with Grade ≥3 (for hematology abnormalities with
+             Grade ≥2) during screening visits, by physical examination and eligibility screening.
+
+          -  Have had any acute illness, as determined by the investigator, with or without fever,
+             within 72 hours prior to the prime vaccination. An acute illness which is nearly
+             resolved with only minor residual symptoms remaining is allowable if, in the opinion
+             of the investigator, the residual symptoms will not compromise their well-being if
+             they participate as trial subjects in the trial, or that will not prevent, limit, or
+             confound the protocol-specified assessments.
+
+          -  Have a known allergy, hypersensitivity, or intolerance to the planned vaccine for
+             trial including any excipients.
+
+          -  Used to have a history of hypersensitivity or serious reactions to vaccination.
+
+          -  Received any vaccination within 4 weeks prior to Visit 1.
+
+          -  Don't agree to not be vaccinated during the trial, starting from Screening Visit and
+             continuously until 28 days after receiving the last immunization, except emergency
+             vaccination (e.g. rabies vaccine, tetanus vaccine).
+
+          -  Had administration of any immunoglobulins and/or any blood products within the 3
+             months prior to Screening Visit.
+
+          -  Had any serious or life-threatening medical condition (e.g., autoimmune disease,
+             cardiovascular disease) within the past 5 years, which in the opinion of the
+             investigator, could compromise their well-being if they participate as trial subjects
+             in the trial, or that could prevent, limit, or confound the protocol-specified
+             assessments.
+
+          -  Have any surgery planned during the trial, starting from Screening Visit and
+             continuously until at least 90 days after the last immunization.
+
+          -  Had any chronic use (more than 14 continuous days) of any systemic medications that
+             affects immune function, including immunosuppressant or other immune-modifying drugs,
+             within 6 months prior to Screening Visit unless in the opinion of the investigator,
+             the medication would not prevent, limit, or confound the protocol-specified
+             assessments or could compromise safety of subjects.
+
+          -  Had administration of another investigational product including vaccines within 60
+             days or 5 half-lives (whichever is longer), prior to Screening Visit.
+
+          -  With known history of AIDS or HIV test positive.
+
+          -  History of HBV or HCV infection.
+
+          -  History of SARS, SARS-CoV-2 or MERS infection. Suspected SARS patients should be
+             screened for SARS antibodies.
+
+          -  Previously participated in a clinical trial involving lipid nanoparticles.
+
+          -  Are subject to exclusion periods of other clinical trials or simultaneous
+             participation in another clinical trial.
+
+          -  Have any affiliation with the study site (e.g., are close relative of the investigator
+             or dependent person, such as an employee or student of the study site).
+
+          -  Have a history of drug abuse or known medical, psychological, or social conditions
+             within the past 5 years. In the opinion of the investigator, could comprise their
+             well-being if they participate as trial subjects in the trial, or that could prevent,
+             limit, or confound the protocol-specified assessments.
+
+          -  Have a history of narcolepsy.
+
+          -  Have history of alcohol abuse or drug addiction within 1 year prior to Screening
+             Visit.
+
+          -  Have a history of or suspected immunosuppressive condition, acquired or congenital, as
+             determined by medical history and/or physical examination at Screening Visit.
+
+          -  Have any abnormality or permanent body art (e.g., tattoo), that in the opinion of the
+             investigator, would obstruct the ability to observe local reactions at the vaccination
+             site.
+
+          -  Have had any blood loss &gt;400 mL, e.g., due to donation of blood or blood products or
+             injury, within the 28 days prior to Screening Visit or plan to donate blood or plasma
+             during the trial, starting from Screening Visit and continuously until at least 28
+             days after being given the last immunization.
+
+          -  Travel or live in any country or region with a high SARS-CoV-2 infection risk (as
+             defined at Screening Visit) within the 14 days prior to Screening Visit.
+
+          -  They plan to visit any country or region with a high SARS-CoV-2 infection risk (as
+             defined at Screening Visit), from Screening Visit until 14 days after being given the
+             last immunization.
+
+          -  Symptoms of COVID-19, e.g., respiratory symptoms, fever, cough, shortness of breath
+             and breathing difficulties.
+
+          -  Have had contact with confirmed COVID-19 patients or persons tested positive for
+             SARS-CoV-2 nucleic acids or antibodies within the 30 days prior to Screening Visit.
+
+          -  Are vulnerable persons, e.g., soldiers, subjects in detention, CRO or Fosun staff or
+             their family members.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>BioNTech Responsible Person</last_name>
+    <role>Study Director</role>
+    <affiliation>BioNTech SE</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jingxin Li</last_name>
+    <phone>+86 1386 5839</phone>
+    <email>jsljx@jscdc.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hongxing Pan</last_name>
+    <email>panhongxing@126.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Jiangsu Provincial Center for Disease Control and Prevention</name>
+      <address>
+        <city>Jiangsu</city>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 21, 2020</study_first_posted>
+  <last_update_submitted>August 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Protection against COVID-19</keyword>
+  <keyword>Coronavirus Disease 2019</keyword>
+  <keyword>Coronavirus infection</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>RNA Vaccine</keyword>
+  <keyword>Virus Diseases</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

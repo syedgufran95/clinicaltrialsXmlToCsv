@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1654">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04534725</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Peter Mac ID 20/135</org_study_id>
+    <nct_id>NCT04534725</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Prevention and Treatment in Cancer; a Sequential Multiple Assignment Randomised Trial;</brief_title>
+  <acronym>C-SMART</acronym>
+  <official_title>COVID-19 Prevention and Treatment in Cancer; a Sequential Multiple Assignment Randomised Trial; C-SMART Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Peter MacCallum Cancer Centre, Australia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Peter MacCallum Cancer Centre, Australia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A multi-centre Australian trial with four arms aims to evaluate several different immune
+      modulating drugs for prevention and treatment of COVID-19 specifically in the cancer
+      population.
+
+      ARM 1 is evaluating the effect of interferon-alpha (vs placebo) on the incidence of COVID-19
+      infection in cancer patients with no COVID-19 infection or no known COVID-19 positive
+      contacts.
+
+      ARM 2 is evaluating the effect of interferon-alpha (vs placebo) on the incidence of COVID-19
+      infection in cancer patients with confirmed exposure to COVID-19 virus.
+
+      ARM 3 is evaluating the effect of Selinexor (vs placebo) on the incidence of COVID-19
+      infection in cancer patients with moderate COVID-19 infection.
+
+      ARM 4 is evaluating the effect of Lenzilumab (vs placebo) on the treatment of COVID-19
+      infection in cancer patients with severe COVID-19 infection.
+
+      Participants may become eligible and transition to different arms and treatments if they
+      become exposed to COVID-19 or are hospitalised with an active moderate/severe COVID-19
+      infection.
+
+      It is hoped this research will provide insight into the best practice for prevention and
+      treatment of COVID-19 in cancer patients as emerging standard of care measures are not always
+      suitable to this especially vulnerable population.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>the study uses a SMART design. (sequential multiple arm randomised trial) meaning that participants can enter into the study and progress through the subsequent arms if they meet the additional eligibility criteria (for instance, pre-covid &gt; post exposure &gt; develop moderate infection &gt; infection becomes severe) it is important to note that participants can enter into the study at any point and do not have to transition into the other arms</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>double blinding from central system.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of COVID-19 in cancer patients using interferon-alpha as prophylaxis without known positive contact with COVID-19 (COVID-19 confirmed by qPCR from respiratory swab)</measure>
+    <time_frame>3 months from baseline.</time_frame>
+    <description>Incidence of COVID-19 in cancer patients using interferon-alpha as prophylaxis without known positive contact with COVID-19 (COVID-19 confirmed by qPCR from respiratory swab)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>incidence of any upper or lower community acquired respiratory viral infection assessed using local standard of care testing</measure>
+    <time_frame>3 months from baseline.</time_frame>
+    <description>incidence of any upper or lower community acquired respiratory viral infection (define as identification of respiratory viruses such as coronavirus other than SARS-CoV-2, influenza, parainfluenza, respiratory syncytial virus, rhinovirus, adenovirus, human metapneumovirus).
+assessed using local standard of care testing (e.g. respiratory swabs, saliva and/or blood)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>incidence of COVID-19 when Interferon alpha is given as post-exposure prophylaxis with a known positive contact or exposure with COVID-19. COVID-19 confirmed by qPCR from respiratory swab .</measure>
+    <time_frame>28 days from baseline</time_frame>
+    <description>incidence of COVID-19 when Interferon alpha is given as post-exposure prophylaxis with a known positive contact or exposure with COVID-19. COVID-19 confirmed by qPCR from respiratory swab .</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>incidence of any upper or lower community acquired respiratory viral infection assessed using local standard of care testing</measure>
+    <time_frame>28 days from baseline</time_frame>
+    <description>incidence of any upper or lower community acquired respiratory viral infection (define as identification of respiratory viruses such as coronavirus other than SARS-CoV-2, influenza, parainfluenza, respiratory syncytial virus, rhinovirus, adenovirus, human metapneumovirus).
+Assessed using local standard of care testing (e.g. respiratory swabs, saliva and/or blood)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>incidence of death and/or need for invasive or non-invasive ventilation. assessed using medical records</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>composite outcome: incidence of death and/or need for invasive or non-invasive ventilation.
+assessed using medical records</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>time to clinical improvement or discharge from hospital assessed using medical records</measure>
+    <time_frame>28 days from baseline</time_frame>
+    <description>time to clinical improvement (defined as a two point reduction in clinical progress ordinal scale) or discharge from hospital, whichever occurs first.
+assessed using medical records</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ARM 1: Duration of acute respiratory/ILI symptoms in case of confirmed respiratory infection during the study period. Assessed using patient symptom Diary PRO tool</measure>
+    <time_frame>120 days from baseline</time_frame>
+    <description>ARM 1, secondary endpoint 1 Duration of acute respiratory/ILI symptoms in case of confirmed respiratory infection during the study period. (composite either COVID-19 or other respiratory viral infection).
+assessed using a take-home PRO specifically developed and approved for this study entitled &quot;patient symptom Diary&quot;. in combination with any relevant medical records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 1: Time to diagnosis of COVID-19 in case of confirmed COVID-19 diagnosed during the study period (days). Assessed using patient medical records</measure>
+    <time_frame>120 days from baseline</time_frame>
+    <description>ARM 1, secondary endpoint 2 Time to diagnosis of COVID-19 in case of confirmed COVID-19 diagnosed during the study period (days). Assessed using patient medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 1: Time to diagnosis of other respiratory viral infection in case of confirmed other respiratory viral infection diagnosed during the study period (days). assessed using patient medical records</measure>
+    <time_frame>120 days from baseline</time_frame>
+    <description>ARM 1, secondary endpoint 3. Time to diagnosis of other respiratory viral infection in case of confirmed other respiratory viral infection diagnosed during the study period (days). assessed using patient medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 1: Illness severity in case of confirmed COVID-19 diagnosed during the study period using WHO clinical progression scale</measure>
+    <time_frame>120 days from baseline</time_frame>
+    <description>ARM 1, secondary endpoint 4 Illness severity in case of confirmed COVID-19 diagnosed during the study period, defined as the maximal score on the World Health Organization (WHO)'s clinical progression scale ranging from 0 (uninfected) to 10 (death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 1: Incidence of unplanned all-cause hospital admission during the study period. assessed using medical records</measure>
+    <time_frame>120 days from baseline</time_frame>
+    <description>ARM 1, secondary endpoint 5 Incidence of unplanned all-cause hospital admission during the study period. Composite measure: duration of hospital stay if outcome met. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 1: Incidence of unplanned infection-related hospital admission during the study period. assessed using medical records</measure>
+    <time_frame>120 days from baseline</time_frame>
+    <description>ARM 1, secondary endpoint 6 Incidence of unplanned infection-related hospital admission during the study period. Composite measure: duration of hospital stay if outcome met. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 1: Incidence of sero-conversion of SARS-CoV-2 at the end of the study period. assessed using qPCR</measure>
+    <time_frame>120 days from baseline</time_frame>
+    <description>ARM 1, secondary endpoint 7 Incidence of sero-conversion of SARS-CoV-2 at the end of the study period. assessed using qPCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 1: Incidence of death from any cause during the study period. assessed using patient medical records</measure>
+    <time_frame>120 days from baseline</time_frame>
+    <description>ARM 1, secondary endpoint 8 Incidence of death from any cause during the study period. assessed using patient medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 1: Incidence of testing for COVID-19 during the study period. assessed using medical records</measure>
+    <time_frame>120 days from baseline</time_frame>
+    <description>ARM 1, secondary endpoint 9 Incidence of testing for COVID-19 during the study period. Composite measure: frequency of testing if outcome is met. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 2 Duration of acute respiratory symptoms in case of confirmed COVID-19 diagnosed during the study period. assessed with PRO and medical records.</measure>
+    <time_frame>28 days from baseline</time_frame>
+    <description>ARM 2: secondary outcome 1. Duration of acute respiratory symptoms in case of confirmed COVID-19 diagnosed during the study period (days).
+assessed using a take-home PRO specifically developed and approved for this study entitled &quot;patient symptom Diary&quot;. in combination with any relevant medical records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 2: Time to diagnosis of COVID-19 in case of confirmed COVID-19 diagnosed during the study period (days). assessed using medical records</measure>
+    <time_frame>28 days from baseline</time_frame>
+    <description>ARM 2: secondary outcome 2. Time to diagnosis of COVID-19 in case of confirmed COVID-19 diagnosed during the study period (days). assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 2: Illness severity in case of confirmed COVID-19 diagnosed during the study period. assessed using WHO clinical progression scale.</measure>
+    <time_frame>28 days from baseline</time_frame>
+    <description>ARM 2: secondary outcome 3. Illness severity in case of confirmed COVID-19 diagnosed during the study period, defined as the maximal score on the World Health Organization (WHO)'s clinical progression ordinal scale ranging from 0 (uninfected) to 10 (death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 2: Incidence of unplanned all-cause hospital admission during the study period. assessed using medical records.</measure>
+    <time_frame>28 days from baseline</time_frame>
+    <description>ARM 2: secondary outcome 4. Incidence of unplanned all-cause hospital admission during the study period. assessed using medical records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 2: Incidence of unplanned infection-related hospital admission during the study period. assessed using medical records</measure>
+    <time_frame>28 days from baseline</time_frame>
+    <description>ARM 2: secondary outcome 5 Incidence of unplanned infection-related hospital admission during the study period. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 2: Incidence of seroconversion of SARS-CoV-2 at the end of the study period. assessed using qPCR.</measure>
+    <time_frame>28 days from baseline</time_frame>
+    <description>ARM 2: secondary outcome 6 Incidence of seroconversion of SARS-CoV-2 at the end of the study period. assessed using qPCR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 2: Incidence of testing for COVID-19 during the study period assessed using medical records</measure>
+    <time_frame>28 days from baseline</time_frame>
+    <description>ARM 2: secondary outcome 7. Incidence of testing for COVID-19 during the study period. Composite measure: frequency of testing if outcome is met. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3: Time to clinical improvement assessed using medical records.</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>ARM 3: secondary outcome 1 Time to clinical improvement defined as
+Resolution of fever - oral temperature &lt; 38oC for 24 hours without antipyretics AND
+Respiratory rate &lt; 20 breaths/minute OR
+Oxygen saturation &gt; 94% on room air OR
+Hospital discharge assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3: Illness severity of COVID-19, defined as the maximal score on the World Health Organization (WHO)'s clinical progression ordinal scale</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>ARM 3: secondary outcome 2. Illness severity of COVID-19, defined as the maximal score on the World Health Organization (WHO)'s clinical progression ordinal scale ranging from 0 (uninfected) to 10 (death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3: change to clinical condition assessed with Karnofsky Performance score</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>ARM 3: secondary outcome 3 change to clinical condition assessed with Karnofsky Performance score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3: Time to progression to severe COVID-19, defined by WHO ordinal scale</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>ARM 3: secondary outcome 4. Time to progression to severe COVID-19, defined by WHO ordinal scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3: Time to all-cause mortality</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>ARM 3: secondary outcome 5 Time to all-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3:Duration of hospitalisation assessed using medical records</measure>
+    <time_frame>at discharge or day 60 whichever is sooner</time_frame>
+    <description>ARM 3: secondary outcome 6. Duration of hospitalisation. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3: Duration of COVID-19 symptoms assessed using patient reported symptom diary.</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>ARM 3: secondary outcome 7 Duration of COVID-19 symptoms assessed using a take-home PRO specifically developed and approved for this study entitled &quot;patient symptom Diary&quot;. in combination with any relevant medical records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3: Duration of oxygen supplementation (days). assessed using medical records.</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>ARM 3: secondary outcome 8. Duration of oxygen supplementation (days). assessed using medical records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3: change in nasopharyngeal SARS-CoV-2 viral load shedding (assessed via qPCR)</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>ARM 3: secondary outcome 9 change in nasopharyngeal SARS-CoV-2 viral load shedding (assessed via qPCR)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3: Safety and tolerability of selinexor using relevant medical records</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>ARM 3: secondary outcome 10. Safety and tolerability of selinexor defined as listing and documentation of frequency and severity of adverse effects. Outcome assessed using any/all of medical records, patient reported, vital signs, ECG, imaging, other investigative procedure as per standard local practice.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 3: incidence of changes in blood results relevant to clinical improvement assessed using medical records</measure>
+    <time_frame>60 days from baseline</time_frame>
+    <description>ARM 3: secondary outcome 11. composite outcome: incidence of changes in blood results relevant to clinical improvement.
+Changes in C-reactive protein (CRP)
+Changes in ferritin level
+Changes in lactate dehydrogenase (LDH) level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Incidence of all cause death by day 28 and 60</measure>
+    <time_frame>day 28 from baseline and day 60 from baseline</time_frame>
+    <description>ARM 4: secondary outcome 1 Incidence of all cause death by day 28 and 60 assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Time to all-cause mortality</measure>
+    <time_frame>any time up to 60 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 2 Time to all-cause mortality assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Illness severity of COVID-19, defined as the maximal score on the World Health Organization (WHO)'s clinical progression ordinal scale</measure>
+    <time_frame>any time up to 60 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 3 - composite outcome:
+Illness severity of COVID-19, defined as the maximal score on the World Health Organization (WHO)'s clinical progression ordinal scale ranging from 0 (uninfected) to 10 (death)
+Proportion who have recovered (defined as 0-4)
+Proportion who had 1 point improvement
+Proportion who had 2 point improvement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Incidence of ARDS assessed using medical records</measure>
+    <time_frame>any time up to 60 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 4 Incidence of ARDS. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: incidence of HLH. assessed using medical records</measure>
+    <time_frame>any time up to 60 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 5 incidence of HLH. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Duration of hospitalisation. assessed using hospital medical records.</measure>
+    <time_frame>at discharge or by day 60 whichever is sooner</time_frame>
+    <description>ARM 4: secondary outcome 6 Duration of hospitalisation. assessed using hospital medical records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Proportion discharged from hospital. assessed using medical records</measure>
+    <time_frame>at discharge</time_frame>
+    <description>ARM 4: secondary outcome 7 Proportion discharged from hospital. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Incidence of mechanical ventilation up to day 28. assessed using medical records</measure>
+    <time_frame>any time up day 28 from baseline</time_frame>
+    <description>ARM 4: secondary outcome 8. Incidence of mechanical ventilation up to day 28. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Ventilator-free days and proportion who did not receive invasive mechanical ventilation. assessed using medical records</measure>
+    <time_frame>any time up to 60 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 9 composite outcome: Ventilator-free days and proportion who did not receive invasive mechanical ventilation. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Organ failure free days and proportion who did not develop organ failure. assessed using medical records.</measure>
+    <time_frame>any time up to 60 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 10. composite outcome: Organ failure free days and proportion who did not develop organ failure. assessed using medical records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Incidence and duration of ICU admission. assessed using medical records</measure>
+    <time_frame>at discharge or by day 60 from baseline.</time_frame>
+    <description>ARM 4: secondary outcome 11 composite outcome: Incidence and duration of ICU admission. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: incidence and duration of supplemental oxygen use. assessed using medical records</measure>
+    <time_frame>any time up to 60 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 12 composite outcome: incidence and duration of supplemental oxygen use. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Time to clinical improvement defined as National Early Warning Score 2 (NEWS2) of &lt;2 maintained for 24 hours.</measure>
+    <time_frame>any time up to 60 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 13. Time to clinical improvement defined as National Early Warning Score 2 (NEWS2) of &lt;2 maintained for 24 hours.
+assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: incidence of non-invasive ventilation. assessed using medical records</measure>
+    <time_frame>any time up to 60 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 14 incidence of non-invasive ventilation. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: number of participants alive and off oxygen at day 60. assessed using medical records.</measure>
+    <time_frame>any time up to 60 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 15. composite outcome: number of participants alive and off oxygen at day 60. assessed using medical records.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: proportion of participants who had improved oxygenation for &gt;48 hours. assessed using medical records</measure>
+    <time_frame>any time up to 28 days from baseline</time_frame>
+    <description>ARM 4: secondary outcome 16 proportion of participants who had improved oxygenation for &gt;48 hours. assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: Incidence of adverse events based on the national cancer institute CTCAE v5. Assessed using medical records</measure>
+    <time_frame>any time up to day 28 from baseline.</time_frame>
+    <description>ARM 4: secondary outcome 17 Incidence of adverse events based on the national cancer institute CTCAE v5. Assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: incidence of SAEs based on NCI CTCAE v5 assessed using medical records</measure>
+    <time_frame>any time up to 28 days from baseline.</time_frame>
+    <description>ARM 4: secondary outcome 18 incidence of SAEs based on NCI CTCAE v5 assessed using medical records</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ARM 4: change in nasopharyngeal SARS-CoV-2 viral load shedding. assessed using qPCR.</measure>
+    <time_frame>any time up to day 60 from baseline</time_frame>
+    <description>ARM 4: secondary outcome 19 change in nasopharyngeal SARS-CoV-2 viral load shedding. assessed using qPCR.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">2282</enrollment>
+  <condition>Cancer</condition>
+  <condition>Covid19</condition>
+  <condition>Respiratory Viral Infection</condition>
+  <arm_group>
+    <arm_group_label>prophylaxis</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This study arm (arm 1) is evaluating the effect of interferon-alpha on the incidence of COVID-19 infection in cancer patients with no COVID-19 infection or no known COVID-19 positive contacts.
+Participants in this study arm are randomly allocated (by chance) to one of two groups. One group will receive daily interferon-alpha intranasal spray for 3 months while the other group will receive a daily placebo intranasal spray for 3 months.
+Participants will be followed during the 3-month treatment for incidence of COVID-19 and other respiratory infections.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Post-Exposure Prophylaxis</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This study arm (arm 2) is evaluating the effect of interferon-alpha on the incidence of COVID-19 infection in cancer patients with confirmed exposure to COVID-19 virus.
+Participants in this study arm are randomly allocated (by chance) to one of two groups. One group will receive daily interferon-alpha intranasal spray for 7 days (at a higher dose than arm 1) while the other group will receive a daily placebo intranasal spray for 7 days
+Participants will be followed for 28 days for incidence of COVID-19 and other respiratory infections.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate COVID-19 infection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This study arm (arm 3) is evaluating the effect of Selinexor on the incidence of COVID-19 infection in cancer patients with moderate COVID-19 infection.
+Participants in this study arm are randomly allocated (by chance) to one of two groups. One group will receive oral Selinexor 3 times a week for 2 weeks while the other group will receive oral placebo 3 times a week for 2 weeks
+Participants will be followed for 60 days to assess effectiveness and safety.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe COVID-19 infection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This study arm (arm 4) is evaluating the effect of Lenzilumab on the treatment of COVID-19 infection in cancer patients with severe COVID-19 infection.
+Participants in this study arm are randomly allocated (by chance) to one of two groups. One group will receive intravenous Lenzilumab over 24 hours while the other group will receive placebo intravenously over 24 hours.
+Participants will be followed for 60 days to assess effectiveness and safety.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Interferon alfa</intervention_name>
+    <description>intranasal spray</description>
+    <arm_group_label>Post-Exposure Prophylaxis</arm_group_label>
+    <arm_group_label>prophylaxis</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Selinexor</intervention_name>
+    <description>oral tablet</description>
+    <arm_group_label>Moderate COVID-19 infection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lenzilumab</intervention_name>
+    <description>intravenous infusion</description>
+    <arm_group_label>Severe COVID-19 infection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  ARM 1:
+
+               1. Age equal to or greater than 18 years old
+
+               2. Any haematological or solid tumour
+
+               3. Current or within the last 12 months received cancer related treatment such as
+                  chemotherapy, radiotherapy or targeted small molecule, cellular therapy or
+                  immune-modulating therapy
+
+               4. Signed written and verbal informed consent
+
+               5. Willingness to inform the study nurse/co-ordinator of COVID-19 testing
+
+               6. Willingness to perform a self-collect nose/throat swab
+
+        ARM 2
+
+          1. Age equal to or greater than 18 years old.
+
+          2. Any haematological or solid tumour
+
+          3. Current or within the last 12 months received cancer related treatment such as
+             chemotherapy, radiotherapy or targeted small molecule, cellular therapy or
+             immune-modulating therapy
+
+          4. Signed written and verbal informed consent
+
+          5. Have been exposed to a known COVID-19 case within the last 72 hours, defined by the
+             current Department of Health and Human services such as household contact, 15 minutes
+             of face to face exposure, 2 hours in close space.
+
+          6. Willingness to inform the study nurse/co-ordinator of COVID-19 testing
+
+          7. Willingness to perform a self-collect nose/throat swab
+
+        ARM 3 1. Age equal to or greater than 18 years of age. 2. Any haematological or solid
+        tumour 3. Current or within the last 12 months received cancer related treatment such as
+        chemotherapy, radiotherapy or targeted small molecule, cellular therapy or
+        immune-modulating therapy 4. Signed written and verbal informed consent 5. Laboratory
+        confirmation of SARS-CoV-2 by PCR as per local laboratory assays 6. Hospitalised 7.
+        Symptoms of COVID-19 such as:
+
+          1. Fever equal to or greater than 38 degrees Celsius OR
+
+          2. Tachypnoea respiratory rate equal to or greater than 20 breaths/min OR
+
+          3. Pulse Oxygen saturation (SpO2) equal to or less than 94% 8. Concurrent standard of
+             care antimicrobials, antivirals are allowed. 9. Female and male patients of child
+             bearing potential will use highly effective contraception. In female child bearing
+             potential participants a negative urine pregnancy test will be required.
+
+             ARM 4
+
+               1. Age equal to or greater than 18 years of age.
+
+               2. Any haematological or solid tumour
+
+               3. Current or within the last 12 months received cancer related treatment such as
+                  chemotherapy, radiotherapy or targeted small molecule, cellular therapy or
+                  immune-modulating therapy
+
+               4. Signed written and verbal informed consent by participant or proxy capable of
+                  giving consent
+
+               5. Laboratory virological confirmation of SARS-CoV-2 by PCR as per local laboratory
+                  assays and COVID-19 diagnosis prior to randomisation
+
+               6. Hospitalised but has not required mechanical ventilation
+
+               7. Pneumonia diagnosed by chest x-ray or computed tomography (CT) revealing
+                  infiltrates consistent with pneumonia and SpO2 equal to or less than 94% on room
+                  air or requires low-flow oxygen supplementation or requires high-flow oxygen
+                  supplementation or non-invasive positive pressure ventilation (NIPPV).
+
+               8. Has not participated in other clinical trials for COVID-19 using an
+                  immunomodulating monoclonal antibody or kinase inhibitor. Note that participants
+                  on dexamethasone, corticosteroids, remdesivir, convalescent plasma and/or
+                  hydroxychloroquine with or without azithromycin are not excluded from the study.
+                  Agents that have received emergency use authorization and/or are considered by
+                  the study site to be standard treatment at the institution for COVID-19 are
+                  permitted provided the agent is not an immunomodulating monoclonal antibody or
+                  kinase inhibitor. Participation in clinical trials with remdesivir or
+                  convalescent plasma is permitted provided that all other eligibility criteria are
+                  met.
+
+               9. Females of childbearing potential must have a negative serum or urine pregnancy
+                  test at screening/baseline. Women of childbearing potential must agree to use
+                  adequate contraception (hormonal or barrier method of birth control, abstinence)
+                  prior to study entry and for 5 months following their last dose of study drug.
+
+             Exclusion Criteria:
+
+             -ARM 1
+
+               1. Previous diagnosis of COVID-19 (microbiologically proven, either symptomatic or
+                  asymptomatic)
+
+               2. Have been exposed to a known COVID-19 case within the last 72 hours, defined by
+                  the current Department of Health and Human services such as household contact, 15
+                  minutes of face to face exposure, 2 hours in close space.
+
+               3. Any contra-indication to intra-nasal IFN-a such as severe nasal bleeding
+                  requiring intervention, nasal malignancy, nasal deformity, radiotherapy to the
+                  nasopharynx and/or oropharynx
+
+               4. Pregnant or breast-feeding women, or women who wish to become pregnant during the
+                  course of the study
+
+               5. Participant unable to return for regular follow-up
+
+               6. Life expectancy of less than 4 months
+
+               7. Participant already included in another intervention study on the prevention of
+                  COVID-19
+
+               8. Currently unwell with influenza-like symptoms - if participant is found to be
+                  COVID-19 negative and becomes asymptomatic, they can be reconsidered for
+                  participation
+
+             ARM 2
+
+             1. Previous diagnosis of COVID-19 (microbiologically proven, either symptomatic or
+             asymptomatic) 2. Any contra-indication to intra-nasal IFN-a such as severe nasal
+             bleeding requiring intervention, nasal malignancy, nasal deformity, radiotherapy to
+             the nasopharynx and/or oropharynx 3. Pregnant or breast-feeding women, or women who
+             wish to become pregnant during the course of the study 4. Patient unable to return for
+             follow-up 5. Life expectancy of less than 1 month 6. Patient already included in
+             another intervention study on the prevention of COVID-19 7. Currently unwell with
+             influenza-like symptoms
+
+             ARM 3
+
+               1. Unable to take oral medication
+
+               2. Any known allergic reactions to selinexor or concomitant medication-related
+                  contra-indications to selinexor.
+
+               3. Severe critical COVID-19 infection defined as:
+
+                    1. Requiring invasive or non-invasive mechanical ventilation, ECMO
+
+                    2. Anticipated unlikely to survive within 48 hours
+
+               4. In the opinion of the investigator and primary oncologist, participation in the
+                  study would not be in the best interests of the participant
+
+               5. Severe renal impairment defined as creatinine clearance (CrCL) &lt; 20ml/min as
+                  calculated using the Cockcroft Gault formula
+
+               6. Severe hepatic impairment defined as aspartate transaminase (AST) or alanine
+                  transaminase (ALT) &gt; 5 x upper limit of normal (ULN)
+
+             ARM 4
+
+               1. Invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)
+
+               2. History of pulmonary alveolar proteinosis (PAP).
+
+               3. Women of childbearing potential who are pregnant or breastfeeding.
+
+               4. Known hypersensitivity to lenzilumab or any of its components. 5 .Use of any
+                  FDA-approved anti-IL-6 therapy (eg. tocilizumab, sarilumab, siltukimab),
+                  anti-IL-1 therapy (eg. anakinra, canakinumab) or kinase inhibitor
+                  (eg.baracitinib, ibrutinib, acalabrutinib) therapy to treat COVID-19 within 8
+                  weeks prior to randomization. Any live vaccine within 8 weeks prior to
+                  randomisation. Note that subjects receiving other FDA-approved immunomodulators
+                  to treat underlying autoimmune disorders such as rheumatoid arthritis, psoriasis,
+                  ankylosing spondylitis, asthma, chronic obstructive pulmonary disease, atopic
+                  dermatitis, multiple sclerosis, etc. would not be excluded. Participants on
+                  corticosteroids or dexamethasone are not excluded from the study. Note:
+                  Participants on convalescent plasma, remdesivir and/or hydroxychloroquine with or
+                  without azithromycin are not excluded from the study.
+
+             6. Use of GM-CSF agents (e.g., sargramostim) within 8 weeks prior to randomisation.
+
+             7. Expected survival &lt; 24h in the opinion of the investigator. 8. Any condition that,
+             in the opinion of the investigator, is likely to interfere with the safety and
+             efficacy of the study treatment or puts the subject at unacceptably high risk from the
+             study.
+
+             9. Participation in another interventional study of COVID-19
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ronan Burder</last_name>
+    <phone>0423733747</phone>
+    <email>ronan.burder@petermac.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Megan Crane</last_name>
+    <phone>8559 500</phone>
+    <phone_ext>03</phone_ext>
+    <email>megan.crane@petermac.org</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>September 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interferons</mesh_term>
+    <mesh_term>Interferon-alpha</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

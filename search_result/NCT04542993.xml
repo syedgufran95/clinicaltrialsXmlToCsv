@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1373">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542993</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHS KAPH NSWE 20090</org_study_id>
+    <nct_id>NCT04542993</nct_id>
+  </id_info>
+  <brief_title>Can SARS-CoV-2 Viral Load and COVID-19 Disease Severity be Reduced by Resveratrol-assisted Zinc Therapy</brief_title>
+  <acronym>Reszinate</acronym>
+  <official_title>Can SARS-CoV-2 Viral Shedding in COVID-19 Disease be Reduced by Resveratrol-assisted Zinc Ingestion, a Direct Inhibitor of SARS-CoV-2-RNA Polymerase? A Single Blinded Phase II Protocol (Reszinate Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Swedish Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Swedish Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Zinc and resveratrol or double placebo for a period of 5 days and will be monitored for a 14
+      day period in covid-19 positive patients in an outpatient setting
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Research Question: In ambulatory, non-hospitalized patients with SARS-CoV-2 infection, is it
+      possible to utilize resveratrol as a transporter for zinc treatment as means to minimize
+      viral load and severity of resulting COVID-19 disease?
+
+      We will enroll 60 ambulatory SARS-CoV-2 positive volunteers who will be randomized into one
+      of two treatment arms to receive either Zinc and resveratrol or double placebo for a period
+      of 5 days and will be monitored for a 14 day period. We anticipate approximately 20 weeks to
+      accrue this cohort resulting in an estimated active project period of 22 weeks, although it
+      may take up to 12 additional weeks to collect all of the data related to COVID-19 admissions
+      in the cohort.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Placebo controlled Resveratrol and Zinc combination therapy</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>single blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reduction in SARS-CoV-2 Viral load</measure>
+    <time_frame>1 year</time_frame>
+    <description>Viral AUCs normalized to peak viral load and housekeeper genes will be calculated, the AUCs on subjects with complete data will be used as dependent measures in t-tests, regressions and repeated measures mixed ANOVAs to compare viral load reduction between groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Reduction in Severity of COVID-19 Disease</measure>
+    <time_frame>1 year</time_frame>
+    <description>Review of healthcare resource utilization during study period</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Resveratrol and Zinc Picolinate combination therapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Resveratrol and Zinc Picolinate combination therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Resveratrol Placebo and Zinc Placebo combination therapy</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo Resveratrol and Placebo Zinc combination therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Zinc Picolinate</intervention_name>
+    <description>Zinc Picolinate (50 mg PO TID x 5 days)</description>
+    <arm_group_label>Resveratrol and Zinc Picolinate combination therapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Resveratrol</intervention_name>
+    <description>Resveratrol 2 grams po BID x 5 days</description>
+    <arm_group_label>Resveratrol and Zinc Picolinate combination therapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Zinc Picolinate Placebo</intervention_name>
+    <description>Zinc Picolinate Matched Placebo PO TID x 5 days</description>
+    <arm_group_label>Resveratrol Placebo and Zinc Placebo combination therapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Resveratrol Placebo</intervention_name>
+    <description>Resveratrol Matched Placebo PO BID x 5 days</description>
+    <arm_group_label>Resveratrol Placebo and Zinc Placebo combination therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Adults (18 - 75) with a nasal swab confirmed SARS-CoV-2 infection; testing positive
+             within 4 days of enrollment
+
+          2. Ability to read, understand and provide informed consent (no legally authorized
+             representatives may consent on their behalf) and study assessments in English
+
+          3. Ability for subject to comply with the requirements of the study (must/will have a
+             valid email address, internet connection and phone number)
+
+          4. Willingness to self limit medications and supplements and report what they are taking
+
+          5. Comfortable self-administering oral medication and nasal swab sampling
+
+          6. Willingness to permit a review of their medical history and to provide medical data
+             from their electronic medical record for the period of enrollment (14 days) and until
+             resolution of Covid-19 related events. Individuals who are not current Swedish
+             patients will be asked to identify their provider of record and provide access to
+             specific elements of their electronic health record.
+
+          7. Reside within twenty-five miles of one of the Swedish campuses: First Hill, Ballard,
+             Edmonds, Issaquah, Cherry Hill.
+
+        Exclusion Criteria:
+
+          1. Reported history or evidence of impaired liver or kidney function: GFR &lt;30 or
+             bilirubin &gt;2x ULT or INR &gt; 2x ULT in the absence of anticoagulants
+
+          2. Known hypersensitivity to zinc or resveratrol
+
+          3. Diagnosis of COVID-19 or SARS-CoV-2 infection &gt;4 days before enrollment
+
+          4. Preexisting severe pulmonary disease requiring supplemental oxygen
+
+          5. Clinically evident impairment of cognitive function, per physician discretion
+
+          6. Active substance abuse that may prevent the subject from completing the protocol
+             requirements, per physician discretion.
+
+          7. Active psychotic or affective disorder that may prevent the subject from completing
+             the protocol requirements, per physician discretion.
+
+          8. Pregnant or lactating females.
+
+          9. Coumadin treatment that can not be halted during the study period
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chris Nunn, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Swedish Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cancer Research</last_name>
+    <phone>206-215-3086</phone>
+    <email>CancerResearch@swedish.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cancer Regulatory</last_name>
+    <email>CancerRegulatory@swedish.org</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>zinc</keyword>
+  <keyword>resveratrol</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Zinc</mesh_term>
+    <mesh_term>Resveratrol</mesh_term>
+    <mesh_term>Picolinic acid</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Currently no plan to make IPD available</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

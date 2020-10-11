@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2541">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04506515</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COV2-2020</org_study_id>
+    <nct_id>NCT04506515</nct_id>
+  </id_info>
+  <brief_title>Psychological Impact of COVID-19 Pandemic in Healthcare Workers</brief_title>
+  <acronym>PSIMCOV</acronym>
+  <official_title>Psychological Impact of COVID-19 Pandemic in Healthcare Workers in Spain: A Cross-sectional Study. PSIMCOV Group</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital General Universitario de Valencia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital General Universitario de Valencia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background. The current coronavirus disease (COVID-19) has a great impact worldwide.
+      Healthcare workers play an essential role and are one of the most exposed groups.Information
+      about the psychosocial impact on healthcare workers is limited.
+
+      Methods. 3109 healthcare workers completed a national, internet-based, cross-sectional
+      45-item survey between 9 and 19 April 2020. The objective is to assess the psychological
+      impact of the COVID-19 pandemic in Spanish healthcare workers. A Psychological Stress and
+      Adaptation at work Score (PSAS) was defined combining four modified versions of validated
+      psychological assessment tests (A) Healthcare Stressful Test, (B) Coping Strategies
+      Inventory,(C) Font-Roja Questionnaire and (D) Trait Meta-Mood Scale.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PSAS (Psychological Stress and Adaptation at work Score) is a self conducted questionnaire
+      designed to assess psychological impact in healthcare workers to match times of crisis and
+      when the time is scarce. PSAS has a range between 0 and 105, and higher scores represent
+      higher stress detected.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 9, 2020</start_date>
+  <completion_date type="Actual">April 30, 2020</completion_date>
+  <primary_completion_date type="Actual">April 19, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PSAS (Psychological Stress and Adaptation at work Score) during the crisis</measure>
+    <time_frame>during the pandemic (April 9, 2020 to April 19, 2020)</time_frame>
+    <description>evaluate the severity of psychological impact of the pandemic in Spain in healthcare workers</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PSAS (Psychological Stress and Adaptation at work Score) in basal conditions</measure>
+    <time_frame>After the pandemic (back to regular activity to be considered in the future as we do not know it yet. It expected to be in less than one year.</time_frame>
+    <description>evaluate the psychological stress in Spain in healthcare workers</description>
+  </secondary_outcome>
+  <enrollment type="Actual">3000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Stress, Psychological</condition>
+  <condition>Work Related Stress</condition>
+  <condition>Epidemic Disease</condition>
+  <condition>SARS-CoV Infection</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Psychological stress and adaptation at work score (PSAS)</intervention_name>
+    <description>completing a survey based on PSAS</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Respondents are healthcare workers in any center/hospital treating patients and are
+        involved directly or indirectily with patients who suffer from COVID-19.
+
+        Respondents might be physicians, nurses, ancillary staff, etc or be involved in other type
+        of jobs like administration, techinical support, kitchen and cleaning servicies, etc.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Active healthcare workers in any private/public hospital &gt; 18 years old
+
+        Exclusion Criteria:
+
+          -  Refusal to participate
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>CHGUV</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 10, 2020</study_first_posted>
+  <last_update_submitted>August 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital General Universitario de Valencia</investigator_affiliation>
+    <investigator_full_name>Carolina Soledad Romero Garcia, MD, PhD</investigator_full_name>
+    <investigator_title>Anesthesia and Critical care consultant</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Occupational Stress</mesh_term>
+    <mesh_term>Stress, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>The investigators did not ask to the ethical committee board for data sharing approval</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2138">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04525742</url>
+  </required_header>
+  <id_info>
+    <org_study_id>105</org_study_id>
+    <nct_id>NCT04525742</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Pandemic and Parents of Disabled Children</brief_title>
+  <official_title>COVID-19 Pandemic From the Perspective of Parents of Disabled Children</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gaziosmanpasa Taksim Research and Education Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gaziosmanpasa Taksim Research and Education Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Pandemic period could affect the disabled children's rehabilitation and follow-up negatively
+      because of preventive measures and this could create adverse results on their parents.
+
+      In this research, it is aimed to determine the positive and negative effects of pandemic on
+      parents and disabled children and to provide an insight for future solutions.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To determine the effect of COVID-19 pandemic and the possible difficulties experienced by the
+      parents of disabled children, a questionnaire was prepared. It takes approximately 10-15
+      minutes to complete the survey. Questionnaire is loaded to qualtrics program and sent to the
+      families by e-mail or social media accounts.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 5, 2020</start_date>
+  <completion_date type="Anticipated">September 15, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>One study group will be researched- only disabled children's parents, in one arm -way</intervention_model_description>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>No masking will be done</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>A questionnaire that we created will be used to determine the difficulties experienced by disabled children's parents during Covid 19 pandemic related to their medical follow-up</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Difficulties related to rehabilitation facilities, other medical conditions or ortosis could increase because of Covid 19 pandemic unique conditions</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The Fear of COVID-19 Scale</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The Fear of COVID-19 Scale, a seven-item scale, has robust psychometric properties. It is reliable and valid in assessing fear of COVID-19 among the general population and will also be useful in allaying COVID-19 fears among individuals. Score is minimum 7 pointts and maximum 35 points.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">190</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Disabilities Multiple</condition>
+  <condition>Cerebral Palsy</condition>
+  <condition>Muscular Dystrophies</condition>
+  <arm_group>
+    <arm_group_label>Parents who have a disabled child or children</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Parents having disabled child or children will be included in the research and it will be wanted to complete the survey questionary</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Difficulties lived by disabled children's parents in the period of COVID-19 pandemic</intervention_name>
+    <description>It will be a cross sectional study to obtain the information on difficulties lived by disabled children's parents during recent pandemic period</description>
+    <arm_group_label>Parents who have a disabled child or children</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Having disabled child/children
+
+          -  Having ability and facility to use internet
+
+          -  Having ability to read and write
+
+          -  Having enough cognitive capacity to answer the questionnaire
+
+          -  To accept to participate the research
+
+        Exclusion Criteria:
+
+          -  Not having disabled child/children
+
+          -  Not having ability and facility to use internet
+
+          -  Not having ability to read and write
+
+          -  Not having enough cognitive capacity to answer the questionnaire
+
+          -  Not to accept to participate the research
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Resa Aydin, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>İstanbul University İstanbul Faculty of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Evrim Karadağ Saygı, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Marmara University Faculty of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Özden Özyemisçi Taşkıran, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Koc University Faculty of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Nalan Çapan, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>İstanbul University İstanbul Faculty of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ebru Yilmaz Yalçınkaya, Professor</last_name>
+    <role>Study Director</role>
+    <affiliation>Health Science University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Berrin Huner, Specialist</last_name>
+    <phone>+90 506 596 16 17</phone>
+    <email>berrinhuner@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ebru Yilmaz Yalcinkaya, Professor</last_name>
+    <phone>+90 505 451 85 73</phone>
+    <email>ebru_yilmaz@hotmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Health Science University Gaziosmanpasa Training and Research Hospital</name>
+      <address>
+        <city>İstanbul</city>
+        <state>Gaziosmanpasa</state>
+        <zip>34255</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sibel Bektas, Professor</last_name>
+      <phone>+90 532 707 31 53</phone>
+      <email>sibel_bektas@yahoo.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Berrin Huner, Speacilist</last_name>
+      <phone>+90 506 596 16 17</phone>
+      <email>berrinhuner@hotmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Ahorsu DK, Lin CY, Imani V, Saffari M, Griffiths MD, Pakpour AH. The Fear of COVID-19 Scale: Development and Initial Validation. Int J Ment Health Addict. 2020 Mar 27:1-9. doi: 10.1007/s11469-020-00270-8. [Epub ahead of print]</citation>
+    <PMID>32226353</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>June 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 25, 2020</study_first_posted>
+  <last_update_submitted>August 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Gaziosmanpasa Taksim Research and Education Hospital</investigator_affiliation>
+    <investigator_full_name>Berrin Hüner</investigator_full_name>
+    <investigator_title>Medical Doctor</investigator_title>
+  </responsible_party>
+  <keyword>cerebral palsy</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>pandemic</keyword>
+  <keyword>disability</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Muscular Dystrophies</mesh_term>
+    <mesh_term>Cerebral Palsy</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Study protocol was established by Berrin Huner and Ebru Yilmaz Yalcınkaya Statistical analysis (Power analysis) was established by Ozden Ozyemisci Taskiran Informed consent was written by Berrin Huner</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Research is planned to bu conducted between June 15 th and July 15 th 2020. After 15 th of July in 1 week coming statistical analysis will be finished and than in 3 weeks article will be written</ipd_time_frame>
+    <ipd_access_criteria>In necessary cases colleced data from the research will be shared with the local ethical committe</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

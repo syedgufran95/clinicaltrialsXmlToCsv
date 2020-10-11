@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="979">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04510454</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ONCOVID-21 - ET20-118</org_study_id>
+    <nct_id>NCT04510454</nct_id>
+  </id_info>
+  <brief_title>Evaluation of a ddPCR Technology for the SARS-CoV-2 Detection in Symptomatic Patients With Suspicion of COVID-19</brief_title>
+  <acronym>ONCOVID-21</acronym>
+  <official_title>Evaluation of a ddPCR Technology for the SARS-CoV-2 Detection in Symptomatic Patients With Suspicion of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Leon Berard</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Leon Berard</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluation of the ddPCR ability to detect the SARS-CoV-2 in nasopharyngeal samples of
+      symptomatic patients with suspected COVID-19 infection using an IgG serological assay
+      (EUROIMMUN Anti-SARS-Cov2 ELISA Ig) as gold/reference standard (FDA validated commercial
+      serologic test).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Bio-Rad SARS-CoV-2 ddPCR Test is a reverse transcription (RT) droplet digital polymerase
+      chain reaction (ddPCR) test designed to detect RNA from SARS-CoV-2 in specimens (mainly
+      nasopharyngeal, anterior nasal, oropharyngeal and mid-turbinate swab but also nasopharyngeal
+      wash/aspirate and nasal aspirate specimens) collected from individuals who are suspected of
+      COVID-19 infection.
+
+      This single assay multiplex test enables a one-well reaction with three sets of the
+      oligonucleotide primers and probes which were reported by CDC. Two were selected from regions
+      of the virus nucleocapsid (N) gene. An additional primer/probe included in the panel is set
+      to detect the human RNase P gene (RP) in control samples and clinical specimens.
+
+      RNA isolated and purified from swab specimens is added to the mastermix comprised of reverse
+      transcriptase whereby RNA is converted into cDNA and then amplified, using the Bio-Rad
+      One-Step RT-ddPCR Advanced Kit for Probes.
+
+      Briefly, the sample and mastermix RT-ddPCR mixtures are fractionated into up to 20,000
+      nanoliter-sized droplets in the form of a water-in-oil emulsion. The 96-well RT-ddPCR ready
+      plate containing droplets is sealed with foil using a plate sealer. The emulsions are then
+      thermocycled to achieve reverse transcription to generate cDNA followed by target
+      amplification plus probe hydrolysis in each droplet. After thermocycling is complete, the
+      96-well RT-ddPCR ready plate is loaded into the Droplet Reader. The Droplet Reader singulates
+      the droplets and flows them past a two-color fluorescence detector (FAM and HEX) in order to
+      determine which contain target (positive) and which do not (negative) for each of the targets
+      identified with the SARS-CoV-2 ddPCR Test: N1, N2 and RP. The ddPCR system uses the
+      QuantaSoft 1.7 and QuantaSoft Analysis Pro 1.0 for analysis software.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Nasopharyngeal and oropharyngeal samples will be analyzed by the standard RT-qPCR test and the ddPCR assay.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To determine the ddPCR ability to detect the SARS-CoV-2 in nasopharyngeal samples of symptomatic patients with suspected COVID-19 infection</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>Using IgG serological assay (EUROIMMUN Anti-SARS-Cov2 ELISA Ig) as gold/reference standard (FDA validated commercial serologic test)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To determine the RT-qPCR ability to detect the SARS-CoV-2 in nasopharyngeal samples of symptomatic patients with suspected COVID-19 infection</measure>
+    <time_frame>Third week after inclusion</time_frame>
+    <description>Using IgG serological assay (EUROIMMUN Anti-SARS-Cov2 ELISA Ig) as gold/reference standard</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine the ddPCR and RT-qPCR abilities to detect the SARS-CoV-2 in oropharyngeal samples of symptomatic patients with suspected COVID-19 infection</measure>
+    <time_frame>Third week after inclusion</time_frame>
+    <description>Using IgG serological assay (EUROIMMUN Anti-SARS-Cov2 ELISA Ig) as gold/reference standard</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine the ability of a clinical diagnosis based both on patients' symptoms and chest CT-scan to detect the SARS-CoV-2 in symptomatic patients with suspected COVID-19 infection</measure>
+    <time_frame>Third week after inclusion</time_frame>
+    <description>Using IgG serological assay (EUROIMMUN Anti-SARS-Cov2 ELISA Ig) as gold/reference standard</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine the agreements between nasopharyngeal samples and oropharyngeal samples</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>Using ddPCR and RT-qPCR assays</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine the agreements between a clinical diagnosis and ddPCR and RT-qPCR assays</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>Using ddPCR and RT-qPCR assays</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the 28-day mortality rate</measure>
+    <time_frame>Up to the follow-up end (28 days after inclusion)</time_frame>
+    <description>Rate calculated from the date of the first diagnostic procedure to the date of death of any cause</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine potential predictive factors of death among patients' characteristics</measure>
+    <time_frame>Up to the follow-up end (28 days after inclusion)</time_frame>
+    <description>Demographics, type of tumor, type of anticancer, treatment, comorbidities, biological parameters</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate the over risk of death of patients COVID+ versus COVID-</measure>
+    <time_frame>Up to the follow-up end (28 days after inclusion)</time_frame>
+    <description>After adjusting on main clinical characteristics and treatment type</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>To evaluate the sensibility, specificity and diagnostic accuracy of &quot;in-house&quot; serologic test for the SARS-CoV-2 detection</measure>
+    <time_frame>At inclusion</time_frame>
+    <description>Comparison of our &quot;in-house&quot; test to the commercial serology test from EUROIMMUN used for the study</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Cancer</condition>
+  <condition>COVID</condition>
+  <arm_group>
+    <arm_group_label>RT-PCR and ddPCR sampling analyses</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nasopharyngeal and throat/oropharyngeal swabs analyzed by both RT-PCR and ddPCR</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Nasopharyngeal and throat/oropharyngeal swabs analyses by RT-PCR and ddPCR</intervention_name>
+    <description>Nasopharyngeal and throat/oropharyngeal swabs analyzed by both RT-PCR and ddPCR</description>
+    <arm_group_label>RT-PCR and ddPCR sampling analyses</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        1. Age ≥ 18 years on the day of signing informed consent.
+
+          2. Confirmed diagnosis of any type of solid or hematologic tumor.
+
+          3. Ongoing anticancer treatment at the time of inclusion or within the last 3 months
+             prior to inclusion (last treatment administration or last loco regional procedure).
+
+          4. Suspicion of COVID-19 infection. Patients must not have underwent diagnostic test
+             and/or chest imaging before inclusion.
+
+          5. Covered by a medical/health insurance.
+
+          6. Signed and dated IRB/ICE approved informed consent form.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bénédicte MASTROIANNI, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre Léon Berard</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ellen BLANC</last_name>
+    <phone>04.78.78.29.67</phone>
+    <email>ellen.blanc@lyon.unicancer.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Bénédicte MASTROIANNI, MD</last_name>
+    <email>benedicte.mastroianni@lyon.unicancer.fr</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>August 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19, SARS-CoV-2, ddPCR, cancer, serology</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

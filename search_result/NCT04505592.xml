@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1940">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04505592</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCO 20-1764</org_study_id>
+    <nct_id>NCT04505592</nct_id>
+  </id_info>
+  <brief_title>Tenecteplase in Patients With COVID-19</brief_title>
+  <official_title>Tenecteplase With Concomitant Anticoagulation for Severe Acute Respiratory Failure in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hooman Poor</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Icahn School of Medicine at Mount Sinai</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a placebo-controlled, double blind, randomized, Phase II dose escalation study
+      intended to evaluate the potential safety and efficacy of tenecteplase for the treatment of
+      COVID-19 associated respiratory failure. The hypothesis is that administration of the drug,
+      in conjunction with heparin anticoagulation, will improve patients' clinical outcomes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with COVID-19 who suffer from acute hypoxemic respiratory failure have a poor
+      prognosis. COVID-19 has been associated with a hyperinflammatory and hypercoagulable state,
+      leading to a range of thromboembolic complications from pulmonary embolism to ischemic
+      stroke. Furthermore, emerging data suggest that the associated acute respiratory failure is,
+      at least in part, due to pulmonary vascular disease caused by micro- and/or macro-emboli,
+      creating pulmonary vascular shunting and dead-space ventilation. In this placebo-controlled,
+      double blind, randomized, Phase II dose escalation study, we plan to evaluate the clinical
+      efficacy and safety of low-dose IV bolus tenecteplase together with anticoagulation compared
+      with control patients on therapeutic anticoagulation alone in hospitalized adults diagnosed
+      with COVID-19 respiratory failure with elevated D-dimer. We believe these patients can be
+      successfully treated without significantly increasing the risk of major bleeding while
+      improving recovery rates, shorten hospitalization time, and perhaps ultimately prove to
+      improve survival.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 25, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Subjects will be randomized in a 2:1 ratio to treatment or control in blocks of 15, performed twice per dose (low and high) with randomization stratified by site.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Patients and study investigators will be blinded to subject treatment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants free of respiratory failure</measure>
+    <time_frame>28 Days</time_frame>
+    <description>The number of patients free of respiratory failure defined as not requiring high flow nasal cannula, non-rebreather, noninvasive positive pressure ventilation, or mechanical ventilation at 28 days</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of occurrences of bleeding</measure>
+    <time_frame>28 days</time_frame>
+    <description>Safety as assessed by number of occurrences of intracranial bleeding or major bleeding</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with in-hospital deaths at 14 days</measure>
+    <time_frame>14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with death at 28 days</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of ventilator-free days</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of respiratory failure-free days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Respiratory failure-free defined as not requiring high flow nasal cannula, non-rebreather, noninvasive positive pressure ventilation, or mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of vasopressor-free days</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vasopressor doses at 24 hours</measure>
+    <time_frame>24 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vasopressor doses at 72 hours</measure>
+    <time_frame>72 hours</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>P/F ratio at 24 hours</measure>
+    <time_frame>24 hours</time_frame>
+    <description>The P/F ratio equals the arterial pO2 (&quot;P&quot;) from the ABG divided by the FIO2 (&quot;F&quot;) - the fraction (percent) of inspired oxygen that the patient is receiving expressed as a decimal (40% oxygen = FIO2 of 0.40).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>P/F ratio at 72 hours</measure>
+    <time_frame>72 hours</time_frame>
+    <description>The P/F ratio equals the arterial pO2 (&quot;P&quot;) from the ABG divided by the FIO2 (&quot;F&quot;) - the fraction (percent) of inspired oxygen that the patient is receiving expressed as a decimal (40% oxygen = FIO2 of 0.40).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of ICU-free days</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with new-onset renal failure</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with need for renal replacement therapy</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Respiratory Failure</condition>
+  <condition>ARDS</condition>
+  <arm_group>
+    <arm_group_label>Tenecteplase</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>First 20 patients randomized to treatment will receive tenecteplase 0.25 mg/kg (maximum 25 mg). Last 20 patients randomized to treatment will receive tenecteplase 0.50 mg/kg (maximum 40 mg).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo control</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tenecteplase</intervention_name>
+    <description>First 20 patients randomized to treatment arm will receive 0.25 mg/kg of tenecteplase. Next 20 patients randomized to treatment arm will receive 0.50 mg/kg of tenecteplase. Both will receive concomitant heparin to maintain activated partial thromboplastin time between 2.0 and 2.5 upper limit of normal.</description>
+    <arm_group_label>Tenecteplase</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Patients will receive placebo with concomitant heparin to maintain activated partial thromboplastin time between 2.0 and 2.5 upper limit of normal.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+          -  Patient/legally authorized representative has completed the Informed Consent Form
+
+          -  Age ≥18 years
+
+          -  Ability to comply with the study protocol, in the investigator's judgment
+
+          -  Respiratory failure secondary to COVID-19 requiring mechanical ventilation for no
+             greater than 24 hours, or high-flow nasal cannula (HFNC),non-rebreather (NRB) mask or
+             non-invasive positive pressure ventilation (NIPPV) for no greater than 48 hours
+
+          -  Confirmed infection with SARS-CoV-2 virus (PCR positive within 14 days)
+
+          -  Elevated D-dimer (&gt;6 times upper limit of normal within past 72 hours)
+
+          -  For patient who are intubated &gt;12 hours prior to randomization or with any evidence of
+             neurologic deficit a head CT within 12 hours demonstrating no evidence of acute or
+             subacute infarct or hemorrhage
+
+        Exclusion Criteria
+
+          -  Current participation in another investigational drug study within the prior 7 days
+
+          -  Known hypersensitivity or allergy to any ingredients of tenecteplase
+
+          -  Active internal bleeding
+
+          -  Known bleeding diathesis
+
+          -  Use of one of the new oral anticoagulants within the last 48 hours (dabigatran,
+             rivaroxaban, apixaban, edoxaban)
+
+          -  Treatment with a thrombolytic within the last 3 months prior to randomization
+             (exception for the use of Cathflo alteplase for occlusions of central venous
+             catheters)
+
+          -  Baseline platelet count &lt;80,000/L (results must be available prior to treatment)
+
+          -  Baseline blood glucose &gt;400 mg/dL (22.20 mmol/L)
+
+          -  Baseline blood glucose &lt;50 mg/dL needs to be normalized prior to randomization
+
+          -  Intracranial or intraspinal surgery or trauma within 2 months
+
+          -  Other, non-COVID-19 related, serious, advanced, or terminal illness (investigator
+             judgment) or life expectancy is less than 6 months
+
+          -  History of acute ischemic stroke in the last 90 days
+
+          -  History of intracranial bleeding, including hemorrhagic stroke
+
+          -  Presumed septic embolus; suspicion of bacterial endocarditis
+
+          -  Mechanical ventilation &gt; 24 hours, HFNC, NRB, NIPPV, or any combination, for greater
+             than 48 hours
+
+          -  Mechanical ventilation, HFNC, NRB, or NIPVV (for reasons other than obstructive sleep
+             apnea) within the prior 30 days (excluding 48 hours prior to randomization)
+
+          -  Moribund status suggesting imminent vascular collapse and inability to survive &gt; 72
+             hours (investigator determination)
+
+          -  Uncontrolled hypertension defined as systolic BP &gt; 180 mm Hg and/or diastolic BP &gt; 110
+             mm Hgb
+
+          -  Age &gt; 75 years
+
+          -  History of traumatic brain injury within 2 months
+
+          -  Recent head trauma with fracture or brain injury
+
+          -  History of Heparin Induced Thrombocytopenia (HIT) and/or other hereditary or acquired
+             hemorrhagic diathesis or coagulation factor deficiency
+
+          -  INR &gt; 2 or recent oral anticoagulant therapy with INR &gt;1.7
+
+          -  Pregnancy or lactation within the prior 30 days; women of childbearing age (&lt;55 years
+             old) should have documentation of a negative pregnancy test
+
+          -  Chronic liver disease defined as &gt; Childs-Pugh Class B
+
+          -  Atrial fibrillation, mitral stenosis, or known left heart thrombosis
+
+          -  Any other condition that, in the opinion of the investigator, precludes administration
+             of tenecteplase or poses a significant hazard to the patient receives tenecteplase
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hooman Poor, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>J Mocco, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Denise Balili, MS</last_name>
+    <phone>212-241-3374</phone>
+    <email>denise.balili@mountsinai.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lisa Genadry</last_name>
+    <phone>212-241-9018</phone>
+    <email>lisa.genadry2@mountsinai.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mount Sinai Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sukaina Davdani</last_name>
+      <phone>212-241-2524</phone>
+      <email>sukaina.davdani@mountsinai.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 10, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Icahn School of Medicine at Mount Sinai</investigator_affiliation>
+    <investigator_full_name>Hooman Poor</investigator_full_name>
+    <investigator_title>Assistant Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>thrombolysis</keyword>
+  <keyword>tenecteplase</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tenecteplase</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

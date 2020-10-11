@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1929">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04517695</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-00896</org_study_id>
+    <nct_id>NCT04517695</nct_id>
+  </id_info>
+  <brief_title>Blood Volume Assessment in COVID-19 ICU Patients - BVAC19</brief_title>
+  <official_title>Blood Volume, Components and Capillary Leak in SARS-CoV-2 Infections</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In patients with SARS-CoV-2 infection admitted to the intensive care unit (ICU), the state of
+      the intravascular volume, the characteristics of the blood volume components, and the
+      development of a vascular leak is currently unknown.
+
+      The primary objective is to describe the blood volume, the volume of blood components, and
+      the capillary leak and their trajectory during the early phase of hospitalization of patients
+      with SARS-CoV-2 infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Acute respiratory failure related to infection by the severe acute respiratory syndrome
+      coronavirus-2 (SARS-CoV-2), is the main reason for ICU admission in in the majority of
+      patients admitted to the ICU in this viral syndrome, and it presents a significant clinical
+      challenge. Severe hypoxemia in these patients is thought to be related in part to generation
+      of alveolar edema. This would be related to the specific infection related injury of the
+      alveoli-capillary membrane, however other factors could be related to edema formation.
+      Although patients meet criteria for the Acute Respiratory Distress Syndrome (ARDS), there is
+      significant controversy about whether the lungs of the COVID-19 patients have the
+      characteristics of ARDS and thus whether the treatment should mimic treatment of ARDS due to
+      other causes. A general principle in ARDS patients is to avoid positive fluid balances as
+      this may contribute to alveolar edema. Also, the guidelines on the management of COVID-19
+      patients by the Society of Critical Care Medicine advocate a conservative fluid strategy [8].
+      However, uncorrected hypovolemia may result in additional organ dysfunction (especially
+      kidney injury). The clinical fluid status is usually estimated by the presence of peripheral
+      edema and daily fluid balances and thus prone to errors as these are poorly related to the
+      circulating blood volume. Management of patients with sepsis based on blood volume
+      measurements and red blood cell volume, to disclose true anemia, has been shown to improve
+      outcome. Finally, the transudation of albumin in the extravascular space has been shown to be
+      associated with outcome of critically ill patients. It is highly plausible that these
+      parameters could help guide the care of COVID-19 patients given the available data in the
+      literature, thus promoting better treatment of these patients.
+
+      This is a prospective multicenter study where the treatment team is blinded to the results of
+      the study. The primary objective of the study is to describe the blood volume, the volume of
+      blood components, and the capillary leak and their trajectory during the early phase of
+      hospitalization of patients with SARS-CoV-2 infection.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2020</start_date>
+  <completion_date type="Anticipated">February 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total blood volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total blood volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 2</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total blood volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total blood volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total blood volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total blood volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total blood volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day of ICU Discharge, up to day 21</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Red blood cell volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Red blood cell volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 2</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Red blood cell volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Red blood cell volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Red blood cell volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Red blood cell volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Red blood cell volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day of ICU Discharge, up to day 21</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 2</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma volume (absolute and relative to ideal body weight)</measure>
+    <time_frame>Day of ICU Discharge, up to day 21</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transudation rate of the 131I albumin tracer</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transudation rate of the 131I albumin tracer</measure>
+    <time_frame>Day 2</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transudation rate of the 131I albumin tracer</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transudation rate of the 131I albumin tracer</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transudation rate of the 131I albumin tracer</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transudation rate of the 131I albumin tracer</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transudation rate of the 131I albumin tracer</measure>
+    <time_frame>Day of ICU Discharge, up to day 21</time_frame>
+    <description>Reported by the BVA-100 software</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of new onset renal injury (failure) and requirement for renal replacement therapy</measure>
+    <time_frame>Up to Day 14</time_frame>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid19</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 ICU Patients</arm_group_label>
+    <description>Patients who are admitted to the ICU with a confirmed SARS-CoV-2 infection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>BVA-100</intervention_name>
+    <description>The BVA-100 is a software package designed to calculate human blood volume using the method of tracer dilution. It uses tagged serum albumin (a commonly used tag is 131I, resulting in &quot;131I -HSA&quot;). Data inputs to the software come from the measured characteristics of subject blood samples (hematocrit and tracer concentration) and tracer calibration standards. The package also calculates the subject expected (or ideal) blood volume from physical parameters. Hyper- or hypovolemia, associated red blood cell volumes, and transudation rate are reported, with statistics showing the quality of the results. The subject blood samples and calibration standards are measured in a gamma counter, whose output is automatically, or manually, input to this calculation program.</description>
+    <arm_group_label>COVID-19 ICU Patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients admitted to the ICU with a confirmed SARS-CoV-2 infection
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Confirmed SARS-CoV-2 infection
+
+          -  Patient admitted to the ICU
+
+          -  Patient age is between 18 and 95 years
+
+          -  Patent peripheral or central venous line from which blood draws can be made and
+             through which the 131I bolus can be administered
+
+        Exclusion Criteria:
+
+          -  Refused informed consent to participate in the study
+
+          -  Pregnant or possible pregnant women
+
+          -  Patient unlikely to survive more than 72h
+
+          -  Patient with life sustaining treatment limitations (use of renal replacement therapy)
+
+          -  Patient already on or likely to be placed on extra-corporeal membrane oxygenation
+             support within 48h after admission
+
+          -  Known allergy to iodine or iodinated 131I albumin
+
+          -  Confirmed or suspected bacterial or another virus infection on admission
+
+          -  Patients with chronic renal failure requiring renal replacement therapy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jan Bakker, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jan Bakker, MD, PhD</last_name>
+    <phone>718-630-7000</phone>
+    <email>Jan.Bakker@nyulangone.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jan Bakker, MD, PhD</last_name>
+      <email>Jan.Bakker@nyulangone.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jan Bakker, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>August 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

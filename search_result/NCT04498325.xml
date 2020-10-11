@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="494">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04498325</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202009065</org_study_id>
+    <nct_id>NCT04498325</nct_id>
+  </id_info>
+  <brief_title>Evaluating the Effect of NT-I7, a Long Acting Interleukin-7, to Increase Lymphocyte Counts and Enhance Immune Clearance of SARS-CoV-2 (COVID-19)</brief_title>
+  <official_title>A Phase I and Pilot Study Evaluating the Effect of NT-I7, a Long Acting Interleukin-7, to Increase Lymphocyte Counts and Enhance Immune Clearance of SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NeoImmune Tech</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Lymphopenia is common in patients with COVID-19 and is associated with worse clinical
+      outcomes. NT-I7 is a long-acting human interleukin-7 (IL-7) that has been shown to increase
+      absolute lymphocyte count (ALC) and CD4+ and CD8+ T cell counts with a well-tolerated safety
+      profile in humans. In this study, patients who have tested positive for SARS-CoV-2 by PCR
+      testing without severe disease and with ALC &lt;1500 cells/mm3 will be enrolled.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 31, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study will open as a phase I study to test three different dose levels of NT-I7. Once a safe tolerated dose is established, the pilot portion of the study will be activated wherein participants will be randomized on a 1:1 basis to receive a single injection of NT-I7 (at the safe tolerated dose) or placebo.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>The clinicians, participants, and clinical research coordinators will be blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safe and tolerable dose of NT-I7 (Phase I only)</measure>
+    <time_frame>Completion of DLT assessment window of Phase I portion of study (estimated to be 8 months)</time_frame>
+    <description>The safe tolerated dose is defined as the dose level immediately below the dose level at which 1 patient of a cohort of 3 patients experiences dose-limiting toxicity within 14 days after administration of NT-I7
+Dose limiting toxicities (DLT) are defined as:
+A serious adverse event that is at least possibly related to NT-I7
+A grade 3 or higher adverse event that is at least possibly related to NT-I7 (excluding injection site swelling, irritation or discomfort)
+A clinically significant lab abnormality that is at least possibly related to NT-I7</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent change in absolute lymphocyte count (ALC)</measure>
+    <time_frame>From baseline to Day 14</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percent change in absolute lymphocyte count (ALC)</measure>
+    <time_frame>From baseline through Day 21</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS-CoV-2 viral load</measure>
+    <time_frame>From baseline to Day 7</time_frame>
+    <description>-Using PCR from nasopharyngeal swab, oropharyngeal swab or saliva</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS-CoV-2 viral load</measure>
+    <time_frame>From baseline to Day 14</time_frame>
+    <description>-Using PCR from nasopharyngeal swab, oropharyngeal swab or saliva</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Symptom severity as measured by WHO Ordinal Scale for clinical improvement</measure>
+    <time_frame>From baseline, day 7, day 14, and day 21</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of COVID-19 symptoms</measure>
+    <time_frame>From baseline through Day 21</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent adverse events</measure>
+    <time_frame>From baseline through Day 21</time_frame>
+    <description>-A treatment emergent adverse event (TEAE) is defined as any event that begins or worsens on or after date of first dose of study treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants by PCR result status (positive or negative)</measure>
+    <time_frame>-From baseline to Day 7</time_frame>
+    <description>-If quantitative PCR is not available</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants by PCR result status (positive or negative)</measure>
+    <time_frame>From baseline to Day 14</time_frame>
+    <description>-If quantitative PCR is not available</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>NT-I7 (Phase I)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the phase I study, 3 dose levels of NT-I7 are planned. Dosing will be staggered such that there will be a minimum of 72 hours between the dosing of one participant and the dosing of the next participant
+NT-I7 will be given by intramuscular injection on Day 0
+Participants will also be given standard of care treatment for COVID-19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NT-I7 (Pilot)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NT-I7 (dose determined by Phase I portion of study) will be given by intramuscular injection on Day 0
+Participants will also be given standard of care treatment for COVID-19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (Pilot)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be given by intramuscular injection on Day 0
+Participants will also be given standard of care treatment for COVID-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>NT-I7</intervention_name>
+    <description>Supplied by study</description>
+    <arm_group_label>NT-I7 (Phase I)</arm_group_label>
+    <arm_group_label>NT-I7 (Pilot)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Supplied by study</description>
+    <arm_group_label>Placebo (Pilot)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Blood for research purposes</intervention_name>
+    <description>Prior to injection (Day 0), Day 7, and Day 14</description>
+    <arm_group_label>NT-I7 (Phase I)</arm_group_label>
+    <arm_group_label>NT-I7 (Pilot)</arm_group_label>
+    <arm_group_label>Placebo (Pilot)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Blood for pharmacokinetic samples</intervention_name>
+    <description>-Phase I only: 1-2 hours prior to dosing, 6 hours after dosing, 24 hours after dosing, Day 7, Day 14, and Day 21</description>
+    <arm_group_label>NT-I7 (Phase I)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Nasopharyngeal, oropharyngeal, or saliva swab</intervention_name>
+    <description>-Prior to study treatment, Day 4(optional), Day 7, and Day 14</description>
+    <arm_group_label>NT-I7 (Phase I)</arm_group_label>
+    <arm_group_label>NT-I7 (Pilot)</arm_group_label>
+    <arm_group_label>Placebo (Pilot)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Blood for anti-drug antibody (ADA)</intervention_name>
+    <description>Baseline, Day 7, Day 14, Day 21, Day 60, and Day 90. Participants with ADA positivity on Day 90 will be monitored every 90 days until antibody level returns to baseline</description>
+    <arm_group_label>NT-I7 (Phase I)</arm_group_label>
+    <arm_group_label>NT-I7 (Pilot)</arm_group_label>
+    <arm_group_label>Placebo (Pilot)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Tested PCR positive for SARS-CoV-2by nasopharyngeal swab, oropharyngeal swab, or
+             saliva.
+
+          -  Mild COVID-19, defined as WHO Ordinal Scale &lt;4 .
+
+          -  Respiratory rate &lt; 20 bpm, HR &lt; 90 bpm, and SpO2 &gt; 93% on room air at sea level.
+
+          -  Absolute lymphocyte count (ALC) &lt; 1500 cells/mm3 at the time of screening.
+
+          -  AST/ALT ≤ 3.0 x ULN, total bilirubin ≤ 1.5 x ULN (except if due to Gilbert's
+             syndrome).
+
+             -≥ 18 years of age.
+
+          -  First day of treatment must be no more than 10 days from onset of COVID-19 symptoms.
+
+          -  Must be willing to be closely monitored in the hospital or in an alternate setting
+             (e.g. clinical trial unit) for at least the first 7 days (±2 days allowed) following
+             NT-I7/placebo injection.
+
+          -  Individuals of reproductive potential must agree to either abstinence or use of at
+             least one study-approved form of contraception when engaging in sexual activities that
+             can result in pregnancy from the time of screening through 60 days for female and 120
+             days for male after study agent administration. Acceptable forms of contraception for
+             this study are male or female condoms, diaphragms or cervical caps with a spermicide,
+             or non-hormonal intrauterine devices.
+
+          -  Patients with factors or concomitant illness associated with higher risk of mortality
+             due to COVID-19 (such as older age, hypertension, diabetes, and/or COPD) are eligible.
+
+          -  Able to understand and willing to sign an IRB approved written informed consent
+             document.
+
+        Exclusion Criteria:
+
+          -  Receiving any other investigational agents which may affect patient's lymphocyte
+             counts. Note: There is no evidence that chloroquine or hydroxychloroquine could affect
+             lymphocyte counts. Thus, chloroquine or hydroxychloroquine use is not an exclusion
+             criteria for this study. Additionally, it is permissible for potential participants to
+             have received investigational or off-label agents for COVID-19 prior to or during
+             study participation.
+
+          -  Pregnant or breastfeeding women are excluded from this study because NT-I7 has not
+             been evaluated regarding its potential for teratogenic or abortifacients effects.
+             There is a potential risk for adverse events in nursing infants secondary to treatment
+             of the mother with the study drug; therefore, breastfeeding should be discontinued if
+             the mother is treated with NT-I7.
+
+          -  Transferred from ICU to the floor.
+
+          -  Requiring dialysis.
+
+          -  Shortness of breath or known hypoxia (defined as PaO2/FiO2 ≤ 300 mmHg), or signs of
+             serious lower airway disease.
+
+          -  Evidence of ARDS, SIRS/shock, or cardiac failure.
+
+          -  Elevated inflammatory markers such as CRP &gt; 2 x ULN, LDH &gt; 2 x ULN, D-dimer &gt; 2 x ULN,
+             ferritin &gt; ULN, or IL-6 &gt; ULN (when available).
+
+          -  Any established diagnosis of autoimmune disease requiring systemic treatment EXCEPT
+             for vitiligo or endocrine disease (such as diabetes, thyroid disease, and adrenal
+             disease) controlled by replacement therapy.
+
+          -  Receipt of live attenuated vaccine within 30 days before the study treatment. Examples
+             of live vaccines include, but are not limited to, the following: measles, mumps,
+             rubella, chicken pox, yellow fever, rabies, Bacillus Calmette-Guérin (BCG), Zoster,
+             and typhoid vaccine. Seasonal influenza vaccines for injection are generally killed
+             virus vaccines and are allowed; however, intranasal influenza vaccines (e.g. FluMist)
+             are live attenuated vaccines and are not allowed.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jian Campian, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jian Campian, M.D., Ph.D.</last_name>
+    <phone>314-362-5677</phone>
+    <email>campian.jian@wustl.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Erik R Dubberke, M.D., MSPH</last_name>
+    <phone>314-454-8293</phone>
+    <email>edubberk@wustl.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Saint Louis University Hospital</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mary McLennan, M.D.</last_name>
+      <phone>314-768-8028</phone>
+      <email>mary.mclennan@health.slu.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Alexandre Lacasse, M.D.</last_name>
+      <phone>314-768-8028</phone>
+      <email>alexandre.lacasse@ssmhealth.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Mary McLennan, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alexandre Lacasse, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.siteman.wustl.edu</url>
+    <description>Alvin J. Siteman Cancer Center at Barnes-Jewish Hospital and Washington University School of Medicine</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 4, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

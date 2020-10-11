@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04510233</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IvrInh</org_study_id>
+    <nct_id>NCT04510233</nct_id>
+  </id_info>
+  <brief_title>Ivermectin Nasal Spray for COVID19 Patients</brief_title>
+  <official_title>Ivermectin Inhalation Forms in the Management of COVID-19 Egyptian Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tanta University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tanta University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The global escalation of COVID19 pandemic has put the health care system under pressure with
+      urgent need for treatment. In the absence of vaccine and approved drug against SARS-COV2 over
+      the past 6 months, the health authorities were obliged to re-purpose existing drugs to fight
+      this pandemic.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Ivermectin is a well-known FDA-approved pan antiparasitic drug with high safety profile and
+      potential therapeutic effects against COVID 19. It has been previously investigated as an
+      antiviral agent. It showed 5000 fold reduction of SARS COV 2 viral RNA in-vitro studies.
+
+      However, some researchers questioned its efficacy in the oral form as very high doses will be
+      required to achieve a proper tissue concentration and viricidal effect in the respiratory
+      system.
+
+      Our hypothesis is that, since COVID-19 has shown to be particularly damaging to the
+      respiratory system, using inhaled forms of Ivermectin will deliver the drug directly to the
+      infection site and make it a treatment option.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PCR of SARS-Cov2 RNA</measure>
+    <time_frame>14 days</time_frame>
+    <description>Negative PCR result of SARS-Cov2 RNA in COVID19 patients</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Ivermectin nasal spray</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ivermectin administered as nasal spray (one ml in each nostril two times daily)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ivermectin oral</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Ivermectin administered orally (one tablet 6 mg three times daily) for 72 hours plus the standard care of COVID-19 cases.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>standard care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVID-19 cases will receive standard of care [oxygen via masks or ventilators]</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin nasal</intervention_name>
+    <description>Ivermectin nasal spray one ml in each nostril two times daily</description>
+    <arm_group_label>Ivermectin nasal spray</arm_group_label>
+    <other_name>ivermectin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin oral</intervention_name>
+    <description>Ivermectin oral (one tablet 6 mg three times daily)</description>
+    <arm_group_label>Ivermectin oral</arm_group_label>
+    <other_name>ivermectin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>standard care</intervention_name>
+    <description>oxygen via masks or ventilators</description>
+    <arm_group_label>standard care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  mild to moderate severity who are confirmed to be positive for SARS COV 2.
+
+        Exclusion Criteria:
+
+          -  patients with severe form of COVID-19 or those who are on ventilatory support or those
+             with cytokine storm
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kamal Okasha, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tanta Univesity faculty of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kamal Okasha, PhD</last_name>
+    <phone>201140403709</phone>
+    <email>okasha70@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nahla El-Ashmawy, PhD</last_name>
+    <phone>201116721982</phone>
+    <email>nahlaelashmawy@yahoo.com</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>August 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Tanta University</investigator_affiliation>
+    <investigator_full_name>Prof. Dr. Kamal Mohammed Okasha</investigator_full_name>
+    <investigator_title>Vice President</investigator_title>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1078">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04521322</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CEMIC</org_study_id>
+    <nct_id>NCT04521322</nct_id>
+  </id_info>
+  <brief_title>Efficacy of a Nasal Spray Containing Iota-Carrageenan in the Prophylaxis of COVID-19 Disease in Health Personnel Dedicated to Patients Care With COVID-19 Disease</brief_title>
+  <acronym>CARR-COV-02</acronym>
+  <official_title>Efficacy of a Nasal Spray Containing Iota-Carrageenan in the Prophylaxis of COVID-19 Disease in Health Personnel Dedicated to Patients Care With COVID-19. Multicenter, Randomized, Double-blind, Placebo-controlled Trial (CARR-COV-02)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ariel Dogliotti</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centro de Educación Medica e Investigaciones Clínicas Norberto Quirno</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Centro de Educación Medica e Investigaciones Clínicas Norberto Quirno</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronaviruses are enveloped viruses with an RNA genome. Carrageenans are sulfate
+      polysaccharides synthesized by red algae. Studies conducted in adults and children with the
+      common cold showed the effectiveness of the use of Carrageenan in nasal spray.
+
+      For decades, the antiviral action of Carrageenans has been described in numerous studies with
+      different viruses that infect humans: herpes viruses types 1 and 2, human immunodeficiency
+      virus, human papillomavirus, H1N1 influenza virus, dengue virus, rhinovirus, hepatitis A
+      virus, and enteroviruses. Studies on the dynamics of COVID-19 disease show an intense and
+      rapid pharyngeal multiplication in the first 3-5 days of the onset of symptoms, prior to the
+      onset of pulmonary disease.
+
+      Finally, this molecule has shown a viricidal effect against SARS-Cov2 in vitro. All this
+      underscores the potential value of a therapy that inhibits the virus in the rhinopharynx.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicenter, randomized, double-blind, placebo-controlled trial assessing the use a
+      nasal spray containing Iota-Carrageenan in the prophylaxis of COVID-19 disease in
+      health-workers.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 24, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multicenter, randomized, double blind compared vs placebo</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>diagnose of COVID19 disease</measure>
+    <time_frame>28 days</time_frame>
+    <description>COVID 19 disease will be defined for clinical diagnose and positive Polymerase Chain Reaction test</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression to a more severe disease state, defined as need for oxygen therapy.</measure>
+    <time_frame>28 days</time_frame>
+    <description>number of subjects who develop severe COVID19 disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>lasting of disease</measure>
+    <time_frame>28 days</time_frame>
+    <description>number of days with clinical symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of COVID-19 disease onset in the first week after treatment</measure>
+    <time_frame>1 week after finishing treatment</time_frame>
+    <description>number of subjects who develop the disease within one week after finishing treatment</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants in this arm will receive a nasal spray with placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm will receive a nasal spray with Iota-Carrageenan</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Iota-Carrageenan</intervention_name>
+    <description>Participants will received a nasal spray with Iota-Carrageenan or placebo 4 times a day during 21 days</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Experimental</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  physician, nurses, and physical therapist who usually attend hospitalized COVID19
+             patients.
+
+          -  No more than 48 hours since he/she assisted a COVID-19 patient
+
+          -  Able to understand and give written informed consent
+
+        Exclusion Criteria:
+
+          -  Participation in any other clinical trial of an experimental treatment for COVID-19
+
+          -  Not having a cell phone with WhatsApp for remote monitoring
+
+          -  Hypersensitivity or known allergy to any component of the product
+
+          -  Pregnancy or lactation
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Juan Figueroa, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Instituto Milstein-CONICET</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mónica Lombardo, MD</last_name>
+    <phone>005491141763599</phone>
+    <email>mlombardo@nobeltri.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ricardo Valentini, MD</last_name>
+    <phone>005491162036790</phone>
+    <email>deptomedicina2@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>centro de educación médica e investigaciones clinicas (CEMIC)</name>
+      <address>
+        <city>Buenos Aires</city>
+        <state>Capital Federal</state>
+        <zip>1425</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mónica Lombardo, MD</last_name>
+      <phone>541152990600</phone>
+      <email>mlombardo@nobeltri.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ricardo c Valentini</last_name>
+      <phone>+541152990600</phone>
+      <email>rvalentini@cemic.edu.ar</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 20, 2020</study_first_posted>
+  <last_update_submitted>August 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Centro de Educación Medica e Investigaciones Clínicas Norberto Quirno</investigator_affiliation>
+    <investigator_full_name>Ariel Dogliotti</investigator_full_name>
+    <investigator_title>PHYSICIAN</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

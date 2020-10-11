@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1465">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04508985</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MP-37-2021-6614</org_study_id>
+    <nct_id>NCT04508985</nct_id>
+  </id_info>
+  <brief_title>The McGill RAAS-COVID-19 Trial</brief_title>
+  <acronym>RAAS-COVID</acronym>
+  <official_title>Management of Renin-Angiotensin-Aldosterone System Blockade in Patients Admitted in Hospital With Confirmed Coronavirus Disease (COVID-19) Infection: The McGill RAAS-COVID-19 Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McGill University Health Centre/Research Institute of the McGill University Health Centre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Jewish General Hospital (Montreal, Quebec, Canada)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Montreal General Hospital (Montreal, Quebec, Canada)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Université de Lorraine, Centre d'Investigation Clinique- Plurithématique Inserm</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>McGill University Health Centre/Research Institute of the McGill University Health Centre</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease (COVID-19) related pneumonia significantly impact patients with
+      underlying cardiovascular (CV) conditions. Animal studies suggest that drugs commonly used to
+      treated CV diseases may increase the ability of COVID-19 to infect cells. The RAAS-COVID-19
+      trial aims to assess whether temporarily holding these CV drugs in patients who are admitted
+      with COVID-19, versus continuing them, in patients admitted with COVID-19 can impact short
+      term outcomes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Open-label, pragmatic, randomized, study of approximately 40 adults. The following groups of
+      participants will be considered: i) within 48 hours of diagnosis of COVID-19; ii) who have
+      received a diagnosis of COVID-19 from another facility and are within 48 hours of transfer to
+      a study recruitment site (Royal Victoria Hospital, Montreal General Hospital, and Jewish
+      General Hospital [all in Montreal, Quebec, Canada]). Participants will be randomized 1:1 to
+      an upfront temporary discontinuation) of RAAS inhibition for the duration of the
+      hospitalization (and to consider re-initiate after day 7 of admission or on discharge) versus
+      a strategy continuation of RAAS inhibition. Re-initiation of held RAAS inhibition will be
+      based on treating team's clinical judgement. The RAAS-COVID-19 RCT will evaluate whether an
+      upfront strategy of temporary discontinuation of RAAS inhibition compared to the continuation
+      of RAAS inhibition among patients admitted with established COVID-19 infection and on chronic
+      RAAS inhibition therapy impacts short term clinical outcomes and biomarkers.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">September 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Open-label, randomized, study of approximately 40 adults. The following groups of participants will be considered: i) within 48 hours of diagnosis of COVID-19; ii) who have received a diagnosis of COVID-19 from another facility and are within 48 hours of transfer to a study recruitment site (Royal Victoria Hospital, Montreal General Hospital, and Jewish General Hospital [all in Montreal, Quebec, Canada])). Participants will be randomized 1:1 to an upfront temporary discontinuation) of RAAS inhibition for the duration of the hospitalization (and to consider re-initiate on discharge) versus a strategy continuation of RAAS inhibition.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>The patient and the treating doctor will be informed of the assigned treatment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Global rank score</measure>
+    <time_frame>Baseline - day 7</time_frame>
+    <description>The primary end point is a global rank score which is applied to all participants. The global rank sum is based on the following endpoints (and corresponding score): Death (7); Transfer to ICU for Invasive ventilation (6); Transfer to ICU for other indication (5); Non-fatal MACE (Any of the following - MI, Stroke, Acute HF, new onset Afib) (4); Length of stay &gt; 4 days (3); Development of acute kidney injury (&gt;40% decline in eGFR or doubling of serum Cr) (2); Urgent intravenous treatment for high blood pressure/hypertensive crisis (2); &gt;30% Increase in baseline high sensitivity troponin (1); &gt;30% increase in baseline BNP (1); Increase in baseline CRP to 48 hours &gt;30%(1); Lymphocyte count drop &gt;30% (1).
+The primary endpoint will be assessed from baseline to day 7 (or day of discharge if occurs before day 7). Participants will receive a weighted score depending on the events experienced. The global rank sum score will then be averaged and compared between treatment arms.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Temporarily holding the RAAS inhibitor. Among participants who will be randomized to the intervention arm, a possible guideline-directed alternative to anti-hypertensive medication alternatives will be provided to the treating physician team.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Continuation of standard of care</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>No intervention, Continuation RAAS inhibitor [continued standard of care].</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Temporarily holding the RAAS inhibitor [intervention]</intervention_name>
+    <description>Temporarily holding the RAAS inhibitor. Among participants who will be randomized to the intervention arm, a possible guideline-directed alternative to anti-hypertensive medication alternatives will be provided to the treating physician team.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>RAAS inhibitor [continued standard of care]</intervention_name>
+    <description>No intervention, Continuation RAAS inhibitor [continued standard of care].</description>
+    <arm_group_label>Continuation of standard of care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥ 18 years old.
+
+          -  Hospitalization with a Covid-19 infection
+
+          -  Chronically treated with RAAS blockers (ACE inhibitors or ARBs on the last
+             prescription prior to admission with a treatment duration ≥ 1 month
+
+          -  Diagnosis of COVID-19 confirmed by the presence of SARS-CoV-2 on any biological sample
+
+          -  Participants are within 48 hours of diagnosis of COVID-19 or have received a diagnosis
+             of COVID-19 from another facility and are within 48 hours of transfer to a study
+             recruitment site
+
+        Exclusion Criteria:
+
+          -  Shock requiring vasoactive agents.
+
+          -  Requiring invasive mechanical ventilation.
+
+          -  History of malignant hypertension
+
+          -  Use of five or more antihypertensive drugs.
+
+          -  History of heart failure with reduced ejection fraction
+
+          -  History of hospitalization for acute heart failure in past 3 months
+
+          -  History of hospitalization for hemorrhagic stroke in the past 3 months.
+
+          -  History of CKD with an eGFR &lt;45 ml/min/1.73m2
+
+          -  History of COPD GOLD III/IV
+
+          -  History of end-stage dementia
+
+          -  History of active liver cirrhosis
+
+          -  RAAS blockers therapy previously stopped &gt; 48h.
+
+          -  Anticipated discharge in less than 24 hours.
+
+          -  History of current active cancer receiving chemotherapy
+
+          -  Inability to obtain informed consent.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Abhinav Sharma, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McGill University Health Centre/Research Institute of the McGill University Health Centre</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Abhinav Sharma, MD</last_name>
+    <phone>5149341934</phone>
+    <email>abhinav.sharma@mcgill.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julie Lebel, PM</last_name>
+    <phone>5147912705</phone>
+    <email>julie.lebel@muhc.mcgill.ca</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://www.biorxiv.org/content/10.1101/2020.01.31.929042v1</url>
+    <description>The novel coronavirus 2019 (2019-nCoV) uses the SARS-coronavirus receptor ACE2 and the cellular protease TMPRSS2 for entry into target cells</description>
+  </link>
+  <link>
+    <url>https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=2451&amp;context=jmasm</url>
+    <description>Power and sample size estimation for nonparametric composite endpoints: Practical implementation using data simulations.</description>
+  </link>
+  <reference>
+    <citation>Brown PM, Ezekowitz JA. Composite End Points in Clinical Trials of Heart Failure Therapy: How Do We Measure the Effect Size? Circ Heart Fail. 2017 Jan;10(1). pii: e003222. doi: 10.1161/CIRCHEARTFAILURE.116.003222.</citation>
+    <PMID>28077429</PMID>
+  </reference>
+  <reference>
+    <citation>Kuhn JH, Li W, Choe H, Farzan M. Angiotensin-converting enzyme 2: a functional receptor for SARS coronavirus. Cell Mol Life Sci. 2004 Nov;61(21):2738-43. Review.</citation>
+    <PMID>15549175</PMID>
+  </reference>
+  <reference>
+    <citation>Ferrario CM, Jessup J, Chappell MC, Averill DB, Brosnihan KB, Tallant EA, Diz DI, Gallagher PE. Effect of angiotensin-converting enzyme inhibition and angiotensin II receptor blockers on cardiac angiotensin-converting enzyme 2. Circulation. 2005 May 24;111(20):2605-10. Epub 2005 May 16.</citation>
+    <PMID>15897343</PMID>
+  </reference>
+  <reference>
+    <citation>Agata J, Ura N, Yoshida H, Shinshi Y, Sasaki H, Hyakkoku M, Taniguchi S, Shimamoto K. Olmesartan is an angiotensin II receptor blocker with an inhibitory effect on angiotensin-converting enzyme. Hypertens Res. 2006 Nov;29(11):865-74.</citation>
+    <PMID>17345786</PMID>
+  </reference>
+  <reference>
+    <citation>Kuster GM, Pfister O, Burkard T, Zhou Q, Twerenbold R, Haaf P, Widmer AF, Osswald S. SARS-CoV2: should inhibitors of the renin-angiotensin system be withdrawn in patients with COVID-19? Eur Heart J. 2020 May 14;41(19):1801-1803. doi: 10.1093/eurheartj/ehaa235.</citation>
+    <PMID>32196087</PMID>
+  </reference>
+  <reference>
+    <citation>Sharma A, Bhatt DL, Calvo G, Brown NJ, Zannad F, Mentz RJ. Heart failure event definitions in drug trials in patients with type 2 diabetes. Lancet Diabetes Endocrinol. 2016 Apr;4(4):294-6. doi: 10.1016/S2213-8587(16)00049-8.</citation>
+    <PMID>27016320</PMID>
+  </reference>
+  <reference>
+    <citation>Marquis-Gravel G, Roe MT, Turakhia MP, Boden W, Temple R, Sharma A, Hirshberg B, Slater P, Craft N, Stockbridge N, McDowell B, Waldstreicher J, Bourla A, Bansilal S, Wong JL, Meunier C, Kassahun H, Coran P, Bataille L, Patrick-Lake B, Hirsch B, Reites J, Mehta R, Muse ED, Chandross KJ, Silverstein JC, Silcox C, Overhage JM, Califf RM, Peterson ED. Technology-Enabled Clinical Trials: Transforming Medical Evidence Generation. Circulation. 2019 Oct 22;140(17):1426-1436. doi: 10.1161/CIRCULATIONAHA.119.040798. Epub 2019 Oct 21. Review.</citation>
+    <PMID>31634011</PMID>
+  </reference>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Arentz M, Yim E, Klaff L, Lokhandwala S, Riedo FX, Chong M, Lee M. Characteristics and Outcomes of 21 Critically Ill Patients With COVID-19 in Washington State. JAMA. 2020 Apr 28;323(16):1612-1614. doi: 10.1001/jama.2020.4326.</citation>
+    <PMID>32191259</PMID>
+  </reference>
+  <reference>
+    <citation>Ye M, Wysocki J, William J, Soler MJ, Cokic I, Batlle D. Glomerular localization and expression of Angiotensin-converting enzyme 2 and Angiotensin-converting enzyme: implications for albuminuria in diabetes. J Am Soc Nephrol. 2006 Nov;17(11):3067-75. Epub 2006 Oct 4.</citation>
+    <PMID>17021266</PMID>
+  </reference>
+  <reference>
+    <citation>Soler MJ, Ye M, Wysocki J, William J, Lloveras J, Batlle D. Localization of ACE2 in the renal vasculature: amplification by angiotensin II type 1 receptor blockade using telmisartan. Am J Physiol Renal Physiol. 2009 Feb;296(2):F398-405. doi: 10.1152/ajprenal.90488.2008. Epub 2008 Nov 12.</citation>
+    <PMID>19004932</PMID>
+  </reference>
+  <reference>
+    <citation>Vuille-dit-Bille RN, Camargo SM, Emmenegger L, Sasse T, Kummer E, Jando J, Hamie QM, Meier CF, Hunziker S, Forras-Kaufmann Z, Kuyumcu S, Fox M, Schwizer W, Fried M, Lindenmeyer M, Götze O, Verrey F. Human intestine luminal ACE2 and amino acid transporter expression increased by ACE-inhibitors. Amino Acids. 2015 Apr;47(4):693-705. doi: 10.1007/s00726-014-1889-6. Epub 2014 Dec 23.</citation>
+    <PMID>25534429</PMID>
+  </reference>
+  <reference>
+    <citation>Vaduganathan M, Vardeny O, Michel T, McMurray JJV, Pfeffer MA, Solomon SD. Renin-Angiotensin-Aldosterone System Inhibitors in Patients with Covid-19. N Engl J Med. 2020 Apr 23;382(17):1653-1659. doi: 10.1056/NEJMsr2005760. Epub 2020 Mar 30.</citation>
+    <PMID>32227760</PMID>
+  </reference>
+  <reference>
+    <citation>Bavishi C, Maddox TM, Messerli FH. Coronavirus Disease 2019 (COVID-19) Infection and Renin Angiotensin System Blockers. JAMA Cardiol. 2020 Jul 1;5(7):745-747. doi: 10.1001/jamacardio.2020.1282.</citation>
+    <PMID>32242890</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang P, Zhu L, Cai J, Lei F, Qin JJ, Xie J, Liu YM, Zhao YC, Huang X, Lin L, Xia M, Chen MM, Cheng X, Zhang X, Guo D, Peng Y, Ji YX, Chen J, She ZG, Wang Y, Xu Q, Tan R, Wang H, Lin J, Luo P, Fu S, Cai H, Ye P, Xiao B, Mao W, Liu L, Yan Y, Liu M, Chen M, Zhang XJ, Wang X, Touyz RM, Xia J, Zhang BH, Huang X, Yuan Y, Loomba R, Liu PP, Li H. Association of Inpatient Use of Angiotensin-Converting Enzyme Inhibitors and Angiotensin II Receptor Blockers With Mortality Among Patients With Hypertension Hospitalized With COVID-19. Circ Res. 2020 Jun 5;126(12):1671-1681. doi: 10.1161/CIRCRESAHA.120.317134. Epub 2020 Apr 17. Erratum in: Circ Res. 2020 Aug 28;127(6):e147. Rohit, Loomba [corrected to Loomba, Rohit].</citation>
+    <PMID>32302265</PMID>
+  </reference>
+  <reference>
+    <citation>Guo J, Huang Z, Lin L, Lv J. Coronavirus Disease 2019 (COVID-19) and Cardiovascular Disease: A Viewpoint on the Potential Influence of Angiotensin-Converting Enzyme Inhibitors/Angiotensin Receptor Blockers on Onset and Severity of Severe Acute Respiratory Syndrome Coronavirus 2 Infection. J Am Heart Assoc. 2020 Apr 7;9(7):e016219. doi: 10.1161/JAHA.120.016219. Epub 2020 Apr 1.</citation>
+    <PMID>32233755</PMID>
+  </reference>
+  <reference>
+    <citation>Sun H, Davison BA, Cotter G, Pencina MJ, Koch GG. Evaluating treatment efficacy by multiple end points in phase II acute heart failure clinical trials: analyzing data using a global method. Circ Heart Fail. 2012 Nov;5(6):742-9. doi: 10.1161/CIRCHEARTFAILURE.112.969154. Epub 2012 Oct 11.</citation>
+    <PMID>23065036</PMID>
+  </reference>
+  <reference>
+    <citation>Felker GM, Maisel AS. A global rank end point for clinical trials in acute heart failure. Circ Heart Fail. 2010 Sep;3(5):643-6. doi: 10.1161/CIRCHEARTFAILURE.109.926030.</citation>
+    <PMID>20841546</PMID>
+  </reference>
+  <reference>
+    <citation>Margulies KB, Hernandez AF, Redfield MM, Givertz MM, Oliveira GH, Cole R, Mann DL, Whellan DJ, Kiernan MS, Felker GM, McNulty SE, Anstrom KJ, Shah MR, Braunwald E, Cappola TP; NHLBI Heart Failure Clinical Research Network. Effects of Liraglutide on Clinical Stability Among Patients With Advanced Heart Failure and Reduced Ejection Fraction: A Randomized Clinical Trial. JAMA. 2016 Aug 2;316(5):500-8. doi: 10.1001/jama.2016.10260.</citation>
+    <PMID>27483064</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Sharma A, Hijazi Z, Andersson U, Al-Khatib SM, Lopes RD, Alexander JH, Held C, Hylek EM, Leonardi S, Hanna M, Ezekowitz JA, Siegbahn A, Granger CB, Wallentin L. Use of Biomarkers to Predict Specific Causes of Death in Patients With Atrial Fibrillation. Circulation. 2018 Oct 16;138(16):1666-1676. doi: 10.1161/CIRCULATIONAHA.118.034125.</citation>
+    <PMID>29871978</PMID>
+  </reference>
+  <reference>
+    <citation>Clerkin KJ, Fried JA, Raikhelkar J, Sayer G, Griffin JM, Masoumi A, Jain SS, Burkhoff D, Kumaraiah D, Rabbani L, Schwartz A, Uriel N. COVID-19 and Cardiovascular Disease. Circulation. 2020 May 19;141(20):1648-1655. doi: 10.1161/CIRCULATIONAHA.120.046941. Epub 2020 Mar 21. Review.</citation>
+    <PMID>32200663</PMID>
+  </reference>
+  <reference>
+    <citation>Nerenberg KA, Zarnke KB, Leung AA, Dasgupta K, Butalia S, McBrien K, Harris KC, Nakhla M, Cloutier L, Gelfer M, Lamarre-Cliche M, Milot A, Bolli P, Tremblay G, McLean D, Padwal RS, Tran KC, Grover S, Rabkin SW, Moe GW, Howlett JG, Lindsay P, Hill MD, Sharma M, Field T, Wein TH, Shoamanesh A, Dresser GK, Hamet P, Herman RJ, Burgess E, Gryn SE, Grégoire JC, Lewanczuk R, Poirier L, Campbell TS, Feldman RD, Lavoie KL, Tsuyuki RT, Honos G, Prebtani APH, Kline G, Schiffrin EL, Don-Wauchope A, Tobe SW, Gilbert RE, Leiter LA, Jones C, Woo V, Hegele RA, Selby P, Pipe A, McFarlane PA, Oh P, Gupta M, Bacon SL, Kaczorowski J, Trudeau L, Campbell NRC, Hiremath S, Roerecke M, Arcand J, Ruzicka M, Prasad GVR, Vallée M, Edwards C, Sivapalan P, Penner SB, Fournier A, Benoit G, Feber J, Dionne J, Magee LA, Logan AG, Côté AM, Rey E, Firoz T, Kuyper LM, Gabor JY, Townsend RR, Rabi DM, Daskalopoulou SS; Hypertension Canada. Hypertension Canada's 2018 Guidelines for Diagnosis, Risk Assessment, Prevention, and Treatment of Hypertension in Adults and Children. Can J Cardiol. 2018 May;34(5):506-525. doi: 10.1016/j.cjca.2018.02.022. Epub 2018 Mar 1.</citation>
+    <PMID>29731013</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 11, 2020</study_first_posted>
+  <last_update_submitted>August 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>McGill University Health Centre/Research Institute of the McGill University Health Centre</investigator_affiliation>
+    <investigator_full_name>Abhinav Sharma</investigator_full_name>
+    <investigator_title>Cardiologist</investigator_title>
+  </responsible_party>
+  <keyword>Renin</keyword>
+  <keyword>Angiotensin</keyword>
+  <keyword>Aldosterone</keyword>
+  <keyword>coronavirus</keyword>
+  <keyword>Cardiovascular Diseases</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be de-identified and shared among all collaborators.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Immediate access to the data</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

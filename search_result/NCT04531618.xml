@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2172">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04531618</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AAAT0140</org_study_id>
+    <nct_id>NCT04531618</nct_id>
+  </id_info>
+  <brief_title>Mother-infant Bonding During COVID-19</brief_title>
+  <official_title>Promoting Mother-Infant Emotional Connection During the COVID-19 Pandemic: an Randomized Controlled Trial (RCT) of Virtual Family Nurture Intervention</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare the mother-infant emotional connection formed during
+      the pandemic in standard care (SC) versus Family Nurture Intervention (FNI) pairs, an
+      evidence-based intervention designed to counteract the adverse effects of maternal-infant
+      disconnection. In prior research on preterm infants in the neonatal intensive care unit
+      (NICU), FNI participants demonstrated increased quality of maternal caregiving behaviors and
+      significant improvements in premature infants' neurodevelopment across multiple domains,
+      including social-relatedness and attention problems. Goals of FNI include assisting mothers
+      in providing appropriate types of stimulation for their babies that are important for social,
+      emotional, and neurobehavioral development as well as reducing stress physiology in both
+      mother and infant. Data gathered in this study will help the investigators learn more about
+      the underlying mechanisms that take place during mother-infant interactions and examine how
+      these play a role in setting the infant up for the best neurodevelopmental trajectory.
+      Intervention will be conducted electronically both in the Well Baby Nursery (WBN) and at home
+      over the following 4 months. Assessments will consist of videos of mother-infant interactions
+      at the time of each intervention session, and pediatrician-led follow-up surveys conducted in
+      the linked Institutional Review Board-approved study.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Mother-infant interactions, which are well-established to strongly influence long-term
+      neurodevelopmental outcomes, are at particular risk during the pandemic, both due to maternal
+      stress, as well as to changes in health care policies leading to decreased interaction with
+      healthcare providers during the immediate postpartum period. In order to minimize risk of
+      severe acute respiratory syndrome (SARS)-CoV-2 transmission, nurses and physicians in the WBN
+      have minimized entry and exit into patient rooms, and new moms are discharged on average one
+      day early. In addition to psychological stress, there are also currently unknown risks to the
+      neonates born to mothers with SARS-CoV-2 infections at various points in their pregnancy.
+      Although viral transmission itself seems unlikely, it is currently completely unknown if
+      secondary effects will be observed. In the case of maternal HIV infection, it is now well
+      established that even when vertical transmission does not occur, there are negative
+      consequences to neurodevelopmental outcomes of these exposed children. It is therefore
+      imperative to develop preventative strategies that protect newborns and set them on the path
+      of optimal neurodevelopment. As mother-infant nurturing interactions are known to be the most
+      crucial ingredient in optimal neurodevelopmental trajectories, the goal of the investigators
+      is to test the hypothesis that an intervention focused on promoting mother-infant emotional
+      connection in the neonatal period will lead to long-term benefit and prevention of
+      deleterious effects of the COVID-19 pandemic. The investigators will use FNI, an intervention
+      specifically developed to enhance mother-infant emotional connection through facilitated
+      mother-infant interactions, emotional exchanges and mutual calming sessions. Some of the
+      facilitated interactions include: interactive touch with deep emotional expression and vocal
+      soothing, sustained reciprocal olfactory exposure, family practice in comforting, and
+      skin-to-skin holding. Previously at CUIMC, an RCT investigated the effects of FNI in NICU
+      infants. Infants who received FNI showed significant increases in electroencephalogram (EEG)
+      power, a measure of brain activity, near term age compared with those who receive Standard
+      Care (SC). Increased EEG power has previously been shown to be associated with improved
+      cognitive development, as measured by the Bayley Scales of Infant and Toddler Development
+      (BSID-III). Within the group of children who scored above 85 on the Bayley-III (1 standard
+      deviation below the mean or higher), FNI infants scored significantly higher on the BSID-III
+      Cognitive and Language scales compared to SC infants. Additionally, FNI infants had lower
+      risk for autism spectrum disorder (ASD) as measured by the Modified Checklist of Autism for
+      Toddlers (M-CHAT), an early ASD screening questionnaire. FNI infants also displayed
+      significantly lower levels of EEG coherence (1-18 Hz) largely within and between frontal
+      regions. This finding suggests that FNI may accelerate brain maturation particularly in
+      frontal brain regions, which are involved in regulation of attention, cognition, and emotion.
+      Taken together, the first RCT of FNI is strongly suggestive of neurodevelopmental benefit.
+
+      Purpose/aims: The COVID-19 pandemic has made precautions necessary in the Well Baby Nursery
+      that result in maternal stress which is known to impair mother-infant bonding, which is
+      well-established to be critical for positive long-term neurodevelopmental and behavioral
+      outcomes. The investigators will be conducting a randomized controlled trial (RCT) of Family
+      Nurture Intervention (FNI) in the Morgan Stanley Children's Hospital (MSCH) Well Baby Nursery
+      (WBN) at Columbia University Irving Medical Center (CUIMC). The RCT will compare
+      neurodevelopmental and socio-emotional outcomes of the current standard of care (SC) during
+      the COVID-19 pandemic with Family Nurture Intervention (FNI) conducted via telemedicine.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 13, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Welch Emotional Connection Score</measure>
+    <time_frame>Baseline, 1 month, 2 months, 3 months</time_frame>
+    <description>The Welch Emotional Connection Screen (WECS) is a validated scale for quantitative assessment of the emotional connection between infant and mother by scoring the interaction of the dyad in four domains: attraction, vocal communication, facial communication, and sensitivity/reciprocity. The domains are scored on a scale from 1.0 to 3.0 in 0.25 point increments, with higher scores indicating stronger emotional connection. In combination with the rating of the four domains, the overall WECS score is classified as &quot;emotionally connected&quot; or &quot;not emotionally connected.&quot; A score of &quot;emotionally connected&quot; or &quot;not emotionally connected&quot; is determined by the observers' overall assessment of the emotional connection of the dyad. The WECS will be measured at baseline for both groups, and at each of the 3 subsequent visits by a researcher observing the dyadic interaction during a 5 minute period of face-to-face time. Changes in score from baseline to 3 months will be evaluated for FNI groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Maternal Caregiving Behavior Score (Acceptance versus Rejection)</measure>
+    <time_frame>Baseline, 1 month, 2 months, 3 months</time_frame>
+    <description>The quality of caregiving in the domain of acceptance versus rejection, will be measured on a scale from 1-9, with 9 indicating higher quality caregiving. During each Zoom call, following the mother-infant interaction video but prior to intervention for the FNI group, a recording will be obtained where mother undresses infant, changes diaper, and redresses infant. This video will be scored with an adaption of the Ainsworth System for Rating Maternal Care-Giving Behavior with measures such as sensitivity and intrusiveness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Maternal Caregiving Behavior Score (Sensitivity versus Insensitivity)</measure>
+    <time_frame>Baseline, 1 month, 2 months, 3 months</time_frame>
+    <description>The quality of caregiving in the domain of sensitivity versus insensitivity, will be measured on a scale from 1-9, with 9 indicating higher quality caregiving. During each Zoom call, following the mother-infant interaction video but prior to intervention for the FNI group, a recording will be obtained where mother undresses infant, changes diaper, and redresses infant. This video will be scored with an adaption of the Ainsworth System for Rating Maternal Care-Giving Behavior with measures such as sensitivity and intrusiveness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Maternal Caregiving Behavior Score (Consideration versus Intrusiveness)</measure>
+    <time_frame>Baseline, 1 month, 2 months, 3 months</time_frame>
+    <description>The quality of caregiving in the domain of consideration versus intrusiveness, will be measured on a scale from 1-9, with 9 indicating higher quality caregiving. During each Zoom call, following the mother-infant interaction video but prior to intervention for the FNI group, a recording will be obtained where mother undresses infant, changes diaper, and redresses infant. This video will be scored with an adaption of the Ainsworth System for Rating Maternal Care-Giving Behavior with measures such as sensitivity and intrusiveness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Maternal Caregiving Behavior Score (Quality of Physical Contact)</measure>
+    <time_frame>Baseline, 1 month, 2 months, 3 months</time_frame>
+    <description>The quality of caregiving in the domain of quality of physical contact, will be measured on a scale from 1-9, with 9 indicating higher quality caregiving. During each Zoom call, following the mother-infant interaction video but prior to intervention for the FNI group, a recording will be obtained where mother undresses infant, changes diaper, and redresses infant. This video will be scored with an adaption of the Ainsworth System for Rating Maternal Care-Giving Behavior with measures such as sensitivity and intrusiveness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Maternal Caregiving Behavior Score (Quality of Vocal Contact)</measure>
+    <time_frame>Baseline, 1 month, 2 months, 3 months</time_frame>
+    <description>The quality of caregiving in the domain of quality of vocal contact, will be measured on a scale from 1-9, with 9 indicating higher quality caregiving. During each Zoom call, following the mother-infant interaction video but prior to intervention for the FNI group, a recording will be obtained where mother undresses infant, changes diaper, and redresses infant. This video will be scored with an adaption of the Ainsworth System for Rating Maternal Care-Giving Behavior with measures such as sensitivity and intrusiveness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Maternal Caregiving Behavior Score (Effectiveness of Response to Baby's Crying)</measure>
+    <time_frame>Baseline, 1 month, 2 months, 3 months</time_frame>
+    <description>The quality of caregiving in the domain of effectiveness of response to baby's crying, will be measured on a scale from 1-9, with 9 indicating higher quality caregiving. During each Zoom call, following the mother-infant interaction video but prior to intervention for the FNI group, a recording will be obtained where mother undresses infant, changes diaper, and redresses infant. This video will be scored with an adaption of the Ainsworth System for Rating Maternal Care-Giving Behavior with measures such as sensitivity and intrusiveness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Right and Left Frontal Mother &amp; Infant EEG Synchrony</measure>
+    <time_frame>Baseline, Up to 3 days</time_frame>
+    <description>2 Epilog devices will be put on mother and baby's foreheads for 2 lead EEG recording, left frontal and right frontal. EEG synchrony between mom and baby will be examined for change in synchrony over the course of the first intervention in the nursery.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Heart Rate Variability (HRV)</measure>
+    <time_frame>Baseline, Up to 3 days</time_frame>
+    <description>Epilog devices will be used to collect ECG from both mother and infant during the first interaction and intervention in the nursery. Change in synchrony of HRV will be examined over the course of the intervention.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">280</enrollment>
+  <condition>Child Development</condition>
+  <condition>Mother-Infant Interaction</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Family Nurture Intervention (FNI)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Receives a FNI session over Zoom in the Well Baby Nursery and 3 subsequent Zoom sessions over the next 3 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care (SC)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>SC receives the regular standard of care in the Well Baby Nursery and no intervention.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Family Nurture Intervention (FNI)</intervention_name>
+    <description>FNI is a family based intervention that facilitates and strengthens the mother-infant emotional connection through a structured guided interaction by a Nurture Specialist. The mother is asked to sit with her baby in her arms so that they are face-to-face, and when the baby becomes restless, the physician will coach the mom to bring the baby back to a calm state. The mother will also be encouraged to verbalize her feelings to her baby. Mother-infant emotional connection is known to affect various developmental processes and improve overall health. FNI was previously shown to be efficacious in improving several long-term health outcomes in preterm infants in the neonatal intensive care unit (NICU).</description>
+    <arm_group_label>Family Nurture Intervention (FNI)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Mother agrees to participate in a linked study involving additional surveys and
+             assessments
+
+          -  Newborn born between 37 weeks and 40 weeks and 6 days gestational age
+
+          -  Newborn is a singleton
+
+          -  Mother can speak English or Spanish
+
+        Exclusion Criteria:
+
+          -  Newborn born at less than 37 weeks and 0 days gestational age
+
+          -  Newborn born at more than 40 weeks and 6 days gestational age
+
+          -  Infant's attending physician does not recommend enrollment in the study based on
+             newborn health concerns or diagnoses, or based on concern regarding maternal history
+             of maternal substance abuse, severe psychiatric illness or psychosis
+
+          -  Congenital, cardiac, or chromosomal anomalies requiring special infant care beyond
+             routine testing based on prenatal concerns (e.g. postnatal ultrasound necessary for
+             prenatal ultrasound findings of hydronephrosis would not exclude newborn, but newborn
+             with known Trisomy 21 would)
+
+          -  Mother and/or infant has a medical condition that precludes intervention components
+
+          -  Newborn is a twin or other multiple at birth
+
+          -  Mother is unwilling to place wearable electrophysiological recording devices on
+             herself or her newborn
+
+          -  Mother is unwilling to be video recorded or to give consent for videos/photographs
+             (video stills)/audio (from the videos) to be used in educational materials, scientific
+             publications or professional meeting presentations
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>72 Hours</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dani Dumitriu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University Irving Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dani Dumitriu, MD, PhD</last_name>
+    <phone>646-774-6255</phone>
+    <email>dani.dumitriu@columbia.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Martha Welch, MD</last_name>
+    <phone>212-342-4400</phone>
+    <email>mgw13@cumc.columbia.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Morgan Stanley Children's Hopspital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dani Dumitriu, MD, PhD</last_name>
+      <phone>646-774-6255</phone>
+      <email>dani.dumitriu@columbia.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Abidin RR. Parenting stress and the utilization of pediatric services. Child Health Care. 1983 Fall;11(2):70-3.</citation>
+    <PMID>10262147</PMID>
+  </reference>
+  <reference>
+    <citation>Achenbach TM, Rescorla L. Manual for the ASEBA Preschool Forms &amp;Amp; Profiles: an Integrated System of Multi-Informant Assessment. Burlington, VT: ASEBA; 2000.</citation>
+  </reference>
+  <reference>
+    <citation>Als, H. Reading the premature infant. In: Nurturing the Premature Infant: Developmental Interventions in the Neonatal Intensive Care Nursery. New York: Oxford University Press; 1999.</citation>
+  </reference>
+  <reference>
+    <citation>Bailey RC, Kamenga MC, Nsuami MJ, Nieburg P, St Louis ME. Growth of children according to maternal and child HIV, immunological and disease characteristics: a prospective cohort study in Kinshasa, Democratic Republic of Congo. Int J Epidemiol. 1999 Jun;28(3):532-40.</citation>
+    <PMID>10405861</PMID>
+  </reference>
+  <reference>
+    <citation>Benasich AA, Thomas JJ. Developmental Disorders of Language. Encyclopedia of Cognitive Science Nadel/Cognitive. 2006.</citation>
+  </reference>
+  <reference>
+    <citation>Boivin MJ, Maliwichi-Senganimalunje L, Ogwang LW, Kawalazira R, Sikorskii A, Familiar-Lopez I, Kuteesa A, Nyakato M, Mutebe A, Namukooli JL, Mallewa M, Ruiseñor-Escudero H, Aizire J, Taha TE, Fowler MG. Neurodevelopmental effects of ante-partum and post-partum antiretroviral exposure in HIV-exposed and uninfected children versus HIV-unexposed and uninfected children in Uganda and Malawi: a prospective cohort study. Lancet HIV. 2019 Aug;6(8):e518-e530. doi: 10.1016/S2352-3018(19)30083-9. Epub 2019 May 20.</citation>
+    <PMID>31122797</PMID>
+  </reference>
+  <reference>
+    <citation>Brunelli SA, Curley JP, Gudsnuk K, Champagne FA, Myers MM, Hofer MA, Welch MG. Variations in maternal behavior in rats selected for infant ultrasonic vocalization in isolation. Horm Behav. 2015 Sep;75:78-83. doi: 10.1016/j.yhbeh.2015.08.007. Epub 2015 Aug 22.</citation>
+    <PMID>26306860</PMID>
+  </reference>
+  <reference>
+    <citation>Cassidy AR, Williams PL, Leidner J, Mayondi G, Ajibola G, Makhema J, Holding PA, Powis KM, Batlang O, Petlo C, Shapiro R, Kammerer B, Lockman S. In Utero Efavirenz Exposure and Neurodevelopmental Outcomes in HIV-exposed Uninfected Children in Botswana. Pediatr Infect Dis J. 2019 Aug;38(8):828-834. doi: 10.1097/INF.0000000000002332.</citation>
+    <PMID>30985518</PMID>
+  </reference>
+  <reference>
+    <citation>Cesari M, Penninx BW, Newman AB, Kritchevsky SB, Nicklas BJ, Sutton-Tyrrell K, Rubin SM, Ding J, Simonsick EM, Harris TB, Pahor M. Inflammatory markers and onset of cardiovascular events: results from the Health ABC study. Circulation. 2003 Nov 11;108(19):2317-22. Epub 2003 Oct 20.</citation>
+    <PMID>14568895</PMID>
+  </reference>
+  <reference>
+    <citation>Chapieski ML, Evankovich KD. Behavioral effects of prematurity. Semin Perinatol. 1997 Jun;21(3):221-39. Review.</citation>
+    <PMID>9205977</PMID>
+  </reference>
+  <reference>
+    <citation>D'Anna-Hernandez KL, Ross RG, Natvig CL, Laudenslager ML. Hair cortisol levels as a retrospective marker of hypothalamic-pituitary axis activity throughout pregnancy: comparison to salivary cortisol. Physiol Behav. 2011 Aug 3;104(2):348-53. doi: 10.1016/j.physbeh.2011.02.041. Epub 2011 Mar 21.</citation>
+    <PMID>21397617</PMID>
+  </reference>
+  <reference>
+    <citation>Dowlati Y, Herrmann N, Swardfager W, Liu H, Sham L, Reim EK, Lanctôt KL. A meta-analysis of cytokines in major depression. Biol Psychiatry. 2010 Mar 1;67(5):446-57. doi: 10.1016/j.biopsych.2009.09.033. Epub 2009 Dec 16.</citation>
+    <PMID>20015486</PMID>
+  </reference>
+  <reference>
+    <citation>Dumitriu D, Emeruwa UN, …, Stockwell MS, Gyamfi-Bannerman C. (In press) Outcomes of newborns born to mothers with SARS-CoV-2 infections at a large medical center in New York City. JAMA Pediatrics</citation>
+  </reference>
+  <reference>
+    <citation>Gabay C, Kushner I. Acute-phase proteins and other systemic responses to inflammation. N Engl J Med. 1999 Feb 11;340(6):448-54. Review. Erratum in: N Engl J Med 1999 Apr 29;340(17):1376.</citation>
+    <PMID>9971870</PMID>
+  </reference>
+  <reference>
+    <citation>Evans C, Jones CE, Prendergast AJ. HIV-exposed, uninfected infants: new global challenges in the era of paediatric HIV elimination. Lancet Infect Dis. 2016 Jun;16(6):e92-e107. doi: 10.1016/S1473-3099(16)00055-4. Epub 2016 Mar 31. Review.</citation>
+    <PMID>27049574</PMID>
+  </reference>
+  <reference>
+    <citation>Flacking R, Lehtonen L, Thomson G, Axelin A, Ahlqvist S, Moran VH, Ewald U, Dykes F; Separation and Closeness Experiences in the Neonatal Environment (SCENE) group. Closeness and separation in neonatal intensive care. Acta Paediatr. 2012 Oct;101(10):1032-7. doi: 10.1111/j.1651-2227.2012.02787.x. Epub 2012 Aug 2. Review.</citation>
+    <PMID>22812674</PMID>
+  </reference>
+  <reference>
+    <citation>Fleming AS, O'Day DH, Kraemer GW. Neurobiology of mother-infant interactions: experience and central nervous system plasticity across development and generations. Neurosci Biobehav Rev. 1999 May;23(5):673-85. Review.</citation>
+    <PMID>10392659</PMID>
+  </reference>
+  <reference>
+    <citation>Gozali A, Gibson S, Lipton LR, Pressman AW, Hammond BS, Dumitriu D. Assessing the effectiveness of a pediatrician-led newborn parenting class on maternal newborn-care knowledge, confidence and anxiety: A quasi-randomized controlled trial. Early Hum Dev. 2020 Aug;147:105082. doi: 10.1016/j.earlhumdev.2020.105082. Epub 2020 May 23.</citation>
+    <PMID>32512498</PMID>
+  </reference>
+  <reference>
+    <citation>Hane AA, LaCoursiere JN, Mitsuyama M, Wieman S, Ludwig RJ, Kwon KY, V Browne J, Austin J, M Myers M, Welch MG. The Welch Emotional Connection Screen: validation of a brief mother-infant relational health screen. Acta Paediatr. 2019 Apr;108(4):615-625. doi: 10.1111/apa.14483. Epub 2018 Aug 13.</citation>
+    <PMID>29959878</PMID>
+  </reference>
+  <reference>
+    <citation>Hane AA, Myers MM, Hofer MA, Ludwig RJ, Halperin MS, Austin J, Glickstein SB, Welch MG. Family nurture intervention improves the quality of maternal caregiving in the neonatal intensive care unit: evidence from a randomized controlled trial. J Dev Behav Pediatr. 2015 Apr;36(3):188-96. doi: 10.1097/DBP.0000000000000148.</citation>
+    <PMID>25757070</PMID>
+  </reference>
+  <reference>
+    <citation>Helle N, Barkmann C, Bartz-Seel J, Diehl T, Ehrhardt S, Hendel A, Nestoriuc Y, Schulte-Markwort M, von der Wense A, Bindt C. Very low birth-weight as a risk factor for postpartum depression four to six weeks postbirth in mothers and fathers: Cross-sectional results from a controlled multicentre cohort study. J Affect Disord. 2015 Jul 15;180:154-61. doi: 10.1016/j.jad.2015.04.001. Epub 2015 Apr 10.</citation>
+    <PMID>25911131</PMID>
+  </reference>
+  <reference>
+    <citation>Holditch-Davis D, Bartlett TR, Blickman AL, Miles MS. Posttraumatic stress symptoms in mothers of premature infants. J Obstet Gynecol Neonatal Nurs. 2003 Mar-Apr;32(2):161-71.</citation>
+    <PMID>12685667</PMID>
+  </reference>
+  <reference>
+    <citation>Klein BY, Tamir H, Hirschberg DL, Ludwig RJ, Glickstein SB, Myers MM, Welch MG. Oxytocin opposes effects of bacterial endotoxin on ER-stress signaling in Caco2BB gut cells. Biochim Biophys Acta. 2016 Feb;1860(2):402-11. doi: 10.1016/j.bbagen.2015.10.025. Epub 2015 Oct 28.</citation>
+    <PMID>26520666</PMID>
+  </reference>
+  <reference>
+    <citation>Kyle MH, Glassman ME, Khan A, Fernández CR, Hanft E, Emeruwa UN, Scripps T, Walzer L, Liao GV, Saslaw M, Rubenstein D, Hirsch DS, Keown MK, Stephens A, Mollicone I, Bence ML, Gupta A, Sultan S, Sibblies C, Whittier S, Abreu W, Akita F, Penn A, Orange JS, Saiman L, Welch MG, Gyamfi-Bannerman C, Stockwell MS, Dumitriu D. A review of newborn outcomes during the COVID-19 pandemic. Semin Perinatol. 2020 Jul 23:151286. doi: 10.1016/j.semperi.2020.151286. [Epub ahead of print]</citation>
+    <PMID>32826081</PMID>
+  </reference>
+  <reference>
+    <citation>Linden MA, Cepeda IL, Synnes A, Grunau RE. Stress in parents of children born very preterm is predicted by child externalising behaviour and parent coping at age 7 years. Arch Dis Child. 2015 Jun;100(6):554-8. doi: 10.1136/archdischild-2014-307390. Epub 2015 Mar 11.</citation>
+    <PMID>25762532</PMID>
+  </reference>
+  <reference>
+    <citation>Myers MM, Grieve PG, Stark RI, Isler JR, Hofer MA, Yang J, Ludwig RJ, Welch MG. Family Nurture Intervention in preterm infants alters frontal cortical functional connectivity assessed by EEG coherence. Acta Paediatr. 2015 Jul;104(7):670-7. doi: 10.1111/apa.13007. Epub 2015 Apr 13.</citation>
+    <PMID>25772627</PMID>
+  </reference>
+  <reference>
+    <citation>Neu J, Rushing J. Cesarean versus vaginal delivery: long-term infant outcomes and the hygiene hypothesis. Clin Perinatol. 2011 Jun;38(2):321-31. doi: 10.1016/j.clp.2011.03.008. Review.</citation>
+    <PMID>21645799</PMID>
+  </reference>
+  <reference>
+    <citation>Omoni AO, Ntozini R, Evans C, Prendergast AJ, Moulton LH, Christian PS, Humphrey JH. Child Growth According to Maternal and Child HIV Status in Zimbabwe. Pediatr Infect Dis J. 2017 Sep;36(9):869-876. doi: 10.1097/INF.0000000000001574.</citation>
+    <PMID>28198792</PMID>
+  </reference>
+  <reference>
+    <citation>Powis KM, Slogrove AL, Okorafor I, Millen L, Posada R, Childs J, Abrams EJ, Sperling RS, Jao J. Maternal Perinatal HIV Infection Is Associated With Increased Infectious Morbidity in HIV-exposed Uninfected Infants. Pediatr Infect Dis J. 2019 May;38(5):500-502. doi: 10.1097/INF.0000000000002253.</citation>
+    <PMID>30461574</PMID>
+  </reference>
+  <reference>
+    <citation>Radloff LS. The CES-D Scale: A Self-Report Depression Scale for Research in the General Population. Applied Psychological Measurement. 1977;1(3):385-401.</citation>
+  </reference>
+  <reference>
+    <citation>Raul JS, Cirimele V, Ludes B, Kintz P. Detection of physiological concentrations of cortisol and cortisone in human hair. Clin Biochem. 2004 Dec;37(12):1105-11.</citation>
+    <PMID>15589817</PMID>
+  </reference>
+  <reference>
+    <citation>Ridker PM, Hennekens CH, Buring JE, Rifai N. C-reactive protein and other markers of inflammation in the prediction of cardiovascular disease in women. N Engl J Med. 2000 Mar 23;342(12):836-43.</citation>
+    <PMID>10733371</PMID>
+  </reference>
+  <reference>
+    <citation>Robbins CL, Hutchings Y, Dietz PM, Kuklina EV, Callaghan WM. History of preterm birth and subsequent cardiovascular disease: a systematic review. Am J Obstet Gynecol. 2014 Apr;210(4):285-297. doi: 10.1016/j.ajog.2013.09.020. Epub 2013 Sep 18. Review.</citation>
+    <PMID>24055578</PMID>
+  </reference>
+  <reference>
+    <citation>Robins DL, Fein D, Barton ML, Green JA. The Modified Checklist for Autism in Toddlers: an initial study investigating the early detection of autism and pervasive developmental disorders. J Autism Dev Disord. 2001 Apr;31(2):131-44.</citation>
+    <PMID>11450812</PMID>
+  </reference>
+  <reference>
+    <citation>le Roux SM, Donald KA, Kroon M, Phillips TK, Lesosky M, Esterhuyse L, Zerbe A, Brittain K, Abrams EJ, Myer L. HIV Viremia During Pregnancy and Neurodevelopment of HIV-Exposed Uninfected Children in the Context of Universal Antiretroviral Therapy and Breastfeeding: A Prospective Study. Pediatr Infect Dis J. 2019 Jan;38(1):70-75. doi: 10.1097/INF.0000000000002193.</citation>
+    <PMID>30234792</PMID>
+  </reference>
+  <reference>
+    <citation>Sauvé B, Koren G, Walsh G, Tokmakejian S, Van Uum SH. Measurement of cortisol in human hair as a biomarker of systemic exposure. Clin Invest Med. 2007;30(5):E183-91.</citation>
+    <PMID>17892760</PMID>
+  </reference>
+  <reference>
+    <citation>Scher MS, Loparo KA. Neonatal EEG/sleep state analyses: a complex phenotype of developmental neural plasticity. Dev Neurosci. 2009;31(4):259-75. doi: 10.1159/000216537. Epub 2009 Jan 2. Review.</citation>
+    <PMID>19546563</PMID>
+  </reference>
+  <reference>
+    <citation>Shair HN, Rupert DD, Rosko LM, Hofer MA, Myers MM, Welch MG. Effects of maternal deprivation and the duration of reunion time on rat pup ultrasonic vocalization responses to isolation: possible implications for human infant studies. Dev Psychobiol. 2015 Jan;57(1):63-72. doi: 10.1002/dev.21258. Epub 2014 Nov 7.</citation>
+    <PMID>25380197</PMID>
+  </reference>
+  <reference>
+    <citation>Sheldrick RC, Perrin EC. Evidence-based milestones for surveillance of cognitive, language, and motor development. Acad Pediatr. 2013 Nov-Dec;13(6):577-86. doi: 10.1016/j.acap.2013.07.001.</citation>
+    <PMID>24238685</PMID>
+  </reference>
+  <reference>
+    <citation>Spielberger CD, Vagg PR. Psychometric properties of the STAI: a reply to Ramanaiah, Franzen, and Schill. J Pers Assess. 1984 Feb;48(1):95-7.</citation>
+    <PMID>6707862</PMID>
+  </reference>
+  <reference>
+    <citation>Springer PE, Slogrove AL, Kidd M, Kalk E, Bettinger JA, Esser MM, Cotton MF, Zunza M, Molteno CD, Kruger M. Neurodevelopmental and behavioural outcomes of HIV-exposed uninfected and HIV-unexposed children at 2-3 years of age in Cape Town, South Africa. AIDS Care. 2020 Apr;32(4):411-419. doi: 10.1080/09540121.2019.1637506. Epub 2019 Jul 7.</citation>
+    <PMID>31280587</PMID>
+  </reference>
+  <reference>
+    <citation>Strehlau R, van Aswegen T, Burke M, Kuhn L, Potterton J. A description of early neurodevelopment in a cohort of HIV-exposed uninfected children. AIDS Care. 2020 Mar 2:1-8. doi: 10.1080/09540121.2020.1736257. [Epub ahead of print]</citation>
+    <PMID>32122174</PMID>
+  </reference>
+  <reference>
+    <citation>Wedderburn CJ, Evans C, Yeung S, Gibb DM, Donald KA, Prendergast AJ. Growth and Neurodevelopment of HIV-Exposed Uninfected Children: a Conceptual Framework. Curr HIV/AIDS Rep. 2019 Dec;16(6):501-513. doi: 10.1007/s11904-019-00459-0. Review.</citation>
+    <PMID>31732866</PMID>
+  </reference>
+  <reference>
+    <citation>Wedderburn CJ, Yeung S, Rehman AM, Stadler JAM, Nhapi RT, Barnett W, Myer L, Gibb DM, Zar HJ, Stein DJ, Donald KA. Neurodevelopment of HIV-exposed uninfected children in South Africa: outcomes from an observational birth cohort study. Lancet Child Adolesc Health. 2019 Nov;3(11):803-813. doi: 10.1016/S2352-4642(19)30250-0. Epub 2019 Sep 9.</citation>
+    <PMID>31515160</PMID>
+  </reference>
+  <reference>
+    <citation>Weinberger M, Oddone EZ, Henderson WG, Smith DM, Huey J, Giobbie-Hurder A, Feussner JR. Multisite randomized controlled trials in health services research: scientific challenges and operational issues. Med Care. 2001 Jun;39(6):627-34.</citation>
+    <PMID>11404645</PMID>
+  </reference>
+  <reference>
+    <citation>Welch MG, Firestein MR, Austin J, Hane AA, Stark RI, Hofer MA, Garland M, Glickstein SB, Brunelli SA, Ludwig RJ, Myers MM. Family Nurture Intervention in the Neonatal Intensive Care Unit improves social-relatedness, attention, and neurodevelopment of preterm infants at 18 months in a randomized controlled trial. J Child Psychol Psychiatry. 2015 Nov;56(11):1202-11. doi: 10.1111/jcpp.12405. Epub 2015 Mar 11.</citation>
+    <PMID>25763525</PMID>
+  </reference>
+  <reference>
+    <citation>Welch MG, Halperin MS, Austin J, Stark RI, Hofer MA, Hane AA, Myers MM. Depression and anxiety symptoms of mothers of preterm infants are decreased at 4 months corrected age with Family Nurture Intervention in the NICU. Arch Womens Ment Health. 2016 Feb;19(1):51-61. doi: 10.1007/s00737-015-0502-7. Epub 2015 Mar 1.</citation>
+    <PMID>25724391</PMID>
+  </reference>
+  <reference>
+    <citation>Welch MG, Hofer MA, Brunelli SA, Stark RI, Andrews HF, Austin J, Myers MM; Family Nurture Intervention (FNI) Trial Group. Family nurture intervention (FNI): methods and treatment protocol of a randomized controlled trial in the NICU. BMC Pediatr. 2012 Feb 7;12:14. doi: 10.1186/1471-2431-12-14. Erratum in: BMC Pediatr. 2012;12:107.</citation>
+    <PMID>22314029</PMID>
+  </reference>
+  <reference>
+    <citation>Welch MG, Myers MM, Grieve PG, Isler JR, Fifer WP, Sahni R, Hofer MA, Austin J, Ludwig RJ, Stark RI; FNI Trial Group. Electroencephalographic activity of preterm infants is increased by Family Nurture Intervention: a randomized controlled trial in the NICU. Clin Neurophysiol. 2014 Apr;125(4):675-684. doi: 10.1016/j.clinph.2013.08.021. Epub 2013 Oct 17.</citation>
+    <PMID>24140072</PMID>
+  </reference>
+  <reference>
+    <citation>Yamada J, Stevens B, de Silva N, Gibbins S, Beyene J, Taddio A, Newman C, Koren G. Hair cortisol as a potential biologic marker of chronic stress in hospitalized neonates. Neonatology. 2007;92(1):42-9. Epub 2007 Mar 14.</citation>
+    <PMID>17356304</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Columbia University</investigator_affiliation>
+    <investigator_full_name>Dani Dumitriu</investigator_full_name>
+    <investigator_title>Assistant Professor of Pediatrics (in Psychiatry)</investigator_title>
+  </responsible_party>
+  <keyword>Family Nurture Intervention</keyword>
+  <keyword>Emotional Connection</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

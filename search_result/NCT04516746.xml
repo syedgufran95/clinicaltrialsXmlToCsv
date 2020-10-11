@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="155">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516746</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D8110C00001</org_study_id>
+    <nct_id>NCT04516746</nct_id>
+  </id_info>
+  <brief_title>Phase III Double-blind, Placebo-controlled Study of AZD1222 for the Prevention of COVID-19 in Adults</brief_title>
+  <official_title>A Phase III Randomized, Double-blind, Placebo-controlled Multicenter Study in Adults to Determine the Safety, Efficacy, and Immunogenicity of AZD1222, a Non-replicating ChAdOx1 Vector Vaccine, for the Prevention of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Iqvia Pty Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to assess the safety, efficacy, and immunogenicity of AZD1222 for the
+      prevention of COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The COVID-19 pandemic has caused major disruption to healthcare systems with significant
+      socioeconomic impacts. Currently, there are no specific treatments available against COVID-19
+      and accelerated vaccine development is urgently needed. A safe and effective vaccine for
+      COVID-19 prevention would have significant public health impact.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 17, 2020</start_date>
+  <completion_date type="Anticipated">October 5, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants are assigned to one of two or more groups in parallel for the duration of the study.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double Blind: two or more parties are unaware of the intervention assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To estimate the efficacy of 2 IM doses of AZD1222 compared to placebo for the prevention of COVID-19 in adults ≥ 18 years of age</measure>
+    <time_frame>1 year</time_frame>
+    <description>A binary response, whereby a participant is defined as a COVID-19 case if their first case of SARS-CoV-2 RT-PCR-positive symptomatic illness occurs
+≥ 15 days post second dose of study intervention. Otherwise, a participant is not defined as a COVID-19 case.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To assess the safety and tolerability of 2 IM doses of AZD1222 compared to placebo in adults ≥ 18 years of age</measure>
+    <time_frame>a: 28 days post each dose of study Intervention. / b: from Day 1 post-treatment through Day 730.</time_frame>
+    <description>Incidence of adverse events.
+Incidence of serious adverse events, medically attended adverse events, and adverse events of special interest.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To assess the reactogenicity of 2 IM doses of AZD1222 compared to placebo in adults ≥ 18 years of age (Substudy only)</measure>
+    <time_frame>7 days post each dose of study intervention.</time_frame>
+    <description>Incidence of local and systemic solicited adverse events.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To estimate the efficacy of 2 IM doses of AZD1222 compared to placebo for the prevention of SARS-CoV-2 asymptomatic infection</measure>
+    <time_frame>1 year</time_frame>
+    <description>Proportion of participants positive for SARS-CoV-2 Nucleocapsid antibodies over time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To estimate the efficacy of 2 IM doses of AZD1222 compared to placebo for the prevention of symptomatic COVID-19 using CDC criteria</measure>
+    <time_frame>1 year</time_frame>
+    <description>The incidence of the first case of SARS-CoV-2 RT-PCR positive symptomatic illness occurring ≥ 15 days post second dose of study intervention using CDC criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To estimate the efficacy of 2 IM doses of AZD1222 compared to placebo for the prevention of University of Oxford defined symptomatic COVID-19</measure>
+    <time_frame>1 year</time_frame>
+    <description>The incidence of the first case of SARS-CoV-2 RT-PCR positive symptomatic illness occurring ≥ 15 days post second dose of study intervention using University of Oxford defined symptom criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To estimate the efficacy of 2 IM doses of AZD1222 compared to placebo for the prevention of severe or critical symptomatic COVID-19</measure>
+    <time_frame>1 year</time_frame>
+    <description>The incidence of SARS-CoV-2 RT-PCR-positive severe or critical symptomatic illness occurring ≥ 15 days post second dose of study intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To estimate the efficacy of 2 IM doses of AZD1222 compared to placebo for the prevention of COVID-19-related Emergency Department visits</measure>
+    <time_frame>1 year</time_frame>
+    <description>The incidence of COVID-19-related Emergency Department visits occurring ≥ 15 days post second dose of study intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess antibody responses to AZD1222 S antigen following 2 IM doses of AZD1222 or placebo (Substudy and Illness Visits only)</measure>
+    <time_frame>28 days post each dose</time_frame>
+    <description>Post-treatment GMTs and GMFRs in SARS-CoV-2S, RBD antibodies (MSD serology assay); The proportion of participants who have a post-treatment seroresponse (≥ 4-fold rise in titers) to the S, RBD antigens of AZD1222 (MSD serology assay)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine anti-SARS-CoV-2 neutralizing antibody levels in serum following 2 IM doses of AZD1222 or placebo (Sub-study and Illness Visits only)</measure>
+    <time_frame>28 days post each dose</time_frame>
+    <description>Post-treatment GMTs and GMFRs in SARS-CoV-2 neutralizing antibodies (wild-type assay or pseudo-neutralization assay); Proportion of participants who have a post-treatment seroresponse (≥ 4-fold rise in titers) to AZD1222 as measured by SARS-CoV-2 neutralizing antibodies (wild-type assay or pseudo-neutralization assay)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30000</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>AZD1222</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 IM doses of 5 × 10^10 vp (nominal, ± 1.5 × 10^10 vp) AZD1222 4 weeks apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 IM doses of saline placebo 4 weeks apart</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AZD1222</intervention_name>
+    <description>Participants will be randomized in a 2:1 ratio to receive 2 IM doses of either 5 × 1010 vp (nominal, ± 1.5 × 1010 vp) AZD1222 (n = approximately 20,000) or saline placebo (the control group, n = approximately 10 000) 4 weeks apart</description>
+    <arm_group_label>AZD1222</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants will be randomized in a 2:1 ratio to receive 2 IM doses of either 5 × 1010 vp (nominal, ± 1.5 × 1010 vp) AZD1222 (n = approximately 20,000) or saline placebo (the control group, n = approximately 10 000) 4 weeks apart</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Increased risk of SARS-CoV-2 infection
+
+          -  Medically stable
+
+        Exclusion Criteria:
+
+          -  confirmed or suspected immunosuppressive or immunodeficient state
+
+          -  significant disease, disorder, or finding
+
+          -  Prior or concomitant vaccine therapy for COVID-19
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ann Falsey, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Rochester</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Magda Sobieszczyk, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AstraZeneca Clinical Study Information Center</last_name>
+    <phone>1-877-240-9479</phone>
+    <email>information.center@astrazeneca.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Coral Gables</city>
+        <state>Florida</state>
+        <zip>33134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Stockbridge</city>
+        <state>Georgia</state>
+        <zip>30281</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ankeny</city>
+        <state>Iowa</state>
+        <zip>50023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Lake Charles</city>
+        <state>Louisiana</state>
+        <zip>70601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Monroe</city>
+        <state>Louisiana</state>
+        <zip>71203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20889</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bloomington</city>
+        <state>Minnesota</state>
+        <zip>55425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Butte</city>
+        <state>Montana</state>
+        <zip>59701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Portsmouth</city>
+        <state>New Hampshire</state>
+        <zip>03801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Berlin</city>
+        <state>New Jersey</state>
+        <zip>08009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Valhalla</city>
+        <state>New York</state>
+        <zip>10595</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Warwick</city>
+        <state>Rhode Island</state>
+        <zip>02886</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Dakota Dunes</city>
+        <state>South Dakota</state>
+        <zip>57049</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78234</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>The Woodlands</city>
+        <state>Texas</state>
+        <zip>77381</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>West Jordan</city>
+        <state>Utah</state>
+        <zip>84088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792-5666</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>CDC. (Centers for Disease Control and Prevention). Coronavirus Disease 2019 (COVID-19), Symptoms of Coronavrus. https://www.cdc.gov/coronavirus/2019-ncov/symptomstesting/ symptoms.html. Published 2020. Accessed 01 July 2020.</citation>
+  </reference>
+  <reference>
+    <citation>FDA. (Food and Drug Administration). Guidance for Industry. Toxicity grading scale for healthy adult and adolescent volunteers enrolled in preventive vaccine clinical trials. . https://www.fda.gov/media/73679/download. Published 2007. Accessed 20 June 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Folegatti PM, Bittaye M, Flaxman A, Lopez FR, Bellamy D, Kupke A, Mair C, Makinson R, Sheridan J, Rohde C, Halwe S, Jeong Y, Park YS, Kim JO, Song M, Boyd A, Tran N, Silman D, Poulton I, Datoo M, Marshall J, Themistocleous Y, Lawrie A, Roberts R, Berrie E, Becker S, Lambe T, Hill A, Ewer K, Gilbert S. Safety and immunogenicity of a candidate Middle East respiratory syndrome coronavirus viral-vectored vaccine: a dose-escalation, open-label, non-randomised, uncontrolled, phase 1 trial. Lancet Infect Dis. 2020 Jul;20(7):816-826. doi: 10.1016/S1473-3099(20)30160-2. Epub 2020 Apr 21. Erratum in: Lancet Infect Dis. 2020 May 12;:. Lancet Infect Dis. 2020 Jun 8;:.</citation>
+    <PMID>32325038</PMID>
+  </reference>
+  <reference>
+    <citation>Li F. Structure, Function, and Evolution of Coronavirus Spike Proteins. Annu Rev Virol. 2016 Sep 29;3(1):237-261. Epub 2016 Aug 25. Review.</citation>
+    <PMID>27578435</PMID>
+  </reference>
+  <reference>
+    <citation>Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, Wang W, Song H, Huang B, Zhu N, Bi Y, Ma X, Zhan F, Wang L, Hu T, Zhou H, Hu Z, Zhou W, Zhao L, Chen J, Meng Y, Wang J, Lin Y, Yuan J, Xie Z, Ma J, Liu WJ, Wang D, Xu W, Holmes EC, Gao GF, Wu G, Chen W, Shi W, Tan W. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet. 2020 Feb 22;395(10224):565-574. doi: 10.1016/S0140-6736(20)30251-8. Epub 2020 Jan 30.</citation>
+    <PMID>32007145</PMID>
+  </reference>
+  <reference>
+    <citation>SPEAC. (Safety Platform for Emergency Vaccines) D2.3 Priority list of adverse events of special interest: COVID-19. Work Package: WP2 Standards and Tools. v1.1. 05 March 2020. https://media.tghn.org/articles/COVID-19_AESIs_SPEAC_V1.1_5Mar2020.pdf. Published 2020. Accessed 14 June 2020.</citation>
+  </reference>
+  <reference>
+    <citation>van Doremalen N, Lambe T, Spencer A, Belij-Rammerstorfer S, Purushotham JN, Port JR, Avanzato VA, Bushmaker T, Flaxman A, Ulaszewska M, Feldmann F, Allen ER, Sharpe H, Schulz J, Holbrook M, Okumura A, Meade-White K, Pérez-Pérez L, Edwards NJ, Wright D, Bissett C, Gilbride C, Williamson BN, Rosenke R, Long D, Ishwarbhai A, Kailath R, Rose L, Morris S, Powers C, Lovaglio J, Hanley PW, Scott D, Saturday G, de Wit E, Gilbert SC, Munster VJ. ChAdOx1 nCoV-19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaques. Nature. 2020 Jul 30. doi: 10.1038/s41586-020-2608-y. [Epub ahead of print]</citation>
+    <PMID>32731258</PMID>
+  </reference>
+  <reference>
+    <citation>Waldrop G, Doherty M, Vitoria M, Ford N. Stable patients and patients with advanced disease: consensus definitions to support sustained scale up of antiretroviral therapy. Trop Med Int Health. 2016 Sep;21(9):1124-30. doi: 10.1111/tmi.12746. Epub 2016 Jul 22.</citation>
+    <PMID>27371814</PMID>
+  </reference>
+  <reference>
+    <citation>WHO. (World Health Organization) Coronavirus disease (COVID-19) situation report-175. 13 July 2020. https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200713- covid-19-sitrep-175.pdf?sfvrsn=d6acef25_2. Published 2020. Accessed 13 July 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Zhou P, Yang XL, Wang XG, Hu B, Zhang L, Zhang W, Si HR, Zhu Y, Li B, Huang CL, Chen HD, Chen J, Luo Y, Guo H, Jiang RD, Liu MQ, Chen Y, Shen XR, Wang X, Zheng XS, Zhao K, Chen QJ, Deng F, Liu LL, Yan B, Zhan FX, Wang YY, Xiao GF, Shi ZL. A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature. 2020 Mar;579(7798):270-273. doi: 10.1038/s41586-020-2012-7. Epub 2020 Feb 3.</citation>
+    <PMID>32015507</PMID>
+  </reference>
+  <reference>
+    <citation>Clinical Study Protocol - 1.0 AstraZeneca AZD1222 - D8110C00001 CONFIDENTIAL AND PROPRIETARY 92 of 92</citation>
+  </reference>
+  <reference>
+    <citation>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J et al. A Novel Coronavirus from Patients with Pneumonia in China, 2019. New England Journal of Medicine. 2020;382(8):727-33. Zou G. A modified poisson regression approach to prospective studies with binary data. Am J Epidemiol. 2004;159(7):702-6.</citation>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>August 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 Vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca group of companies sponsored clinical trials via the request portal. All request will be evaluated as per the AZ disclosure commitment: https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>AstraZeneca will meet or exceed data availability as per the commitments made to the EFPIA Pharma Data Sharing Principles. For details of our timelines, please rerefer to our disclosure commitment at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure</ipd_time_frame>
+    <ipd_access_criteria>When a request has been approved AstraZeneca will provide access to the de-identified individual patient-level data in an approved sponsored tool . Signed Data Sharing Agreement (non-negotiable contract for data accessors) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure</ipd_access_criteria>
+    <ipd_url>https://astrazenecagroup-dt.pharmacm.com/DT/Home</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

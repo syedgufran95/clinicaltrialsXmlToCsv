@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="624">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04544150</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID19 and GUT</org_study_id>
+    <nct_id>NCT04544150</nct_id>
+  </id_info>
+  <brief_title>Gastrointestinal Manifestations Among Patients With COVID19</brief_title>
+  <official_title>Gastrointestinal Manifestations in COVID-19: Symptoms and Signs and Its Impact on the Outcome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      many patients with confirmed infection with COVID-19 suffer from different symptoms and signs
+      of gastrointestinal symptoms
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      many patients with COVID1-9 infection experienced many intestinal symptoms mainly abdominal
+      pain, vomiting, and diarrhea. This study aimed to assess the frequency of GIT manifestations
+      among patients with COVID-19 and its impact on the outcome
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Actual">September 1, 2020</completion_date>
+  <primary_completion_date type="Actual">September 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>frequency of GIT symptoms among patients with COVID-19 infection</measure>
+    <time_frame>Baseline</time_frame>
+    <description>any GIT symptoms in such patients were recorded</description>
+  </primary_outcome>
+  <enrollment type="Actual">220</enrollment>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        all patients with COVID 19 infection
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  all patients with COVID19
+
+        Exclusion Criteria:
+
+          -  patient refusal to participate in the study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Ahmed Abu elfatth</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assuit University Hospitals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ahmed</name>
+      <address>
+        <city>Al Minyā</city>
+        <state>Alminya</state>
+        <zip>71515</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>Peck-Radosavljevic M, Danese S, Hartmann D, Saftoiu A, Van Hootegem P; UEG Public Affairs Committee. COVID-19 and digestive health. United European Gastroenterol J. 2020 Jun;8(5):624-626. doi: 10.1177/2050640620927955.</citation>
+    <PMID>32450785</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 10, 2020</study_first_posted>
+  <last_update_submitted>September 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Ahmed Mohammed Abu Elfatth</investigator_full_name>
+    <investigator_title>Al-rahji University Hospital, Faculty of Medicine, Assiut, Egypt</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>to public</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Baseline</ipd_time_frame>
+    <ipd_url>https://journals.sagepub.com/doi/full/10.1177/2050640620927955</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

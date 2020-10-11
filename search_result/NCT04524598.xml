@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3147">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04524598</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Limbix Spark 02</org_study_id>
+    <nct_id>NCT04524598</nct_id>
+  </id_info>
+  <brief_title>A CBT-based Mobile Intervention as First Line Treatment for Adolescent Depression During COVID-19</brief_title>
+  <official_title>Limbix Spark: A CBT-based Mobile Intervention as First Line Treatment for Adolescent Depression During COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Limbix Health, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Limbix Health, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Over 3 million teenagers in the USA have depression, and rates of depression and suicide are
+      sharply increasing. Teenage depression has far-reaching consequences including impairments in
+      academic and work performance and social and family relationships, substance abuse, and
+      worsening of other health conditions, which can persist into adulthood. Access to mental
+      health care for teenagers is limited due to a shortage of mental health providers and many
+      teenagers and parents are reluctant to take antidepressants. COVID-19 and mandated physical
+      and social distancing is expected to increase rates of teenage depression, and further limit
+      access to traditional methods of care (e.g. psychotherapy). This highlights an urgent need to
+      develop accessible, digital treatments for teenage depression to address the serious mental
+      health impacts of the COVID-19 pandemic. This fully virtual study
+      (https://www.limbix.com/spark) will compare the relative safety, effectiveness, and
+      engagement of a mobile application based on cognitive behavioral therapy and behavioral
+      activation (Limbix Spark), focusing on the idea that engaging in behaviors that are rewarding
+      or provide a sense of mastery can be effective in reducing symptoms of depression. Limbix
+      Spark will be compared to a mobile app containing educational material about depression
+      (Psychoeducation).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Depression in adolescence is a public health crisis, with incidence and suicide rates rising
+      sharply over the past decade. The COVID-19 global pandemic, along with mandated social and
+      physical distancing, is expected to have substantial repercussions on public mental health
+      and exacerbate the mental health crisis among teens. Adolescents, a group with significant
+      unmet mental health needs, are at risk during this time, as they are especially vulnerable to
+      depression and suicidality following environmental stressors, trauma, and social isolation
+      that are endemic to this global pandemic. With difficulties in receiving in person care
+      magnified during social distancing, now more than ever, there is an immediate need for safe,
+      accessible, and effective digital treatments for mental health disorders.
+
+      The proposed intervention is intended to increase access to mental health care during the
+      COVID-19 pandemic. This study aims to evaluate the clinical effectiveness and safety of a
+      cognitive behavioral therapy (CBT)- based digital treatment for adolescent depression (Limbix
+      Spark) relative to psychoeducation. Limbix Spark implements behavioral activation (BA), a key
+      CBT skill that provides a sense of pleasure or mastery through self-monitored activities to
+      reduce depressive symptoms and improve functional outcomes.
+
+      Adolescents with depression (13-21 years old) across the country will be recruited to
+      participate in a fully remote, clinical trial via https://www.limbix.com/spark. At an initial
+      virtual visit, following informed consent, adolescents and parents (for those under 18) will
+      fill out standardized questionnaires designed to measure symptoms of depression, anxiety, and
+      general health. Participants will then download an app onto their mobile phone and be
+      randomly assigned to one of two groups. One group will receive the Limbix Spark program and
+      the other will receive the Psychoeducation program for 5 weeks. The Limbix Spark program is
+      divided into 5 levels. Each level provides educational information about cognitive behavioral
+      therapy and behavioral activation, and interactive activities including mood tracking and
+      activity scheduling. The Psychoeducation program is divided into 5 lessons. Each lesson
+      covers a different topic about depression. During both 5 week programs, patients will also
+      complete a weekly Patient Health Questionnaire, which is designed to measure depressive
+      symptoms and also will report any negative side effects they may be experiencing. After 5
+      weeks, participants and legal guardians (for those under 18) will complete another set of
+      standardized questionnaires designed to measure symptoms of depression, anxiety, and general
+      health. Patients will also complete questionnaires asking them about their thoughts and
+      experiences with the program they just completed. Lastly, a subset of patients and parents
+      will be invited to complete a virtual interview to provide feedback on using the program.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 20, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in depressive symptoms</measure>
+    <time_frame>Change from Baseline to Post treatment (5 weeks)</time_frame>
+    <description>Change in depressive symptoms measured by Personal Health Questionnaire (PHQ-8) (min: 0; max: 24, with higher score indicating more severe depression).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in anxiety symptoms</measure>
+    <time_frame>Change from Baseline to Post treatment (5 weeks)</time_frame>
+    <description>Change in anxiety symptoms measured by the Generalized Anxiety Disorder (GAD-7) scale (min: 0; max: 21, with higher score indicating more severe anxiety).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in parent report of child depressive symptoms</measure>
+    <time_frame>Change from Baseline to Post treatment (5 weeks)</time_frame>
+    <description>Change in parent report of child depressive symptoms measured by the Mood and Feelings Questionnaire (MFQ) (min: 0; max: 26, with higher score indicating more severe depression)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">410</enrollment>
+  <condition>Depression</condition>
+  <arm_group>
+    <arm_group_label>Limbix Spark</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A 5 week program, focused on behavioral activation, a key CBT skill that provides a sense of pleasure or mastery through self-monitored activities to reduce depressive symptoms and improve functional outcomes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Psychoeducation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>5 weeks of psychoeducation about depression based on the content of the NIMH Teenage Depression e-book and supplemented with content from publicly available government sponsored websites.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Limbix Spark</intervention_name>
+    <description>The Limbix Spark program is divided into 5 levels. Each level provides educational information about cognitive behavioral therapy and behavioral activation, and interactive activities including mood tracking and activity scheduling.</description>
+    <arm_group_label>Limbix Spark</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Psychoeducation</intervention_name>
+    <description>The Psychoeducation program is divided into 5 lessons. Each lesson covers a different topic about depression.</description>
+    <arm_group_label>Psychoeducation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Between the ages of 13 and 21
+
+          -  Self-reported symptoms of depression
+
+          -  Will be residing in the USA for the duration of the 5-week study
+
+          -  Under the care of a US-based primary care and/or licensed mental healthcare provider
+             and willing and able to provide the name and contact information of the provider
+             during consent appointment.
+
+          -  English fluency and literacy of adolescent and consenting legal guardian if under 18
+
+          -  Access to a smartphone (iPhone 5s or later or running Android 4.4 KitKat or later) and
+             regular internet access
+
+          -  Willing to provide informed e-consent/assent and have legal guardian willing to
+             provide informed e-consent if under 18.
+
+        Exclusion Criteria:
+
+          -  Self-reported lifetime suicide attempt or active self-harm or active suicidal ideation
+             with intent
+
+          -  Have a diagnosis by a clinician of bipolar disorder, substance use disorder, or any
+             psychotic disorder including schizophrenia
+
+          -  Incapable of understanding or completing study procedures and digital intervention as
+             determined by participant, patient/legal guardian, healthcare provider, or clinical
+             research team
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jessica Lake, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Director of Research</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Aarthi Padmanabhan, Phd</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Research Director</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marisa Cruz, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chief Medical Officer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jessica Lake, PhD</last_name>
+    <phone>888-546-2495</phone>
+    <phone_ext>708</phone_ext>
+    <email>jessica@limbix.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Aarthi Padmanabhan, PhD</last_name>
+    <phone>888-546-2495</phone>
+    <phone_ext>703</phone_ext>
+    <email>aarthi@limbix.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Limbix Health, Inc.</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica Lake, PhD</last_name>
+      <phone>888-546-2495</phone>
+      <phone_ext>708</phone_ext>
+      <email>jessica@limbix.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Aarthi Padmanabhan, PhD</last_name>
+      <phone>888-546-2495</phone>
+      <phone_ext>703</phone_ext>
+      <email>aarthi@limbix.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.limbix.com/spark</url>
+    <description>To learn more about the Limbix Spark study and register to participate.</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 24, 2020</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Adolescence</keyword>
+  <keyword>Digital Therapeutic</keyword>
+  <keyword>Cognitive Behavioral Therapy</keyword>
+  <keyword>Behavioral Activation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

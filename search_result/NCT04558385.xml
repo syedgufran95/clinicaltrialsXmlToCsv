@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="503">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04558385</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LGH006</org_study_id>
+    <nct_id>NCT04558385</nct_id>
+  </id_info>
+  <brief_title>Seroconversion in COVID-19 Recovered Population</brief_title>
+  <official_title>Seroconversion in COVID-19 Recovered Population: an Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lahore General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lahore General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study investigate the kinetics of IgG responses to both N and S proteins in the subjects
+      who suffered from COVID 19 and then had recovered.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronaviruses (CoVs) are enveloped, single positive-strand RNA viruses belonging to the large
+      subfamily Coronavirinae, which can infect mammals and several other animals.The continued
+      spread of coronavirus disease 2019 (COVID-19) has prompted widespread concern around the
+      world, and the World Health Organization (WHO), on 11 March 2020, declared COVID-19 a
+      pandemic. Studies on severe acute respiratory syndrome (SARS) and Middle East respiratory
+      syndrome (MERS) showed that virus-specific antibodies were detectable in 80-100% of patients
+      at 2 weeks after symptom onset. Currently, the antibody responses against SARS-CoV-2 remain
+      poorly understood and the clinical utility of serological testing is unclear Little is known
+      about the kinetics, tissue distribution, cross-reactivity and neutralization antibody
+      response in COVID-19 patients .
+
+      The seropositivity rate of both IgM and IgG responses after onset and recovery of disease,
+      and in the context of both N protein and S protein has not been clarified. The kinetics of
+      antibody responses in critical cases or ICU patients has not been reported, and no studies
+      have suggested whether antibody response is associated with disease prognosis
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 15, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>IgG SARS CoV2</measure>
+    <time_frame>5 months</time_frame>
+    <description>Presence or absence of SARV CoV2 IgG antibodies</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">275</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>IgG SARS CoV2</intervention_name>
+    <description>IgG SARS CoV 2 will be checked in serum of COVID 19 recovered population</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        population who have suffered from COVID 19, whose disease was either confirmed by PCR or
+        clinically and then recovered
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Subjects recovered from COVID 19 confirmed on PCR or clinically
+
+        Exclusion Criteria:
+
+        subjects who have not been confirmed suffering from COVID 19 by PCR or clinically
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amina Asif, MPhilMicro</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>LahoreGeneralHospital.Lahore</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Lahore General Hospital</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punjab</state>
+        <zip>54500</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Lahore General Hospital</investigator_affiliation>
+    <investigator_full_name>Amina Asif</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

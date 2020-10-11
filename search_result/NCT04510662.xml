@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2245">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04510662</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CI/HRAEZ2020/05</org_study_id>
+    <nct_id>NCT04510662</nct_id>
+  </id_info>
+  <brief_title>Telmisartan in Respiratory Failure Due to COVID-19</brief_title>
+  <acronym>STAR-COVID</acronym>
+  <official_title>Effectiveness and Safety of Telmisartan in Acute Respiratory Failure Due to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Abraham Edgar Gracia-Ramos</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Polytechnic Institute, Mexico</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Regional de Alta Especialidad de Zumpango</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Rationale: The renin-angiotensin-aldosterone system (RAAS) dysregulation may play a central
+      role in the pathophysiology of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)
+      infection associated acute lung injury (ALI) / acute respiratory distress syndrome (ARDS). In
+      the RAAS, Angiotensin I (Ang I) is converted to angiotensin II (Ang II) by angiotensin
+      converting enzyme (ACE). Ang II mediates vasoconstrictive, pro-inflammatory and pro-oxidative
+      effects through agonism at Ang II type 1 receptor (AT1R). ACE2 converts Ang II to angiotensin
+      1-7 (Ang1-7), which finally binds to Mas receptor (MasR) and mediates many beneficial
+      actions, including vasodilation and anti-inflammatory, anti-oxidant and antiapoptotic
+      effects. ACE2, a homologue of ACE, is an integral cell membrane protein with a catalytic
+      domain on the extracellular surface exposed to vasoactive peptides. SARS-CoV-2 penetrates the
+      cell through ACE2, and the increase of this receptor (due to the use of ACE inhibitors or
+      angiotensin receptor blockers [ARBs]) may facilitate SARS-CoV-2 infection, which might
+      increase the risk of developing severe and fatal SARS-CoV-2 infection. However, through
+      upregulation of ACE2, ACE inhibitors/ARBs can exert anti-inflammatory and antioxidative
+      effects, which may be beneficial in preventing ALI and ARDS.
+
+      Objective: To evaluate the effectiveness and safety of telmisartan in respiratory failure due
+      to COVID-19.
+
+      Study design: This is an open label, phase 2 clinical trial. Study population: Adult
+      hospitalized SARS-CoV-2-infected patients (n=60). Intervention: The active-treatment arm will
+      receive telmisartan 40 mg daily and the control arm will receive standard care. Treatment
+      duration will be 14 days or up to hospital discharge &lt;14 days or occurrence of the primary
+      endpoint if &lt;14 days.
+
+      Main study endpoint: The primary study endpoint is the occurrence within 14 days of
+      randomization of either: 1) Mechanical ventilation or 2) Death.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">August 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Death</measure>
+    <time_frame>Within 30 days</time_frame>
+    <description>Death is defined as all-cause mortality</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>Within 14 days</time_frame>
+    <description>Occurrence of mechanical ventilation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of acute kidney injury</measure>
+    <time_frame>Within 14 days</time_frame>
+    <description>Defined as a 50% decline in estimated glomerular filtration rate relative to baseline, or decrease of &gt;30 ml/min/1.73m2 and to a value below 60 ml/min/1.73m2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of hypotension</measure>
+    <time_frame>Within 14 days</time_frame>
+    <description>Incidence of episodes of blood pressure less than 90 mm Hg systolic or 60 mm Hg diastolic</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of hypotension requiring vasopressors</measure>
+    <time_frame>Within 14 days</time_frame>
+    <description>Outcome reported as the number of participants in each arm requiring the use of vasopressors for hypotension</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Sepsis</measure>
+    <time_frame>Within 14 days</time_frame>
+    <description>Outcome reported as the number of participants in each arm who experience sepsis, defined as the presence of at least 2 of the following clinical criteria together (qSOFA score): respiratory rate of 22/min or greater, altered mentation, or systolic blood pressure of 100 mm Hg or less</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>Within 14 days</time_frame>
+    <description>Hospital length of stay (days)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Respiratory Insufficiency</condition>
+  <condition>Telmisartan</condition>
+  <condition>Respiratory Distress Syndrome, Adult</condition>
+  <arm_group>
+    <arm_group_label>Telmisartan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in this group will receive telmisartan 40 mg daily plus standard care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients in this group will receive standard care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Telmisartan</intervention_name>
+    <description>Patients in this group will receive telmisartan 40 mg daily plus standard care.</description>
+    <arm_group_label>Telmisartan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age greater than or equal to 18 years of age.
+
+          -  Admitted to the Hospital Regional de Alta Especialidad de Zumpango.
+
+          -  Confirmed SARS-CoV-2 infection with either: positive laboratory test for SARS-CoV-2;
+             or positive CT thorax diagnostic for SARS-CoV-2 infection according to the prevailing
+             criteria.
+
+          -  Hypoxic respiratory failure: SpO2 ≤94% on room OR tachypnea (respiratory rate ≥22
+             breaths/min).
+
+        Randomization:
+
+          -  Within 24 hours of confirmed in-hospital SARS-CoV-2 infection diagnosis OR
+
+          -  within 24 hours of hospital admission in case of pre-hospital confirmed SARS-CoV-2
+             infection.
+
+          -  In case there is a lack of laboratory tests for SARS-CoV-2 in a potentially eligible
+             patient, a positive laboratory test for SARS-CoV-2 will be no longer required. In that
+             case, the potentially eligible patient needs to meet the prevailing criteria for the
+             diagnosis of SARS-CoV-2 infection, such as typical abnormalities on pulmonary CT in
+             the setting of high clinical suspicion of SARS-CoV-2 infection.
+
+        Exclusion Criteria:
+
+          -  Admitted to ICU prior to randomization.
+
+          -  Currently taking an an angiotensin converting enzyme inhibitor (ACEi) or Angiotensin
+             receptor blocker (ARB).
+
+          -  Use of other investigational drugs at the time of enrollment
+
+          -  Prior reaction or intolerance to an ARB; or severe intolerance to an ACEi, defined as
+             angio-oedema requiring medical intervention.
+
+          -  Systolic blood pressure &lt; 105 mmHg or diastolic blood pressure &lt;65mmHg.
+
+          -  Potassium greater than 5.5 mEq/L within 4 weeks of study enrollment.
+
+          -  Estimated Glomerular Filtration Rate (eGFR) of &lt; 30ml/min/1.73 m2 within 4 weeks of
+             study initiation.
+
+          -  A known history of renal artery stenosis.
+
+          -  AST and/or ALT &gt; 3 times the upper limit of normal within 4 weeks of study enrollment.
+
+          -  Severe liver dysfunction (Child-Pugh score C), biliary cirrhosis or cholestasis.
+
+          -  Severe volume depletion or severe acute kidney injury.
+
+          -  Inability to obtain informed consent.
+
+          -  Pregnancy or breastfeeding.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Abraham Edgar Gracia-Ramos, MD MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Regional de Alta Especialidad de Zumpango</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maria Jose Pecero-Hidalgo, MD</last_name>
+    <phone>+52 5544504800</phone>
+    <email>mariajose.phgo@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Regional de Alta Especialidad de Zumpango</name>
+      <address>
+        <city>Zumpango</city>
+        <state>Estado De Mexico</state>
+        <zip>55600</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Jose Pecero Hidalgo, MD</last_name>
+      <phone>+52 5544504800</phone>
+      <email>mariajose.phgo@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Abraham Edgar Gracia-Ramos, MD MSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <reference>
+    <citation>Rothlin RP, Vetulli HM, Duarte M, Pelorosso FG. Telmisartan as tentative angiotensin receptor blocker therapeutic for COVID-19. Drug Dev Res. 2020 May 1. doi: 10.1002/ddr.21679. [Epub ahead of print]</citation>
+    <PMID>32356926</PMID>
+  </reference>
+  <reference>
+    <citation>Sanchis-Gomar F, Lavie CJ, Perez-Quilis C, Henry BM, Lippi G. Angiotensin-Converting Enzyme 2 and Antihypertensives (Angiotensin Receptor Blockers and Angiotensin-Converting Enzyme Inhibitors) in Coronavirus Disease 2019. Mayo Clin Proc. 2020 Jun;95(6):1222-1230. doi: 10.1016/j.mayocp.2020.03.026. Epub 2020 Apr 4. Review.</citation>
+    <PMID>32376099</PMID>
+  </reference>
+  <reference>
+    <citation>Patel AB, Verma A. COVID-19 and Angiotensin-Converting Enzyme Inhibitors and Angiotensin Receptor Blockers: What Is the Evidence? JAMA. 2020 May 12;323(18):1769-1770. doi: 10.1001/jama.2020.4812.</citation>
+    <PMID>32208485</PMID>
+  </reference>
+  <reference>
+    <citation>Bavishi C, Maddox TM, Messerli FH. Coronavirus Disease 2019 (COVID-19) Infection and Renin Angiotensin System Blockers. JAMA Cardiol. 2020 Jul 1;5(7):745-747. doi: 10.1001/jamacardio.2020.1282.</citation>
+    <PMID>32242890</PMID>
+  </reference>
+  <reference>
+    <citation>Vaduganathan M, Vardeny O, Michel T, McMurray JJV, Pfeffer MA, Solomon SD. Renin-Angiotensin-Aldosterone System Inhibitors in Patients with Covid-19. N Engl J Med. 2020 Apr 23;382(17):1653-1659. doi: 10.1056/NEJMsr2005760. Epub 2020 Mar 30.</citation>
+    <PMID>32227760</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>August 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Regional de Alta Especialidad de Zumpango</investigator_affiliation>
+    <investigator_full_name>Abraham Edgar Gracia-Ramos</investigator_full_name>
+    <investigator_title>Physician of the Department of Internal Medicine</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>telmisartan</keyword>
+  <keyword>respiratory failure</keyword>
+  <keyword>respiratory distress syndrome, adult</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Pulmonary Valve Insufficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Telmisartan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no plan to share individual participant data with other researchers to avoid misuse of patient information.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

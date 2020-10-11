@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3146">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04551339</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-004637</org_study_id>
+    <nct_id>NCT04551339</nct_id>
+  </id_info>
+  <brief_title>Zinc Versus Multivitamin Micronutrient Supplementation in the Setting of COVID-19</brief_title>
+  <acronym>ZnCOVID-19</acronym>
+  <official_title>Zinc Versus Multivitamin Micronutrient Supplementation to Support Immune Health in the Setting of COVID-19 Pandemic: A Randomized Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to look at high dose zinc versus multivitamin
+      micronutrient supplementation to support immune health in the setting of the COVID-19
+      pandemic.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a two-cohort prospective randomized study intended to test the role of Zinc versus
+      multivitamin supplementation in supporting immune health in the setting of the COVID-19
+      pandemic. Individuals over 50 years old or primary health care professionals over the age of
+      18 who have had no evidence of prior COVID-19 infection and who have been asymptomatic for 7
+      days prior to enrollment will be randomized at the individual level to take either
+      PreserVision AREDS formulation with 69.6mg/day Zinc supplementation or to receive a Centrum
+      Adult (under 50) multivitamin supplement.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">September 28, 2020</start_date>
+  <completion_date type="Anticipated">May 14, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 14, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 illness requiring hospitalization</measure>
+    <time_frame>Through study completion, approximately 3 months</time_frame>
+    <description>Total number of subjects admitted to the hospital in relations to COVID-19 illness PCR or undergo seroconversion</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Illness without hospitalization</measure>
+    <time_frame>Through study completion, approximately 3 months</time_frame>
+    <description>Total number of subjects with COVID-19 illness that are not hospitalized</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supplemental oxygen therapy during hospitalization</measure>
+    <time_frame>Through study completion, approximately 3 months</time_frame>
+    <description>Total number of subjects to require supplemental oxygen therapy during hospitalization for COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Invasive ventilation during hospitalization</measure>
+    <time_frame>Through study completion, approximately 3 months</time_frame>
+    <description>Total number of subjects to require invasive ventilation during hospitalization for COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Through study completion, approximately 3 months</time_frame>
+    <description>Total number of subject deaths</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">4500</enrollment>
+  <condition>Healthy</condition>
+  <condition>Health Care Worker Patient Transmission</condition>
+  <condition>Aging</condition>
+  <arm_group>
+    <arm_group_label>High dose Zinc (PreserVision AREDS formulation gel tabs)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will have a high dose Zinc supplementation in combination with Copper, Vitamin C/E and beta-carotene</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Centrum Adult (under 50) multivitamin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects in this arm will have Centrum Adult (under 50) multivitamin supplement</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>PreserVision AREDS formulation gel tabs</intervention_name>
+    <description>Two tabs taken daily for three months</description>
+    <arm_group_label>High dose Zinc (PreserVision AREDS formulation gel tabs)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Centrum Adult (under 50) multivitamin</intervention_name>
+    <description>One tab taken daily for three months</description>
+    <arm_group_label>Centrum Adult (under 50) multivitamin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥50 years old OR primary healthcare professional (defined as having a job that has
+             had direct patient contact during the COVID-19 pandemic) and ≥18 years old
+
+          -  No symptoms of COVID-19 (a fever of 100.0o F or greater, OR a new cough, OR new
+             shortness of breath, OR new sore throat, OR new diarrhea, OR new fast breathing
+             (respiratory distress), OR new chills, OR new muscle aches (myalgias), OR new loss of
+             smell, OR new change or loss of taste sensation) in the past 7 days
+
+          -  Have a negative Elecsys Anti-SARS-CoV-2 immunoassay antibody test at screening
+
+          -  Have not had close contact with a person with a LABORATORY CONFIRMED case of COVID-19
+             (Close contact is defined by CDC as: Being within approximately 6 feet of a COVID-19
+             patient for a prolonged period of time (more than 5 minutes) or having direct contact
+             with infectious secretions of a COVID-19 patient (e.g. being coughed on)) in the last
+             14 days
+
+          -  Mayo Clinic patient who has a patient online account set up or is willing to set up an
+             online account
+
+          -  Must have a valid email address and internet service
+
+        Exclusion Criteria:
+
+          -  History of positive or indeterminate COVID PCR test prior to screening or Elecsys
+             Anti-SARS-CoV-2 immunoassay antibody test positive or indeterminate at screening
+
+          -  Active symptoms of COVID ((a fever of 100.0o F or greater, OR a new cough, OR new
+             shortness of breath, OR new sore throat, OR new diarrhea, OR new fast breathing
+             (respiratory distress), OR new chills, OR new muscle aches (myalgias), OR new loss of
+             smell, OR new change or loss of taste sensation)) in past 7 days
+
+          -  Known intolerance to Centrum multivitamins or Zinc supplement from prior exposure
+
+          -  Inability to complete follow-up questions or grant access to electronic health record
+             for surveillance
+
+          -  Have had close contact with a person with a LABORATORY CONFIRMED case of COVID-19 in
+             past 14 days
+
+          -  Current or former smoker less than 5 years ago
+
+          -  Pregnant or breastfeeding
+
+          -  Prisoner
+
+          -  Any subject with known immunosuppressed state, including
+
+               1. A history of solid organ or bone marrow transplantation
+
+               2. Subjects currently receiving chemotherapy
+
+               3. Current rheumatologic or autoimmune illness requiring treatment with
+                  glucocorticoids, antimetabolite agents (methotrexate, azathioprine,
+                  mercaptopurine, fluorouracil, mycophenolate, leflunomide), IMIDs (lenalidomide,
+                  thalidomide, pomalidomide), calcineurin inhibitors (tacrolimus, cyclosporine),
+                  mTOR inhibitors (sirolimus, everolimus), or any monoclonal antibody drugs
+                  (including any drug given intravenously or subcutaneously) for the purpose of
+                  immunosuppression
+
+               4. Subjects with HIV or primary immunodeficiency syndromes
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Atta Behfar, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mayo.edu/research/clinical-trials</url>
+    <description>Mayo Clinic Clinical Trials</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 16, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mayo Clinic</investigator_affiliation>
+    <investigator_full_name>Atta Behfar</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Zinc</keyword>
+  <keyword>Immune health</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

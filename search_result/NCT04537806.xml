@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1737">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04537806</url>
+  </required_header>
+  <id_info>
+    <org_study_id>547-ARD-301</org_study_id>
+    <nct_id>NCT04537806</nct_id>
+  </id_info>
+  <brief_title>A Study of Brexanolone for Acute Respiratory Distress Syndrome Due to COVID-19</brief_title>
+  <official_title>A Study of Brexanolone for Acute Respiratory Distress Syndrome Due to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sage Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sage Therapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the efficacy and safety of brexanolone in
+      participants on ventilator support for acute respiratory distress syndrome (ARDS) due to
+      COVID-19.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants Who are Alive and Free of Respiratory Failure at Day 28</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Respiratory failure is defined based on resource utilization, requiring at least one of the following: endotracheal intubation and mechanical ventilation; oxygen delivered by high-flow nasal cannula; noninvasive positive pressure ventilation or extracorporeal membrane oxygenation (ECMO).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With at Least One Treatment-Emergent Adverse Event (TEAE)</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause Mortality Through Day 28</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Brexanolone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receiving mechanical ventilation as standard of care will receive brexanolone as a single, continuous, intravenous (IV) infusion for 60 hours.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receiving mechanical ventilation as standard of care will receive matching placebo as a single, continuous, IV infusion for 60 hours.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brexanolone</intervention_name>
+    <description>Brexanolone, intravenous (IV) infusion.</description>
+    <arm_group_label>Brexanolone</arm_group_label>
+    <other_name>Allopregnanolone</other_name>
+    <other_name>Zulresso</other_name>
+    <other_name>SAGE-547</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo, IV infusion.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Participant has been confirmed positive for the novel coronavirus responsible for
+             COVID-19 (SARS-CoV-2) infection as determined by polymerase chain reaction (PCR) at
+             Screening
+
+          -  Participant has a presumptive diagnosis of ARDS at Screening and partial pressure of
+             arterial oxygen (PaO2)/fraction of inspired oxygen (FiO2) (PF ratio) &lt; 300 prior to
+             randomization
+
+          -  Participant is intubated and receiving mechanical ventilation prior to randomization
+
+          -  Participants must have initiated mechanical ventilation within 48 hours prior to
+             screening, or have an immediate clinical plan for such intervention at time of
+             screening
+
+          -  Participant is likely to survive, in the opinion of the investigator, for at least 72
+             hours from the time of screening
+
+        Exclusion Criteria:
+
+          -  Participant has fulminant hepatic failure at Screening
+
+          -  Participant has end stage renal disease at Screening
+
+          -  Participant has a known allergy to progesterone, allopregnanolone, or any excipients
+             in the brexanolone injection
+
+          -  Be concurrently participating in another clinical trial for an investigational product
+             or device at screening
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ariel Brown, PhD</last_name>
+    <phone>617-949-4274</phone>
+    <email>ariel.brown@sagerx.com</email>
+  </overall_contact>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 3, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pregnanolone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data sharing will be consistent with the results submission policy of ClinicalTrials.gov.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

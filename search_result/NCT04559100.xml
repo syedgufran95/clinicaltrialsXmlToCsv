@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="176">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04559100</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1631 COVID-LFT</org_study_id>
+    <nct_id>NCT04559100</nct_id>
+  </id_info>
+  <brief_title>Long-term Characterization of Patients With Severe/Critical Infection by COVID-19 Virus</brief_title>
+  <official_title>Clinical, Radiological, Lung Function, and Quality of Life Characterization of Patients With Severe/Critical Infection by SARS-COV-2 (COVID-19) Virus, After 6 and 12 Months of Hospital Discharge</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundacion Clinica Valle del Lili</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fundacion Clinica Valle del Lili</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A descriptive study to characterize clinical, radiological, lung function and quality of life
+      alterations in patients who survived a severe or critical disease caused by SARS-COV-2 virus,
+      who were treated in the intensive care unit of a high complexity institution in Cali,
+      Colombia.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2020</start_date>
+  <completion_date type="Anticipated">October 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Lung function</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Spirometry in Liters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lung function</measure>
+    <time_frame>12 months after hospital discharge</time_frame>
+    <description>Spirometry in Liters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lung function</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Diffusing capacity of carbon monoxide (% predicted)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lung function</measure>
+    <time_frame>12 months after hospital discharge</time_frame>
+    <description>Diffusing capacity of carbon monoxide (% predicted)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lung function</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>6 min walk test in Meters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lung function</measure>
+    <time_frame>12 months after hospital discharge</time_frame>
+    <description>6 min walk test in Meters</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Radiological alterations</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Alterations in chest radiography</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Radiological alterations</measure>
+    <time_frame>12 months after hospital discharge</time_frame>
+    <description>Alterations in chest radiography</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Radiological alterations</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Alterations in thoracic CT scan</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Radiological alterations</measure>
+    <time_frame>12 months after hospital discharge</time_frame>
+    <description>Alterations in thoracic CT scan</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of life alterations</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+    <description>Saint George Respiratory questionnaire (from 0 to 100 points, higher levels indicating a major health impairment)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of life alterations</measure>
+    <time_frame>12 months after hospital discharge</time_frame>
+    <description>Saint George Respiratory questionnaire (from 0 to 100 points, higher levels indicating a major health impairment)</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">112</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Severe and critical COVID-19 survivors</arm_group_label>
+    <description>Radiological alterations assessed by chest radiography and/or thoracic computed tomography Lung function alterations assessed by spirometry, diffusing capacity for carbon monoxide, 6 minute walk.
+Quality of life alterations: saint george respiratory questionnaire</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>chest radiography</intervention_name>
+    <description>6 and 12 months after hospital discharge. If the study is normal at 6 months it will not be repeated at 12 months.</description>
+    <arm_group_label>Severe and critical COVID-19 survivors</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>thoracic computed tomography scan</intervention_name>
+    <description>6 and 12 months after hospital discharge, if the patient had a CT scan upon admission to the hospital. If the study is normal at 6 months it will not be repeated at 12 months.</description>
+    <arm_group_label>Severe and critical COVID-19 survivors</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>spirometry</intervention_name>
+    <description>6 and 12 months after hospital discharge. If the study is normal at 6 months it will not be repeated at 12 months.</description>
+    <arm_group_label>Severe and critical COVID-19 survivors</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Diffusing capacity of carbon monoxide</intervention_name>
+    <description>6 and 12 months after hospital discharge. If the study is normal at 6 months it will not be repeated at 12 months.</description>
+    <arm_group_label>Severe and critical COVID-19 survivors</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>6 minute walk test</intervention_name>
+    <description>6 and 12 months after hospital discharge. If the study is normal at 6 months it will not be repeated at 12 months.</description>
+    <arm_group_label>Severe and critical COVID-19 survivors</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>saint george respiratory questionnaire</intervention_name>
+    <description>6 and 12 months after hospital discharge.</description>
+    <arm_group_label>Severe and critical COVID-19 survivors</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with a severe or critical disease caused by SARS-COV-2 infection who were treated
+        at the ICU of Fundación Valle del Lili and were alive at 6 months of hospital discharge.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  ≥ 19 years old who had a positive test for SARS-COV-2 virus
+
+          -  Patients with a severe and critical disease by SARS-COV-2, who were treated at the ICU
+             of Fundación Valle del Lili, and survived
+
+          -  Patients with chest radiography or CT scan at admission to the hospital
+
+        Exclusion Criteria:
+
+          -  Patients who do not sign informed consent.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fernandez</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fundacion Clinica Valle del Lili</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fernandez</last_name>
+    <phone>3155006300</phone>
+    <email>liliana.fernandez@fvl.org.co</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sangiovanni</last_name>
+    <phone>3152606636</phone>
+    <email>saveria.sangiovanni@fvl.org.co</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>lung function</keyword>
+  <keyword>quality of life</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carbon Monoxide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

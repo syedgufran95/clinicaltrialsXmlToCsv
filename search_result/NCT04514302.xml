@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="126">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04514302</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INOSARS-CoV-2 TecSalud</org_study_id>
+    <nct_id>NCT04514302</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of Anti-SARS-CoV-2 Equine Antibody Fragments (INOSARS) for Hospitalized Patients With COVID-19</brief_title>
+  <official_title>Pilot Study to Evaluate Safety and Efficacy of Anti-SARS-CoV-2 Equine Immunoglobulin F(ab')2 Fragments (INOSARS) in Hospitalized Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital San Jose Tec de Monterrey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital San Jose Tec de Monterrey</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a two-center, randomized, placebo-controlled pilot study of anti-SARS-CoV-2 equine
+      immunoglobulin fragments F(ab')2 (INOSARS) to evaluate safety and preliminary efficacy in the
+      treatment of hospitalized COVID-19 patients. Clinical improvement at 28 days from the start
+      of treatment will be evaluated.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a two-center, randomized, placebo-controlled pilot study of anti-SARS-CoV-2 equine
+      immunoglobulin fragments F(ab')2 (INOSARS) to evaluate safety and preliminary efficacy in the
+      treatment of hospitalized COVID-19 patients. Subjects included in the study are hospitalized
+      adult patients with a diagnosis of COVID-19, that: 1) require supplementary oxygen or
+      non-invasive mechanical ventilation OR 2) have clinical or imaging evidence of pneumonia OR
+      3) have laboratory markers of risk of disease progression (high levels of serum inflammatory
+      markers). The sample size is 51 patients randomized to one of three arms: 18 patients to
+      placebo, 16 patients to dose 1 and 17 patients to dose 2 of anti-SARS-CoV-2 equine
+      immunoglobulin F(ab')2 fragments. The safety outcome is the proportion of patients with early
+      and late adverse events until the end of follow-up at 28 days, for both doses of treatment.
+      The primary outcome is the proportion of patients with clinical improvement at 28 days from
+      the start of treatment, comparing between both treatment groups vs placebo. Clinical
+      improvement is defined as a reduction of 1 point in the NIAID 8-point ordinal scale of
+      clinical status for COVID-19 patients or hospital discharge, whichever comes first.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 20, 2020</start_date>
+  <completion_date type="Anticipated">June 20, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 20, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Parallel</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double Blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients with improvement in clinical status</measure>
+    <time_frame>28 days</time_frame>
+    <description>The primary endpoint is the proportion of patients with clinical improvement at 28 days after treatment. Clinical improvement is defined as (whichever is first): a) hospital discharge or b) reduction of 1 point in the NIAID 8-point ordinal scale. Scale categories as follows: 1 = not hospitalized; 2 = not hospitalized with limitation of activities and/or oxygen requirement; 3 = hospitalized not requiring supplemental oxygen and not requiring active medical care, 4 = hospitalized requiring active medical care without requiring oxygen supplementation; 5 = hospitalized requiring oxygen supplementation; 6 = hospitalized requiring high-flow oxygen or non-invasive mechanical ventilation; 7 = hospitalized requiring invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 8 = death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical improvement</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time from the day of treatment until the first day with clinical improvement, defined as (whichever is first): a) hospital discharge or b) reduction of 1 point in the NIAID 8-point ordinal scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients that reach a score of 6, 7 or 8 in the NIAID 8-point ordinal scale</measure>
+    <time_frame>28 days</time_frame>
+    <description>Proportion of participant death or non-invasive or invasive mechanical ventilation or extracorporeal membrane oxygenation requirement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>28 days</time_frame>
+    <description>Measured in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 PCR negativization rate</measure>
+    <time_frame>3 days</time_frame>
+    <description>Proportion of patients that have a negative polymerase chain reaction assay for SARS-CoV-2 at 72 hrs from start of treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with clinical improvement at day 7</measure>
+    <time_frame>7 days</time_frame>
+    <description>Proportion of patients with clinical improvement at day 7. Clinical improvement is defined as (whichever is first): a) hospital discharge or b) reduction of 1 point in the NIAID 8-point ordinal scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with immediate adverse events (&lt; 24 hours)</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Proportion of patients that present within 24 hours of treatment with immediate adverse events defined as: skin rash and/or respiratory findings (dyspnea, wheezing, bronchospasm, hypoxia) and/or circulatory compromise (reduction of blood pressure or associated symptoms, i.e. syncope).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with late adverse events (1 - 28 days)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Proportion of patients that present events associated with serum sickness (type 3 hypersensitivity), vasculitis, glomerulonephritis, arthritis.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">51</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Single dose of 150 mL of saline solution administered intravenously as an infusion at 4.0 mL/min over 40 min. n = 18.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>INOSARS dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose of 2 vials of INOSARS in 150 mL of saline solution administered intravenously as an infusion at 4.0 mL/min over 40 min. n = 16</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>INOSARS dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Description: Single dose of 6 vials of INOSARS in 150 mL of saline solution administered intravenously as an infusion at 4.0 mL/min over 40 min. n = 17</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo of saline solution of equal volume and infusion. Content of the infusion bag and tubing will be concealed with opaque covering.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Control</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anti-SARS-CoV-2 equine immunoglobulin fragments (INOSARS)</intervention_name>
+    <description>INOSARS is a polyvalent passive immunization based on anti-SARS-CoV-2 immunoglobulin F(ab')2 fragments from hyperimmune equine serum. Inactive ingredients: water for injection, sodium chloride and less than 10% of total protein content.</description>
+    <arm_group_label>INOSARS dose 1</arm_group_label>
+    <arm_group_label>INOSARS dose 2</arm_group_label>
+    <other_name>INOSARS</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects of both sexes aged ≥ 18 years
+
+          -  Patients with a confirmed infection with SARS-CoV-2 by PCR
+
+          -  Patients admitted for hospitalization for COVID-19 disease that fulfills any of the
+             following:
+
+               1. Clinical or imaging evidence of pneumonia defined as: SpO2 &lt; 94% or PaO2/FiO2
+                  (SpO2/FiO2) &lt; 300 or chest imaging consistent with pneumonia or clinical evidence
+                  of pneumonia (fever, cough, dyspnea and respiratory frequency &gt; 24
+                  respirations/min) OR
+
+               2. Score of 4 (hospitalized no oxygen requirement, requires medical care), 5
+                  (hospitalized, low-flow oxygen requirement) or 6 (hospitalized, high-flow oxygen
+                  or non-invasive mechanical ventilation requirement) in the NIAID 8-point ordinal
+                  scale of clinical status for COVID-19
+
+               3. High risk markers of disease progression (at least on serum inflammatory marker
+                  elevated: C reactive protein, D-dimer, lactate dehydrogenase, ferritin)
+
+          -  Agrees to participate in the study and signs written informed consent (signed by
+             relative if applicable)
+
+        Exclusion Criteria:• Patients with known equine allergies
+
+          -  Patients with past medical history of serum sickness
+
+          -  Patients with more than 4 days of hospitalization before being randomized in study
+
+          -  Patients who have received convalescent plasma or intravenous immunoglobulin (IVIG)
+             for COVID-19
+
+          -  Pregnant or breastfeeding women
+
+          -  Patients with chronic kidney disease under dialysis
+
+          -  Patients under invasive mechanical ventilation and/or extracorporeal membrane
+             oxygenation at the beginning of study
+
+          -  Patients participating in another intervention clinical trial
+
+          -  Patients who are immunocompromised or with another chronic condition, that is judged
+             by medical staff, to be at higher risk of infection or complications from
+             participating in study
+
+          -  Patients who are judged by medical staff who are unlikely to survive at 48 hours
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>José F Castilleja-Leal, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wellness and Prevention Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Servando Cardona-Huerta, MD, Ph. D.</last_name>
+    <phone>+5218112121946</phone>
+    <email>servandocardona@tec.mx</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alejandro Torres-Quintanilla, MD, MSc</last_name>
+    <phone>+528180205853</phone>
+    <email>atorresq@tec.mx</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital San José</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo Leon</state>
+        <zip>64718</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <reference>
+    <citation>Beigel JH, Tomashek KM, Dodd LE, Mehta AK, Zingman BS, Kalil AC, Hohmann E, Chu HY, Luetkemeyer A, Kline S, Lopez de Castilla D, Finberg RW, Dierberg K, Tapson V, Hsieh L, Patterson TF, Paredes R, Sweeney DA, Short WR, Touloumi G, Lye DC, Ohmagari N, Oh MD, Ruiz-Palacios GM, Benfield T, Fätkenheuer G, Kortepeter MG, Atmar RL, Creech CB, Lundgren J, Babiker AG, Pett S, Neaton JD, Burgess TH, Bonnett T, Green M, Makowski M, Osinusi A, Nayak S, Lane HC; ACTT-1 Study Group Members. Remdesivir for the Treatment of Covid-19 - Preliminary Report. N Engl J Med. 2020 May 22. doi: 10.1056/NEJMoa2007764. [Epub ahead of print]</citation>
+    <PMID>32445440</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 14, 2020</study_first_posted>
+  <last_update_submitted>August 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital San Jose Tec de Monterrey</investigator_affiliation>
+    <investigator_full_name>José Fernando Castilleja-Leal</investigator_full_name>
+    <investigator_title>Wellness and Prevention Director</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Immunoglobulin fragments</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immunoglobulin Fragments</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

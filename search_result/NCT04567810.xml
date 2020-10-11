@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1307">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04567810</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CVR001</org_study_id>
+    <nct_id>NCT04567810</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability, and Pharmacokinetics of Anti-Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Chicken Egg Antibody (IgY) (COVID-19)</brief_title>
+  <official_title>A Phase 1 Study in Healthy Participants to Evaluate the Safety, Tolerability, and Pharmacokinetics of Single -Ascending and Multiple Doses of an Anti-Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Chicken Egg Antibody (IgY)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of Part 1 (Single Ascending Dose) is to assess the safety and
+      tolerability of anti-SARS-CoV-2 IgY when given as single-ascending doses administered
+      intranasally to healthy participants.
+
+      The primary objective of Part 2 (Multiple Dose) is to assess the safety and tolerability of
+      anti-SARS-CoV-2 IgY when given as multiple doses administered intranasally to healthy
+      participants. A secondary objective is to assess the pharmacokinetics of anti-SARS-CoV-2 IgY
+      when given as multiple doses administered intranasally to healthy participants.
+
+      Safety will be evaluated using adverse event (AE), physical examination (including vital
+      signs), electrocardiogram, and clinical laboratory data. Pharmacokinetics will be evaluated
+      by serum anti-SARS-CoV-2 IgY concentration.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 18, 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with treatment-related adverse events</measure>
+    <time_frame>up to 21 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Vital Sign Findings Reported as TEAEs</measure>
+    <time_frame>up to 21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Clinically Significant Findings in Physical Examinations</measure>
+    <time_frame>up to 21 days</time_frame>
+    <description>Clinically significant in the judgement of the investigator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Clinically Significant Changes From Baseline in ECG Data</measure>
+    <time_frame>up to 21 days</time_frame>
+    <description>Clinically significant in the judgement of the investigator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with Clinically Significant Changes from Baseline in Clinical Laboratory Parameters</measure>
+    <time_frame>up to 21 days</time_frame>
+    <description>Clinically significant in the judgement of the investigator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Presence of Serum anti-SARS-CoV-2 IgY</measure>
+    <time_frame>up to 21 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Part A: 2 mg preparation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a single 2 mg dose of anti-SARS-CoV-2 IgY.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A: 4 mg preparation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a single 4 mg dose of anti-SARS-CoV-2 IgY.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A: 8 mg preparation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a single 8 mg dose of anti-SARS-CoV-2 IgY.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A: placebo preparation</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive placebo matching anti-SARS-CoV-2 IgY.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: 6 mg total daily dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a 2 mg dose of anti-SARS-CoV-2 IgY three times daily for 14 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: 12 mg total daily dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a 4 mg dose of anti-SARS-CoV-2 IgY three times daily for 14 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: 24 mg total daily dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a 8 mg dose of anti-SARS-CoV-2 IgY three times daily for 14 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: 0 mg total daily dose</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive placebo matching anti-SARS-CoV-2 IgY three times daily for 14 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>anti-SARS-CoV-2 IgY</intervention_name>
+    <description>anti-SARS-CoV-2 IgY preparation in liquid administered with a bottle with a dropper.</description>
+    <arm_group_label>Part A: 2 mg preparation</arm_group_label>
+    <arm_group_label>Part A: 4 mg preparation</arm_group_label>
+    <arm_group_label>Part A: 8 mg preparation</arm_group_label>
+    <arm_group_label>Part B: 12 mg total daily dose</arm_group_label>
+    <arm_group_label>Part B: 24 mg total daily dose</arm_group_label>
+    <arm_group_label>Part B: 6 mg total daily dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo matching anti-SARS-CoV-2 IgY preparation in liquid administered with a bottle with a dropper.</description>
+    <arm_group_label>Part A: placebo preparation</arm_group_label>
+    <arm_group_label>Part B: 0 mg total daily dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Healthy males or non-pregnant, non-lactating females
+
+          -  Body weight of at least 50 kg
+
+          -  Good state of health (mentally and physically)
+
+          -  Must agree to use of highly effective method of contraception
+
+        Exclusion Criteria:
+
+          -  Received other investigational drug within the last 30 days prior to screening
+
+          -  History of drug or alcohol abuse in the past 2 years (&gt;21 units of alcohol per week
+             for males and &gt;14 units of alcohol per week for females)
+
+          -  Current smoker / e-smoker
+
+          -  Abnormal kidney function
+
+          -  Abnormal liver function
+
+          -  Positive for hepatitis B or C infection
+
+          -  Positive for HIV infection
+
+          -  Positive for SARS-CoV-2 infection
+
+          -  History of egg allergy
+
+          -  Abnormal cardiac function
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daria Mochly-Rosen, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michaela Lucas, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Linear Clinical Research</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Linear Clinical Research - Harry Perkins Research Institute</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Team</last_name>
+      <phone>+61 300 546327</phone>
+      <email>contactus@linear.org.au</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

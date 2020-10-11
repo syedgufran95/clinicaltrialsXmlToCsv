@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="400">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04521309</url>
+  </required_header>
+  <id_info>
+    <org_study_id>biotech001</org_study_id>
+    <nct_id>NCT04521309</nct_id>
+  </id_info>
+  <brief_title>SARS-CoV-2 Antibodies Based IVIG Therapy for COVID-19 Patients</brief_title>
+  <official_title>Severe Acute Respiratory Syndrome Corona Virus 2 (SARS-CoV-2) Antibodies Based Intravenous Immunoglobulin (IVIG) Therapy for Severe and Critically Ill COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dow University of Health Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Higher Education Commission (Pakistan)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dow University of Health Sciences</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe and critically ill patients will be enrolled in the study (50 patients) after duly
+      filled consent forms. Recipients shall be divided in to 5 groups with 10 patients per group
+      to compare clinical efficacy and safety of patients in clinical phase I/phase II study. Each
+      group shall receive particular single dose of Intravenously administered Immunoglobulins
+      (IVIG) developed from convalescent plasma of recovered COVID-19 individual , an experimental
+      drug along with standard treatment except for control group which will receive standard
+      treatment only.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Passive immunization using intravenous immunoglobulins (IVIG) has been tested for treating
+      previous viral outbreaks and holds the potential to save lives in the current crisis.
+      Recently researchers from China reported satisfactory recovery of critically ill Corona Virus
+      Disease 2019 (COVID 19) patients when high dose intravenous immunoglobulin (IVIG) were
+      administered.
+
+      Research team at Dow University of Health Sciences has purified immunoglobulin (both SARS-CoV
+      2 antibodies and existing antibodies) from convalescent plasma of COVID19 individuals and
+      pooled to prepared IVIG formulation to treat severe and critically ill COVID-19 patients. To
+      evaluate safety of the formulation animal (rats) safety trials and survival of all the
+      animals were observed.
+
+      It is intended to assess safety and efficacy of experimental the IVIG treatment in severe and
+      critically ill COVID 19 patients through phase I/phase II randomized single blinded clinical
+      trial with fifty study participants. FDA outlined criteria for passive immunization using
+      convalescent plasma, which will be used for recruiting participants in the study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 19, 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>28 Days mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>All cause mortality of participants will be monitored for 28 days to assess the safety and efficacy of IVIG treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Requirement of supplemental oxygen support</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days required for invasive or non-invasive oxygen supply during hospital stay as per oxygen saturation status of patient</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of days on assisted ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days a participant will be requiring assisted ventilation both invasive and noninvasive</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Days to step down</measure>
+    <time_frame>28 days</time_frame>
+    <description>Shifting from ICU to ward</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Days to Hospital Discharge</measure>
+    <time_frame>28 days</time_frame>
+    <description>Duration from day of enrollment in study to Day of hospital discharge</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse events during hospital stay</measure>
+    <time_frame>28 days</time_frame>
+    <description>Kidney failure, hypersensitivity with cutaneous or hemodynamic manifestations, aseptic meningitis, hemolytic anemia, leuko-neutropenia, transfusion related acute lung injury (TRALI)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in C-Reactive Protein (CRP) levels</measure>
+    <time_frame>28 days</time_frame>
+    <description>Change in C-Reactive Protein (CRP) levels from baseline will be used to monitor inflammation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in neutrophil lymphocyte ratio</measure>
+    <time_frame>28 days</time_frame>
+    <description>change in neutrophil lymphocyte ratio from baseline will be used to monitor inflammation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Ferritin levels</measure>
+    <time_frame>28 days</time_frame>
+    <description>change in Ferritin level from baseline will be used to monitor inflammation and immune dysregulation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in lactate dehydrogenase (LDH) levels</measure>
+    <time_frame>28 days</time_frame>
+    <description>change in LDH from baseline will be used to monitor infections and tissue health</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in radiological (X-ray) findings</measure>
+    <time_frame>28 days</time_frame>
+    <description>Any change seen in radiological chest X-ray findings</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days to negative SARS-CoV-2 Polymerase Chain Reaction (PCR) test</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time taken for participant to receive negative COVID-19 PCR test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 Antibody</measure>
+    <time_frame>28 days</time_frame>
+    <description>Anti-SARS-CoV-2 antibody titre from blood measured by semi-qualitative method</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fever</measure>
+    <time_frame>28 days</time_frame>
+    <description>Change in body temperature from baseline will be used to monitor safety and efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Sodium levels</measure>
+    <time_frame>28 days</time_frame>
+    <description>Change in electrolytes (Sodium) seen in participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Potassium levels</measure>
+    <time_frame>28 days</time_frame>
+    <description>Change in electrolytes (Potassium) seen in participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Chloride levels</measure>
+    <time_frame>28 days</time_frame>
+    <description>Change in electrolytes (Chloride) seen in participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Bicarbonate levels</measure>
+    <time_frame>28 days</time_frame>
+    <description>Change in electrolytes (Bicarbonate) seen in participants</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard care only n = 10 patients.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IVIG dose: 0.20 g/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard Care + Single dose of 0.20 g/Kg anti-COVID-19 IVIG (experimental drug prepared at DUHS) n= 10 patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IVIG dose: 0.25 g/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard Care + Single dose of 0.25 g/Kg anti-COVID19 IVIG (experimental drug prepared at DUHS) n= 10 patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IVIG dose: 0.30 g/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard Care + Single dose of 0.30 g/Kg anti-COVID19 IVIG (experimental drug prepared at DUHS) n= 10 patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IVIG dose: 0.35 g/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard Care + Single dose of 0.35 g/Kg anti-COVID19 IVIG (experimental drug prepared at DUHS) n= 10 patients</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 antibody based IVIG therapy</intervention_name>
+    <description>Patient groups will receive IVIG prepared from pooled convalescent plasma from recovered COVID-19 patients. This will be administered sequentially and in varying dosages, infused over a period of 12 hours, intravenously.Additionally, all treatment groups will receive same standard care as control group. Standard Care as per hospital protocol, which may include:
+Airway support, Anti-Viral medication, Antibiotics, Fluid Resuscitation, Hemodynamic Support, Steroids, Painkillers, Anti-Pyretics</description>
+    <arm_group_label>IVIG dose: 0.20 g/kg</arm_group_label>
+    <arm_group_label>IVIG dose: 0.25 g/kg</arm_group_label>
+    <arm_group_label>IVIG dose: 0.30 g/kg</arm_group_label>
+    <arm_group_label>IVIG dose: 0.35 g/kg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Above 18 years of age
+
+          -  Have positive SARS-CoV-2 PCR on nasopharyngeal and/or oropharyngeal swabs
+
+          -  Admitted in isolation ward and ICU of institutes affiliated with DUHS
+
+          -  have severe or critical COVID 19 as judged by the treating physician
+
+          -  Consent given by the patient or first degree relative
+
+        Exclusion Criteria:
+
+          -  Pregnancy
+
+          -  Previous allergic reaction to immunoglobulin treatment
+
+          -  Ig A deficiency
+
+          -  Patient requiring 2 inotropic agents to maintain blood pressures
+
+          -  Known case of any autoimmune disorder
+
+          -  Acute kidney injury or chronic renal failure
+
+          -  Known case of thromboembolic disorder
+
+          -  Aseptic meningitis
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr.Shaukat Ali, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dow University of Health Sciences, Principal Dow College of Biotechnology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Shaukat Ali, PhD</last_name>
+    <phone>+92-3363010185</phone>
+    <email>ali.shaukat@duhs.edu.pk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Shobha Luxmi, FCPS</last_name>
+    <phone>+923312489763</phone>
+    <email>shobha.luxmi@duhs.edu.pk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Dow University of Health Sciences</name>
+      <address>
+        <city>Karachi</city>
+        <state>Sindh</state>
+        <zip>74200</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prof. Dr. Mohammed Saeed Quraishy, FRCS, FCPS</last_name>
+      <phone>+91-03008240234</phone>
+      <email>vc@duhs.edu.pk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Dr. Shaukat Ali, PhD</last_name>
+      <phone>+91-03363010185</phone>
+      <email>ali.shaukat@duhs.edu.pk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Prof. Dr. Mohammed Saeed Quraishy, FRCS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr. Shaukat Ali, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr. Shobha Luxmi, FCPS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr. Mohsin Bajwa, FCPS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mr. Abdul Samad Khan, M.Phil</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ms. Fatima Anjum, M.Sc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr. Sheikh Muhammad Muhaymin, MBBS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mr. Mir Rashid Ali, M.Sc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mr. Syed Muneeb Uddin, M.Sc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ms. Ayesha Ali, M.Sc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mr. Elisha Shalim, BS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mr. Mujtaba Khan, BS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr. Muneeba Sayeed, FCPS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <link>
+    <url>http://covid.gov.pk/</url>
+    <description>Realtime Pakistan and Worldwide COVID-19 situation</description>
+  </link>
+  <link>
+    <url>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance</url>
+    <description>World Health Organization (WHO) technical guidance on COVID-19</description>
+  </link>
+  <link>
+    <url>https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exemption-ide-process-cber/investigational-covid-19-convalescent-plasma-emergency-inds</url>
+    <description>U.S Food and Drug Administration (FDA) Recommendations for Investigational COVID-19 Convalescent Plasma</description>
+  </link>
+  <link>
+    <url>https://thehill.com/policy/healthcare/489335-fda-to-allow-plasma-from-coronavirus-survivors-to-be-used-to-treat</url>
+    <description>News story of FDA approval for use of convalescent plasma for COVID-19 patients</description>
+  </link>
+  <link>
+    <url>https://www.fda.gov/vaccines-blood-biologics/approved-blood-products/immune-globulin-intravenous-igiv-indications</url>
+    <description>list of FDA approved Intravenously administrable Immune Globulin(IVIG) along Indications</description>
+  </link>
+  <link>
+    <url>http://www.euro.who.int/__data/assets/pdf_file/0011/268787/Use-of-Convalescent-Whole-Blood-or-Plasma-Collected-from-Patients-Recovered-from-Ebola-Virus-Disease-for-Transfusion,-as-an-Empirical-Treatment-during-Outbreaks-Eng.pdf</url>
+    <description>WHO guidelines for Use of Convalescent Whole Blood or Plasma Collected from Patients Recovered from Ebola Virus Disease for Transfusion, as an Empirical Treatment during Outbreaks</description>
+  </link>
+  <reference>
+    <citation>Cunningham AC, Goh HP, Koh D. Treatment of COVID-19: old tricks for new challenges. Crit Care. 2020 Mar 16;24(1):91. doi: 10.1186/s13054-020-2818-6.</citation>
+    <PMID>32178711</PMID>
+  </reference>
+  <reference>
+    <citation>Chen L, Xiong J, Bao L, Shi Y. Convalescent plasma as a potential therapy for COVID-19. Lancet Infect Dis. 2020 Apr;20(4):398-400. doi: 10.1016/S1473-3099(20)30141-9. Epub 2020 Feb 27.</citation>
+    <PMID>32113510</PMID>
+  </reference>
+  <reference>
+    <citation>Shen C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, Wang F, Li D, Yang M, Xing L, Wei J, Xiao H, Yang Y, Qu J, Qing L, Chen L, Xu Z, Peng L, Li Y, Zheng H, Chen F, Huang K, Jiang Y, Liu D, Zhang Z, Liu Y, Liu L. Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma. JAMA. 2020 Apr 28;323(16):1582-1589. doi: 10.1001/jama.2020.4783.</citation>
+    <PMID>32219428</PMID>
+  </reference>
+  <reference>
+    <citation>Buchacher A, Iberer G. Purification of intravenous immunoglobulin G from human plasma--aspects of yield and virus safety. Biotechnol J. 2006 Feb;1(2):148-63. Review.</citation>
+    <PMID>16892245</PMID>
+  </reference>
+  <reference>
+    <citation>Hughes RA, Donofrio P, Bril V, Dalakas MC, Deng C, Hanna K, Hartung HP, Latov N, Merkies IS, van Doorn PA; ICE Study Group. Intravenous immune globulin (10% caprylate-chromatography purified) for the treatment of chronic inflammatory demyelinating polyradiculoneuropathy (ICE study): a randomised placebo-controlled trial. Lancet Neurol. 2008 Feb;7(2):136-44. doi: 10.1016/S1474-4422(07)70329-0. Erratum in: Lancet Neurol. 2008 Sep;7(9):771.</citation>
+    <PMID>18178525</PMID>
+  </reference>
+  <reference>
+    <citation>Hung IFN, To KKW, Lee CK, Lee KL, Yan WW, Chan K, Chan WM, Ngai CW, Law KI, Chow FL, Liu R, Lai KY, Lau CCY, Liu SH, Chan KH, Lin CK, Yuen KY. Hyperimmune IV immunoglobulin treatment: a multicenter double-blind randomized controlled trial for patients with severe 2009 influenza A(H1N1) infection. Chest. 2013 Aug;144(2):464-473. doi: 10.1378/chest.12-2907.</citation>
+    <PMID>23450336</PMID>
+  </reference>
+  <reference>
+    <citation>Mair-Jenkins J, Saavedra-Campos M, Baillie JK, Cleary P, Khaw FM, Lim WS, Makki S, Rooney KD, Nguyen-Van-Tam JS, Beck CR; Convalescent Plasma Study Group. The effectiveness of convalescent plasma and hyperimmune immunoglobulin for the treatment of severe acute respiratory infections of viral etiology: a systematic review and exploratory meta-analysis. J Infect Dis. 2015 Jan 1;211(1):80-90. doi: 10.1093/infdis/jiu396. Epub 2014 Jul 16. Review.</citation>
+    <PMID>25030060</PMID>
+  </reference>
+  <reference>
+    <citation>Arabi Y, Balkhy H, Hajeer AH, Bouchama A, Hayden FG, Al-Omari A, Al-Hameed FM, Taha Y, Shindo N, Whitehead J, Merson L, AlJohani S, Al-Khairy K, Carson G, Luke TC, Hensley L, Al-Dawood A, Al-Qahtani S, Modjarrad K, Sadat M, Rohde G, Leport C, Fowler R. Feasibility, safety, clinical, and laboratory effects of convalescent plasma therapy for patients with Middle East respiratory syndrome coronavirus infection: a study protocol. Springerplus. 2015 Nov 19;4:709. doi: 10.1186/s40064-015-1490-9. eCollection 2015.</citation>
+    <PMID>26618098</PMID>
+  </reference>
+  <reference>
+    <citation>Cheng Y, Wong R, Soo YO, Wong WS, Lee CK, Ng MH, Chan P, Wong KC, Leung CB, Cheng G. Use of convalescent plasma therapy in SARS patients in Hong Kong. Eur J Clin Microbiol Infect Dis. 2005 Jan;24(1):44-6.</citation>
+    <PMID>15616839</PMID>
+  </reference>
+  <reference>
+    <citation>Pandey S, Vyas GN. Adverse effects of plasma transfusion. Transfusion. 2012 May;52 Suppl 1:65S-79S. doi: 10.1111/j.1537-2995.2012.03663.x. Review.</citation>
+    <PMID>22578374</PMID>
+  </reference>
+  <verification_date>May 2020</verification_date>
+  <study_first_submitted>May 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 20, 2020</study_first_posted>
+  <last_update_submitted>September 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID19 ( Corona Virus Disease -2019)</keyword>
+  <keyword>SARS-CoV-2 (Severe Acute respiratory syndrome Coronavirus 2)</keyword>
+  <keyword>Passive Immunization</keyword>
+  <keyword>Intravenous Immunoglobulin (IVIG)</keyword>
+  <keyword>Pooled convalescent Plasma</keyword>
+  <keyword>Critically ill COVID-19 patients</keyword>
+  <keyword>Severe COVID-19 patients</keyword>
+  <keyword>Antibody</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 30, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/09/NCT04521309/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

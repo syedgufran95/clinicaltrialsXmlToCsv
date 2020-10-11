@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1278">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04522089</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ADPCT20011X</org_study_id>
+    <nct_id>NCT04522089</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety and Immunogenicity of COVID-19 (AdimrSC-2f) Vaccine</brief_title>
+  <official_title>A Randomized, Single Center, Open-label, Dose-finding, Phase I Study to Evaluate the Safety and Immunogenicity of Pandemic Virus Vaccine, AdimrSC-2f (SARS-CoV-2), in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Adimmune Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Adimmune Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the safety and immunogenicity of the preventative vaccine,
+      AdimrSC-2f, in healthy volunteers aged from 20 to 60 years old.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The objectives of this phase I study are:
+
+        1. to evaluate the safety profile of the AdimrSC-2f vaccine, and
+
+        2. to assess the immunogenicity of the AdimrSC-2f vaccine.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 24, 2020</start_date>
+  <completion_date type="Anticipated">March 20, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 20, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The solicited adverse events (SoAEs)</measure>
+    <time_frame>The 7 days following each vaccination</time_frame>
+    <description>Determining the solicited adverse events (SoAEs) (the percentage, severity, and relationship to the AdimrSC-2f vaccine) during 7 days following each vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of abnormal laboratory tests results</measure>
+    <time_frame>Day 7 after vaccination</time_frame>
+    <description>Determining the clinically significant changes in hematology, biochemistry, and coagulation results from baseline at Visit 2 and Visit 4.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety of AdimrSC-2f vaccine: AE</measure>
+    <time_frame>Day 0 to Day 182</time_frame>
+    <description>Determining the SoAEs and unsolicited AES (the percentage, severity, and relationship to AdimrSC-2f vaccine) during the study period.
+Overall AEs and serious adverse events (SAEs) during the study period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>Day 7,21,28,and 42</time_frame>
+    <description>Determining the changes of antibody titers between baseline and the subsequent scheduled visits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>Day 21 and 42</time_frame>
+    <description>Determining the geometric mean increase (GMI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>Day 21 and 42</time_frame>
+    <description>Determining the seroconversion rate (SCR)</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>AdimrSC-2f Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>low dose mcg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AdimrSC-2f Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>low dose mcg+AL</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AdimrSC-2f Group 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>medium dose mcg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AdimrSC-2f Group 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>high dose mcg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AdimrSC-2f</intervention_name>
+    <description>AdimrSC-2f is a candidate vaccine against COVID-19 developed by Adimmune Corporation (Adimmune). Using the baculovirus-insect cells expression system, the recombinant receptor binding domain (RBD) of SARS-CoV-2 spike (S) protein is amplified and purified. AdimrSC-2f is formulated in the different dosages of Spike (S) protein without/with aluminum content as adjuvant.</description>
+    <arm_group_label>AdimrSC-2f Group 1</arm_group_label>
+    <arm_group_label>AdimrSC-2f Group 2</arm_group_label>
+    <arm_group_label>AdimrSC-2f Group 3</arm_group_label>
+    <arm_group_label>AdimrSC-2f Group 4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects who meet ALL inclusion criteria will be included.
+
+               1. Male or non-pregnant female, aged 20 to 60 years old (inclusive).
+
+               2. Subject who is physically and mentally capable of participating the study and are
+                  willing to adhere to study procedures.
+
+               3. Subject with no clinically significant abnormal findings in medical history,
+                  physical examination, vital signs, or clinical laboratory results at the
+                  Screening visit based on the investigator's judgment.
+
+               4. Subject with negative test result in SARS-CoV-2 antibody (IgG and IgM) rapid test
+                  at the Screening visit.
+
+               5. Subject with negative serology test results for human immunodeficiency virus
+                  (HIV) antibody, hepatitis B surface antigen, and hepatitis C antibody at the
+                  Screening visit.
+
+               6. Subjects' clinical laboratory test results are in the normal range or with
+                  abnormal values without clinical significance as judged by the investigator.
+
+               7. Female subject with childbearing potential must have negative result in urine
+                  pregnancy test at the Screening visit.
+
+               8. Female subject with childbearing potential must be willing to implement adequate,
+                  highly effective contraceptive measure during the study period. Effective birth
+                  control includes:
+
+                    1. Intrauterine device plus one barrier method
+
+                    2. Oral, implantable, or injectable contraceptives plus one barrier method; or
+
+                    3. Two barrier methods Effective barrier methods are male or female condoms,
+                       diaphragms, or spermicides (creams or gels that contain a chemical to kill
+                       sperm). Women of childbearing potential are those who have not been
+                       surgically sterilized or have not been free from menses for ≥ 1 year.
+
+               9. Male subject who agrees to use an adequate method of contraception during the
+                  study period [e.g., barrier contraceptives (male condom)].
+
+              10. Subject who provides informed consent after receiving a detailed explanation of
+                  study procedures.
+
+        Exclusion Criteria:
+
+          -  Subjects who meet ANY exclusion criteria will be excluded.
+
+               1. Subject with a body mass index (BMI) &lt; 18.5 kg/m2 (underweight) or ≥ 35 kg/m2
+                  (greater than Class I obesity) at the Screening Visit.
+
+               2. Subject with history of cancer (except localized skin cancer without metastases)
+                  within 5 years prior to the Screening visit.
+
+               3. Subject has ongoing or medical history of hypertension or diabetes mellitus.
+
+               4. Subject has ongoing use of tobacco or nicotine-containing products (nicotine
+                  patch included) or e-cigarette devices or with history of using
+                  nicotine-containing product as documented in medical chart or by verbal
+                  confirmation at screening.
+
+               5. Subject with documented history of substance or alcohol abuse in the medical
+                  chart or by verbal confirmation within 6 months (approximately 180 days) prior to
+                  the Screening visit.
+
+               6. Subject who received any vaccine (live, inactivated, or bacterial) within 1 month
+                  (approximately 30 days) prior to the Screening visit.
+
+               7. Subject with hypersensitivity to the ingredients of AdimrSC-2f (including
+                  aluminum).
+
+               8. Subject with personal or family history of Guillain-Barré Syndrome.
+
+               9. Subject who has travelled abroad within 3 months (approximately 90 days) prior to
+                  the Screening visit.
+
+              10. Subject with influenza-like illness as defined by any of the following symptoms
+                  at Screening visit: fever (tympanic temperature ≥ 38℃), dry cough, headache,
+                  fatigue, respiratory sputum production (phlegm), dysgeusia, anosmia, shortness of
+                  breath, muscle and joint pain, or sore throat.
+
+              11. Female subject who is pregnant or lactating at screening or plans to be pregnant
+                  during the study period.
+
+              12. Subject who treated with an investigational drug or device or have participated
+                  in a clinical study within 3 months (approximately 90 days) prior to the
+                  Screening visit.
+
+              13. Subject with clinically significant abnormal ECG at the Screening visit or with
+                  history of clinically significant cardiovascular disease such as arrhythmia,
+                  coronary artery disease or heart failure, as judged by the investigator.
+
+              14. Subject with any confirmed or suspected abnormal immune function,
+                  immunosuppressive, or immunodeficiency or received any immunosuppressants or
+                  immunomodulators within 6 months (approximately 180 days) prior to the Screening
+                  visit.
+
+              15. Subject with history of wheezing, asthma, chronic obstructive pulmonary disease,
+                  or have used bronchodilator within 3 months (approximately 90 days) prior to the
+                  Screening visit.
+
+              16. Subject who had blood donation within 2 weeks prior to the Screening visit.
+
+              17. Subject who received any blood products, including immunoglobulin within 3 months
+                  (approximately 90 days) prior to the Screening visit.
+
+              18. Subject who is not suitable to participate in this study as judged by the
+                  investigator.
+
+              19. Subject with chronic illness.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ellie Chen</last_name>
+    <phone>+886425381220</phone>
+    <phone_ext>1224</phone_ext>
+    <email>ellie_chen@adimmune.com.tw</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Shan-Chwen Chang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Szu-Min Hsieh</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sung-Ching Pan</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Wang-Da Liu</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 21, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

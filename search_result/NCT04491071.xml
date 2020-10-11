@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2797">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04491071</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20CH129</org_study_id>
+    <nct_id>NCT04491071</nct_id>
+  </id_info>
+  <brief_title>Stress Induced by the COVID-19 Pandemic and Nonconfinement: Study of Anxiety Factors and Potential Effects on Immunity.</brief_title>
+  <acronym>SCEI</acronym>
+  <official_title>Stress Induced by the COVID-19 Pandemic and Nonconfinement: Study of Anxiety Factors and Potential Effects on Immunity.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Saint Etienne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Saint Etienne</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this project is to evaluate the impact of pandemic and nonconfinement related to
+      anxiety and eventual immune diseases with several standardized questionnaires : Implant
+      Stability Quotient (ISQ) , Generalized Anxiety Disorder-7 (GAD-7), Patient Health
+      Questionnaire -9 (PHQ-9), Post Traumatic Stress Disorder-8 (PTSD-8), and Experiences in Close
+      Relationship Scale (ECRS).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The COVID-19 pandemic and prevention strategise have strongly impacted family lives, social
+      lives, professional lives, and income; resulting in increased reporting of stress and anxiety
+      within patients. This risk of infection 'post-confinement' is an additional source of stress
+      for people returning to their professional and social lives. There are evidence showing a
+      relationship between stress, immunity and the prognosis of several infections and
+      inflammatory diseases.
+
+      The COVID-19 pandemic and prevention strategise have strongly impacted family lives and
+      induced a high level of anxiety and other types of stress. This risk of infection
+      'post-confinement' is an additional source of stress for people returning to their
+      professional and social life.
+
+      There are evidences showing a relationship between stress, immunity and the prognosis of
+      several infections and inflammatory diseases.
+
+      The aim of this project is to launch an online survey that measures population stress felt
+      during the pandemic and post-confinement time and possible effects on eventual immune
+      mediated disorders (allergies, auto-immunity..) through the report of new events or flares.
+      The stress will first be measured on standardized anxiety GAD-7scale but also on more
+      parameters (ISQ, PHQ-9, PTSD-8, and ECR-S). Socio-economic and environmental parameters will
+      be recorded.
+
+      Level of anxiety and other stress parameters as well as occurrence of inflammatory events
+      will be measured according to the calendar and confinement /post confinement timing. Risk
+      factors will be looked for, by multi parametric data analysis.
+
+      The survey has been built in a user-friendly, accessible way so the investigators can expect
+      a high number of participants (at least 400), especially as people are highly concerned by
+      the situation and will be motivated to take part.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Results of the Generalized Anxiety Disorder (GAD-7)</measure>
+    <time_frame>5 Minutes</time_frame>
+    <description>test that will evaluate persistent and excessive worry about a number of different things. People with Generalized Anxiety Disorder may anticipate disaster and may be overly concerned about money, health, family, work, or other issues. Individuals with Generalized Anxiety Disorder find it difficult to control their worry.
+Scored between 0-21:
+Cut offs:
+0-4 = None
+5-9 = Mild anxiety
+10-14 = Moderate anxiety
+15-21 = Severe anxiety</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Results of the Mental Health questionnaire</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Welfare effect (mental health positively or negatively affected by COVID-19; why?) Scored between 7-42. These are treated as continuous variables.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Results of the Patient Health Questionnaire (PHQ-9)</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>assess depression during the pandemic
+Scored between 0-27:
+Cut offs:
+0-4 = None
+5-9 = Mild depression
+10-14 = Moderate depression
+15-19 = Moderately severe depression
+20-27 = Severe depression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Results of the Post Traumatic Stress Disorder (PTSD-8)</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Assessing the trauma of subjects during the pandemic Scored between 7-42. These are treated as continuous variables.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Results of the Experiences in Close Relationship Scale questionnaire (ECR-S)</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Measuring social ties and attachment of subjects Scored between 7-42. These are treated as continuous variables.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">405</enrollment>
+  <condition>Stress Disorder</condition>
+  <arm_group>
+    <arm_group_label>Volunteers</arm_group_label>
+    <description>volunteers over 18 years of age</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Generalized Anxiety Disorder-7 (GAD 7)</intervention_name>
+    <description>test that will evaluate persistent and excessive worry about a number of different things. People with Generalized Anxiety Disorder may anticipate disaster and may be overly concerned about money, health, family, work, or other issues. Individuals with Generalized Anxiety Disorder find it difficult to control their worry.</description>
+    <arm_group_label>Volunteers</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Background questionnaire</intervention_name>
+    <description>questionnaire on the living conditions, socio-professional contexts and environmental conditions of the participants</description>
+    <arm_group_label>Volunteers</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Impact of COVID-19 questionnaire</intervention_name>
+    <description>status of the patient with regard to the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2 virus)</description>
+    <arm_group_label>Volunteers</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Confinement and Communication During the COVID-19 Pandemic</intervention_name>
+    <description>know the experience of containment and isolation during the pandemic</description>
+    <arm_group_label>Volunteers</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Mental Health questionnaire</intervention_name>
+    <description>welfare effect</description>
+    <arm_group_label>Volunteers</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Patient Health Questionnaire (PHQ-9)</intervention_name>
+    <description>assess depression during the pandemic</description>
+    <arm_group_label>Volunteers</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Post Traumatic Stress Disorder questionnaire (PTSD-8)</intervention_name>
+    <description>Assessing the trauma of subjects during the pandemic</description>
+    <arm_group_label>Volunteers</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Experiences in Close Relationship Scale questionnaire (ECR-S)</intervention_name>
+    <description>Measuring social ties and attachment of subjects</description>
+    <arm_group_label>Volunteers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Health Volunteers
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult volunteer who agreed to answer the questionnaires
+
+          -  Age ≥ 18 years old
+
+          -  Adult affiliated or having a duty to a social security scheme
+
+        Exclusion Criteria:
+
+          -  Children under 18 years old
+
+          -  Inability to understand information letter, consent, or to use online questionnaire
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Claude LAMBERT, MD PhD HDR</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU Saint-Etienne</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Claude LAMBERT, MD PhD HDR</last_name>
+    <phone>(0)477120513</phone>
+    <phone_ext>+33</phone_ext>
+    <email>claude.lambert@chu-st-etienne.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fleur PETIT, CRA</last_name>
+    <phone>(0)477120826</phone>
+    <email>fleur.petit@chu-st-etienne.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Saint-Etienne</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <zip>42270</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre de Recherche et d'Innovation Clinique</name>
+      <address>
+        <city>Glasgow</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Stress</keyword>
+  <keyword>Effects on Immunity</keyword>
+  <keyword>Anxiety</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anxiety Disorders</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

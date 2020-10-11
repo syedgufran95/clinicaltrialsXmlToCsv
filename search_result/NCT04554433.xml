@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1234">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04554433</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20.08.79</org_study_id>
+    <nct_id>NCT04554433</nct_id>
+  </id_info>
+  <brief_title>New Treatment for COVID-19 Using Ethanol Vapor Inhalation .</brief_title>
+  <official_title>Disinfection of SARS-COV-2 ( COVID-19 ) in Human Respiratory Tract by Controlled Ethanol Vapor Inhalation Combined With Oral Asprin .</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mansoura University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mansoura University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Since ARDS is a major complication of COVID - 19 with subsequent formation of non-cardiogenic
+      pulmonary edema , worsening the oxygenation of the patients and foamy and even bloody sputum
+      formation, so the idea is to use alcohol inhalation as it reduce surface tension on the
+      alveoli and markedly decrease sputum formation with improvement on oxygenation beside its
+      cytolethal effect on virus lipid bilayer.
+
+      A lot of researches and publications proved the role of alcohol inhalation in treatment of
+      pulmonary edema. Alcohol inhalation may has inflammatory effect and dangerous effect on
+      patients but this can be controlled by the actual concentration used and the way we use it
+      according to general condition of the patient and with the help of anti - inflammatory action
+      of Asprin .
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Corona viruses can cause diseases in both animals and humans. Many of them typically infect
+      upper respiratory tract with minor symptoms. However, three corona viruses can infect lower
+      respiratory tract and cause fatal pneumonia; which are severe acute respiratory syndrome
+      corona virus (SARS-CoV), Middle East respiratory syndrome coronavirus (MERS-CoV) and (
+      SARS-CoV-2). SARS-CoV-2 shares 78% similarity of genetic material with SARS-CoV.
+
+      Pathophysiology of both viruses are closely similar, with destructive inflammatory response
+      resulting in airway damage. That's why, disease severity in patients depends, not only on the
+      viral infection, but also on the host response.
+
+      In many cases, this will resolve the infection. However, in other cases, immune response
+      dysfunctions and causes severe lung and systemic pathology ending to ARDS and respiratory
+      failure .
+
+      Treatment according to this protocol will be focused on using Asprin to decrease inflammatory
+      reaction weather from the virus or after using alcohol.
+
+      Alcohol will be used by different methods and concentration in order to decrease surface
+      tension on alveoli , decreasing foamy sputum secretion , increasing vascular permeability and
+      improving oxygenation .
+
+      Also the investigator will use it as a prophylaxis for health care workers to disinfect the
+      virus as soon as possible while it is present in nasal mucosa and upper airway.
+
+      Patients will be classified according to inclusion and exclusion criteria and will be divided
+      into groups and they will receive the protocol as it is designed in concentrations and
+      techniques suitable for their medical condition .
+
+      In this trial , The investigator will use 4 method to administrate Ethyl Alcohol to the
+      patient by different concentrations .
+
+        1. Inhaling alcohol vapor through nostrils .
+
+        2. Inhalation of Alcohol vapor driven by Oxygen .
+
+        3. Inhalation of Alcohol vapor driven by oxygen in case of ARDS.
+
+        4. Ethyl Alcohol infusion into the airway . In each method , the patient will be prepared
+           for one day before starting the protocol by prophylactic antibiotic , anti -
+           inflammatory , mucolytic and bronchodilators .
+
+      Investigations will be made before starting for follow up of the results .
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2020</start_date>
+  <completion_date type="Anticipated">June 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>(A) group: will receive the new protocol .
+(B) group: Will receive the standard protocol .</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disinfection of COVID-19 in human respiratory tract .</measure>
+    <time_frame>Negative PCR test within 7 days from starting the protocol .</time_frame>
+    <description>Destruction of COVID-19 in human respiratory tract and treatment of the patients with COVID 19 and Negative PCR test .</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Improvement of general condition of mechanically ventilated patients confirmed COVID-19 positive ..</measure>
+    <time_frame>Negative PCR test within 10 days from starting the protocol .</time_frame>
+    <description>Decrease mortality rate of mechanically ventilated patients with COVID-19 . Protection of health care workers . Negative PCR test .</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Covid-19</condition>
+  <condition>Drug Effect</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>A ) Treatment group will receive a combination of Asprin in anti - inflammatory dose and controlled ethanol vapor inhalation in concentraions and technique according to their medical condition .</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>B ) Control group : will receive the standard protocol . Data collection will include : sociodemographic data , clinical history , results of follow up ( daily or according to clinical situation ) Follow up : to record any side effects of drugs , and swab will be taken for PCR .</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ethanol with Asprin</intervention_name>
+    <description>Group ( A ) which will receive the new protocol will be categorized into sub-groups according to the medical conditions , inclusion criteria , investigations and symptoms .
+Inhaling alcohol vapor through nostrils .
+Inhalation of Alcohol vapor driven by Oxygen .
+Inhalation of Alcohol vapor driven by oxygen in case of ARDS.
+Ethyl Alcohol infusion into the airway . Investigations will be made before starting the protocol and follow up data will be collected every day .
+Follow up test will be done according to the schedule . PCR test will be done according to the duration of each technique to evaluate the final results .</description>
+    <arm_group_label>Intervention</arm_group_label>
+    <other_name>Controlled ethanol vapor inhalation combined with oral Asprin .</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age from 20 - 60
+
+          -  Confirmed COVID-19 positive with PCR test .
+
+          -  Admitted to Mansoura university quarantine hospital ..
+
+          -  Fever ≥ 38
+
+          -  Respiratory rate ≥ 20
+
+          -  Myalgia , Arthralgia and Sore throat .
+
+          -  Radiological findings consisting with COVID-19 .
+
+          -  Welling to participate and able to give fully informed consent. Specific inclusion
+             criteria according to the concentration and method :-
+
+               -  Inhalation of Alcohol vapor driven by Oxygen Respiratory distress ( Dyspnea -
+                  Orthopnea ) Spo2 : 65 - 85 ABG : Respiratory Alkalosis due to dyspnea and
+                  tachypnea PaO2 / FIO2 ratio &gt; 300 mmHg under the condition in the hospital room
+                  (Moderate illness).
+
+               -  Inhalation of Alcohol vapor driven by oxygen in case of ARDS. Respiratory failure
+                  . CT : lobar collapse and nodules Non cardiogenic pulmonary edema excluded by
+                  ECHO or signs of overload . PaO2 / FIO2 ratio 101 - 300 mmHg on CPAP or Vent . (
+                  Mild to moderate ARDS)
+
+               -  Ethyl Alcohol infusion into the airway PaO2 / FIO2 ratio ≤ 100 mmHg ( Sever ARDS
+                  )
+
+        Exclusion Criteria:
+
+          -  Absence of any item from inclusion criteria
+
+          -  Pregnancy .
+
+          -  Signs of dehydration , Sepsis or shortness of breathing.
+
+          -  Asthmatic patients .
+
+          -  COPD .
+
+          -  Smokers ≥ 10 years .
+
+          -  Hypersensitivity to Alcohol
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ragab</last_name>
+    <phone>+201099323347</phone>
+    <email>Dr.ezz2712@gmail.com</email>
+  </overall_contact>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 18, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mansoura University</investigator_affiliation>
+    <investigator_full_name>Ragab</investigator_full_name>
+    <investigator_title>Resident of anesthesia and surgical ICU</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Clinical trial</keyword>
+  <keyword>Ethyl alcohol vapor inhalation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ethanol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

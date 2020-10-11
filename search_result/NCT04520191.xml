@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1947">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04520191</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16-344-Enhancement</org_study_id>
+    <nct_id>NCT04520191</nct_id>
+  </id_info>
+  <brief_title>Home-based Kidney Care in Native Americans of New Mexico (HBKC) - Enhancement</brief_title>
+  <official_title>Home-based Kidney Care in Native Americans of New Mexico (HBKC) -COVID-19 Related Disruption in Health and Health Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of New Mexico</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Albuquerque area indian health board (AAIHB)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of New Mexico</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) OR COVID-19 related
+      Addition: The aim of this addition activity is to track the impact of the COVID-19 epidemic
+      on participants with diabetes and chronic kidney disease (CKD). We have modified the original
+      HBKC Study protocol to expand data currently collected from study participants to include
+      data in the following domains linked to the COVID-19 epidemic:
+
+      symptoms of COVID-19 disease, access to healthcare, and impact on health related behaviors
+      (such as medication adherence, physical activity, dietary behaviors, smoking, and alcohol
+      use).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We will administer a survey by phone or mail to all participants screened for diabetes and
+      chronic kidney disease in the original HBKC study protocol. The survey will address to the
+      following aims:
+
+      Aim 1. Develop a phone-based and or mail based survey to understand the impact of COVID19 on
+      patient-reported outcomes for adults with diabetes and CKD.
+
+      Aim 2. Test the feasibility and acceptability of this phone-based and or mail based survey in
+      the HBKC cohort.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disruption in Health care</measure>
+    <time_frame>six months</time_frame>
+    <description>Document COVID-19 disruptions in normal health care check-ups, transportation, economic status, and access to food and water.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">529</enrollment>
+  <condition>COVID-19 Realted Disruption in Patient With Diabetes and CKD</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All Native Americans (n=529) who participated in the screening for diabetes and kidney
+        disease as part of original HBKC study will be approached for this survey based study.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Willingness to participate in the phone-based and or mail based survey.
+
+        Exclusion Criteria:
+
+          -  None
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Vallabh Shah, PhD</last_name>
+    <phone>505-272-9615</phone>
+    <email>vshah@salud.unm.edu</email>
+  </overall_contact>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 20, 2020</study_first_posted>
+  <last_update_submitted>August 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 20, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of New Mexico</investigator_affiliation>
+    <investigator_full_name>Vallabh O Shah</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>CKD, Diabetes, Ameircan Indians, COVID-19,</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

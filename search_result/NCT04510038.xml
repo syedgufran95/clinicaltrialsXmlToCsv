@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1709">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04510038</url>
+  </required_header>
+  <id_info>
+    <org_study_id>152247</org_study_id>
+    <nct_id>NCT04510038</nct_id>
+  </id_info>
+  <brief_title>Colchicine vs Current Standard of Care in Hospitalized Patients With COVID-19 and Cardiac Injury</brief_title>
+  <acronym>COLHEART-19</acronym>
+  <official_title>Colchicine for the Treatment of Cardiac Injury in Hospitalized Patients With COVID-19 (COLHEART-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Miami Cardiac and Vascular Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Miami Cardiac and Vascular Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Open-label randomized study comparing the current standard of care treatment of Covid-19 in
+      hospitalized patients with evidence of cardiac injury vs. a group of the same type of
+      patients treated with colchicine plus current standard of care.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Myocardial injury has been described in up to 30% of COVID-19 infected patients, and portends
+      a poor prognosis with currently no known treatment. Colchicine is a widely available,
+      well-established, inexpensive, oral anti-inflammatory agent that has been FDA approved for
+      the treatment of inflammatory disorders including gout and familial Mediterranean Fever.
+      Trials have also shown its benefit to prevent post-cardiotomy syndrome, to treat acute and
+      recurrent pericarditis, and reduce cardiovascular events after myocardial infarction. We
+      extrapolate based on these indications and studies that colchicine may also help improve
+      outcomes in hospitalized COVID-19 patients with evidence of cardiac injury.
+
+      This is an unblinded and randomized study comparing the treatment of colchicine plus current
+      care (per institution treating physicians) as the active arm vs. current standard of care
+      alone (per institution treating physicians) as the control arm.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">January 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Active group (Colchicine plus standard of care) vs Control group (standard of care alone)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All Cause Mortality</measure>
+    <time_frame>90 days</time_frame>
+    <description>Composite of all-cause mortality</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mechanical Ventilation</measure>
+    <time_frame>90 days</time_frame>
+    <description>Need for Mechanical Ventilation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mechanical Circulatory Support</measure>
+    <time_frame>90 days</time_frame>
+    <description>Need for Mechanical Circulatory Support</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Deterioration</measure>
+    <time_frame>90 days</time_frame>
+    <description>Time to Primary Endpoint</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>90 days</time_frame>
+    <description>Number of participants with treatment-related adverse events as assessed by CTCAE v4.0&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Troponin</measure>
+    <time_frame>90 days</time_frame>
+    <description>Peak Troponin Levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delta</measure>
+    <time_frame>90 days</time_frame>
+    <description>Troponin Levels Change from Baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>BNP</measure>
+    <time_frame>90 days</time_frame>
+    <description>Change from Baseline on BNP levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in C Reactive Protein</measure>
+    <time_frame>90 days</time_frame>
+    <description>Changes from Baseline on C Reactive Protein</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LOS</measure>
+    <time_frame>90 days</time_frame>
+    <description>Hospital Length of Stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Re-Hospitalization</measure>
+    <time_frame>90 days</time_frame>
+    <description>Re-Hospitalization Rates</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in D Dimer</measure>
+    <time_frame>90 days</time_frame>
+    <description>Changes in D Dimer from Baseline</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Covid19</condition>
+  <condition>Myocardial Injury</condition>
+  <arm_group>
+    <arm_group_label>Active Colchicine Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm of Covid-19 hospitalized patients (with evidence of cardiac injury) treated with colchicine plus current standard of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Arm of Covid-19 hospitalized patients (with evidence of cardiac injury) treated with current standard of care only.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colchicine</intervention_name>
+    <description>Colchicine dosing = 0.6 mg bid x 30 days Decrease dose to 0.3-0.6 mg daily or every other day in setting of gastrointestinal intolerance (nausea, diarrhea, emesis, abdominal discomfort) Decrease dose to 0.6 mg daily in the setting of weak or moderate CYP3A4 inhibitor Decrease dose to 0.3 mg daily in the setting of strong CYP3A4, P-glycoprotein inhibitors, or protease inhibitors Decrease dose to 0.3 mg daily in the setting of CKD stage ≥ 4 (CrCl ≤ 30 ml/min) or liver failure (AST/ALT &gt; 3x normal).
+Decrease dose to 0.6 mg every 14 days in patients with end stage renal disease (ESRD) or requiring dialysis Route of Administration: oral</description>
+    <arm_group_label>Active Colchicine Arm</arm_group_label>
+    <other_name>Colcrys</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Covid-19 Standard of Care</intervention_name>
+    <description>As per treating physician</description>
+    <arm_group_label>Active Colchicine Arm</arm_group_label>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Men and Women ≥ 18 years of age
+
+          2. Cardiac injury (any of the following)
+
+               1. Elevated troponin level
+
+               2. Elevated BNP level
+
+               3. New ischemic or arrhythmogenic ECG/telemetry changes
+
+               4. New decrease in LVEF or new pericardial effusion on echocardiogram
+
+          3. Able to provide informed consent
+
+        Exclusion Criteria:
+
+          1. Pregnancy, breastfeeding mothers, and women of childbearing age who are unable to use
+             adequate contraception, which includes:
+
+               1. Intrauterine devices (IUD), contraceptive implants, or tubal sterilization
+
+               2. Hormone method with a barrier method
+
+               3. Two barrier methods
+
+               4. If a partner's vasectomy is the chosen method of contraception, a hormone or
+                  barrier method must also be used in conjunction
+
+          2. History of severe hematologic or neuromuscular disorder
+
+          3. Co-administration of CYPA3A4 and P-glycoprotein transport inhibitor
+
+          4. Severe renal impairment with concomitant hepatic impairment
+
+          5. Concurrent use of colchicine and strong or P-glycoprotein inhibitor with renal or
+             hepatic impairment
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sandra Chaparro, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Baptist Health South Florida</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Raul E Herrera, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Baptist Health South Florida</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Raul E Herrera, MD</last_name>
+    <phone>786-596-3505</phone>
+    <email>raulh@baptisthealth.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sandra Chaparro, MD</last_name>
+    <phone>786-596-3505</phone>
+    <email>sandraCH@Baptisthealth.net</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>August 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Miami Cardiac and Vascular Institute</investigator_affiliation>
+    <investigator_full_name>Raul Herrera, MD</investigator_full_name>
+    <investigator_title>Director Miami Cardiac and Vascular Institute, Research and Outcomes</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

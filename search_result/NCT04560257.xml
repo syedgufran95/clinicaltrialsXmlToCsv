@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2681">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04560257</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LGH004</org_study_id>
+    <nct_id>NCT04560257</nct_id>
+  </id_info>
+  <brief_title>High Flow Nasal Cannula HFNC In Covid-19 Patients</brief_title>
+  <acronym>HFNC19LGH</acronym>
+  <official_title>Prone Positioning and High Flow Nasal Canula (HFNC) Therapy: A Game Changer in COVID-19 Outcome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lahore General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lahore General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Many non-invasive ventilatory choices are available for COVID-19 patient who are having mild
+      to moderate respiratory distress and their use will decrease the chance of ICU admission,
+      intubation and mechanical ventilation in severe cases of COVID-19. However, all these
+      respiratory supports and oxygen supply devices are aerosol generating and their selection
+      should be precised enough to control nosocomial spread.
+
+      High flow nasal cannula HFNC is a device that delivered the warmed and humid air on high flow
+      rate through nose. It is used to treat severe respiratory distress in COVID-19 patients, a
+      non-invasive ventilatory approach which is relative comfortable by using humidified and
+      pre-heated air containing large concentration of oxygen. In acute respiratory failure HFNC is
+      proven to be very effective and it also reduced the need of mechanical ventilation in severe
+      patients. Apart from the supply of oxygen, HFNC generating positive airway pressure and
+      decreasing the rebreathing from anatomical dead space.
+
+      Prone position is also a save therapy and has been proven to be effective for refractory
+      hypoxia by increasing tidal volume, oxygenation and diaphragmatic functions in ARDS patients.
+      Recent studies showed that prone positioning and HFNC might avoid the prerequisite of
+      intubation in moderate to severe patients of ARDS and as a result it decreases the nosocomial
+      infection in physicians who are doing these aerosol generating procedures.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is observational single-center study, that will be done at Lahore General Hospital in
+      which 95 beds are allocated for COVID-19 patients including ICUs and HDUs. Ethical approval
+      will be obtained from research ethical committee of Lahore General hospital, Lahore. Informed
+      consent will be obtained from all patients who will agree to publish their data in this
+      research. We will protect patient's privacy and obey with the Helsinki Declaration.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>quasi- experimental</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical response of HFNC</measure>
+    <time_frame>10 days</time_frame>
+    <description>The number of patients treated with non-invasive ventilation devices. HFNC related events (hot air feeling, nasal lesions)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of intervention</measure>
+    <time_frame>15 days</time_frame>
+    <description>Length of HFNC therapy to COVID-19 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>15 days</time_frame>
+    <description>Number of days of hospital admission either in ICU or HDUs till date of discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supplemental Oxygen Requirement from Baseline</measure>
+    <time_frame>15 days</time_frame>
+    <description>Duration of increased supplemental oxygen requirement from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiological outcome</measure>
+    <time_frame>15 days</time_frame>
+    <description>Follow up radiological response HR-CT.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <arm_group>
+    <arm_group_label>Group intervene with HFNC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Review effect of HFNC as clinical trial among hospitalized patients with COVID-19 infection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>High flow nasal cannula HFNC</intervention_name>
+    <description>High flow nasal cannula HFNC is a device that delivered the warmed and humid air on high flow rate through nose. It is used to treat severe respiratory distress in COVID-19 patients, a non-invasive ventilatory approach which is relative comfortable by using humidified and pre-heated air containing large concentration of oxygen.</description>
+    <arm_group_label>Group intervene with HFNC</arm_group_label>
+    <other_name>HFNC</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients of &gt; 18 years of ages, males and females who will be diagnosed COVID-19
+             positive by RT-PCR with moderate illness.
+
+          -  Patients having classical radiological lesions of COVID-19 on X-ray chest or HRCT
+             chest.
+
+          -  Respiratory rate &gt; 30/ min and not responding to non-rebreather masks.
+
+          -  COVID-related pneumonia requiring non-invasive ventilatory support (high-flow nasal
+             cannula, and / or non-invasive ventilation and / or CPAP)
+
+        Exclusion Criteria:
+
+          -  Inability to provide consent;
+
+          -  Severe respiratory failure requiring invasive ventilatory support;
+
+          -  Indication of immediate tracheal intubation
+
+          -  Significant acute progressive circulatory insufficiency
+
+          -  Impaired alertness, confusion, restlessness
+
+          -  Chest trauma or other contraindication to prone position
+
+          -  Pneumothorax
+
+          -  Nasal blockade
+
+          -  Unable to tolerate high flow oxygen
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sardar Al-Fareed Zafar</last_name>
+    <role>Study Director</role>
+    <affiliation>Post-Graduate Medical Institute, Lahore General Hospital, Lahore Pakistan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Muhammad Irfan Malik, FCPS</last_name>
+    <phone>03334367220</phone>
+    <email>drmirfanmalik@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sardar Al-Fareed Zafar, FCPS</last_name>
+    <phone>03214056891</phone>
+    <email>alfareedivf@hotmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Muhammad Irfan Malik</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punjab</state>
+        <zip>54500</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Muhammad Irfan Malik, FCPS</last_name>
+      <phone>03334367220</phone>
+      <email>drmirfanmalik@hotmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sardar Al-Fareed Zafar</last_name>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <reference>
+    <citation>Whittle JS, Pavlov I, Sacchetti AD, Atwood C, Rosenberg MS. Respiratory support for adult patients with COVID-19. J Am Coll Emerg Physicians Open. 2020 Apr 13. doi: 10.1002/emp2.12071. [Epub ahead of print]</citation>
+    <PMID>32427171</PMID>
+  </reference>
+  <reference>
+    <citation>Richards M, Le Roux D, Cooke L, Argent A. The Influence of High Flow Nasal Cannulae on the Outcomes of Severe Respiratory Disease in Children Admitted to a Regional Hospital in South Africa. J Trop Pediatr. 2020 Jun 13. pii: fmaa024. doi: 10.1093/tropej/fmaa024. [Epub ahead of print]</citation>
+    <PMID>32533147</PMID>
+  </reference>
+  <reference>
+    <citation>Pinkham M, Tatkov S. Effect of flow and cannula size on generated pressure during nasal high flow. Crit Care. 2020 May 24;24(1):248. doi: 10.1186/s13054-020-02980-w.</citation>
+    <PMID>32448344</PMID>
+  </reference>
+  <reference>
+    <citation>Tu GW, Liao YX, Li QY, Dong H, Yang LY, Zhang XY, Fu SZ, Wang RL. Prone positioning in high-flow nasal cannula for COVID-19 patients with severe hypoxemia: a pilot study. Ann Transl Med. 2020 May;8(9):598. doi: 10.21037/atm-20-3005.</citation>
+    <PMID>32566624</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 23, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Lahore General Hospital</investigator_affiliation>
+    <investigator_full_name>Dr. M.Irfan Malik</investigator_full_name>
+    <investigator_title>Associate Professor of Pulmonology / Focal Person COVID-19</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>High flow nasal cannula HFNC</keyword>
+  <keyword>Clinical outcome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

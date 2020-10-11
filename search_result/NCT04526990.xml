@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1870">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04526990</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CS-CTP-AD5NCOV-Ⅲ</org_study_id>
+    <nct_id>NCT04526990</nct_id>
+  </id_info>
+  <brief_title>Phase III Trial of A COVID-19 Vaccine of Adenovirus Vector in Adults 18 Years Old and Above</brief_title>
+  <official_title>A Global Multicenter, Randomized, Double-blind, Placebo -Controlled, Adaptive Designed Phase Ⅲ Clinical Trial to Evaluate the Efficacy, Safety and Immunogenicity of Ad5-nCoV in Adults 18 Years of Age and Older</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CanSino Biologics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Beijing Institute of Biotechnology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>CanSino Biologics Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a global multicenter, randomized, double-blind, placebo -controlled, adaptive
+      designed phase Ⅲ clinical trial, in order to evaluate the efficacy, safety and immunogenicity
+      of Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector) in adults 18 years old
+      and above.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a global phase III clinical trial to evaluate efficacy,safety, immuogenicity of
+      Ad5-nCoV manufactured by Cansino and Beijing Institute of Biotechnology in health adults aged
+      18 years old and above.
+
+      The study will be double-blind, placebo-controlled trial with participants randomly allocated
+      1:1 to placebo and experimental vaccine cohorts.
+
+      The immunization schedule is one doses intramuscular injections (deltoid).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 15, 2020</start_date>
+  <completion_date type="Anticipated">January 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of COVID-19 cases</measure>
+    <time_frame>day 28 to 12 months post vaccination</time_frame>
+    <description>The efficacy of Ad5-nCoV in preventing virologically confirmed (PCR positive) COVID-19 disease</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of SAE</measure>
+    <time_frame>Within 12 months</time_frame>
+    <description>Evaluate the incidence of severe adverse events (SAE)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of severe COVID-19 cases</measure>
+    <time_frame>Day 14 to 12 months post vaccination</time_frame>
+    <description>Evaluate the efficacy of Ad5-nCoV in preventing severe COVID-19 disease caused by SARS-CoV-2 infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of solicited adverse reactions</measure>
+    <time_frame>Day 0-7 post vaccination</time_frame>
+    <description>Incidence of solicited adverse reactions within 7 days after vaccination, in a subset</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of unsolicited adverse events</measure>
+    <time_frame>Day 0-28 post vaccination</time_frame>
+    <description>Incidence of unsolicited adverse events within 28 days after vaccination in a subset</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogencity of S-RBD IgG antibody (ELISA method)</measure>
+    <time_frame>Day 28 post vaccination</time_frame>
+    <description>The seroconversion rate of S-RBD IgG antibody post vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogencity of neutralizing antibody</measure>
+    <time_frame>Day 28 post vaccination</time_frame>
+    <description>The seroconversion rate of neutralizing antibody</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cell-mediated immune profile</measure>
+    <time_frame>Day 28 post vaccination</time_frame>
+    <description>Number of cell-mediated immune response against SARS-CoV-2</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Experimental group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20000 participants, Ad5-nCoV , single dose, Intramuscular administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>20000 participants, placebo, single dose, Intramuscular administration</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector)</intervention_name>
+    <description>Intramuscular administration</description>
+    <arm_group_label>Experimental group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intramuscular administration</description>
+    <arm_group_label>Placebo group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adults of 18 years old and above.
+
+          -  Participants who are at high risk of SARS-CoV-2 infection.
+
+          -  Able and willing (in the Investigator's opinion) to comply with all study
+             requirements.
+
+          -  Willing to allow the investigators to discuss the volunteer's medical history with
+             their General Practitioner/personal doctor and access all medical records when
+             relevant to study procedures.
+
+          -  Agreement to refrain from blood donation during the study.
+
+          -  provide written informed consent.
+
+        Exclusion Criteria:
+
+          -  Participation in any other COVID-19 prophylactic drug trials for the duration of the
+             study.
+
+          -  Participation in SARS-CoV-2 serological surveys where participants are informed of
+             their serostatus for the duration of the study.
+
+          -  Planned receipt of any vaccine (licensed or investigational), other than the study
+             intervention, within 14 days before and after study vaccination.
+
+          -  Prior receipt of an investigational or licensed vaccine likely to impact on the
+             interpretation of the trial data.
+
+          -  Administration of immunoglobulins and/or any blood products within the three months
+             prior to the planned administration of the vaccine candidate.
+
+          -  Planned receipt of any vaccine (licensed or investigational), other than the study
+             intervention, within 14 days before and after study vaccination
+
+          -  Prior receipt of an investigational or licensed vaccine likely to impact on the
+             interpretation of the trial data (e.g. Adenovirus vectored vaccines, any coronavirus
+             or SARS vaccines)
+
+          -  Administration of immunoglobulins and/or any blood products within the three months
+             prior to the planned administration of the vaccine candidate
+
+          -  Any confirmed or suspected immunosuppressive or immunodeficient state; positive HIV
+             status; asplenia; recurrent severe infections and chronic use.
+
+          -  History of allergic disease or reactions likely to be exacerbated by any component of
+             Ad5-nCoV
+
+          -  Any history of angioedema
+
+          -  Any history of anaphylaxis to any vaccine component
+
+          -  Pregnancy, lactation or willingness/intention to become pregnant during the study
+
+          -  Current diagnosis of or treatment for cancer (except basal cell carcinoma of the skin
+             and cervical carcinoma in situ)
+
+          -  History of serious psychiatric condition likely to affect participation in the study
+
+          -  Suspected or known current alcohol or drug dependency
+
+          -  Severe and/or uncontrolled cardiovascular disease, respiratory disease,
+             gastrointestinal disease, liver disease, renal disease, endocrine disorder and
+             neurological illness
+
+          -  History of laboratory-confirmed COVID-19
+
+          -  Any other significant disease, disorder or finding which may significantly increase
+             the risk to the volunteer because of participation in the study, affect the ability of
+             the volunteer to participate in the study or impair interpretation of the study data.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Scott A Halperin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Canadian Center for Vaccinology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Fengcai Zhu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jiangsu Provincial Center for Disease Control and Prevention</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Joanne M angley, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Canadian Center for Vaccinology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jinbo Gou, MD</last_name>
+    <phone>+86-022-58213600-6051</phone>
+    <email>jinbo.gou@cansinotech.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Shaukat Khanum Memorial Cancer Hospital and Research Centre</name>
+      <address>
+        <city>Islamabad</city>
+        <state>Norhern Punajb Rawalpindi</state>
+        <zip>30001</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aamer Ikram SI, phD</last_name>
+      <phone>+923215170713</phone>
+      <email>maahin1@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Aamer Ikram SI, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>September 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>vaccine</keyword>
+  <keyword>Ad5</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Immunogencity</keyword>
+  <keyword>efficacy</keyword>
+  <keyword>adaptive design</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Adenovirus Vector</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

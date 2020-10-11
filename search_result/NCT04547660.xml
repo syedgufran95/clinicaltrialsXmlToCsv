@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="596">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04547660</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-0158</org_study_id>
+    <nct_id>NCT04547660</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma for Severe COVID-19 Patients</brief_title>
+  <acronym>PLACOVID</acronym>
+  <official_title>Convalescent Plasma for Severe COVID-19 Patients: a Randomized, Open-label, Phase 3 Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital de Clinicas de Porto Alegre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul, Brazil</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Instituto Cultural Floresta</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital de Clinicas de Porto Alegre</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Plasma, the supernatant part of blood, contains a variety of different proteins, including
+      immunoglobulins. These proteins, also called antibodies, are directed to previous foreign
+      infecting organisms, such as virus, bacteria or parasites. Patients recovering from
+      SARS-Cov-2 infection may develop protective antibodies which can prevent reinfection with the
+      same agent or similar organisms with shared molecular structures. Those antibodies may be
+      transferred to other patients through collection of such convalescent plasma from recovered
+      donors and its transfusion to ill patients. In this research, the primary hypothesis is that
+      those antibodies can exert passive immunization and help ameliorate symptoms from COVID-19
+      (Coronavirus Disease 2019), resulting in higher clinical improvement rates at day 28,
+      especially when administered early in the infection course.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, open-label, phase 3 clinical trial on the use of convalescent plasma
+      for severe COVID-19 patients. In this research, we are going to assess efficacy and safety of
+      convalescent plasma in the treatment of severely compromised COVID-19 patients. Convalescent
+      plasma will be collected from recovered COVID-19 patients, who will be recruited as plasma
+      donors and will be submitted to apheresis (with minimum interval of 14 days) to obtain two
+      aliquots of 300 ml of convalescent plasma, which will be frozen at -80 and stored at -20 to
+      -30 degrees Celsius. Enrolled patients will be randomized based on a concealed sequential
+      allocation list by an independent researcher which will not be aware of patients
+      characteristics, and stratified by COVID-19 severity (severe or life-threatening). There will
+      be two arms of study, intervention or control group, and patients will be followed up for the
+      next 28 days for clinical and laboratory outcomes such as improvement of disease status
+      (measured by a 6-point ordinal severity scale); mechanical ventilation, intensive care unit
+      (ICU) and total hospital stay period; cytokine levels (IL-6 and TNF-alfa) and several
+      inflammatory, cellular injury and coagulation parameters. Intervention was conceived as two
+      infusions of 300 ml of convalescent plasma, 2 days apart. Control group will receive full
+      supportive treatment but will not be allowed to receive other investigational drugs. Sample
+      size was calculated to a total of 160 patients, with a 1:1 randomization proportion between
+      groups. This amount would be capable to detect an 18% or higher difference in the proportion
+      of clinical improvement at 28 days of enrollment between intervention and control groups,
+      with an alfa error of 0.05 and a statistical power of 0.8.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 16, 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, open-label, phase 3, comparing best supportive care (BSC, no investigational drugs allowed) and convalescent plasma, along BSC.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Outcomes will be analyzed by blinded investigators. Group allocation will not be disclosed during statistical analysis.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical improvement</measure>
+    <time_frame>28 days</time_frame>
+    <description>Improvement of 2 points from randomization in a 6-point ordinal severity scale (6 points, death; 5 points, hospitalization plus extracorporeal membrane oxygenation (ECMO) or invasive mechanical ventilation; 4 points, hospitalization plus noninvasive ventilation or high-flow supplemental oxygen; 3 points, hospitalization plus supplemental oxygen (not high-flow or noninvasive ventilation); 2 points, hospitalization with no supplemental oxygen; 1 point, hospital discharge)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>6-point ordinal scale proportion at 14 days</measure>
+    <time_frame>14 days from randomization</time_frame>
+    <description>Proportions of individuals classified in each 6-point ordinal scale strata</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>6-point ordinal scale proportion at 28 days</measure>
+    <time_frame>28 days from randomization</time_frame>
+    <description>Proportions of individuals classified in each 6-point ordinal scale strata</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall mortality</measure>
+    <time_frame>14 days</time_frame>
+    <description>Death from any cause after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>Death from any cause after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and free of respiratory support (DAFOR28)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Days free of respiratory support during follow up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Duration of invasive ventilatory support (for those who received mechanical ventilation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PaO2/FiO2 ratio</measure>
+    <time_frame>At the 7th day of randomization</time_frame>
+    <description>PaO2/FiO2 ratio at 7 days of follow up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital stay</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time from randomization to hospital discharge (for 28-day survivors)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactate Dehydrogenase</measure>
+    <time_frame>Randomization day, Day 3, Day 7 and Day 14</time_frame>
+    <description>LDH (U/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Troponin I</measure>
+    <time_frame>Randomization day, Day 3, Day 7 and Day 14</time_frame>
+    <description>Troponin I (pg/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C Reactive Protein</measure>
+    <time_frame>Randomization day, Day 3, Day 7 and Day 14</time_frame>
+    <description>CRP (mg/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-Dimers</measure>
+    <time_frame>Randomization day, Day 3, Day 7 and Day 14</time_frame>
+    <description>D-Dimers (mcg/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fibrinogen</measure>
+    <time_frame>Randomization day, Day 3, Day 7 and Day 14</time_frame>
+    <description>Fibrinogen (mg/dL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prothrombin Time (PT)</measure>
+    <time_frame>Randomization day, Day 3, Day 7 and Day 14</time_frame>
+    <description>PT (seconds)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activated Partial Thromboplastin Time (APTT)</measure>
+    <time_frame>Randomization day, Day 3, Day 7 and Day 14</time_frame>
+    <description>APTT (seconds)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Necrosis Factor Alfa (TNF-Alfa)</measure>
+    <time_frame>Randomization day, Day 3, Day 7 and Day 14</time_frame>
+    <description>TNF-Alfa (pg/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin-6 (IL-6)</measure>
+    <time_frame>Randomization day, Day 3, Day 7 and Day 14</time_frame>
+    <description>IL-6 (pg/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>RT-PCR</measure>
+    <time_frame>At the 7th day of randomization (or at hospital discharge if earlier than 7 days)</time_frame>
+    <description>Nasal and Oropharyngeal Swab RT-PCR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sequential Organ Failure Assessment (SOFA) score</measure>
+    <time_frame>At the 7th day of randomization</time_frame>
+    <description>SOFA score at 7 days of randomization (ranges from 0 to 24, prognosis worsens with higher score values)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>National Early Warning Score 2 (NEWS) 2</measure>
+    <time_frame>7 and 14 days of randomization</time_frame>
+    <description>Change in NEWS 2 from randomization at 7 days and 14 days (ranges from 0 to 20, prognosis worsens with higher score values)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Adverse Events</measure>
+    <time_frame>28 days</time_frame>
+    <description>CTCAE grade 3-4 events during follow up</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Transfusion of 2 aliquots of 300 ml of frozen convalescent plasma, 2 days apart, thawed at 37 degrees Celsius before infusion. Best supportive care except for investigational interventions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Best Supportive Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Any form of ventilatory support, extracorporeal membrane oxygenation, steroids, antibiotics and other supportive measures except for investigational interventions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent Plasma</intervention_name>
+    <description>Fresh frozen plasma collected by apheresis from recovered COVID-19 patients added to best supportive care.</description>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Best Supportive Care</intervention_name>
+    <description>Any form of ventilatory support, extracorporeal membrane oxygenation, steroids, antibiotics and other supportive measures except for investigational interventions.</description>
+    <arm_group_label>Best Supportive Care</arm_group_label>
+    <arm_group_label>Convalescent Plasma</arm_group_label>
+    <other_name>Standard Treatment</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age equal to or greater than 18 yers;
+
+          2. Diagnosis of SARS-CoV-2 infection through nasal cavity or oropharynx swab RT-PCR;
+
+          3. Severe COVID-19 defined by the presence of at least 1 of the following:
+
+             A. Respiratory rate&gt; 30 breaths per minute in room air; B. Oxygen saturation (O2) ≤93%
+             in room air; C. PaO2 / FiO2 ratio ≤300; D. Need for supplemental O2 to maintain O2
+             saturation&gt; 95%; E. Need for therapy with supplemental O2 by high flow catheter or
+             non-invasive ventilation or invasive mechanical ventilation;
+
+          4. Onset of symptoms in a period not exceeding 14 days.
+
+        Exclusion Criteria:
+
+          1. Impossibility for any reason to perform the first plasma infusion within 14 days of
+             the onset of symptoms;
+
+          2. Use of immunosuppressants for other underlying diseases, except corticosteroids for
+             the SARS-CoV-2, in the last 30 days before enrollment;
+
+          3. Pregnancy;
+
+          4. History of serious adverse reactions such as transfusion anaphylaxis;
+
+          5. Participation in another interventional clinical trial;
+
+          6. Disagreement of attending physician;
+
+          7. Disagreement of the patient or legal representative to participate in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Leo Sekine, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital de Clínicas de Porto Alegre</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alexandre P Zavascki, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Federal University of Rio Grande do Sul</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Leo Sekine, PhD</last_name>
+    <phone>+555133597650</phone>
+    <email>lsekine@hcpa.edu.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Júlia P Portich, MD</last_name>
+    <phone>+555133597515</phone>
+    <email>jportich@hcpa.edu.br</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital de Clínicas de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90035-903</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leo Sekine, PhD</last_name>
+      <phone>5133597650</phone>
+      <email>lsekine@hcpa.edu.br</email>
+    </contact>
+    <contact_backup>
+      <last_name>Alexandre P Zavascki, PhD</last_name>
+      <phone>513359-7650</phone>
+      <email>azavascki@hcpa.edu.br</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <reference>
+    <citation>Salazar E, Perez KK, Ashraf M, Chen J, Castillo B, Christensen PA, Eubank T, Bernard DW, Eagar TN, Long SW, Subedi S, Olsen RJ, Leveque C, Schwartz MR, Dey M, Chavez-East C, Rogers J, Shehabeldin A, Joseph D, Williams G, Thomas K, Masud F, Talley C, Dlouhy KG, Lopez BV, Hampton C, Lavinder J, Gollihar JD, Maranhao AC, Ippolito GC, Saavedra MO, Cantu CC, Yerramilli P, Pruitt L, Musser JM. Treatment of Coronavirus Disease 2019 (COVID-19) Patients with Convalescent Plasma. Am J Pathol. 2020 Aug;190(8):1680-1690. doi: 10.1016/j.ajpath.2020.05.014. Epub 2020 May 27.</citation>
+    <PMID>32473109</PMID>
+  </reference>
+  <reference>
+    <citation>Li L, Zhang W, Hu Y, Tong X, Zheng S, Yang J, Kong Y, Ren L, Wei Q, Mei H, Hu C, Tao C, Yang R, Wang J, Yu Y, Guo Y, Wu X, Xu Z, Zeng L, Xiong N, Chen L, Wang J, Man N, Liu Y, Xu H, Deng E, Zhang X, Li C, Wang C, Su S, Zhang L, Wang J, Wu Y, Liu Z. Effect of Convalescent Plasma Therapy on Time to Clinical Improvement in Patients With Severe and Life-threatening COVID-19: A Randomized Clinical Trial. JAMA. 2020 Aug 4;324(5):460-470. doi: 10.1001/jama.2020.10044. Erratum in: JAMA. 2020 Aug 4;324(5):519.</citation>
+    <PMID>32492084</PMID>
+  </reference>
+  <reference>
+    <citation>Shen C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, Wang F, Li D, Yang M, Xing L, Wei J, Xiao H, Yang Y, Qu J, Qing L, Chen L, Xu Z, Peng L, Li Y, Zheng H, Chen F, Huang K, Jiang Y, Liu D, Zhang Z, Liu Y, Liu L. Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma. JAMA. 2020 Apr 28;323(16):1582-1589. doi: 10.1001/jama.2020.4783.</citation>
+    <PMID>32219428</PMID>
+  </reference>
+  <reference>
+    <citation>Joyner MJ, Bruno KA, Klassen SA, Kunze KL, Johnson PW, Lesser ER, Wiggins CC, Senefeld JW, Klompas AM, Hodge DO, Shepherd JRA, Rea RF, Whelan ER, Clayburn AJ, Spiegel MR, Baker SE, Larson KF, Ripoll JG, Andersen KJ, Buras MR, Vogt MNP, Herasevich V, Dennis JJ, Regimbal RJ, Bauer PR, Blair JE, van Buskirk CM, Winters JL, Stubbs JR, van Helmond N, Butterfield BP, Sexton MA, Diaz Soto JC, Paneth NS, Verdun NC, Marks P, Casadevall A, Fairweather D, Carter RE, Wright RS. Safety Update: COVID-19 Convalescent Plasma in 20,000 Hospitalized Patients. Mayo Clin Proc. 2020 Sep;95(9):1888-1897. doi: 10.1016/j.mayocp.2020.06.028. Epub 2020 Jul 19.</citation>
+    <PMID>32861333</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

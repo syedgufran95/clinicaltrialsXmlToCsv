@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3262">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04559074</url>
+  </required_header>
+  <id_info>
+    <org_study_id>283209</org_study_id>
+    <nct_id>NCT04559074</nct_id>
+  </id_info>
+  <brief_title>Personalised Electronic Record Supported Optimisation When Alone for Patients With Hypertension- Pilot Study for Remote Medical Management of Hypertension During the COVID-19 Pandemic</brief_title>
+  <official_title>Personalised Electronic Record Supported Optimisation When Alone for Patients With Hypertension- Pilot Study for Remote Medical Management of Hypertension During the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Queen Mary University of London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Closed Loop Medicine Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Innovate UK</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Queen Mary University of London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial is focusing on blood pressure control for patients with high blood pressure
+      (hypertension) during the COVID-19 pandemic when seeing a doctor for advice may be difficult.
+      The study utilises remote consultations by telephone or video conferencing. Patients record
+      blood pressure and data into an electronic diary on their phone which is reviewed in
+      consultations every 2 weeks by a clinician. Medication for this trial is amlodipine as an
+      oral solution which is uptitrated accordingly for patients receiving medication (anticipated
+      200). 800 patients will be in an observational group recording the same readings and will not
+      receive any medication.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Given the urgent need for effective monitoring and medical management of hypertension during
+      the COVID-19 pandemic, this study will test the feasibility of remote screening and
+      onboarding to remote medical management of hypertension utilizing personalised digital diary
+      record assisted optimisation of Blood Pressure control. Having remote screened a large number
+      of participants, we then test the effect of a very gentle addition of amlodipine 1mg/ml oral
+      solution to the regimes of a subgroup of asymptomatic participants with inadequate BP
+      control.
+
+      The majority of participants screened for the study will continue in follow-up and may be
+      offered further developments as may be possible through development of the digital diary and
+      a more comprehensive adaptive protocol which allows for further interventions (such as stop
+      meds at onset of symptoms, or swap on or off ACE/ARB medications etc). Remote monitoring of
+      blood pressure has been shown in times of normal healthcare access to improve blood pressure
+      control, we will assess if the digital diary allows us to help during lockdown/reduced
+      healthcare access and improve blood pressure with amlodipine without the need for blood tests
+      or social contact.
+
+      Amlodipine is a calcium-channel blocking drug which reduces blood pressure by relaxing blood
+      vessels (especially veins) but this same effect makes it prone to causing fluid accumulation
+      (oedema) in the lower limbs. There is a large amount of evidence on its effectiveness and
+      safety in reducing blood pressure and in treating stable angina. There appears to be a close
+      relationship between wanted and unwanted effects. Finding the best dose of amlodipine for a
+      patient could be useful in optimizing their blood pressure treatment. At present the tablet
+      doses available are only 5mg and 10mg in the UK. The present study will also investigate the
+      tolerability of side effects and the relationship of these to the prescribed dose of
+      amlodipine. It will measure the side effects of ankle swelling, headache and any other
+      reported side effects using visual analogue scales. The study will utilise a selection of
+      questionnaires to investigate the relationship between participant beliefs about medicines
+      and participants' adherence. The hypothesis of the study is that participants' tolerability
+      of side effects (as measured by VAS) will be related to their beliefs about the necessity of
+      medication (necessity concerns), their concerns about side effects and their adherence to
+      medication.
+
+      Participants with uncontrolled blood pressure (systolic =&gt;140 mmHg and/or diastolic =&gt;90
+      mmHg) on their existing prescription antihypertensive (&gt;= 1 drug) are eligible for the
+      interventional arm of this study. This interventional arm of this study will assess
+      introduction and titration of amlodipine doses within the current maximum licensed dose of
+      10mg (although higher doses are used in specialist clinics for selected participants).
+      Amlodipine liquid formulation (oral solution) will be used to permit dosing in 1-2mg
+      intervals for optimization of blood pressure control and side effects. Participants will use
+      their standard home blood pressure monitors (a home blood pressure monitor can be provided as
+      appropriate) and will be asked to measure their blood pressure in the morning (three
+      readings) before taking their antihypertensive medication (trough treatment) and again in the
+      evening (three readings).
+
+      Participants will participate in remote teleconference consultations (telephone or electronic
+      platform according to participant preference and familiarity, such as Zoom/MS Teams/
+      WhatsApp/ Facetime) with the William Harvey Clinical Research Centre (WHCRC) at least
+      2-weekly, following initial (remote) screening with clinical history taking, review of home
+      blood pressure measurements and a thorough review of all information reported by the
+      participant in the digital diary from a 5 day run-in period (see Section 11.6). Remote
+      consultations remain frequent for those participants with poor BP control, but will be less
+      frequent (monthly) for those who have stable blood pressure (defined as above BP&lt;= 140/90)
+      and are followed in the observational arm of the study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 30, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reductions in blood pressure in participants with primary hypertension and inadequate BP control by up-titration of amlodipine in 1-2 mg increments.</measure>
+    <time_frame>3 months</time_frame>
+    <description>The primary objective of the study is to assess precision dosing of amlodipine to deliver reductions in blood pressure in participants with primary hypertension and inadequate BP control by up-titration of amlodipine in 1-2 mg increments.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in daily DBP</measure>
+    <time_frame>3 months</time_frame>
+    <description>Other clinically significant blood pressure measures which related to difference in measured blood pressure between baseline and EOS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference between mean changes of blood pressure</measure>
+    <time_frame>3 months</time_frame>
+    <description>Difference between mean changes of blood pressure between interventional and observational cohorts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Collect data on tolerability / side effects</measure>
+    <time_frame>3 months</time_frame>
+    <description>Reports of side effects using digital diary</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Hypertension</condition>
+  <arm_group>
+    <arm_group_label>Interventional</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intervention group will receive Amlodipine 1mg/ml Oral Solution; starting dose 1-2mg per day for patients not on amlodipine at entry. Participants will take the prescribed dosage daily. Dosage will be reviewed on a fortnightly basis and adjusted as necessary. The total duration is 3 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Observational</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This group will record blood pressure readings and data on a daily basis for a total of 3 months. They will not take any medication. They will be reviewed on a monthly basis in consultations.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amlodipine</intervention_name>
+    <description>Amlodipine 1mg/ml Oral Solution; starting dose 1-2mg per day for patients not on amlodipine at entry; starting dose equivalent to current dose for patients on amlodipine at entry or at next 1-2mg dose step (according to clinical need based on the Investigator's judgement). Investigation of whether gradually increasing the dose of liquid amlodipine (can be an add-on to existing amlodipine tablets) in small increments (e.g. 1-2mg) will enable blood pressure control within the sequence 1mg, 2mg, 3mg, 4mg, 5mg, 6mg, 7mg, 8mg, 9mg to a maximum of 10mg amlodipine per day.</description>
+    <arm_group_label>Interventional</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥18 years.
+
+          -  Informed consent.
+
+          -  Possession of a working smart phone that participant is able to independently use.
+
+          -  Smartphone to support iOS versions 10.0 and newer or to support Android versions 5.0
+             (Lollipop) and newer.
+
+          -  Smartphone to have minimum storage space required to install the digital diary: 250MB.
+
+          -  Smartphone must have enough memory to run the digital diary.
+
+          -  Either:
+
+          -  Participant account of a diagnosis of hypertension consistent with NICE/BIHS criteria
+             on either 24h ABPM or repeated home measures of blood pressure, ideally prior to
+             treatment.
+
+        Or •Current treatment with antihypertensive medication.
+
+        For the intervention study cohort
+
+          -  Sub-optimal blood pressure control defined as average systolic blood pressure of
+             140mmHg or greater, and/or average diastolic blood pressure of 90mmHg or greater
+             during the 5 days run-in period.
+
+          -  Stable antihypertensive medication during assessment of eligibility.
+
+        For the observational study cohort
+
+        • Average systolic blood pressure of less than 140mmHg and average diastolic blood pressure
+        of less than 90mmHg during the 5 days run-in period
+
+        Exclusion Criteria:
+
+          -  Current infection, or symptoms suggestive of SARS-2 COVID-19 at the time of screening
+             (rescreening when recovered is allowed).
+
+          -  Known severe adverse reaction to amlodipine.
+
+          -  Currently receiving &gt;=10mg /day amlodipine.
+
+          -  Participation in another clinical trial, where the participant has received IMP in the
+             last three months, with the exception of the MRC Aim-Hy study (IRAS: 199550, REC:
+             16/EE/0294) where participants can be screened after 6 weeks from final visit.
+
+          -  Pregnant or lactating or female of childbearing* potential not using adequate
+             contraception (defined as oral contraceptive pill, IntraUterine Device, double barrier
+             methods or abstinence as a clearly defined lifestyle choice).
+
+          -  Participants who have too limited or no understanding of spoken and/or written English
+             in the opinion of the investigator
+
+          -  Participants who have hypersensitivity to dihydropyridine derivatives, amlodipine or
+             to any of the excipients.
+
+          -  Participants with obstruction of the outflow tract of the left ventricle (e.g. high
+             grade aortic grade stenosis).
+
+          -  Participants with a known intolerance of fructose, sugar, glycerol, maltitol liquid.
+
+        (Liquid amlodipine is classed as sugar free, whereas the standard tablet contains lactose).
+
+          -  Co-morbidities incompatible with study participation e.g. that result in a participant
+             being unable to complete daily entries satisfactorily via his/her smart phone.
+
+          -  Participants lacking capacity .
+
+          -  Unstable Heart failure (e.g. after myocardial infarction).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Collier</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Queen Mary University of London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Collier</last_name>
+    <phone>020 7882 5666</phone>
+    <email>d.j.collier@qmul.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>CVC CTU</last_name>
+    <phone>0207 882 6838</phone>
+    <email>cvctu@qmul.ac.ul</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Amlodipine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Fully anonymised data will be shared with fellow researchers via conference presentation and via publication of the results in scientific journals. Pseudonymised data will be shared between the research teams named in the application.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

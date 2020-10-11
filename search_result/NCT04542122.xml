@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2915">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542122</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1474</org_study_id>
+    <nct_id>NCT04542122</nct_id>
+  </id_info>
+  <brief_title>Moral Judgements and Choices of Caregivers in the Time of COVID-19 Pandemic</brief_title>
+  <acronym>XPHI-COVID19</acronym>
+  <official_title>Moral Judgements and Choices of Caregivers in the Time of COVID-19 Pandemic: a Randomized Experimental Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Caen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Geneva, Switzerland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Caen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The XPHI-COVID19 randomized study aims to investigate the mechanisms of moral judgements in a
+      population of caregivers, using a survey, with the results to the Oxford Utilitarianism Scale
+      as primary outcome.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 3, 2020</start_date>
+  <completion_date type="Anticipated">August 2, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Oxford Utilitarianism Scale</measure>
+    <time_frame>Up to one year</time_frame>
+    <description>Two-Dimensional Model of Utilitarian Psychology</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Morals</condition>
+  <arm_group>
+    <arm_group_label>Choices then judgements</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Judgements then choices</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Switch in the order of clinical cases in the survey</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Choices and judgements</intervention_name>
+    <description>In the intervention arm, the participant is asked to answer clinical cases in a reverse order from the control group (control has to make moral choices then judge somebody else's choices ; intervention has to judge moral choices first, then make his own)</description>
+    <arm_group_label>Judgements then choices</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All caregivers from french public healthcare center with Intensive Care Unit
+
+          -  Agreement
+
+        Exclusion Criteria:
+
+          -  Refuse to participate or withdraw agreement
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clement GAKUBA, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Caen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clement GAKUBA, MD PhD</last_name>
+    <phone>+33231064736</phone>
+    <email>gakuba-c@chu-caen.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Florian COVA, PhD</last_name>
+    <email>Florian.Cova@unige.ch</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Kahane G, Everett JAC, Earp BD, Caviola L, Faber NS, Crockett MJ, Savulescu J. Beyond sacrificial harm: A two-dimensional model of utilitarian psychology. Psychol Rev. 2018 Mar;125(2):131-164. doi: 10.1037/rev0000093. Epub 2017 Dec 21. Review. Erratum in: Psychol Rev. 2018 Mar;125(2):164.</citation>
+    <PMID>29265854</PMID>
+  </reference>
+  <reference>
+    <citation>Garbutt G, Davies P. Should the practice of medicine be a deontological or utilitarian enterprise? J Med Ethics. 2011 May;37(5):267-70. doi: 10.1136/jme.2010.036111. Epub 2011 Jan 29.</citation>
+    <PMID>21278402</PMID>
+  </reference>
+  <reference>
+    <citation>Conway P, Goldstein-Greenwood J, Polacek D, Greene JD. Sacrificial utilitarian judgments do reflect concern for the greater good: Clarification via process dissociation and the judgments of philosophers. Cognition. 2018 Oct;179:241-265. doi: 10.1016/j.cognition.2018.04.018. Epub 2018 Jul 2.</citation>
+    <PMID>30064654</PMID>
+  </reference>
+  <reference>
+    <citation>Einav S, Benoit DD. Focus on ethics of admission and discharge policies and conflicts of interest. Intensive Care Med. 2019 Aug;45(8):1130-1132. doi: 10.1007/s00134-019-05673-3. Epub 2019 Jul 2.</citation>
+    <PMID>31267194</PMID>
+  </reference>
+  <reference>
+    <citation>Emanuel EJ, Persad G, Upshur R, Thome B, Parker M, Glickman A, Zhang C, Boyle C, Smith M, Phillips JP. Fair Allocation of Scarce Medical Resources in the Time of Covid-19. N Engl J Med. 2020 May 21;382(21):2049-2055. doi: 10.1056/NEJMsb2005114. Epub 2020 Mar 23.</citation>
+    <PMID>32202722</PMID>
+  </reference>
+  <reference>
+    <citation>Truog RD, Mitchell C, Daley GQ. The Toughest Triage - Allocating Ventilators in a Pandemic. N Engl J Med. 2020 May 21;382(21):1973-1975. doi: 10.1056/NEJMp2005689. Epub 2020 Mar 23.</citation>
+    <PMID>32202721</PMID>
+  </reference>
+  <reference>
+    <citation>Leclerc T, Donat N, Donat A, Pasquier P, Libert N, Schaeffer E, D'Aranda E, Cotte J, Fontaine B, Perrigault PF, Michel F, Muller L, Meaudre E, Veber B. Prioritisation of ICU treatments for critically ill patients in a COVID-19 pandemic with scarce resources. Anaesth Crit Care Pain Med. 2020 Jun;39(3):333-339. doi: 10.1016/j.accpm.2020.05.008. Epub 2020 May 17.</citation>
+    <PMID>32426441</PMID>
+  </reference>
+  <reference>
+    <citation>Rosenbaum L. Facing Covid-19 in Italy - Ethics, Logistics, and Therapeutics on the Epidemic's Front Line. N Engl J Med. 2020 May 14;382(20):1873-1875. doi: 10.1056/NEJMp2005492. Epub 2020 Mar 18.</citation>
+    <PMID>32187459</PMID>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>August 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>morals</keyword>
+  <keyword>ethics</keyword>
+  <keyword>moral judgements</keyword>
+  <keyword>moral choices</keyword>
+  <keyword>covid 19</keyword>
+  <keyword>survey</keyword>
+  <keyword>utilitarianism</keyword>
+  <keyword>deontology</keyword>
+  <keyword>oxford utilitarianism scale</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

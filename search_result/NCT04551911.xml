@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2118">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04551911</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTAP101-CL-2014</org_study_id>
+    <nct_id>NCT04551911</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of Rayaldee for Treating Mild to Moderate COVID-19</brief_title>
+  <official_title>A Randomized, Double-Blind Placebo-Controlled Study to Evaluate the Safety and Efficacy of Rayaldee (Calcifediol) Extended-release Capsules to Treat Symptomatic Patients Infected With SARS-CoV-2 (REsCue)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OPKO Health, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>OPKO Health, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 2, single or multi-center, randomized, double-blind placebo-controlled study
+      to evaluate the safety and efficacy of Rayaldee (CTAP101 Capsules) to treat adult subjects
+      with mild to moderate COVID-19 who test positive for SARS-CoV-2 via nasopharynx swab and
+      subsequent reverse transcription polymerase chain reaction (RT-PCR).
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Severity and duration of disease as evidenced by COVID-19 symptoms using the FLU-PRO© questionnaire.</measure>
+    <time_frame>42 days</time_frame>
+    <description>The FLU- PRO© questionnaire was specifically designed and validated to evaluate in clinical trials the presence, severity and duration of symptoms associated with viral infections. It contains 32 items (eg, felt hot, sweating, headache), grouped into 6 domains, that provide a comprehensive evaluation of such symptoms, using 5-point scales (values ranging from 0 to 4) with higher scores indicating worse symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Concentration of serum total 25-hydroxyvitamin D maintained at or above 50 ng/mL.</measure>
+    <time_frame>28 days</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>Covid19</condition>
+  <condition>Coronavirus</condition>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>30 mcg calcifediol Extended-Release (ER) Capsule</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will be instructed to take a loading dose of 10 capsules (300 mcg) of study drug per day on Days 1, 2 and 3 at bedtime after fasting for at least 3 hours following dinner, with any nonalcoholic liquid, by the oral route. On Days 4-27, subjects will take a maintenance dose of 2 capsules per day at bedtime unless otherwise directed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>0 mcg calcifediol Extended-Release (ER) Capsule</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects will be instructed to take a loading dose of 10 capsules (0 mcg) of study drug per day on Days 1, 2 and 3 at bedtime after fasting for at least 3 hours following dinner, with any nonalcoholic liquid, by the oral route. On Days 4-27, subjects will take a maintenance dose of 2 capsules per day at bedtime unless otherwise directed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rayaldee 30Mcg Extended-Release (ER) Capsule</intervention_name>
+    <description>Rayaldee 30Mcg Extended-Release (ER) Capsule</description>
+    <arm_group_label>30 mcg calcifediol Extended-Release (ER) Capsule</arm_group_label>
+    <other_name>CTAP101 Capsule</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>0Mcg Extended-Release (ER) Capsule</description>
+    <arm_group_label>0 mcg calcifediol Extended-Release (ER) Capsule</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Male or female ≥18 years of age
+
+          2. Confirmed within the past 3 days to have SARS-CoV-2 infection as evidenced by a
+             positive nasopharyngeal swab test using RT-PCR
+
+          3. Confirmed to have only mild or moderate COVID-19 based on a FLU-PRO© score of ≥ 1.5
+             for each of the chest/respiratory and body/systemic domains, and the absence of
+             clinical signs indicative of more severe disease (eg, oxygen saturation &lt; 94% on room
+             air or respiration rate &gt; 30 bpm)
+
+          4. Represents on self-assessment that the current COVID-19 symptoms are not consistent
+             with usual health and that they are the same or worse than on the previous day
+
+          5. Willing to limit the use of vitamin D therapies or supplements except for normally
+             fortified food products (eg, milk) during the course of the 6-week study
+
+          6. Must demonstrate the ability to comply with all study requirements
+
+          7. Must be without any disease state or physical condition that might impair evaluation
+             of safety or which, in the investigator's opinion, would interfere with study
+             participation.
+
+        Exclusion Criteria:
+
+          1. Clinical signs indicative of severe or critical COVID-19 disease (eg, oxygen
+             saturation &lt; 94% on room air or respiration rate &gt; 30 bpm)
+
+          2. Pregnant or lactating women who are breastfeeding
+
+          3. Use of systemic glucocorticoid medications in the last six months
+
+          4. Recent history (previous 12 months) of primary hyperparathyroidism, kidney stones,
+             hypercalciuria and/or hypercalcemia
+
+          5. History of a chronic granuloma-forming disease (eg, sarcoidosis)
+
+          6. History of tuberculosis or histoplasmosis
+
+          7. History of chronic liver disease
+
+          8. History (previous 12 months) of cardiac event indicative of chronic cardiovascular
+             diseases including congestive heart failure, poorly controlled hypertension and
+             arrhythmias
+
+          9. History in the past five years of multiple myeloma or carcinoma of the breast, lung or
+             prostate
+
+         10. Any surgical or medical condition which might significantly alter the absorption,
+             distribution, metabolism, or excretion of vitamin D or 25-hydroxyvitamin D (eg, small
+             bowel resection, history of Crohn's disease or ulcerative colitis)
+
+         11. Ongoing treatment with thiazide diuretics
+
+         12. History of hyperphosphatemia, hyperuricemia and gout
+
+         13. Renal impairment measured as eGFR&lt; 15 mL/min/1.73m² on serum creatinine in the last
+             three months
+
+         14. Serum calcium ≥9.8 mg/dL in the last three months
+
+         15. Evidence of existing or impending dehydration
+
+         16. Known or suspected to have hypersensitivity to any of the constituents of the study
+             drug
+
+         17. Currently participating in, or have participated in, an interventional/investigational
+             study within 30 days prior to study screening.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Akhtar Ashfaq, MD FACP FASN</last_name>
+    <role>Study Director</role>
+    <affiliation>OPKO Health, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lawrence Reiter, PhD RQAP-GCP</last_name>
+    <phone>416-263-1225</phone>
+    <email>LReiter@opko.com</email>
+  </overall_contact>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 16, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Calcifediol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

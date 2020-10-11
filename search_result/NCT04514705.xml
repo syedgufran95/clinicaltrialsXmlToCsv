@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2950">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04514705</url>
+  </required_header>
+  <id_info>
+    <org_study_id>F110820</org_study_id>
+    <nct_id>NCT04514705</nct_id>
+  </id_info>
+  <brief_title>Characteristics in Post Covid-19 Patients</brief_title>
+  <official_title>Clinical Respiratory Investigation in Post Covid-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidade Metodista de Piracicaba</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidade Metodista de Piracicaba</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate pulmonary changes and the results of a cardiopulmonary rehabilitation protocol
+      (CPRP) in patients after SARS-VOC-2 infection. Clinical trial type study to be conducted
+      between 2020 and 2024 involving clinical-functional cardiopulmonary imaging and blood
+      transcriptome profile: before CPRP (T1), 2 months after CPRP (T2) and 1 year later (T3).
+      Expected results: a) clinical, image and transcriptome changes; b) clinical-functional
+      improvement after CPRP.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 11, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Exercise</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Characteristics of lung</measure>
+    <time_frame>post treatment in 3 days</time_frame>
+    <description>In the supine position, the patient will perform deep inspiration followed by momentary apnea inside the high resolution scanner to capture cross-sectional images of the chest with smaller cuts than 1mm of collimation which helped in the detection of even small lesions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Respiratory muscle strength</measure>
+    <time_frame>post treatment in 3 days</time_frame>
+    <description>Respiratory muscle strength will be assessed using the digital manovacuometer. The measurement will be performed as follows the patient will be asked to empty the lungs to the residual volume and then perform an inhalation until the total lung capacity.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <arm_group>
+    <arm_group_label>Intervention Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The exercises performed will attend the musculoskeletal dimension of the body, which includes the muscular strength / endurance indexes, which is part of the functional-motor dimension of physical fitness related to health. The protocol will be applied in the form of sessions lasting approximately 50 minutes, performed three times a week on alternate days, for a period of 6 weeks, totaling 20 sessions. For aerobic exercises, a treadmill will be used and for anaerobic exercises, four exercises involving muscle mobility / strength in upper and lower limbs will be performed at weight training station.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Exercise</intervention_name>
+    <description>Exercise with treadmil and weight training station</description>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  With confirmed diagnosis for SARS-COV-2.
+
+        Exclusion Criteria:
+
+          -  With any type of simultaneous pneumopathy.
+
+          -  Patients with autoimmune disease
+
+          -  People with simultaneous infectious diseases
+
+          -  Pregnant women
+
+          -  With degenerative diseases of the nervous system or musculoskeletal system
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Luiz F Falcão, PhD</last_name>
+    <phone>+559198237-9488</phone>
+    <email>fabiofalcao29@yahoo.com.br</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Universidade do Estado do Pará</name>
+      <address>
+        <city>Belém</city>
+        <state>Pará</state>
+        <zip>66055-490</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rodrigo S Rocha, Phd</last_name>
+      <phone>91992340234</phone>
+      <email>fisiorocha2000@yahoo.com.br</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <results_reference>
+    <citation>Kamalakannan S, Chakraborty S. Occupational therapy: The key to unlocking locked-up occupations during the COVID-19 pandemic. Wellcome Open Res. 2020 Jul 1;5:153. doi: 10.12688/wellcomeopenres.16089.1. eCollection 2020.</citation>
+    <PMID>32766458</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Torliński T, Rakasz L, Wysota B, Czyż M, Snelson C. An interdisciplinary approach to the management of critically ill patients during covid-19 pandemic; an experience of a university hospital in England. Wiad Lek. 2020;73(7):1576-1579.</citation>
+    <PMID>32759457</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Rooney S, Webster A, Paul L. Systematic Review of Changes and Recovery in Physical Function and Fitness After Severe Acute Respiratory Syndrome-Related Coronavirus Infection: Implications for COVID-19 Rehabilitation. Phys Ther. 2020 Sep 28;100(10):1717-1729. doi: 10.1093/ptj/pzaa129.</citation>
+    <PMID>32737507</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Saeki T, Ogawa F, Chiba R, Nonogaki M, Uesugi J, Takeuchi I, Nakamura T. Rehabilitation Therapy for a COVID-19 Patient Who Received Mechanical Ventilation in Japan. Am J Phys Med Rehabil. 2020 Oct;99(10):873-875. doi: 10.1097/PHM.0000000000001545.</citation>
+    <PMID>32732744</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Grigoletto I, Cavalheri V, Lima FF, Ramos EMC. Recovery after COVID-19: The potential role of pulmonary rehabilitation. Braz J Phys Ther. 2020 Jul 19. pii: S1413-3555(20)30560-8. doi: 10.1016/j.bjpt.2020.07.002. [Epub ahead of print]</citation>
+    <PMID>32723665</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Abdullahi A, Bello B, Mukhtar NB, Kaka B, Abba MA, Usman JS, Shittu A, Mayana KI, Maiwada SA, Mohammed J. Physiotherapy management of COVID-19 in Africa: Ongoing efforts, challenges, and future directions. Physiother Theory Pract. 2020 Aug;36(8):871-872. doi: 10.1080/09593985.2020.1798163. Epub 2020 Jul 29.</citation>
+    <PMID>32723204</PMID>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 17, 2020</study_first_posted>
+  <last_update_submitted>August 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidade Metodista de Piracicaba</investigator_affiliation>
+    <investigator_full_name>Rodrigo Santiago Barbosa Rocha, Phd</investigator_full_name>
+    <investigator_title>Director of Human Movement Department</investigator_title>
+  </responsible_party>
+  <keyword>Rehabilitation</keyword>
+  <keyword>Coronavirus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

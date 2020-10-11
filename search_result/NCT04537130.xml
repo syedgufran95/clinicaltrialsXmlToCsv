@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1648">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04537130</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PANIN3BIO/IN01_COVID19_01</org_study_id>
+    <secondary_id>2020-002874-28</secondary_id>
+    <nct_id>NCT04537130</nct_id>
+  </id_info>
+  <brief_title>Vaccination of Ex-acute COVID-19 Patients With Fibrosing Lung Syndrome at Discharge</brief_title>
+  <acronym>COVINVAC</acronym>
+  <official_title>Phase Ib Controlled Exploratory Trial for Treatment of Fibrosing Interstitial Lung Disease Patients Secondary to SARS-CoV-2 Infection With IN01 Vaccine (COVINVAC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto Oncológico Dr Rosell</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>IN3BIO</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>PANGAEA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Instituto Oncológico Dr Rosell</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Methodology:
+
+      This is a controlled, randomized, multicenter open-label Phase Ib clinical exploratory trial
+      in patients with fibrosing interstitial lung disease secondary to SARS-CoV-2 infection.
+
+      Patients who give informed consent will be screened for enrolment in the study. Patients that
+      meet the eligibility criteria will be enrolled and randomly allocated in the control arm
+      (best standard of care) or the experimental arm (best standard of care plus IN01
+      vaccination).
+
+      The patients enrolled in the control arm of the study will receive standard of care.
+
+      The primary endpoint is safety, measured by the Frequency and severity of AEs graded
+      according to Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0 criteria.
+      Biochemical and blood count alterations will be also monitored. Safety will be defined based
+      on the frequency and severity of adverse events (AEs) throughout the patient's participation
+      in the study comparing between control and experimental arms.
+
+      Efficacy will be measured as function of the annual rate of decline in the Forced Vital
+      Capacity (FVC) at 1 year after patient inclusion in the study and the blood oxygen saturation
+      levels at days 1, 14 (w2), d 28 (w4), 42 (w6) and 92 (w12); week 24, week 36 and week 52.
+      High-resolution Computed Tomography (CT) scans will be taken at at baseline and weeks, 12,
+      24, and 52 to evaluate the resolution of the fibrosing interstitial lung disease.
+
+      A translational substudy will be included.
+
+      Objectives:
+
+      Primary Objective
+
+      ● To evaluate the safety and tolerability of IN01 vaccine in diagnosed ex-COVID-19 patients
+      that develop fibrotic lung syndrome after infection.
+
+      Secondary Objectives
+
+        -  To evaluate the effect of IN01 vaccine on Oxygen saturation, pulmonary function, quality
+           of life and fibrosing status in ex-COVID-19 patients that developed fibrosing lung
+           disease after infection.
+
+        -  To assess biomarkers and molecular markers related to the IN01 vaccine mechanism of
+           action.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2020</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The trial will enroll 40 patients to be treated with either standard of care (control arm) or IN01 vaccine (experimental arm). Patients will be randomized in a 5:3 ratio to achieve 25 patients allocated in the experimental vs 15 patients in the control arm.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety (Frequency/severity of AEs)</measure>
+    <time_frame>Through study completion, average 1 year</time_frame>
+    <description>Frequency and severity of AEs graded according to Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0 criteria and hematological alterations that are clinical relevant under physician criteria. Data will be presented as number of AEs classified by severity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen saturation</measure>
+    <time_frame>baseline and days 1, 14 (w2), 28 (w4), 42 (w6) and 92 (w12); week 24, week 36 and week 52</time_frame>
+    <description>blood oxygen levels will be measured by a pulse oximeter</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life (QoL)</measure>
+    <time_frame>baseline and weeks 2, 12, 24, 36 and 52</time_frame>
+    <description>St George QoL questionnaire: Disease-specific questionnaire designed to measure impact on overall health, daily life, and perceived well-being in patients with obstructive airways disease. Scores range from 0 to 100, with higher scores indicating more limitations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fibrotic pulmonary extension (measured as the size of the lesions)</measure>
+    <time_frame>baseline and weeks, 12, 24, and 52</time_frame>
+    <description>High-resolution CT to follow fibrotic pattern reviewed by a central radiologist</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Pulmonary Fibrosis</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Experimental</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The investigational medical product, the IN01 vaccine, will be administered in two phases to those patients in the experimental arm: the induction phase and the maintenance phase. During the induction phase IN01 vaccine will be administered on day 1 and will be repeated on Day 14, Day 28, Day 42 and day 56. During the maintenance phase, the vaccination will be administered every 2 months with the same dosage and administration mode as during induction.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The patients enrolled in the control arm of the study will receive standard of care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>IN01 vaccine</intervention_name>
+    <description>INO1 vaccine is a biological compound comprising generated and purified from recombinant bacteria culture that contains a protein consisting of EGF-4-EGF portion and the Cholera Toxin B-Subunit Domain G33D sequence (CTB-G33D) separated by 4 amino acids and 14 amino acids respectively glycine/serine-rich linkers.
+IN01 is a recombinant growth factor fusion molecule which, once injected into the patient, stimulates the immune system to produce polyclonal anti-Epidermal Growth Factor (anti-EGF) neutralizing antibodies. This vaccine-led active immunisation is a new approach to target the growth factor pathways allowing for combinations with other small molecule inhibitors in order to obtain a sustained efficacy with an acceptable toxicity.
+The vaccine inhibits binding of circulating Epidermal Growth Factor (EGF) to its receptor, EGF-R to block downstream activation of cell signaling pathways contributing to tumor growth or other pathophysiologies such as fibrosis.</description>
+    <arm_group_label>Experimental</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Written informed consent approved by the investigator's Institutional Review Board
+             (IRB)/Independent Ethics Committee (IEC), prior to the performance of any trial
+             activities.
+
+          2. Age 18 years or older.
+
+          3. Patients with positive RT-PCR or IGm/IGG blood test for SARS-CoV-2 prior to the
+             inclusion in the study.
+
+          4. Patients that have pneumonia associated to SARS-CoV-s infection prior to
+             randomization.
+
+          5. Patients having respiratory dysfunction after SARS-CoV-2 infection and abnormal CT
+             chest imaging.
+
+          6. Patients previously under high flow nasal cannula or non-invasive ventilation, or
+             supplementary oxygen, during hospitalization for COVID-19.
+
+          7. Increased EGF level (more than 200 picogram/ml).
+
+          8. Negative serum pregnancy test at screening for women of childbearing potential.
+
+          9. Highly effective contraception for both male and female subjects throughout the study
+             and for at least 3 months after last IMP treatment administration if the risk of
+             conception exists.
+
+        Exclusion Criteria:
+
+          1. Patients with previous IPF, Autoimmune disease or connective tissue diseases (CTD).
+
+          2. Known of previous clinically significant pulmonary abnormalities that may interfere
+             with the measurement of study variables in the opinion of the investigator as ILD, or
+             chronic respiratory failure.
+
+          3. Other investigational therapy received within 1 month or 6 half-lives (whichever was
+             greater) in the context of a clinical study.
+
+          4. Included a physician's decision that involvement in the trial was not in the patient's
+             best interest.
+
+          5. Presence of any condition that would not allow the protocol to be followed safely.
+
+          6. Any mental health condition, that may interfere in the normal development of the study
+             according to physician criteria.
+
+          7. Known hypersensitivity to the trial medication or its components
+
+          8. Other disease that may interfere with testing procedures or may put the patient at
+             risk when participating in this trial in the judgment of the Investigator.
+
+          9. Women who are pregnant, nursing, or who plan to become pregnant while in the trial.
+
+             Women of childbearing potential* not willing or able to use highly effective methods
+             of birth control per ICH M3 (R2) that result in a low failure rate of less than 1% per
+             year when used consistently and correctly as well as one barrier method for 28 days
+             prior to and 3 months after experimental treatment administration. A list of
+             contraception methods meeting these criteria is provided in the patient information.
+
+         10. Active alcohol or drug abuse in the opinion of the investigator.
+
+         11. Any other reason that the investigator deems to be incompatible with the
+             patient'sparticipation in study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pablo Rubinstein, MD, MSc, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital El Pilar</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Federico Nepote</last_name>
+    <phone>934344412</phone>
+    <email>investigacion@mfar.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Verónica Roca</last_name>
+    <phone>934344412</phone>
+    <email>investigacion@mfar.net</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital El Pilar</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Investigator Selected by Sponsor</last_name>
+      <phone>934344412</phone>
+      <email>investigacion@mfar.net</email>
+    </contact>
+    <investigator>
+      <last_name>Investigator Selected by Sponsor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 3, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>EGF</keyword>
+  <keyword>Fibrosis secondary to Covid19 infection</keyword>
+  <keyword>IN01 vaccine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulmonary Fibrosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

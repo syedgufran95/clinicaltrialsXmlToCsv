@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1325">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04568356</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E25001_NEU2012</org_study_id>
+    <nct_id>NCT04568356</nct_id>
+  </id_info>
+  <brief_title>A Clinical Evaluation of COVID-19 Rapid Point of Care Antigen Tests</brief_title>
+  <official_title>A Clinical Performance Evaluation of the SARS-COV-2 Direct Antigen Rapid Test &quot;DART&quot;</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>E25Bio, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>SCRI Development Innovations, LLC</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>E25Bio, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The current standard of care for diagnosis of Severe Acute Respiratory Syndrome associated
+      Coronavirus -2 (SARS-CoV-2 ) infection involves sample collection to be prepared and measured
+      via real time-polymerase chain reaction (RT-PCR). This process is often time consuming
+      depending on the level of automation within the laboratory processing the samples. In many
+      cases, sample turn-around times can take hours to several days. A rapid assay that does not
+      require the sophisticated laboratory equipment and techniques could provide a significant
+      advantage to the way practitioners screen and ultimately treat patients. Moreover, the
+      collection of samples from the nasal nares should prove useful and less invasive. The study
+      aims to validate the use of nasal swabs and also to validate the antigen test using nasal
+      swabs.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A rapid point of care bioassay for the detection of virus proteins will be compared to the
+      hospital validated RT-PCR detection standard. Nasopharyngeal, nasal and saliva samples will
+      be collected along with hospital standard of care collection. Nasal and saliva will be
+      self-administered collection. Samples will be collected in an Emergency Room setting from up
+      to 100 subjects who entered the hospital over concerns about SARS-CoV-2. The goal is to
+      collect a minimum of N=30 confirmed Covid-19 positive subjects and N=30 confirmed Covid-19
+      negative subjects of comparable ages, genders and races. The SARS-CoV-2 Direct Antigen Rapid
+      Test (&quot;DART&quot;) is an immunoassay for point-of-care, qualitative detection of SARS-CoV-2 viral
+      particles/secreted protein in nasopharyngeal swabs from suspected patients with Coronavirus
+      Disease 2019 or COVID-19 infection. Dipsticks are printed with a monoclonal antibody that
+      binds the signature SARS-CoV-2 viral particles/protein (Test line) and a control antibody
+      (Control line) for quality control. A second monoclonal antibody is attached to gold
+      nanoparticles (conjugate) and quencher buffer, and mixed with the patient samples, though in
+      the near future the final format will contain the dry conjugate. The SARS-CoV-2 viral
+      particles/Spike protein attach to both antibodies resulting in a visual line on the test
+      strip within 15 minutes. Prior experience for detection virus and viral proteins via antibody
+      binding using lateral flow are E25Bio portfolio platform for dengue, Zika and Chikungunya
+      viruses among others.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 24, 2020</start_date>
+  <completion_date type="Actual">September 24, 2020</completion_date>
+  <primary_completion_date type="Actual">June 12, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percent Positive Agreement and Negative Percent Agreement</measure>
+    <time_frame>90 days</time_frame>
+    <description>Calculate the performance of the antigen test compared to PCR using nasopharyngeal swab samples</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">200</enrollment>
+  <condition>SARS CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Antigen rapid test for COVID-19</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The same group of patients participated in two arms of the study, one arm was for obtaining data on the rapid antigen test for COVID-19, the comparator arm was to obtain data from the RT-PCR</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Direct Antigen Tests for COVID-19</intervention_name>
+    <description>Rapid Antigen diagnostic device performance comparative to RT-PCR</description>
+    <arm_group_label>Antigen rapid test for COVID-19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:1. Provision of verbal informed consent form 2. Subject is suspected
+        case of COVID-19 by clinical criteria: a patient with acute respiratory tract infection
+        (sudden onset of at least one of the following: cough, fever, shortness of breath, fatigue,
+        decreased appetite, myalgia) AND with no other etiology that fully explains the clinical
+        presentation, with or without a history of close contact with a confirmed or probable
+        COVID-19 case in the last 14 days prior to onset of symptoms.
+
+        3. Subject is an appropriate candidate for Nasopharyngeal sample collection 4. Subject is
+        willing to provide nasopharyngeal swab and saliva samples
+
+        -
+
+        Exclusion Criteria:
+
+          -  An individual who meets any of the following criteria will be excluded from
+             participation in this study:
+
+               1. Individuals who present to ER with 10 or greater days of COVID-19 Related
+                  Symptoms, (Fever, Cough, Fatigue, Decreased Appetite, Shortness of Breath,
+                  Myalgia) or post-defervescence and/or convalescence
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gina Remington, RN MSN</last_name>
+    <role>Study Director</role>
+    <affiliation>HCA Healthcare Director of Research. Neuroscience and Orthopedic</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Patrice Feaster, RN</last_name>
+    <role>Study Director</role>
+    <affiliation>SCRI Development Innovations, LLC</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Klepler N De Almeida, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>JFK Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>JFK Medical Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>033401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kendall Regional</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33175</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aventura Hospital and Medical Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Dinnes J, Deeks JJ, Adriano A, Berhane S, Davenport C, Dittrich S, Emperador D, Takwoingi Y, Cunningham J, Beese S, Dretzke J, Ferrante di Ruffano L, Harris IM, Price MJ, Taylor-Phillips S, Hooft L, Leeflang MM, Spijker R, Van den Bruel A; Cochrane COVID-19 Diagnostic Test Accuracy Group. Rapid, point-of-care antigen and molecular-based tests for diagnosis of SARS-CoV-2 infection. Cochrane Database Syst Rev. 2020 Aug 26;8:CD013705. doi: 10.1002/14651858.CD013705.</citation>
+    <PMID>32845525</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kyosei Y, Namba M, Yamura S, Takeuchi R, Aoki N, Nakaishi K, Watabe S, Ito E. Proposal of De Novo Antigen Test for COVID-19: Ultrasensitive Detection of Spike Proteins of SARS-CoV-2. Diagnostics (Basel). 2020 Aug 14;10(8). pii: E594. doi: 10.3390/diagnostics10080594.</citation>
+    <PMID>32823866</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Hirotsu Y, Maejima M, Shibusawa M, Nagakubo Y, Hosaka K, Amemiya K, Sueki H, Hayakawa M, Mochizuki H, Tsutsui T, Kakizaki Y, Miyashita Y, Yagi S, Kojima S, Omata M. Comparison of automated SARS-CoV-2 antigen test for COVID-19 infection with quantitative RT-PCR using 313 nasopharyngeal swabs, including from seven serially followed patients. Int J Infect Dis. 2020 Aug 12;99:397-402. doi: 10.1016/j.ijid.2020.08.029. [Epub ahead of print]</citation>
+    <PMID>32800855</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Nagura-Ikeda M, Imai K, Tabata S, Miyoshi K, Murahara N, Mizuno T, Horiuchi M, Kato K, Imoto Y, Iwata M, Mimura S, Ito T, Tamura K, Kato Y. Clinical Evaluation of Self-Collected Saliva by Quantitative Reverse Transcription-PCR (RT-qPCR), Direct RT-qPCR, Reverse Transcription-Loop-Mediated Isothermal Amplification, and a Rapid Antigen Test To Diagnose COVID-19. J Clin Microbiol. 2020 Aug 24;58(9). pii: e01438-20. doi: 10.1128/JCM.01438-20. Print 2020 Aug 24.</citation>
+    <PMID>32636214</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mak GC, Cheng PK, Lau SS, Wong KK, Lau CS, Lam ET, Chan RC, Tsang DN. Evaluation of rapid antigen test for detection of SARS-CoV-2 virus. J Clin Virol. 2020 Aug;129:104500. doi: 10.1016/j.jcv.2020.104500. Epub 2020 Jun 8.</citation>
+    <PMID>32585619</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Blairon L, Wilmet A, Beukinga I, Tré-Hardy M. Implementation of rapid SARS-CoV-2 antigenic testing in a laboratory without access to molecular methods: Experiences of a general hospital. J Clin Virol. 2020 Aug;129:104472. doi: 10.1016/j.jcv.2020.104472. Epub 2020 May 30.</citation>
+    <PMID>32504944</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Porte L, Legarraga P, Vollrath V, Aguilera X, Munita JM, Araos R, Pizarro G, Vial P, Iruretagoyena M, Dittrich S, Weitzel T. Evaluation of a novel antigen-based rapid detection test for the diagnosis of SARS-CoV-2 in respiratory samples. Int J Infect Dis. 2020 Jun 1;99:328-333. doi: 10.1016/j.ijid.2020.05.098. [Epub ahead of print]</citation>
+    <PMID>32497809</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Scohy A, Anantharajah A, Bodéus M, Kabamba-Mukadi B, Verroken A, Rodriguez-Villalobos H. Low performance of rapid antigen detection test as frontline testing for COVID-19 diagnosis. J Clin Virol. 2020 Aug;129:104455. doi: 10.1016/j.jcv.2020.104455. Epub 2020 May 21.</citation>
+    <PMID>32485618</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lambert-Niclot S, Cuffel A, Le Pape S, Vauloup-Fellous C, Morand-Joubert L, Roque-Afonso AM, Le Goff J, Delaugerre C. Evaluation of a Rapid Diagnostic Assay for Detection of SARS-CoV-2 Antigen in Nasopharyngeal Swabs. J Clin Microbiol. 2020 Jul 23;58(8). pii: e00977-20. doi: 10.1128/JCM.00977-20. Print 2020 Jul 23.</citation>
+    <PMID>32404480</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cui Z, Chang H, Wang H, Lim B, Hsu CC, Yu Y, Jia H, Wang Y, Zeng Y, Ji M, Liu W, Inverarity C, Huang WE. Development of a rapid test kit for SARS-CoV-2: an example of product design. Biodes Manuf. 2020 May 11:1-4. doi: 10.1007/s42242-020-00075-7. [Epub ahead of print]</citation>
+    <PMID>32395391</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bosch I, de Puig H, Hiley M, Carré-Camps M, Perdomo-Celis F, Narváez CF, Salgado DM, Senthoor D, O'Grady M, Phillips E, Durbin A, Fandos D, Miyazaki H, Yen CW, Gélvez-Ramírez M, Warke RV, Ribeiro LS, Teixeira MM, Almeida RP, Muñóz-Medina JE, Ludert JE, Nogueira ML, Colombo TE, Terzian ACB, Bozza PT, Calheiros AS, Vieira YR, Barbosa-Lima G, Vizzoni A, Cerbino-Neto J, Bozza FA, Souza TML, Trugilho MRO, de Filippis AMB, de Sequeira PC, Marques ETA, Magalhaes T, Díaz FJ, Restrepo BN, Marín K, Mattar S, Olson D, Asturias EJ, Lucera M, Singla M, Medigeshi GR, de Bosch N, Tam J, Gómez-Márquez J, Clavet C, Villar L, Hamad-Schifferli K, Gehrke L. Rapid antigen tests for dengue virus serotypes and Zika virus in patient serum. Sci Transl Med. 2017 Sep 27;9(409). pii: eaan1589. doi: 10.1126/scitranslmed.aan1589.</citation>
+    <PMID>28954927</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Arnaout R, Lee RA, Lee GR, Callahan C, Yen CF, Smith KP, Arora R, Kirby JE. SARS-CoV2 Testing: The Limit of Detection Matters. bioRxiv. 2020 Jun 4. pii: 2020.06.02.131144. doi: 10.1101/2020.06.02.131144.</citation>
+    <PMID>32577640</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Carpenter CR, Mudd PA, West CP, Wilber E, Wilber ST. Diagnosing COVID-19 in the Emergency Department: A Scoping Review of Clinical Examinations, Laboratory Tests, Imaging Accuracy, and Biases. Acad Emerg Med. 2020 Jun 16. doi: 10.1111/acem.14048. [Epub ahead of print]</citation>
+    <PMID>32542934</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kucirka LM, Lauer SA, Laeyendecker O, Boon D, Lessler J. Variation in False-Negative Rate of Reverse Transcriptase Polymerase Chain Reaction-Based SARS-CoV-2 Tests by Time Since Exposure. Ann Intern Med. 2020 Aug 18;173(4):262-267. doi: 10.7326/M20-1495. Epub 2020 May 13. Review.</citation>
+    <PMID>32422057</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang X, Tan L, Wang X, Liu W, Lu Y, Cheng L, Sun Z. Comparison of nasopharyngeal and oropharyngeal swabs for SARS-CoV-2 detection in 353 patients received tests with both specimens simultaneously. Int J Infect Dis. 2020 May;94:107-109. doi: 10.1016/j.ijid.2020.04.023. Epub 2020 Apr 18.</citation>
+    <PMID>32315809</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Buitrago-Garcia D, Egli-Gany D, Counotte MJ, Hossmann S, Imeri H, Ipekci AM, Salanti G, Low N. Occurrence and transmission potential of asymptomatic and presymptomatic SARS-CoV-2 infections: A living systematic review and meta-analysis. PLoS Med. 2020 Sep 22;17(9):e1003346. doi: 10.1371/journal.pmed.1003346. eCollection 2020 Sep.</citation>
+    <PMID>32960881</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Pondaven-Letourmy S, Alvin F, Boumghit Y, Simon F. How to perform a nasopharyngeal swab in adults and children in the COVID-19 era. Eur Ann Otorhinolaryngol Head Neck Dis. 2020 Sep;137(4):325-327. doi: 10.1016/j.anorl.2020.06.001. Epub 2020 Jun 5.</citation>
+    <PMID>32646750</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The sponsor E25Bio, Inc. is in agreement to share the outcome of this Clinical Trial. Because the device product has not been previously approved or cleared by FDA, we will be publicly posting not earlier than the date of FDA approval or clearance.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>One month after the USA-FDA approval date and for the duration of one year after the date of approval</ipd_time_frame>
+    <ipd_access_criteria>via email to: Irene Bosch, PhD at ibosch@e25bio.com</ipd_access_criteria>
+    <ipd_url>http://www.e25bio.com</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 25, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/56/NCT04568356/ICF_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 19, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/56/NCT04568356/Prot_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

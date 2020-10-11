@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="726">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04494724</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00025969</org_study_id>
+    <nct_id>NCT04494724</nct_id>
+  </id_info>
+  <brief_title>Clazakizumab vs. Placebo - COVID-19 Infection</brief_title>
+  <official_title>A Phase 2 Trial to Evaluate the Safety and Tolerability of Clazakizumab® [Anti-Interleukin (IL)-6 Monoclonal] Compared to Placebo for the Treatment of COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Methodist Hospital System</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Methodist Hospital System</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate the effectiveness and safety of treatment with
+      clazakizumab compared to a placebo (inactive substance). We are proposing to try this drug to
+      treat coronavirus disease 2019 (COVID-19) infection. Patients with COVID-19 infection have
+      been shown to have increases in certain inflammatory processes. Clazakizumab is an antibody
+      (immune system protein) that blocks certain inflammatory processes. The treatment plan is to
+      attempt to inhibit or block these inflammatory processes in order to try to limit the damage
+      COVID-19 causes to the lungs.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this randomized, double-blind, placebo-controlled trial is to evaluate the
+      safety and efficacy of clazakizumab vs placebo for the prevention of acute respiratory
+      distress syndrome (ARDS) in patients with COVID-19 and pulmonary manifestations. The study
+      will compare clazakizumab to placebo in a randomized, double-blind fashion followed by an
+      open-label dose of clazakizumab if there is no improvement or a worsening of condition occurs
+      after 24-hours or anytime during the first 14 days after the first dose of clazakizumab or
+      placebo. We hypothesize that clazakizumab will be safely tolerated and will reduce the risk
+      of progression of COVID-19 to acute respiratory distress syndrome.
+
+      Primary Objective:
+
+      • To evaluate the safety and tolerability of clazakizumab vs placebo for the treatment of
+      patients with COVID-19 disease and signs of pulmonary involvement
+
+      Sixty adult patients with COVID-19 and signs of pulmonary involvement at Houston Methodist
+      who are not in need of ventilator support at the time of enrollment.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 13, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This single-site, phase 2 randomized, double-blind, placebo-controlled trial is designed to administer a single dose of clazakizumab or placebo on day 0. If, after 24 hours or up to 14 days from the first infusion, the participant's condition worsens or does not improve, the investigator may elect to provide a single, open-label dose of clazakizumab regardless of the initial group assignment. All except the investigational pharmacist will remain blinded as to the initial group assignment until data lock.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Blinded to all except investigational pharmacy. Only the optional second infusion, if determined necessary to administer, will be open-label. The patient and study team will remain blinded until data lock at the end of the study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary Endpoint</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Proportion of participants who experience treatment-related adverse events (TEAE) ≥ Grade 3 (CTCAE v5.0) during the first 24 hours after infusion of clazakizumab or placebo</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for mechanical ventilation and/or extracorporeal membrane oxygenation (ECMO)</measure>
+    <time_frame>14 days</time_frame>
+    <description>Proportion of participants who need mechanical ventilation and/or extracorporeal membrane oxygenation (ECMO) after the first dose of clazakizumab or placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infusion-related reactions during 24 hours from the time of infusion</measure>
+    <time_frame>24 hours</time_frame>
+    <description>Proportion of participants who experience infusion-related reactions during the first 24 hours after infusion of clazakizumab or placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient survival at 28 days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Proportion of participants alive at day 28 after the first dose of clazakizumab or placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient survival at 60 days</measure>
+    <time_frame>60 days</time_frame>
+    <description>Proportion of participants alive at day 60 after the first dose of clazakizumab or placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for open-label clazakizumab</measure>
+    <time_frame>14 days</time_frame>
+    <description>Proportion of participants who require an open-label dose of clazakizumab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time in the intensive care unit (ICU)</measure>
+    <time_frame>60 days</time_frame>
+    <description>Number of days in the ICU following the first dose of clazakizumab or placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time in the hospital</measure>
+    <time_frame>60 days</time_frame>
+    <description>Number of days in the hospital following the first dose of clazakizumab or placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to mechanical ventilation</measure>
+    <time_frame>60 days</time_frame>
+    <description>Number of days from first dose of clazakizumab or placebo to requiring mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical status improvement assessed by the World Health Organization (WHO) Clinical Progression Scale at day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>Difference in WHO Clinical Progression Scale between clazakizumab and placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical status improvement assessed by World Health Organization (WHO) Clinical Progression Scale at day 28</measure>
+    <time_frame>28 days</time_frame>
+    <description>Difference in WHO Clinical Progression Scale between clazakizumab and placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Radiologic Assessment of Lung Edema (RALE) at day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>Difference in mean or median change in radiologic assessment of lung edema (RALE) score at day 14 from baseline between clazakizumab or placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Radiologic Assessment of Lung Edema (RALE) at day 28</measure>
+    <time_frame>28 days</time_frame>
+    <description>Difference in mean or median change in radiologic assessment of lung edema (RALE) score at day 28 from baseline between clazakizumab or placebo</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19 Infection</condition>
+  <arm_group>
+    <arm_group_label>Clazakizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Clazakizumab - 25mg in 50 milliliters (mL) of 0.9% saline, IV infusion over 30 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo - 50 mL 0.9% saline, IV infusion over 30 minutes.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clazakizumab</intervention_name>
+    <description>Infusion</description>
+    <arm_group_label>Clazakizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Infusion</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age &gt;18 at the time of screening.
+
+          2. Participant or legally authorized representative (LAR) must be able to understand and
+             provide informed consent.
+
+          3. Hospitalized with coronavirus disease (COVID-19) confirmed by polymerase chain
+             reaction (PCR) assay from any specimen (eg, respiratory, blood, urine, stool, other
+             bodily fluid) within the prior 72 hours.
+
+          4. C-reactive protein (CRP) &gt; 3.5 mg/dL
+
+          5. Evidence of pulmonary involvement with at least 2 of the following:
+
+               1. oxygen saturation at rest in ambient air with peripheral capillary oxygen
+                  saturation (SpO2) ≤ 94%
+
+               2. tachypnea with resting respiration rate &gt; 25 breaths/minute
+
+               3. Partial pressure of oxygen (PaO2)/initial fraction of inspired oxygen (FiO2) ≤
+                  300 mmHg
+
+               4. Chest imaging (radiograph, CT, or ultrasound) with abnormalities consistent
+                  COVID-19 pneumonia
+
+        Exclusion Criteria:
+
+          1. Previous hypersensitivity or allergic reactions to clazakizumab
+
+          2. Lactating or pregnant females
+
+          3. Patients with latent tuberculosis (TB) and who are not receiving treatment
+
+          4. Patients with active TB
+
+          5. Patients with known active inflammatory bowel disease, untreated diverticulitis, or
+             gastrointestinal perforation
+
+          6. Requiring mechanical ventilation or extracorporeal membrane oxygenation (ECMO)
+
+          7. A significantly abnormal general serum screening lab result defined as a white blood
+             cell (WBC) count &lt; 3.0 X 10^3/mL, a hemoglobin (Hgb) &lt; 8.0 g/dL, a platelet count &lt; 50
+             X 10^3/mL, an aspartate aminotransferase (AST) or alanine aminotransferase (ALT) &gt; 5
+             times upper limit normal
+
+          8. Participation in another clinical trial investigating COVID-19-aimed agents
+
+          9. Presence of any medical or psychosocial condition, which the investigator believes,
+             would hinder adherence to the study requirements.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Howard Huang, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Methodist Hospital System</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Isioma Agboli, MD</last_name>
+    <phone>713-441-6311</phone>
+    <email>iagboli@houstonmethodist.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Darrel Cleere, BSN</last_name>
+    <phone>713-441-6232</phone>
+    <email>dwcleere@houstonmethodist.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Houston Methodist Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Isioma Agboli, MD</last_name>
+      <phone>713-441-6311</phone>
+      <email>iagboli@houstonmethodist.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Darrel Cleere, BSN</last_name>
+      <phone>713-441-6232</phone>
+      <email>dwcleere@houstonmethodist.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Howard J Huang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alex Rogers, PharmD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ahmad Goodarzi, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yihad G Youssef, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Simon Yau, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Faisal Zahiruddin, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Linda W Moore, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ahmed O Gaber, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Jones SA, Jenkins BJ. Recent insights into targeting the IL-6 cytokine family in inflammatory diseases and cancer. Nat Rev Immunol. 2018 Dec;18(12):773-789. doi: 10.1038/s41577-018-0066-7. Review.</citation>
+    <PMID>30254251</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tanaka T, Kishimoto T. Targeting interleukin-6: all the way to treat autoimmune and inflammatory diseases. Int J Biol Sci. 2012;8(9):1227-36. doi: 10.7150/ijbs.4666. Epub 2012 Oct 24. Review.</citation>
+    <PMID>23136551</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Uciechowski P, Dempke WCM. Interleukin-6: A Masterplayer in the Cytokine Network. Oncology. 2020;98(3):131-137. doi: 10.1159/000505099. Epub 2020 Jan 20. Review.</citation>
+    <PMID>31958792</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ruan Q, Yang K, Wang W, Jiang L, Song J. Correction to: Clinical predictors of mortality due to COVID-19 based on an analysis of data of 150 patients from Wuhan, China. Intensive Care Med. 2020 Jun;46(6):1294-1297. doi: 10.1007/s00134-020-06028-z.</citation>
+    <PMID>32253449</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gao Y, Li T, Han M, Li X, Wu D, Xu Y, Zhu Y, Liu Y, Wang X, Wang L. Diagnostic utility of clinical laboratory data determinations for patients with the severe COVID-19. J Med Virol. 2020 Jul;92(7):791-796. doi: 10.1002/jmv.25770. Epub 2020 Apr 10.</citation>
+    <PMID>32181911</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Le RQ, Li L, Yuan W, Shord SS, Nie L, Habtemariam BA, Przepiorka D, Farrell AT, Pazdur R. FDA Approval Summary: Tocilizumab for Treatment of Chimeric Antigen Receptor T Cell-Induced Severe or Life-Threatening Cytokine Release Syndrome. Oncologist. 2018 Aug;23(8):943-947. doi: 10.1634/theoncologist.2018-0028. Epub 2018 Apr 5.</citation>
+    <PMID>29622697</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16.</citation>
+    <PMID>32192578</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng J, Song Y. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med. 2020 Jul 1;180(7):934-943. doi: 10.1001/jamainternmed.2020.0994.</citation>
+    <PMID>32167524</PMID>
+  </results_reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 31, 2020</study_first_posted>
+  <last_update_submitted>July 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>coronavirus infection</keyword>
+  <keyword>respiration, artificial</keyword>
+  <keyword>extracorporeal membrane oxygenation</keyword>
+  <keyword>randomized controlled trial</keyword>
+  <keyword>respiratory distress syndrome, adult</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

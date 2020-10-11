@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1160">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04528771</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY20200453</org_study_id>
+    <nct_id>NCT04528771</nct_id>
+  </id_info>
+  <brief_title>S-Nitrosylation Therapy of COVID-19</brief_title>
+  <official_title>Phase 1b Safety Trial for S-Nitrosylation Therapy to Treat COVID-19 Induced Respiratory Distress</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Robert Schilz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Case Western Reserve University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospitals Cleveland Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to provide expanded access of S-nitrosylation therapy
+      for the treatment of severe acute respiratory syndrome coronavirus (SARS-CoV2) infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Randomized controlled trial for safety of a 6-hour escalating dose of S-nitrosylation therapy
+      or placebo to ventilated patients. This will be a single-site study conducted within the
+      UH-CMC medical ICU designated COVID-19 quarantine areas.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 31, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Single-site double-blinded randomized placebo controlled trial with a non-inferiority design. The study will randomize 21 patients 2:1 to either S-nitrosylation therapy or placebo arms.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The investigational product will be prepared and dispensed by designated unblinded site personnel at the pharmacy; the investigational product label will indicate the study number but will not indicate the treatment assignment. Any site personnel involved in the administration and assessment of the investigational product will be blinded to subject treatment assignments throughout the study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Length of Hospital Stay</measure>
+    <time_frame>30 days</time_frame>
+    <description>Total hospitalization days: Hospitalization data will be collected from the EMR on Day 30. Treatment will follow the critical care clinical SOPs developed by our institution (attached in Additional Information), which are consistent with the guidelines set out by the World Health Organization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Ventilator Days</measure>
+    <time_frame>30 days</time_frame>
+    <description>Total ventilator days:Ventilator Days will be recorded for each day through Day 30. The number of days on the ventilator will be counted and then used to calculate the number of ventilator free days. Days that subjects are weaning off and on the ventilator will be counted as days on the ventilator.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length of Intensive Care</measure>
+    <time_frame>30 days</time_frame>
+    <description>Total days in ICU: Intensive Care Unit Days will be recorded for each day through Day 30. Days will be counted in 24-hour periods, any partial days will be counted as a whole day. The level of ICU care needed will be recorded, based on clear definitions and specific clinical criteria in the covid-19 critical care procedure manual, as follows:
+Level 1 - Mechanical ventilation and intensivist support. Patient is stable on lung protective equipment.
+Level 2 - Advanced mechanical ventilation (capability to prone) and 24 hour intensivist support. Patient is hypoxic. Patient is stabilized on escalated ventilator settings (high PEEP, prone, etc.)
+Level 3 - Advanced oxygenation/ventilation strategies, including ECMO and 24 intensivist support. Patient is severely hypoxic (ARDS), code status is discussed, palliative consult is discussed, RESP-ECMO parameters, and patient is ECMO candidate.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>All-Cause Mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>30-day all-cause mortality</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Emergent Adverse Events</measure>
+    <time_frame>30 days</time_frame>
+    <description>Adverse events related to SNO therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Respiratory Status Improvement</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of days required to see a greater than 2 point improvement on a 7-point respiratory status assessment ordinal scale.
+7-Point Respiratory Severity Scale Range: 1-7 Higher values = worse
+Not receiving oxygen supplementation; AND room air oxygen saturation ≥ 95%
+Supplemental oxygen ≤ 2 liters/min; OR room air oxygen saturation ≤ 94%
+Supplemental nasal oxygen &gt;2 and &lt;= 5 liters/min
+Supplemental nasal oxygen &gt;5 liters/min
+HFNC or NIV with FiO2 &gt; 50%
+Intubation or ECMO
+Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Status</measure>
+    <time_frame>30 days</time_frame>
+    <description>Proportion of patients in each stage at maximum severity on the 7-point clinical status assessment ordinal scale.
+Clinical status will be assessed using a 7-point ordinal scale as follows:
+Death
+Hospitalized, on invasive mechanical ventilation or ECMO
+Hospitalized, on non-invasive ventilation or high flow oxygen devices
+Hospitalized, requiring low flow supplemental oxygen
+Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise)
+Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care
+Not hospitalized</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory Clinical Status</measure>
+    <time_frame>30 days</time_frame>
+    <description>Respiratory clinical status assessed by a 7-point respiratory status ordinal scale that captures oxygen requirement, ventilator support or death.
+7-Point Respiratory Severity Scale Range: 1-7 Higher values = worse
+Not receiving oxygen supplementation; AND room air oxygen saturation ≥ 95%
+Supplemental oxygen ≤ 2 liters/min; OR room air oxygen saturation ≤ 94%
+Supplemental nasal oxygen &gt;2 and &lt;= 5 liters/min
+Supplemental nasal oxygen &gt;5 liters/min
+HFNC or NIV with FiO2 &gt; 50%
+Intubation or ECMO
+Death</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">21</enrollment>
+  <condition>SARS-CoV2 Infection</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>SNO</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>14 patients in the S-nitrosylation arm will receive SNO (six-hour treatment with a sequential increasing dose regimen of 20 ppm x 2 hr, 40 ppm x 2 hr, 80 ppm x 2 hr).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>7 patients in the placebo arm will receive nitrogen gas (six-hour treatment).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SNO</intervention_name>
+    <description>Six-hour SNO treatment by inhalation at a sequential increasing dose regimen of 20 ppm x 2 hr, 40 ppm x 2 hr, 80 ppm x 2 hr. Patient care and follow-up during and after ENO administration will follow the critical care clinical SOPs developed by our institution (attached in Additional Information), which are consistent with the guidelines set out by the World Health Organization.</description>
+    <arm_group_label>SNO</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nitrogen gas</intervention_name>
+    <description>Six-hour nitrogen gas treatment by inhalation.Patient care and follow-up during and after ENO administration will follow the critical care clinical SOPs developed by our institution (attached in Additional Information), which are consistent with the guidelines set out by the World Health Organization.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Hospitalized with confirmed SARS-CoV2 infection by polymerase chain reaction (PCR) or
+             other validated tests as they become available.
+
+          -  In respiratory distress, defined as P/F ratio of &lt; 200 mmHg.
+
+          -  18-89 years of age.
+
+          -  Patients that are intubated and mechanically ventilated with a device
+             approved/certified for the blending-in of other medical gases into the ventilator
+             circuit.
+
+          -  Patients to be enrolled and to be able to start treatment within 36 h of being
+             intubated.
+
+        Exclusion Criteria:
+
+          -  Covid-19 patients with mild to no respiratory distress, defined as P/F ratio &gt; 200
+             mmHg.
+
+          -  Intubated Covid-19 patients ventilated with an FiO2 of &gt; 0.90 (reduction of FiO2 at
+             this level or higher when ENO is blended into the ventilation circuit cannot be
+             avoided).
+
+          -  Patients that are ventilated with a device not certified for blending of other medical
+             gases into the ventilator circuit.
+
+          -  Physician of record opposed to enrolling the patient due to perceived safety concerns;
+             or any condition that does not allow the protocol to be followed safely.
+
+          -  Subjects with past medical history of lung malignancy or pneumonectomy or lung
+             transplant
+
+          -  Subjects who have a history of malignancy or other irreversible disease/conditions
+             with a 6-month mortality &gt; 50%
+
+          -  Subjects that have experienced cardiac arrest with CPR for longer than 30 minutes
+
+          -  Pregnancy
+
+          -  Patients on extracorporeal membrane oxygenation (ECMO)
+
+          -  Patient groups at an increased risk to form methemoglobin. (e.g. congenital variants
+             of Met-Hb)
+
+          -  Patients with anemia, defined as a hemoglobin of &lt; 9 mg/dL
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert Schilz, DO, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospitals Cleveland Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Robert Schilz, DO, PhD</last_name>
+    <phone>216-844-3201</phone>
+    <email>robert.schilz@uhhospitals.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospitals Cleveland Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Robert Schilz, DO, PhD</last_name>
+      <phone>216-844-3201</phone>
+      <email>robert.schilz@uhhospitals.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>James Reynolds, PhD</last_name>
+      <phone>(216) 368-5727</phone>
+      <email>jxr343@case.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Robert Schilz, DO, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rana Hejal, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Olivia Giddings, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 27, 2020</study_first_posted>
+  <last_update_submitted>August 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospitals Cleveland Medical Center</investigator_affiliation>
+    <investigator_full_name>Robert Schilz</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>respiratory distress</keyword>
+  <keyword>respiratory failure</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

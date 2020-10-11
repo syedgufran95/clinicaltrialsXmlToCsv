@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="961">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04536090</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRCM-IQC-001</org_study_id>
+    <nct_id>NCT04536090</nct_id>
+  </id_info>
+  <brief_title>Study of Isoquercetin (IQC-950AN) Plus Standard of Care Versus Standard of Care Only for the Treatment of COVID-19</brief_title>
+  <official_title>An Open-Label Randomized Study of Isoquercetin (IQC-950AN) Plus Standard of Care Versus Standard of Care Only for the Treatment of 2019 Novel Coronavirus Disease (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institut de Recherches Cliniques de Montreal</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pharmascience Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>SCiAN Services, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Quercis Pharma AG</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Institut de Recherches Cliniques de Montreal</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, randomized, multi-centre pilot study where hospitalized subjects will
+      be randomized in a 2:1 ratio to receive Isoquercetin (IQC-950AN) in addition to standard of
+      care or standard of care only for 28 days following confirmation of a COVID-19 infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary purpose of this randomized study will be to evaluate the effect of Isoquercetin
+      (IQC-950AN) treatment on the reduction of severe acute respiratory coronavirus 2 (SARS-CoV-2)
+      viral titers. The secondary purpose of this study is to evaluate the effect of Isoquercetin
+      (IQC-950AN) treatment on the progression of COVID-19 disease in these subjects and their
+      recovery. In addition, certain parameters which may help elucidate the mechanism of action
+      (sLDLR, PCSK9, sACE2, D-dimers and CRP) will be followed. The safety of Isoquercetin
+      (IQC-950AN) will be evaluated at each visit. Subjects will be randomized to receive treatment
+      for 28 days and then will return 30 days following the discontinuation of treatment for a
+      final safety visit.
+
+      The results of this study will be used to design an adequately powered randomized controlled
+      pivotal study to evaluate the efficacy and safety of Isoquercetin (IQC-950AN) in all or a
+      subset of subjects with confirmed COVID-19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in viral load from baseline to end of treatment - Mean viral load</measure>
+    <time_frame>29 days</time_frame>
+    <description>Viral load of SARS-CoV-2 RNA (# of viral copies) assessed by quantitative reverse transcription polymerase chain reaction (qRT-PCR)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in viral load from baseline to end of treatment - Area under the viral load vs. time profiles</measure>
+    <time_frame>29 days</time_frame>
+    <description>Viral load of SARS-CoV-2 RNA (# of viral copies) assessed by quantitative reverse transcription polymerase chain reaction (qRT-PCR)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in viral load from baseline to end of treatment - Time profiles of viral load</measure>
+    <time_frame>29 days</time_frame>
+    <description>Viral load of SARS-CoV-2 RNA (# of viral copies) assessed by quantitative reverse transcription polymerase chain reaction (qRT-PCR)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in viral load from baseline to end of treatment - Time to viral negativity</measure>
+    <time_frame>29 days</time_frame>
+    <description>Viral load of SARS-CoV-2 RNA (# of viral copies) assessed by quantitative reverse transcription polymerase chain reaction (qRT-PCR)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical recovery</measure>
+    <time_frame>29 days</time_frame>
+    <description>Clinical recovery is defined as:
+Fever &lt;/= 36.6 degrees C
+Respiratory rate &lt;/= 24/minute on room air
+Oxygen saturation &gt;94% on room air
+Cough mild or absent</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>29 days</time_frame>
+    <description>All-cause mortality calculated at Day 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression to supplementary oxygen requirement</measure>
+    <time_frame>14 days</time_frame>
+    <description>If the patient required supplementary oxygen during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of mechanical ventilation</measure>
+    <time_frame>14 days</time_frame>
+    <description>If the patient required mechanical ventilation during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of ICU admission</measure>
+    <time_frame>14 days</time_frame>
+    <description>If the patient was admitted to ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to hospital discharge</measure>
+    <time_frame>29 days</time_frame>
+    <description>Length of time in hospital prior to being discharged</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in serum C reactive protein levels (CRP)</measure>
+    <time_frame>29 days</time_frame>
+    <description>Changes in serum CRP levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in D-dimer levels</measure>
+    <time_frame>29 days</time_frame>
+    <description>Changes in D-dimer levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in soluble low-density lipoprotein receptor (sLDLR) expression and proprotein convertase subtilisin/kexin type 9 (PCSK9) and soluble angiotensin converting enzyme 2 (sACE2) levels</measure>
+    <time_frame>29 days</time_frame>
+    <description>Changes in sLDLR expression, and PCSK9 and sACE2 levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in LDL-cholesterol</measure>
+    <time_frame>29 days</time_frame>
+    <description>Changes in LDL-cholesterol</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in creatinine</measure>
+    <time_frame>29 days</time_frame>
+    <description>Changes in creatinine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in liver enzymes</measure>
+    <time_frame>29 days</time_frame>
+    <description>Changes in liver enzymes</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Isoquercetin (IQC-950AN)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1000 mg Isoquercetin b.i.d. on day 1, then 500 mg Isoquercetin b.i.d. for 27 more days, plus standard of care (as defined below)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This arm will receive standard of care based on national guidelines. This may change as new information regarding best practice emerges.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Isoquercetin (IQC-950AN)</intervention_name>
+    <description>Isoquercetin will be administered by mouth twice daily for 28 days</description>
+    <arm_group_label>Isoquercetin (IQC-950AN)</arm_group_label>
+    <other_name>IQC-950AN</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Patients must exhibit symptoms of COVID-19 disease at screening;
+
+          2. Patients must be 18 years of age or older, of either gender;
+
+          3. Patients must have a documented SARS-CoV-2 RNA-positive test virus within 3 days prior
+             to randomization;
+
+          4. Patients must be admitted (or under observation to be admitted) to a controlled
+             facility or hospital to receive standard-of-care for COVID-19 disease;
+
+          5. Patient's health status must be 3 or 4 on the World Health Organization (WHO) ordinal
+             scale for clinical improvement* defined as hospitalized mild disease (no oxygen
+             therapy or oxygen by mask or nasal prongs);
+
+          6. If female, must be either post-menopausal (one year or greater without menses),
+             surgically sterile, or, for female subjects of child-bearing potential who are capable
+             of conception, must be: practicing a highly effective method of birth control during
+             the study and through 30 days after the last dose of the study medication.
+
+          7. Patients must have the ability to understand and give informed consent, which can be
+             verbal with a witness, according to local requirements;
+
+          8. Patients deemed capable of adequate compliance including attending scheduled visits
+             for the duration of the study;
+
+          9. Patients must be able to swallow the study drug capsules
+
+        Exclusion Criteria:
+
+          1. Patients with a history of allergy or anaphylaxis to ingredients in Isoquercetin
+             (IQC-950AN) including known intolerance of niacin or ascorbic acid or known
+             glucose-6-phosphate dehydrogenase (G6PD) deficiency;
+
+          2. Patients with known chronic kidney disease with estimated creatinine clearance &lt; 50
+             mL/minute or need for dialysis;
+
+          3. Patients receiving anticoagulant or antiplatelet medication, other than low dose
+             aspirin;
+
+          4. Patients who are severely hypotensive defined as needing hemodynamic pressors to
+             maintain blood pressure;
+
+          5. Patients with moderate or severe thrombocytopenia (platelet count &lt;100 × 10⁹/L);
+
+          6. Patients who are breast-feeding an infant or child;
+
+          7. Patients who are pregnant or unwilling to use an appropriate form of contraception,
+             except for heterosexual celibacy
+
+          8. Any other condition that, in the opinion of the investigator, may adversely affect the
+             patient's ability to complete this study or its measures, or pose a significant risk
+             to the patient;
+
+          9. Any reason the investigator suspects that data collected from this patient would be
+             incomplete or of poor quality
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michel Chrétien, FRS MD FRCP©</last_name>
+    <role>Study Director</role>
+    <affiliation>Montreal Clinical Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michel Chrétien, FRS MD FRCP©</last_name>
+    <phone>1-833-705-0648</phone>
+    <email>michel.chretien@ircm.qc.ca</email>
+  </overall_contact>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Isoquercetin</keyword>
+  <keyword>Quercetin</keyword>
+  <keyword>Antiviral Agents</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

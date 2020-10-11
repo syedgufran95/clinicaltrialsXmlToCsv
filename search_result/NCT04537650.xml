@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="568">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04537650</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CAPCR 20-5477</org_study_id>
+    <secondary_id>3R01DC011020-08S1</secondary_id>
+    <nct_id>NCT04537650</nct_id>
+  </id_info>
+  <brief_title>Swallowing Impairment After COVID-19 Infection</brief_title>
+  <official_title>The Pathophysiology of Swallowing Impairment in People Recovering From COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Health Network, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Deafness and Other Communication Disorders (NIDCD)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Florida</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Health Network, Toronto</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an observational study, in which people recovering from COVID-19 infection will
+      attend an outpatient clinic for a comprehensive swallowing assessment. The assessment will
+      include a videofluoroscopy, measurement of respiratory-swallow coordination using a digital
+      stethoscope, measures of tongue and cough strength and patient reported measures that will
+      help us to understand the presence and impact of swallowing impairment (dysphagia) in this
+      population.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The recent spread of COVID-19 has led to an international pandemic, with &gt;3 million confirmed
+      cases to date worldwide, of which 1 million confirmed cases and &gt;50,000 deaths have been
+      reported in the USA. Infected individuals commonly experience severe respiratory difficulties
+      and pneumonia, leading to hospital admission and the need for intensive care and mechanical
+      ventilation. Emerging evidence suggests that impaired taste and smell may be early markers of
+      the disease, and that in severe cases, there may be neurological damage in in the medulla, an
+      important brainstem control site for both respiration and swallowing. Given the overlapping
+      neuroanatomical regulation of breathing and swallowing, the investigators hypothesize that
+      dysphagia (swallowing impairment) will be common in People recovering from COVID-19 (PrC-19)
+      and associated with poorer outcomes.
+
+      The investigators will offer comprehensive swallowing assessments to PrC-19 after initial
+      recovery and a confirmed negative test for continuing COVID-19 infection. Study sites will be
+      located in the Toronto area (PI Steele); the Hamilton-Niagara region to the west of Toronto
+      (Co-I Namasivayam-MacDonald) and in Gainesville, Florida (Co-I Plowman). The assessments will
+      include the collection of case history information, videofluoroscopy (i.e., a dynamic
+      swallowing x-ray), use of a digital stethoscope to measure respiratory-swallow coordination,
+      measures of other risk factors for dysphagia (e.g. bulbar muscle strength) and
+      patient-reported outcomes. Detailed analyses of the videofluoroscopy swallowing studies (i.e.
+      dynamic x-rays) will identify specific measures of swallowing that fall outside the range of
+      normal variation based on comparison to healthy reference values established through the PI's
+      NIH-funded research program exploring swallowing physiology on liquids of different
+      consistencies.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Swallowing safety</measure>
+    <time_frame>Videofluoroscopy session (single timepoint only)</time_frame>
+    <description>Frequency of boluses (per consistency) demonstrating airway invasion, defined as Penetration-Aspiration Scale score of 3 and higher (Rosenbek et al., 1996)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Swallowing efficiency</measure>
+    <time_frame>Videofluoroscopy session (single timepoint only)</time_frame>
+    <description>Frequency of boluses (per consistency) demonstrating pharyngeal residue measured to fill more than 1% of an anatomical reference scalar [%(C2-4)squared] (Steele et al., 2019)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time-to-Laryngeal-Vestibule-Closure</measure>
+    <time_frame>Videofluoroscopy session (single timepoint only)</time_frame>
+    <description>Frequency of boluses (per consistency) on which the participant displays prolonged time to airway closure (i.e. Laryngeal Vestibule Closure), defined as values falling more than 1 standard deviation above the healthy reference mean (Steele et al., 2019)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Laryngeal Vestibule Closure duration</measure>
+    <time_frame>Videofluoroscopy session (single timepoint only)</time_frame>
+    <description>Frequency of boluses (per consistency) on which the participant displays short airway closure (i.e. laryngeal vestibule closure), defined as a duration more than 1 standard deviation below the healthy reference mean (Steele et al., 2019)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharyngeal Constriction</measure>
+    <time_frame>Videofluoroscopy session (single timepoint only)</time_frame>
+    <description>Frequency of boluses (per consistency) on which the participant displays pharyngeal area above the 75th percentile healthy reference value on the frame of maximum constriction (Steele et al., 2019)</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Videofluoroscopic Swallowing Study (VFSS)</intervention_name>
+    <description>A standardized dynamic radiographic examination of oropharyngeal swallowing</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Individuals recovering from COVID-19 infection
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  People who are within 2-32 weeks post a diagnosis of COVID-19 infection and who now
+             have a confirmed negative COVID-19 test result
+
+          -  Adequate comprehension of English to understand the consent form and follow study
+             instructions
+
+        Exclusion Criteria:
+
+          -  Age under 18 years old
+
+          -  Current pregnancy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Catriona M Steele, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Health Network, Toronto</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Catriona M Steele, PhD</last_name>
+    <phone>4165473422</phone>
+    <phone_ext>7802</phone_ext>
+    <email>catriona.steele@uhn.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Renata Mancopes, PhD</last_name>
+    <phone>4165973422</phone>
+    <phone_ext>7802</phone_ext>
+    <email>renata.mancopes@uhn.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Florida</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32610-3006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Emily K Plowman, PhD</last_name>
+      <phone>352-273-8632</phone>
+      <email>eplowman@phhp.ufl.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>McMaster University</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ashwini M Namasivayam-MacDonald, PhD</last_name>
+      <email>namasia@mcmaster.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Steele CM, Peladeau-Pigeon M, Barbon CAE, Guida BT, Namasivayam-MacDonald AM, Nascimento WV, Smaoui S, Tapson MS, Valenzano TJ, Waito AA, Wolkin TS. Reference Values for Healthy Swallowing Across the Range From Thin to Extremely Thick Liquids. J Speech Lang Hear Res. 2019 May 21;62(5):1338-1363. doi: 10.1044/2019_JSLHR-S-18-0448.</citation>
+    <PMID>31021676</PMID>
+  </reference>
+  <reference>
+    <citation>Rosenbek JC, Robbins JA, Roecker EB, Coyle JL, Wood JL. A penetration-aspiration scale. Dysphagia. 1996 Spring;11(2):93-8.</citation>
+    <PMID>8721066</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>September 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 3, 2020</study_first_posted>
+  <last_update_submitted>September 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Swallowing</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

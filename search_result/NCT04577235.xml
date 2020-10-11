@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1888">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04577235</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AyşeV</org_study_id>
+    <nct_id>NCT04577235</nct_id>
+  </id_info>
+  <brief_title>Correlation Between Thoracic Ultrasound and Thorax Computed Tomography Scores.</brief_title>
+  <official_title>Evaluation of the Correlation Between Thoracic Ultrasound and Thorax Computed Tomography Scores of Patients With Severe COVID 19 Pneumonia in Intensive Care.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gaziosmanpasa Taksim Research and Education Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gaziosmanpasa Taksim Research and Education Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus Disease 19 (COVID-19) pandemic has become a global health problem in a short time
+      due to high infection rate and increasing mortality. Since it is not possible to perform
+      thorax computed tomography (CT) and transfer of patients with COVID-19 pneumonia who are
+      followed up in intensive care, diagnosis and follow-up by lung ultrasound (LUS) is a great
+      advantage nowadays.The investigators aimed to evaluate the correlation between thoracic CT
+      score and LUS score and to determine its relationship with mortality.
+
+      Patients who were admitted to intensive care with the diagnosis of COVID-19 pneumonia, who
+      had an initial thorax CT examination and who underwent LUS during admission to the intensive
+      care unit were included in the study. The demographic characteristics, clinical parameters,
+      prognosis, thorax CT and LUS scores of the patients were recorded prospectively. The
+      characteristics of the survived patients and the patients who died were compared.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Thorax CT scoring was performed by an experienced radiologist, while LUS scoring was
+      performed an experienced anaesthesia and reanimation specialist. The demographic
+      characteristics, clinical parameters, prognosis, thorax CT and LUS scores of the patients
+      were recorded prospectively. The correlation between thorax CT score and LUS score was
+      evaluated.Lung ultrasound score (LUSS):
+
+      LUS was performed by an intensive care specialist with experience in this field using a 2- to
+      5-MHz transducer (Esaote MyLabSeven, Getz Healthcare Malaysia). The transducer was covered
+      with a probe cover, and the transducer and ultrasound device were cleaned with disinfectant
+      wipes after each use. LUS examinations were performed at the bedside, in the supine position,
+      and twelve-zone examinations were performed. Each hemithorax is separated into 6 quadrants:
+      anterior, lateral, and posterior zones (separated by the anterior and posterior axillary
+      lines) each divided in upper and lower portion (Figure 1). Each zone was scored according to
+      the LUS pattern as follows: the presence of lung sliding with A-lines or fewer than two
+      isolated B-lines, scored 0; when multiple well-defined B-lines presented, scored 1; the
+      presence of multiple coalescent B-lines, scored 2; and when presented with a tissue pattern
+      characterized by dynamic air bronchograms (lung consolidation), scored 3. The worst
+      ultrasound pattern observed in each zone was recorded and used to calculate the sum of the
+      scores (total score = 36).
+
+      CT Technique and Image Interpretation The thorax CT scans in the study were obtained using
+      the low dose protocol of our hospital with a 128-slice multi-detector CT scanner (Optima;
+      General Electric Healthcare, Wisconsin, USA). All CT scans were performed during a single
+      breath-hold without contrast administration.
+
+      As in the ultrasound evaluation, each lung was divided into anterior, lateral and posterior
+      quadrants based on the anterior and posterior axillary lines, and then each quadrant was
+      divided into upper and lower sections. Each quadrant was scored between 0-3. It was scored 0
+      when there was no parenchymal involvement, 1score when the parenchymal involvement rate was
+      between 0 and 33%, 2 score when it was between 33% and 66%, and 3score when it was above 66%.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 5, 2020</start_date>
+  <completion_date type="Actual">September 5, 2020</completion_date>
+  <primary_completion_date type="Actual">August 5, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The evaluation of the correlation between the baseline LUS score and mortality rate of patients with severe COVID-19 pneumonia who were followed up in the intensive care unit</measure>
+    <time_frame>2 month</time_frame>
+    <description>LUS score</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The evaluation of the correlation between the baseline CT score and mortality rate of patients with severe COVID-19 pneumonia who were followed up in the intensive care unit</measure>
+    <time_frame>2 month</time_frame>
+    <description>CT skore</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">29</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Survivors group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lung ultrasound score and computed tomography score were evaluated in the surviving group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non survivors group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lung ultrasound score and computed tomography score were evaluated in the non surviving group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>severity of lung involvement with COVID-19.</intervention_name>
+    <description>transthoracic lung ultrasound and throcic CT</description>
+    <arm_group_label>Non survivors group</arm_group_label>
+    <arm_group_label>Survivors group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:
+
+          -  Over 18 years of age
+
+        Exclusion criteria:
+
+          -  Under 18 years of age
+
+          -  Previous lung resection
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Gaziosmanpasa Taksim Research and Education Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <state>Gazi̇osmanpaşa</state>
+        <zip>34255</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 6, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Gaziosmanpasa Taksim Research and Education Hospital</investigator_affiliation>
+    <investigator_full_name>Ayşe Vahapoglu</investigator_full_name>
+    <investigator_title>M.D. Anaesthesiology and Reanimation</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19 Pneumonia</keyword>
+  <keyword>Critical Care</keyword>
+  <keyword>Lung ultrasound</keyword>
+  <keyword>Computed tomography</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

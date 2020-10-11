@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3431">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04551274</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H20-02015</org_study_id>
+    <nct_id>NCT04551274</nct_id>
+  </id_info>
+  <brief_title>Music Therapy in Frontline Healthcare Workers</brief_title>
+  <official_title>Investigating the Use of Virtual Music Therapy in Frontline Healthcare Workers During COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Simon Fraser University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Music Heals Charitable Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Simon Fraser University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this project is to investigate the impacts of the COVID-19 pandemic on
+      frontline healthcare workers, and determine if a virtual music therapy can improve mood and
+      emotional state in this population.
+
+      For this pilot study, EEG will also be used to assess measures of functional connectivity,
+      attention, and mood in adult participants. Participants will also be evaluated for measures
+      of emotion using a standardized test battery (NIH toolbox).
+
+      This pilot study will show how frontline healthcare workers have been impacted by the
+      COVID-19 pandemic, and provide evidence as to the effectiveness of Music Therapy to support
+      mental health in this essential population.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Purpose:
+
+      The purpose of this study is to investigate (a) the self-described impact that the COVID-19
+      pandemic has had on frontline healthcare workers, and (b) the use of music therapy to improve
+      mental healththis population. Built on top of our successful neuroscience and neuroimaging
+      research, we aim to use behavioural assessments combined with portable EEG technology to
+      monitor how metrics of brain function and mental health change over time in frontline
+      healthcare workers undergoing Music Therapy.
+
+      Hypothesis:
+
+      We expect to see improvements in behavioural/emotional metrics as a result of music therapy -
+      with correlations to changes in brain activation, markers of attention, and connectivity.
+
+      Justification:
+
+      Music Therapy interventions involve the use of live music (performed or created by the
+      therapist and/or patient), and a process that includes patient-specific assessment,
+      treatment, and evaluation. Music Therapy has shown to be effective in addressing symptoms
+      related to global and social functioning in schizophrenia and/or serious mental disorders,
+      gait and related activities in Parkinson's disease, depressive symptoms, and sleep quality.
+
+      Objectives:
+
+        1. The first objective of this study is to investigate how the COVID-19 pandemic has
+           affected the lives of frontline healthcare workers
+
+        2. The second objective is to investigate the effect of music therapy on mental health in
+           frontline healthcare workers during the COVID-19 pandemic
+
+        3. The third objective is to investigate EEG-related changes in frontline healthcare
+           workers with music therapy, and correlate to behavioural changes
+
+      Research Design:
+
+      This is a longitudinal study design. 20 frontline healthcare workers will be recruited. 10
+      will be randomly assigned to no therapy (control) and 10 will be assigned to a music therapy
+      (intervention) group. Random assignment will be prospectively performed using Microsoft
+      Excel. Each subject code will be randomly assigned a decimal number from 0-1. All subject
+      codes will then be sorted with their random numbers in ascending order. The 10 subject codes
+      with the largest number will be placed in the intervention group, and the remaining 10 in the
+      control group
+
+      Participants in the therapy group will complete 4 weeks of music therapy. Experimental
+      measures will be completed before and after the 4 week period.
+
+      Statistical Analysis:
+
+      Outcomes from the EEG and behavioural assessments will be compared across groups and time
+      points using a repeated Measures Analysis of Variance (ANOVA).
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The data analysts and Outcomes Assessors will be blinded to the group labels</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Perceived Stress score - NIH Emotion Toolbox</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The NIH Toolbox Emotion Battery is a comprehensive set of neuro-behavioral measurements that quickly assess emotional functions. It consists of surveys in the domains of Negative Effect ,Psychological Well-Being, Stress &amp; Self-Efficacy, and Social Relationships. It is based on a nationally representative sample to enable cross-measure comparisons, and is well-suited for measuring outcomes in longitudinal studies. Questions for each subitem are arranged on a likert scale with associated scores from 1-5. The overall score for each measure (at each time point) is calculated as the sum of scores for each question.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in General Life Satisfaction score - NIH Emotion Toolbox</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The NIH Toolbox Emotion Battery is a comprehensive set of neuro-behavioral measurements that quickly assess emotional functions. It consists of surveys in the domains of Negative Effect ,Psychological Well-Being, Stress &amp; Self-Efficacy, and Social Relationships. It is based on a nationally representative sample to enable cross-measure comparisons, and is well-suited for measuring outcomes in longitudinal studies. Questions for each subitem are arranged on a likert scale with associated scores from 1-5. The overall score for each measure (at each time point) is calculated as the sum of scores for each question.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Positive Affect score - NIH Emotion Toolbox</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The NIH Toolbox Emotion Battery is a comprehensive set of neuro-behavioral measurements that quickly assess emotional functions. It consists of surveys in the domains of Negative Effect ,Psychological Well-Being, Stress &amp; Self-Efficacy, and Social Relationships. It is based on a nationally representative sample to enable cross-measure comparisons, and is well-suited for measuring outcomes in longitudinal studies. Questions for each subitem are arranged on a likert scale with associated scores from 1-5. The overall score for each measure (at each time point) is calculated as the sum of scores for each question.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Anger score - NIH Emotion Toolbox</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The NIH Toolbox Emotion Battery is a comprehensive set of neuro-behavioral measurements that quickly assess emotional functions. It consists of surveys in the domains of Negative Effect ,Psychological Well-Being, Stress &amp; Self-Efficacy, and Social Relationships. It is based on a nationally representative sample to enable cross-measure comparisons, and is well-suited for measuring outcomes in longitudinal studies. Questions for each subitem are arranged on a likert scale with associated scores from 1-5. The overall score for each measure (at each time point) is calculated as the sum of scores for each question.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Fear score - NIH Emotion Toolbox</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The NIH Toolbox Emotion Battery is a comprehensive set of neuro-behavioral measurements that quickly assess emotional functions. It consists of surveys in the domains of Negative Effect ,Psychological Well-Being, Stress &amp; Self-Efficacy, and Social Relationships. It is based on a nationally representative sample to enable cross-measure comparisons, and is well-suited for measuring outcomes in longitudinal studies. Questions for each subitem are arranged on a likert scale with associated scores from 1-5. The overall score for each measure (at each time point) is calculated as the sum of scores for each question.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Meaning &amp; Purpose score - NIH Emotion Toolbox</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The NIH Toolbox Emotion Battery is a comprehensive set of neuro-behavioral measurements that quickly assess emotional functions. It consists of surveys in the domains of Negative Effect ,Psychological Well-Being, Stress &amp; Self-Efficacy, and Social Relationships. It is based on a nationally representative sample to enable cross-measure comparisons, and is well-suited for measuring outcomes in longitudinal studies. Questions for each subitem are arranged on a likert scale with associated scores from 1-5. The overall score for each measure (at each time point) is calculated as the sum of scores for each question.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Sadness score - NIH Emotion Toolbox</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The NIH Toolbox Emotion Battery is a comprehensive set of neuro-behavioral measurements that quickly assess emotional functions. It consists of surveys in the domains of Negative Effect ,Psychological Well-Being, Stress &amp; Self-Efficacy, and Social Relationships. It is based on a nationally representative sample to enable cross-measure comparisons, and is well-suited for measuring outcomes in longitudinal studies. Questions for each subitem are arranged on a likert scale with associated scores from 1-5. The overall score for each measure (at each time point) is calculated as the sum of scores for each question.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Emotional Support score - NIH Emotion Toolbox</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The NIH Toolbox Emotion Battery is a comprehensive set of neuro-behavioral measurements that quickly assess emotional functions. It consists of surveys in the domains of Negative Effect ,Psychological Well-Being, Stress &amp; Self-Efficacy, and Social Relationships. It is based on a nationally representative sample to enable cross-measure comparisons, and is well-suited for measuring outcomes in longitudinal studies. Questions for each subitem are arranged on a likert scale with associated scores from 1-5. The overall score for each measure (at each time point) is calculated as the sum of scores for each question.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Loneliness score - NIH Emotion Toolbox</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The NIH Toolbox Emotion Battery is a comprehensive set of neuro-behavioral measurements that quickly assess emotional functions. It consists of surveys in the domains of Negative Effect ,Psychological Well-Being, Stress &amp; Self-Efficacy, and Social Relationships. It is based on a nationally representative sample to enable cross-measure comparisons, and is well-suited for measuring outcomes in longitudinal studies. Questions for each subitem are arranged on a likert scale with associated scores from 1-5. The overall score for each measure (at each time point) is calculated as the sum of scores for each question.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>EEG - Change in power in the Delta band</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Resting-state EEG will be recorded</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EEG - Change in power in the Beta band</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Resting-state EEG will be recorded</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EEG - Change in power in the Alpha band</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Resting-state EEG will be recorded</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EEG - Change in power in the Theta band</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Resting-state EEG will be recorded</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Mood</condition>
+  <condition>Emotional Stress</condition>
+  <arm_group>
+    <arm_group_label>Music Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the music therapy group will complete a 4 week music therapy program, with a minimum of 2 sessions per week.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Control group participants will not experience any intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Music Therapy</intervention_name>
+    <description>Music Therapy interventions involve the use of live music (performed or created by the therapist and/or patient), and a process that includes patient-specific assessment, treatment, and evaluation</description>
+    <arm_group_label>Music Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All participants will be required to be frontline healthcare workers, (i.e.
+             paramedics, EMTs, nurses, doctors). Participants will be adults aged 19 years and
+             above, who are English speakers, with normal or corrected vision and hearing
+             abilities. Participants will be required to have independent capacity to consent, as
+             per Article 3.3 of the TCPS2. Due to the virtual nature of the study, participants
+             will need to have access to a computer/laptop with a webcam to be able to interact
+             with the music therapist and the study team.
+
+        Exclusion Criteria:
+
+          -  Participants who have experienced a traumatic brain injury in the last 12 months, or
+             who have previously been diagnosed with any other neurological, neuropsychological, or
+             psychiatric diseases/disorders/conditions will not be enrolled in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Glen Chapman, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Simon Fraser University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ryan CN D'Arcy, PhD</last_name>
+    <phone>7789199215</phone>
+    <phone_ext>+1</phone_ext>
+    <email>rdarcy@sfu.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Simon Fraser University</name>
+      <address>
+        <city>Burnaby</city>
+        <state>British Columbia</state>
+        <zip>V5A 1S6V</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Shaun D Fickling, PhD</last_name>
+      <email>sficklin@sfu.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Ryan CN D'Arvy, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 16, 2020</study_first_posted>
+  <last_update_submitted>September 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Simon Fraser University</investigator_affiliation>
+    <investigator_full_name>Ryan D'Arcy</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stress, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

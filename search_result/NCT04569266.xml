@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2880">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04569266</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RECOVER</org_study_id>
+    <nct_id>NCT04569266</nct_id>
+  </id_info>
+  <brief_title>Effectiveness of an Exercise Re-training Program on Dyspnea in Patients After Acute Respiratory Distress Syndrome Secondary to Severe COVID-19 Pneumonia in Post-ICU</brief_title>
+  <acronym>RECOVER</acronym>
+  <official_title>Effectiveness of an Exercise Re-training Program on Dyspnea in Patients After Acute Respiratory Distress Syndrome Secondary to Severe COVID-19 Pneumonia in Post-ICU</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Groupe Hospitalier Paris Saint Joseph</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centre Hospitalier de Versailles André Mignot</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centre Hospitalier Victor Dupouy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Groupe Hospitalo-Universitaire Paris (Hôpital Saint-Anne)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Groupe Hospitalier Paris Saint Joseph</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dyspnea is defined by a subjective sensation of respiratory discomfort, the intensity of
+      which varies according to the terrain, the anamnesis and the cause. Resuscitation is
+      associated with many causes of dyspnea, including initial distress, mechanical ventilation,
+      or after-effects following the pathology and its management.
+
+      Respiratory distress is the most severe form of impaired lung function. It is the first cause
+      of hospitalization in intensive care. This distress, indicative of the failure of the
+      respiratory system, is always severe and potentially fatal. It therefore constitutes an
+      absolute therapeutic emergency. Dyspnea is often the revealing symptom of the condition and
+      the urgency surrounding its management is an additional factor of concern for the patient. As
+      a result, dyspnea is a pejorative element associated with severity or even death.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      During these episodes of respiratory insufficiency, the management is based on ventilatory
+      replacement by generally invasive mechanical ventilation. This allows correction of hematosis
+      disorders but can lead to complications either directly (respiratory infections) or
+      indirectly (neuromuscular complications and/or complications related to prolonged bed rest
+      requiring prolonged re-education). Although mechanical ventilation makes it possible to
+      improve the objective parameters and contributes considerably to improving the prognosis of
+      these patients, it is nevertheless, despite the progress made, often associated with patient
+      breathlessness due to respiratory pathology and difficulties in optimizing the interaction
+      between the individual and the machine.
+
+      Resuscitation will also be associated with amyotrophy due to bed rest, inflammation, reduced
+      metabolic possibilities, especially anabolic ones, and the use of certain treatments
+      (corticosteroids, curares). This muscle loss rapidly affects the diaphragm, then secondarily
+      the peripheral muscles in the context of resuscitation neuromyopathy. On the other hand,
+      complications affecting the entire musculoskeletal system will quickly cause the
+      resuscitation patient to suffer from cardiorespiratory desadaptation, reducing the capacity
+      for exertion on discharge and ultimately resulting in dyspnea on exertion.
+
+      In patients surviving the initial condition, dyspnea persists and may be reoccurring months
+      or even years later, despite initial rehabilitation. It is strongly associated with anxiety
+      and even fear of death and contributes to the development of post-traumatic stress disorder.
+      This persistent feeling of respiratory discomfort, which limits the patient's autonomy in his
+      or her daily activities, seems to be able to reduce quality of life. Moreover, the
+      perpetuation of this dyspnea could promote a spiral of deconditioning leading to a
+      progressive deterioration of the cardio-respiratory system, justifying new hospitalizations.
+
+      In patients with chronic respiratory insufficiency, exercise rehabilitation supervised by
+      physiotherapists allows, in addition to improving autonomy, a significant reduction in
+      dyspnea, thus increasing the quality of life of these patients.
+
+      Our objective is to evaluate the effect of post-resuscitation respiratory rehabilitation for
+      SARS-Cov-2 in improving dyspnea. Secondly, we will seek to evaluate the correlation between
+      quality of life and post-resuscitation dyspnea.
+
+      Translated with www.DeepL.com/Translator (free version)
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 7, 2020</start_date>
+  <completion_date type="Anticipated">May 7, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 7, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate the effect of exercise rehabilitation on post-ICU dyspnea</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Multidimensional Dyspnea Profile (MDP) scale assessment of dyspnea</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate the effect of exercise rehabilitation on post-ICU dyspnea</measure>
+    <time_frame>3 Months</time_frame>
+    <description>Multidimensional Dyspnea Profile (MDP) scale assessment of dyspnea</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the effect of exercise rehabilitation on functional dyspnea</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Assessment of dyspnea on the Modified Medical Research Council (mMRC) scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the effect of exercise rehabilitation on functional dyspnea</measure>
+    <time_frame>3 Months</time_frame>
+    <description>Assessment of dyspnea on the Modified Medical Research Council (mMRC) scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the effect of stress rehabilitation on quality of life</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Short-Form Quality of Life Assessment (SF-12)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the effect of stress rehabilitation on quality of life</measure>
+    <time_frame>3 Months</time_frame>
+    <description>Short-Form Quality of Life Assessment (SF-12)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Dyspnea</condition>
+  <arm_group>
+    <arm_group_label>No specific exercise rehabilitation treatment</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients will not benefit from any specific exercise rehabilitation treatment until 6 months post-ICU. They will then be proposed to follow the &quot;treatment&quot; protocol if efficacy is demonstrated, once their follow-up in the study is completed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>specific exercise rehabilitation treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive a prescription for exercise rehabilitation, at the rate of 2 sessions of approximately 1 hour each per week for 10 weeks.
+Continuous endurance training will start at 60-70% of the patient's maximum power. For patients who are unable to maintain continuous re-training, &quot;interval training&quot; sequences (30 seconds of effort followed by 30 seconds of rest) may be offered.
+Initially, the effort will be 15 minutes, then gradually increase to reach an exercise duration of 40 minutes or 45-60 minutes for endurance or interval training respectively.
+The power can be adjusted as the patient progresses to reach the target heart rate and dyspnea at 4-6 on the BORG scale.
+All patients will be offered lower limb and upper limb strengthening exercises. Each exercise will consist of 3-4 sets of 6-12 repetitions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>specific exercise rehabilitation treatment</intervention_name>
+    <description>Patients meeting the eligibility criteria will be selected consecutively. They will be contacted by telephone after at least 3 months post-resuscitation. The mMRC score is then evaluated. In case of mMRC&gt;1, the study will then be proposed by the physiotherapist or the referring investigating physician of each participating center during this call. The patient is then offered an appointment on the reference rehabilitation platform of each center. The CDM measurement as well as the quality of life by the SF-12 scale are also carried out. Patients are then randomized in one of the two groups (&quot;control&quot; or &quot;treatment&quot;).</description>
+    <arm_group_label>specific exercise rehabilitation treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient whose age ≥ 18 years old
+
+          -  Patient who has been hospitalized in an intensive care unit and discharged for at
+             least 3 months.
+
+          -  Patient who has had a laboratory confirmed respiratory infection with SARS-Cov-2
+             biologically confirmed by PCR or any other commercial or public health test or
+             diagnosed by CT scan.
+
+          -  Patient who has been undergoing invasive mechanical ventilation during the
+             resuscitation stay for more than 48 consecutive hours.
+
+          -  Patient reading or understanding French
+
+          -  Patient affiliated to social security or, failing that, to another health insurance
+             system
+
+          -  Patient capable of giving free, informed and express consent.
+
+        Exclusion Criteria:
+
+          -  Lack of possibility of carrying out rehabilitation sessions :
+
+               -  Presence of contraindications to rehabilitation :
+
+                    -  Severe neurological disease (Parkinson's disease, dementia, amyotrophic
+                       lateral sclerosis, aphasia, constituted ischemic stroke with significant
+                       sequelae)
+
+                    -  Osteoarticular pathology reducing mobility
+
+               -  Geographic distance (&gt;5km from the rehabilitation center's reference practice)
+
+          -  Patient with a mMRC≤1
+
+          -  Patient deprived of liberty
+
+          -  Patient under guardianship or curatorship
+
+          -  Patient under the protection of justice
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>ROMANET Christophe</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Groupe Hospitalier Paris Saint Joseph</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ROMANET Christophe</last_name>
+    <phone>01 44 12 30 85</phone>
+    <phone_ext>+33</phone_ext>
+    <email>cromanet@ghpsj.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>PHILIPPART François, MD</last_name>
+    <phone>01 44 12 30 85</phone>
+    <phone_ext>+33</phone_ext>
+    <email>fphilippart@ghpsj.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Paris Saint Joseph</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Helene BEAUSSIER, PharmD, PhD</last_name>
+      <phone>01 44 12 70 38</phone>
+      <phone_ext>+33</phone_ext>
+      <email>hbeaussier@ghpsj.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>DRC</last_name>
+      <phone>01 44 12 70 33</phone>
+      <phone_ext>+33</phone_ext>
+      <email>crc@ghpsj.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-COV2</keyword>
+  <keyword>Pneumonia</keyword>
+  <keyword>ICU</keyword>
+  <keyword>effort re-training</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Dyspnea</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

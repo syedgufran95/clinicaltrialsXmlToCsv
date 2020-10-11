@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1006">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04503447</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SARSCOV2SEROPREVALENCEITMSTAFF</org_study_id>
+    <nct_id>NCT04503447</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Seroprevalence Study in ITM Staff</brief_title>
+  <acronym>CovAb</acronym>
+  <official_title>Severe Acute Respiratory Syndrome Coronavirus (CoV) 2 (SARS-CoV-2) Seroprevalence Study in Institute of Tropical Medicine (ITM) Staff</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institute of Tropical Medicine, Belgium</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institute of Tropical Medicine, Belgium</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In Belgium, the corona virus disease 2019 (COVID-19) epidemic is in the growing phase of its
+      second wave.
+
+      The Belgian crisis cell is balancing between allowing the economy to recover and minimize the
+      disease spread. To decide which containment measures should be maintained, reinstalled or
+      suspended, information on what proportion of people has been infected and on possible risk
+      factors for virus transmission can be helpful.
+
+      This study will be conducted on staff members of the ITM. All staff members will be invited
+      to participate. Participants will be asked to have a blood sample drawn for detections of
+      antibodies against SARS-CoV-2 (using one of these two commercial assays: Anti-SARS-CoV-2
+      ELISA (EUROIMMUN) or WANTAI SARS-CoV-2 Ab ELISA (WANTAI SARS-CoV-2 Diagnostics)) and to
+      complete a questionnaire about their exposure, both within and outside the ITM, to the
+      SARS-CoV-2, and about their health and symptoms. The primary objective is to estimate the
+      occurrence rate of anti-SARS-CoV-2 antibodies or seroprevalence in ITM staff. Secondary
+      objective is to estimate the SARS-CoV-2 seroprevalence in ITM staff member groups, stratified
+      by variables obtained through the questionnaire, such as age, gender, symptoms, exposure to
+      COVID-19 patients/samples, comorbidities, adherence to containment measures.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study is observational and will be conducted on ITM staff members. All members will be
+      invited to participate.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2020</start_date>
+  <completion_date type="Anticipated">September 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 seroprevalence ITM staff</measure>
+    <time_frame>Sample is drawn once, at recruitment + 7 days maximum</time_frame>
+    <description>The proportion of participating ITM staff members with detectable SARS-CoV-2 antibodies</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 seroprevalence in ITM staff, stratified by variables</measure>
+    <time_frame>Questionnaire is completed once, at recruitment</time_frame>
+    <description>SARS-CoV-2 seroprevalence in ITM staff members stratified by variables obtained through the questionnaire, such as age, gender, symptoms, exposure to COVID-19 patients/samples, comorbidities, adherence to containment measures.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Risk or protective factors for SARS-CoV-2 seropositivity</measure>
+    <time_frame>Questionnaire is completed once, at recruitment</time_frame>
+    <description>To identify factors that are associated with an elevated or reduced risk of seropositivity in ITM staff and the Belgian working population in general.</description>
+  </other_outcome>
+  <enrollment type="Anticipated">430</enrollment>
+  <condition>Covid19</condition>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Serum
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Active ITM staff members
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Be an active ITM staff member
+
+          -  Be willing and able to complete the questionnaire
+
+          -  Be willing and able to provide informed consent
+
+        Exclusion Criteria:
+
+          -  Doctor of Philosophy (PhD) students, Master students and interns of the ITM
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Marjan Van Esbroeck, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Institute of Tropical Medicine, Belgium</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marjan Van Esbroeck, MD</last_name>
+    <phone>+32 3 247 64 44</phone>
+    <email>mvesbroeck@itg.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Institute of Tropical Medicine</name>
+      <address>
+        <city>Antwerp</city>
+        <zip>2000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marjan Van Esbroeck, MD</last_name>
+      <phone>+32 3 247 64 44</phone>
+      <email>mvesbroeck@itg.be</email>
+    </contact>
+    <investigator>
+      <last_name>Marjan Van Esbroeck</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sarah Gils</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marie Laga</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nikki Foqué</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bart Karl Jacobs</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lut Lynen</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 7, 2020</study_first_posted>
+  <last_update_submitted>August 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>humans</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>pandemics</keyword>
+  <keyword>SARS virus</keyword>
+  <keyword>cross-sectional studies</keyword>
+  <keyword>seroepidemiological studies</keyword>
+  <keyword>Belgium</keyword>
+  <keyword>risk factors</keyword>
+  <keyword>seroprevalence</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Study population being only ITM staff members, individual participant data (IPD) cannot be shared due to privacy reasons</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

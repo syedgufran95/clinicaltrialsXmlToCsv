@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2843">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04497636</url>
+  </required_header>
+  <id_info>
+    <org_study_id>170519004</org_study_id>
+    <nct_id>NCT04497636</nct_id>
+  </id_info>
+  <brief_title>Mental Health Impact of the COVID-19 Pandemic Among Migrants in Chile</brief_title>
+  <acronym>STRING-COVID</acronym>
+  <official_title>Mental Health Impact of the COVID-19 Pandemic Among Immigrants in Santiago, Chile (STRING-COVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pontificia Universidad Catolica de Chile</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fondo Nacional de Desarrollo Científico y Tecnológico, Chile</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Pontificia Universidad Catolica de Chile</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evidence suggests that social isolation affects mental health by increasing symptoms of
+      anxiety and depression. One of the main components of the current COVID-19 pandemic is the
+      social isolation imposed on the population. This study seeks to assess the impact of the
+      physical and social living conditions of the pandemic in a cohort of urban immigrants in
+      Chile (i.e. STRING) evaluated six months prior to the pandemic.
+
+      Specific aims are to
+
+        1. Describe the variations in the levels of mental health of immigrants during and after
+           the pandemic,
+
+        2. Calculate the effect of social isolation on the levels of mental health of the immigrant
+           population, and
+
+        3. Identify risk / protective factors associated with increased mental health problems
+
+      An online survey will be applied to the STRING cohort at two moments of the pandemic (i.e.
+      during quarantines and after six months).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 3, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Depressive symptoms</measure>
+    <time_frame>Month 1 (first follow-up) and month 6 (second follow-up)</time_frame>
+    <description>The Patient Health Questionnaire 9 (PHQ-9; Kroenke, Spitzer &amp; Williams, 2001) is used to measure symptoms of depression in accordance with the diagnostic criteria for major depressive disorder. The questionnaire consists of nine items scored on a four-point Likert scale (0-3), with the range of scores from 0 to 27. Higher scores indicate greater depression severity, and scores above 10 are considered as the cut-off that indicating that the patient is within the depressive area. Specific cut-off for primary care samples in Chile have been found yielding a cut-off of 7 and above for high sensitivity and specificity (Saldivia, Aslan, Cova, Vicente, Inostroza &amp; Rincón, 2019)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Symptoms of anxiety</measure>
+    <time_frame>Month 1 (first follow-up) and month 6 (second follow-up)</time_frame>
+    <description>The Generalized Anxiety Disorder 7 (GAD-7; Spitzer, Kroenke, Williams &amp; Löwe, 2006) is used to measure symptoms of anxiety and worry. The questionnaire consists of seven items scored on a four-point Likert scale (0-3), with the scores ranging from 0 to 21. Specific cut-off for primary care samples in Spain have been found yielding a cut-off of 10 and above for high sensitivity and specificity (García-Campayo et al, 2010).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Symptoms of post-traumatic stress disorder</measure>
+    <time_frame>Month 1 (first follow-up) and month 6 (second follow-up)</time_frame>
+    <description>The Impact of Events Scale (IES-R; Weiss &amp; Marmar, 1997) is used to measure symptoms of post-traumatic stress disorder (PTSD). There scale consists of 22 questions which are scored on a five-point Likert scale (0=not at all, 1=a little bit, 2=moderately, 3=quite a bit, 4=extremely). There are three subscales (i.e., avoidance, intrusion, hyperarousal) and the sum of the three subscales scores comprise the total score. A total score ≥33 indicates the likely presence of PTSD using criteria from the Diagnostic Symptom Manual (DSM-IV).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in mental health symptoms, well-being from last 2 weeks before the pandemic to last 2 weeks during COVID-19 pandemic</measure>
+    <time_frame>Change from last 2 weeks before pandemic to month 1 (first follow-up)</time_frame>
+    <description>Change in visual analogue scale-assessed transdiagnostic measures across all psychiatric symptoms, and World Health Organization (WHO)-5 well-being in the last 2 weeks compared to the last 2 weeks of &quot;regular life&quot; before the COVID-19 outbreak.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Loneliness</measure>
+    <time_frame>Month 1 (first follow-up) and month 6 (second follow-up)</time_frame>
+    <description>Three-Item Revised UCLA Loneliness Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in general physical health</measure>
+    <time_frame>Change from last 2 weeks before pandemic to month 1 (first follow-up)</time_frame>
+    <description>Change in general physical health, self-rated, on a VAS scale from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in general mental health</measure>
+    <time_frame>Change from last 2 weeks before pandemic to month 1 (first follow-up)</time_frame>
+    <description>Change in general mental, self-rated, on a VAS scale from 0 to 100</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1092</enrollment>
+  <condition>Anxiety</condition>
+  <condition>Depression</condition>
+  <condition>Stress, Psychological</condition>
+  <condition>Loneliness</condition>
+  <condition>Social Isolation</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The STRING cohort is comonsed of 1,092 adults residing in private households in the
+        Metropolitan Region of Santiago, Chile who were born outside of Chile and had lived in the
+        country for at least 3 months in the first wave.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Country of birth other than Chile
+
+          -  Time since arrival to Chile: 3 months (at baseline)
+
+        Exclusion Criteria:
+
+          -  Unable to understand Spanish
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Antonia Errazuriz, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Catolica de Chile</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Antonia Errazuriz, PhD</last_name>
+    <phone>+56 953631333</phone>
+    <email>anerrazuriz@uc.cl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Pontificia Universidad Catolica de Chile</name>
+      <address>
+        <city>Santiago</city>
+        <state>RM</state>
+        <zip>7550139</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonia Errazuriz, PhD</last_name>
+      <phone>+56 953631333</phone>
+      <email>anerrazuriz@uc.cl</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Chile</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 4, 2020</study_first_posted>
+  <last_update_submitted>August 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Migrants</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Anxiety</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Within-group longitudinal design</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Stress, Psychological</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3281">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492267</url>
+  </required_header>
+  <id_info>
+    <org_study_id>7930</org_study_id>
+    <nct_id>NCT04492267</nct_id>
+  </id_info>
+  <brief_title>Inflammatory Bowel Disease (IBD) and Covid-19 Infection</brief_title>
+  <acronym>MICI-Covid-19</acronym>
+  <official_title>SARS-CoV-2 Infection in Patients From Two Tertiary Inflammatory Bowel Disease (IBD) Centres: Frequency of Suspected and Confirmed Infections, Severity and Outcome Management</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Strasbourg, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Strasbourg, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Most of the inflammatory bowel disease (IBD: Crohn's disease and ulcerative colitis) in a
+      tertiary expert Centre are on immunosuppressive and/or biological therapy. Theoretically,
+      these treatments may increase patients' risk of infection, in particular viral infection.
+      Therefore, the current SARS-Cov-2 pandemia, with its unprecedent worldwide morbidity and
+      mortality, may have a negative impact on IBD patients' clinical course. Identifying an
+      increased risk in this particular patients' population as well as the risk/protective factors
+      is of outstanding importance, in order to adapt their treatment and surveillance. As a
+      consequence, our aims were (i) to measure retrospectively the risk of SARS-CoV-2 (proven by
+      biological testing or suspected due to record of potential clinical symptoms of COVID-19
+      infection) in this patients' cohort (principal objective), (ii) to identify risk or
+      protective factors for SARS-CoV-2 infection in IBD, and (iii) to analyze the outcome of
+      patients in case of suspected or confirmed COVID-19. The results of this study may be
+      important to adjust our surveillance and therapeutic strategy in these patients, in
+      particular if high virus circulation will occur in the future.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 7, 2020</start_date>
+  <completion_date type="Anticipated">January 7, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 7, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Retrospective analysis of severity and specific needs in case of SARS-CoV-2 infection in IBD patients</measure>
+    <time_frame>Files analysed retrospectily from March 1st, 2020 to July 31, 2020 will be examined</time_frame>
+  </primary_outcome>
+  <enrollment type="Anticipated">700</enrollment>
+  <condition>Inflammatory Bowel Disease</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        IBD patient (Crohn's disease, ulcerative colitis, indeterminate colitis) over the age of 18
+        years
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient over the age of 18 years
+
+          -  IBD patients (Crohn's disease, ulcerative colitis, indeterminate colitis)
+
+          -  Patient agreeing to participate in the study
+
+        Exclusion Criteria:
+
+          -  Patient unable to understand the study protocol or to answer simple anamnestic
+             questions due to language barrier
+
+          -  Patient under guardianship or trusteeship
+
+          -  Patient under safeguard of justice
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jean-Marie REIMUND, MD, PhD</last_name>
+    <phone>33 3 88 12 74 41</phone>
+    <email>jean-marie.reimund@chru-strasbourg.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Saïd CHAYER, PhD, HDR</last_name>
+    <phone>33 3 88 11 66 90</phone>
+    <email>said.chayer@chru-strasbourg.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Service Hépato-Gastroentérologie et Assistance Nutritive Hôpitaux Univesitaires de Strasbourg</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean-Marie REIMUND, MD, PhD</last_name>
+      <phone>33 3 88 12 74 41</phone>
+      <email>jean-marie.reimund@chru-strasbourg.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Jean-Marie REIMUND, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bénédicte CARON, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yves ARONDEL, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>July 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Inflammatory Bowel Disease</keyword>
+  <keyword>IBD</keyword>
+  <keyword>Crohn's disease</keyword>
+  <keyword>Ulcerative colitis</keyword>
+  <keyword>Immunosuppressant therapy</keyword>
+  <keyword>Biologicals</keyword>
+  <keyword>Severe respiratory disease</keyword>
+  <keyword>intensive care unit</keyword>
+  <keyword>Mechanical ventilation</keyword>
+  <keyword>Death</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Intestinal Diseases</mesh_term>
+    <mesh_term>Inflammatory Bowel Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

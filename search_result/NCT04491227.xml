@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2489">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04491227</url>
+  </required_header>
+  <id_info>
+    <org_study_id>000295</org_study_id>
+    <nct_id>NCT04491227</nct_id>
+  </id_info>
+  <brief_title>Global Assessment of Acute and Chronic Kidney Disease Incidence and Outcomes in Patients With COVID-19 Infection</brief_title>
+  <official_title>Global Assessment of Acute and Chronic Kidney Disease Incidence and Outcomes in Patients With COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Diego</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, San Diego</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The coronavirus (COVID-19) pandemic has created a significant strain on health care resources
+      across the world for managing critically ill patients. Emerging reports from China, South
+      Korea and Italy have reported varying incidence of acute kidney (AKI) ranging from 5-15% with
+      a mortality of 60-80% however there is no systematic assessment of the risk factors,
+      recognition, course and outcomes in patients with and without kidney disease whose course is
+      complicated by AKI1-4. Patients with underlying CKD, immunosuppressed patients with renal
+      transplants and ESKD patients are at high risk for COVID-19 infection and there is limited
+      information on the effect of COVID-19 on the course and outcomes of these patients. The
+      requirement for renal support including IHD, CRRT and sorbent based therapies has been
+      variable and has contributed to the intense pressure on the nephrology and critical care
+      providers for delivering these therapies. As the COVID-19 pandemic expands in the USA and
+      abroad, there is an intense need to understand the epidemiology of the disease and the
+      resources needed for renal support to inform clinical management and public health
+      interventions.
+
+      In this study, the investigators aim to investigate health care facilities across the world
+      (hospital wards, ICU, outpatient clinics, nursing homes, healthcare centers) to draw a global
+      picture of incidence, risk factors, resources available for treatment and prognosis of acute
+      and chronic kidney disease in patient with COVID 19 confirmed infection. The aim is to
+      identify trends in patients with acute and chronic kidney disease, determine its incidence,
+      treatment and outcomes in different settings across the world. This information will be used
+      to develop and implement educational tools and resources to prevent deaths from AKI and
+      progression of CKD in this and following pandemics.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Acute and Chronic kidney diseases are important causes of mortality and morbidity worldwide.
+      The associated socioeconomic burden of kidney disease and AKI, as in some cases recovery is
+      incomplete and chronic kidney disease (CKD) can arise, is a growing problem around the world.
+      During the COVID 19 pandemic the incidence of AKI has been reported to be as low as 0.5% to
+      as high as 23%. AKI was reported to develop at a median of 15 days in one study, and another
+      study reported that most AKI developed within 7 days of admission. The data on acute kidney
+      injury (AKI) in patients with COVID-19 is mostly from patients who are hospitalized, and in
+      some studies limited to critically ill patients in the ICU. In ICU patients the requirement
+      for renal support and mortality is reported to be high, however is a lack of epidemiological
+      studies specifically designed to determine the impact of COVID 19 on kidney outcomes.
+
+      The mortality rate of patients with kidney dysfunction varies widely and is inversely related
+      to country income and percentage of gross domestic product spent on total health expenditure.
+      Several initiatives will be very insightful and identified important gaps in knowledge, more
+      effort is required to understand this problem affecting all regions of the globe. In order to
+      eventually implement resources and tools to help prevent, diagnose and treat patients with
+      COVID 19 infection and kidney dysfunction, the investigators need to understand its
+      incidence, risk factors, available resources and barriers to diagnosis and treatment.
+
+      This project will collect data on kidney function progression in patients infected with COVID
+      19 across the world. The study will open to individual physicians across the world who agreed
+      to participate by providing de-identified clinical and lab data of patients with confirmed
+      COVID 19 infection with acute and chronic kidney dysfunction.
+
+      Primary Objectives:
+
+      1. Establish incidence and outcomes of acute kidney injury (AKI) in different settings
+      worldwide during the COVID 19 pandemic.
+
+      Secondary Objectives:
+
+        1. Compare risk factors, etiologies, diagnosis, management and outcomes of acute and
+           chronic kidney dysfunction in COVID 19 patients in different countries
+
+        2. Determine resources available for recognition, non-dialytic and dialytic management and
+           follow up of patients with acute and chronic kidney dysfunction and COVID 19 infection
+           in different settings and countries.
+
+        3. Determine long term outcomes, 6 months and 1 year, of patients with acute and chronic
+           kidney dysfunction and COVID 19 infection in different settings.
+
+        4. Evaluate barriers preventing access to the standard treatments of acute and chronic
+           kidney dysfunction and COVID 19 infection across different countries.
+
+        5. Determine the impact of COVID 19 infection on the progression of acute and chronic
+           kidney disease in patient with native and transplanted kidney.
+
+        6. Evaluate the treatment strategies of patient with ESKD on hospitalized patients with
+           COVID 19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">May 5, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AKI incidence</measure>
+    <time_frame>from hospital admission through hospital discharge upto 24 weeks</time_frame>
+    <description>Meeting of at least one of the modified KDIGO Criteria
+Increase or decrease in serum creatinine &gt;0.3 mg/dl from reference in 48 hours
+Increase or decrease in serum creatinine &gt; 50% from reference in 7 days
+Urine output &lt; 400 ml/day</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dialysis requirement</measure>
+    <time_frame>through study completion upto 1 year from enrollment</time_frame>
+    <description>initiation of intermittent hemodialysis, continuous hemodialysis or peritoneal dialysis during the hospital stay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>hospital mortality</measure>
+    <time_frame>through study completion within 1 year</time_frame>
+    <description>Deaths during primary hospitalization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Renal functional recovery</measure>
+    <time_frame>Assessed at at 3, 6 and 12 months from enrollment at hospital admission</time_frame>
+    <description>C-Complete: SCr &lt; 0.3 mg/dL from reference P-Partial: Requires no dialysis but not complete recovery N-No recovery: Dialysis dependent C-Complete: SCr &lt; 0.3 mg/dL from reference P-Partial: Requires no dialysis but not complete recovery N-No recovery: Dialysis dependent Percentage of patinets with renal functioanl recovery based on serum creatinien levels classfied as C-Complete: SCr &lt; 0.3 mg/dL from reference P-Partial: Requires no dialysis but not complete recovery N-No recovery: Dialysis dependent</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional status</measure>
+    <time_frame>questionnaires to be completed at 3, 6 and 12 months from enrollment at hospital admission</time_frame>
+    <description>EQL5D scale and SH8 scales completed at 3, 6 and 12 months post enrollment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resource utilization</measure>
+    <time_frame>Within 1 year of enrollment for primary hospitalization</time_frame>
+    <description>Number of days patient is in the hospital and ICU and is managed with ventilators, dialysis or other extracorporeal organ support e.g. ECMO during the hospital stay</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Covid19</condition>
+  <condition>AKI</condition>
+  <condition>CKD</condition>
+  <condition>ESRD</condition>
+  <condition>Transplant;Failure,Kidney</condition>
+  <arm_group>
+    <arm_group_label>Kidney disease in COVID-19</arm_group_label>
+    <description>Chronic Kidney Disease (CKD): Known diagnosis of chronic kidney disease; prior evidence of markers of kidney damage for 3 months (microalbuminuria, proteinuria &gt;300mg/24 hrs or abnormalities in imaging tests) or the presence of glomerular filtration rate (GFR) &lt;60 mL/min/1.73 m2 for 3 months calculated with CKD-EPI equation, with or without other signs of kidney damage as described above.
+ESKD: Patients that are dialysis dependent.
+Suspected AKI: Oliguria (&lt;200 mL/6 hours) and any AKI-related clinical signs or symptoms (see table 1) or urinalysis/dipstick abnormality. All suspected AKI cases must be confirmed prior to enrollment.
+Confirmed AKI: Meeting of at least one of the modified KDIGO Criteria
+Increase or decrease in serum creatinine &gt;0.3 mg/dl from reference in 48 hours
+Increase or decrease in serum creatinine &gt; 50% from reference in 7 days
+Urine output &lt; 400 ml/day
+Functioning Kidney transplant:</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with confirmed COVID 19 infection with acute and chronic kidney dysfunction.
+
+        Patients testing positive for COVID19 who meet criteria for AKI, have known CKD (with
+        baseline eGFR less than 60), are ESKD on dialysis or kidney transplant recipients will be
+        enrolled in the study.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with confirmed infection with COVID 19
+
+          -  Patients with Acute Kidney injury (AKI) or Chronic kidney disease (CKD) or need for
+             dialysis
+
+          -  Patients receiving Chronic dialysis (hemo or peritoneal dialysis)
+
+          -  Renal transplant recipients
+
+        Exclusion Criteria:
+
+          -  • Patients &lt; 18 yrs age
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ravindra L Mehta</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Diego</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama, Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Peter's Hospital</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jacobi Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Obrero #2</name>
+      <address>
+        <city>Cochabamba</city>
+        <country>Bolivia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Sacre Coeur &amp; Universite de Montreal</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universidad de Los Andes</name>
+      <address>
+        <city>Santiago</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Postgraduate Institute of Research, Chandigarh</name>
+      <address>
+        <city>Chandigarh</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Free Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>NW3 2QG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Guy's &amp; St Thomas's Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 7EH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nottingham</name>
+      <address>
+        <city>Nottingham</city>
+        <zip>NG7 2RD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Bolivia</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>India</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>July 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Diego</investigator_affiliation>
+    <investigator_full_name>Ravindra Mehta</investigator_full_name>
+    <investigator_title>Recall Faculty</investigator_title>
+  </responsible_party>
+  <keyword>AKI</keyword>
+  <keyword>dialysis</keyword>
+  <keyword>CKD</keyword>
+  <keyword>COVID19</keyword>
+  <keyword>renal transplant</keyword>
+  <keyword>mortality</keyword>
+  <keyword>renal recovery</keyword>
+  <keyword>resource utilization</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Renal Insufficiency, Chronic</mesh_term>
+    <mesh_term>Renal Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Participating sites will have acess to their own data and aggregate data</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

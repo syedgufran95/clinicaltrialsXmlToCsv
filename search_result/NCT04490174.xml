@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="53">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04490174</url>
+  </required_header>
+  <id_info>
+    <org_study_id>200143</org_study_id>
+    <secondary_id>20-E-0143</secondary_id>
+    <nct_id>NCT04490174</nct_id>
+  </id_info>
+  <brief_title>Serological Surveillance for COVID-19 in Central North Carolina</brief_title>
+  <official_title>Serological Surveillance for COVID-19 in Central North Carolina</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Environmental Health Sciences (NIEHS)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <brief_summary>
+    <textblock>
+      Background:
+
+      The SARS-CoV-2 virus has caused a pandemic. Little is known about the virus, so data is
+      needed to form an effective public health response. Researchers want to count how many people
+      have been exposed to COVID-19, learn about symptoms, and find out how many antibodies to the
+      SARS-CoV-2 virus a person may have in their blood over 1 year. This data could affect the
+      response to current and future pandemics.
+
+      Objective:
+
+      To learn how many people from a sampling of adults in North Carolina develop antibodies to
+      the SARS-CoV-2 virus over 1 year.
+
+      Eligibility:
+
+      Healthy people age 18 and older who do not currently have COVID-19
+
+      Design:
+
+      Participants will be screened with questions about their health.
+
+      Participants will have five 30-minute visits at the Clinical Research Unit. At each visit,
+      they will have blood drawn to see if they have SARS-CoV-2 antibodies.
+
+      If the test result is positive for antibodies, the participant will be tested to see if they
+      currently have COVID-19. For this, a nasal or throat swab will be done, or saliva will be
+      collected. They may do this test at the same visit as the blood draw, or they may schedule an
+      extra visit.
+
+      Around the time of their study visits, participants will take an online survey about
+      themselves, their health, and COVID-19. It takes 10 minutes to complete. Every week for 52
+      weeks, they will also take a brief online survey about their symptoms. It takes 2 minutes to
+      complete. They will be emailed a link to log in and fill out the surveys on a secure website.
+
+      Participation will last for 1 year.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It has been demonstrated that respiratory virus outbreaks and pandemics, such as influenza,
+      SARS, MERS, and now the newly emerged SARS-CoV-2 virus, have a major impact on morbidity and
+      mortality worldwide, as well as having devastating global economic and societal impact.
+      During these outbreaks it is critical to gain a rapid understanding of the exposures and
+      immunity in the general population. Identifying exposures can be accomplished through
+      analysis of serum during an outbreak to identify those with specific antibodies to the
+      pathogen. The knowledge of the level of exposures could greatly impact the response to
+      current and future pandemics.
+
+      This study is a prospective, longitudinal, observational, single-center, exploratory, natural
+      history study to collect samples and data from individuals to identify the presence and rate
+      of development of anti-SARS-CoV-2 antibodies in North Carolina.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 26, 2020</start_date>
+  <completion_date type="Anticipated">June 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Anti-SARS-COV-2 antibodies</measure>
+    <time_frame>Day1, months 3, 6, 9, 12</time_frame>
+    <description>Proportion of people with detectable Anti-SARS-COV-2 antibodies</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Positive SARS-CoV-2 PCR</measure>
+    <time_frame>Day1, months 3, 6, 9, 12</time_frame>
+    <description>To identify the rate of asymptomatic carriers of SARS-CoV-2 (PCR positive) among participants with detectable antibodies to SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical questionnaires and ELISA antibody testing resu</measure>
+    <time_frame>Day1, months 3, 6, 9, 12</time_frame>
+    <description>To associate presence or absence of detectable antibodies to SARS-CoV-2 with respiratory symptoms and future diagnosis with COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of Anti-SARS-CoV-2 antibodies by ELISA Assay Algorithm</measure>
+    <time_frame>Day1, months 3, 6, 9, 12</time_frame>
+    <description>To determine the natural history of antibody titers among the participants who are found to have detectable antibodies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical questionnaires and ELISA antibody testing results</measure>
+    <time_frame>Day1, months 3, 6, 9, 12</time_frame>
+    <description>To associate demographic and medical factors with incidence of newly detectable antibodies to SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of Anti-SARS-CoV-2 antibodies by ELISA Assay Algorithm</measure>
+    <time_frame>Day1, months 3, 6, 9, 12</time_frame>
+    <description>To identify the incidence of newly detectable antibodies to SARS-CoV-2 in the recruited cohort of adults in North Carolina over 12 months after enrollment</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">2500</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Healthy participants</arm_group_label>
+    <description>Healthy adults without a current active COVID-19 infection or current symptoms consistent with COVID-19 at the first clinic visit</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Healthy adults &gt;18 years age without a current active COVID-19 infection or current
+        symptoms consistent with COVID-19 within Central North Carolina.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:
+
+        In order to be eligible to participate in this study, an individual must meet all of the
+        following criteria:
+
+          1. Male and females
+
+          2. greater than or equal to 18 years of age
+
+          3. Able to read and speak English
+
+          4. Ability to provide informed consent
+
+          5. Able to travel to study visits at the NIEHS CRU for required study visits
+
+          6. Stated willingness to comply with all study procedures and availability for the
+             duration of the study
+
+        EXCLUSION CRITERIA:
+
+        An individual who meets any of the following criteria will be excluded from participation
+        in this study:
+
+          1. Current symptoms consistent with COVID-19 infection at the point of Antibody Visit 1
+
+          2. Inability to provide a blood sample
+
+          3. Any condition that, in the investigator's opinion, places the participant at undue
+             risk for complications associated with required study procedures.
+
+          4. Not willing to have blood samples stored for future research
+
+        Participants who have Limited English Proficiency will be excluded from the study because
+        the informed consent form is only available in English. The study documents (Demographic
+        and Health Assessment Questionnaire, and Weekly Symptom Questionnaire) and FDA Fact Sheets
+        for Tests with Emergency Use Authorization are only available in English.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stavros Garantziotis, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Environmental Health Sciences (NIEHS)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>NIEHS Join A Study Recruitment Group</last_name>
+    <phone>(855) 696-4347</phone>
+    <email>myniehs@nih.gov</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NIEHS Clinical Research Unit (CRU)</name>
+      <address>
+        <city>Research Triangle Park</city>
+        <state>North Carolina</state>
+        <zip>27709</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicole Edwards</last_name>
+      <phone>984-287-4416</phone>
+      <email>nicole.edwards@nih.gov</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2020-E-0143.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Epidemiology Working Group for NCIP Epidemic Response, Chinese Center for Disease Control and Prevention. [The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China]. Zhonghua Liu Xing Bing Xue Za Zhi. 2020 Feb 10;41(2):145-151. doi: 10.3760/cma.j.issn.0254-6450.2020.02.003. Chinese.</citation>
+    <PMID>32064853</PMID>
+  </reference>
+  <reference>
+    <citation>Tandon PN. COVID-19: Impact on health of people &amp; wealth of nations. Indian J Med Res. 2020 Feb &amp; Mar;151(2 &amp; 3):121-123. doi: 10.4103/ijmr.IJMR_664_20.</citation>
+    <PMID>32202260</PMID>
+  </reference>
+  <reference>
+    <citation>Dong L, Bouey J. Public Mental Health Crisis during COVID-19 Pandemic, China. Emerg Infect Dis. 2020 Jul;26(7):1616-1618. doi: 10.3201/eid2607.200407. Epub 2020 Jun 21.</citation>
+    <PMID>32202993</PMID>
+  </reference>
+  <verification_date>September 29, 2020</verification_date>
+  <study_first_submitted>July 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>October 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

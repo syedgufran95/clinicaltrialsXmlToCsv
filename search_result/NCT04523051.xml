@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="695">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04523051</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-05Obs-CHRMT</org_study_id>
+    <nct_id>NCT04523051</nct_id>
+  </id_info>
+  <brief_title>Rehabilitation After Admission in Intensive Care Unit for COVID-19</brief_title>
+  <acronym>RECOVER</acronym>
+  <official_title>Rehabilitation After Admission in Intensive Care Unit for COVID-19: an Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Régional Metz-Thionville</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Régional Metz-Thionville</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      France and especially the region &quot;Grand Est&quot; have been severely impacted by the COVID-19
+      pandemic. The first affected patients gradually began leaving the hospitalization sector and
+      some of them required rehabilitation before returning home.
+
+      Because it has only been studied for few months, COVID 19 possible impairment remain unknown,
+      especially in patients who required admission in ICU and needed rehabilitation.
+
+      In order to better understand the impact of the disease, the investigators wish to carry out
+      a descriptive analysis of hospitalized patient in rehabilitation center for Post-Covid-19
+      rehabilitation after ICU.
+
+      The purpose of this study was to describe the impairments and functional independency in
+      patients addressed to a rehabilitation center after an ICU stay for COVID 19 and to explore
+      the factors associated with their evolution.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2020</start_date>
+  <completion_date type="Anticipated">May 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Functional Independence measure (FIM) at the admission</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The FIM is an 18-item clinician-reported scale that assesses function in six areas including self-care, continence, mobility, transfers, communication and cognition. Each of the 18 items is graded on a scale of 1-7 based on level of independence in that item (1=total assistance required, 7=complete independence).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Functional Independence measure (FIM) 1-month hospitalization</measure>
+    <time_frame>Day 30</time_frame>
+    <description>The FIM is an 18-item clinician-reported scale that assesses function in six areas including self-care, continence, mobility, transfers, communication and cognition. Each of the 18 items is graded on a scale of 1-7 based on level of independence in that item (1=total assistance required, 7=complete independence).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Functional Independence measure (FIM) at the discharge</measure>
+    <time_frame>Day 180</time_frame>
+    <description>The FIM is an 18-item clinician-reported scale that assesses function in six areas including self-care, continence, mobility, transfers, communication and cognition. Each of the 18 items is graded on a scale of 1-7 based on level of independence in that item (1=total assistance required, 7=complete independence).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>weight at admission</measure>
+    <time_frame>Day 1</time_frame>
+    <description>weight of the patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>weight at the discharge</measure>
+    <time_frame>Day 180</time_frame>
+    <description>weight of the patient after hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>age</measure>
+    <time_frame>Day 1</time_frame>
+    <description>age of the patient at the admission in rehabilitation center</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated functional independence measure score before Covid-19</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The FIM is an 18-item clinician-reported scale that assesses function in six areas including self-care, continence, mobility, transfers, communication and cognition. Each of the 18 items is graded on a scale of 1-7 based on level of independence in that item (1=total assistance required, 7=complete independence). Estimating the functional independence score before the disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated dyspnea symptoms before Covid-19</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The modified Medical Research Council (mMRC) scale is a self-rating tool to measure the degree of disability that breathlessness poses on day-to-day on a scale from 0 to 4 (0= no breathlessness except on strenuous exercise and 4= too breathless to leave the house, or breathless when dressing or undressing).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in ICU unit</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Length of stay in ICU unit for Covid-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in acute care</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Length of stay in acute care for Covid-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in rehabilitation centers</measure>
+    <time_frame>Day 180</time_frame>
+    <description>Length of stay in rehabilitation centers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of Invasive mechanical ventilation</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Length of Invasive mechanical ventilation during the stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of pressure ulcers</measure>
+    <time_frame>Day 180</time_frame>
+    <description>Presence of pressure ulcers, stage and localization during the management of patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Risk of bedsore</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Risk of bedsore with the Braden scale. The Braden score consists of six subscales (sensory perception, moisture, activity, mobility, nutrition and friction/shear) representing the most commonly occuring risk factors for pressure ulcers and is scored from 6 to 23, with lower scores representing higher risk of developing pressure ulcers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Joint limitation</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Presence of joint limitation during the management</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dominant side</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Dominant side of the patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of psychic disorders</measure>
+    <time_frame>Day 180</time_frame>
+    <description>Presence of psychic disorders like delirium, sleep disorders, anxiety, sadness of mood, loss of appetite, suicidal thoughts, asking for psychologist care during the stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscle strength at the admission</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Muscle strength examination according to Medical Research Council muscle strength scale. This scale involves testing key muscles from the upper and lower extremities against the examiner's resistance and grading the patient's strength on a 0 to 5 scale with 0= no muscle activation and 5= muscle activation against examiner's full resistance, full range of motion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscle strength at the discharge</measure>
+    <time_frame>Day 180</time_frame>
+    <description>Muscle strength examination according to Medical Research Council muscle strength scale. This scale involves testing key muscles from the upper and lower extremities against the examiner's resistance and grading the patient's strength on a 0 to 5 scale with 0= no muscle activation and 5= muscle activation against examiner's full resistance, full range of motion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dyspnea symptoms at the admission</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Dyspnea symptoms according to the modified Medical Research Council (mMRC) scale. The mMRC is a self-rating tool to measure the degree of disability that breathlessness poses on day-to-day on a scale from 0 to 4 (0= no breathlessness except on strenuous exercise and 4= too breathless to leave the house, or breathless when dressing or undressing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dyspnea symptoms at the discharge</measure>
+    <time_frame>Day 180</time_frame>
+    <description>Dyspnea symptoms according to the modified Medical Research Council (mMRC) scale. The mMRC is a self-rating tool to measure the degree of disability that breathlessness poses on day-to-day on a scale from 0 to 4 (0= no breathlessness except on strenuous exercise and 4= too breathless to leave the house, or breathless when dressing or undressing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional exercise capacity</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Functional exercise capacity measured by a 6 minutes Walking test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Destination of patients at discharge</measure>
+    <time_frame>Day 180</time_frame>
+    <description>Destination of patients at discharge from rehabilitation center. For the destination there is 4 possibility: the return home, institutionalization, re-hospitalization or other (specify where).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen saturation of the blood at the admission</measure>
+    <time_frame>Day 1</time_frame>
+    <description>The measuring of oxygen saturation of the blood by means of an oximeter at the admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen saturation of the blood at the discharge</measure>
+    <time_frame>Day 180</time_frame>
+    <description>The measuring of oxygen saturation of the blood by means of an oximeter at the discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of Hoffman signs</measure>
+    <time_frame>Day 180</time_frame>
+    <description>Hoffman's sign is a test to examine the reflexes of the upper extremities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of Babinski signs</measure>
+    <time_frame>Day 180</time_frame>
+    <description>The Babinski reflex is obtained by stimulating the external portion of the sole.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sex</measure>
+    <time_frame>Day 1</time_frame>
+    <description>gender of participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurological examination at the admission</measure>
+    <time_frame>Day 1</time_frame>
+    <description>presence of anosmia, dysgeusia, swallowing disorders, phonation disorders, phasic disorders, confusion, headache, urinary or fecal incontinence at the admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurological examination at the discharge</measure>
+    <time_frame>Day 180</time_frame>
+    <description>presence of anosmia, dysgeusia, swallowing disorders, phonation disorders, phasic disorders, confusion, headache, urinary or fecal incontinence at the discharge</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Post-COVID patient
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Post-COVID patient hospitalized in rehabilitation center
+
+          -  Admission in Intensive Care Unit with proven COVID-19 disease before
+
+        Exclusion Criteria:
+
+          -  Patients not willing to participate via using their medical files
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Vincent Dinot</last_name>
+    <phone>387553323</phone>
+    <phone_ext>0033</phone_ext>
+    <email>vincent.dinot@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Clémence Deffinis, MD</last_name>
+    <email>c.deffinis@chr-metz-thionville.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Etablissement de santé Filieris</name>
+      <address>
+        <city>Freyming-Merlebach</city>
+        <state>Moselle</state>
+        <zip>57800</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Elise Schwartz-Leduc, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Catherine Achour, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Legouest</name>
+      <address>
+        <city>Metz</city>
+        <state>Moselle</state>
+        <zip>57000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Armelle Stephan-Carlier, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Margaux Temperelli, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHR Metz Thionville</name>
+      <address>
+        <city>Metz</city>
+        <state>Moselle</state>
+        <zip>57085</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nadia Ouamara</last_name>
+      <phone>387557752</phone>
+      <phone_ext>0033</phone_ext>
+      <email>n.ouamara@chr-metz-thionville.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Clémence Deffinis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rémi Leclaire, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 21, 2020</study_first_posted>
+  <last_update_submitted>August 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

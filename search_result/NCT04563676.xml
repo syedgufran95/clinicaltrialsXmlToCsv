@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1831">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04563676</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PI2020_843_0096</org_study_id>
+    <nct_id>NCT04563676</nct_id>
+  </id_info>
+  <brief_title>Physiopathology and Sequelae of COVID-19 Infection</brief_title>
+  <acronym>SEQ-COV-PHYSIO</acronym>
+  <official_title>Physiopathology and Sequelae of COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire, Amiens</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire, Amiens</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The data obtained from Covid-19 infections seem to suggest that the immunogenesis of Covid-19
+      could in some cases be the result of immune dysregulation. On the other hand, endocrine
+      damage is possible at the tile of Covid-19 infection (mainly thyroid,adrenal, and
+      hypothalamus). These disorders are autoimmune or linked to degeneration.
+
+      The main objective is to assess the thyroid function (thyrotropic axis) as well as the
+      corticotropic adrenal function of patients who have had Copvid-19 pneumonia. The secondary
+      objectives is to describe the pathophysiological mechanisms of pulmonary and
+      vasculothrombotic involvement of Covid-19
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 22, 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>8-hour cortisol level in patients with Covid19 pneumonia</measure>
+    <time_frame>day 0</time_frame>
+    <description>8-hour cortisol level in patients with Covid19 pneumonia will be determined the day of consultation for respiratory sequelae.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>TSH level in patients with Covid19 pneumonia</measure>
+    <time_frame>day 0</time_frame>
+    <description>TSH level in patients with Covid19 pneumonia will be determined the day of consultation for respiratory sequelae.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <condition>TSH</condition>
+  <condition>Cortisol</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>blood test</intervention_name>
+    <description>covid19 infected patient will have a blood test in order to make an autoimmune assessment (antinuclear antibodies, soluble nuclear anti-antigen, ANCA, antiphospholipid antibodies, FT3, FT4 , TSH, antithyroid antibodies, ACTH cortisol, and creation of a serotheque).</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  patient having a covid19 infection hospitalized at the Amiens Picardie University
+             Hospital
+
+          -  Patient who is seen in Pneumology consultation for a respiratory assessment at 3
+             months of his hospitalization (between M2 and M4) to evaluate presence of respiratory
+             sequelae
+
+          -  Patient who agreed to participate in the protocol
+
+          -  Patient affiliated to a Social Security
+
+        Exclusion Criteria:
+
+          -  patient under guardianship or curators
+
+          -  patient refusing to participate
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Claire ANDREJAK, Pr</last_name>
+    <phone>(33)3.22.08.79.98</phone>
+    <email>andrejak.claire@chu-amiens.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU Amiens</name>
+      <address>
+        <city>Amiens</city>
+        <zip>80480</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claire ANDREJAK, Pr</last_name>
+      <phone>(33)3.22.08.79.98</phone>
+      <email>andrejak.claire@chu-amiens.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Valery Salle, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rachel DESAILLOUD, Pr</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 24, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>TSH</keyword>
+  <keyword>cortisol</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

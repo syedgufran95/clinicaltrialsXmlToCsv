@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="392">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04563156</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4047553</org_study_id>
+    <nct_id>NCT04563156</nct_id>
+  </id_info>
+  <brief_title>Follow-up and Rehabilitation of Survivors of Severe Coronavirus Disease 2019 (COVID-19) Infection</brief_title>
+  <acronym>SegCov</acronym>
+  <official_title>Follow-up and Rehabilitation of Survivors of Severe Covid-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Sao Paulo General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Sao Paulo General Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Infection with covid-19 is associated with respiratory failure, which when related to other
+      etiologies can lead to reduced quality of life, physical, cognitive and mental dysfunction.
+      There is no knowledge of the possible consequences of severe covid-19 infection.
+
+      Our objective is to describe these repercussions, identifying risk factors and assessing the
+      impact of physical training.
+
+      At least 100 patients over 18 years of age who survive severe Covid-19 infection will be
+      evaluated. Assessments after 1, 4, 6 and 12 months after hospital discharge. Quality of life,
+      dyspnea, activity of daily living, muscle strength, mental and cognitive dysfunction will be
+      evaluated, as well as pulmonary function test, cardiopulmonary stress test and chest
+      tomography. Return to work, thromboembolic events and mortality up to 12 months will also be
+      monitored.
+
+      Hospitalization data will be used to identify factors related to quality of life, fatigue and
+      respiratory dysfunction. Predefined risk factors will be evaluated: age, sex, smoking,
+      previous comorbidities index, previous clinical frailty, serum C-reactive protein and
+      leukocyte / lymphocyte ratio in the first 24 hours of hospitalization, time between onset of
+      symptoms and hospitalization, ICU and mechanical ventilation, time on mechanical ventilation,
+      compliance corrected by the ideal weight at the start of mechanical ventilation, driving
+      pressure, tidal volume corrected by the ideal weight and PEEP (positive end expiratory
+      pressure) after 24 hours of intubation in controlled ventilation, tidal volume corrected by
+      the ideal weight after 24 hours of spontaneous ventilation, inspiratory muscle training and
+      pulmonary rehabilitation after hospital discharge.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Prospective longitudinal study in which survivors of severe infection with the covid-19 virus
+      (need for hospitalization with supplementation of more than 3l / min of oxygen or mechanical
+      ventilation) will be evaluated after 1 month, 4 months, 6 months and 1 year after hospital
+      discharge through distance or face-to-face assessment.
+
+      Patients will be included according to a convenience sample until 12/31/2020 with follow-up
+      until 12/31/2021. The EQ-5D questionnaire will be collected to assess quality of life. For
+      other secondary outcomes, the clinical frailty scale, daily life independence scale, MoCA
+      cognition questionnaire, hospital anxiety and depression questionnaire (HADS), muscle
+      strength measure by the MRC scale, dyspnea measure by the mMRC and BDI scale will be used
+      -TDI, 1-minute sit-and-stand test, maximum inspiratory and expiratory pressure measurement.
+      Return to work, occurrence of thromboembolic events, occurrence of falls, need for
+      re-hospitalization and mortality up to 12 months after admission will also be evaluated.
+
+      After 6 months of discharge, lung volume measurement will be performed by pulmonary function
+      test, aerobic capacity by cardiopulmonary exercise test and evaluation of anatomical
+      pulmonary sequelae by chest tomography. Patients residing close to the hospital will be
+      offered a physical training program carried out by the physiotherapy team with assessment of
+      functional response indicators.
+
+      The data obtained in the follow-up will be crossed with data obtained by the Epicov study in
+      order to identify risk factors related to dysfunctions.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">June 23, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Quality of life assessment of a survivor of severe COVID-19 infection 6 months after hospital discharge;</measure>
+    <time_frame>6 months after discharge</time_frame>
+    <description>EQ-5D is a standardized tool for the assessment of quality of life in 5 different dimensions (Mobility, Self-Care, Usual Activities, Pain/Discomfort, Anxiety/Depression). Possible scores range from 1 (No problem) to 3 (Extreme problems) and each dimension are evaluated individually. Assessment at 6 months after discharge</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life questionnaire EQ-5D</measure>
+    <time_frame>30, 120 days and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of dyspnea by the Modified Medical Research Council Scale (mMRC)</measure>
+    <time_frame>30, 120 days, 6 months and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Hospital Anxiety and Depression Scale</measure>
+    <time_frame>6 months and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Baseline and Transition Dyspnea Indexes (BDI-TDI)</measure>
+    <time_frame>30 days, 120 days, 6 and 12 months after hospital discharge;</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical frailty scale measured after discharge from the ICU,</measure>
+    <time_frame>30, 120 days, 6 and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lawton-Brody Instrumental Activities of Daily Living (iADL) scale</measure>
+    <time_frame>30, 120 days, 6 months and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Muscle strength according to the Medical Research Council (MRC) scale</measure>
+    <time_frame>30, 120 days, 6 and 12 months after hospital discharge;</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum inspiratory pressure, diaphragmatic mobility and diaphragm thickness</measure>
+    <time_frame>30, 120 days, 6 and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sit-to-stand test in 1 minute</measure>
+    <time_frame>30 days, 120 days, 6 and 12 months after hospital</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive dysfunction measured using the Montreal Cognitive Assessment (MoCA) test</measure>
+    <time_frame>6 months and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary function test with Maximal inspiratory pressure (MIP) and maximal expiratory pressure (MEP) measurements</measure>
+    <time_frame>30, 120 days and 6 and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemoglobin, hematocrit, creatinine and Fasting plasma glucose (FPG)</measure>
+    <time_frame>6 and 12 months after hospital discharge;</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantitative computerized tomography scan</measure>
+    <time_frame>6 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum VO2 during Cardiopulmonary exercise testing</measure>
+    <time_frame>6 and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Return to work</measure>
+    <time_frame>6 months and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of thromboembolic events after</measure>
+    <time_frame>6 and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of falls</measure>
+    <time_frame>6 and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for readmission</measure>
+    <time_frame>6 and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>6 and 12 months after hospital discharge</time_frame>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Severe Covid-19 Survivors</arm_group_label>
+    <description>Severe Covid-19 survivors previously admitted in the hospital</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Lung Function Test</intervention_name>
+    <description>Lung Function Test at 1, 4, 6 and 12 months after discharge. Computerized tomography scan at 6 months after discharge. Cardiopulmonary Exercise Testing at 6 months after discharge</description>
+    <arm_group_label>Severe Covid-19 Survivors</arm_group_label>
+    <other_name>Computerized tomography scan</other_name>
+    <other_name>Cardiopulmonary Exercise Testing</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients over 18 years of age whom was admitted at the Hospital das Clínicas da Faculdade
+        de Medicina da Universidade de São Paulo (University of São Paulo Faculty of Medicine
+        Clinics Hospital) with positive RT-PCR for SARS CoV-2 swab that needed oxygen
+        supplementation greater than 3L / min or mechanical ventilation and has been discharged
+        from hospital after improvement.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients over 18 years of age
+
+          -  Respiratory infection confirmed by reverse-transcriptase polymerase chain reaction
+             (RT-PCR) for SARS CoV-2 swab
+
+          -  Need for admission to the ICU or ward with need for oxygen greater than 3L / min or
+             mechanical ventilation and has been discharged from hospital.
+
+        Exclusion Criteria:
+
+          -  Pregnancy
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo-HCFMUSP</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>05403-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <reference>
+    <citation>Toufen C Jr, Costa EL, Hirota AS, Li HY, Amato MB, Carvalho CR. Follow-up after acute respiratory distress syndrome caused by influenza a (H1N1) virus infection. Clinics (Sao Paulo). 2011;66(6):933-7.</citation>
+    <PMID>21808854</PMID>
+  </reference>
+  <reference>
+    <citation>Toufen Junior C, De Santis Santiago RR, Hirota AS, Carvalho ARS, Gomes S, Amato MBP, Carvalho CRR. Driving pressure and long-term outcomes in moderate/severe acute respiratory distress syndrome. Ann Intensive Care. 2018 Dec 7;8(1):119. doi: 10.1186/s13613-018-0469-4.</citation>
+    <PMID>30535520</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 24, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <keyword>LUNG FUNCTION</keyword>
+  <keyword>QUALITY OF LIFE</keyword>
+  <keyword>REHABILITATION</keyword>
+  <keyword>RISK FACTOR</keyword>
+  <keyword>FOLLOW-UP</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

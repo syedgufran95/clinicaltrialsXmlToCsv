@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2499">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04539834</url>
+  </required_header>
+  <id_info>
+    <org_study_id>(ZU-IRB#: 6328-23-8-2020)</org_study_id>
+    <nct_id>NCT04539834</nct_id>
+  </id_info>
+  <brief_title>Electrolyte State in Patients With COVID-19</brief_title>
+  <official_title>Electrolyte State in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zagazig University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Zagazig University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Initial case reports and cohort studies have described many clinical characteristics of
+      patients with coronavirus disease 2019 (COVID-19), an emerging infectious disorder caused by
+      the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In early COVID-19 studies,
+      some evidence has been provided that electrolyte disorders may also be present upon patients'
+      presentation, including sodium, potassium, chloride and calcium abnormalities
+
+      the aim of the study is Identification of elements that affect COVID-19 pathology to improve
+      survival and decrease mortality rate.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SARS-CoV-2 invades human cells through binding angiotensin I converting enzyme 2 (ACE2) on
+      the cell membrane. ACE2 is widely distributed in many types of human tissues, especially in
+      the vital organs, such as heart, liver, kidney, and lungs. ACE2 is viewed as the principal
+      counter-regulatory mechanism for the main axis of renin-angiotensin system (RAS) that is an
+      essential player in the control of blood pressure and electrolyte balance. The final effect
+      is to increase reabsorption of sodium and water, and thereafter increase blood pressure and
+      excretion of potassium (K+). Besides, patients with COVID-19 often had gastrointestinal
+      symptoms such as diarrhea and vomiting
+
+      Early studies proved that high percentage of COVID-19 patient were presented with electrolyte
+      disorders, including sodium, potassium, chloride and calcium abnormalities. Such electrolyte
+      disturbances have important implications not only for patient management but also for
+      identifying potential pathophysiologic mechanisms underlying COVID-19 that could drive novel
+      therapeutic opportunities
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">October 1, 2020</completion_date>
+  <primary_completion_date type="Actual">August 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>electrolytes disturbances in patients with COVID-19</measure>
+    <time_frame>4 months</time_frame>
+    <description>Serum Electrolytes (Na, K, Ca, Cl, Ph, Mg) abnormality in COVID 19 patients laboratory results in the different stages of the disease</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To asses the relation of the electrolyte disturbances with the severity of COVID-19 infection.</measure>
+    <time_frame>4 months</time_frame>
+    <description>To find any correlation between the level of the electrolyte disturbances and the morbidity and mortality of the disease .</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">52</enrollment>
+  <condition>Electrolyte Imbalance</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>electrolytes</intervention_name>
+    <description>measuring level of electrolytes</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients ≥ 18 years old with diagnosis of COVID-19 infection who admitted to Isolation
+        hospital of Zagazig University Hospitals during the period from 1 May 2020 to 1 August
+        2020.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients ≥ 18 years old who were confirmed by the real-time PCR on the respiratory
+             tract samples as positive of SARS-CoV-2.
+
+        Exclusion Criteria:
+
+          -  Patients who had other causes of electrolyte disturbances (9):
+
+          -  Chronic organ dysfunction (e.g., hepatic or renal dysfunction),
+
+          -  Terminal cancer, immunodeficiency, and
+
+          -  Patients with a history of long-term use of hormones &amp; Diuretics were excluded.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tarek Hamdy, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>lecturer of Chest diseases, Faculty of Medicine, Zagazig University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Hadeer El Shahaat, master degree</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistant lecturer of Chest diseases, Faculty of Medicine, Zagazig University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ahmed Abdulsaboor, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Clinical Pathology Department, Faculty of Medicine, Zagazig University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Zagazig University</name>
+      <address>
+        <city>Zagazig</city>
+        <zip>055</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 7, 2020</study_first_posted>
+  <last_update_submitted>September 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Zagazig University</investigator_affiliation>
+    <investigator_full_name>Essamedin Mamdouh Negm</investigator_full_name>
+    <investigator_title>lecturer</investigator_title>
+  </responsible_party>
+  <keyword>Electrolytes; COVID-19</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

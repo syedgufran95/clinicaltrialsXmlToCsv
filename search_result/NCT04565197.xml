@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2532">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04565197</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LGH008</org_study_id>
+    <nct_id>NCT04565197</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma Therapy for COVID-19 Patients</brief_title>
+  <official_title>Convalescent Plasma for Passive Immunization in COVID-19 ICU Patients: An Interventional Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lahore General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lahore General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Passive immunization involves the administration of antibodies against a given agent to a
+      susceptible individual for the purpose of preventing or treating an infectious disease due to
+      that agent. A general principle of passive antibody therapy is that it is more effective when
+      used for prophylaxis than for treatment of disease. When used for therapy, antibody is most
+      effective when administered shortly after the onset of symptoms
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Passive immunization involves the administration of antibodies against a given agent to a
+      susceptible individual for the purpose of preventing or treating an infectious disease due to
+      that agent. A general principle of passive antibody therapy is that it is more effective when
+      used for prophylaxis than for treatment of disease. When used for therapy, antibody is most
+      effective when administered shortly after the onset of symptoms. The reason for temporal
+      variation in efficacy is not well understood but could reflect that passive antibody works by
+      neutralizing the initial inoculums, which is likely to be much smaller than that of
+      established disease . As an example, passive antibody therapy for pneumococcal pneumonia was
+      most effective when administered shortly after the onset of symptoms, and there was no
+      benefit if antibody administration was delayed past the third day of disease.
+
+      Therapeutic and prophylactic significance was explored in influenza and measles . Transfusion
+      of immune plasma is a standard treatment modality for various viral hemorrhagic fevers . Its
+      efficacy in treating Ebola Virus Disease is also well established . Studies have reported
+      reduction viral load in patients with H1N1 influenza .Efficacy of convalescent plasma has
+      been anecdotally reported in SARS-CoV-2 infections .
+
+      The largest study involved the treatment of 80 patients with SARS in Hong Kong. Patients
+      treated before day 14 had improved prognosis defined by discharge from hospital before day
+      22, consistent with the notion that earlier administration is more likely to be effective .
+
+      In the case of SARS-CoV-2, the anticipated mechanism of action by which passive antibody
+      therapy mediated protection is viral neutralization. However, other mechanisms may be
+      possible, such as antibody-dependent cellular cytotoxicity and/or phagocytosis. The only
+      antibody type that is currently available for immediate use SARS-CoV-2 is that found in human
+      convalescent sera.
+
+      In China for SARS-CoV-2 disease, it has been found that the convalescent plasma therapy is
+      effective for patients with a disease course exceeding three weeks and whose virus nucleic
+      acid tests continuously to show positive from respiratory tracts specimen. It can speed up
+      virus clearance, increase the numbers of the plasma lymphocytes and NK cells, reduce the
+      level of plasma lactic acid, and improve renal functions.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Qausi-experimental</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>clinical outcome after plasma therapy</measure>
+    <time_frame>10 days</time_frame>
+    <description>Clinical Improvement of COVID-19 patients by giving them passive immunization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical response to treatment</measure>
+    <time_frame>10 days</time_frame>
+    <description>Overall survival of COVID-19 patients after plasma administration.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Group intervene with convalescent plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Review effect of Plasma therapy as clinical trial among hospitalized patients with COVID-19 infection.
+Transfuse 2 aliquots of plasma (200 mL x 2) per patient.
+Transfuse first aliquot for 2-3 hours (~1.4 to 2 mL/min)
+Transfuse second aliquot at same rate 2 hours after completion of first aliquot</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>convalescent plasma</intervention_name>
+    <description>Transfuse 2 aliquots of plasma (200 mL x 2) per patient.
+Transfuse first aliquot for 2-3 hours (~1.4 to 2 mL/min)
+Transfuse second aliquot at same rate 2 hours after completion of first aliquot</description>
+    <arm_group_label>Group intervene with convalescent plasma</arm_group_label>
+    <other_name>Plasma therapy</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:
+
+          -  Severe or critically ill COVID-19 patients tested positive in respiratory tract test.
+
+          -  The COVID-19 patients who are not severe or critically ill, but in a state of immunity
+             suppression;
+
+          -  or have low CT values in the virus nucleic acid testing but with a rapid disease
+             progression in the lungs.
+
+          -  Severe or immediately life-threatening COVID-19, for example,
+
+          -  Severe disease is defined as one or more of the following:
+
+               -  shortness of breath (dyspnea),
+
+               -  respiratory frequency ≥ 30/min,
+
+               -  blood oxygen saturation ≤ 93%,
+
+               -  partial pressure of arterial oxygen to fraction of inspired oxygen ratio &lt; 300,
+
+               -  lung infiltrates &gt; 50% within 24 to 48 hours
+
+          -  Within 3 to 21 days from onset of symptoms
+
+        Exclusion criteria:
+
+        • Life-threatening disease is defined as one or more of the following: respiratory failure,
+        septic shock, multiple organ dysfunction or failure
+
+        Critically ill COVID-19 patients will not considered suitable for being transfusion as
+        inflammatory pathway is already set in, so antibodies will not make that much of
+        difference.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Muhammad Irfan Malik, FCPS</last_name>
+    <role>Study Director</role>
+    <affiliation>Post-Graduate Medical Institute, Lahore General Hospital, Lahore Pakistan</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Muhammad Irfan Malik</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punjab</state>
+        <zip>54500</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <reference>
+    <citation>Robbins JB, Schneerson R, Szu SC. Perspective: hypothesis: serum IgG antibody is sufficient to confer protection against infectious diseases by inactivating the inoculum. J Infect Dis. 1995 Jun;171(6):1387-98. Review.</citation>
+    <PMID>7769272</PMID>
+  </reference>
+  <reference>
+    <citation>Casadevall A, Scharff MD. Serum therapy revisited: animal models of infection and development of passive antibody therapy. Antimicrob Agents Chemother. 1994 Aug;38(8):1695-702. Review.</citation>
+    <PMID>7985997</PMID>
+  </reference>
+  <reference>
+    <citation>Garraud O. Use of convalescent plasma in Ebola virus infection. Transfus Apher Sci. 2017 Feb;56(1):31-34. doi: 10.1016/j.transci.2016.12.014. Epub 2016 Dec 30. Review.</citation>
+    <PMID>28094110</PMID>
+  </reference>
+  <reference>
+    <citation>Luke TC, Casadevall A, Watowich SJ, Hoffman SL, Beigel JH, Burgess TH. Hark back: passive immunotherapy for influenza and other serious infections. Crit Care Med. 2010 Apr;38(4 Suppl):e66-73. doi: 10.1097/CCM.0b013e3181d44c1e. Review.</citation>
+    <PMID>20154602</PMID>
+  </reference>
+  <reference>
+    <citation>Hung IF, To KK, Lee CK, Lee KL, Chan K, Yan WW, Liu R, Watt CL, Chan WM, Lai KY, Koo CK, Buckley T, Chow FL, Wong KK, Chan HS, Ching CK, Tang BS, Lau CC, Li IW, Liu SH, Chan KH, Lin CK, Yuen KY. Convalescent plasma treatment reduced mortality in patients with severe pandemic influenza A (H1N1) 2009 virus infection. Clin Infect Dis. 2011 Feb 15;52(4):447-56. doi: 10.1093/cid/ciq106. Epub 2011 Jan 19.</citation>
+    <PMID>21248066</PMID>
+  </reference>
+  <reference>
+    <citation>Balabolkin MI. [Various problems of thyroidology]. Ter Arkh. 1988;60(9):136-41. Russian.</citation>
+    <PMID>3217871</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 25, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Lahore General Hospital</investigator_affiliation>
+    <investigator_full_name>Dr. M.Irfan Malik</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19, Convalescent plasma therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

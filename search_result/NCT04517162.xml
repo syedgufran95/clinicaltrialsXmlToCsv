@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2460">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04517162</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRE-3412-20-21-1</org_study_id>
+    <nct_id>NCT04517162</nct_id>
+  </id_info>
+  <brief_title>Intramuscular Effect of Polymerized Type I Collagen on the Cytokine Storm in COVID-19 Patients</brief_title>
+  <official_title>Effect of Collagen-Polyvinylpyrrolidone for the Treatment of Hyperinflammation and the Pulmonary Fibrosis in COVID-19 Patients. Double Blind Placebo-controlled Pilot Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janette Furuzawa Carballeda</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SARS-CoV-2 infection induces a hyperinflammatory syndrome, causing the acute respiratory
+      distress syndrome, massive lung cell destruction and, as a plausible sequelae, pulmonary
+      fibrosis in COVID-19 patients.
+
+      Current focus has been on the development of novel immunosuppressant therapies, in order to
+      control the cytokine storm in COVID-19 patients. Thus, the effect of steroids, intravenous
+      immunoglobulin, non-steroidal immunosuppressants, selective cytokine blockade, JAK/STAT
+      pathway inbhibition, and mesenchymal precursor cells have been evaluated. Based on the above
+      information, we propose COLLAGEN-POLYVINYLPYRROLIDONE (Distinctive name: FibroquelMR, active
+      substance: Collagen-polyvinylpyrrolidone, pharmaceutical form: intramuscular injectable
+      solution, with sanitary registration No. 201M95 SSA IV and SSA code: 010 000 3999) as a
+      potential drug for the downregulation of the cytokine storm. Polymerized type I collagen
+      reduces the expression of IL-1β, IL-8, TNF-alpha, TGF-β1, IL-17, Cox-1, leukocyte adhesion
+      molecules (ELAM-1, VCAM- 1 and ICAM-1), some other mediators of inflammation and increases
+      the levels of IL-10 and the number of regulatory T cells. In addition, it promotes the
+      mechanisms of inhibition of tissue fibrosis, without adverse effects in rheumatoid arthritis
+      and osteoarthritis.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 19, 2020</start_date>
+  <completion_date type="Anticipated">June 19, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 19, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Double Blind Placebo-controlled Clinical Trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical primary Outcome measure</measure>
+    <time_frame>14 days</time_frame>
+    <description>It will be considered as primary outcome if the patients meet the first criterion, or 2 of the remaining 3:
+No oxygen required to maintain oxygen saturation more than 92%,
+Decrease in severity category from Table 1 by at least 1 level, or
+Reduction in the time of symptoms, by at least 30% compared to placebo and baseline, or
+recovery of at least 30% the number of lymphocytes compared to placebo and baseline.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Immunological secondary outcome measure</measure>
+    <time_frame>3 months</time_frame>
+    <description>It will be considered as secondary outcome if the patients meet the first criterion, or 2 of the remaining 3:
+significant decrease in serum IP-10 (at least 30% compared to placebo and baseline), since this chemokine is directly associated with the progression and severity of COVID-19,
+significant decrease in serum pro-inflammatory cytokines (TNF-a, IL-1β, IL-7, at least 30% compared to placebo and baseline),
+significant decrease in the percentage of circulating effector T cells (at least 30% compared to placebo and baseline), or
+significant improvement from computerized axial tomography at re-examination. This improvement is defined as: a decrease of at least 40% in parenchymal attenuation, the appearance of ground glass, nodular opacities, thickening of interlobular septa and / or thickening of bronchial walls.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cytokine Storm</condition>
+  <condition>Regulation of Inflammatory Response</condition>
+  <condition>Pulmonary Fibrosis</condition>
+  <arm_group>
+    <arm_group_label>Active comparator or polymerized type I collagen</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>1.5 mL of polymerized type I collagen every 12 h for 3 days and then every 24 h for 4 days (in total 10 injections in 7 days)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo comparator o placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>1.5 mL of placebo, every 12 h for 3 days and then every 24 h for 4 days (in total 10 injections in 7 days)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Collagen-Polyvinylpyrrolidone</intervention_name>
+    <description>1.5 mL of polymerized-type I collagen or placebo, every 12 h for 3 days and then every 24 h for 4 days (in total 10 injections in 7 days)</description>
+    <arm_group_label>Active comparator or polymerized type I collagen</arm_group_label>
+    <arm_group_label>Placebo comparator o placebo</arm_group_label>
+    <other_name>Fibroquel</other_name>
+    <other_name>Polymerized-Type I Collagen</other_name>
+    <other_name>polymerized type I collagen</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  According to the sample size calculation (Cohen's d calculation, using a 50% decrease
+             in IP-10 as the expected effect size), 90 COVID-19 patients will be recruited
+             (symptoms: cough, expectoration, odynophagia, dyspnea with or without fever;
+             radiographic findings by imaging study: inflammatory infiltrates), of both sexes,
+             older than 18 years.
+
+          -  Participants will be enrolled, even when they do not have a laboratory-confirmed
+             SARS-CoV-2 infection as determined by a positive reverse transcription,
+             polymerase-chain-reaction (RT-PCR) assay result. Patients will be included if they
+             have progressive disease consistent with ongoing SARS-CoV -2 infection.
+
+          -  Patients with laboratory predictors of mild to severe disease (D-dimer&gt; 1000 ng/ml;
+             total lymphocytes &lt;800 cells/µl, creatine phosphokinase&gt; 2 times upper limit of the
+             normal range; elevated troponins and ferritin&gt; 300 µg/L) will be included.
+
+          -  Only those patients who are negative to the intradermal reaction of polymerized type I
+             collagen (subcutaneous application of 0.2 ml of the drug on the forearm, evaluation at
+             24-48h) will be included.
+
+          -  Patients with mild to severe disease, peripheral oxygen saturation (SpO2) &lt;92% on room
+             air, or requiring supplemental oxygen, or mechanical ventilation will be recruited.
+             There will be no limit to the duration of symptoms prior to enrollment.
+
+          -  Only those patients who are not participating in another protocol and who are not
+             receiving biological therapy and whose standardized therapy is suggested will be
+             included (AmoxiClav or ceftriaxone, or azithromycin, clarithromycin or doxycycline,
+             ivermectin, low molecular weight anticoagulants, paracetamol).
+
+          -  All patients who agree to participate in the protocol and from whom written informed
+             consent is obtained will be included.
+
+        Exclusion Criteria:
+
+          -  All patients positive for intradermal reaction to polymerized type I collagen (allergy
+             to study producto) will be excluded.
+
+          -  All pregnant or breast-feeding patients, patients with chronic kidney disease as
+             determined by calculating an estimated glomerular filtration rate (eGFR), or need for
+             hemodialysis or hemofiltration, patients with cerebrovascular disease, autoimmune
+             disease, cancer, multiorgan failure or immunodeficiencies (HIV, transplant patients,
+             hematological diseases, patients with chemotherapy) will be excluded.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric Ochoa-Hein, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Luis A Septien-Stute, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Janette Furuzawa-Carballeda, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gonzalo Torres-Villalobos, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Daniel Azamar-Llamas, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Diego F Hernández-Ramírez, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Elizabeth Olivares-Martínez, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Janette Furuzawa-Carballeda, PhD</last_name>
+    <phone>+525554850766</phone>
+    <email>jfuruzawa@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Enrique Ochoa-Hein, MD</last_name>
+    <phone>+525554870900</phone>
+    <phone_ext>7901-7906</phone_ext>
+    <email>jfuruzawa@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán</name>
+      <address>
+        <city>Mexico</city>
+        <state>Cdmx</state>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janette Furuzawa-Carballeda, PhD</last_name>
+      <phone>5536777923</phone>
+      <email>jfuruzawa@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Eric Ochoa-Hein, MD</last_name>
+      <phone>5554870900</phone>
+      <phone_ext>7901</phone_ext>
+      <email>dr_eric_ochoa@yahoo.com.mx</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <link>
+    <url>https://scidoc.org/IJBRR-2470-4520-04-201.php</url>
+    <description>Polymerized-Type I collagen induces a high-quality cartilage repair in a rat model of osteoarthritis</description>
+  </link>
+  <link>
+    <url>https://www.medrxiv.org/content/10.1101/2020.02.25.20025643v1</url>
+    <description>Correlation Analysis Between Disease Severity and Inflammation related Parameters in Patients with COVID-19 Pneumonia</description>
+  </link>
+  <link>
+    <url>https://es.scribd.com/document/467773330/EDITORIAL-Successful-Treatment-Strategy-of-Turkey-against-Covid19-Outbreak-12345-pdf</url>
+    <description>. Successful Treatment Strategy of Turkey against Covid-19 Outbreak</description>
+  </link>
+  <link>
+    <url>https://doi.org/10.1101/2020.02.10.20021832</url>
+    <description>Characteristics of lymphocyte subsets and cytokines in peripheral blood of 123 hospitalized patients with 2019 novel coronavirus pneumonia (NCP).</description>
+  </link>
+  <link>
+    <url>https://www.medrxiv.org/content/10.1101/2020.03.02.20029975v1.full.pdf</url>
+    <description>Exuberant elevation of IP-10, MCP-3 and IL-1ra during SARS-CoV-2 infection is associated with disease severity and fatal outcome</description>
+  </link>
+  <link>
+    <url>https://academic.oup.com/nsr/article/7/6/998/5804736</url>
+    <description>Pathogenic T cells and inflammatory monocytes incite inflammatory storm in severe COVID-19 patients</description>
+  </link>
+  <results_reference>
+    <citation>Channappanavar R, Fehr AR, Vijay R, Mack M, Zhao J, Meyerholz DK, Perlman S. Dysregulated Type I Interferon and Inflammatory Monocyte-Macrophage Responses Cause Lethal Pneumonia in SARS-CoV-Infected Mice. Cell Host Microbe. 2016 Feb 10;19(2):181-93. doi: 10.1016/j.chom.2016.01.007.</citation>
+    <PMID>26867177</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Elhai M, Avouac J, Allanore Y. Circulating lung biomarkers in idiopathic lung fibrosis and interstitial lung diseases associated with connective tissue diseases: Where do we stand? Semin Arthritis Rheum. 2020 Jun;50(3):480-491. doi: 10.1016/j.semarthrit.2020.01.006. Epub 2020 Jan 28. Review.</citation>
+    <PMID>32089354</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Feldmann M, Maini RN, Woody JN, Holgate ST, Winter G, Rowland M, Richards D, Hussell T. Trials of anti-tumour necrosis factor therapy for COVID-19 are urgently needed. Lancet. 2020 May 2;395(10234):1407-1409. doi: 10.1016/S0140-6736(20)30858-8. Epub 2020 Apr 9.</citation>
+    <PMID>32278362</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Furuzawa-Carballeda J, Lima G, Llorente L, Nuñez-Álvarez C, Ruiz-Ordaz BH, Echevarría-Zuno S, Hernández-Cuevas V. Polymerized-type I collagen downregulates inflammation and improves clinical outcomes in patients with symptomatic knee osteoarthritis following arthroscopic lavage: a randomized, double-blind, and placebo-controlled clinical trial. ScientificWorldJournal. 2012;2012:342854. doi: 10.1100/2012/342854. Epub 2012 Apr 1.</citation>
+    <PMID>22545014</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Furuzawa-Carballeda J, Muñoz-Chablé OA, Barrios-Payán J, Hernández-Pando R. Effect of polymerized-type I collagen in knee osteoarthritis. I. In vitro study. Eur J Clin Invest. 2009 Jul;39(7):591-7. doi: 10.1111/j.1365-2362.2009.02154.x.</citation>
+    <PMID>19453649</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Furuzawa-Carballeda J, Muñoz-Chablé OA, Macías-Hernández SI, Agualimpia-Janning A. Effect of polymerized-type I collagen in knee osteoarthritis. II. In vivo study. Eur J Clin Invest. 2009 Jul;39(7):598-606. doi: 10.1111/j.1365-2362.2009.02144.x. Epub 2009 Apr 23.</citation>
+    <PMID>19397687</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Furuzawa-Carballeda J, Alcocer-Varela J, Diaz de León L. Collagen-PVP decreases collagen turnover in synovial tissue cultures from rheumatoid arthritis patients. Ann N Y Acad Sci. 1999 Jun 30;878:598-602.</citation>
+    <PMID>10415784</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Furuzawa-Carballeda J, Cabral AR, Zapata-Zuñiga M, Alcocer-Varela J. Subcutaneous administration of polymerized-type I collagen for the treatment of patients with rheumatoid arthritis. An open-label pilot trial. J Rheumatol. 2003 Feb;30(2):256-9.</citation>
+    <PMID>12563677</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Furuzawa-Carballeda J, Fenutria-Ausmequet R, Gil-Espinosa V, Lozano-Soto F, Teliz-Meneses MA, Romero-Trejo C, Alcocer-Varela J. Polymerized-type I collagen for the treatment of patients with rheumatoid arthritis. Effect of intramuscular administration in a double blind placebo-controlled clinical trial. Clin Exp Rheumatol. 2006 Sep-Oct;24(5):514-20.</citation>
+    <PMID>17181919</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Furuzawa-Carballeda J, Krötzsch E, Barile-Fabris L, Alcalá M, Espinosa-Morales R. Subcutaneous administration of collagen-polyvinylpyrrolidone down regulates IL-1beta, TNF-alpha, TGF-beta1, ELAM-1 and VCAM-1 expression in scleroderma skin lesions. Clin Exp Dermatol. 2005 Jan;30(1):83-6.</citation>
+    <PMID>15663512</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Furuzawa-Carballeda J, Macip-Rodríguez P, Galindo-Feria AS, Cruz-Robles D, Soto-Abraham V, Escobar-Hernández S, Aguilar D, Alpizar-Rodríguez D, Férez-Blando K, Llorente L. Polymerized-type I collagen induces upregulation of Foxp3-expressing CD4 regulatory T cells and downregulation of IL-17-producing CD4⁺ T cells (Th17) cells in collagen-induced arthritis. Clin Dev Immunol. 2012;2012:618608. doi: 10.1155/2012/618608. Epub 2011 Oct 19.</citation>
+    <PMID>22028728</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Furuzawa-Carballeda J, Ortíz-Ávalos M, Lima G, Jurado-Santa Cruz F, Llorente L. Subcutaneous administration of polymerized type I collagen downregulates interleukin (IL)-17A, IL-22 and transforming growth factor-β1 expression, and increases Foxp3-expressing cells in localized scleroderma. Clin Exp Dermatol. 2012 Aug;37(6):599-609. doi: 10.1111/j.1365-2230.2012.04385.x. Epub 2012 Jun 25.</citation>
+    <PMID>22731679</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Furuzawa-Carballeda J, Rojas E, Valverde M, Castillo I, Diaz de León L, Krötzsch E. Cellular and humoral responses to collagen-polyvinylpyrrolidone administered during short and long periods in humans. Can J Physiol Pharmacol. 2003 Nov;81(11):1029-35.</citation>
+    <PMID>14719037</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Krötzsch-Gómez FE, Furuzawa-Carballeda J, Reyes-Márquez R, Quiróz-Hernández E, Díaz de León L. Cytokine expression is downregulated by collagen-polyvinylpyrrolidone in hypertrophic scars. J Invest Dermatol. 1998 Nov;111(5):828-34.</citation>
+    <PMID>9804346</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Leng Z, Zhu R, Hou W, Feng Y, Yang Y, Han Q, Shan G, Meng F, Du D, Wang S, Fan J, Wang W, Deng L, Shi H, Li H, Hu Z, Zhang F, Gao J, Liu H, Li X, Zhao Y, Yin K, He X, Gao Z, Wang Y, Yang B, Jin R, Stambler I, Lim LW, Su H, Moskalev A, Cano A, Chakrabarti S, Min KJ, Ellison-Hughes G, Caruso C, Jin K, Zhao RC. Transplantation of ACE2(-) Mesenchymal Stem Cells Improves the Outcome of Patients with COVID-19 Pneumonia. Aging Dis. 2020 Mar 9;11(2):216-228. doi: 10.14336/AD.2020.0228. eCollection 2020 Apr.</citation>
+    <PMID>32257537</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liang W, Liang H, Ou L, Chen B, Chen A, Li C, Li Y, Guan W, Sang L, Lu J, Xu Y, Chen G, Guo H, Guo J, Chen Z, Zhao Y, Li S, Zhang N, Zhong N, He J; China Medical Treatment Expert Group for COVID-19. Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19. JAMA Intern Med. 2020 Aug 1;180(8):1081-1089. doi: 10.1001/jamainternmed.2020.2033.</citation>
+    <PMID>32396163</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16.</citation>
+    <PMID>32192578</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Moreno-Alvarez P, Sánchez-Guerrero E, Martínez-Cordero E, Hernández-Pando R, Campos MG, Cetina L, Bazán-Perkins B. Aerosolized polymerized type I collagen reduces airway inflammation and remodelling in a guinea pig model of allergic asthma. Lung. 2010 Apr;188(2):97-105. doi: 10.1007/s00408-009-9202-2. Epub 2009 Dec 9.</citation>
+    <PMID>19998041</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Olmos-Zúñiga JR, Hernández-Jiménez C, Díaz-Martínez E, Jasso-Victoria R, Sotres-Vega A, Gaxiola-Gaxiola MO, Villalba-Caloca J, Baltazares-Lipp M, Santillán-Doherty P, Santibáñez-Salgado JA. Wound healing modulators in a tracheoplasty canine model. J Invest Surg. 2007 Nov-Dec;20(6):333-8.</citation>
+    <PMID>18097874</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Olmos-Zuñiga JR, Silva-Martínez M, Jasso-Victoria R, Baltazares-Lipp M, Hernández-Jiménez C, Buendía-Roldan I, Jasso-Arenas J, Martínez-Salas A, Calyeca-Gómez J, Guzmán-Cedillo AE, Gaxiola-Gaxiola M, Romero-Romero L. Effects of Pirfenidone and Collagen-Polyvinylpyrrolidone on Macroscopic and Microscopic Changes, TGF-β1 Expression, and Collagen Deposition in an Experimental Model of Tracheal Wound Healing. Biomed Res Int. 2017;2017:6471071. doi: 10.1155/2017/6471071. Epub 2017 May 11.</citation>
+    <PMID>28584818</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Saeidi A, Zandi K, Cheok YY, Saeidi H, Wong WF, Lee CYQ, Cheong HC, Yong YK, Larsson M, Shankar EM. T-Cell Exhaustion in Chronic Infections: Reversing the State of Exhaustion and Reinvigorating Optimal Protective Immune Responses. Front Immunol. 2018 Nov 9;9:2569. doi: 10.3389/fimmu.2018.02569. eCollection 2018. Review.</citation>
+    <PMID>30473697</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Stebbing J, Phelan A, Griffin I, Tucker C, Oechsle O, Smith D, Richardson P. COVID-19: combining antiviral and anti-inflammatory treatments. Lancet Infect Dis. 2020 Apr;20(4):400-402. doi: 10.1016/S1473-3099(20)30132-8. Epub 2020 Feb 27.</citation>
+    <PMID>32113509</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sun L, Louie MC, Vannella KM, Wilke CA, LeVine AM, Moore BB, Shanley TP. New concepts of IL-10-induced lung fibrosis: fibrocyte recruitment and M2 activation in a CCL2/CCR2 axis. Am. J. Physiol. Lung Cell Mol. Physiol.. 2011 Mar;300(3):L341-53. doi: 10.1152/ajplung.00122.2010. Epub 2010 Dec 3.</citation>
+    <PMID>21131395</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang W, Xu Y, Gao R, Lu R, Han K, Wu G, Tan W. Detection of SARS-CoV-2 in Different Types of Clinical Specimens. JAMA. 2020 May 12;323(18):1843-1844. doi: 10.1001/jama.2020.3786.</citation>
+    <PMID>32159775</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Yang Y, Shen C, Li J, Yuan J, Wei J, Huang F, Wang F, Li G, Li Y, Xing L, Peng L, Yang M, Cao M, Zheng H, Wu W, Zou R, Li D, Xu Z, Wang H, Zhang M, Zhang Z, Gao GF, Jiang C, Liu L, Liu Y. Plasma IP-10 and MCP-3 levels are highly associated with disease severity and predict the progression of COVID-19. J Allergy Clin Immunol. 2020 Jul;146(1):119-127.e4. doi: 10.1016/j.jaci.2020.04.027. Epub 2020 Apr 29.</citation>
+    <PMID>32360286</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ye Q, Wang B, Mao J. The pathogenesis and treatment of the 'Cytokine Storm' in COVID-19. J Infect. 2020 Jun;80(6):607-613. doi: 10.1016/j.jinf.2020.03.037. Epub 2020 Apr 10. Review.</citation>
+    <PMID>32283152</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhang C, Wu Z, Li JW, Zhao H, Wang GQ. Cytokine release syndrome in severe COVID-19: interleukin-6 receptor antagonist tocilizumab may be the key to reduce mortality. Int J Antimicrob Agents. 2020 May;55(5):105954. doi: 10.1016/j.ijantimicag.2020.105954. Epub 2020 Mar 29.</citation>
+    <PMID>32234467</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhang H, Penninger JM, Li Y, Zhong N, Slutsky AS. Angiotensin-converting enzyme 2 (ACE2) as a SARS-CoV-2 receptor: molecular mechanisms and potential therapeutic target. Intensive Care Med. 2020 Apr;46(4):586-590. doi: 10.1007/s00134-020-05985-9. Epub 2020 Mar 3.</citation>
+    <PMID>32125455</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zheng HY, Zhang M, Yang CX, Zhang N, Wang XC, Yang XP, Dong XQ, Zheng YT. Elevated exhaustion levels and reduced functional diversity of T cells in peripheral blood may predict severe progression in COVID-19 patients. Cell Mol Immunol. 2020 May;17(5):541-543. doi: 10.1038/s41423-020-0401-3. Epub 2020 Mar 17.</citation>
+    <PMID>32203186</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zumla A, Hui DS, Azhar EI, Memish ZA, Maeurer M. Reducing mortality from 2019-nCoV: host-directed therapies should be an option. Lancet. 2020 Feb 22;395(10224):e35-e36. doi: 10.1016/S0140-6736(20)30305-6. Epub 2020 Feb 5.</citation>
+    <PMID>32035018</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>September 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran</investigator_affiliation>
+    <investigator_full_name>Janette Furuzawa Carballeda</investigator_full_name>
+    <investigator_title>Medical science resercher</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulmonary Fibrosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Povidone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Data will be provided based on requirement</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

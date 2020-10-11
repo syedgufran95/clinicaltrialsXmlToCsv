@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="209">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04508972</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-6583</org_study_id>
+    <nct_id>NCT04508972</nct_id>
+  </id_info>
+  <brief_title>The VOICE-COVID-19</brief_title>
+  <official_title>Voice-based Identification of Clinical Features Requiring Emergent Action in Patients With Suspected COVID-19 Infection (VOICE-COVID) Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McGill University Health Centre/Research Institute of the McGill University Health Centre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Amazon Web Services (AWS) Canada</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>McGill University Health Centre/Research Institute of the McGill University Health Centre</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The VOICE-COVID study will evaluate the concordance of screening for symptoms of COVID-19
+      using a voice based device (Amazon Alexa) compared to manual screening by a study coordinator
+      for individuals entering the Cardiology/Heart Failure clinic at the McGill University Health
+      Centre.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is an open-label, non-interventional, prospective study.
+
+      All individuals entering the Heart Failure (HF) Clinic of the McGill University Health Center
+      will be asked to participate. A poster with instructions to ask the participants (employees
+      or patients) to speak with the Amazon Alexa device. The participant will remain 6 feet away
+      from the device. The Amazon Alexa will ask the survey questions. A study coordinator will
+      then ask the same questions along with some additional questions about Amazon Alexa
+      usability. We will study the correlation between the Alexa response and the response to the
+      study coordinator using K-squared statistic tests.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correlation between data captured using Amazon Alexa compared to manual (human) collected data.</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Determine the ability of the Amazon Alexa device to properly capture answers from participants and correlate with the answers retrieved by the study coordinator, we will use a linear regression approach to model the relationship between both surveys</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Alexa Amazon</intervention_name>
+    <description>To test the use of the Amazon Alexa device as a tool to conduct screening of employees and patients at the point of entry into the Heart Failure (HF) Clinic of the McGill University Health Center.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Any employees or patients entering the Heart Failure clinic at the McGill University Health
+        Center
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adults &gt;=18 yrs who is entering the HF clinic
+
+          -  Speaks either English or French
+
+        Exclusion Criteria:
+
+          -  None
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Abhinav Sharma, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McGill University Health Centre/Research Institute of the McGill University Health Centre</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Abhinav Sharma, MD</last_name>
+    <phone>514 934-1934</phone>
+    <email>abhinav.sharma@mcgill.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julie Lebel</last_name>
+    <phone>514 934-1934</phone>
+    <phone_ext>38106</phone_ext>
+    <email>julie.lebel@muhc.mcgill.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Muhc-Rimuhc</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4A 3J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Abhinav h Sharma, MD</last_name>
+      <phone>514 934-1934</phone>
+      <email>abhinav.sharma@mcgill.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Julie Lebel</last_name>
+      <phone>514 934-1934</phone>
+      <phone_ext>Sharma</phone_ext>
+      <email>abhinav.sharma@mcgill.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Abhinav Sharma, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 11, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>McGill University Health Centre/Research Institute of the McGill University Health Centre</investigator_affiliation>
+    <investigator_full_name>Abhinav Sharma</investigator_full_name>
+    <investigator_title>Cardiologist</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Alexa Device</keyword>
+  <keyword>Voice-based technologies</keyword>
+  <keyword>Screening</keyword>
+  <keyword>Safety</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>We aim to disseminate these results through publications in peer review journals and submission to conferences. Currently, many conferences are converting into a virtual format which would enable our results to be disseminated over a wide audience.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

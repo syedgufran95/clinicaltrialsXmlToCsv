@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2368">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04552379</url>
+  </required_header>
+  <id_info>
+    <org_study_id>200703013</org_study_id>
+    <nct_id>NCT04552379</nct_id>
+  </id_info>
+  <brief_title>The Containing Coronavirus Disease 19 (COVID-19) Trial</brief_title>
+  <acronym>ConCorD-19</acronym>
+  <official_title>A Cluster Randomised Trial of Interferon Versus Standard of Care in the Reduction of Transmission of SARS-Cov-2. The Containing Coronavirus Disease 19 Trial (ConCorD-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pontificia Universidad Catolica de Chile</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Telethon Kids Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Pontificia Universidad Catolica de Chile</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In recent months severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2) has emerged as
+      a novel human pathogen and, susceptibility amongst humans is presumed to be universal.
+      Prevention measures of COVID-19 have included distancing, quarantines, use of facemasks in
+      public places, and hand hygiene measures. Mandatory quarantines have also been applied on
+      index cases and their contacts, as well as an active search for asymptomatic patients.
+
+      Current strategies to reduce the spread of SARS-CoV-2 do not include measures that could
+      prevent transmission prior to the onset of symptoms. Subjects infected with SARS-CoV-2 have
+      been known to shed virus and be contagious for up to 5 days prior to developing symptoms
+      ('pre-symptomatic transmission'). In fact, nearly 60% of all infected subjects can shed virus
+      pre-symptomatically. Pre- or even asymptomatic shedding occurs across all age groups,
+      contributing to the rapidly expanding pandemic.
+
+      Post-exposure prophylaxis (PEP) using type 1 interferon (IFN) can potentially eliminate the
+      spread of SARS-CoV-2. IFN could reduce the period of viral shedding by ~1 week. Since
+      pre-symptomatic shedding of virus can start up to 5 days prior to symptom onset, our approach
+      of a PEP intervention to all contacts recently exposed to a case could possibly entirely
+      interrupt the spread of the virus, and with that, the pandemic. The current study focuses on
+      prevention of the disease in addition to its treatment. Thus, the key distinction between
+      these other trials and this study is that this study focuses on containing coronavirus (i.e.
+      cause) in the community, rather than simply its treatment (i.e. consequence) in the
+      individual.
+
+      Viral spread could be eliminated through interventions effective at abolishing viral
+      transmission. However, such post-exposure prophylaxis interventions, that is initiation of
+      antiviral therapy in pre-infectious contacts to reduce or even eliminate such spread, must be
+      safe since they are given to asymptomatic and possibly uninfected subjects. In none of the
+      previous clinical trials of IFN therapy for SARS-CoV-2 have serious adverse events been
+      recorded. Furthermore, the IFN chosen for this study (pegylated IFN 1b) has been extensively
+      studied in clinical trials, and has been in clinical use for years for multiple sclerosis.
+      Pegylated IFN formulations allow for weekly injections while maintaining serum levels and
+      limiting dose-dependent side effects. Together these data support a sound safety profile for
+      the planned intervention.
+
+      The aim of this study is to ascertain whether IFN administered to index cases and household
+      contacts of an index case, starting immediately following confirmed exposure (index case
+      confirmed positive for SARS-CoV-2), will reduce duration of SARS-CoV-2 detectable by PCR in
+      the index cases, and incidence of SARS-CoV-2 detectable by PCR in household contacts.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants with COVID-19 will be identified from lists of patients with positive SARS-CoV-2
+      PCR that is obtained daily from clinical laboratories, at COVID-19 outpatient and hospital
+      clinics, or the Emergency Rooms in Chile. After telephonically pre-screening eligibility of
+      the index case and his/her household, and participants providing informed consent, households
+      will be randomized 1:1 to three doses of IFN beta 1a or standard of care. Only the index case
+      and treatment-eligible household members will receive IFN if their household is assigned to
+      treatment arm. Other non-eligible household participants (e.g. children) will be monitored by
+      serial SARS-CoV-2 saliva PCR and diary cards, and at day 29 all participants will be
+      evaluated for SARS-CoV-2 antibodies in blood.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A prospective, cluster randomised trial of interferon versus standard of care. Index cases will be identified from databases of positive COVID-19 PCR patients from the virology lab,('Fever') clinics, outpatient clinics and hospital emergency room visits for possible COVID-19. Household contacts will be identified via the index cases and will be approached with the consent of the index case.
+Randomisation: Households will be randomised to receive IFN or standard of care (as recommended by the Public Health Department).
+Trial population: Index cases positively infected with SARS-CoV-2 and their exposed household contacts. Index cases will be recruited from databases of individuals with confirmed COVID-19 identified from COVID-19 ('Fever') clinics and emergency room visits in Santiago, Chile.
+Eligibility criteria: Households will be randomised only if cases and at least one treatment-eligible household contact meets all the inclusion criteria and none of the exclusion criteria.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of index cases shedding SARS-CoV-2, at Day 11, in the active arm compared to the standard of care arm.</measure>
+    <time_frame>Day 11</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The proportion of household contacts shedding SARS-CoV-2, at Day 11, in the active arm compared to the standard of care arm.</measure>
+    <time_frame>Day 11</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration (in days) of SARS-CoV-2 by PCR of samples taken on study days 1, 6, 11, 16, 21, and 29.</measure>
+    <time_frame>Days 1,6,11, 21 and 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of household contacts of participants in the IFN arm with positive upper airway PCR compared to that in the standard of care arm at day 1 &amp; 11, and seroconversion (Ig) over the study period, up to day 29.</measure>
+    <time_frame>Days 1,11 and 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of infected cases in the active arm that are hospitalised or die due to COVID-19, as compared to the proportion in the standard of care arm.</measure>
+    <time_frame>Days 1 to 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and severity of reported adverse events in the interferon arm compared to the standard of care arm.</measure>
+    <time_frame>Days 1 to 29</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1240</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Interferon</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Interferon</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Peginterferon beta-1alfa will be made available from Biogen Inc. Switzerland. 125 micrograms of pegylated IFNß1alfa (PLEGRIDY, Biogen) administered on Study Days 1, 6 and 11 (i.e. for a total of 3 doses) via subcutaneous injection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard of Care; following national guidelines regarding self-isolation and infection prevention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Peginterferon beta-1a</intervention_name>
+    <description>Administration of trial drug: PLEGRIDY is given by an injection under the skin (subcutaneous injection). It will be administered to participants in accordance with product insert instructions by appropriately trained trial staff for whom administration of subcutaneous injections is within their normal scope of practice (e.g. RN or MD). They will wait for 20 mins after the last individual receives the interferon before leaving a residence. Administering staff will be supplied with appropriate PPE, trained in the use of this equipment and protocols for infection control, and will always attend in pairs.
+PLEGRIDY will be administered in the home of the participants. Due to the heat-labile nature of the trial product (storage required at ~4oC) a verified English Spanish version of the product label will be printed by a GMP certified company and applied to the product and patient band just at the time of use.</description>
+    <arm_group_label>Interferon</arm_group_label>
+    <other_name>Plegridy</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Index Cases:
+
+               -  Provided a signed and dated informed consent form
+
+               -  Aged 18 to &lt;80 years of age
+
+               -  Confirmed SARS-CoV-2 diagnosis by PCR within 72 hours of first treatment dose
+
+               -  The first known diagnosis in the household
+
+               -  Not currently enrolled in a clinical trial and agree to not take any other
+                  investigational treatments over the next 28 days
+
+               -  Must plan to remain resident in the household during the study
+
+               -  Lives in household with at least one other 'treatment-eligible household contact'
+
+          2. Treatment-eligible Household Contacts:
+
+               -  Provided a signed and dated informed consent form
+
+               -  Aged 18 to &lt;80 years of age,
+
+               -  Not currently enrolled in a clinical trial and agree to not take any other
+                  investigational treatments over the next 28 days
+
+               -  Must plan to remain resident in the household during the study
+
+               -  No history of previously confirmed SARS-CoV-2 diagnosis
+
+          3. Treatment-ineligible Household Contacts:
+
+               -  Provided a signed and dated informed consent form, parental informed consent, and
+                  assent if applicable
+
+               -  Under 18 years OR ≥ 80 years of age OR aged 18 to &lt;80 years with any
+                  contraindication for IFN treatment listed in 'exclusion criteria'
+
+               -  Not currently enrolled in a clinical trial and agree to not take any other
+                  investigational treatments over the next 28 days
+
+               -  Must plan to remain resident in the household during the study
+
+               -  No history of previously confirmed SARS-CoV-2 diagnosis
+
+        Exclusion Criteria:
+
+          1. Index Cases and Treatment-eligible Household contacts:
+
+               -  Inability to take medications orally or injected
+
+               -  Known sensitivity/allergy to interferons or use of interferons for another
+                  indication
+
+               -  Known adverse drug-drug interactions with any study drugs
+
+               -  Malignancy
+
+               -  Known clinical immune deficiency
+
+               -  Pregnancy or unwillingness, of female participants of childbearing potential to
+                  use recognised methods of birth control/contraception during the trial period,
+
+               -  Retinopathy,
+
+               -  Known grade 4 or 5 chronic kidney or liver disease,
+
+               -  Known arrhythmias,
+
+               -  Known autoimmune diseases or chronic inflammatory disease,
+
+               -  Chronic liver disease,
+
+               -  Hospitalisation for depression in the last 3 months,
+
+               -  Current suicidal ideation,
+
+               -  Previous therapeutic use of IFN
+
+          2. All subjects:
+
+               -  Declined participation,
+
+               -  The index case has been in complete self-quarantine from other household members
+                  during the 48 hours prior to diagnosis of SARS-CoV-2 infection.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jose A Castro-Rodriguez, MD,PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pontificia Universidad Catolica de Chile, Santiago, Chile</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Stephen Stick, MD,PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Telethon Kids Institute, University of Western Australia, Perth, Australia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Arturo Borzutzky, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Pontificia Universidad Catolica de Chile, Santiago, Chile</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Carolina Iturriaga, NP</last_name>
+    <role>Study Chair</role>
+    <affiliation>Pontificia Universidad Catolica de Chile, Santiago, Chile</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Tobias Kollmann, MD,PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Telethon Kids Institute, University of Western Australia, Perth, Australia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Eleanor N Fish, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Department of Immunology, University of Toronto, Canada</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Cecilia Perret, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Pontificia Universidad Catolica de Chile, Santiago, Chile</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Diego Garcia-Huidobro, MD,PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Pontificia Universidad Catolica de Chile, Santiago, Chile</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jose A Castro Rodriguez, MD, PhD</last_name>
+    <phone>56995466257</phone>
+    <email>jacastro17@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Stephen Stick, MD, PhD</last_name>
+    <phone>61(0) 414 930 147</phone>
+    <email>stephen.stick@health.wa.gov.au</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 17, 2020</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We are evaluating the best way to share the information.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>We are evaluating the best time to share the information.</ipd_time_frame>
+    <ipd_access_criteria>We are evaluating the best way to share the information.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

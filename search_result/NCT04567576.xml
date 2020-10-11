@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1671">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04567576</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FPColCOVIDReuma2020</org_study_id>
+    <nct_id>NCT04567576</nct_id>
+  </id_info>
+  <brief_title>Predictive Factors for COVID-19 in Rheumatology</brief_title>
+  <official_title>Predictive Factors for COVID-19 in Rheumatology Study Based on Information Collected in The COVID-19 Global Rheumatology Alliance</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundación Santa Fe de Bogota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fundación Santa Fe de Bogota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We seek to study the behaviour of Coronavirus infection in patients with rheumatological
+      and/or autoimmune comorbidities, understood as a particular pathophysiological universe with
+      its own risks and eventual benefits, until now fully hypothetical to be confirmed by means of
+      real and recent evidence. On March 12, 2020, an initiative called the Global Alliance for
+      COVID-19 in Rheumatology (The COVID-19 Rheumatology Alliance) arises, as a rapid response of
+      international coordination whose ultimate goal is to serve as help or guideline for all those
+      doctors who seek be faced with receiving, evaluating, understanding and caring for a patient
+      with rheumatological and / or autoimmune diseases in relation to the imminent risk of
+      COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Within this context, this study seeks to use the information registered by the Fundación
+      Santa Fe de Bogotá University Hospital as a participating centre. It is intended, under a
+      prospective cohort methodology, to identify, analyze and compare predictive factors of the
+      clinical course of COVID-19 in patients with baseline diagnoses of rheumatological or
+      autoimmune diseases with the intention of establishing well-founded parameters that
+      contribute to the improvement in terms of strategies of prevention, management and prognosis;
+      benefiting both directly treating physicians and patients, as well as indirectly a health
+      system that is predicted to be pushed to the limit as time passes.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">October 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical behavior of the disease // COVID-19</measure>
+    <time_frame>1-12 weeks</time_frame>
+    <description>It will be considered as 1. Severe, if it meets at least one of the following characteristics (based on what is registered in the main center's database):
+If you were hospitalized: What was the highest level of care you required during the illness? →
+o Required invasive mechanical ventilation or extracorporeal membrane oxygenation
+If the symptoms did not resolve and the patient was hospitalized: What is the highest level of care that has been required in the course of the present illness so far? o Required mechanical ventilation or extracorporeal membrane oxygenation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>1-12 weeks</time_frame>
+    <description>It will be considered as 1. Yes, if it meets at least one of the following characteristics (based on what is registered in the main center's database):
+• Has the patient died?
+o Yes, he passed away</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Rheumatic Diseases</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Exposed</arm_group_label>
+    <description>Patients with underlying rheumatological or autoimmune diseases who have a confirmed infection by 2019-nCoV (COVID-19) who at the time of diagnosis (of infection) receive pharmacological treatment with disease modifying antirheumatic drugs (DMARDs).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Un-exposed</arm_group_label>
+    <description>Patients with underlying rheumatological or autoimmune diseases who have a confirmed 2019-nCoV (COVID-19) infection who at the time of diagnosis (of infection) are not receiving pharmacological treatment with disease-modifying antirheumatic drugs (DMARDs).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Disease-modifying antirheumatic drugs (DMARDs)</intervention_name>
+    <description>Within a non-experimental setting, the routine disease-modifying antirheumatic drugs (DMARDs) prescription will be evaluated as the &quot;exposure&quot;.</description>
+    <arm_group_label>Exposed</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who have a confirmed or suspected COVID-19 infection and have been treated at the
+        Santa Fe de Bogotá University Hospital.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Older than 18 years.
+
+          -  Have a diagnosis of a rheumatological disease and / or an autoimmune disease by
+             meeting its own and standardized classification criteria.
+
+          -  Confirmed diagnosis of COVID-19 by RT-PCR test
+
+          -  Being a patient at the Fundación Santa Fe de Bogotá University Hospital.
+
+          -  Be enroled in the registry of the Global Alliance for COVID-19 in Rheumatology.
+
+        Exclusion Criteria:
+
+        • Loss of follow-up due to referral to an institution other than the Fundación Santa Fe de
+        Bogotá University Hospital, before documenting the outcome of his clinical picture.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 28, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fundación Santa Fe de Bogota</investigator_affiliation>
+    <investigator_full_name>Kevin Maldonado Cañón</investigator_full_name>
+    <investigator_title>Research Assistant</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rheumatic Diseases</mesh_term>
+    <mesh_term>Collagen Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antirheumatic Agents</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

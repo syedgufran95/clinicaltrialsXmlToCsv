@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2756">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04560231</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LGH003</org_study_id>
+    <nct_id>NCT04560231</nct_id>
+  </id_info>
+  <brief_title>Remdesivir in COVID-19 Lahore General Hospital</brief_title>
+  <acronym>RC19LGH</acronym>
+  <official_title>Is Remdesivir a Possible Therapeutic Option for SARS-CoV-2 : An Interventional Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lahore General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lahore General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Remdesivir is a monophosphoramidate prodrug of an adenosine analogue and it has a
+      broad-spectrum antiviral activity against paramyxoviruses, falviviruses and coronaviruses. It
+      showed in vitro activity on human airway epithelial cells against SARS-CoV-2. It is an
+      investigational drug and granted an Emergency Use Authorization by Food and Drug
+      Administration FDA, so it is under clinical trial.
+
+      The potent mechanism of action of this drug is still unclear but it effects through several
+      processes. It can interfere with nsp12 polymerase even when exoribonuclease proofreading is
+      intact. It can also produce nucleoside triphosphate NTP that acts pharmacologically active
+      alternate substrate of RNA-chain terminator, as a result NTP can constrain active
+      triphosphates into viral RNA of coronaviruses. There is evidence of high genetic barrier to
+      develop resistance against Remdesivir in coronavirus as a result of which is maintains its
+      effectiveness in antiviral therapies against these viruses. Effectiveness of Remdesivir has
+      been reported against different groups of coronaviruses including Alphacoronavirus NL63 and
+      several SARS/MERS-CoV coronaviruses.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is interventional single-center study, that will be done at Lahore General Hospital in
+      which 95 beds are allocated for COVID-19 patients including ICUs and HDUs. Ethical approval
+      will be obtained from research ethical committee of Lahore General hospital, Lahore. Informed
+      consent will be obtained from all patients who will agree to publish their data in this
+      research. Patient's privacy protection will be obeyed with the Helsinki Declaration.
+
+      The aim of this study is to evaluate clinical effectiveness of this investigational drug,
+      started a clinical trial of this drug on laboratory-confirmed COVID-19 patients at a tertiary
+      care hospital of Lahore, Pakistan.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Qausi-experimental</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical response after administration</measure>
+    <time_frame>10 days</time_frame>
+    <description>Clinical improvement of COVID-19 patients by Remdesivir.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical response to treatment</measure>
+    <time_frame>15 days</time_frame>
+    <description>Overall survival of COVID-19 patients after drug administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>15 days</time_frame>
+    <description>Number of days of hospital admission either in ICU or HDUs till date of discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supplemental Oxygen Requirement from Baseline</measure>
+    <time_frame>15 days</time_frame>
+    <description>Duration of increased supplemental oxygen requirement from baseline</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Group intervene with Remdesivir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Review effect of Remdesivir as clinical trial among hospitalized patients with COVID-19 infection. 200 mg I/v Remdesivir will be given to moderate disease patients of COVID-19. It will be loading dose then 100 mg I/V dose will be given for 5 days. Customized decision for Remdesivir dosage will be made by attending infectious diseases physician, comfort with usage, bacterial co-infection and duration of Ventilation and dose will be extended up to 10 days according to clinical condition of the patients.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>200 mg I/v Remdesivir will be given to moderate disease patients of COVID-19. It will be loading dose then 100 mg I/V dose will be given for 5 days. Customized decision for Remdesivir dosage will be made by attending infectious diseases physician, comfort with usage, bacterial co-infection and duration of Ventilation and dose will be extended up to 10 days according to clinical condition of the patients.</description>
+    <arm_group_label>Group intervene with Remdesivir</arm_group_label>
+    <other_name>Remidia</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients of all ages, males, and females who will be diagnosed COVID-19 positive
+             by RT-PCR with moderate illness.
+
+          -  Patients having classical radiological lesions of COVID-19 on X-ray chest or HRCT
+             chest.
+
+          -  Respiratory rate &gt; 22/ min and &gt;50% of radiological involvement of lung with typical
+             lesions.
+
+          -  FiO2 remain static or improving along with &gt; 30% deranged ≥ 2 biochemical markers CRP
+             &gt; 20 mg/l, LDH &gt; 600 U/L, D.Dimer &gt; 0.5mg/l or 500 ng/ml, Serum Ferritin &lt; 500 ng/ml
+             or mcg/l will be included in clinical trial.
+
+        Exclusion Criteria:
+
+          -  Patients on Invasive mechanical ventilation (IMV).
+
+          -  Patients with respiratory rate &lt; 20/mins and whose laboratory findings will not be
+             deranged &gt; 20%.
+
+          -  Presences of chronic renal failure &gt; 4 stage, GFR &lt; 30ml/min/1.73m2.
+
+          -  ALT/AST &gt; 5 times than normal values.
+
+          -  Pregnant women.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Muhammad Irfan Malik, FCPS</last_name>
+    <role>Study Director</role>
+    <affiliation>Post-Graduate Medical Institute, Lahore General Hospital, Lahore Pakistan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Muhammad Irfan Malik, FCPS</last_name>
+    <phone>03334367220</phone>
+    <email>drmirfanmalik@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sardar Al-Fareed Zafar, FCPS</last_name>
+    <phone>03214056891</phone>
+    <email>alfareedivf@hotmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Muhammad Irfan Malik</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punjab</state>
+        <zip>54500</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Muhammad Irfan Malik, FCPS</last_name>
+      <phone>03334367220</phone>
+      <email>drmirfanmalik@hotmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sardar Al-Fareed Zafar, FCPS</last_name>
+      <phone>03214056891</phone>
+      <email>alfareedivf@hotmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <reference>
+    <citation>Wang Y, Zhang D, Du G, Du R, Zhao J, Jin Y, Fu S, Gao L, Cheng Z, Lu Q, Hu Y, Luo G, Wang K, Lu Y, Li H, Wang S, Ruan S, Yang C, Mei C, Wang Y, Ding D, Wu F, Tang X, Ye X, Ye Y, Liu B, Yang J, Yin W, Wang A, Fan G, Zhou F, Liu Z, Gu X, Xu J, Shang L, Zhang Y, Cao L, Guo T, Wan Y, Qin H, Jiang Y, Jaki T, Hayden FG, Horby PW, Cao B, Wang C. Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial. Lancet. 2020 May 16;395(10236):1569-1578. doi: 10.1016/S0140-6736(20)31022-9. Epub 2020 Apr 29. Erratum in: Lancet. 2020 May 30;395(10238):1694.</citation>
+    <PMID>32423584</PMID>
+  </reference>
+  <reference>
+    <citation>Davies M, Osborne V, Lane S, Roy D, Dhanda S, Evans A, Shakir S. Remdesivir in Treatment of COVID-19: A Systematic Benefit-Risk Assessment. Drug Saf. 2020 Jul;43(7):645-656. doi: 10.1007/s40264-020-00952-1.</citation>
+    <PMID>32468196</PMID>
+  </reference>
+  <reference>
+    <citation>Li Z, Wang X, Cao D, Sun R, Li C, Li G. Rapid review for the anti-coronavirus effect of remdesivir. Drug Discov Ther. 2020;14(2):73-76. doi: 10.5582/ddt.2020.01015. Review.</citation>
+    <PMID>32378648</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 23, 2020</study_first_posted>
+  <last_update_submitted>September 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Lahore General Hospital</investigator_affiliation>
+    <investigator_full_name>Dr. M.Irfan Malik</investigator_full_name>
+    <investigator_title>Associate Professor of Pulmonology / Focal Person COVID-19</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Remdesivir</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

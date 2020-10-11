@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1683">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04547283</url>
+  </required_header>
+  <id_info>
+    <org_study_id>06-20-03E</org_study_id>
+    <nct_id>NCT04547283</nct_id>
+  </id_info>
+  <brief_title>Awake-Prone Positioning Strategy for Hypoxic Patients With COVID-19</brief_title>
+  <official_title>Awake-Prone Positioning Strategy for Hypoxic Patients With COVID-19: A Pilot Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Atrium Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Atrium Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to determine if a strategy of recommending prone (on stomach) positioning of
+      patients positive or suspected positive for coronavirus disease 2019 (COVID-19) requiring
+      supplemental oxygen, but not mechanically ventilated, Is feasible in the inpatient setting.
+      This study will be performed as a pragmatic pilot clinical trial to gain information relevant
+      to the future conduct of a larger trial.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Severe acute respiratory syndrome coronavirus-2, SARS-CoV-2, the virus causing coronavirus
+      disease 2019 (COVID-19) pandemic, has rapidly led to significant morbidity and mortality
+      worldwide, primarily through lower respiratory tract involvement progressing from hypoxemia
+      to acute respiratory distress syndrome. Novel approaches to improving oxygenation are
+      urgently needed to limit aerosolization concerns and resource scarcity associated with
+      intubation and, to a lesser extent, other forms of advanced respiratory support.
+
+      Prone positioning in mechanically ventilated patients with hypoxemic respiratory failure has
+      been associated with improvement in oxygenation and mortality in patients with acute
+      respiratory distress syndrome (ARDS). The prone position appears to provide more uniform lung
+      perfusion, shifting ventilation to well-perfused lung segments and recruitment of dependent
+      atelectatic regions of lung. Physiological alterations associated with the prone position
+      would foreseeably also apply to spontaneously breathing patients and evidence from small
+      observational studies suggests that prone positioning in non-intubated patients is feasible
+      associated with improvement in oxygenation. However, it remains unknown if a prone
+      ventilation strategy is truly beneficial for non-intubated hypoxic Covid-19 patients, and
+      this question has stimulated interest in the conduct of rigorous randomized controlled trials
+      (RCT).
+
+      However, the awake prone strategy is a complex medical intervention with multiple
+      implementation nuances such as adoption, feasibility, and tolerability that may affect
+      successful conduct of a definitive RCT. In order to increase the likelihood of a successful
+      future RCT, the investigators will conduct the APPS pilot study. The overall aim of the APPS
+      pilot trial was to assess feasibility and important contextual factors for a large RCT to
+      compare the clinical effectiveness of an Awake-Prone Positioning Strategy (APPS) for
+      respiratory support versus usual care alone for hypoxic adults with Covid-19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 14, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 20, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Clinicians were unblinded to treatment allocation and enrolled patients were considered unblinded. Clinical and safety outcomes were collected from the electronic health record by study investigators blinded to treatment assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Average S/F ratio</measure>
+    <time_frame>48 hours from eligibility</time_frame>
+    <description>Average oxygen saturation to fraction of inspired oxygen ratio</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time spent with S/F ratio &lt; 315</measure>
+    <time_frame>48 hours from eligibility</time_frame>
+    <description>Time spent with oxygenation saturation to fraction of inspired oxygen ratio less than 315</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Highest oxygen support</measure>
+    <time_frame>48 hours from eligibility</time_frame>
+    <description>Highest level of supplemental oxygen required</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients requiring ICU admission during study period</measure>
+    <time_frame>48 hours from eligibility</time_frame>
+    <description>Number of patients requiring ICU admission during study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients requiring ICU admission during hospitalization</measure>
+    <time_frame>through study completion, Up to 30 days</time_frame>
+    <description>Number of patients requiring ICU admission during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients experiencing who die prior to discharge</measure>
+    <time_frame>through study completion, Up to 30 days</time_frame>
+    <description>Number of patients who die prior to hospital discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients requiring intubation</measure>
+    <time_frame>48 hours From eligibility</time_frame>
+    <description>Number of patients requiring intubation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>through study completion, Up to 30 days</time_frame>
+    <description>Number of days from hospital admission to discharge</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <condition>Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants randomized to this arm will remain in their clinician's team standard practice and their natural choice of position, which is anticipated to favor a supine (rather than prone) position.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Awake-Prone Positioning Strategy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to this arm will receive guidance from their Inpatient treatment team to assume the prone position for as much time as is tolerable during hospitalization.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Usual Care</intervention_name>
+    <description>No clinical team recommendation, patients will remain in their natural choice of position</description>
+    <arm_group_label>Usual Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>APPS</intervention_name>
+    <description>Clinical team guidance on prone positioning of patients</description>
+    <arm_group_label>Awake-Prone Positioning Strategy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  hospitalized patients with positive COVID testing during hospitalization or 7 days
+             prior OR Hospitalized with suspected COVID pneumonia
+
+          -  room air oxygen saturation &lt;93% or oxygen requirement &gt; or equal to 3 Liters per
+             minute
+
+        Exclusion Criteria:
+
+          -  unable to turn self, spinal instability, facial or pelvic fractures, open chest or
+             open abdomen, altered mental status, anticipated difficult airway, show signs of
+             respiratory fatigue, or receiving end-of-life care
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephanie Taylor, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Atrium Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stephanie Taylor, MD</last_name>
+    <phone>7043553819</phone>
+    <email>Stephanie.p.taylor@atriumhealth.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Carolinas Medical Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Taylor, MD</last_name>
+      <email>Stephanie.p.taylor@atriumhealth.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.</citation>
+    <PMID>31978945</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Abroug F, Ouanes-Besbes L, Elatrous S, Brochard L. The effect of prone positioning in acute respiratory distress syndrome or acute lung injury: a meta-analysis. Areas of uncertainty and recommendations for research. Intensive Care Med. 2008 Jun;34(6):1002-11. doi: 10.1007/s00134-008-1062-3. Epub 2008 Mar 19.</citation>
+    <PMID>18350271</PMID>
+  </reference>
+  <reference>
+    <citation>Sud S, Friedrich JO, Taccone P, Polli F, Adhikari NK, Latini R, Pesenti A, Guérin C, Mancebo J, Curley MA, Fernandez R, Chan MC, Beuret P, Voggenreiter G, Sud M, Tognoni G, Gattinoni L. Prone ventilation reduces mortality in patients with acute respiratory failure and severe hypoxemia: systematic review and meta-analysis. Intensive Care Med. 2010 Apr;36(4):585-99. doi: 10.1007/s00134-009-1748-1. Epub 2010 Feb 4. Review.</citation>
+    <PMID>20130832</PMID>
+  </reference>
+  <reference>
+    <citation>Gattinoni L, Carlesso E, Taccone P, Polli F, Guérin C, Mancebo J. Prone positioning improves survival in severe ARDS: a pathophysiologic review and individual patient meta-analysis. Minerva Anestesiol. 2010 Jun;76(6):448-54. Review.</citation>
+    <PMID>20473258</PMID>
+  </reference>
+  <reference>
+    <citation>Guérin C, Reignier J, Richard JC, Beuret P, Gacouin A, Boulain T, Mercier E, Badet M, Mercat A, Baudin O, Clavel M, Chatellier D, Jaber S, Rosselli S, Mancebo J, Sirodot M, Hilbert G, Bengler C, Richecoeur J, Gainnier M, Bayle F, Bourdin G, Leray V, Girard R, Baboi L, Ayzac L; PROSEVA Study Group. Prone positioning in severe acute respiratory distress syndrome. N Engl J Med. 2013 Jun 6;368(23):2159-68. doi: 10.1056/NEJMoa1214103. Epub 2013 May 20.</citation>
+    <PMID>23688302</PMID>
+  </reference>
+  <reference>
+    <citation>Scaravilli V, Grasselli G, Castagna L, Zanella A, Isgrò S, Lucchini A, Patroniti N, Bellani G, Pesenti A. Prone positioning improves oxygenation in spontaneously breathing nonintubated patients with hypoxemic acute respiratory failure: A retrospective study. J Crit Care. 2015 Dec;30(6):1390-4. doi: 10.1016/j.jcrc.2015.07.008. Epub 2015 Jul 16.</citation>
+    <PMID>26271685</PMID>
+  </reference>
+  <reference>
+    <citation>Ding L, Wang L, Ma W, He H. Efficacy and safety of early prone positioning combined with HFNC or NIV in moderate to severe ARDS: a multi-center prospective cohort study. Crit Care. 2020 Jan 30;24(1):28. doi: 10.1186/s13054-020-2738-5.</citation>
+    <PMID>32000806</PMID>
+  </reference>
+  <reference>
+    <citation>Sun Q, Qiu H, Huang M, Yang Y. Lower mortality of COVID-19 by early recognition and intervention: experience from Jiangsu Province. Ann Intensive Care. 2020 Mar 18;10(1):33. doi: 10.1186/s13613-020-00650-2.</citation>
+    <PMID>32189136</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Atrium Health</investigator_affiliation>
+    <investigator_full_name>Stephanie Taylor</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual patient data underlying reported results will be made available with data dictionaries after de-identification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>The data will become available 3 months following publication of outcomes and will remain available for at least 5 years.</ipd_time_frame>
+    <ipd_access_criteria>Data will be accessible to researchers who provide a methodologically sound proposal After approval by the AtriumHealth Institutional Review Board and the study investigators.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

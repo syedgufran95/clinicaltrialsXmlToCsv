@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="229">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527575</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COV/pept-01/20</org_study_id>
+    <nct_id>NCT04527575</nct_id>
+  </id_info>
+  <brief_title>Study of the Safety, Reactogenicity and Immunogenicity of &quot;EpiVacCorona&quot; Vaccine for the Prevention of COVID-19</brief_title>
+  <acronym>EpiVacCorona</acronym>
+  <official_title>Simple, Blind, Placebo-controlled, Randomized Study of the Safety, Reactogenicity and Immunogenicity of Vaccine Based on Peptide Antigens for the Prevention of COVID-19 (EpiVacCorona), in Volunteers Aged 18-60 Years (I-II Phase)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Federal Budgetary Research Institution State Research Center of Virology and Biotechnology &quot;Vector&quot;</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Federal Budgetary Research Institution State Research Center of Virology and Biotechnology &quot;Vector&quot;</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the clinical study is to determine the safety, reactogenicity and immunogenicity
+      parameters of the EpiVacCorona vaccine in volunteers aged 18-60 years.
+
+      The research tasks are to:
+
+        -  evaluate the safety of the EpiVacCorona vaccine when administered twice intramuscularly;
+
+        -  evaluate the reactogenicity of the EpiVacCorona vaccine when administered twice
+           intramuscularly;
+
+        -  identify the development of adverse reactions to vaccine administration;
+
+        -  study the humoral and cellular immune responses following two doses of the EpiVacCorona
+           vaccine.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The first phase of the clinical trial is an open trial. The study will enroll 14 men and
+      women aged 18 to 30 years, inclusive, who meet the inclusion criteria and have no exclusion
+      criteria, whose data will be used for subsequent analysis of safety and immunogenicity.
+
+      The second phase of the clinical trial is a simple, blind, placebo-controlled, randomized,
+      parallel-group study. The study will enroll 86 men and women aged 18 to 60 years, inclusive,
+      who meet the inclusion criteria and have no exclusion criteria whose, the data will be used
+      for subsequent analysis of safety and immunogenicity.
+
+      If volunteers drop out of the study, they will not be replaced.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 27, 2020</start_date>
+  <completion_date type="Anticipated">October 4, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 28, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A simple, blind, placebo-controlled, randomized study involving healthy volunteers</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Masking in Phase 2</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of vaccinated volunteers with no laboratory confirmed symptoms caused by SARS-CoV-2 within 9 months post vaccination</measure>
+    <time_frame>throughout the study, an average of 270 days</time_frame>
+    <description>• The proportion of vaccinated volunteers with no laboratory confirmed symptoms caused by SARS-CoV-2, in combination with one or more of the following symptoms: fever or chills; cough; shortness of breath or labored breathing; fatigue; muscle pain; headache; The proportion of vaccinated volunteers with no laboratory confirmed symptoms caused loss of taste or smell; sore throat; a stuffy nose or runny nose; nausea or vomiting; diarrhea, within 9 months post vaccination versus a placebo.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of volunteers with increased levels of the immune response in terms of geometric mean titers of specific antibodies in ELISA following the vaccination compared with a placebo.</measure>
+    <time_frame>at days 0, 1, 14, 20, 35, 42, 90, 180, 270</time_frame>
+    <description>• The proportion of volunteers with increased levels of the immune response in terms of geometric mean titers of specific antibodies in ELISA greater ≥ 4 times 21 days following the second vaccination and 90, 180 and 270 days following the first vaccination compared with a placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of volunteers with increased levels of the immune response in terms of specific neutralizing antibody titers in ELISA following the vaccination, compared with a placebo</measure>
+    <time_frame>at days 0, 1, 14, 20, 35, 42, 90, 180, 270</time_frame>
+    <description>• The proportion of volunteers with increased levels of the immune response in terms of specific neutralizing antibody titers in ELISA greater than ≥ 4 times 21 days following the second vaccination and 90, 180 and 270 days following the first vaccination, compared with a placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of volunteers with an ex vivo cellular immune response following the vaccination, compared with a placebo</measure>
+    <time_frame>at days 0, 1, 14, 20, 35, 42, 90, 180, 270</time_frame>
+    <description>• The proportion of volunteers with an ex vivo cellular immune response 21 days following the second vaccination and 90, 180 and 270 days following the first vaccination, compared with a placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and type of adverse events during the study</measure>
+    <time_frame>throughout the study, an average of 270 days</time_frame>
+    <description>• Immediate adverse events (allergic reactions) that occur within 2 hours after vaccination and that are identified both by the clinical investigator and based on information provided by the volunteer;
+adverse events (local and systemic reactions) that occur within 7 days after vaccination and that are identified both by the clinical investigator and based on information provided by the volunteer;
+other adverse events that occur 7 days after each vaccination (from 8 to 42 days after the first vaccination, excluding the allowable interval of visits) and noted by the volunteer in the Self-observation Diary.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of serious adverse events during the study</measure>
+    <time_frame>throughout the study, an average of 270 days</time_frame>
+    <description>• Incidence of serious adverse events during the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cases of early termination of the study due to the development of adverse events / sever adverse events</measure>
+    <time_frame>throughout the study, an average of 270 days</time_frame>
+    <description>• Cases of early termination of participation of volunteers in the study due to the development of adverse events / sever adverse events associated with the use of products under study.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>&quot;EpiVacCorona&quot; (An Open Study)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 1: 14 volunteers who will be vaccinated with the EpiVacCorona vaccine twice spaced 21 days apart, intramuscularly, at a dose of 0.5 ml</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>&quot;EpiVacCorona&quot; (A Simple, Blind, Randomized Study)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 2: Administration of the EpiVacCorona vaccine, intramuscularly, twice, 21 days spaced apart, at a dose of 0.5 ml (43 volunteers)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>&quot;Placebo&quot; (A Simple, Blind, Randomized Study)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Group 3: Тhe use of placebo (sodium chloride bufus, solvent for the preparation of dosage forms for injection 0.9%) intramuscularly twice space 21 days apart at a dose of 0.5 ml (43 volunteers)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>EpiVacCorona (EpiVacCorona vaccine based on peptide antigens for the prevention of COVID-19)</intervention_name>
+    <description>EpiVacCorona vaccine is intended to prevent COVID-19. The vaccine relies on chemically synthesized peptide antigens of SARS-CoV-2 proteins, conjugated to a carrier protein and adsorbed on an aluminum-containing adjuvant (aluminum hydroxide). The EpiVacCorona vaccine contributes to the development of protective immunity against SARS-CoV-2 coronavirus following two intramuscular administrations spaced 21-28 days apart.</description>
+    <arm_group_label>&quot;EpiVacCorona&quot; (A Simple, Blind, Randomized Study)</arm_group_label>
+    <arm_group_label>&quot;EpiVacCorona&quot; (An Open Study)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo (sodium chloride bufus, solvent for the preparation of dosage forms for injection 0.9%)</intervention_name>
+    <description>The use of placebo: intramuscularly, twice, spaced 21 days apart, at a dose of 0.5 ml (43 volunteers)</description>
+    <arm_group_label>&quot;Placebo&quot; (A Simple, Blind, Randomized Study)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        1. Availability of a signed and dated informed consent of the volunteer to participate in
+             a clinical trial, prior to any of the study procedures.
+
+          2. Verified diagnosis is &quot;healthy&quot; according to the data of the standard clinical,
+             laboratory and instrumental examination methods.
+
+          3. Age from 18 to 60 years old inclusive.
+
+          4. Body mass index from 18.5 to 30 kg / m3.
+
+          5. Ability to attend all scheduled visits and all planned procedures and examinations.
+
+          6. Consent of volunteers to use effective contraceptive methods throughout the study,
+             including the observation period for possible post-vaccination reactions.
+
+        Exclusion Criteria:
+
+          1. Contacts with COVID-19 patients for 14 days prior to the start of the clinical trial.
+
+          2. Hypersensitivity to any component of the product, allergy to the components of the
+             vaccine.
+
+          3. The history of allergic reactions to any vaccination in the past.
+
+          4. Serious post-vaccination reactions/complications associated with any vaccination in
+             the past.
+
+          5. Pregnancy and breastfeeding.
+
+          6. Military personnel on conscription.
+
+          7. Persons detained in pre-trial detention facilities and those serving sentences in
+             prison.
+
+          8. Children under the age of 18.
+
+          9. Symptoms of any disease at the time of inclusion in the study or if it has passed less
+             than 4 weeks since recovery.
+
+         10. The history of any acute respiratory disease within less than 3 months prior to
+             inclusion in the study.
+
+         11. The history of acute infectious or non-communicable diseases, exacerbation of chronic
+             diseases within less than 4 weeks before the start of the study.
+
+         12. The history of tuberculosis (pulmonary and extrapulmonary), cancer, autoimmune
+             diseases, skin diseases (pemphigus, psoriasis, eczema, atopic dermatitis).
+
+         13. Long-term use (more than 14 days) of immunosuppressive drug, systemic
+             glucocorticosteroids or immunomodulatory drugs within 6 months prior to the study.
+
+         14. Vaccination with any vaccine within one month prior to vaccination.
+
+         15. Taking immunoglobulin drugs or blood products within last 3 months prior to the study.
+
+         16. The history of treatment with human immunoglobulin drugs within, less than 6 months
+             since such treatment.
+
+         17. Donation (450 ml of blood or plasma and more) within less than 2 months prior to the
+             study.
+
+         18. Acute or chronic diseases of the cardiovascular, bronchopulmonary, neuroendocrine
+             system, as well as diseases of the gastrointestinal tract, liver, kidneys, surgery on
+             the gastrointestinal tract (except appendectomy).
+
+         19. The history of participation in other clinical trials within less than 3 months prito
+             the start of this study.
+
+         20. Individuals with alcohol, drug dependence or drug addiction. Taking more than 10 units
+             of alcohol per week (1 unit of alcohol is equivalent to 1/2 litre of beer, 200 ml of
+             wine or 50 ml of alcohol) or anamnestic information about alcoholism, drug addiction,
+             and substance misuse. Individuals with positive results of urine examination for drugs
+             and/or with alcohol findings in the exhaled air during the visits.
+
+         21. Mental illness and neurasthenia.
+
+         22. Non-compliance with the inclusion criteria.
+
+         23. Women in the premenopausal period (the last menstruation ≤ 1 year prior to the signing
+             of informed consent) who are not surgically sterile and women who have reproductive
+             potential, but do not use acceptable birth controls or do not plan to use them
+             throughout the study and do not agree to a urine test for pregnancy during the
+             participation in the study.
+
+         24. Positive test for HIV, viral hepatitis B and C, lues venerea.
+
+         25. Other comorbidities that the researcher believes may interfere with the evaluation of
+             the study's objectives.
+
+        And:
+
+          1. The researcher's decision to exclude the volunteer for the benefit of the volunteer.
+
+          2. False inclusion (violation of inclusion and non-inclusion criteria) or the appearance
+             of non-inclusion criteria during the study.
+
+          3. The decision of the researcher or the Customer to exclude the volunteer from the study
+             due to a clinically significant deviation from the protocol/violation of the protocol.
+
+          4. Any undesirable phenomenon requiring the appointment of drugs not authorized by the
+             protocol of this study.
+
+          5. Refusal of a volunteer to continue to participate in the study or his/her
+             indiscipline.
+
+          6. Volunteer's desire to complete the study early for any reason.
+
+          7. Volunteer's failure to show up for a scheduled visit without the researcher's warning
+             or loss of communication with the volunteer.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vladimir I. Kuzubov</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>FGBUZ MSCH-163, FMBA of Russia</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Federal State Budgetary Institution of Healthcare &quot;Medical and Sanitary Unit No. 163 of the Federal Medical and Biological Agency&quot; (FGBUZ MSCH-163, FMBA of Russia)</name>
+      <address>
+        <city>Koltsovo</city>
+        <state>Novosibirsk Region</state>
+        <zip>630559</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>September 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>EpiVacCorona</keyword>
+  <keyword>vaccination</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

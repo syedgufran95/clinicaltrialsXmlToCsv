@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3133">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542226</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Covid_v_1.0</org_study_id>
+    <nct_id>NCT04542226</nct_id>
+  </id_info>
+  <brief_title>Observational Open Study of Polyoxidonium in Hospitalized Patients With COVID-19</brief_title>
+  <official_title>Open Observational Study of Efficacy and Safety of Polyoxidonium in Complex Therapy of Hospitalized Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NPO Petrovax</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NPO Petrovax</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is designed as an open observational non-comparative study of Polyoxidonium®,
+      lyophilizate for solution for injections, 12 mg in hospitalized patients with coronavirus
+      disease (COVID-19).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study was planned as an observation of Polyoxidonium® administered in addition to Russian
+      MoH guidance for standard COVID-19 treatment. Regimens have no limitations to the use of
+      concomitant therapy. The aim of the study is to observe the safety and efficacy of
+      Polyoxidonium®, lyophilizate for solution for injections, 12 mg in addition to complex
+      treatment of hospitalized patients with COVID-19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 31, 2020</start_date>
+  <completion_date type="Anticipated">October 2020</completion_date>
+  <primary_completion_date type="Actual">July 15, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical status of the patient (according to 7-point ordinal scale)</measure>
+    <time_frame>Day 15</time_frame>
+    <description>Subject clinical status using the 7-point Ordinal Scale, specified as the primary endpoint in the WHO Master Protocol on day 15 as compared to baseline
+(1 - Not hospitalized, no limitations on activities; 2 - Not hospitalized, limitation on activities; 3 - Hospitalized, not requiring supplemental oxygen; 4 - Hospitalized, requiring supplemental oxygen; 5 - Hospitalized, on non-invasive ventilation or high flow oxygen devices; 6 - Hospitalized, on invasive mechanical ventilation or ЕСМО; 7 - Death).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical status of the patient (according to Ordinal scale)</measure>
+    <time_frame>Days 1 - 29.</time_frame>
+    <description>Ordinal scale score status, time to improvement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical status of the patient (according to NEWS scale)</measure>
+    <time_frame>Days 1 - 29.</time_frame>
+    <description>NEWS scale score status, time to improvement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen saturation</measure>
+    <time_frame>Days intervals 1-2, 3-5, 6-8, 9-10, 11-12, 13-14, 15-17.</time_frame>
+    <description>Oxygen blood saturation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitlization duration</measure>
+    <time_frame>Days 1 - 29</time_frame>
+    <description>Duration of hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Days 1 - 29.</time_frame>
+    <description>Incidence of mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of serious adverse events</measure>
+    <time_frame>Days 1 - 29.</time_frame>
+    <description>Cumulative incidence of SAE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Days 1 - 29.</time_frame>
+    <description>Cumulative incidence of AE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of discontinuation of drug administration</measure>
+    <time_frame>Days 1 - 17.</time_frame>
+    <description>Permament or temporary discontinuation of infusions or injections</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">81</enrollment>
+  <condition>Infections, Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Adult patients hospitalized with COVID-19</arm_group_label>
+    <description>Patients eligible for enrollment into the study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Polyoxidonium</intervention_name>
+    <description>Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+    <arm_group_label>Adult patients hospitalized with COVID-19</arm_group_label>
+    <other_name>azoximer bromide</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Hospitalized adult patients with verified diagnosis of COVID-19 administered Polyoxidonium,
+        according to the instruction for its medical usage in complex with Russian MoH guidance for
+        treatment of COVID-19
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. The hospitalized patient was administered Polyoxidonium, according to the instruction
+             for medical usage in complex with Russian MoH guidance for treatment of COVID-19.
+
+          2. Verified coronavirus disease COVID-19, and at least one of the following:
+
+               -  severe disease: mechanical ventilation or oxygen supply required with SpO2 ≤ 94%
+                  on room air or tachypnea, respiratory rate ≥ 24 breaths per minute,
+
+               -  mild-moderate disease: SpO2 &gt; 94% on room air or respiratory rate &lt; 24 breaths
+                  per minute.
+
+          3. The patient signed an Informed Consent form for participation in this study.
+
+          4. The patient can understand all protocol requirements, perform the study procedures,
+             and agree to all limitations specified in the protocol.
+
+          5. Male and female patients from 18 years of age.
+
+          6. Confirmed diagnosis of coronavirus disease (COVID-19): laboratory-confirmed SARS-CoV-2
+             infection as determined by PCR, or other commercial or public health assay in any
+             specimen prior to inclusion.
+
+        Exclusion Criteria:
+
+          1. Pregnancy or breastfeeding.
+
+          2. Pathological condition that the study doctor considers significant enough to prevent
+             enrolment of this patient.
+
+          3. Participation in any clinical study within 30 days before the Informed Consent form
+             provided.
+
+          4. Hypersensitivity and/or intolerability to any ingredient of the investigational
+             product.
+
+          5. Acute or chronic renal failure.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>&quot;Ambulance hospital&quot; of the Ministry of Health of Chuvashia</name>
+      <address>
+        <city>Cheboksary</city>
+        <state>Chuvashia</state>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bromides</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2441">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04517630</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C26-20</org_study_id>
+    <nct_id>NCT04517630</nct_id>
+  </id_info>
+  <brief_title>Renal Biomarkers in AKI and COVID-19</brief_title>
+  <official_title>Acute Kidney Injury In Subjects With Severe Acute Respiratory Syndrome Due to SARS-CoV2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto Nacional de Enfermedades Respiratorias</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instituto Nacional de Enfermedades Respiratorias</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe pneumoniae related to Coronavirus Disease (COVID-19), had a high in-hospital
+      mortality; this condition are worst in subjects with acute kidney disease (AKI); conditioning
+      increased mortality, days of assisted mechanical ventilation (AMV), increased nosocomial
+      infections and high costs. We need many studies for determinated the risk factors for AKI in
+      subjects with COVID-19.
+
+      This study pretends identify the incidence of AKI in subjects with severe pneumoniae by
+      COVID-19, describe the role of some biomarkers in the physiopathology of AKI-COVID-19; and
+      determine the evolution of urinary biomarkers during hospitalization, like neutrophil
+      gelatinase-associated lipocalin (NGAL), tissue inhibitor of metalloproteinases-2 (TIMP-2),
+      insulin-like growth factor binding protein-7 (IGFBP7), and interleukin-6 (IL-6) and the
+      progression of viruria of Severe Acute Respiratory Syndrome (SARS) related to CoronaVirus 2
+      (CoV2) in subjects with or without AKI.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The usefulness of urinary NGAL levels and the platelet / lymphocyte index as predictive
+      markers of AKI in the context of COVID-19 will be studied. These results will allow to
+      propose more appropriate strategies for the prevention, diagnosis and timely management of
+      patients with severe pneumonia due to COVID-19 and AKI. Knowing the viral load in urine and
+      its evolution in patients with and without AKI will allow us to explore associations between
+      the presence of the virus at the local level and the presence of kidney damage. Likewise, the
+      presence of viral load in urine and its possible relationship with the local activation of
+      the complement system, together with the detection of biomarkers of kidney damage, like NGAL,
+      TIMP-2, IGFBP7, and IL-6, will allow us to better understand the pathophysiology of these
+      alterations in the context of COVID-19; additionally, some patients received tocilizumab, an
+      IL-6 inhibitor as a compassionate measure, which may reduce urinary levels of interleukins
+      and other inflammatory markers.
+
+      Finally, the study of possible differences in the metabolome in urine in patients with and
+      without acute kidney injury could favor the discovery of new markers to identify patients
+      with SARS-CoV-2 infection susceptible to the development of AKI.
+
+      Determine the evolution of NGAL, TIMP-2, IGFBP7, IL-6, viral load and metabolomic basal, and
+      the days 3 , 5 and 7 after recruitment
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>3 Months</target_duration>
+  <primary_outcome>
+    <measure>Urinary levels of renal biomarkers</measure>
+    <time_frame>Seven days</time_frame>
+    <description>To estimate the strength of association between the elevation of urinary levels of NGAL, TIMP-2, IGFBP7 and IL-6 and the development of AKI associated with SARS-CoV-2 pneumonia</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of AKI</measure>
+    <time_frame>One month</time_frame>
+    <description>Describe the incidence of AKI in critically ill patients with severe COVID-19 pneumonia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urinary levels of renal biomarkers and mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>Estimate the strength of association of elevated urinary levels of NGAL, TIMP-2, IGFBP7 and IL-6 with mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urinary levels of renal biomarkers and severity of the disease.</measure>
+    <time_frame>30 days</time_frame>
+    <description>Estimate the strength of association of elevated urinary levels of NGAL, TIMP-2, IGFBP7 and IL-6 with teh severity of the disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Risk factors for AKI in severe COVID-19</measure>
+    <time_frame>30 days</time_frame>
+    <description>Identify possible risk factors (epidemiological, clinical, paraclinical, use of nephrotoxic agents) for the development of AKI in critically ill patients with COVID-19 pneumonia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution renal biomarkers</measure>
+    <time_frame>7 days</time_frame>
+    <description>Compare the evolution over time of renal function markers (NGAL, TIMP-2 and IGFBP7) in patients with and without kidney injury.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of viral load</measure>
+    <time_frame>7 days</time_frame>
+    <description>Compare the evolution over time of the SARS-CoV-2 viral load in patients with and without acute kidney injury.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of complement pathway</measure>
+    <time_frame>seven days</time_frame>
+    <description>Analyze the complement pathway in urine and compare its evolution over time in patients with and without acute kidney injury and SARS-CoV-2 infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Metabolomic profile</measure>
+    <time_frame>7 days</time_frame>
+    <description>Analyze the metabolomic profile in urine in patients with and without acute kidney injury with SARS-CoV-2 infection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory changes</measure>
+    <time_frame>30 days</time_frame>
+    <description>Describe partial arterial oxygen concentration/inspired oxygen faction (PaO2/FiO2) ratio and radiologic evolution in patients with severe SARS COV2 pneumonia.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Nosocomial Infections</measure>
+    <time_frame>30 days</time_frame>
+    <description>Stablish the nosocomial infections in subjects with or without AKI</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <condition>Covid19</condition>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <condition>AKI</condition>
+  <arm_group>
+    <arm_group_label>Severe pneumoniae</arm_group_label>
+    <description>Evaluate the progression to AKI during first 30 days of recruitment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>urinary NGAL, TIMP-2, IGFBP7, IL-6, viral load and metabolomic</intervention_name>
+    <description>Determine the evolution of NGAL, TIMP-2, IGFBP7, IL-6, viral load and metabolomic at basal, and the 3 , 5 and 7 days after recruitment</description>
+    <arm_group_label>Severe pneumoniae</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      The SARS-CoV-2 RNA will be obtained from 200 microliters of urine, by standard methods
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Older adults were recruited, with a diagnosis of COVID-19 confirmed by PCR, in their first
+        48 hours of hospitalization that meet severity criteria, with 5 to 7 degrees of severity
+        according to the WHO classification.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects over 18 years of age.
+
+          -  Subjects admitted with a diagnosis of probable SARS-CoV-2 pneumonia.
+
+          -  Subjects with a diagnosis of SARS-CoV-2 pneumonia confirmed by Real-time
+             quantitative-Polymerase Chain Reaction (qRT-PCR).
+
+          -  Subjects with qRT-PCR negative for SARS-CoV-2, but who meet clinical and radiological
+             criteria for COVID-19, and no other causes have been identified.
+
+        Exclusion Criteria:
+
+          -  Pregnant women
+
+          -  Incomplete medical records.
+
+        Elimination criteria:
+
+          -  Patients who die within the first 24 hours of entering the institute.
+
+          -  Patients discharged for any reason not considered death within the first 48 hours,
+             such as voluntary discharge or transfer to other health institutions.
+
+          -  Patients who during their hospitalization report a positive PCR for other
+             non-respiratory viruses without identifying SARS-CoV-2
+
+          -  Patients who withdraw their consent
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Santiago Avila Rios, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Instituto Nacional de Enfermedades Respiratorias</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Santiago Ávila Ríos, PhD</last_name>
+    <phone>56667985</phone>
+    <phone_ext>150</phone_ext>
+    <email>santiago.avila@cieni.org.mx</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amy B. Peralta Prado, MD</last_name>
+    <phone>56667985</phone>
+    <phone_ext>100</phone_ext>
+    <email>amy.peralta@cieni.org.mx</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Centro de Investigacion en Enfermedades Infecciosas</name>
+      <address>
+        <city>Mexico City</city>
+        <zip>14060</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Santiago Avila Ríos, PhD</last_name>
+      <phone>+52 (55)56667985</phone>
+      <phone_ext>150</phone_ext>
+      <email>santiago.avila@cieni.org.mx</email>
+    </contact>
+    <contact_backup>
+      <last_name>Amy B. Peralta Prado, MD</last_name>
+      <phone>+52 (55)56667985</phone>
+      <phone_ext>100</phone_ext>
+      <email>amy.peralta@cieni.org.mx</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>August 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 20, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Instituto Nacional de Enfermedades Respiratorias</investigator_affiliation>
+    <investigator_full_name>Santiago Avila-Rios</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>AKI</keyword>
+  <keyword>SARS</keyword>
+  <keyword>METABOLOMIC</keyword>
+  <keyword>KIDNEY BIOMARKERS</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

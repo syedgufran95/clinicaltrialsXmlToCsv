@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="48">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04531748</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-842</org_study_id>
+    <nct_id>NCT04531748</nct_id>
+  </id_info>
+  <brief_title>Selective Estrogen Modulation and Melatonin in Early COVID-19</brief_title>
+  <acronym>SENTINEL</acronym>
+  <official_title>Selective Estrogen Modulation and Melatonin in Early COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Reena Mehra, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Cleveland Clinic</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized, double-blind, controlled clinical trial to evaluate the effects
+      of toremifene and/or melatonin in adults with mild COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a randomized, double-blind, controlled clinical trial to evaluate the effects
+      of a 14 day intervention of toremifene plus melatonin or melatonin in adults with mild
+      COVID-19.
+
+      The study will evaluate the progression of clinical signs and symptoms (fever, dyspnea,
+      cough, fatigue daily score) and any adverse outcomes in comparison to placebo for 30 days.
+
+      The successful completion of this project offers high potential to identify effective
+      treatment (e.g., toremifene plus melatonin and/or melatonin) rapidly for patients with early
+      COVID-19 and to provide, important, fundamental mechanistic insights.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The Medical Safety Officer will not be blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Peak increase in COVID-19 Sign and Symptom score</measure>
+    <time_frame>Screening to 28 days</time_frame>
+    <description>Score total of 0-12 assessed daily. Each category based on severity of symptoms of Cough, Shortness of breath, Fatigue/tiredness and daily temperature on a rating scale of 0-3.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Nadir Oxygen Saturation</measure>
+    <time_frame>Day 1 through day 14</time_frame>
+    <description>Daily mean values</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak Heart Rate</measure>
+    <time_frame>Day 1 through day 14</time_frame>
+    <description>Daily mean values</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to COVID-19 Sign and Symptom score resolution</measure>
+    <time_frame>Screening to 28 days</time_frame>
+    <description>Score total of 0-12 assessed daily. Each category based on severity of symptoms of Cough, Shortness of breath, Fatigue/tiredness and daily temperature on a rating scale of 0-3.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to WHO 7-point ordinal scale score of 3 or higher</measure>
+    <time_frame>Day 1 to Day 30</time_frame>
+    <description>not hospitalized, no limitation of activities (or resumption of normal activity)
+not hospitalized but limitation on activities
+hospitalized, not requiring supplemental oxygen
+hospitalized, requiring supplemental oxygen (low-flow, e.g., nasal prong)
+hospitalized, requiring non-invasive ventilation and/or high-flow oxygen
+hospitalized, on invasive ventilation or ECMO
+death</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">390</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Toremifene + Melatonin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>100mg oral Melatonin on Days 1 &amp; 2 (40mg in the morning and 60mg in the evening), 60 mg on Days 3-14, (20mg in the morning and 40mg in the evening).
+60mg oral toremifene daily days 1-14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Melatonin + Placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>100mg oral Melatonin on Days 1 &amp; 2 (40mg in the morning and 60mg in the evening) and 60 mg on Days 3-14, (20mg in the morning and 40mg in the evening).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Oral placebo will be used with the same number and appearance to the pills as the interventions</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Toremifene</intervention_name>
+    <description>Participants will be instructed to take 60mg of oral toremifene capsule daily, 30 minutes before bedtime.</description>
+    <arm_group_label>Toremifene + Melatonin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Melatonin</intervention_name>
+    <description>Participants will be instructed to take the pills orally around the same time in the morning and 30 minutes prior to bedtime in the evening.</description>
+    <arm_group_label>Melatonin + Placebo</arm_group_label>
+    <arm_group_label>Toremifene + Melatonin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Oral placebo will be used with the same number and appearance to the pills as the interventions.</description>
+    <arm_group_label>Melatonin + Placebo</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Clinical testing positive for SARS-Cov-2 by standard RT-PCR or equivalent test
+
+          -  Willing and able to give informed consent for participation in the study and agrees
+             with the study and its conduct
+
+          -  Age&gt;18 years
+
+          -  Fluency in English or Spanish language, functional literacy
+
+          -  Able to swallow pills
+
+          -  COVID-19 Daily Sign and Symptom score of 2-8
+
+        Exclusion Criteria:
+
+          -  History of deep venous thrombosis or pulmonary embolism
+
+          -  Hypercoagulable disorders (e.g. lupus anticoagulant, deficiency of protein C or S)
+
+          -  Embolic stroke
+
+          -  Liver disease
+
+          -  History of endometrial cancer
+
+          -  Menopausal hormone therapy or oral, injectable or transdermal contraceptives
+
+          -  Depression which is not optimally treated (assessed via medical record and patient
+             will be asked if she/he feels that depression is optimally treated)
+
+          -  Medications which prolong the QT interval (e.g. hydroxychloroquine or azithromycin) or
+             those with long QT syndrome (heritable or acquired). Examples of other medications
+             which prolong the QT interval include: Agents generally accepted to prolong QT
+             interval include Class 1A (e.g., quinidine, procainamide, disopyramide) and Class III
+             (e.g., amiodarone, sotalol, ibutilide, dofetilide) antiarrhythmics; certain
+             antipsychotics (e.g., thioridazine, haloperidol); certain antidepressants (e.g.,
+             venlafaxine, amitriptyline); certain antibiotics (e.g., erythromycin, clarithromycin,
+             levofloxacin, ofloxacin); and certain anti-emetics (e.g., ondansetron, granisetron)
+             (Please refer to Appendix for detailed list of medications)
+
+          -  Inability to participate in follow up assessment
+
+          -  Dementia/cognitive dysfunction
+
+          -  Pregnancy (pregnancy testing will be performed to determine eligibility)
+
+          -  Breastfeeding
+
+          -  Participating in other COVID-19 trials
+
+          -  Immunodeficiency (including HIV, Hepatitis C, bone marrow transplant history, on
+             immunosuppressant medications)
+
+          -  Current hospitalization
+
+          -  Seizure disorder
+
+          -  History of rheumatoid arthritis
+
+          -  Heart failure (NYHA Class III or IV)
+
+          -  Current diagnosis of renal insufficiency/failure
+
+          -  QTc &gt;470ms per 12-lead ECG
+
+          -  Calcium &gt;10.2mg/dL
+
+          -  AST or ALT &gt; 2x upper limit of normal (ULN)
+
+          -  D-dimer &gt;= 1000 u/L
+
+          -  Estimated glomerular filtration rate (eGFR) &lt;60 mL/min/1.73 m2
+
+          -  On other treatment(s) for COVID-19 (e.g. hydroxychloroquine, remdesivir)
+
+          -  Anticoagulant medications (e.g. coumadin, glycoprotein IIa/IIIb inhibitors)
+
+          -  Clinical signs of severe or critical severity of COVID-19 (e.g. shortness of breath at
+             rest, Respiratory rate ≥ 30 per minute, heart rate ≥ 125 per minute, SpO2 ≤ 93% on
+             room air)
+
+          -  Use of supplemental oxygen
+
+          -  Moderate to severe pulmonary disease up to PI discretion
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Reena Mehra, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Samantha Wells</last_name>
+    <phone>3162152759</phone>
+    <email>wellss@ccf.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kylie Phillips</last_name>
+    <phone>2164451593</phone>
+    <email>philik3@ccf.org</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>The Cleveland Clinic</investigator_affiliation>
+    <investigator_full_name>Reena Mehra, MD</investigator_full_name>
+    <investigator_title>Director, Sleep Disorders Research, Neurological Institute</investigator_title>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>coronavirus</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Toremifene</mesh_term>
+    <mesh_term>Melatonin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

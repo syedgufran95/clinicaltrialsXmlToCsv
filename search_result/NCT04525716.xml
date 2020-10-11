@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1693">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04525716</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CovidKirurgi</org_study_id>
+    <nct_id>NCT04525716</nct_id>
+  </id_info>
+  <brief_title>The Effect of Covid-19 on Patient Outcomes Among Operated Patients</brief_title>
+  <official_title>How Does Covid-19 Affect Patient Outcome Following Surgery? A Hospital Based Cohort in Stockholm, Sweden</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Karolinska Institutet</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In a cohort study, the investigators aim to compare confirmed COVID-19 patients with
+      non-COVID-19 patients who undergo surgical treatment and study factors associated with good
+      or bad outcomes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background A novel Coronavirus (SARS-CoV-2) was first detected in the Hubei Province in China
+      in December, 2019. The virus causes a severe respiratory disease (Coronavirus disease 2019,
+      COVID-19) that has rapidly spread worldwide. The COVID-19 pandemic is prognosed to affect a
+      majority of the world's population before the end of 2020. Throughout the course of the
+      pandemic, patients will continuously need essential healthcare, such as for acute surgical
+      conditions. How the clinical course and management of surgical conditions is influenced by
+      concomitant COVID-19 is largely unknown. There is an acute need for an improved evidence base
+      to inform treatment strategies and guide the management of this patient group.
+
+      Objectives
+
+      1. To compare confirmed COVID-19 patients with non-COVID-19 patients who undergo surgical
+      treatment and study factors associated with good or bad outcomes.
+
+      Methods The study will enrol consecutive patients that undergo surgical treatment in the
+      Stockholm Region. Data will be extracted from a series of linked electronic systems, such as
+      electronic healthcare records systems, and regional data systems. Collected data will include
+      routine clinical data, such as baseline characteristics, previous medical history, details on
+      care given at the hospital and data from follow-up visits. Endpoints include death, length of
+      hospital stay and complications, such as readmission, reoperation, sepsis, respiratory
+      failure, and number of days in the intensive care unit. Outcome data of patients with
+      confirmed COVID-19 will be compared to those of patients without COVID-19.
+
+      Dissemination and relevance To the best of the investigators knowledge, there has been no
+      previous comprehensive comparative research on patients with and without confirmed COVID-19
+      that undergo surgical treatment. The results will be disseminated through peer-reviewed
+      publications, aiming for journals with a rapid editorial process, preferably open access
+      journals. The findings are expected to increase the knowledge to establish best-treatment
+      strategies and improve outcomes, both for patients affected by COVID-19 and by future
+      epidemics.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Death</measure>
+    <time_frame>30 days post surgery</time_frame>
+    <description>Mortality</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay</measure>
+    <time_frame>Through study completion, an average of 1 month</time_frame>
+    <description>Length of hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complications</measure>
+    <time_frame>3 months post surgery</time_frame>
+    <description>Includes readmission, reoperation, infection, sepsis, respiratory failure, and number of days in the intensive care unit</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Surgery</condition>
+  <arm_group>
+    <arm_group_label>COVID-19</arm_group_label>
+    <description>Patients with confirmed COVID-19 infection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-COVID-19</arm_group_label>
+    <description>Patients without confirmed COVID-19 infection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19 infection status</intervention_name>
+    <description>We will compare patients with/without confirmed COVID-19 infection</description>
+    <arm_group_label>COVID-19</arm_group_label>
+    <arm_group_label>Non-COVID-19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients that undergo surgical treatment in the Stockholm Region during the study period
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients that undergo surgical treatment in the Stockholm Region during the study
+             period
+
+        Exclusion Criteria:
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gabriel Sandblom, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Södersjukhuset AB, Stockholm, Sweden</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andreas Älgå, MD, PhD</last_name>
+    <phone>0702463287</phone>
+    <email>andreas.alga@ki.se</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Samtliga akutsjukhus i Region Stockholm</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andreas Älgå, MD, PhD</last_name>
+      <phone>0702463287</phone>
+      <email>andreas.alga@ki.se</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 25, 2020</study_first_posted>
+  <last_update_submitted>August 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska Institutet</investigator_affiliation>
+    <investigator_full_name>Andreas Älgå</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

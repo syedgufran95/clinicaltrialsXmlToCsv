@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="686">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04553055</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AA86</org_study_id>
+    <nct_id>NCT04553055</nct_id>
+  </id_info>
+  <brief_title>Antibiotic Misuse During COVID-19 Pandemic: A Cross-sectional Survey Addressed to Community Pharmacists</brief_title>
+  <official_title>Antibiotic Misuse During COVID-19 Pandemic: A Cross-sectional Survey Addressed to Community Pharmacies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beni-Suef University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beni-Suef University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluating the important role of the community pharmacists in pandemics like covid-19 and to
+      find whether there was a misuse of antibiotics during the pandemic or not and to define the
+      reasons behind this misuse if any present.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Community pharmacy in Egypt is considered as the frontline health care system that is easily
+      and freely accessible by the patients, in this pandemic and due to the current circumstances
+      from closing most general hospitals in front of the public, and with the government applying
+      curfew long hours, community pharmacists were the only healthcare providers available for
+      most patients. Their role will not be restricted to delivering medication but expands to
+      monitoring patient conditions especially those with chronic diseases and patient counseling
+      and education clarifying any misunderstanding concerning covid1-19 medication. The present
+      study includes a questionnaire (with detailed questions including how/when/which/for how long
+      antibiotics are prescribed) that is addressed for community pharmacists who dealt with
+      covid-19 patients during the pandemic.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 20, 2020</start_date>
+  <completion_date type="Actual">September 15, 2020</completion_date>
+  <primary_completion_date type="Actual">September 15, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>antibiotic misuse</measure>
+    <time_frame>15-20 days</time_frame>
+    <description>Evaluating the important role of community pharmacist in pandemics like covid-19 and to find whether there was a misuse for antibiotics during the pandemic or not and to define the reasons behind this misuse if any present</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">413</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>community pharmacists</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>online questionnaires</intervention_name>
+    <description>questionnaire (with detailed questions including how/when/which/for how long antibiotics are prescribed)</description>
+    <arm_group_label>community pharmacists</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        community pharmacists worked during the pandemic and dealt with covid-19 patients inside
+        their pharmacies are welcomed to participate
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All community pharmacists worked during the pandemic and dealt with covid-19 patients
+             inside their pharmacies are welcomed to participate
+
+        Exclusion Criteria:
+
+          -  Clinical and hospital pharmacists- other medical staff- pharmacist assistant
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hoda M Rabie, PHD</last_name>
+    <role>Study Chair</role>
+    <affiliation>lecturer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>BeniSuefU</name>
+      <address>
+        <city>Cairo</city>
+        <state>BeniSuef</state>
+        <zip>62511</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 17, 2020</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Beni-Suef University</investigator_affiliation>
+    <investigator_full_name>Asmaa Abdelfattah Elsayed</investigator_full_name>
+    <investigator_title>PHD candidate</investigator_title>
+  </responsible_party>
+  <keyword>coronavirus</keyword>
+  <keyword>observational survey</keyword>
+  <keyword>antibiotics</keyword>
+  <keyword>Egypt</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

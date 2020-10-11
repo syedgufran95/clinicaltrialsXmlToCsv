@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="79">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04523090</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C3-RCT</org_study_id>
+    <nct_id>NCT04523090</nct_id>
+  </id_info>
+  <brief_title>Catalysing the Containment of COVID-19</brief_title>
+  <acronym>C3-RCT</acronym>
+  <official_title>The C3 Nitazoxanide for Mild to Moderate COVID-19 in HIV-infected and HIV-uninfected Adults With Enhanced Risk: a Double-blind, Randomised, Placebo-controlled Trial in a Resource-poor Setting</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Cape Town</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medical Research Council, South Africa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Aurum Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Texas Tech University Health Sciences Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of KwaZulu</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Perinatal HIV Research Unit of the University of the Witswatersrand</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Cape Town</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 due to SARS-CoV-2 infection is a rapidly escalating global pandemic for which there
+      is no proven effective treatment. COVID-19 is multi-dimensional disease caused by viral
+      cytopathic effects and host-mediated immunopathology. Therapeutic approaches should logically
+      be based on interventions that have direct anti-viral effects and favourably modulate the
+      host immune response. Thus, an optimal drug regimen in ambulatory patients should
+      collectively (i) target and reduce viral replication, (ii) upregulate host innate immune
+      anti-viral responses, (iii) have favourable immunomodulatory properties, and (iv) minimise
+      disease progression to hospitalisation thus circumventing the 'cytokine storm' that likely
+      underpins ARDS and multi-organ failure.
+
+      Nitazoxanide (NTZ) is an antiprotozoal drug that is FDA-approved for treating Cryptosporidium
+      and Giardia and has an excellent safety record for a variety of indications, but primarily as
+      an anti-parasitic agent. It has proven broad anti-viral activity as it amplifies cytoplasmic
+      RNA sensing, potently augments type I interferon and autophagy-mediated anti-viral responses,
+      has immunomodulatory properties e.g inhibits macrophage IL-6 production, and interferes with
+      SARS-CoV-2 glycosylation. It has been shown to have anti-viral activity against several
+      viruses including Ebola, influenza, hepatitis B and C, rotavirus and norovirus.
+
+      With regard to respiratory viral infections, NTZ was evaluated in uncomplicated influenza and
+      demonstrated a reduction in the median time to symptom recovery. By contrast, NTZ failed to
+      show benefit in hospitalised patients with severe influenza suggesting that, as with
+      oseltamivir (Tamiflu), it likely needs to be administered early in the course of the disease.
+      NTZ has proven in vitro activity against SARS-CoV-2. NTZ inhibited the SARs-CoV-2 at a
+      low-micromolar concentrations and in vivo evaluation in patients with COVID-19 has been
+      strongly recommended. NTZ has an excellent drug-drug interaction profile.
+
+      No clinically significant interactions are expected with commonly used antihypertensive
+      agents, antidiabetics drugs, antiretroviral agents, steroids or commonly prescribed
+      analgesics / anti-inflammatory agents.
+
+      The investigators propose NTZ for the treatment of mild COVID-19 in non-hospitalised patients
+      with HIV co-infection and/or enhanced risk for progression to severe disease (age &gt; 50 years
+      and/ or with comorbidity). The investigators will perform a randomised controlled trial
+      enrolling 960 patients with mild disease. The primary outcome measure will be the proportion
+      progressing to severe disease (hospitalisation) based on the WHO clinical progression scale
+      (progression to stage 4 and beyond). Secondary outcome measures will include disease rates in
+      contacts and effect on viral load, productive infectiousness using viral cultures, and
+      ability to abrogate the generation of infectious aerosols using novel cough aerosol sampling
+      technology. Recruitment is stratified and thus the study is powered to detect progression to
+      severe disease in HIV-infected persons.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 that is caused by SARS-CoV-2 infection is a rapidly escalating global pandemic(9).
+      The pandemic is on an upward and escalating trajectory in most countries though some
+      countries like China have shown a substantial decrease in the number of new cases being
+      recorded. It is unclear if there will be a second wave of the epidemic.
+
+      Most cases of COVID-19 are either asymptomatic or have minimal symptoms (~80%) and act as
+      carriers for disease transmission. Recent longitudinal studies indicate that the SARS-COV-2
+      viral load in the pharynx is highest during the prodromal phase of COVID-19. Thus, early
+      therapeutic intervention, prior to respiratory tract dissemination and disease amplification,
+      is likely to be a promising strategy. Although such persons are advised to be in self
+      isolation, many, especially in resource-poor settings (due to several factors including
+      poverty, overcrowding, environmental conditions, personal beliefs, stigma and human
+      fallibility), continue to have contact with others thus fuelling the epidemic. Therefore,
+      reducing the period of infectiousness in ambulatory patients will have major public health
+      impact by shortening the epidemic, thereby reducing morbidity and mortality.
+
+      Retarding the progression of the 15 to 20% that will develop more severe disease will have
+      benefits for the public health system, which is struggling to cope with a surge in cases and
+      will thus have a likely impact on mortality. Thus, therapeutic agents that can reduce viral
+      load, viral shedding, the duration of illness and progression to severe disease are urgently
+      needed. It is important to note that HIV-infected persons and certain sub-groups (including
+      those &gt; 50 years of age, and with comorbidities like diabetes and hypertension etc.) may have
+      'enhanced risk' of disease progression. Collectively such persons would constitute an
+      enhanced risk group and are at the highest risk of disease progression. The risk of disease
+      progression in HIV-infected persons and whether they will respond to the NTZ intervention to
+      the same extent as HIV uninfected persons remains unknown.
+
+      NTZ is licensed in the USA for treatment of diarrhoea caused by Cryptosporidium parvum and
+      Giardia lamblia. NTZ is a pro-drug for tizoxanide, which also has broad spectrum antiviral
+      properties, has many viral indications and shows promising pharmacodynamics against
+      Coronaviridae. NTZ was identified as a first-in-class broad-spectrum antiviral drug and has
+      been repurposed for the treatment of influenza. In vitro studies evaluating tizoxanide, the
+      active circulating metabolite of NTZ, inhibits the replication of broad range of influenza A
+      and B, HIN1, H3N2, H3N2V, H3N8, H5N9, H7N1 and oseltamivir resistant strain and coronaviruses
+      see (table 1 below) (13-17). It has been shown to have anti-viral activity against several
+      viruses including Ebola, hepatitis B and C, rotavirus and norovirus.
+
+      A Phase 2b/3 clinical trial recently published in The Lancet Infectious Diseases found that
+      oral administration of NTZ slow release formulation 600 mg twice daily for five days reduced
+      the duration of clinical symptoms and reduced viral shedding compared to placebo in persons
+      with laboratory-confirmed influenza. These dosages are suitable for treating viral
+      respiratory infections caused by influenza and other viruses as in vitro IC50s are typically
+      between 0.1 and 1ug/mL. The same study also suggested a potential benefit for subjects with
+      influenza-like illness who did not have influenza or other documented respiratory viral
+      infection.
+
+      The broad-spectrum antiviral activity of tizoxanide is attributed to interference with host
+      regulated pathways involved in viral replication. These pathways include IFN and mTOR1
+      (autophagy) signalling pathways. NTZ upregulates the innate anti-viral mechanisms by broadly
+      amplifying cytoplasmic RNA sensing and type I IFN pathways. It is also a potent driver of
+      autophagy, an antiviral and anti-bacterial mechanism. Thus, NTZ interferes with the viral
+      infection by upregulating the precise host mechanisms that viruses target to bypass host
+      cellular defences. Additionally, NTZ inhibits replication of a broad range of influenza
+      viruses, including neuraminidase inhibitor-resistant strains by blocking the maturation of
+      viral haemagglutinin at the posttranslational level. NTZ impairs intracellular trafficking
+      and insertion of viral haemagglutinin into the host plasma membrane. In cell culture studies,
+      NTZ acts synergistically with neuraminidase inhibitors.
+
+      NTZ may inhibit the glycosylation of the SARS-CoV-2, similar to its action on the
+      hemagglutinin antigen of the influenza virus. Additionally, NTZ also exhibits inhibitory
+      activity against IL-6 production from murine macrophages both in vitro and in vivo. Moreover,
+      there is a good possibility that diseases associated with IL-6 overproduction (cytokine
+      storm) like SARS-CoV-2 could be ameliorated by NTZ.
+
+      NTZ may be useful for the early treatment of COVID-19 when viral load is at its highest in
+      the pharynx; and could serve to limit viral shedding thus significantly reducing disease
+      transmission. In the same group it may retard progression to severe disease. Although only 15
+      to 20% of patients with COVID-19 may develop severe disease, large numbers of such patients
+      will totally overwhelm healthcare systems as currently being experienced in the USA and the
+      Western Cape province of South Africa. Thus, whether NTZ is useful in patients with mild to
+      moderate COVID-19 disease remains unclarified and urgently needs to be addressed.
+      Unreliability with using duration of illness (pre-symptomatic period is variable and symptom
+      onset is subject to substantial recall bias) and viral load (may be different in different
+      anatomical locations and will depend on tolerance and host immunity) as proxy measures means
+      that the investigators have to embark on a phase IIB/III study to determine whether NTZ
+      effects a clinically meaningful outcome.
+
+      Study design: A single-stage, double-blinded, randomised, placebo-controlled trial.
+
+      Primary aim: To evaluate the effectiveness of nitazoxanide (NTZ) in reducing the progression
+      from mild to severe COVID-19 in non-hospitalised patients.
+
+      Significance and impact: The investigators will perform a randomised placebo-controlled trial
+      recruiting 960 mildly symptomatic non-hospitalised COVID-19 patients at 7 sites from 4 cities
+      in South Africa. The primary outcome measure will be time-specific (30- and 60-day) disease
+      severity based on the WHO clinical progression scale. This will have implications for disease
+      transmission and amplification of the epidemic. The rate of progression to severe disease
+      will determine hospitalisation rates, morbidity, and mortality. It will also have
+      implications for reducing healthcare burden, costs and improving healthcare worker safety.
+      The investigators predict that the progression to severe disease (need for presentation or
+      admission to hospital) will be reduced with NTZ. As disease progression will more likely
+      occur in those who are HIV-infected or with enhanced risk (older patients or those with
+      immunosuppression), the investigators will stratify randomisation for HIV-infected and
+      enhanced risk patients (described in detail later).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 27, 2020</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A single-stage, double-blinded, randomised, placebo-controlled trial.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>double-blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time specific disease severity</measure>
+    <time_frame>60 days</time_frame>
+    <description>Time-specific (30- and 60-day) disease severity based on the WHO clinical progression scale</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression to severe disease</measure>
+    <time_frame>60 days</time_frame>
+    <description>Need for hospitalisation and length of hospital stay (in those admitted to hospital because of disease progression).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for respiratory support (high flow nasal oxygen, non-invasive ventilation, or intubation) in those admitted to hospital because of disease progression.</measure>
+    <time_frame>60 days</time_frame>
+    <description>Length of time on high flow nasal oxygen or in the ventilator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In-hospital and 30- and 60-day all-cause mortality. available).</measure>
+    <time_frame>60 days</time_frame>
+    <description>Time-specific all cause of mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-specific viral load as measured by RT-PCR using NP swabs and sputum (where available).</measure>
+    <time_frame>60 days</time_frame>
+    <description>SARS-CoV-2 viral parameters [duration and burden of viral load and duration of viral culture positivity (viral shedding)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cough aerosol sampling positivity</measure>
+    <time_frame>60 days</time_frame>
+    <description>Assessment of SARS-CoV-2 presence in droplets and aerosols generated COVID-19 positive participants ( and infectiousness)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">960</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nitazoxaninde, 1000mg (2pills), oral, twice daily for 7 days. To be taken with food.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo, 2 pills, oral, twice daily for 7 days. To be taken with food.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nitazoxanide</intervention_name>
+    <description>Nitazoxanide (NTZ) is licensed in the USA for treatment of diarrhoea caused by Cryptosporidium parvum and Giardia lamblia. NTZ is a pro-drug for tizoxanide, which also has broad spectrum antiviral properties, has many viral indications and shows promising pharmacodynamics against Coronaviridae. NTZ was identified as a first-in-class broad-spectrum antiviral drug and has been repurposed for the treatment of influenza. In vitro studies evaluating tizoxanide, the active circulating metabolite of NTZ, inhibits the replication of broad range of influenza A and B, HIN1, H3N2, H3N2V, H3N8, H5N9, H7N1 and oseltamivir resistant strain and coronaviruses . It has been shown to have anti-viral activity against several viruses including Ebola, hepatitis B and C, rotavirus and norovirus.</description>
+    <arm_group_label>Nitazoxanide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo pills with no active ingredient.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Adults &gt;18 years of age.
+
+          2. Confirmed COVID-19 on RT-PCR using NP or OP swabs (or sputum or another sample e.g.
+
+             stool).
+
+          3. Presenting within 5 days of symptom onset.
+
+          4. Not requiring immediate hospitalisation.
+
+          5. Patients with non-severe i.e. mild disease (respiratory rate &lt;25/min), pulse rate &lt;120
+             beats/min, oxygen saturation of ≥95%
+
+          6. Enhanced risk and/or HIV-infected
+
+        Exclusion Criteria:
+
+          1. Refusal or unable to sign informed consent.
+
+          2. Patient who declines or will be unable to comply with follow up visits by study staff.
+
+          3. Patients with advanced organ dysfunction/co-morbid conditions that in the opinion of
+             the study doctor would compromise the patient's well-being.
+
+          4. Patients who have had symptoms for &gt; 5 days (as at the day of recruitment).
+
+          5. Patients who refuse HIV-testing.
+
+          6. Patients using warfarin (Appendix A)
+
+          7. Patients with a body weight of less than 40kg.
+
+          8. Women of child-bearing age (18-50 years) with a positive urine pregnancy test at
+             randomisation.
+
+          9. Female patients who are currently breastfeeding.
+
+         10. Patients without HIV infection or at least one enhanced risk characteristic
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Keertan Dheda, MD/PhD</last_name>
+    <phone>+27214047654</phone>
+    <email>Keertan.Dheda@uct.ac.za</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ali Esmail, MD</last_name>
+    <phone>+27214044430</phone>
+    <email>A.Esmail@uct.ac.za</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Cape Town</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Keertan Dheda, MD/PhD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Ali Esmail, MD</last_name>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>South Africa</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 21, 2020</study_first_posted>
+  <last_update_submitted>August 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Cape Town</investigator_affiliation>
+    <investigator_full_name>Keertan Dheda</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Nitazoxanide</keyword>
+  <keyword>Mild to moderate Covid19</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nitazoxanide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

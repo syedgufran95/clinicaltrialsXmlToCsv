@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="904">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04549337</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-20033733</org_study_id>
+    <secondary_id>75068</secondary_id>
+    <nct_id>NCT04549337</nct_id>
+  </id_info>
+  <brief_title>Feasibility and Safety of High-intensity Exercise Training in Patients Surviving COVID-19</brief_title>
+  <official_title>Investigator-blinded Randomized Controlled Trial Examining the Safety and Feasibility of Different Exercise Training Programs in Patients Who Have Survived COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This current protocol encompasses an investigator-blinded randomized exercise intervention in
+      10 COVID-19 survivors that have been discharged from hospital. The subjects will be
+      randomized to perform three different exercise training protocols in a random order.
+
+      The aim is to clarify the feasibility and safety of three training protocols in COVID-19
+      survivors. The hypothesis is that patients surviving COVID-19 will be able to comply to all
+      training protocols.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study is a randomized crossover trial testing the feasibility and safety of three
+      different training protocols in 10 COVID-19 survivors that have been discharged from
+      hospital. The subjects will be randomized to perform three different exercise training
+      protocols in a random order.
+
+      The aim is to clarify the feasibility and safety of three training protocols in COVID-19
+      survivors. The hypothesis is that patients surviving COVID-19 will be able to comply to all
+      training protocols.
+
+      The study consists of 4 visits with 1 baseline session (a medical screening and fitness test)
+      and 3 different training sessions. Each training is separated by 1-week washout, to account
+      for potential confounding by leisure activity performed just before the training, patients
+      will be wearing activity watches (Polar).
+
+      Feasibility and safety evaluation will be based on 1) how tolerable and enjoyable the
+      training was based on a subjective questionnaire (Likert Scale) 2) compliance to the
+      prescribed exercise protocol with regard to duration and intensity and 3) experienced side
+      effects.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 25, 2020</start_date>
+  <completion_date type="Anticipated">May 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>This study uses a randomized crossover trial testing the feasibility of 3 different training protocols.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Participants are randomly allocated following successful completion of the baseline measurements. A researcher, that is not involved in testing or training procedures, generates a computer-generated block randomization schedule with balanced permutations. To ascertain allocation concealment, the block sizes will not be disclosed. The schedule is forwarded to a research assistant, who is not involved in any study procedures and stored on a password protected computer. Following the baseline measurements, the participants are given consecutive numbers. These are forwarded to the research assistant, who returns the corresponding allocation sequence to the study coordinator. The participants are blinded for treatment allocation until treatment assignment. However, following the initial two treatments blinding of the participants is no longer possible. All study personal involved with data collection will be blinded during baseline testing.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>10-point Likert scale</measure>
+    <time_frame>Through study completion, an average of 3 months</time_frame>
+    <description>the 10-point Likert scale, which evaluates enjoyment and perceived tolerance of each training protocol at the end of each training session using a 10-point Likert scale, which is one of the most fundamental and frequently used psychometric tools in social science research. Patients have to indicate the degree to which they agreed with the following statement before training: &quot;How motivated are you for today's training?&quot; following two statements after the training: &quot;How enjoyable have today´s training session been?&quot; and &quot;How tolerant has today´s training been?&quot; A higher number describes better agreement.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participant adherence to the training dose</measure>
+    <time_frame>Through study completion, an average of 3 months</time_frame>
+    <description>Percentage completed exercise of the total duration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participant adherence to the training intensity</measure>
+    <time_frame>Through study completion, an average of 3 months</time_frame>
+    <description>Percentage of the exercise session spent at a heart rate above 85% of maximal heart rate</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse effects</measure>
+    <time_frame>Through study completion, an average of 3 months</time_frame>
+    <description>Adverse effect which leads to termination of the exercise training, registered as a binary outcome (yes/no)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of perceived exertion</measure>
+    <time_frame>The secondary outcome measure will be evaluated through study completion, an average of 3 months</time_frame>
+    <description>Verification of training intensity is evaluated by rate of perceived exertion after each interval (6-20 Borg scale) and after completed training (1-10 Borg scale), and from accumulated minutes in the predefined heart rate zones.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post COVID-19 Functional scale</measure>
+    <time_frame>The secondary outcome measure will be evaluated through study completion, an average of 3 months</time_frame>
+    <description>Functional capacity of the patients is another outcome which is assessed with the Post COVID-19 Functional scale, which is a scale to measure the consequence of the disease beyond binary outcomes. The scale ranges from 0-4, where 4 describes &quot;worst functional limitation (worse outcome)&quot;.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>4X4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>An exercise training protocol with a duration of 38 minutes consisting of a 10 minutes warm up with a heart rate of 60-70% of HRmax followed by 4 intervals of 4 minutes at an intensity that will induce at least 85% of HRmax (we will start with 75% of watt max).
+Each interval is separated by 3-minute active pauses, biking at 50-70% of HRmax. Following this a 3-minute cooldown (at warm up intensity) will be performed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>6X1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>An exercise training protocol with a duration of 38 minutes consisting of a 10 minutes warm up on 30% of watt-max followed by 6 intervals of 1 minute at 100% of the watt-max.
+Each interval is interspersed by 3-minute active pauses at 30% of watt-max. Following this a 7-minute cooldown (at warm up intensity) will be performed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>10-20-30</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>An exercise training protocol with a duration of 38 minutes consisting of a 10 minutes warm up at 60-70% of HRmax followed by 3 intervals of 5 minutes interspersed by 3 minutes on 50-70% of HRmax.
+Each interval consists of 5 minutes of 5 repeated 30-20-10 intervals, consisting of 30 seconds at easy pace, 20 seconds at medium pace and 10 seconds at all-out. Following this a 7-minute cooldown (at warm up intensity) will be performed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Exercise training</intervention_name>
+    <description>Feasibility and safety of 3 different training protocols will be tested. Therefore the intervention is three different exercise protocols (4X4, 6X1, and 10-20-30). The exercise workload is set according to the patients HRmax or wattmax from a VO2max test at the baseline testing. All training protocols have a duration of 38 minutes and start with a 10-minute warm up and a 3-7-minute cool-down period. The intervals in the training protocols are interspersed with a 3-minute active rest. Therefore the three exercise protocols are matched on duration, and they all fall within the category of high-intensity-interval training.
+The accumulated time spend with a heart rate &gt;85% of HR max will be evaluated to determine the intensity.</description>
+    <arm_group_label>10-20-30</arm_group_label>
+    <arm_group_label>4X4</arm_group_label>
+    <arm_group_label>6X1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥ 40 years
+
+          -  A laboratory-confirmed initial positive test followed by one negative tests of severe
+             acute respiratory syndrome coronavirus 2 (SARS-CoV-2) ≤ 6 months after hospital
+             discharge
+
+          -  ≤10 L oxygen requirement during hospitalization
+
+        Exclusion Criteria:
+
+          -  Present atrial fibrillation
+
+          -  Diagnosed with acute myocarditis
+
+          -  Health conditions that prevent participating in the exercise intervention
+
+          -  Patients who cannot undergo MR scans (e.g. kidney disease or metallic implants)
+
+          -  Treatment with IL-6 receptor antagonists (tocilizumab, kevzara) within the last month
+             due to drug interference with the cardiopulmonary exercise adaptations.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Regitse Christensen, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Center for Physical Activity Research, Rigshospitalet</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Regitse Christensen, MD PhD</last_name>
+    <phone>0045 23714598</phone>
+    <email>regitse.hoejgaard.christensen@regionh.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ronan Berg, MD PhD</last_name>
+    <email>ronan.martin.griffin.berg@regionh.dk</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 15, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Regitse Christensen</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results reported in publications from this study (after deidentification), and the analytic code can be shared beginning 6 months after publication of pre-specified primary, and secondary outcomes and ending 5 years following this to researchers, who provide a methodologically sound proposal. Proposals should be directed to the corresponding or last author of this manuscript. To gain access, data requestors will need to sign a data access agreement.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 22, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/37/NCT04549337/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

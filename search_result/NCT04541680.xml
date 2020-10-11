@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2360">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04541680</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200527</org_study_id>
+    <nct_id>NCT04541680</nct_id>
+  </id_info>
+  <brief_title>Nintedanib for the Treatment of SARS-Cov-2 Induced Pulmonary Fibrosis</brief_title>
+  <acronym>NINTECOR</acronym>
+  <official_title>&quot;Nintedanib for the Treatment of SARS-Cov-2 Induced Pulmonary Fibrosis&quot;</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Currently, there is no approved treatment for COVID-19 in France, either for the acute phase,
+      nor for the late chronic phase. the investigator suggest that nintedanib has the potential to
+      block the development of lung fibrosis when initiated early enough to inhibit the activation
+      of mesenchymal cells and the progression of virus-induced pulmonary fibrosis. Computerized
+      Tomography (CT) manifestations of fibrosis or fibrous stripes are described in COVID-19 (Ye,
+      Eur Radiol 2020). Pan et al observed fibrous stripes in 17% patients in the early phase of
+      the disease (Pan, Eur Radiol 2020). Ye et al observed bronchiectasis in 2 patients (15.4%)
+      and evidence of pulmonary fibrosis in 3 patients (23.7%) at HRCT performed at 4 weeks (Ye,
+      Eur Radiol 2020). Long term data are still lacking in patients with COVID-19 and the
+      investigators do not know how many patients will have fibrotic sequelae from the acute
+      illness.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      At present, investigators have a very limited view on the long-term pulmonary sequelae after
+      COVID-19 pneumonia, particularly in the most severe forms requiring hospitalization. Early
+      thoracic HRCT is a useful tool for the evaluation of patients suspected of COVID-19
+      pneumonia. Typical features are evocative of the disease in an epidemic context, with
+      multifocal ground-glass opacities, being nodular or not, or crazy-paving with or without
+      consolidations, with a bilateral, peripheral or mixed distribution and involvement of the
+      posterior zones. CT manifestations of fibrosis or fibrous stripes are described in COVID-19.
+      Pan et al observed fibrous stripes in 17% patients in the early phase of the disease. Ye et
+      al observed bronchiectasis in 2 patients (15.4%) and evidence of pulmonary fibrosis in 3
+      patients (23.7%) at HRCT performed at 4 weeks. Long term data are still lacking in patients
+      with COVID-19 and the investigators do not know how many patients will have fibrotic sequelae
+      from the acute illness.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The primary objective is to assess whether nintedanib slows the progression of lung fibrosis in COVID-19 survivors as assessed by the decline in the forced vital capacity (FVC) over 12 months compared to placebo.</measure>
+    <time_frame>at inclusion and 12 months.</time_frame>
+    <description>Change in Forced Vital Capacity over 12 months assessed by Annual Rate of Decline in FVC in Overall Population</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>compare the rate of decline of DLCO over 12 months</measure>
+    <time_frame>at inclusion, 6 and 12 months</time_frame>
+    <description>Rate of decline in DLCO estimated by linear regression of DLCO from baseline to 12 months from DLCO measurement at inclusion, 6 and 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare exercise capacity at 12 months</measure>
+    <time_frame>at 12 months</time_frame>
+    <description>Absolute change from baseline in the Six-minute walk test (6MWT) at 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare high resolution CT (HRCT) lung opacities extension at 12 months</measure>
+    <time_frame>at inclusion and 12 months</time_frame>
+    <description>HRCT fibrosis score and HRCT fibrosis extension (visual and computer-based assessment) at inclusion and 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare change in health-related quality of life</measure>
+    <time_frame>at 12 months</time_frame>
+    <description>Absolute change from baseline in the total score on the St. George's Respiratory Questionnaire questionnaire at 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare the evolution of dyspnea over time</measure>
+    <time_frame>at 3, 6, 9 and 12 months</time_frame>
+    <description>Absolute change from baseline in the Dyspnea score (Multidimensional Dyspnea Profile and mMRC score) at 3, 6, 9 and 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare change in Depression and anxiety over time</measure>
+    <time_frame>at 3, 6, 9 and 12 months</time_frame>
+    <description>The absolute change from baseline Hospital Anxiety and Depression score at 3, 6, 9 and 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>compare change in lung injury, pulmonary hypertension and inflammation biomarkers</measure>
+    <time_frame>at inclusion and 12 months</time_frame>
+    <description>Biomarker assay (KL-6, NT-proBNP, CRP, D-dimers) at inclusion and 12 months</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pulmonary hypertension prevalence at inclusion and 12 months</measure>
+    <time_frame>at inclusion and 12 months</time_frame>
+    <description>Percentage of patients with a tricuspid regurgitation velocity &gt; 2.5, 2.8 and 3.4 m/sec evaluated at baseline and at 12 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>association between genetic susceptibility (MUC5B polymorphism) and lung fibrosis in COVID-19 survivors</measure>
+    <time_frame>at inclusion</time_frame>
+    <description>MUC5B at risk allele detection at inclusion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>safety of nintedanib</measure>
+    <time_frame>over 12 months</time_frame>
+    <description>Incidence of clinical or biological adverse events with nintedanib versus placebo over 12 months</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>SARS-Cov-2 Induced Pulmonary Fibrosis</condition>
+  <arm_group>
+    <arm_group_label>Nintedanib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental group will receive nintedanib 150mg BID for 12 months in addition to standard of care (SoC). Nintedanib dose could be reduced to 100mg BID depending on tolerance according to investigator in charge of the patient. The prescription of SoC drugs or procedure will be let to the choice of the investigator in charge of the patient.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Control group will receive Placebo BID for 12 months in addition to SoC. The prescription of SoC drugs or procedure will be let to the choice of the investigator in charge of the patient. Standard of care may include pulmonary rehabilitation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nintedanib 150 MG [Ofev]</intervention_name>
+    <description>Experimental group will receive nintedanib 150mg BID for 12 months in addition to standard of care (SoC). Nintedanib dose could be reduced to 100mg BID depending on tolerance according to investigator in charge of the patient. The prescription of SoC drugs or procedure will be let to the choice of the investigator in charge of the patient.</description>
+    <arm_group_label>Nintedanib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>NaCl</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  History of hospitalization for COVID-19 infection documented with positive PCR or
+             positive serology in the previous 2 to 6 months
+
+          -  Lung opacities on HRCT involving more than 10% of the lung volume, with fibrotic
+             features
+
+          -  DLCO≤ 70% of the predicted value
+
+        Exclusion Criteria:
+
+          -  Pre-existing lung disorder with abnormal HRCT (including COPD, lung cancer, or
+             pulmonary fibrosis)
+
+          -  Laboratory parameter thresholds:
+
+          -  renal insufficiency with following criteria: Creatinine clearance &lt;30 ml/min estimated
+             by the Cockcroft-Gault equation.
+
+          -  any of the following liver test criteria above the specified limit: Total bilirubin &gt;
+             1.5 above the upper limit of the normal range (ULN), except in patients with
+             predominantly unconjugated hyperbilirubinemia (e.g., Gilbert's syndrome). Aspartate or
+             alanine aminotransferase (AST or ALT) &gt;3 × ULN (refer to the protocol, Table 3 p 34
+             for the management of liver enzyme elevation).
+
+          -  Recent surgery with wound healing in progress(&lt;7days )
+
+          -  Patients with underlying chronic liver disease (Child Pugh A, B or C hepatic
+             impairment).
+
+          -  Significant pulmonary arterial hypertension (PAH) defined by any of the following:
+
+               1. Previous clinical or echocardiographic evidence of significant right heart
+                  failure
+
+               2. History of right heart catheterisation showing a cardiac index ≤2 L/min/m²
+
+               3. PAH requiring parenteral therapy with epoprostenol/treprostinil.
+
+          -  History of cardiovascular diseases, any of the following:
+
+               1. Severe hypertension, uncontrolled under treatment (≥160/100 mmHg), within 6
+                  months of Visit 1
+
+               2. Myocardial infarction within 6 months of Visit 1
+
+               3. Unstable cardiac angina within 6 months of Visit 1.
+
+          -  Bleeding risk, any of the following:
+
+               1. Known genetic predisposition to bleeding.
+
+               2. Patients who require
+
+             i. Fibrinolysis, full-dose therapeutic anticoagulation (e.g. vitamin K antagonists,
+             direct thrombin inhibitors, heparin, hirudin) ii. High dose antiplatelet therapy.
+
+          -  Alcohol or drug abuse which in the opinion of the treating physician would interfere
+             with treatment.
+
+          -  Ongoing or past antifibrotic treatment with pirfenidone or nintedanib
+
+          -  Hypersensitivity to nintedanib, peanut or soya or to any of the excipients of the
+             specialty Ofev®
+
+          -  Patients not able to understand and follow study procedures including completion of
+             self-administered questionnaires without help.
+
+          -  No written informed consent from the patient
+
+          -  Absence of affiliation to the French social security
+
+          -  Participation in another interventional research
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Bruno Crestani, MD,PHD</last_name>
+    <phone>01 40 25 68 00</phone>
+    <email>bruno.crestani@aphp.fr</email>
+  </overall_contact>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulmonary Fibrosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nintedanib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

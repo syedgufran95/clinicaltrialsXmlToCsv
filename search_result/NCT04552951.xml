@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="847">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04552951</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-019-PF-CAANJ</org_study_id>
+    <nct_id>NCT04552951</nct_id>
+  </id_info>
+  <brief_title>Effect of Vitamin D on Morbidity and Mortality of the COVID-19</brief_title>
+  <acronym>COVID-VIT-D</acronym>
+  <official_title>Estudio Destinado a Valorar la Utilidad de Vitamina D Sobre Morbilidad y Mortalidad de la infección Por Virus SARS-COV-2 (COVID-19) en el Hospital Universitario Central de Asturias</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fundación para la Investigación Biosanitaria del Principado de Asturias</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Universitario Central de Asturias</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Instituto de Investigación Sanitaria del Principado de Asturias</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fundación para la Investigación Biosanitaria del Principado de Asturias</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients diagnosed of COVID-19 disease are randomized to receive a single dose of 100.000 IU
+      of Cholecalciferol (Vitamin D arm) or no vitamin D (on top of the current medication used to
+      treat COVID 19).
+
+      Clinical, radiological and biochemical outcomes of COVID 19 disease as well as mortality are
+      evaluated.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Efficacy parameters to compare both groups (vitamin D and No vitamin D).
+
+      Time to reach undetectable levels of SARS COV2 Infection.
+
+      Time of normalization of symptoms and clinical parameters.
+
+      Time of normalization of radiological images.
+
+      Time of normalization of biochemical markers.
+
+      Time of normalization of molecular inflammatory markers.
+
+      Transfer to the Intensive care Unit.
+
+      Mortality rate.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 4, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 14, 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients receiving any form. of vitamin D excluded from the study. Randomized study (Initial serum calcidiol levels blinded )</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Time to death or hospital discharge in days (average 12 days)</time_frame>
+    <description>Percentage of patients dying during hospitalization</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Admission to Intensive Care Unit (ICU)</measure>
+    <time_frame>Time from hospital admission to discharge in days (average 12 days)</time_frame>
+    <description>Percentage of patients admitted to ICU and time in ICU</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time of hospitalization</measure>
+    <time_frame>Time of hospitalization in days (average 12 days)</time_frame>
+    <description>Number of days from hospital admission to discharge</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical changes</measure>
+    <time_frame>At the time of hospital admission and discharge (average 12 days)</time_frame>
+    <description>Percentage of patients with symptoms after treatment (Cough, fever, headache, weakness, dyspnoea, anosmia, diarrhoea, ageusia, others ...)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Radiological changes</measure>
+    <time_frame>At the time of hospital admission and discharge (average 12 days)</time_frame>
+    <description>Changes in the percentage of patients with radiological findings of pneumonia and severity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Calcidiol changes</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Calcidiol levels in ng/mL.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inflammation markers changes (CRP)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>C-reactive protein (CRP) in mg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inflammation markers changes (IL-6)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Interleukin-6 (IL-6) in pg/mL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inflammation markers changes (Leucocytes)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Leucocytes in cells per liter</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Inflammation markers changes (D-dimer)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>D-dimer in µg/mL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (Creatinine)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Creatinine in mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (Ferritin)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Ferritin in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (Bilirubin)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Bilirubin in mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (Albumin)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Albumin in g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (Haemoglobin)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Haemoglobin in g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (HDL cholesterol)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>High density lipoprotein (HDL cholesterol) in mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (Procalcitonin)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Procalcitonin in ng/mL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (Protonin)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Protonin in ng/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (Calcium)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Calcium in mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (Phosphate)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>Phosphate in mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>General biochemical parameters changes (pO2)</measure>
+    <time_frame>At the time of hospital admission (before initiation of treatment) and at hospital discharge (average 12 days)</time_frame>
+    <description>pO2 in mmHg</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Active</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Receiving 1 dose of 100.000 iu of Cholecalciferol when the COVID 19 Disease is diagnosed</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No vitamin D</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cholecalciferol</intervention_name>
+    <description>Single doe of 100.000 IU</description>
+    <arm_group_label>Active</arm_group_label>
+    <other_name>Vitamin D</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  &gt; 18 year
+
+          -  Diagnosis of COVID-19
+
+          -  Accept to participate in the study ( consent)
+
+        Exclusion Criteria:
+
+          -  Pregnancy
+
+          -  Allergy to vitamin D
+
+          -  Consumption of any form of vitamin D during the last 3 months
+
+          -  Expected fatal outcome in the next 24 hours
+
+          -  Cognitive deterioration
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jorge B Cannata-Andía, MD PhD</last_name>
+    <phone>*34 985 106137</phone>
+    <email>cannata@hca.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Juan Pérez-Ortega</last_name>
+    <phone>*34 985109905</phone>
+    <email>juan.perez@finba.es</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Universitario Central de Asturias</name>
+      <address>
+        <city>Oviedo</city>
+        <state>Asturias</state>
+        <zip>33011</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jorge B Cannata-Andía, MD PhD</last_name>
+      <phone>*34 985106137</phone>
+      <email>cannata@hca.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Juan Pérez-Ortega</last_name>
+      <phone>*34 985 109905</phone>
+      <email>juan.perez@finba.es</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>May 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 17, 2020</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Cholecalciferol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

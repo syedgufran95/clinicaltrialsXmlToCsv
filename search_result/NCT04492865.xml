@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="620">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492865</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTCOV</org_study_id>
+    <nct_id>NCT04492865</nct_id>
+  </id_info>
+  <brief_title>MSCT Chest in Suspected COVID-19 Patients</brief_title>
+  <official_title>MSCT Chest in Suspected COVID-19 Patients in Correlation With Symptomology and Laboratory Findings</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The present study aimed to evaluate the accuracy of MSCT chest in the detection of COVID-19
+      cases and to correlate its diagnostic performance with that of the clinical presentation and
+      CBC indices; using RT-PCR assays as a gold standard.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronaviruses are non-segmented positive-stranded RNA viruses with a roughly 30 kb genome
+      surrounded by a protein envelope . Two serious coronavirus disease outbreaks have happened in
+      the past two decades: severe acute respiratory syndrome (SARS) in 2003, and Middle East
+      respiratory syndrome (MERS) in 2012 .
+
+      Since December 2019, severe acute respiratory syndrome of coronavirus 2 (SARS-CoV-2) has been
+      recognized as the causal factor in a series of severe cases of pneumonia originating in
+      Wuhan, Hubei Province, China . The disease is highly infectious, spreads rapidly worldwide
+      and has been named coronavirus disease 2019 by the World Health Organization that declared
+      the ongoing outbreak as a global pandemic on March 11, 2020.
+
+      COVID-19 infection is usually transmitted from human-to-human by close contact. During close
+      contact, people catch the disease by droplet transmission either directly after breathing of
+      contaminated respiratory droplets that were exhaled by an infected person during coughing,
+      sneezing or talking or indirectly by dealing with surfaces and objects used by the infected
+      person. Some aerosol generating medical procedures (i.e., endotracheal intubation,
+      bronchoscopy or disconnecting a patient from the ventilator), may result in easier
+      transmission of such small droplets for greater distances and longer periods of time, in what
+      is known as airborne transmission .
+
+      The virus is most contagious during the first three days after onset of symptoms, although
+      the infection may occur up to two days before appearance of symptoms (presymptomatic
+      transmission) and in later stages of the disease. Some people have been infected and
+      recovered without showing symptoms, but uncertainties remain in terms of asymptomatic
+      transmission .
+
+      The lungs are the organs most commonly affected by COVID 19 because the virus accesses host
+      cells via the enzyme angiotensin-converting enzyme 2 (ACE2), which is most abundant in type
+      II alveolar cells of the lungs. The density of ACE2 in each tissue correlates with the
+      severity of the disease in that tissue and some have suggested that decreasing ACE2 activity
+      might be protective .The virus uses a special surface glycoprotein called a &quot;spike&quot;
+      (peplomer) to connect to ACE2 and enter the host cell . Though, autopsies of people who died
+      of COVID 19 have found diffuse alveolar damage , and lymphocyte-containing inflammatory
+      infiltrates within the lung .
+
+      The clinical presentation is fundamental to identify and isolate suspected COVID-19 cases.
+      Studies have shown that COVID-19 could induce fever, dry cough, dyspnea, and fatigue in
+      infected patients. In more severe cases, the infection can cause viral pneumonia, severe
+      acute respiratory distress syndrome (ARDS) and even death.
+
+      Real-time reverse-transcriptase polymerase chain reaction (RT-PCR) is considered the standard
+      diagnostic method of COVID-19 by detection of the viral nucleic acid in the respiratory
+      secretions collected by nasal or oropharyngeal swab. However, high-false-negative rates
+      (FNRs) have been reported with RT-PCR due to multiple intrinsic limitations that includes
+      collection and transportation of samples and diagnostic kit performance. Also, results from
+      quantitative RT-PCR could be affected by variations in viral RNA sequences or in viral loads
+      in the different anatomic sites during the disease natural history . By estimate, the
+      sensitivity of RT-PCR ranges between 60% and 71% . Considering 1014 COVID-19 cases, a recent
+      report found that only 59% of real COVID-19 patients had positive swabs at initial
+      presentation, while chest CT had higher sensitivity in the diagnosis of COVID-19. Chest CT
+      can be helpful in early detection of typical pulmonary abnormalities in case of high
+      suspicion for COVID-19 infection even with initially negative RT-PCR results . Furthermore,
+      CT may be useful in patients follow up and consequently in evaluation of therapeutic efficacy
+      of treatment .
+
+      Bilateral multiple peripherally located ground glass opacities (GGO) that commonly involve
+      the posterior segments of the lower lobes with or without sub-segmental patchy consolidations
+      are considered the typical chest CT findings in COVID-19 pneumonia . However, with the
+      growing researches on COVID-19 cases, various other chest CT features was reported including
+      reticular, nodular or crazy paving patterns, air way abnormalities, pleural effusion etc.
+
+      Complete blood count (CBC) is one of the laboratory examinations that was recommended by many
+      Chinese reports for early and efficient screening of large number of people for COVID-19
+      viral infection . Several studies , concluded that during the early stage of infection, the
+      peripheral blood samples revealed normal or slightly reduced lymphocyte, leukocyte and
+      platelet counts. But, with progression of the disease and the appearance of clinical
+      symptoms, most patients were presented with lymphopenia and less commonly thrombocytopenia
+      and leukopenia. Other studies with consistent results, considered lymphopenia, increased
+      neutrophil count and high neutrophil-to-lymphocyte ratio (NLR) as bad prognostic factors that
+      were associated with more frequent development of critical clinical illness, acute
+      respiratory distress syndrome (ARDS) and death.
+
+      In absence of treatment or vaccines for COVID-9 it is important to control this rapidly
+      widespread outbreak; hence there is a need for rapid and accurate methods of detection and
+      identification of suspected cases that can be used in the local hospitals and clinics
+      responsible for the diagnosis and management of COVID-19 patients.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 30, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Accuracy of non contrast MSCT chest in COVID-19</measure>
+    <time_frame>baseline</time_frame>
+    <description>Correlation of its diagnostic performance with clinical presentation and CBC indices; using RT-PCR assays as a gold standard.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>MSCT chest can be used as an alternative diagnostic tool for COVID-19 cases.</measure>
+    <time_frame>baseline</time_frame>
+    <description>Rapid diagnostic tool in identification COVID-19 cases.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>COVID-19</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>MSCT</intervention_name>
+    <description>-Laboratory tests: All routine indicators of CBC are evaluated
+Nasopharyngeal and oropharyngeal swabs are obtained from each patient to confirm the positivity to Covid-19 by performing RT-PCR to detect the viral RNA.
+MSCT Chest images of all patients are evaluated by three radiologists with variable experiences in CT chest interpretation. The readers are blinded of the RT-PCR results and the CBC indices of the patients and they have access only to the epidemiological history, clinical symptoms, and signs. By consensus, the radiologists score the chest CT as positive or negative for COVID-19 viral pneumonia. When the chest CT is classified as positive, the main CT features are recorded as present or absent (ground-glass opacity, crazy paving, consolidation, nodules, air bronchogram, air trapping, halo sign, reversed halo sign, bronchial wall abnormalities, vascular enlargement, pleural effusion, and lymphadenopathy.</description>
+    <other_name>RT-PCR</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        A prospective single-center cohort study includes all patients ≥18 years of both sex
+        attended to the emergency unit of Assiut University Hospital with a clinical suspicion of
+        COVID-19 infection.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  patients presented by fever, myalgia or respiratory symptoms
+
+          -  Close contact with a confirmed COVID-19 patient
+
+        Exclusion Criteria:
+
+          -  pediatric patients
+
+          -  patients refuse any of the following: MSCT chest, taking of nasopharyngeal swabs or
+             blood sample
+
+          -  chest MSCT -Angiography was done for suspected vascular complications (e.g., pulmonary
+             embolism)
+
+          -  severely dyspneic patients with motion artifact on MSCT images.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Abeer Ali, M D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut U</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sara Hassanin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut U</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Marwa Khairallah, M D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut U</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Dalia Kamal, M D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut U</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Walaa Ali, M D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut U</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Salwa Seif Eldein, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assiut U</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gehan S Seifeldein, M.D.</last_name>
+    <phone>+201224417605</phone>
+    <email>gehanseifeldein@aun.edu.eg</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Assiut university</name>
+      <address>
+        <city>Assiut</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Salwa Seif Eldin, PhD</last_name>
+      <email>salwaegy@yahoo.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>1. Masters PS. Coronavirus genomic RNA packaging. Virology. 2019;537:198-207. doi:10.1016/j.virol.2019.08.031 2. Shi Z, Hu Z. A review of studies on animal reservoirs of the SARS coronavirus. Virus Res. 2008;133(1):74-87. doi:10.1016/j.virusres.2007.03.012 3. Donnelly CA, Ghani AC, Leung GM, et al. Epidemiological determinants of spread of causal agent of severe acute respiratory syndrome in Hong Kong [published correction appears in Lancet. 2003 May 24;361(9371):1832]. Lancet. 2003;361(9371):1761-1766. doi:10.1016/S0140-6736(03)13410-1 4. Cauchemez S, Fraser C, Van Kerkhove MD, et al. Middle East respiratory syndrome coronavirus: quantification of the extent of the epidemic, surveillance biases, and transmissibility. Lancet Infect Dis. 2014;14(1):50-56. doi:10.1016/S1473-3099(13)70304-9</citation>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>July 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Gehan S. Seifeldein</investigator_full_name>
+    <investigator_title>professor of diagnostic radiology</investigator_title>
+  </responsible_party>
+  <keyword>MSCT</keyword>
+  <keyword>RT-PCR</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

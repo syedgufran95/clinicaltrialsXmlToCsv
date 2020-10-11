@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1133">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04540926</url>
+  </required_header>
+  <id_info>
+    <org_study_id>135.2020</org_study_id>
+    <nct_id>NCT04540926</nct_id>
+  </id_info>
+  <brief_title>Cyclosporine A Plus Low-steroid Treatment in COVID-19 Pneumonia</brief_title>
+  <official_title>Utility of Low Doses of Corticosteroids and Cyclosporine Combined With Enoxaparin, in Patients With COVID-19 Pneumonia at the ISSSTE Regional Hospital, Puebla, During the Contingency Period Due to the SARS-Cov2 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Methods: Single-center pilot study included PCR+ SARS-CoV2-patients, hospitalized from April
+      to May 2020 in Puebla, Mexico. Comparative treatment with steroids plus CsA or steroids.
+      Mild, moderate or severe pneumonia was measured by clinical, laboratory tests, lung damage
+      score by computed tomography, and score for clinical improvement. Death rate was evaluated at
+      28 days.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a pilot study done in a single center (ISSSTE Regional Hospital, Puebla, Mexico).
+      Consecutive patients with suspected or confirmed diagnosis of COVID-19 were assigned, in an
+      unblinded and non-randomized fashion, to receive either steroids plus CsA (intervention
+      group) or steroids only (standard of treatment in this hospital, control group), as per
+      individual clinical judgment. The primary outcome was the number of days to clinical
+      improvement until hospital discharge or death. The secondary outcome was the improvement of
+      patients, defined by the following parameters: lower oxygen requirements (2 liters per
+      minute, or less), absence of fever by three consecutive days, respiratory rate &lt;22, a
+      decrease of 50% or more in the C reactive protein on admission, and length of hospital stay.
+
+      Adult patients attending to the hospital between April 15, to May 31, 2020, fulfilling
+      symptoms compatible with COVID-19 pneumonia, according to the WHO guidance, were invited to
+      participate and all the patients gave their written informed consent.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Consecutive patients with suspected or confirmed diagnosis of COVID-19 were assigned, in an unblinded and non-randomized fashion, to receive either steroids plus CsA (intervention group) or steroids only (standard of treatment in this hospital, control group), as per individual clinical judgment</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of days to clinical improvement until hospital discharge or death.</measure>
+    <time_frame>28 days.</time_frame>
+    <description>Improvement of patients, defined by the following parameters: lower oxygen requirements (2 liters per minute, or less), absence of fever by three consecutive days, respiratory rate &lt;22, a decrease of 50% or more in the C reactive protein on admission, and length of hospital stay.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>COVID 19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 Pneumonia control group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVID-19 pneumonia patients with standar treatment: enoxaparin 0.5 mg/kg S.C. once, Clarithromycin 500 mg twice an metylprednisolone 0.5 mg/kg once endovenous.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclosporin A</intervention_name>
+    <description>COVID-19 pneumonia patients treated with oral CsA at a dose of 1-2 mg /kg / day divided into two doses, for 7 days, since entering to hospitalization.</description>
+    <arm_group_label>COVID-19 Pneumonia control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Confirmed COVID 19 pneumonia by clinical, lung computed Tomography and RT-PCR
+             nasopharyngeal swabs.
+
+        Exclusion Criteria:
+
+          -  Influenza infection.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>JOSE LUIS J GALVEZ-ROMERO, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>JOSE LUIS J GALVEZ-ROMERO, MD</last_name>
+    <phone>+522222453511</phone>
+    <phone_ext>1100</phone_ext>
+    <email>jose.galvez@issste.gob.mx</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Jose Luis Jl Galvez-Romero</name>
+      <address>
+        <city>Puebla</city>
+        <zip>72570</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>JOSE LUIS J GALVEZ-ROMERO</last_name>
+      <phone>+522222453511</phone>
+      <phone_ext>1100</phone_ext>
+      <email>jose.galvez@issste.gob.mx</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <results_reference>
+    <citation>Fehr AR, Perlman S. Coronaviruses: an overview of their replication and pathogenesis. Methods Mol Biol. 2015;1282:1-23. doi: 10.1007/978-1-4939-2438-7_1. Review.</citation>
+    <PMID>25720466</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lake MA. What we know so far: COVID-19 current clinical knowledge and research. Clin Med (Lond). 2020 Mar;20(2):124-127. doi: 10.7861/clinmed.2019-coron. Epub 2020 Mar 5. Review.</citation>
+    <PMID>32139372</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.</citation>
+    <PMID>32007143</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16.</citation>
+    <PMID>32192578</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Jamilloux Y, Henry T, Belot A, Viel S, Fauter M, El Jammal T, Walzer T, François B, Sève P. Should we stimulate or suppress immune responses in COVID-19? Cytokine and anti-cytokine interventions. Autoimmun Rev. 2020 Jul;19(7):102567. doi: 10.1016/j.autrev.2020.102567. Epub 2020 May 4. Review.</citation>
+    <PMID>32376392</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kupferschmidt K, Cohen J. Race to find COVID-19 treatments accelerates. Science. 2020 Mar 27;367(6485):1412-1413. doi: 10.1126/science.367.6485.1412.</citation>
+    <PMID>32217705</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Russell CD, Millar JE, Baillie JK. Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury. Lancet. 2020 Feb 15;395(10223):473-475. doi: 10.1016/S0140-6736(20)30317-2. Epub 2020 Feb 7.</citation>
+    <PMID>32043983</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Villar J, Belda J, Añón JM, Blanco J, Pérez-Méndez L, Ferrando C, Martínez D, Soler JA, Ambrós A, Muñoz T, Rivas R, Corpas R, Díaz-Dominguez FJ, Soro M, García-Bello MA, Fernández RL, Kacmarek RM; DEXA-ARDS Network. Evaluating the efficacy of dexamethasone in the treatment of patients with persistent acute respiratory distress syndrome: study protocol for a randomized controlled trial. Trials. 2016 Jul 22;17:342. doi: 10.1186/s13063-016-1456-4.</citation>
+    <PMID>27449641</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lamontagne F, Rochwerg B, Lytvyn L, Guyatt GH, Møller MH, Annane D, Kho ME, Adhikari NKJ, Machado F, Vandvik PO, Dodek P, Leboeuf R, Briel M, Hashmi M, Camsooksai J, Shankar-Hari M, Baraki MK, Fugate K, Chua S, Marti C, Cohen D, Botton E, Agoritsas T, Siemieniuk RAC. Corticosteroid therapy for sepsis: a clinical practice guideline. BMJ. 2018 Aug 10;362:k3284. doi: 10.1136/bmj.k3284.</citation>
+    <PMID>30097460</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng J, Song Y. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med. 2020 Jul 1;180(7):934-943. doi: 10.1001/jamainternmed.2020.0994.</citation>
+    <PMID>32167524</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Shang L, Zhao J, Hu Y, Du R, Cao B. On the use of corticosteroids for 2019-nCoV pneumonia. Lancet. 2020 Feb 29;395(10225):683-684. doi: 10.1016/S0140-6736(20)30361-5. Epub 2020 Feb 12.</citation>
+    <PMID>32122468</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>RECOVERY Collaborative Group, Horby P, Lim WS, Emberson JR, Mafham M, Bell JL, Linsell L, Staplin N, Brightling C, Ustianowski A, Elmahi E, Prudon B, Green C, Felton T, Chadwick D, Rege K, Fegan C, Chappell LC, Faust SN, Jaki T, Jeffery K, Montgomery A, Rowan K, Juszczak E, Baillie JK, Haynes R, Landray MJ. Dexamethasone in Hospitalized Patients with Covid-19 - Preliminary Report. N Engl J Med. 2020 Jul 17. doi: 10.1056/NEJMoa2021436. [Epub ahead of print]</citation>
+    <PMID>32678530</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zeidler HK, Kvien TK, Hannonen P, Wollheim FA, Førre O, Geidel H, Hafström I, Kaltwasser JP, Leirisalo-Repo M, Manger B, Laasonen L, Markert ER, Prestele H, Kurki P. Progression of joint damage in early active severe rheumatoid arthritis during 18 months of treatment: comparison of low-dose cyclosporin and parenteral gold. Br J Rheumatol. 1998 Aug;37(8):874-82.</citation>
+    <PMID>9734679</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tokuda M, Kurata N, Mizoguchi A, Inoh M, Seto K, Kinashi M, Takahara J. Effect of low-dose cyclosporin A on systemic lupus erythematosus disease activity. Arthritis Rheum. 1994 Apr;37(4):551-8.</citation>
+    <PMID>8147933</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liddicoat AM, Lavelle EC. Modulation of innate immunity by cyclosporine A. Biochem Pharmacol. 2019 May;163:472-480. doi: 10.1016/j.bcp.2019.03.022. Epub 2019 Mar 15. Review.</citation>
+    <PMID>30880061</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Li HS, Kuok DIT, Cheung MC, Ng MMT, Ng KC, Hui KPY, Peiris JSM, Chan MCW, Nicholls JM. Effect of interferon alpha and cyclosporine treatment separately and in combination on Middle East Respiratory Syndrome Coronavirus (MERS-CoV) replication in a human in-vitro and ex-vivo culture model. Antiviral Res. 2018 Jul;155:89-96. doi: 10.1016/j.antiviral.2018.05.007. Epub 2018 May 17.</citation>
+    <PMID>29772254</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Tanaka Y, Sato Y, Sasaki T. Suppression of coronavirus replication by cyclophilin inhibitors. Viruses. 2013 May 22;5(5):1250-60. doi: 10.3390/v5051250. Review.</citation>
+    <PMID>23698397</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>de Wilde AH, Zevenhoven-Dobbe JC, van der Meer Y, Thiel V, Narayanan K, Makino S, Snijder EJ, van Hemert MJ. Cyclosporin A inhibits the replication of diverse coronaviruses. J Gen Virol. 2011 Nov;92(Pt 11):2542-2548. doi: 10.1099/vir.0.034983-0. Epub 2011 Jul 13.</citation>
+    <PMID>21752960</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wang Y, Dong C, Hu Y, Li C, Ren Q, Zhang X, Shi H, Zhou M. Temporal Changes of CT Findings in 90 Patients with COVID-19 Pneumonia: A Longitudinal Study. Radiology. 2020 Aug;296(2):E55-E64. doi: 10.1148/radiol.2020200843. Epub 2020 Mar 19.</citation>
+    <PMID>32191587</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ji D, Zhang D, Xu J, Chen Z, Yang T, Zhao P, Chen G, Cheng G, Wang Y, Bi J, Tan L, Lau G, Qin E. Prediction for Progression Risk in Patients With COVID-19 Pneumonia: The CALL Score. Clin Infect Dis. 2020 Sep 12;71(6):1393-1399. doi: 10.1093/cid/ciaa414.</citation>
+    <PMID>32271369</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wiersinga WJ, Rhodes A, Cheng AC, Peacock SJ, Prescott HC. Pathophysiology, Transmission, Diagnosis, and Treatment of Coronavirus Disease 2019 (COVID-19): A Review. JAMA. 2020 Aug 25;324(8):782-793. doi: 10.1001/jama.2020.12839.</citation>
+    <PMID>32648899</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Annane D, Renault A, Bellissant E. Glucocorticoids with or without Fludrocortisone in Septic Shock. N Engl J Med. 2018 Aug 30;379(9):895-6. doi: 10.1056/NEJMc1804993.</citation>
+    <PMID>30179381</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Venkatesh B, Finfer S, Myburgh J; ADRENAL investigators. Glucocorticoids with or without Fludrocortisone in Septic Shock. N Engl J Med. 2018 Aug 30;379(9):895. doi: 10.1056/NEJMc1804993.</citation>
+    <PMID>30157400</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Alhazzani W, Møller MH, Arabi YM, Loeb M, Gong MN, Fan E, Oczkowski S, Levy MM, Derde L, Dzierba A, Du B, Aboodi M, Wunsch H, Cecconi M, Koh Y, Chertow DS, Maitland K, Alshamsi F, Belley-Cote E, Greco M, Laundy M, Morgan JS, Kesecioglu J, McGeer A, Mermel L, Mammen MJ, Alexander PE, Arrington A, Centofanti JE, Citerio G, Baw B, Memish ZA, Hammond N, Hayden FG, Evans L, Rhodes A. Surviving Sepsis Campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19). Intensive Care Med. 2020 May;46(5):854-887. doi: 10.1007/s00134-020-06022-5. Epub 2020 Mar 28.</citation>
+    <PMID>32222812</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wong SS, Yuen KY. The management of coronavirus infections with particular reference to SARS. J Antimicrob Chemother. 2008 Sep;62(3):437-41. doi: 10.1093/jac/dkn243. Epub 2008 Jun 18. Review.</citation>
+    <PMID>18565970</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lee N, Allen Chan KC, Hui DS, Ng EK, Wu A, Chiu RW, Wong VW, Chan PK, Wong KT, Wong E, Cockram CS, Tam JS, Sung JJ, Lo YM. Effects of early corticosteroid treatment on plasma SARS-associated Coronavirus RNA concentrations in adult patients. J Clin Virol. 2004 Dec;31(4):304-9.</citation>
+    <PMID>15494274</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Arabi YM, Mandourah Y, Al-Hameed F, Sindi AA, Almekhlafi GA, Hussein MA, Jose J, Pinto R, Al-Omari A, Kharaba A, Almotairi A, Al Khatib K, Alraddadi B, Shalhoub S, Abdulmomen A, Qushmaq I, Mady A, Solaiman O, Al-Aithan AM, Al-Raddadi R, Ragab A, Balkhy HH, Al Harthy A, Deeb AM, Al Mutairi H, Al-Dawood A, Merson L, Hayden FG, Fowler RA; Saudi Critical Care Trial Group. Corticosteroid Therapy for Critically Ill Patients with Middle East Respiratory Syndrome. Am J Respir Crit Care Med. 2018 Mar 15;197(6):757-767. doi: 10.1164/rccm.201706-1172OC.</citation>
+    <PMID>29161116</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Russell B, Moss C, George G, Santaolalla A, Cope A, Papa S, Van Hemelrijck M. Associations between immune-suppressive and stimulating drugs and novel COVID-19-a systematic review of current evidence. Ecancermedicalscience. 2020 Mar 27;14:1022. doi: 10.3332/ecancer.2020.1022. eCollection 2020. Review.</citation>
+    <PMID>32256705</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Zhao Z, Zhang F, Xu M, Huang K, Zhong W, Cai W, Yin Z, Huang S, Deng Z, Wei M, Xiong J, Hawkey PM. Description and clinical treatment of an early outbreak of severe acute respiratory syndrome (SARS) in Guangzhou, PR China. J Med Microbiol. 2003 Aug;52(Pt 8):715-720. doi: 10.1099/jmm.0.05320-0.</citation>
+    <PMID>12867568</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Fadel R, Morrison AR, Vahia A, Smith ZR, Chaudhry Z, Bhargava P, Miller J, Kenney RM, Alangaden G, Ramesh MS; Henry Ford COVID-19 Management Task Force. Early Short Course Corticosteroids in Hospitalized Patients with COVID-19. Clin Infect Dis. 2020 May 19. pii: ciaa601. doi: 10.1093/cid/ciaa601. [Epub ahead of print]</citation>
+    <PMID>32427279</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cruz AF, Ruiz-Antorán B, Múñez Rubio E, López AS, Callejas Díaz A, Avendaño-Solá C, Martínez AR. THE RIGHT TIME FOR STEROIDS IN COVID-19. Clin Infect Dis. 2020 Jun 25. pii: ciaa865. doi: 10.1093/cid/ciaa865. [Epub ahead of print]</citation>
+    <PMID>32585016</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Selvaraj V, Dapaah-Afriyie K, Finn A, Flanigan TP. Short-Term Dexamethasone in Sars-CoV-2 Patients. R I Med J (2013). 2020 Jun 19;103(6):39-43.</citation>
+    <PMID>32570995</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cour M, Ovize M, Argaud L. Cyclosporine A: a valid candidate to treat COVID-19 patients with acute respiratory failure? Crit Care. 2020 Jun 2;24(1):276. doi: 10.1186/s13054-020-03014-1.</citation>
+    <PMID>32487139</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Argaud L, Cour M, Dubien PY, Giraud F, Jossan C, Riche B, Hernu R, Darmon M, Poncelin Y, Tchénio X, Quenot JP, Freysz M, Kamga C, Beuret P, Usseglio P, Badet M, Anette B, Chaulier K, Alasan E, Sadoune S, Bobbia X, Zéni F, Gueugniaud PY, Robert D, Roy P, Ovize M; CYRUS Study Group. Effect of Cyclosporine in Nonshockable Out-of-Hospital Cardiac Arrest: The CYRUS Randomized Clinical Trial. JAMA Cardiol. 2016 Aug 1;1(5):557-65. doi: 10.1001/jamacardio.2016.1701.</citation>
+    <PMID>27433815</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cung TT, Morel O, Cayla G, Rioufol G, Garcia-Dorado D, Angoulvant D, Bonnefoy-Cudraz E, Guérin P, Elbaz M, Delarche N, Coste P, Vanzetto G, Metge M, Aupetit JF, Jouve B, Motreff P, Tron C, Labeque JN, Steg PG, Cottin Y, Range G, Clerc J, Claeys MJ, Coussement P, Prunier F, Moulin F, Roth O, Belle L, Dubois P, Barragan P, Gilard M, Piot C, Colin P, De Poli F, Morice MC, Ider O, Dubois-Randé JL, Unterseeh T, Le Breton H, Béard T, Blanchard D, Grollier G, Malquarti V, Staat P, Sudre A, Elmer E, Hansson MJ, Bergerot C, Boussaha I, Jossan C, Derumeaux G, Mewton N, Ovize M. Cyclosporine before PCI in Patients with Acute Myocardial Infarction. N Engl J Med. 2015 Sep 10;373(11):1021-31. doi: 10.1056/NEJMoa1505489. Epub 2015 Aug 30.</citation>
+    <PMID>26321103</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kreitmann L, Argaud L, Ovize M, Cour M; CYRUS Study Group. Cyclosporine A prevents cardiac arrest-induced acute respiratory failure: a post-hoc analysis of the CYRUS trial. Intensive Care Med. 2020 Jun;46(6):1281-1283. doi: 10.1007/s00134-020-06043-0. Epub 2020 Apr 21.</citation>
+    <PMID>32318777</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Naesens M, Kuypers DR, Sarwal M. Calcineurin inhibitor nephrotoxicity. Clin J Am Soc Nephrol. 2009 Feb;4(2):481-508. doi: 10.2215/CJN.04800908. Review.</citation>
+    <PMID>19218475</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sanchez-Pernaute O, Romero-Bueno FI, Selva-O'Callaghan A. Why Choose Cyclosporin A as First-line Therapy in COVID-19 Pneumonia. Reumatol Clin. 2020 Apr 16. pii: S1699-258X(20)30044-9. doi: 10.1016/j.reuma.2020.03.001. [Epub ahead of print] English, Spanish.</citation>
+    <PMID>32354685</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Pino-Lagos K, Michea P, Sauma D, Alba A, Morales J, Bono MR, Fierro A, Rosemblatt M. Cyclosporin A-treated dendritic cells may affect the outcome of organ transplantation by decreasing CD4+CD25+ regulatory T cell proliferation. Biol Res. 2010;43(3):333-7. doi: /S0716-97602010000300010. Epub 2010 Nov 30.</citation>
+    <PMID>21249305</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Greenblatt MB, Aliprantis A, Hu B, Glimcher LH. Calcineurin regulates innate antifungal immunity in neutrophils. J Exp Med. 2010 May 10;207(5):923-31. doi: 10.1084/jem.20092531. Epub 2010 Apr 26.</citation>
+    <PMID>20421389</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Roilides E, Robinson T, Sein T, Pizzo PA, Walsh TJ. In vitro and ex vivo effects of cyclosporin A on phagocytic host defenses against Aspergillus fumigatus. Antimicrob Agents Chemother. 1994 Dec;38(12):2883-8.</citation>
+    <PMID>7695277</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Gupta AK, Giaglis S, Hasler P, Hahn S. Efficient neutrophil extracellular trap induction requires mobilization of both intracellular and extracellular calcium pools and is modulated by cyclosporine A. PLoS One. 2014 May 12;9(5):e97088. doi: 10.1371/journal.pone.0097088. eCollection 2014.</citation>
+    <PMID>24819773</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Edler C, Schröder AS, Aepfelbacher M, Fitzek A, Heinemann A, Heinrich F, Klein A, Langenwalder F, Lütgehetmann M, Meißner K, Püschel K, Schädler J, Steurer S, Mushumba H, Sperhake JP. Dying with SARS-CoV-2 infection-an autopsy study of the first consecutive 80 cases in Hamburg, Germany. Int J Legal Med. 2020 Jul;134(4):1275-1284. doi: 10.1007/s00414-020-02317-w. Epub 2020 Jun 4. Erratum in: Int J Legal Med. 2020 Sep;134(5):1977.</citation>
+    <PMID>32500199</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Barnes BJ, Adrover JM, Baxter-Stoltzfus A, Borczuk A, Cools-Lartigue J, Crawford JM, Daßler-Plenker J, Guerci P, Huynh C, Knight JS, Loda M, Looney MR, McAllister F, Rayes R, Renaud S, Rousseau S, Salvatore S, Schwartz RE, Spicer JD, Yost CC, Weber A, Zuo Y, Egeblad M. Targeting potential drivers of COVID-19: Neutrophil extracellular traps. J Exp Med. 2020 Jun 1;217(6). pii: e20200652. doi: 10.1084/jem.20200652.</citation>
+    <PMID>32302401</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Narasaraju T, Tang BM, Herrmann M, Muller S, Chow VTK, Radic M. Neutrophilia and NETopathy as Key Pathologic Drivers of Progressive Lung Impairment in Patients With COVID-19. Front Pharmacol. 2020 Jun 5;11:870. doi: 10.3389/fphar.2020.00870. eCollection 2020.</citation>
+    <PMID>32581816</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>de Wilde AH, Raj VS, Oudshoorn D, Bestebroer TM, van Nieuwkoop S, Limpens RWAL, Posthuma CC, van der Meer Y, Bárcena M, Haagmans BL, Snijder EJ, van den Hoogen BG. MERS-coronavirus replication induces severe in vitro cytopathology and is strongly inhibited by cyclosporin A or interferon-α treatment. J Gen Virol. 2013 Aug;94(Pt 8):1749-1760. doi: 10.1099/vir.0.052910-0. Epub 2013 Apr 25.</citation>
+    <PMID>23620378</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Softic L, Brillet R, Berry F, Ahnou N, Nevers Q, Morin-Dewaele M, Hamadat S, Bruscella P, Fourati S, Pawlotsky JM, Ahmed-Belkacem A. Inhibition of SARS-CoV-2 Infection by the Cyclophilin Inhibitor Alisporivir (Debio 025). Antimicrob Agents Chemother. 2020 Jun 23;64(7). pii: e00876-20. doi: 10.1128/AAC.00876-20. Print 2020 Jun 23.</citation>
+    <PMID>32376613</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 7, 2020</study_first_posted>
+  <last_update_submitted>September 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado</investigator_affiliation>
+    <investigator_full_name>JOSE LUIS GALVEZ-ROMERO</investigator_full_name>
+    <investigator_title>Master in Medical Sciences and Reasearch and Medical Doctor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclosporine</mesh_term>
+    <mesh_term>Cyclosporins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

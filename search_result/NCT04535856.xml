@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1913">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04535856</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DW_DWP710101</org_study_id>
+    <nct_id>NCT04535856</nct_id>
+  </id_info>
+  <brief_title>Therapeutic Study to Evaluate the Safety and Efficacy of DW-MSC in COVID-19 Patients</brief_title>
+  <acronym>DW-MSC</acronym>
+  <official_title>Therapeutic Study to Evaluate the Safety and Efficacy of DW-MSC in COVID-19 Patients: Randomized, Double-blind, and Placebo-controlled</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ina-Respond</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Health Research and Development, Ministry of Health Republic of Indonesia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Daewoong Pharmaceutical Co. LTD.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ina-Respond</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 1 clinical trial to verify the safety and efficacy of DW-MSC in COVID-19
+      patients. A total of 9 subjects are randomly allocated. Subjects who meet the final inclusion
+      and exclusion criteria are randomized to the test groups (low-dose group and high-dose group)
+      or control group (placebo group) in a ratio of 1:1:1. Subjects assigned to the test groups
+      were administered intravenously once with 5 x 10^7cells of DW-MSC for the low-dose group or 1
+      x 10^8cells for the high-dose group after registration. Subjects assigned to the control
+      group were administered with placebo in the same manner as the test drug (DW-MSC). At this
+      time, all of the existing standard co-treatment are allowed. DW-MSC is adjunct therapy to
+      standard therapy.
+
+      This clinical trial is a double-blind trial, in which a randomized method will be used. To
+      maintain the double-blindness of the study, statistician who do not participate in this study
+      independently generate randomization code. Subjects will be randomized to the test groups
+      (low-dose group and high-dose group) or the control group (placebo group) in a 1:1:1 ratio.
+      After the completion of the trial, the randomization code will be disclosed after unlocking
+      the database and unblinding procedures. Follow Up period: observed for 28 days after a single
+      administration
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with Covid-19 have a mortality rate of about 35 ~ 50% and currently, severe patients
+      caused by the Coronavirus show respiratory distress. To date, the incidence rate has been
+      more than 3 million each year; however, as the increase and globalization of the
+      environmental pollution has been expanded, the number of patients is expected to increase due
+      to acute diseases such as the Middle East Respiratory virus, SARS, and coronavirus.
+
+      Since 2015, Daewoong Pharmaceutical intends to use stem cells for product research on rare
+      and intractable diseases including respiratory distress. Stem cells are also called
+      pluripotent cells or truncal cells that can convert to any organ. It is an embryonic stage
+      undifferentiated cell that has stopped differentiating before forming a specific organ whose
+      differentiation has not been determined and has the ability to differentiate into muscle,
+      bone, and internal conformal body organs. There are three types of stem cells: embryonic stem
+      cells, adult stem cells, and induced pluripotent stem cells. Daewoong Pharmaceutical intends
+      to develop cell therapy products using mesenchymal stem cells (MSC).
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 11, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, Double-blind, and Placebo-controlled Clinical Trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-blind, To maintain the double-blind of the study, a statistician who do not participate in this study will independently generate randomization code only using the PLAN procedure (Proc Plan procedure) of SAS (ver. 9.4 or higher, SAS Institute, Cary, NC, USA).</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of TEAE* in Treatment group</measure>
+    <time_frame>28 days</time_frame>
+    <description>Incidence of TEAE* in Treatment group
+* TEAE: Treatment-Emergent Adverse Event All adverse reactions will be organized according to System Organ Class (SOC) and Preferred Term (PT) using MedDRA (Medical Dictionary for Regulatory Activities), and the incidence of treatment-emergent adverse events will be summarized for the coded adverse reactions.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival rate</measure>
+    <time_frame>until Day 14 and Day 28</time_frame>
+    <description>Survival rate is defined as the rate of subjects surviving until Day 14 and Day 28, and the number and rate of surviving subjects for each administration group is given.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>28 days</time_frame>
+    <description>Duration of hospitalization is defined as the number of days in the hospital until Day 28, and descriptive statistics (number of subjects, mean, standard deviation, median, minimum, maximum) are given for each administration group.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement Ordinal scale</measure>
+    <time_frame>from baseline to Day 14 and Day 28</time_frame>
+    <description>Clinical improvement measured by Ordinal scale change for clinical improvement from baseline to Day 14 and 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement National EWS</measure>
+    <time_frame>from baseline to Day 7, 14 and Day 28</time_frame>
+    <description>Clinical improvement measured by National EWS (National Early Warning Score) change from baseline to Day 7, 14, 28.
+EWS Points, Risk and Interpretation as follows:
+0~4: Low clinical risk; interpretation= Ward-based response 3~4 : Low~medium clinical risk; interpretation= Urgent ward-based response 5~6: Medium clinical risk; interpretation= Key threshold for urgent response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement Oxygenation index</measure>
+    <time_frame>Day 1, 3, 7, 10, 14, 28</time_frame>
+    <description>Clinical improvement measured by Oxygenation index (PaO2/FiO2) change from baseline (Day 1, 3, 7, 10, 14, 28)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement Lung involvement change</measure>
+    <time_frame>Day 7, 14, 28</time_frame>
+    <description>Clinical improvement measured by Lung involvement change by Imaging from baseline (Day 7, 14, 28)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement Inflammation markers change</measure>
+    <time_frame>Day 7, 14, 28</time_frame>
+    <description>Inflammation markers change from baseline for WBC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement Inflammation markers change</measure>
+    <time_frame>Day 7, 14, 28</time_frame>
+    <description>Inflammation markers change from baseline for Lymphocytes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement Inflammation markers change</measure>
+    <time_frame>Day 7, 14, 28</time_frame>
+    <description>Inflammation markers change from baseline for ESR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement Inflammation markers change</measure>
+    <time_frame>Day 7, 14, 28</time_frame>
+    <description>Inflammation markers change from baseline for CRP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement Inflammation markers change</measure>
+    <time_frame>Day 7, 14, 28</time_frame>
+    <description>Inflammation markers change from baseline for Fibrinogen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement Inflammation markers change</measure>
+    <time_frame>Day 7, 14, 28</time_frame>
+    <description>Inflammation markers change from baseline for IL-6, TNF-α, IL-1β, IF-γ (Day 7, 14, 28)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">9</enrollment>
+  <condition>Covid19</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>SAR</condition>
+  <arm_group>
+    <arm_group_label>Low-dose group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low-dose group (5 x 10^7cells):
+Drug substance and the amount: 2.5 × 107 cells/1 mL/vial, 2 vials for low-dose group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High-dose group (1 x 10^8 cells):
+Drug substance and the amount: 2.5 × 107 cells/1 mL/vial, 4 vials for High-dose group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group (placebo)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Control group (placebo):
+No Drug substance: 4 vials for Place group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>allogeneic mesenchymal stem cell</intervention_name>
+    <description>Assignment of Administration Group allogeneic mesenchymal stem cell:
+Low-dose group (5 x 10^7cells)
+High-dose group (1 x 10^8 cells)</description>
+    <arm_group_label>High-dose group</arm_group_label>
+    <arm_group_label>Low-dose group</arm_group_label>
+    <other_name>Investigational product</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Control group (placebo)</description>
+    <arm_group_label>Control group (placebo)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age of 19 years or older at the time of screening
+
+          2. Those who have been confirmed COVID-19 infection through PCR test
+
+          3. Patients with mild or moderate COVID-19 who meet National EWS (0~6)
+
+          4. Those who have given written consent and voluntarily decided to participate before the
+             screening procedure after understanding the detailed description of the clinical
+             trial.
+
+          5. Those who are suitable as subjects for this clinical study when judged by physical
+             examination, clinical laboratory test, and other medical examination as stated in the
+             flowchart of protocol.
+
+        Exclusion Criteria:
+
+          1. Those who have history of hypersensitivity to the components of the investigational
+             product or the reference product
+
+          2. Those with viral or bacterial pneumonia other than expected indications
+
+          3. Patients receiving organ transplants within 6 months of screening
+
+          4. Patients with a history of pulmonary embolism
+
+          5. Patients who have indications of investigational products as an underlying disease
+             (ex. HIV patients in the clinical study of antiretroviral drugs)
+
+          6. Patients who are pregnant or lactating
+
+          7. Those who are determined by the investigator to be unsuitable for participation in the
+             clinical trial due to other reasons including the results of the clinical laboratory
+             test.
+
+          8. Patients participating in other clinical studies
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Dr. Muhammad Karyana, MPH</last_name>
+    <phone>+62 21 42879189</phone>
+    <email>m.karyana@ina-respond.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>dr. Dona Arlinda, M.Sc.</last_name>
+    <phone>+62 21 42879189</phone>
+    <email>arlindona@ina-respond.net</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Site 550: University of Hassanudin/ Dr. Wahidin Sudirohusodo Hospital</name>
+      <address>
+        <city>Makassar</city>
+        <zip>90245</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2020</study_first_posted>
+  <last_update_submitted>September 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Infectious Disease</keyword>
+  <keyword>covid-19</keyword>
+  <keyword>allogeneic mesenchymal stem cell</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

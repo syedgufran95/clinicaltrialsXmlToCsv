@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1986">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04545749</url>
+  </required_header>
+  <id_info>
+    <org_study_id>V-122</org_study_id>
+    <nct_id>NCT04545749</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety, Tolerability, and Immunogenicity of UB-612 COVID-19 Vaccine</brief_title>
+  <official_title>A Phase I, Open-label Study to Evaluate the Safety, Tolerability, and Immunogenicity of UB-612 Vaccine in Healthy Adult Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>United Biomedical Inc., Asia</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>COVAXX</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>United Biomedical Inc., Asia</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase I, open-label, dose-escalation clinical study to evaluate the safety,
+      tolerability and immunogenicity of 3 ascending doses of UB-612 COVID-19 vaccine in healthy
+      adults, aged from 20 to 55 years old.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase I, open-label, dose-escalation clinical study to evaluate the safety,
+      tolerability and immunogenicity of 3 ascending doses of UB-612 COVID-19 vaccine in healthy
+      adults. Up to 60 subjects (20 subjects per group) will be enrolled into this study. Subjects
+      in each group will be enrolled to receive two doses of UB-612 vaccine at 28-day interval (Day
+      0 and Day 28).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 25, 2020</start_date>
+  <completion_date type="Anticipated">August 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety of UB-612 vaccine</measure>
+    <time_frame>7 days following vaccination</time_frame>
+    <description>Occurrence of adverse reactions within 7 days after vaccination
+Percentage of subjects with ≥ Grade 3 adverse events within 7 days after vaccination</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety</measure>
+    <time_frame>Day 0 to Day 56</time_frame>
+    <description>Occurrence of adverse events (AEs) till Day 56
+Occurrence of serious adverse events (SAEs) till Day 56</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety</measure>
+    <time_frame>Day 29 to Day 196</time_frame>
+    <description>Occurrence of serious adverse events during the whole follow-up period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety</measure>
+    <time_frame>Day 0 to Day 196</time_frame>
+    <description>Occurrence of adverse events of special interest during the study period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>Day 14, 28, 42, 56, 112, and 196</time_frame>
+    <description>Geometric mean titer (GMT) of antigen-specific antibody (Anti-S1-RBD)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>Day 14, 28, 42, 56, 112, and 196</time_frame>
+    <description>Seroconversion rate (SCR) of antigen-specific antibody (Anti-S1-RBD)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity</measure>
+    <time_frame>Day 14, 28, 42, 56, 112, and 196</time_frame>
+    <description>Geometric mean fold increase of antigen-specific antibody (Anti-S1-RBD)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Group A (Low dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 subjects will be enrolled to receive low dose of UB-612 vaccine.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B (Medium dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 subjects will be enrolled to receive medium dose of UB-612 vaccine.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group C (High dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 subjects will be enrolled to receive high dose of UB-612 vaccine.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>UB-612</intervention_name>
+    <description>UB-612 is a proprietary high-precision designer S1-RBD-protein based vaccine developed by UBI/UBIA Group. UB-612 also incorporates a Th/CTL epitope peptide pool, selected from the immunologically advantageous M, S2 and N sites on virus, that could bind to human MHC-I and MHC-II to activate T cells.</description>
+    <arm_group_label>Group A (Low dose)</arm_group_label>
+    <arm_group_label>Group B (Medium dose)</arm_group_label>
+    <arm_group_label>Group C (High dose)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Healthy male or non-pregnant female between the age of 20 and 55 years at time of
+             enrollment.
+
+          2. Women of childbearing potential and men must agree to practice medically effective
+             contraception from first vaccination until 3 months after the last vaccination.
+
+          3. Able to understand the content and possible risks of informed consent and willing to
+             sign the Informed Consent Form (ICF).
+
+          4. Able to understand and agrees to comply with all study procedures and be available for
+             all study visits.
+
+          5. Negative serological test for Hepatitis B surface antigen (HBsAg), HCV RNA and HIV
+             antibody screening.
+
+          6. Negative in serum antibodies (IgG) against SARS-CoV-2 ELISA.
+
+          7. Negative result of RT-PCR screening of nasopharyngeal or throat swabs for SARS-CoV-2.
+
+          8. Ear temperature ≤ 38.0°C.
+
+          9. The body mass index (BMI) of 18-30 kg/m2, inclusive, at screening.
+
+         10. Indexes of blood routine, biochemistry and other laboratory tests are within the
+             normal ranges, or not clinically significant as judged by investigators.
+
+         11. Judged to be healthy by the investigator on the basis of medical history, physical
+             examination, 12-lead ECG, vital signs, and clinical laboratory tests performed at
+             screening.
+
+        Exclusion Criteria:
+
+          1. History of anaphylaxis, urticarial, or other significant adverse reaction requiring
+             medical intervention after receipt of a vaccine.
+
+          2. Female who is pregnant or positive in pregnancy test at screening or just prior to
+             each vaccination administration.
+
+          3. Female who is breast-feeding or plans to breastfeed from the time of the first
+             vaccination through 60 days after the last vaccination.
+
+          4. Any acute illness, as determined by the study investigator 3 days before first
+             vaccination.
+
+          5. Evidence or history of clinically significant hematological, renal, endocrine,
+             pulmonary, gastrointestinal, cardiovascular, hepatic, psychiatric, neurologic, or
+             allergic disease.
+
+          6. Known history of SARS or MERS.
+
+          7. Previous exposure to SARS-CoV-2 or receipt of an investigational vaccine product for
+             the prevention of COVID-19, MERS or SARS.
+
+          8. Subjects who take part in another clinical study within 12 weeks prior to the day of
+             informed consent.
+
+          9. With certain underlying medical conditions which are at increased risk for severe
+             illness from COVID-19.
+
+         10. Congenital or acquired angioedema.
+
+         11. Immune deficiency/disorder, whether due to genetic defect, immunodeficiency disease or
+             immunosuppressive therapy.
+
+         12. Platelet disorder or other bleeding disorder may cause injection contraindication.
+
+         13. Prior chronic administration of immunosuppressant or corticosteroids, cytotoxic
+             treatment in last 6 months before first vaccination.
+
+         14. Prior administration of immunoglobulins and/or any blood products in last 4 months
+             before first vaccination.
+
+         15. Prior administration of attenuated, nucleic acid (mRNA or DNA) or vectored vaccines in
+             last 1 month before first vaccination or expectation of such vaccines in the month
+             after the second vaccination.
+
+         16. Prior administration of subunit vaccine or inactivated vaccine in last 14 days before
+             first vaccination or expectation of receipt of such vaccines in the 14 days after the
+             second vaccination.
+
+         17. Current anti-tuberculosis (TB) therapy or history of TB.
+
+         18. Alcoholism or substance abuser.
+
+         19. History of malignancy within 5 years prior to screening visit, except basal cell
+             carcinoma of the skin and cervical carcinoma in situ.
+
+         20. Any medical disease or condition that, in the opinion of the study investigator, may
+             confound the results of the study or pose an additional risk to the subjects by their
+             participation in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chang-Yi Wang, Ph.D.</last_name>
+    <role>Study Chair</role>
+    <affiliation>United Biomedical</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Joanna Hung</last_name>
+    <phone>+886-3-657-8861</phone>
+    <phone_ext>5297</phone_ext>
+    <email>joanna.hung@ubiasia.com.tw</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>China Medical University Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>404</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kao-Pin Hwang, M.D., Ph.D.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Kao-Pin Hwang, M.D., Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Po-Chang Lin, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Wen-Yuan Lin, M.D., Ph.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 11, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3086">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04535297</url>
+  </required_header>
+  <id_info>
+    <org_study_id>203/20</org_study_id>
+    <nct_id>NCT04535297</nct_id>
+  </id_info>
+  <brief_title>Consequences of the COVID-19 Lockdown on Health and Well-being of Patients With Parkinson Disease and Post-stroke</brief_title>
+  <official_title>Consequences of the COVID-19 Lockdown on Health and Well-being of Patients With Parkinson Disease and Post-stroke</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Haifa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Haifa</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aimed at describing the effects of the COVID-19 social distancing on function,
+      health and well-being of patients with Parkinson's disease or post-stroke, and test the
+      association between the patient activation level and these effects.An anonymous survey was
+      distributed through social media and patient associations.Community-living patients with
+      Parkinson's disease or post-stroke were invited to answer the survey.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      People with chronic diseases like Parkinson's disease or post-stroke rely on routine medical
+      and rehabilitative care to maintain daily function and health. These are important aspects of
+      self-management. However, this was challenged by the social distancing due to COVID-19, which
+      limited participation in regular routines.
+
+      The study objectives were: To (1) describe the effects of the COVID-19 social distancing on
+      function, health and well-being of patients with Parkinson's disease or post-stroke, and (2)
+      test the association between the patient activation level and these effects.
+
+      Community-living patients with Parkinson's disease or post-stroke were invited to answer an
+      anonymous survey through social media and patient associations. Part 1 included 27
+      multiple-choice questions regarding current status and changes in function, health, medical
+      care and well-being. Part 2 consisted of the Patient Activation Measure, describing people's
+      knowledge, skill, and confidence in managing their own health.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 10, 2020</start_date>
+  <completion_date type="Actual">June 30, 2020</completion_date>
+  <primary_completion_date type="Actual">May 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient Activation Measure (PAM®)</measure>
+    <time_frame>1 hour</time_frame>
+    <description>The PAM is a self-reported validated, licensed tool to measure a patient's knowledge, skills and confidence for self-management. The overall score captures the extent to which people feel engaged and confident in taking care of their health condition. It consists of 13 statements rated on a Likert scale according to agreement. Scores are divided into 4 levels, where 1 represents patients who tend to be passive and feel overwhelmed managing their own health, and 4 represents patients who have effectively adopted self-management behaviors. We used a validated licensed Hebrew and version of the PAM supplied by Insignia Health (https://www.insigniahealth.com/products/pam-survey), which holds the copyright to the questionnaire.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Answers to multiple-choice questions</measure>
+    <time_frame>1 hour</time_frame>
+    <description>participants were asked to answer 27 multiple-choice questions regarding status and change in status of mobility, mood (depression, anxiety), tiredness, social support, body weight, physical activity, rehabilitative treatments and disease symptoms</description>
+  </primary_outcome>
+  <enrollment type="Actual">198</enrollment>
+  <condition>Parkinson Disease</condition>
+  <condition>Stroke</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>exposure</intervention_name>
+    <description>Exposure to social distancing due to COVID-19</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with PD or their caregivers, or patients post-stroke or their caregivers
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  People diagnosed with Parkinson's disease or their caregivers, or people post-stroke
+             or their caregivers
+
+          -  Live in the community
+
+          -  If a family member or caregiver completed the survey, we asked them to answer in
+             reference to the patient.
+
+        Exclusion Criteria:
+
+          -  diagnosis of COVID-19
+
+          -  hospitalization in the last 3 months.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Galit Yogev-Seligmann</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Haifa</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Galit Yogev-Seligmann</name>
+      <address>
+        <city>Haifa</city>
+        <state>Please Select...</state>
+        <zip>3498838</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>August 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Haifa</investigator_affiliation>
+    <investigator_full_name>Galit Yogev-Seligmann</investigator_full_name>
+    <investigator_title>Dr.</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Parkinson Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

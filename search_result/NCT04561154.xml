@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="632">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04561154</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHM-2020/S10/04</org_study_id>
+    <nct_id>NCT04561154</nct_id>
+  </id_info>
+  <brief_title>Identifying Functional and Psycho-social Complaints After Hospitalization for SARS-CoV-2 Infection( COVID 19)- REPERCOV</brief_title>
+  <acronym>REPERCOV</acronym>
+  <official_title>Identifying Functional and Psycho-social Complaints After Hospitalization for Severe SARS-CoV-2 Infection (COVID19)- REPERCOV</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier le Mans</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier le Mans</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Since December 2019, China and then the rest of the world have been affected by the rapid
+      spread of a new coronavirus infection called SARS-CoV-2 (severe acute respiratory syndrome
+      coronavirus), the clinical expression of which is called Covid-19 (Coronavirus Disease 2019).
+
+      It is estimated that around 20% of symptomatic patients will be severe enough to warrant
+      hospitalization, of which around 5% will be in intensive care.
+
+      Organ damage is multiple in Covid infection: respiratory, digestive, renal, neurological,
+      cardiovascular due to the infection or its care. There is also a psychological and social
+      impact of the infection or of the care that should be measured.
+
+      In this context, investigator will assess the physical and psychological complaints of
+      patients who have presented a severe form of SARS-CoV-2 infection.
+
+      The final objective being to identify the needs to offer follow-up adapted to this emerging
+      pathology.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 11, 2020</start_date>
+  <completion_date type="Anticipated">June 11, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 11, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Identify functionnal and psychosocial complaints</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>the prevalence of functional complaints and psycho-social complaints (justifying additional investigations in patients hospitalized for Covid-19 infection 3 months maximum after discharge from hospital) will be assessed by questionnaire &quot;Modified Medical Research Council&quot;</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Identify functionnal and psychosocial complaints</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>the prevalence of functional complaints and psycho-social complaints (justifying additional investigations in patients hospitalized for Covid-19 infection 3 months maximum after discharge from hospital) will be assessed by questionnaire &quot;Medical Outcome Study Short Form 36 (MOS SF-36)&quot;</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Identify functionnal and psychosocial complaints</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>the prevalence of functional complaints and psycho-social complaints (justifying additional investigations in patients hospitalized for Covid-19 infection 3 months maximum after discharge from hospital) will be assessed by FRIED criteria</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Identify functionnal and psychosocial complaints</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>the prevalence of functional complaints and psycho-social complaints (justifying additional investigations in patients hospitalized for Covid-19 infection 3 months maximum after discharge from hospital) will be assessed by questionnaire &quot;Hospital Anxiety and Depression Scale (HADS)&quot;</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>description of functionnal and psychosocial complaints</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>complaints will be assessed by questionnaire &quot;Modified Medical Research Council&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>description of functionnal and psychosocial complaints</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>complaints will be assessed by questionnaire &quot;Medical Outcome Study Short Form 36 (MOS SF-36)&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>description of functionnal and psychosocial complaints</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>complaints will be assessed by FRIED criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>description of functionnal and psychosocial complaints</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>complaints will be assessed by questionnaire &quot;Hospital Anxiety and Depression Scale (HADS)&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identify the factors favoring the persistence of complaints</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>Risk factors are defined according to age, concomitant treatment, comorbidities before hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe functional, neuropsychological and social complaints at a distance</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>Complaints will be assessed by questionnaire&quot;Modified Medical Research Council&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe functional, neuropsychological and social complaints at a distance</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>Complaints will be assessed by questionnaire&quot;Medical Outcome Study Short Form 36 (MOS SF-36)&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe functional, neuropsychological and social complaints at a distance</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>Complaints will be assessed by FRIED criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe functional, neuropsychological and social complaints at a distance</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>Complaints will be assessed by questionnaire &quot;Hospital Anxiety and Depression Scale (HADS)&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe the needs for medical and surgical consultations after discharge from hospital</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>Medical and surgical consultations after discharge will be measured as percentage</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe the needs for neuropsychological support, dietetics, social assistance after discharge from hospital.</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>neuropsychological support, dietetics, social assistance after discharge will be measured as percentage</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe the factors of inequalities in access to care</measure>
+    <time_frame>3 months after last hospitalization</time_frame>
+    <description>Describe the factors of inequalities in access to care and study their impact on the occurrence of a SARS-CoV-2 infection, its severity and the occurrence of a functional or psycho-social complaint.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">134</enrollment>
+  <condition>SARS-COV2</condition>
+  <condition>COVID19</condition>
+  <arm_group>
+    <arm_group_label>patient hospitalized between march 1 and june 30, 2020</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>patient hospitalized between march 1 and june 30, 2020</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>questionnaire</intervention_name>
+    <description>three months after hospitalization, a questionnaire will be sent to patients. If necessary, patient will be seen in consultation of geriatry, otorhinolaryngology, pneumology, neuropsychology</description>
+    <arm_group_label>patient hospitalized between march 1 and june 30, 2020</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient hospitalized for severe Covid-19 infection between March 1 and June 30, 2020
+             in a conventional unit, intensive care unit, at the Centre hospitalier du Mans and
+             alive at the time of the investigation at 2 to 3 months
+
+          -  Patient having given their express consent, after having received the research
+             information letter upon discharge from hospital or having given their express consent
+             after sending the information letter
+
+          -  Age ≥ 18 years
+
+          -  Patient having contracted a SARS-CoV-2 infection proved by RT-PCR and / or
+             retrospective serology and / or a Covid-19 syndrome with suggestive chest scanner
+             (during the period from March 1, 2020 to June 30, 2020)
+
+        Exclusion Criteria:
+
+          -  Patient opposition to participate in the cohort
+
+          -  Non-French speaking patient
+
+          -  Patients who cannot read or write
+
+          -  Patient subject to a protective measure
+
+          -  Patient not affiliated to a social security or equivalent health insurance
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Christelle JADEAU</last_name>
+    <phone>0243434343</phone>
+    <phone_ext>37482</phone_ext>
+    <email>cjadeau@ch-lemans.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hikombo HITOTO</last_name>
+    <phone>0243434343</phone>
+    <email>hhitoto@ch-lemans.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Centre Hospitalier du Mans</name>
+      <address>
+        <city>Le Mans</city>
+        <zip>72000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christelle JADEAU</last_name>
+      <phone>0243434343</phone>
+      <phone_ext>37482</phone_ext>
+      <email>cjadeau@ch-lemans.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Hikombo HITOTO</last_name>
+      <phone>0243434343</phone>
+      <email>hhitoto@ch-lemans.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 23, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-COV2</keyword>
+  <keyword>functionnal complaints</keyword>
+  <keyword>sequel</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

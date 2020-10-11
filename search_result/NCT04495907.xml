@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1866">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04495907</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-M-0047-00</org_study_id>
+    <nct_id>NCT04495907</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Progression in End-Stage Kidney Disease</brief_title>
+  <acronym>COPE</acronym>
+  <official_title>COVID-19 Progression in End-Stage Kidney Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Davita Clinical Research</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Davita Clinical Research</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to collect genomic and clinical data among a cohort of
+      hemodialysis patients and analyze the association between genetic markers and the development
+      and severity of illness in response to SARS-CoV-2.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 is a novel illness caused by the SARS-CoV-2 virus. It was declared as a global
+      pandemic on March 11, 2020 and since that time there have been outbreaks on every continent
+      except for Antarctica. Preliminary understanding of the virus suggests that some fraction of
+      the population does not manifest clinical disease in response to infection, others manifest a
+      relatively benign course of illness, and still others develop a fulminant course that
+      eventuates in the need for intensive care, mechanical ventilation, or even death. The genetic
+      and epigenetic basis for differential susceptibility remains unknown.
+
+      Patients receiving hemodialysis provide a good opportunity to understand genetic and
+      epigenetic susceptibility to SARS-CoV-2. By virtue of their ongoing requirements for care,
+      such patients cannot shelter at home or maintain social distancing, but must instead report
+      to a clinical care setting on a thrice weekly basis. Moreover, such patients often travel to
+      and from dialysis using shared ride services, which furthers opportunity for exposure.
+      Preliminary estimates suggest that rates of SARS-CoV-2 positivity are 2 to 5-fold higher
+      among hemodialysis patients than in the general public. Furthermore, frequent contact with
+      the health care system among dialysis patients makes tracking clinical course comparatively
+      easy.
+
+      The purpose of this study is to collect genomic and clinical data among a cohort of
+      hemodialysis patients and analyze the association between genetic markers and the development
+      and severity of illness in response to SARS-CoV-2.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 6, 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 IgG</measure>
+    <time_frame>An average of 6 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anti-SARS-CoV-2 IgG</measure>
+    <time_frame>An average of 6 months</time_frame>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>SARS-CoV-2 Infection (Asymptomatic)</condition>
+  <condition>SARS-CoV-2 Infection (Symptomatic)</condition>
+  <arm_group>
+    <arm_group_label>Group I</arm_group_label>
+    <description>Group I- Asymptomatic patients with SARS-CoV-2 Infection</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group II</arm_group_label>
+    <description>Group II-Symptomatic patients with SARS-CoV-2 Infection</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      -  SARS-CoV-2 IgG
+
+        -  Genomic testing will be performed on participants with positive anti-SARS-CoV-2 IgG
+           and/or with history of positive SARS-CoV-2 PCR results.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Type A &amp; B participants must meet all of the following criteria:
+
+          1. Is between 18 and 80 years of age, inclusive.
+
+          2. Ability to provide informed consent.
+
+          3. Is currently receiving hemodialysis treatment for end-stage kidney disease at a DaVita
+             dialysis center.
+
+        3.2 Additional Inclusion Criteria: Type B (prior participant in genomics study)
+
+        Type B participants must meet all of the above criteria and the following criteria:
+
+        1. Enrollment in prior genomics study.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Is 18 years of age or older at the time of consent
+
+          -  Ability to provide informed consent.
+
+          -  Is currently receiving hemodialysis treatment for end-stage kidney disease at a DaVita
+             dialysis center.
+
+          -  Enrollment in prior genomics study (Additional criteria for type B only)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Aleah Freeman</last_name>
+    <phone>888-345-2567</phone>
+    <email>dcrpatientrecruitment@davita.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jeffrey Connaire</last_name>
+    <phone>888-345-2567</phone>
+    <email>dcrpatientrecruitment@davita.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>DCR Victorville</name>
+      <address>
+        <city>Victorville</city>
+        <state>California</state>
+        <zip>92394</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marisol Ortega</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCR Connecticut</name>
+      <address>
+        <city>Bridgeport</city>
+        <state>Connecticut</state>
+        <zip>06606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Helen Brickel, RN</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCR Twin Cities</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ali Stockness</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCR Las Vegas</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicole Holquin</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCR Bronx</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hoda Bashir</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCR Canton</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Helen Brickel</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCR El Paso</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <zip>79925</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christina Fernandez</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCR Lewisville</name>
+      <address>
+        <city>Lewisville</city>
+        <state>Texas</state>
+        <zip>75057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Ellis</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCR San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dylan Marias</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCR Norfolk</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jason Harvey</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DCR Milwaukee</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tracy Mente</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 3, 2020</study_first_posted>
+  <last_update_submitted>August 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Kidney Failure, Chronic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

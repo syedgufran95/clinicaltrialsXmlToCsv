@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2879">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04500366</url>
+  </required_header>
+  <id_info>
+    <org_study_id>11408</org_study_id>
+    <nct_id>NCT04500366</nct_id>
+  </id_info>
+  <brief_title>GERAS Frailty Rehabilitation at Home During COVID-19</brief_title>
+  <official_title>GERAS Frailty Rehabilitation at Home: Virtual Bundled Care for Seniors Who Are Frail to Build Strength and Resilience During COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>McMaster University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The coronavirus disease 2019 (COVID-19) pandemic is keeping people apart, which can take a
+      toll on physical and mental health. Many healthcare professionals are concerned vulnerable
+      seniors may become deconditioned, which substantially increases risk of health complications
+      and need for hospitalization. To address the immediate impact of COVID-19 policies (i.e.,
+      physical distancing, reduced access to care), the GERAS Frailty Rehabilitation model will be
+      adapted to be delivered remotely in the homes of vulnerable seniors. The investigators' aim
+      is to understand how to best build resilience among vulnerable seniors in the community
+      through at-home rehabilitation services (socialization, exercise, nutrition, and medication
+      support).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      During this unprecedented time of COVID-19, many healthcare professionals are concerned that
+      vulnerable seniors who are housebound and isolated will become deconditioned resulting in
+      functional losses in mental status, continence and ability to complete activities of daily
+      living. Total inactivity in seniors can result in a 10-20% decrease in muscle strength per
+      week (1 -3% per day). Loss of muscle strength may quickly convert a vulnerable older adult
+      who was ambulatory into a bedridden state. This will affect the health of seniors and
+      increase demand on healthcare systems. An innovative model to deliver frailty rehabilitation
+      services remotely is urgently needed to: 1) increase access to specialized services 2)
+      provide added supports for seniors discharged from the hospital who are in need of
+      rehabilitation and 3) build resilience in seniors to prevent re-hospitalization or
+      institutionalization. Therefore, to address the immediate impact of COVID-19 policies (i.e.,
+      physical distancing and reduced access to care), the GERAS Frailty Rehabilitation model will
+      be adapted to be delivered remotely in the homes of vulnerable seniors. This
+      proof-of-concept, randomized control trial aims to understand how to best build resilience
+      among vulnerable seniors through at-home rehabilitation services using socialization,
+      exercise, nutrition, and medication support.
+
+      The short-term immediate goals for this RCT are to help vulnerable seniors who are isolated
+      because of physical distancing measures to build strength and resilience throughout the
+      COVID-19 pandemic. The major deliverables are 1) the adaptation of an in-person program to
+      virtual delivery 2) the piloting of a care pathway with inter-disciplinary professionals that
+      can be expanded to reach a larger number of individuals.
+
+      The long-term goal of the study is the seamless implementation of a new model for multimodal
+      Frailty Rehabilitation that closes the care gap in rehabilitation for frail seniors in the
+      immediate and foreseeable future.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized into two arms (35/arm based on sample size calculation) for 12-weeks of socialization only or multi-modal frailty rehabilitation. The socialization only arm will receive 1x/week phone calls from medical student volunteers via the McMaster Student-Senior Isolation Prevention Partnership (SSIPP). Multi-modal frailty rehabilitation will involve virtual care including 1x/week socialization (SSIPP), 2x/week exercise (small group physiotherapy live-streamed sessions), nutrition (virtual dietician consult), and medication support (virtual pharmacist consult) all via a videoconferencing service.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+    <masking_description>Outcome assessors, the study biostatistician, the investigative team, and the steering committee will be blinded to intervention assignments. Research assistants, study intervention personnel (pharmacist, instructors) and participants will not be blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Physical Function</measure>
+    <time_frame>Baseline and 12 Weeks Post-Intervention</time_frame>
+    <description>Assessed by the 5x Sit-to-Stand (time to complete). Faster times to complete indicate better performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Mental Health</measure>
+    <time_frame>Baseline and 12 Weeks Post-Intervention</time_frame>
+    <description>Assessed by the Depression Anxiety Stress Scale (DASS-21). Higher scores indicate greater risk of depression, anxiety and stress [depression, anxiety, stress subscores range 0-21].</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Sarcopenia</measure>
+    <time_frame>Baseline and 12 Weeks Post-Intervention</time_frame>
+    <description>Assessed by the SARC-F - Self-reported strength, assistance with walking, rising from a chair, climbing stairs and falls. Higher scores indicate greater level of sarcopenia [range 0-10].</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Frailty</measure>
+    <time_frame>Baseline and 12 Weeks Post-Intervention</time_frame>
+    <description>Assessed by the Fit-Frailty Index. Higher scores indicate greater degree of frailty [range 0-1].</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Self-Efficacy</measure>
+    <time_frame>Baseline and 12 Weeks Post-Intervention</time_frame>
+    <description>Balance confidence will be assessed using the Activities-specific Balance Confidence Scale (ABCs). Higher scores indicate greater balance confidence [range 0-100].</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-Reported Change in Function, Health and Well-Being</measure>
+    <time_frame>Baseline and 12 Weeks Post-Intervention</time_frame>
+    <description>Assessed by the interRAI Community Rehab Assessment - Self-Report</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinician-Reported Change in Function, Health and Well-Being</measure>
+    <time_frame>Baseline and 12 Weeks Post-Intervention</time_frame>
+    <description>Assessed by the interRAI Community Rehab Assessment - Clinician-Completed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Fitness</measure>
+    <time_frame>Weekly up to 12 weeks</time_frame>
+    <description>Assessed by the Borg Rate of Perceived Exertion after exercise. Higher scores indicate greater level of exertion [range 6-20].</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Program Satisfaction</measure>
+    <time_frame>12 Weeks Post-Intervention</time_frame>
+    <description>Assessed using a program questionnaire in accordance with the Kirkpatrick 5-Level Evaluation Model. Scores will be on a 5-point Likert scale ranging from &quot;Strongly Disagree&quot; to &quot;Strongly Agree&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Emergency Room Visits</measure>
+    <time_frame>Baseline and 12 Weeks Post-Intervention</time_frame>
+    <description>Number of emergency room visits will be recorded. Higher number of emergency room visits indicates higher healthcare utilization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Hospitalizations</measure>
+    <time_frame>Baseline and 12 Weeks Post-Intervention</time_frame>
+    <description>Number of hospitalizations will be recorded. Higher number of hospitalizations indicates higher healthcare utilization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Number of Calls to 911</measure>
+    <time_frame>Baseline and 12 Weeks Post-Intervention</time_frame>
+    <description>Number of calls to 911 will be recorded. Higher number of calls indicates higher healthcare utilization.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Feasibility Outcome #1 - Reach of intervention</measure>
+    <time_frame>12 Weeks Post-Intervention</time_frame>
+    <description>Assessed by the number of individuals who participated. Target reach is 70 participants.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Feasibility Outcome #2 - Adoption of the Intervention</measure>
+    <time_frame>12 Weeks Post-Intervention</time_frame>
+    <description>Assessed by number of referral sites. Target is 5 referral sites.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Feasibility Outcome #3 - Implementation of the Intervention</measure>
+    <time_frame>12 Weeks Post-Intervention</time_frame>
+    <description>Assessed by the number of individuals who completed the intervention. Higher number of individuals completing the study indicates greater success in implementation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Feasibility Outcome #4 - Maintenance of the Intervention</measure>
+    <time_frame>12 Weeks Post-Intervention</time_frame>
+    <description>Assessed by the number of referral sites continuing with a second cohort. Greater number of referral sites continuing with a second cohort indicates greater maintenance.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Frailty</condition>
+  <arm_group>
+    <arm_group_label>Socialization</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants randomized to the socialization arm will receive once-weekly phone calls from medical student volunteers via the McMaster Student-Senior Isolation Prevention Partnership (SSIPP) for a total of 12-weeks (n=35). The program pairs health professional student volunteers with older adults in the community to provide social comfort while heightened physical distancing measures are in place during the current COVID-19 pandemic. Attendance and duration of the phone calls will be logged.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Multi-Modal Frailty Rehabilitation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Multi-modal frailty rehabilitation will involve virtual care including 1x/week socialization via SSIPP, 2x/week exercise (small group physiotherapy live-streamed sessions), nutrition (virtual dietician consult), and medication support (virtual pharmacist consult) all through a videoconferencing system.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Socialization</intervention_name>
+    <description>Social interaction is associated with better mental and physical health, and evidence suggests that group versus individual engagement may offer unique cognitive benefits for older adults as well as peer reinforcement and encouragement.</description>
+    <arm_group_label>Multi-Modal Frailty Rehabilitation</arm_group_label>
+    <arm_group_label>Socialization</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Virtual Group Exercise</intervention_name>
+    <description>Participants will receive twice-weekly (one hour per class) virtual exercise via small-group physiotherapy sessions for a total of 12 weeks. All exercise sessions will occur virtually via a videoconferencing system. The classes will focus on functional movements specifically designed for seniors with frailty and mobility challenges, and will include modifications for gait aids such as canes or walkers. Class sizes will be small to allow for tailoring of exercises based on challenging, safe, progressive, evidence-based exercises. In accordance with recent guidelines to achieve 3 hours/week for fall prevention practice in older adults, participants will also be provided with tailored supplemental home exercises developed by the study physiotherapist to gain an additional 1 hour of physical activity.</description>
+    <arm_group_label>Multi-Modal Frailty Rehabilitation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Combination Product</intervention_type>
+    <intervention_name>Nutrition Consult and Protein Supplementation</intervention_name>
+    <description>Nutrition Consult: Participants will be scheduled for a one-on-one virtual nutrition consult with the study dietitian. During the consultation, the dietitian will assess the nutritional status of the participant and will provide them with counselling and coaching to improve their nutrition.
+Protein Supplementation: As piloted in our Fit Joints Study, the protein supplement (each serving) contains 350 kcal, 20-gram protein, 1.5 g β-Hydroxy β-Methylbutyrate (HMB), and participants are advised to take this with a meal or within 3 hours of exercise on activity days.</description>
+    <arm_group_label>Multi-Modal Frailty Rehabilitation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Medication Review</intervention_name>
+    <description>A study pharmacist will review the participant's medication list and will utilize Beers and/or START/STOPP criteria to provide recommendations to optimize/update their medications to the participant's healthcare provider. Study geriatricians will be listed as contacts on the primary care provider recommendations and available for consultation.</description>
+    <arm_group_label>Multi-Modal Frailty Rehabilitation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Community-dwelling adults aged ≥ 65 years of age;
+
+          -  Has access, or has a caregiver who has access to a device at home that can support a
+             videoconferencing service (e.g. Zoom, FaceTime, Skype);
+
+          -  Score between 4-6 (inclusive) on the clinical frailty scale;
+
+          -  Able to ambulate independently with or without a walking aid; OR with caregiver
+             supervision at home;
+
+          -  Obtain clearance for exercise: For hospital referrals - average resting heart rate
+             between 50-100 bpm and average blood pressure less than or equal to 160/90mmHg (as per
+             Canadian Society for Exercise Physiology guidelines for exercise clearance); OR Self-
+             referrals: Obtain exercise clearance from their family physician prior to the first
+             intervention session.
+
+        Exclusion Criteria:
+
+          -  Unable to speak or understand English and has no caregiver for translation;
+
+          -  Significant cognitive impairment where they may have difficulty following two-step
+             commands;
+
+          -  Receiving palliative/end of life care;
+
+          -  Unstable angina or unstable heart failure;
+
+          -  Travel plans that would result in missing greater than 20% of the trial's 12-week
+             duration;
+
+          -  Currently attending a group exercise program.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexandra Papaioannou, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Scientific Director, GERAS Centre for Aging Research</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sherri Smith</last_name>
+    <phone>905-521-2100</phone>
+    <phone_ext>77715</phone_ext>
+    <email>smithsher@hhsc.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>McMaster University - St. Peter's Hospital</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8M1W9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sherri Smith</last_name>
+      <phone>905-521-2100</phone>
+      <phone_ext>77715</phone_ext>
+      <email>smithsher@hhsc.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Alexandra Papaioannou, MD, MSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 5, 2020</study_first_posted>
+  <last_update_submitted>August 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>McMaster University</investigator_affiliation>
+    <investigator_full_name>Alexandra Papaioannou</investigator_full_name>
+    <investigator_title>Director, GERAS Centre for Aging Research</investigator_title>
+  </responsible_party>
+  <keyword>Rehabilitation</keyword>
+  <keyword>Frailty</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Exercise</keyword>
+  <keyword>Protein</keyword>
+  <keyword>Medication</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Frailty</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

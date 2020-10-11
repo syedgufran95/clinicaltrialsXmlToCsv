@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1148">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04500639</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00100243</org_study_id>
+    <nct_id>NCT04500639</nct_id>
+  </id_info>
+  <brief_title>Over-the-counter Medications &amp; COVID-19</brief_title>
+  <acronym>OTC℞&amp;COVID19</acronym>
+  <official_title>Do Common Medications Alter the Course of COVID-19?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alberta</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alberta</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Ibuprofen is one of several common medications implicated in coronavirus disease 2019
+      (COVID-19) severity. On March 11, the Lancet Respiratory Medicine published a letter stating
+      ibuprofen can increase angiotensin-converting enzyme 2 (ACE2) expression. On March 14, the
+      French Minister of Health tweeted that ibuprofen should be avoided because it will aggravate
+      COVID-19. This concern was echoed by scientists and senior doctors in the British Medical
+      Journal news on March 17. In response, the World Health Organization (WHO) issued a
+      recommendation on March 18 to avoid ibuprofen in people with symptoms of COVID-19. However,
+      the WHO reversed this recommendation the next day because of insufficient evidence. Health
+      Canada issued a safety alert on March 20 stating there was no evidence that ibuprofen worsens
+      COVID-19 symptoms. There is some evidence suggesting NSAID use (primarily ibuprofen) can
+      increase severity of community acquired bacterial pneumonia in hospitalized children and
+      adults. However, we do not know if ibuprofen use alters the course of COVID-19.
+
+      Ibuprofen is an effective analgesic and antipyretic medication. People often use
+      over-the-counter cough and cold products containing ibuprofen to manage symptoms of a
+      respiratory tract infection before they seek medical attention. Therefore, exposure to
+      ibuprofen is highly probable in people with COVID-19 symptoms. Patients, clinicians, and
+      policy makers need to know if ibuprofen is safe to use in management of COVID-19 symptoms.
+
+      This case-control study will explore the association between common medications and COVID-19
+      severity in a cohort of people tested for SARS-CoV-2 infection.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 23, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ibuprofen exposure for symptom management</measure>
+    <time_frame>Prior to COVID-19 testing</time_frame>
+    <description>Ibuprofen use will be determined from responses to a survey question asking what over-the-counter medications were used to help manage symptoms before testing for COVID-19. Response options include all brand name analgesic and cough and cold products available in Canada, as well as options to list generic brand products containing ibuprofen or acetaminophen.
+If a participant indicates they used both acetaminophen and ibuprofen to manage symptoms, an additional question will ask for the sequence that these analgesics were started. Responses to this question will help us determine if ibuprofen was added for better symptom relief, presumably because symptoms were severe.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Exposure to other drugs implicated in COVID-19 severity</measure>
+    <time_frame>Prior to COVID-19 testing</time_frame>
+    <description>Exposure to angiotensin converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), mineralocorticoid receptor antagonists (MRAs), and pioglitazone will be identified using additional questions in the survey and verified with prescription drug records in the administrative health databases.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">14000</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Albertans seeking testing for COVID-19 are eligible for inclusion in the study. Invitation
+        letters will be sent to all individuals with positive test results and a random sample of
+        individuals with negative test results.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Residents of the province of Alberta tested for COVID-19 since March 1, 2020
+
+        Exclusion Criteria:
+
+          -  Individuals who are currently hospitalized, who died, or who do not have contact
+             information in the COVID-19 test record
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Scot Simpson, PharmD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Faculty of Pharmacy and Pharmaceutical Sciences, University of Alberta</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Scot Simpson, PharmD, MSc</last_name>
+    <phone>7804927538</phone>
+    <email>scot@ualberta.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alberta</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Scot Simpson, PharmD, MSc</last_name>
+      <phone>7804927538</phone>
+    </contact>
+    <investigator>
+      <last_name>Scot H Simpson, PharmD, MSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 5, 2020</study_first_posted>
+  <last_update_submitted>August 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Ibuprofen</keyword>
+  <keyword>Over-the-counter medications</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>A data management plan is currently being drafted and will be posted on https://portagenetwork.ca/.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

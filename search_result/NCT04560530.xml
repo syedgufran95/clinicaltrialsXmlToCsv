@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="757">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04560530</url>
+  </required_header>
+  <id_info>
+    <org_study_id>chest CT scan in COVID-19</org_study_id>
+    <nct_id>NCT04560530</nct_id>
+  </id_info>
+  <brief_title>The Role of CT Chest Scan in the Pre-anesthetic Assessment of Suspected or Confirmed COVID -19 Patients</brief_title>
+  <official_title>The Use of Preoperative CT Chest Scan in the Pre-anesthetic Assessment of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tanta University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tanta University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The role of CT scan of the chest in Pre-anesthetic assessment of the severity of COVID-19 and
+      the correlations between CT measurements of the aortic and pulmonary arteries diameters and
+      severity of pneumonia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients who were scheduled for emergency surgery during COVID-19 pandemic should have be
+      screened for COVID pre-operatively given the prevalence f asymptomatic or mildly symptomatic
+      cases that could be carriers to infection and possibly cause cross infection to the operating
+      room staff especially the anesthetists who deal with the upper airway during intubation with
+      high possibility of getting infected with SARS-COV 2 virus. Waiting respiratory tract PCR
+      (RT-PCR) test for COVID can delay the surgery which may increase patients morbidity and
+      mortality. RT-PCR test has limited sensitivity and specificity.
+
+      Patients who are confirmed to have COVID-19 infection (have positive RT-PCR) or patients who
+      have possible COVID-19 infection (have symptoms but were not tested with RT-PCR) will undergo
+      non-enhanced CT scanning of the chest (without giving IV contrast).
+
+      Chest CT scan will be interpreted by 2 Consultants radiologists with an experience of at
+      least 10 years in their field.
+
+      The radiologists are going to be requested to comment on the lung parenchyma, describing the
+      findings , assess the pulmonary artery, aorta diameters and the aorta:pulmonary diameters
+      ratio will be then calculated. The degree of pneumonia severity index will then be described
+      as well.
+
+      The radiologists will be blinded to the aim of the study.
+
+      All data will be collected and then correlation between the data sets will be statistically
+      tested.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Actual">September 1, 2020</completion_date>
+  <primary_completion_date type="Actual">July 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>pneumonia severity.</measure>
+    <time_frame>90 days</time_frame>
+    <description>The pneumonia severity will be assessed by the radiologist.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Aorta diameter</measure>
+    <time_frame>90 days</time_frame>
+    <description>Aorta cross sectional diameter will be calculated by using cursor method on CT scan</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pulmonary artery diameter</measure>
+    <time_frame>90 days</time_frame>
+    <description>Pulmonary artery sectional diameter will be calculated by using cursor method on CT scan</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pulmonary artery diameter TO Aorta diameter ratio</measure>
+    <time_frame>90 days</time_frame>
+    <description>Pulmonary artery diameter TO Aorta diameter ratio will be calculated</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Description of the lesions found in the CT scan</measure>
+    <time_frame>90 days</time_frame>
+    <description>The parenchymal lesions will be described by the radiologist</description>
+  </secondary_outcome>
+  <enrollment type="Actual">76</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Non-enhanced CT scan of the chest</intervention_name>
+    <description>Non-enhanced CT scan of the chest with multi-slice CT scan machine.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients who are older than 18 years, having confirmed or suspected COVID-19 infection and
+        scheduled for emergency surgery.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients scheduled for emergency surgery with symptoms suggestive of COVID-19
+             infection.
+
+        Exclusion Criteria:
+
+          -  Pregnancy.
+
+          -  Haemodynamic instability (Mean arterial blood pressure above 65 mmHg or the need for
+             of inotropic drugs to maintain mean arterial blood pressure above 65 mmHg).
+
+          -  Active bleeding.
+
+          -  Any indication by the surgeon or the anesthesiologist to proceed for immediate surgery
+             for the patient safety.
+
+          -  Patients refusal to do CT scanning.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Security Forces Hospital</name>
+      <address>
+        <city>Riyadh</city>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Saudi Arabia</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 23, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Tanta University</investigator_affiliation>
+    <investigator_full_name>MOHAMMED FAWZI ALI ABOSAMAK</investigator_full_name>
+    <investigator_title>ICU consultant</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1226">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04558307</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-004046</org_study_id>
+    <nct_id>NCT04558307</nct_id>
+  </id_info>
+  <brief_title>Feasibility of Rapid COVID-19 Testing in Disadvantaged Populations</brief_title>
+  <official_title>Enhancing Rapid Health Response in National Crises: Feasibility of Rapid COVID-19 Testing in Disadvantaged Populations Through Community-Academic Partnerships</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the feasibility of establishing severe acute
+      respiratory syndrome coronavirus 2 (SARS-CoV-2) testing at a federally-qualified health
+      center (FQHC) during a global health crisis to mitigate COVID-19 disparities in
+      socioeconomically disadvantaged populations.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Accurate and early diagnosis of COVID-19 infections are critical for rapid initiation of
+      quarantine interventions to reduce population spread and to provide appropriate medical care
+      to reduce related morbidity and mortality during the current pandemic. The purpose of this
+      study is to assess the feasibility of establishing a drive-through rapid COVID-19 testing
+      site at a federally-qualified health center (FQHC) during a global health crisis to mitigate
+      health consequences in socioeconomically disadvantaged populations. We also seek to evaluate
+      the effectiveness of community-driven communication in increasing access to rapid testing for
+      severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in this population. This will
+      inform public health decisions about improving access to testing for SARS-CoV-2 in
+      underserved populations, particularly those receiving care in FQHCs or community health
+      centers.
+
+      The specific aims of the study are to:
+
+      Aim 1. To determine the feasibility of a community-engaged research partnership to support
+      rapid SARS-CoV-2 testing for symptomatic patients of all ages in the underserved population
+      during the COVID-19 crisis. A rapid testing strategy (drive-through testing site) at a FQHC
+      using Mayo Clinic Laboratory (MCL) diagnostic processing will be piloted.
+
+      Aim 2. To compare the effectiveness of community-driven messaging in increasing uptake of
+      rapid SARS-CoV-2 testing compared with usual sources of health information. A simple random
+      sample will be drawn of FQHC patients (N=1000, age 18+) with 1:1 randomization of
+      communication about COVID-19 and availability of rapid testing from the FQHC versus usual
+      sources (control).
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">June 3, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Ecologic or Community</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Intervention Feasibility Measures - FQHC Staff</measure>
+    <time_frame>6-months after intervention start</time_frame>
+    <description>FQHC staff will complete a comprehensive electronic survey adapted from the Acceptability of Intervention Measure (AIM), Intervention Appropriateness Measure (IAM), and Feasibility of Intervention Measure (FIM) instrument to assess feasibility of community-engaged research partnership to support testing site (Weiner BJ, et al. Implementation Science. 2017;12(1):108.).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>2. Uptake of rapid SARS-CoV-2 testing strategy at the FQHC- Effectiveness of community-driven messaging to patients</measure>
+    <time_frame>6-months after intervention start</time_frame>
+    <description>Comparison of number of tests completed per group (intervention vs. control)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Uptake of rapid SARS-CoV-2 testing strategy at the FQHC</measure>
+    <time_frame>9-months after intervention start</time_frame>
+    <description>Comparison of number of tests completed per group (intervention vs. control)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Intervention Satisfaction Measures - Participant Satisfaction with COVID-19 testing</measure>
+    <time_frame>6-months after intervention start</time_frame>
+    <description>All randomized patients will complete a comprehensive survey with questions probing satisfaction with the drive-through testing site (ease of use, process, return of results, etc.).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>5. Intervention Satisfaction Measures - Participant Satisfaction with community-driven messaging</measure>
+    <time_frame>6-months after intervention start</time_frame>
+    <description>Compare the satisfaction of community-driven messaging on availability of rapid SARS-CoV-2 testing at the FQHC (intervention vs. control)</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">1000</enrollment>
+  <condition>Coronavirus Disease (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Observational Intervention</arm_group_label>
+    <description>Rapid SARS-CoV-2 testing strategy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Behavioral Intervention</arm_group_label>
+    <description>Community-driven messages to promote COVID-19 testing</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Pilot a rapid SARS-CoV-2 testing strategy</intervention_name>
+    <description>Rapid testing strategy at an FQHC using Mayo Clinic Laboratory (MCL) diagnostic processing with a real-time polymerase chain reaction assay for SARS-CoV-2 and a Mayo Clinic drive-through collection protocol.</description>
+    <arm_group_label>Observational Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Community-driven messages to promote COVID-19 testing</intervention_name>
+    <description>A one-time communication about the availability of COVID-19 testing at the FQHC to patients randomized to the intervention group using any available means of communication (text and/or mailed letter).</description>
+    <arm_group_label>Behavioral Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients receiving care at Open Cities Health Center.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  This study will include all patients receiving clinically indicated testing for
+             COVID-19 at a federally qualified health center (FQHC, Open Cities Health Center, St.
+             Paul, MN).
+
+          -  There will be no formal recruitment of patients in this research.
+
+        Exclusion Criteria:
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>LaPrincess C Brewer, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.mayo.edu/research/clinical-trials</url>
+    <description>Mayo Clinic Clinical Trials</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mayo Clinic</investigator_affiliation>
+    <investigator_full_name>LaPrincess C. Brewer</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>testing</keyword>
+  <keyword>community engagement</keyword>
+  <keyword>Community-based participatory research</keyword>
+  <keyword>racial and ethnic minorities</keyword>
+  <keyword>community health</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="643">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04501458</url>
+  </required_header>
+  <id_info>
+    <org_study_id>001</org_study_id>
+    <nct_id>NCT04501458</nct_id>
+  </id_info>
+  <brief_title>Western Kenya Integrated COVID-19 Response</brief_title>
+  <official_title>Western Kenya Integrated COVID-19 Response Leveraging the Community Health Strategy, Youth, and Technology to Flatten the COVID-19 Curve and Improve COVID-19 Case Detection, Isolation and Management in Western Kenya</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Surgical Systems Research Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Wellcome Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tropical Institute of Community Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Surgical Systems Research Group</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To respond to the COVID-19 pandemic, investigators will be deploying community health
+      workers, equipped with mobile technology, and accompanied by youth to visit households door
+      to door to screen for symptoms of COVID-19, isolate, test, and manage suspected cases of
+      COVID-19. The community health workers and youth will educate households about preventive
+      measures including frequent handwashing and home management of mild cases. Simultaneously,
+      investigators will work with nurses, doctors, and clinical officers, to test and treat more
+      severe cases of COVID-19 in health facilities. Our goals are: to visit every household in
+      Siaya county covering a population of close to 1 million, and to train and support health
+      workers working in 32 health facilities with oxygen capacity in Siaya to reduce the morbidity
+      and mortality related to COVID19 and other conditions.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 18, 2020</start_date>
+  <completion_date type="Anticipated">August 19, 2020</completion_date>
+  <primary_completion_date type="Anticipated">August 19, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>3 months</time_frame>
+    <description>Mortality related to COVID-19</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">200000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Functional community health units</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Community health units with active community health workers.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non functional community health units</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Community health units without active community health workers.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Health facilities with oxygen capacity</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Health facility with regular oxygen capacity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Health facilities without oxygen capacity</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Training of youth, community health assistants and community health workers.</intervention_name>
+    <description>Training of youth, community health assistants, and community health workers in the screening, detection, contact tracing, prevention, and management of COVID-19 with concurrent maintenance of essential health services.</description>
+    <arm_group_label>Functional community health units</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Training clinicians in basic critical care and the management of severe COVID-19 cases</intervention_name>
+    <description>Training clinicians in basic critical care and the management of severe COVID-19 cases with concurrent maintenance of essential health services.</description>
+    <arm_group_label>Health facilities with oxygen capacity</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Youth aged 18 to 30 years old.
+
+          -  Active community health workers.
+
+          -  Facilities with oxygen capacity.
+
+        Exclusion Criteria:
+
+          -  Individuals younger than 18 or older than 30 years old.
+
+          -  Inactive community health workers.
+
+          -  Facilities without oxygen capacity.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neema Kaseje, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Surgical Systems Research Group</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Neema Kaseje, MD</last_name>
+    <phone>+16177355937</phone>
+    <email>nkaseje@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Surgical Systems Research Group/Tropical Institute of Community Health</name>
+      <address>
+        <city>Kisumu</city>
+        <country>Kenya</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Neema Kaseje, MD</last_name>
+      <phone>+16177355937</phone>
+      <email>nkaseje@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Neema Kaseje, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Kenya</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Surgical Systems Research Group</investigator_affiliation>
+    <investigator_full_name>Neema Kaseje</investigator_full_name>
+    <investigator_title>Founding Director</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified participant data will be available when results are reported.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Immediately following publication; indefinitely.</ipd_time_frame>
+    <ipd_access_criteria>Anyone with an approved proposal who wishes to access the data.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

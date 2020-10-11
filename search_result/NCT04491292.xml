@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1091">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04491292</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-0428</org_study_id>
+    <secondary_id>NCI-2020-04259</secondary_id>
+    <secondary_id>2020-0428</secondary_id>
+    <nct_id>NCT04491292</nct_id>
+  </id_info>
+  <brief_title>Assessment of the Psychosocial Impact of the COVID-19 Pandemic on the MD Anderson Cancer Center Workforce</brief_title>
+  <official_title>Psychosocial Impact of COVID-19 Pandemic on MD Anderson Workforce</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study investigates the impact of the COVID-19 pandemic on the psychosocial health of
+      employees of MD Anderson Cancer Center. Epidemics have been shown to promote psychological
+      stress among medical staff in high risk areas, which may lead to mental health problems.
+      Assessing how the pandemic is affecting employees may allow for more comprehensive actions to
+      be taken to protect the mental health of employees.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:
+
+      I. To assess psychosocial and stress-related outcomes in employees at MD Anderson Cancer
+      Center during and post the COVID-19 pandemic.
+
+      SECONDARY OBJECTIVE:
+
+      I. To identify demographic and occupational factors associated with COVID-19 related
+      psychosocial and stress outcomes.
+
+      OUTLINE:
+
+      Participants complete 2 online questionnaires over 10 minutes each at baseline and at 3
+      months after the pandemic ends.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 18, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in psychosocial outcomes</measure>
+    <time_frame>Baseline up to 3 months after the outbreak ends</time_frame>
+    <description>Will be assessed using the questions administered in the second part of the questionnaire, specifically, the 20 stress-related items and the Impact of Event Scale (IES). Summary statistics will be calculated for each of the individual 20 stress-related questions. The total distress score as well as the scores for the intrusion and avoidance subscales will be calculated and also summarized via descriptive statistics. Summary statistics will be calculated separately for data collected during the pandemic and at follow-up, as well as for change from pandemic to follow-up. Ninety-five percent confidence intervals will be calculated for the mean of the change scores.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in stress-related outcomes</measure>
+    <time_frame>Baseline up to 3 months after the outbreak ends</time_frame>
+    <description>Will be assessed using the questions administered in the second part of the questionnaire, specifically, the 20 stress-related items and the IES. Summary statistics will be calculated for each of the individual 20 stress-related questions. The total distress score as well as the scores for the intrusion and avoidance subscales will be calculated and also summarized via descriptive statistics. Summary statistics will be calculated separately for data collected during the pandemic and at follow-up, as well as for change from pandemic to follow-up. Ninety-five percent confidence intervals will be calculated for the mean of the change scores.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Demographic and occupational factors associated psychological and stress-related outcomes</measure>
+    <time_frame>Up to 3 months</time_frame>
+    <description>Summary statistics will also be calculated for demographic variables as well as all other questionnaire items. Ninety-five percent confidence intervals will also be calculated for the mean change from the pandemic scores. Summary statistics will also be calculated for subgroups of interest, such as occupation, age, etc. Two-sided two-sample t-tests, analysis of variance or Pearson/Spearman correlation coefficients, as applicable, will be used to determine whether different subgroups are differentially impacted by, or whether different levels of demographics (such as age) or occupational factors (such as years of service at MD Anderson and number of hours worked per week) are associated with, the COVID-19-related stress, with the stress being measured by the total distress score calculated from the IES as well as by the intrusion and avoidance scores, separately during and after the pandemics.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">20000</enrollment>
+  <condition>COVID-19 Infection</condition>
+  <arm_group>
+    <arm_group_label>Observational (questionnaire)</arm_group_label>
+    <description>Participants complete 2 online questionnaires over 10 minutes each at baseline and at 3 months after the pandemic ends.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Complete questionnaires</description>
+    <arm_group_label>Observational (questionnaire)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Employees at MD Anderson Cancer Center.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  MD Anderson employees
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Priya R Bhosale</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Priya R. Bhosale</last_name>
+    <phone>713-792-0221</phone>
+    <email>priya.bhosale@mdanderson.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Priya R. Bhosale</last_name>
+      <phone>713-792-0221</phone>
+      <email>priya.bhosale@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Priya R. Bhosale</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>http://www.mdanderson.org</description>
+  </link>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <last_update_submitted>July 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

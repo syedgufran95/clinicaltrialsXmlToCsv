@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2906">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04544072</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-163</org_study_id>
+    <nct_id>NCT04544072</nct_id>
+  </id_info>
+  <brief_title>Analysis of the Quality and Quantity of Antibiotic Prescriptions for Bacterial Respiratory Tract Superinfection in Patients Hospitalized in COVID-19 Wards</brief_title>
+  <official_title>A Prospective Analysis of the Quality and Quantity of Antibiotic Prescriptions for Bacterial Respiratory Tract Superinfection in Patients Hospitalized in COVID-19 Wards of a Tertiary University Hospital During the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universitair Ziekenhuis Brussel</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universitair Ziekenhuis Brussel</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this prospective observational study, a quantitative and qualitative analysis of
+      antibiotic prescriptions for presumed respiratory tract (super)infection in patients
+      hospitalized on COVID-19 wards will be made.
+
+      Drivers of antibiotic prescription for presumed respiratory tract infection in patients
+      suspected of being infected with COVID-19 or with definite COVID-19 infections will be
+      identified.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients hospitalized on a COVID-19 ward for more than 24 hours will be included. Those with
+      one or more antimicrobial prescription(s) for a presumed respiratory tract (super)infection
+      will be identified and every antibiotic dose will be scored as appropriate, inappropriate,
+      suboptimal or unnecessary by at least two infectious disease (ID) specialists, on an
+      independent manner. If the scoring of the two ID specialists will defer, a third ID
+      specialist will come to a conclusion after discussion with the two other ID specialists.
+
+      A quantification of the total amount of antibiotics, prescribed for presumed respiratory
+      tract (super)infection will be made for patients with a COVID-19 diagnosis, but also a
+      quantification for every category of appropriateness will be made.
+
+      Possible drivers like the degree of hypoxemia, laboratory parameters, qSOFA score, duration
+      of symptoms, age, comorbidities, symptoms,... associated with the prescription of
+      antimicrobials for a presumed respiratory tract (sur)infection will be identified.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">March 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total antimicrobial consumption for suspicion of secondary bacterial respiratory infections in hospitalized patients in COVID wards with a clinical or PCR-based COVID diagnosis, expressed as 'Daily defined doses/hospitalization'.</measure>
+    <time_frame>7 months</time_frame>
+    <description>The total antibiotic use, expressed as Daily Defined Doses (DDD) of antibiotics in grams. This will be aggregated with the amount of hospitalizations to arrive at one reported value: DDD/hospitalization (expressed as grams/hospitalization), for every antibiotic and antibiotic formulation (IV or PO) separately but also for all prescribed antibiotics in general.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total antimicrobial consumption for suspicion of secondary bacterial respiratory infections in hospitalized patients in COVID wards with a clinical or PCR-based COVID diagnosis, expressed as 'Daily defined doses/1000 hospitalized patient days'.</measure>
+    <time_frame>7 months</time_frame>
+    <description>The total antibiotic use, expressed as Daily Defined Doses (DDD) in grams. This will be aggregated with the total amount of hospitalized patient days to arrive at one reported value: DDD/1000 hospitalization patient days (expressed as grams/1000 hospitalization days), for every antibiotic and antibiotic formulation (IV or PO) separately but also for all prescribed antibiotics in general. 1000 hospitalised patient days for every antibiotic and antibiotic formulation (IV or PO) separately but also for all prescribed antibiotics in general.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total antimicrobial consumption for suspicion of secondary bacterial respiratory infections in hospitalized patients in COVID wards with a clinical or PCR-based COVID diagnosis, expressed as 'Daily doses of administration/hospitalization'.</measure>
+    <time_frame>7 months</time_frame>
+    <description>The total antibiotic use, expressed as Daily Doses of Administration (DDA) of antibiotics in grams. This will be aggregated with the amount of hospitalizations to arrive at one reported value: DDA/hospitalization (expressed as grams/hospitalization), for every antibiotic and antibiotic formulation (IV or PO) separately but also for all prescribed antibiotics in general.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total antimicrobial consumption for suspicion of secondary bacterial respiratory infections in hospitalized patients in COVID wards, expressed as 'Daily doses of administration (DDA)/1000 hospitalized patient days'.</measure>
+    <time_frame>7 months</time_frame>
+    <description>The total antibiotic use, expressed as Daily Doses of Administration (DDA) in grams. This will be aggregated with the total amount of hospitalized patient days to arrive at one reported value: DDA/1000 hospitalization patient days (expressed as grams/1000 hospitalization days), for every antibiotic and antibiotic formulation (IV or PO) separately but also for all prescribed antibiotics in general.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The degree of appropriateness of antimicrobial prescriptions for presumed respiratory tract (super)infection</measure>
+    <time_frame>7 months</time_frame>
+    <description>The degree of appropriateness for each antibiotic (AB) formulation separately but also for all prescribed antibiotics in general, with distinction between 'Appropriate', 'Unnecessary', 'inappropriate' and 'suboptimal' AB choice. Results will be expressed as DDD or DDA of appropriate AB/1000 patient days, DDD or DDA of unnecessary AB/1000 patient days, DDD or DDA of inappropriate AB/1000 patient days and DDD or DDA of suboptimal AB/1000 patient days. Used units: g/1000 hospitalized patients days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The degree of appropriateness of antimicrobial prescriptions for presumed respiratory tract (super)infection, denominator 2</measure>
+    <time_frame>7 months</time_frame>
+    <description>The degree of appropriateness for each antibiotic (AB) formulation separately but also for all prescribed antibiotics in general, with distinction between 'Appropriate', 'Unnecessary', 'inappropriate' and 'suboptimal' AB choice. Results will be expressed as DDD or DDA of appropriate AB/hospitalization, DDD or DDA of unnecessary AB/hospitalization, DDD or DDA of inappropriate AB/hospitalization and DDD or DDA of suboptimal AB/hospitalization. Used units: g/hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Clostridioides Difficile infections</measure>
+    <time_frame>7 months</time_frame>
+    <description>The number of C. Difficile infections in the inpatient setting</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Is there a significant difference in age comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>median or mean age (number) , comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Is there a significant difference in weight comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>median or mean weight (kg), comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in amount of comorbidities comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>rate of comorbidities expressed as mean Charlson Comorbidity Index score, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in rate of chronical pulmonary disease as a comorbidity, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>rate of chronical pulmonary disease, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in rate of haematological or solid neoplasia as a comorbidity, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>rate of haematological or solid neoplasia, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in rate of diabetes mellitus as a comorbidity, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>rate of diabetes mellitus, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in rate of patients with presence or not of at least one suggestive symptom of COVID-19 symptomatology, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>rate of patients with fever (t°&gt;38°c), dyspnea, cough, runny nose, throat pain, thoracic pain, myalgia, fatigue, anosmia, confusion at admission, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in rate of patients with recent AB prescription, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>rate of patients rate of patients having received an antibiotic prescription for a suspicion of respiratory tract infection during the 3 weeks before hospitalization, comparing the group receiving antibiotics for a suspicion of COVID-19 surinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Is there a significant difference in the rate of patients having had at least one positive significant respiratory germ culture, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>rate of patients with significant positive respiratory cultures, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Is there a significant difference in the rate of patients needing oxygen supletion at day 1 of hospitalization, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>rate of patients with oxygen suppletion need, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean duration of hospitalization, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean duration of hospitalization on a COVID-ward, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the rate of ICU admission, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>rate of ICU admission, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Is there a significant difference in the mean value of oxygen saturation percentage over fractional oxygen percentage, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean SatO2/FiO2 ratio (number ranging from 50-500), comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Is there a significant difference in qSOFA score level at admission, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean/median qSOFA score at admission, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Is there a significant difference in the rate of lymphopenia, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>Rate of lymphopenia (&lt;1250/mcl), comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean value of C-reactive protein measured at day 1 of hospitalization on a COVID-ward ,comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean CRP values (mg/dl) at day 1 of hospitalization, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean value of white blood cell count measured at day 1 of hospitalization on a COVID-ward ,comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean WBC count (/mcl) values at day 1 of hospitalization, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean value of neutrophil count measured at day 1 of hospitalization on a COVID-ward ,comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean neutrophil count (/mcl) values at day 1 of hospitalization, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean value of lymphocyte count measured at day 1 of hospitalization on a COVID-ward ,comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean lymphocyte count (/mcl) values at day 1 of hospitalization, comparing the group receiving antibiotics for a suspicion of COVID-19 surinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean value of creatinine measured at day 1 of hospitalization on a COVID-ward ,comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean creatinine (mg/dl) values at day 1 of hospitalization, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean value of LDH measured at day 1 of hospitalization on a COVID-ward ,comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean LDH (U/L) values at day 1 of hospitalization, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean value of bilirubin measured at day 1 of hospitalization on a COVID-ward ,comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean bilirubin (mg/dl) values at day 1 of hospitalization, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean value of ferritin (first value during hospitalization),comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean ferritin (mcg/l) values, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean value of troponins (first value during hospitalization),comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean troponin (mcg/l) values, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>significant difference in the mean value of D-dimers (first value during hospitalization),comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics?</measure>
+    <time_frame>7 months</time_frame>
+    <description>mean D-dimer (ng/ml) values, comparing the group receiving antibiotics for a suspicion of COVID-19 superinfection and the group without antibiotics</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Antimicrobial Stewardship</condition>
+  <condition>Respiratory Tract Infections</condition>
+  <condition>Antibiotic Resistance</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Male and female patients fulfilling the above mentioned inclusion criteria, hospitalized on
+        a COVID-19 ward, having signed the informed consent form (ICF) by themselves or by one of
+        their legal representatives.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Men and women hospitalized in one of the COVID wards (no data will be collected during
+             a stay on the ICU department) of UZ Brussel for more than 24 hours and willing to sign
+             the informed consent form (or signed by one of their legal representative(s) if
+             unable).
+
+        Exclusion Criteria:
+
+          -  patients younger than 18 years old
+
+          -  patients not willing to sign the informed consent form
+
+          -  patients hospitalized for a shorter duration than 24 hours on a COVID-19 ward
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Johan Dr Van Laethem, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Principal Investigator</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Johan Dr Van Laethem, MD</last_name>
+    <phone>+3224779517</phone>
+    <phone_ext>+322</phone_ext>
+    <email>johan.vanlaethem@uzbrussel.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UZ Brussel</name>
+      <address>
+        <city>Brussel</city>
+        <zip>1090</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dora Mss Monteyne, nurse</last_name>
+      <phone>+3224776001</phone>
+      <phone_ext>+322</phone_ext>
+      <email>dora.monteyne@uzbrussel.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 10, 2020</study_first_posted>
+  <last_update_submitted>September 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universitair Ziekenhuis Brussel</investigator_affiliation>
+    <investigator_full_name>Johan Van Laethem</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>respiratory tract infection</keyword>
+  <keyword>antimicrobial stewardship</keyword>
+  <keyword>SARS-CoV infection</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Antibiotic resistance</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+    <mesh_term>Superinfection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

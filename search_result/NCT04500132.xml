@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="870">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04500132</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EC-18-C201</org_study_id>
+    <nct_id>NCT04500132</nct_id>
+  </id_info>
+  <brief_title>To Evaluate Safety and Efficacy of EC-18 in COVID-19 Infection to Pneumonia</brief_title>
+  <official_title>Phase 2, Multi-center, Randomized, Double-blind, Placebo- Controlled Study to Evaluate the Safety and Efficacy of EC-18 in COVID-19 Infection to Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Enzychem Lifesciences Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Enzychem Lifesciences Corporation</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prevention of COVID-19 infection to severe pneumonea or ARDS
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 28, 2020</start_date>
+  <completion_date type="Anticipated">May 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of transition to ARDS</measure>
+    <time_frame>14 days after starting IP administration</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>EC-18 Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>EC-18 QD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo EC-18 QD</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EC-18</intervention_name>
+    <description>EC-18 QD</description>
+    <arm_group_label>EC-18 Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo EC-18</intervention_name>
+    <description>Placebo EC-18 QD</description>
+    <arm_group_label>Placebo Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Signed informed consent
+
+          -  Male or female age 19 years or older
+
+          -  Pathologically confirmed diagnosis of COVID-19 Infection to Pneumonia
+
+        Exclusion Criteria:
+
+          -  Pathologically confirmed diagnosis of bacterial pneumonia or viral pneumonia
+
+          -  Pregnant or nursing at the time of signing informed consent
+
+          -  Known sensitivity to any study medication
+
+          -  Unwilling or unable to complete study diary
+
+          -  Any other condition or prior therapy that, in the opinion of the Investigator, would
+             make the subject unsuitable for the study or unable to comply with the protocol
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hyewon Jeong</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chungbuk National University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Enzychem Lifescience</last_name>
+    <phone>02-501-1084</phone>
+    <email>safetypv@enzychem.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chungbuk National University Hospital</name>
+      <address>
+        <city>Cheongju-si</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 5, 2020</study_first_posted>
+  <last_update_submitted>August 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

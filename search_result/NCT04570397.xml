@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2073">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04570397</url>
+  </required_header>
+  <id_info>
+    <org_study_id>092420</org_study_id>
+    <nct_id>NCT04570397</nct_id>
+  </id_info>
+  <brief_title>Ravulizumab and COVID-19</brief_title>
+  <official_title>C5 Complement Inhbition Using Ravulizumab for the Treatment of COVID-19 Induced Thrombotic Microangiopathy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Ultomiris (Ravulizumab), is a monoclonal antibody that specifically targets terminal
+      complement products and is proposed for the treatment of COVID-19 induced microvasculature
+      injury and endothelial damage leading to thrombotic microangiopathy (TMA) causing acute
+      kidney injury (AKI). Ravulizumab is to be used for participants with a confirmed diagnosis of
+      COVID-19 who clinically or diagnostically present with deteriorating renal function.
+      Ravulizumab causes immediate and sustained inhibition of the terminal complement cascade. The
+      use of ravulizumab could ameliorate COVID-19 induced kidney injury due to TMA, shorten
+      hospital stay, and improve the overall survival.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The novel coronavirus (COVID 19) is responsible for the current pandemic with the numbers of
+      diagnoses and fatalities rising daily. It is reported that of those requiring medical
+      intensive care almost 49% will expire prior hospital discharge. The initial peak of
+      hospitalized patients in Boston, MA occurred on April 15, 2020 however new presentations
+      continue to manifest at a local and national level.
+
+      The exact pathophysiology is still not clear. There are various theories that explain the
+      pathophysiology which includes but is not limited to direct viral damage via the
+      angiotensin-converting enzyme 2 receptor, systemic inflammatory response with cytokine storm,
+      and aggravated hypoxia.
+
+      Recently, it has been observed that signs and symptoms of severe COVID 19 describe
+      complement-mediated TMA rather than the sepsis induced coagulopathy. This strengthens the
+      hypothesis that complement inhibition by C5a inhibitor, Ultomiris (ravulizumab) could
+      ameliorate COVID 19 induced TMA, improve renal function, shorten the hospital stay and reduce
+      the overall mortality.
+
+      In those affected with severe or fatal COVID-19, there is evidence of end-organ damage with
+      acute kidney injury which has heightened the interest in studying the excessive cytokine
+      release and its overall effect in the form of multi-organ failure.
+
+      Ultomiris (Ravulizumab) is a long acting second generation monoclonal antibody against a
+      terminal complement product C5a and is FDA approved for the treatment of Paroxysmal Nocturnal
+      Hemoglobinuria (PNH) and atypical hemolytic uremic syndrome.The benefit of Ultomiris has not
+      been clinically evaluated in COVID 19 induced TMA.
+
+      Recently, ravulizumab has been utilized in the setting of a phase 3 clinical trial for the
+      treatment of COVID 19 induced pneumonia, acute lung injury and acute respiratory distress. As
+      it binds to C5 and impedes the cleavage of C5 by C5 convertase to generate C5a and membrane
+      attack complex, ravulizumab could possibly improve the renal function in COVID 19 induced TMA
+      and potentially improve overall survival, due to similar pathophysiology in the
+      microvasculature of the kidney. More so, studies are being conducted to determine renal and
+      cardiovascular sequelae of COVID-19 infection, which further enhances the interest to closely
+      examine and evaluate those patients presenting 30-60 days after COVID-19 infection with signs
+      of renal failure. There remains an unmet clinical need to investigate this approach with a
+      randomized controlled trial to determine if complement cascade inhibition can improve the
+      clinical outcome for COVID 19 induced acute kidney injury as measured by improvement of renal
+      function and decline in the overall morbidity and mortality.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2020</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assess the efficacy of ravulizumab to ameliorate SARS-CoV-2 (COVID-19)-induced acute kidney injury manifesting as thrombotic microangiopathy.</measure>
+    <time_frame>30 days</time_frame>
+    <description>50% improvement in estimated glomerular filtration rate compared to conventional therapy within 30 days of treatment for COVID-19-induced acute kidney injury.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of pharmacokinetics of ravulizumab in participants with COVID-19</measure>
+    <time_frame>120 days</time_frame>
+    <description>Evaluation of pharmacokinetics of ravulizumab in participants with COVID-19 Changes in ravulizumab concentration in plasma</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">32</enrollment>
+  <condition>Covid19</condition>
+  <condition>Thrombotic Microangiopathies</condition>
+  <condition>Acute Kidney Injury</condition>
+  <arm_group>
+    <arm_group_label>Interventional arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ravulizumab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>patients in this arm will recieve standard care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ravulizumab</intervention_name>
+    <description>Patients will receive weight-based dosing of ravulizumab on Days 1, 5, 10, and 15 along with the standard care.</description>
+    <arm_group_label>Interventional arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Males or Females 18 years of age or above and weighing 40kg or above at the time of
+             providing informed consent.
+
+          2. A clinical diagnosis of thrombotic microangiopathy will then be applied to include the
+             following criteria: i) D-dimer &gt; 100% the upper limit of the reference range and ii)
+             serum creatinine &gt;25% of the normal range or iii) &gt;25% increase from patient's
+             baseline serum creatinine.
+
+          3. Diagnosis of SARS-CoV-2 infection within 90 days prior to enrollment
+
+        Exclusion Criteria:
+
+          1. Participant is not expected to survive more than 24 hours.
+
+          2. Participant has an unresolved Neisseria Meningitides infection.
+
+          3. Hypersensitivity to murine proteins or to one of the excipients of ravulizumab.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Andrew M Siedlecki, M.D</last_name>
+    <phone>13148092879</phone>
+    <email>asiedlecki@partners.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Aliza Anwar Memon, M.B.B.S</last_name>
+    <phone>3479824073</phone>
+    <email>aamemon@bwh.harvard.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Andrew M Siedlecki, M.D</last_name>
+      <phone>314-809-2879</phone>
+      <email>asiedlecki@partners.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Aliza Anwar Memon, M.B.B.S</last_name>
+      <phone>3479824073</phone>
+      <email>aamemon@bwh.harvard.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andrew M Siedlecki, M.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aliza Anwar Memon, M.B.B.S</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>Andrew Michael Siedlecki</investigator_full_name>
+    <investigator_title>asistant professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Kidney Injury</mesh_term>
+    <mesh_term>Thrombotic Microangiopathies</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ravulizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

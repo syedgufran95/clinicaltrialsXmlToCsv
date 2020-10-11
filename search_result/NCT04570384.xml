@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3269">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04570384</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CIT-COVID19-002-01</org_study_id>
+    <nct_id>NCT04570384</nct_id>
+  </id_info>
+  <brief_title>Intravenous L-Citrulline to Delay and Potentially Prevent the Need for Invasive Mechanical Ventilation for Acute Hypoxemic Respiratory Failure in Patients With COVID-19 (SARS-CoV-2) Illness</brief_title>
+  <official_title>Prospective, Randomized, Double-Blind, Placebo-Controlled Phase II Trial of Intravenous L-Citrulline to Delay and Potentially Prevent the Need for Invasive Mechanical Ventilation for Acute Hypoxemic Respiratory Failure in Patients With COVID-19 (SARS-CoV-2) Illness</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Asklepion Pharmaceuticals, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Asklepion Pharmaceuticals, LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prospective, Randomized, Double-Blind, Placebo-Controlled Phase II Trial of Intravenous
+      L-Citrulline to Delay and Potentially Prevent the Need for Invasive Mechanical Ventilation
+      for Acute Hypoxemic Respiratory Failure in Patients with COVID-19 (SARS-CoV2) Illness. To
+      evaluate safety and efficacy of a bolus loading dose and continuous intravenous infusion of
+      L-Citrulline compared to placebo in patients hospitalized with COVID-19 infection
+      (SARS-CoV-2).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Intravenous L-citrulline administration will safely restore the homeostasis of nitric oxide
+      synthase by increasing both plasma citrulline and arginine levels. Investigators also reason
+      that restoration of citrulline/arginine balance through citrulline administration will safely
+      re-establish homeostasis of NOS, lower oxidative stress, and reduce inflammation, thereby
+      delaying and potentially preventing the need for invasive mechanical ventilation in
+      participants hospitalized with COVID-19 infection (SARS-CoV-2). The body lives in a delicate
+      balance of homeostasis. The urea/NO cycle plays a critical role in maintaining redox
+      homeostasis and as such, also plays a role in regulating inflammation. The biochemical
+      relationships are complex and depend on inter-organ transfer, membrane transport, and
+      intracellular compartmentation. However, data above demonstrate that citrulline, arginine,
+      and NO are critical in maintaining this homeostasis through their regulation of NOS.
+      Inflammation, especially from infection, results in decreased activity of CPS1 and increased
+      activity of arginase, which decreases levels of both citrulline and arginine. These decreased
+      levels result in dysregulated and uncoupled NOS, which drives both overexuberant NO
+      production and formation of ROS. Both the NO production and ROS further exacerbate the
+      inflammatory cascade, resulting in other organ dysfunctions, including acute lung injury.
+      Both inflammation and oxidative stress have been shown to be driving forces for the
+      development of ALI and regulated NOS function is vital to reducing both. Both plasma
+      citrulline and arginine are deficient in sepsis and levels are inversely associated with
+      development of ALI. Furthermore, citrulline replacement safely increases plasma levels of
+      both citrulline and arginine in healthy volunteers, BMT patients, adults with sepsis,
+      children with sickle cell disease, and children after congenital heart surgery. It seems
+      highly likely that citrulline therapy in the setting of COVID-19 (SARS-CoV2) induced acute
+      hypoxemic respiratory illness will safely increase citrulline and arginine levels and help
+      re-establish NOS homeostasis, resulting in NO production in compartments that are more
+      homeostatically appropriate so as to reduce pulmonary vascular resistance and enhance
+      coupling of NOS to minimize superoxide production thus reducing free radical mediated ALI.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 28, 2020</start_date>
+  <completion_date type="Anticipated">December 28, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 28, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Placebo controlled and Active Drug</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double Blind Clinical Trial</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary Biochemical Objective to measure levels of citrulline and arginine in the Blood</measure>
+    <time_frame>Day 1 through Day 60 Follow up</time_frame>
+    <description>The primary biochemical objective of this trial is to evaluate the effects of intravenous L-Citrulline on plasma levels of citrulline and arginine in patients admitted to the hospital with COVID-19 infection (SARS-CoV2) and acute hypoxemic respiratory symptoms requiring oxygen therapy. An association of plasma amino acid levels to clinical outcomes may serve as surrogate marker for response. Also measured is time on vent and time in ICU along with hospital stay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The primary safety objective is a beneficial effect of intravenous L-Citrulline on hemodynamic status.</measure>
+    <time_frame>Day 1 through Day 10</time_frame>
+    <description>Hemodynamic measurements will be converted to a vasopressor dependency index (VDI) for analysis through day 10</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Primary Clinical Objective</measure>
+    <time_frame>Day 1 through day 60 Follow-up</time_frame>
+    <description>The primary clinical objective is to evaluate the difference in the length of time to an intubation event in hours from the start of study infusion between the study arms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the Safety of L-Citrulline</measure>
+    <time_frame>Day 1 through Day 60 Follow-up</time_frame>
+    <description>To evaluate the safety of intravenous L-Citrulline compared to placebo as measured by incidence of reported adverse events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the effect of intravenous L-Citrulline compared to placebo as measured by the total length of all mechanical ventilation</measure>
+    <time_frame>Dat 1 through Day 12</time_frame>
+    <description>To evaluate the effect of intravenous L-Citrulline compared to placebo as measured by the total length of all mechanical ventilation, including non-invasive modalities such as high flow nasal cannula and BiPAP and oxygen therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the Effect of IV L-Citrulline to Placebo for Hospital all cause mortality</measure>
+    <time_frame>Day 1 through day 12</time_frame>
+    <description>To evaluate the effect of intravenous L-Citrulline compared to placebo on Hospital all-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the Effect of IV L-Citrulline to Placebo on length of ICU and Hospital Stay</measure>
+    <time_frame>Day 1 through Day 12 (DC)</time_frame>
+    <description>To evaluate the effect of intravenous L-Citrulline compared to placebo on lengths of ICU and hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate overall difference in intubation rates</measure>
+    <time_frame>Day 1 to Day 10</time_frame>
+    <description>To evaluate overall difference in intubation rates</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate overall duration of mechanical ventilation from consent and post-infusion</measure>
+    <time_frame>Day 1 through day 10</time_frame>
+    <description>To evaluate overall duration of mechanical ventilation from consent and post-infusion</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Acute Hypoxemic Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>IV L-Citrulline Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients randomized to citrulline will receive an initial intravenous bolus of 20 mg/kg (to a maximum of 1500 mg) L-citrulline over 10 minutes. The study solution will be prepared as a 5% isotonic solution (50 mg/mL) in 5% dextrose water. Immediately after the initial bolus, a continuous intravenous infusion of L-citrulline at 9 mg/kg (max 700 mg) per hour will be administered through a dedicated intravenous line or port of a multi-lumen catheter.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients randomized to placebo arm will receive an infusion of 5% dextrose water matched for volume and color to the citrulline infusion. The placebo infusion will consist of an initial iv bolus (up to 30 mL) over 10 minutes followed by a continuous infusion of 5% dextrose water (about 15 mL/hr). The initial bolus and subsequent infusion will be administered through a dedicated intravenous line or port of a multi-lumen catheter.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>L-Citrulline</intervention_name>
+    <description>L-Citrulline for Injection. Patients will receive an initial bolus of 20 mg/kg (maximum 1500 mg), followed by study infusion of 9 mg/kg per hour (maximum 700mg) for up to 10 days.</description>
+    <arm_group_label>IV L-Citrulline Arm</arm_group_label>
+    <other_name>L-CIT, CIT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Patients randomized to placebo will receive equal volume bolus and study infusion of 5% dextrose water for a maximum of 10 days.</description>
+    <arm_group_label>Placebo Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Age 18-65 years.
+
+          2. Clinical evidence of COVID-19 (SARS-CoV2) infection, defined as a positive COVID-19
+             laboratory test plus evidence of an acute hypoxemic respiratory illness requiring
+             oxygen.
+
+          3. Admitted and transferred to floor without intubation.
+
+        Exclusion Criteria:
+
+          1. No consent/inability to obtain consent
+
+          2. Patient, surrogate, or physician not committed to full support
+
+          3. Malignant or other irreversible condition and estimated 28-day mortality ≥ 50%
+
+          4. Moribund patient not expected to survive 48 hours (as defined by primary medical team)
+             from start of study infusion
+
+          5. End-stage Liver Disease as defined by Child-Pugh Score &gt; 9
+
+          6. Currently enrolled in, or participated in another study of an investigational compound
+             within the last 30 days
+
+          7. Pregnant female, or female who is breast feeding
+
+          8. Allergy to L-citrulline or arginine or any citrulline- or arginine-containing product
+
+          9. Patient not otherwise suitable for the study in the opinion of any of the
+             investigators
+
+         10. Requirement for intubation and invasive mechanical ventilation before study enrollment
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gurdyal Kalsi, MD, MFPM</last_name>
+    <role>Study Director</role>
+    <affiliation>Asklepion Pharmaceuticals, LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gurdyal Kalsi, MD, MFPM</last_name>
+    <phone>4107363750</phone>
+    <email>gurdyal.kalsi@asklepionpharm.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Vincent Elliott</last_name>
+    <phone>4432559794</phone>
+    <email>vincent.elliott@asklepionpharm.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Arkansas for Medical Sciences</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Study Site Contact</last_name>
+      <phone>501-398-8622</phone>
+      <email>TRIcoordinators@uams.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Nikhil K Meena, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael P Wilson, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

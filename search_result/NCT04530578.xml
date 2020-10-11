@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1034">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04530578</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CSanCamilo</org_study_id>
+    <nct_id>NCT04530578</nct_id>
+  </id_info>
+  <brief_title>Nebulized Heparin in Severe Acute Respiratory Syndrome COVID-19</brief_title>
+  <acronym>NEBUHEPA</acronym>
+  <official_title>Efficacy and Safety Study to Evaluate the Use of Nebulized Heparin in Patients With Severe Acute Respiratory Syndrome Covid-19 (SARS-CoV-2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clinica San Camilo, Argentina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Clinica San Camilo, Argentina</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety and efficacy of the use of inhalational heparin in patients with
+      pulmonary compromise / pneumonia / SARS associated with COVID-19, laboratory with marked
+      inflammation parameters, and prothrombotic state secondary to it (Fibrinogen, Ferritin and /
+      or elevated D-Dimer) , from admission to hospitalization.
+
+      The combination of inhalation heparin combined with prophylactic doses of LMWH could reduce
+      the progression to severe forms of the disease, and consequently the need for intensive care
+      units and mechanical ventilation.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The emergency of COVID-19 requires the urgent development of strategies to avoid the impact
+      of the disease on our population, the saturation of the health system and the mortality of
+      the disease.
+
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was first reported in Wuhan,
+      Hubei province, China and has subsequently spread to the world population. Factors associated
+      with the development of SARS and its mortality include advanced age, lymphopenia, organ
+      dysfunction, and bleeding disorders.
+
+      Different manifestations have been described (deep vein thrombosis, pulmonary
+      thromboembolism, digital ischemia and cerebral infarcts), and different mechanisms, such as
+      the presence of antiphospholipid antibodies in COVID-19. There is evidence of the presence of
+      a hypercoagulable state in the majority of deaths from SARS associated with COVID -19.
+
+      Increased plasma D-dimer concentrations is a common finding and also appears to be an
+      independent predictor of mortality. These patients and those who meet criteria for
+      sepsis-induced coagulopathy (SIC) would benefit from anticoagulant therapy primarily with low
+      molecular weight heparin (LMWH).
+
+      Antithrombotic therapies have been used in clinical practice for almost a century. In
+      clinical practice, unfractionated heparin (UFH) and heparin derivatives remain the
+      predominant antithrombotic therapies administered parenterally.
+
+      Heparin binds to antithrombin III (AT-III), a plasma glycoprotein, and to a small extent also
+      to the heparin II cofactor. The result of this binding produces a conformational change and a
+      strong increase in the inhibitory effect of thrombin, which becomes approximately 1000 times
+      more potent than before. Other targets of heparin on coagulation are the inhibition or
+      reduced activation of factors V, VIII and IX and the inhibition of thrombocyte function, due
+      to a nonspecific binding of platelet factor IV.
+
+      However, heparin is a drug not only with anticoagulant properties, it has many other
+      properties (interaction with growth factors, regulation of cell proliferation and
+      angiogenesis, modulation of proteases and antiproteases), making it an interesting subject of
+      research in the field of inflammation, allergy and immunology, interstitial lung fibrosis and
+      oncology. Inhalation of heparin produces local anti-inflammatory and antifibrotic effects .
+      In addition, possible effects have been described to prevent viral infection, including
+      coronaviridae . It was describes the capacity of SARS-CoV-2 S1 RBD to bind heparin. Such
+      binding capacity is an important prerequisite for research related to the development of
+      SARS-CoV-2 unfractionated heparin therapeutic inhalation Experimental studies of inhaled UFH
+      in healthy subjects showed that doses of less than 32,000 IU of UFH through the lower
+      respiratory tract were safe. In a prospective cohort study in young adults, Harenberg
+      determined that the inhaled dose of LMWH had to be 10 times greater than that administered
+      subcutaneously to achieve similar levels of anti-factor Xa assay.
+
+      Considering the role of coagulopathy and inflammation in the induction of ventilator-induced
+      lung injury, nebulized heparin improved lung function in ventilated patients, equivalent to
+      the use of corticosteroids. It has also been compared with other interventions to stimulate
+      the fibrinolysis or block coagulation to suppress the inflammatory response and reduce lung
+      injury in adult acute respiratory distress syndrome .
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Controled, prospective, randomized, comparative against standard treatment.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of patients requirement mechanical ventilation</measure>
+    <time_frame>15 days</time_frame>
+    <description>Blood Gas criteria :PaO2 / FiO2 &lt;200 (or the inability to maintain an SpO2 of at least 92% with a reservoir mask).
+Acute ventilatory failure (pH less than 7.35 with PaCO2 greater than 45 mmHg)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients with PaO2 to Fi02 ratio &gt; 300</measure>
+    <time_frame>7 days</time_frame>
+    <description>Mean every 48 hours PaO2 to FiO2 ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lengths of hospital-stay</measure>
+    <time_frame>Days 60</time_frame>
+    <description>To compare the lengths of hospital-stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate</measure>
+    <time_frame>30 days</time_frame>
+    <description>All cause mortality</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <condition>Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>NEBULIZED HEPARIN</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nebulized Heparin (UNF)5000 IU in Saline Solution1 ml every 8 hours plus Enoxaparine 40mg /d or 60mg/d, adjusted by BMI and calculated creatinine clearance .
+Device to nebulize without producing aerosolization:
+To nebulized heparin we have a modified a fullface snorkel mask, in which instead of the discharge valve a connector for the Venturi has been placed, and in the air outlet / inlet of the snorkel it has been adapted a connector made with 3D printing for the insertion of a disposable antiviral filter (filters commonly used in Mechanical Respiratory Assistance devices).
+The mask is made of materials that allow its sterilization with the STERRAT Hydrogen Peroxide plasma system, available at the institution.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Enoxaparine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Enoxaparin 40mg/d or 60mg/d adjusted by BMI and calculated creatinine clearance</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Heparin sodium</intervention_name>
+    <description>Nebulized Heparin every 8 hours plus Subcutaneous Enoxaparin every 24hours</description>
+    <arm_group_label>NEBULIZED HEPARIN</arm_group_label>
+    <other_name>UNFRACTION HEPARIN</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Enoxaparin</intervention_name>
+    <description>Subcutaneous Enoxaparine every 24 hours</description>
+    <arm_group_label>Enoxaparine</arm_group_label>
+    <arm_group_label>NEBULIZED HEPARIN</arm_group_label>
+    <other_name>Low Molecular Weight Heparin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Persons over 18 years of age of any sex admitted with a diagnosis of a suspected case
+             of COVID-19, in accordance with the definition of the Ministry of Health of the Nation
+             (MSal) as of May 20, 2020, who present at the time of admission or in its evolution
+             pulmonary infiltrates compatible with imaging studies (chest X-ray or chest CT) and at
+             least one of the following biochemical parameters of systemic inflammation:
+
+               -  D DIMER over 1.0 ug/dl
+
+               -  Ferritin over 500 ng/ml
+
+               -  Fibrinogen over 500 mg/dl
+
+        Exclusion Criteria:
+
+          -  Under 18 years old
+
+          -  Pregnant women
+
+          -  Known allergy to Heparin
+
+          -  Participant in another clinical trial that is not approved for joint enrollment.
+
+          -  APTT&gt; 120 seconds, not due to anticoagulant therapy.
+
+          -  Platelet count &lt;20 x 109 per L
+
+          -  Lung bleeding.
+
+          -  Uncontrolled bleeding
+
+          -  Advanced neurological impairment
+
+          -  Advanced oncological disease
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>ALICIA B VILASECA, DR</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CLINICA SAN CAMILO</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ALICIA B VILASECA, DR</last_name>
+    <phone>+5401148588144</phone>
+    <phone_ext>244</phone_ext>
+    <email>avilaseca@clinicasancamilo.org.ar</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ruben F Barbera, DR</last_name>
+    <phone>+5401148588199</phone>
+    <email>rbarbera@clinicasancamilo.org.ar</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clinica San Camilo</name>
+      <address>
+        <city>Ciudad Autonoma de Buenos Aire</city>
+        <state>Buenos Aires</state>
+        <zip>1405</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>ALICIA B VILASECA, DR</last_name>
+      <phone>+54 91160993060</phone>
+      <email>avilaseca@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>RUBEN F BARBERA, DR</last_name>
+      <phone>+541148588198</phone>
+      <email>RBARBERA@CLINICASANCAMILO.ORG.AR</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <reference>
+    <citation>Zhou Y, Zhang Z, Tian J, Xiong S. Risk factors associated with disease progression in a cohort of patients infected with the 2019 novel coronavirus. Ann Palliat Med. 2020 Mar;9(2):428-436. doi: 10.21037/apm.2020.03.26. Epub 2020 Mar 17.</citation>
+    <PMID>32233642</PMID>
+  </reference>
+  <reference>
+    <citation>Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng J, Song Y. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med. 2020 Jul 1;180(7):934-943. doi: 10.1001/jamainternmed.2020.0994.</citation>
+    <PMID>32167524</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang Y, Xiao M, Zhang S, Xia P, Cao W, Jiang W, Chen H, Ding X, Zhao H, Zhang H, Wang C, Zhao J, Sun X, Tian R, Wu W, Wu D, Ma J, Chen Y, Zhang D, Xie J, Yan X, Zhou X, Liu Z, Wang J, Du B, Qin Y, Gao P, Qin X, Xu Y, Zhang W, Li T, Zhang F, Zhao Y, Li Y, Zhang S. Coagulopathy and Antiphospholipid Antibodies in Patients with Covid-19. N Engl J Med. 2020 Apr 23;382(17):e38. doi: 10.1056/NEJMc2007575. Epub 2020 Apr 8.</citation>
+    <PMID>32268022</PMID>
+  </reference>
+  <reference>
+    <citation>Tang N, Bai H, Chen X, Gong J, Li D, Sun Z. Anticoagulant treatment is associated with decreased mortality in severe coronavirus disease 2019 patients with coagulopathy. J Thromb Haemost. 2020 May;18(5):1094-1099. doi: 10.1111/jth.14817. Epub 2020 Apr 27.</citation>
+    <PMID>32220112</PMID>
+  </reference>
+  <reference>
+    <citation>Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia. J Thromb Haemost. 2020 Apr;18(4):844-847. doi: 10.1111/jth.14768. Epub 2020 Mar 13.</citation>
+    <PMID>32073213</PMID>
+  </reference>
+  <reference>
+    <citation>Monagle K, Ryan A, Hepponstall M, Mertyn E, Monagle P, Ignjatovic V, Newall F. Inhalational use of antithrombotics in humans: Review of the literature. Thromb Res. 2015 Dec;136(6):1059-66. doi: 10.1016/j.thromres.2015.10.011. Epub 2015 Oct 9. Review.</citation>
+    <PMID>26475409</PMID>
+  </reference>
+  <reference>
+    <citation>Page C. Heparin and related drugs: beyond anticoagulant activity. ISRN Pharmacol. 2013 Jul 30;2013:910743. doi: 10.1155/2013/910743. eCollection 2013.</citation>
+    <PMID>23984092</PMID>
+  </reference>
+  <reference>
+    <citation>Scazziota A. Pons S. Heparin effects beyond antithrombotic activity. Hematología Volumen 21 Nº Extraordinario: 166175 XXIII Congreso Argentino de Hematología Noviembre 2017</citation>
+  </reference>
+  <reference>
+    <citation>Shastri MD, Peterson GM, Stewart N, Sohal SS, Patel RP. Non-anticoagulant derivatives of heparin for the management of asthma: distant dream or close reality? Expert Opin Investig Drugs. 2014 Mar;23(3):357-73. doi: 10.1517/13543784.2014.866092. Epub 2014 Jan 3. Review.</citation>
+    <PMID>24387080</PMID>
+  </reference>
+  <reference>
+    <citation>Trybala E, Liljeqvist JA, Svennerholm B, Bergström T. Herpes simplex virus types 1 and 2 differ in their interaction with heparan sulfate. J Virol. 2000 Oct;74(19):9106-14.</citation>
+    <PMID>10982357</PMID>
+  </reference>
+  <reference>
+    <citation>Courtney Mycroft-West, Dunhao Su, Stefano Elli , Scott Guimond,Gavin Miller, Jeremy Turnbull , Edwin Yates , Marco Guerrini , David Fernig , Marcelo Lima and Mark Skidmore. The 2019 coronavirus (SARS-CoV-2) surface protein (Spike) S1 Receptor Binding Domain undergoes conformational change upon heparin binding. bioRxiv preprint doi: https://doi.org/10.1101/2020.02.29.971093.This version posted March 2, 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Scheuch G, Brand P, Meyer T, Herpich C, Müllinger B, Brom J, Weidinger G, Kohlhäufl M, Häussinger K, Spannagl M, Schramm W, Siekmeier R. Anticoagulative effects of the inhaled low molecular weight heparin certoparin in healthy subjects. J Physiol Pharmacol. 2007 Nov;58 Suppl 5(Pt 2):603-14.</citation>
+    <PMID>18204174</PMID>
+  </reference>
+  <reference>
+    <citation>Yildiz-Pekoz A, Ozsoy Y. Inhaled Heparin: Therapeutic Efficacy and Recent Formulations. J Aerosol Med Pulm Drug Deliv. 2017 Jun;30(3):143-156. doi: 10.1089/jamp.2015.1273. Epub 2017 Apr 18. Review.</citation>
+    <PMID>28418758</PMID>
+  </reference>
+  <reference>
+    <citation>Bendstrup KE, Gram J, Jensen JI. Effect of inhaled heparin on lung function and coagulation in healthy volunteers. Eur Respir J. 2002 Apr;19(4):606-10.</citation>
+    <PMID>11998987</PMID>
+  </reference>
+  <reference>
+    <citation>Harenberg J, Malsch R, Angelescu M, Lange C, Michaelis HC, Wolf H, Heene DL. Anticoagulant effects and tissue factor pathway inhibitor after intrapulmonary low-molecular-weight heparin. Blood Coagul Fibrinolysis. 1996 Jun;7(4):477-83.</citation>
+    <PMID>8840001</PMID>
+  </reference>
+  <reference>
+    <citation>Ghiasi F, Sadeghian M, Emami M, Kiaie BA, Mousavi S. A Pilot Study of Nebulized Heparin for Prevention of Ventilator Induced Lung Injury: Comparative Effects with an Inhaled Corticosteroid. Indian J Crit Care Med. 2017 Oct;21(10):634-639. doi: 10.4103/ijccm.IJCCM_183_17.</citation>
+    <PMID>29142373</PMID>
+  </reference>
+  <reference>
+    <citation>Abdelaal Ahmed Mahmoud A, Mahmoud HE, Mahran MA, Khaled M. Streptokinase Versus Unfractionated Heparin Nebulization in Patients With Severe Acute Respiratory Distress Syndrome (ARDS): A Randomized Controlled Trial With Observational Controls. J Cardiothorac Vasc Anesth. 2020 Feb;34(2):436-443. doi: 10.1053/j.jvca.2019.05.035. Epub 2019 May 27.</citation>
+    <PMID>31262641</PMID>
+  </reference>
+  <reference>
+    <citation>Dixon B, Schultz MJ, Smith R, Fink JB, Santamaria JD, Campbell DJ. Nebulized heparin is associated with fewer days of mechanical ventilation in critically ill patients: a randomized controlled trial. Crit Care. 2010;14(5):R180. doi: 10.1186/cc9286. Epub 2010 Oct 11.</citation>
+    <PMID>20937093</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Clinica San Camilo, Argentina</investigator_affiliation>
+    <investigator_full_name>DRA ALICIA BEATRIZ VILASECA</investigator_full_name>
+    <investigator_title>CHIEF OF HEMATOLOGY SERVICE</investigator_title>
+  </responsible_party>
+  <keyword>nebulized heparin pneumonia COVID 19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+    <mesh_term>Calcium heparin</mesh_term>
+    <mesh_term>Enoxaparin</mesh_term>
+    <mesh_term>Heparin, Low-Molecular-Weight</mesh_term>
+    <mesh_term>Tinzaparin</mesh_term>
+    <mesh_term>Dalteparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

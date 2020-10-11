@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="708">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04529447</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JMA-CT-2020-01</org_study_id>
+    <nct_id>NCT04529447</nct_id>
+  </id_info>
+  <brief_title>Response of Korean Medicine Hospital to COVID-19</brief_title>
+  <official_title>Hospital Operational Response Strategy and Experience During the COVID-19 Pandemic in a Spine-specialty Korean Medicine Training Hospital</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jaseng Hospital of Korean Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Jaseng Medical Academy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Jaseng Hospital of Korean Medicine</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objectives of this study are to report the response strategy to prevent COVID-19 spread
+      implemented at a Korean medicine hospital, and the satisfaction survey results regarding its
+      preventive measures.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The objectives of this study are (1) to report the response strategy to prevent COVID-19
+      spread implemented at a Korean medicine hospital situated in Seoul, Korea, (2) to describe
+      patient visit trends compared to the number of confirmed COVID-19 cases during the COVID-19
+      peak in February - April 2020, and (3) to provide results of a satisfaction survey regarding
+      its preventive measures.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 10, 2020</start_date>
+  <completion_date type="Actual">August 10, 2020</completion_date>
+  <primary_completion_date type="Actual">August 10, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Satisfactory service regarding hospital response to COVID-19</measure>
+    <time_frame>Baseline (time of current visit)</time_frame>
+    <description>Multiple choice question on satisfactory service regarding hospital response to COVID-19, if any</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Feelings of apprehension regarding hospital visits</measure>
+    <time_frame>Baseline (time of current visit)</time_frame>
+    <description>Likert scale question on level of feelings of apprehension before hospital visits due to COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical staff wearing of facial masks and hand hygiene</measure>
+    <time_frame>Baseline (time of current visit)</time_frame>
+    <description>Likert scale question on level of maintenance of wearing of facial masks and hand hygiene in medical staff</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cleanliness and sterilization of hospital facilities</measure>
+    <time_frame>Baseline (time of current visit)</time_frame>
+    <description>Likert scale question on level of cleanliness and sterilization of hospital facilities with regard to COVID-19 spread prevention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Convenience and accessibility of hand sanitizers</measure>
+    <time_frame>Baseline (time of current visit)</time_frame>
+    <description>Likert scale question on level of convenience and accessibility of hand sanitizers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Helpfulness and readability of posters and stand-up banners</measure>
+    <time_frame>Baseline (time of current visit)</time_frame>
+    <description>Likert scale question on level of helpfulness and readability of posters and stand-up banners with COVID-19 information in the hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Satisfaction with hospital safety measures for COVID-19</measure>
+    <time_frame>Baseline (time of current visit)</time_frame>
+    <description>Likert scale question on level of satisfaction with hospital safety measures for COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Recommendation of hospital to friends and family</measure>
+    <time_frame>Baseline (time of current visit)</time_frame>
+    <description>Likert scale question on level of recommendation of this hospital to friends and family concerned with visiting hospitals due to COVID-19</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">485</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Patient satisfaction survey</arm_group_label>
+    <description>Jaseng Hospital of Korean medicine conducted a pen and paper survey on patient satisfaction with regard to its COVID-19 response in inpatients hospitalized and outpatients visiting during March 23-25, 2020.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Survey</intervention_name>
+    <description>The patient satisfaction survey consisted of 8 items, including 7 Likert scale questions and 1 multiple choice question.</description>
+    <arm_group_label>Patient satisfaction survey</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Inpatients hospitalized and outpatients visiting Jaseng Hospital of Korean medicine during
+        March 23-25, 2020
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Inpatients hospitalized at Jaseng Hospital of Korean medicine during March 23-25, 2020
+
+          -  Outpatients visiting Jaseng Hospital of Korean medicine during March 23-25, 2020
+
+        Exclusion Criteria:
+
+          -  Visitors visiting Jaseng Hospital of Korean medicine during March 23-25, 2020 for
+             purposes other than treatment
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jinho Lee, KMD, Ph.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>Jaseng Hospital of Korean Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Jaseng Hospital of Korean Medicine</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06110</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 27, 2020</study_first_posted>
+  <last_update_submitted>August 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

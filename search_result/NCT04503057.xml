@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2680">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04503057</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PEx ARDS</org_study_id>
+    <nct_id>NCT04503057</nct_id>
+  </id_info>
+  <brief_title>Exhaled Breath Particles as a Clinical Indicator for Lung Injury and Acute Respiratory Distress Syndrome (ARDS)</brief_title>
+  <official_title>Exhaled Breath Particles as a Clinical Indicator for Acute Lung Injury (ALI) and Acute Respiratory Distress Syndrom (ARDS) in COVID-19 Positive and Negative Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lund University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lund University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute Respiratory Distress Syndrome (ARDS) reflects the hallmark of the critical course of
+      COVID19. We have recently shown that Exhaled Breath Particles (EBP) measured as particle
+      flowrate (PFR) from the airways could be used as a noninvasive real time early detection
+      method for primary graft dysfunction (similar to ARDS) in lung transplant patients and for
+      ARDS in a large animal model. PFR increased before the cytokine storm. Early detection of ALI
+      and ARDS is crucial for the patient's chance of survival as early treatment, such as
+      preparing for intensive care, prone position and protective ventilation when the patient is
+      treated in mechanical ventilation, can be implemented early in the process. In the present
+      study we aim to use real time PFR as an early detector for COVID19 induced ARDS. We will also
+      collect EBPs onto a membrane for subsequent molecular analysis. Previous studies have shown
+      that most of those proteins found in broncho alveolar lavage (BAL) are also found in EBP. We
+      therefore also aim to be able to diagnose COVID19 by analyzing EBP using PCR with the same
+      specificity as PCR from BAL, but also to identify protein biomarkers for early detection of
+      ARDS.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      EBP will be measured on 100 patients with COVID-19 positive patients. Measurement will be
+      done on daily bases from the time the patient is treated as&quot; in patients&quot; until discharge or
+      to the transition to ICU care and initiation of mechanical ventilation to follow the EBP
+      pattern over time course of the disease. EBP measurements will also be done on 100 patients
+      without COVID19 infection with normal lung function as a control cohort.
+
+      Measurements on patients with mechanical ventilation in the ICU. To reduce the need of
+      invasive diagnostics and in hospital transportation for diagnostics with a high risk of
+      infecting other patients and staff in the environment, but also to measure the extent of lung
+      injury over time, EBP will be measured at daily bases to follow the EBP pattern on patients
+      in mechanical ventilation. Preclinical studies have shown that EBP can measure the extent of
+      lung injury over time (onset of ARDS and recovery (unpublished data)) Method: EBP will be
+      measured on 100 patients in mechanical ventilation at the intensive care on daily bases to
+      follow the EBP pattern over time.
+
+      Measurements will be done on patients in mechanical ventilation on ECMO (extra corporal
+      membrane oxygenation) support.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">May 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>12 Months</target_duration>
+  <primary_outcome>
+    <measure>COVID-19 RT-PCR detection in EBP</measure>
+    <time_frame>12-36 months</time_frame>
+    <description>Detect COVID-19 in EBP using RT-PCR</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Detection of proteins biomarkers in EBP</measure>
+    <time_frame>12-36 months</time_frame>
+    <description>Detection of proteins biomarkers in EBP</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Particle flow rate as an early indicator for lung injury</measure>
+    <time_frame>12-36 months</time_frame>
+    <description>We have recently shown that Exhaled Breath Particles (EBP) measured as particle flowrate (PFR) from the airways could be used as a noninvasive real time early detection method for primary graft dysfunction (similar to ARDS) in lung transplant patients and for ARDS in a large animal model. PFR increased before the cytokine storm. Early detection of ALI and ARDS is crucial for the patient's chance of survival as early treatment, such as preparing for intensive care, prone position and protective ventilation when the patient is treated in mechanical ventilation, can be implemented early in the process. In the present study we aim to use real time PFR as an early detector for COVID19 induced ARDS.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <condition>ARDS, Human</condition>
+  <condition>ALI</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 positive</arm_group_label>
+    <description>Positive COVID-19 patients with pulmonary infection, ALI or ARDS</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 negative</arm_group_label>
+    <description>Negative COVID-19 patients with pulmonary infection, ALI or ARDS</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples, broncho alveolar lavage sample, exhaled breath particles
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with pulmonary infection, ALI or ARDS. Patients in mechanical ventilation. Normal
+        breathing patients. Patients on ECMO support.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients with pulmonary infection, ALI or ARDS who are COVID-19 positive in PCR Patients
+        with pulmonary infection, ALI or ARDS who are COVID-19 negative
+
+        Exclusion Criteria:
+
+        Dementia or other severe neurological disease
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Sandra Lindstedt Ingemansson, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Region Skåne, Lund University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sandra Lindstedt Ingemansson, MD, PhD</last_name>
+    <phone>+46737220580</phone>
+    <email>sandra.lindstedt_ingemansson@med.lu.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Leif Pierre, PhD</last_name>
+    <phone>+467073096605</phone>
+    <email>leif.pierre@skane.se</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Region Skåne</name>
+      <address>
+        <city>Lund</city>
+        <state>Skåne Län</state>
+        <zip>22460</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sandra Lindstedt Ingemansson, MD, PhD</last_name>
+      <phone>0737220580</phone>
+      <email>sandra.lindstedt_ingemansson@med.lu.se</email>
+    </contact>
+    <contact_backup>
+      <last_name>Leif Pierre, PhD</last_name>
+      <phone>+46703096605</phone>
+      <email>leif.pierre@skane.se</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <reference>
+    <citation>Broberg E, Andreasson J, Fakhro M, Olin AC, Wagner D, Hyllén S, Lindstedt S. Mechanically ventilated patients exhibit decreased particle flow in exhaled breath as compared to normal breathing patients. ERJ Open Res. 2020 Feb 10;6(1). pii: 00198-2019. doi: 10.1183/23120541.00198-2019. eCollection 2020 Jan.</citation>
+    <PMID>32055633</PMID>
+  </reference>
+  <reference>
+    <citation>Stenlo M, Hyllén S, Silva IAN, Bölükbas DA, Pierre L, Hallgren O, Wagner DE, Lindstedt S. Increased particle flow rate from airways precedes clinical signs of ARDS in a porcine model of LPS-induced acute lung injury. Am J Physiol Lung Cell Mol Physiol. 2020 Mar 1;318(3):L510-L517. doi: 10.1152/ajplung.00524.2019. Epub 2020 Jan 29.</citation>
+    <PMID>31994907</PMID>
+  </reference>
+  <reference>
+    <citation>Broberg E, Hyllén S, Algotsson L, Wagner DE, Lindstedt S. Particle Flow Profiles From the Airways Measured by PExA Differ in Lung Transplant Recipients Who Develop Primary Graft Dysfunction. Exp Clin Transplant. 2019 Dec;17(6):803-812. doi: 10.6002/ect.2019.0187. Epub 2019 Oct 11.</citation>
+    <PMID>31615381</PMID>
+  </reference>
+  <verification_date>May 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Exhaled Breath Particles</keyword>
+  <keyword>PExA</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>ALI</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

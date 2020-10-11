@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2203">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04504877</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BONSAI Study</org_study_id>
+    <nct_id>NCT04504877</nct_id>
+  </id_info>
+  <brief_title>Burnout and Distress preventiOn With caNnabidiol in Front-line Health Care workerS deAling wIth COVID-19</brief_title>
+  <acronym>BONSAI</acronym>
+  <official_title>Burnout and Distress preventiOn With caNnabidiol in Front-line Health Care workerS deAling (Bonsai Study) wIth COVID-19: a Randomised Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Sao Paulo</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Sao Paulo</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this work is to monitor the level of stress and overload of a group of
+      front-line health workers (physicians, nurses and physiotherapists) who will participate in
+      the care of patients with COVID-19 at Hospital das Clínicas in Ribeirão Preto and its
+      Emergency Unit (HCRP), for four weeks, and evaluate the cannabidiol - CBD's effectiveness in
+      reducing stress for those who wish to use it.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Bonsai study is a two-arm, parallel-group, individually randomized (1:1 allocation
+      ratio), controlled with general measures (supporting motivational videos, fitness videos),
+      participant and investigator unblinded, evaluator by phone will be blinded, single-site
+      superiority trial of oral CBD 300 mg daily for 28 days to prevent burnout and distress in
+      health care workers dealing with SARS-CoV-2 exposure. At 28 days, there is an open-label
+      extension wherein all participants are offered a 28 days course of CBD 300mg daily. The
+      objective of this work is to monitor the level of stress and overload of a group of
+      front-line health workers (physicians, nurses and physiotherapists) who will participate in
+      the care of patients with COVID-19 at Hospital das Clínicas in Ribeirão Preto and its
+      Emergency Unit (HCRP), for four weeks, and evaluate the CBD's effectiveness in reducing
+      stress for those who wish to use it.
+
+      This research intends to :
+
+        1. Assess the level of stress and emotional overload of front-line health workers
+           (physicians, nurses and physiotherapists) during their performance in the pandemic
+           caused by COVID-19.
+
+        2. Assess whether the daily use of CBD 300 mg, for four weeks, reduces the level of stress,
+           during the period of performance of professionals in the care of patients with COVID-19.
+
+        3. Assess whether the daily use of CBD 300 mg, for four weeks, will modify inflammatory
+           parameters, such as cytokines, measured from the serum of professionals in the care of
+           patients with COVID-19.
+
+        4. Assess whether the daily use of CBD 300 mg, for four weeks, prevents depression, burnout
+           and Acute Stress Disorder and PTSD.
+
+        5. Assess the possible adverse effects of using CBD
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 16, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2020</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Volunteers, administrative staff, laboratory technicians, doctors who will carry out the assessments by phone, and statisticians will be blind to the treatment group and will not know about the group treatment information.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>aMBI-HSS: Abbreviated Maslach Burnout Inventory - Human Services Survey</measure>
+    <time_frame>Through study completion, over time during the study period (day 0-28)</time_frame>
+    <description>To assess the emotional exhaustion dimension of the burnout syndrome, based on nine items, scored from 0 (&quot;never&quot;) to 6 (&quot;every day&quot;)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Posttraumatic Stress Disorder Checklist for DSM-5 (PCL-5)</measure>
+    <time_frame>Through study completion, over time during the study period (day 0-28)</time_frame>
+    <description>It is a self-report measure widely used to assess PTSD symptoms, according to the DSM-5 criteria. The reduced version of this instrument will be used (8 items)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Brief measure for assessing generalized anxiety disorder: The GAD-7</measure>
+    <time_frame>Through study completion, over time during the study period (day 0-28)</time_frame>
+    <description>brief measure for assessing generalized anxiety disorder</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PHQ-9: Patient´s Health Questionnaire-9</measure>
+    <time_frame>Through study completion, over time during the study period (day 0-28)</time_frame>
+    <description>Evaluate depressive symptoms o</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in proinflammatory cytokine concentration</measure>
+    <time_frame>Through study completion, over time during the study period (day 0-28)</time_frame>
+    <description>Laboratory parameters, including the change in proinflammatory cytokine concentrations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with treatment-related adverse events as assessed by CTCAE v5.0</measure>
+    <time_frame>Through study completion, over time during the study period (day 0-28)</time_frame>
+    <description>Occurrence of side effects</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">102</enrollment>
+  <condition>Covid19</condition>
+  <condition>Burn Out</condition>
+  <condition>Post Traumatic Stress Disorder</condition>
+  <arm_group>
+    <arm_group_label>cannabidiol plus general clinical supportive measures</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participants will receive CBD 300mg/daily plus general measures (supporting motivational videos, fitness videos). All the participants will perform invasive and non-invasive procedures with the nursing team, the invasive being five blood collections, in their workplaces, to evaluate laboratory parameters, detailed in this project. The non-invasive ones refer to the measurement of height, weight, body temperature, and sleep pattern, as well as five collections of saliva, in a collecting tube, to assess viral load. They will also be monitored through weekly self-assessment scales, applied remotely, electronically (cell phones or computers), with an estimated duration of ten minutes each, which will have their responses recorded in an electronic database by the study coordination team.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>general clinical supportive measures</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The participants will receive general measures (supporting motivational videos, fitness videos) alone. All the participants will perform invasive and non-invasive procedures with the nursing team, the invasive being five blood collections, in their workplaces, to evaluate laboratory parameters, detailed in this project. The non-invasive ones refer to the measurement of height, weight, body temperature, and sleep pattern in a collecting tube to assess viral load. Also, they will be monitored through weekly self-assessment scales, applied remotely, electronically (cell phones or computers), with an estimated duration of ten minutes each, which will have their responses recorded in an electronic database by the study coordination team.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cannabidiol</intervention_name>
+    <description>Cannabidiol 300 mg daily for 4 weeks</description>
+    <arm_group_label>cannabidiol plus general clinical supportive measures</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. age between 24 and 60 years old
+
+          2. Research participants of both sexes.
+
+          3. HCFMRP physicians, nurses and physiotherapists involved in the care of patients who
+             have undergone screening and present at least one symptom, which may be related to
+             infection by COVID-19.
+
+          4. Good health conditions and without conditions that characterize them as belonging to
+             the risk groups associated with COVID infection19.
+
+          5. Research participants with the potential to become pregnant may be included in the
+             study as long as they are sexually abstinent or using a contraceptive method
+             considered effective.
+
+          6. Signature of the Free and Informed Consent Term approved (ICF) by the Research Ethics
+             Committee (CEP) and CONEP.
+
+        Exclusion Criteria:
+
+          1. Using any medication with potential interaction with CBD or with a history of
+             undesirable reactions prior to the use of this cannabinoid.
+
+          2. Physicians, nurses and physiotherapists with occasional contact with patients with
+             COVID-19 and who are not responsible for the continuous monitoring of these patients.
+
+          3. Although in the HC-FMRP-USP care allocation policy, professionals who are eventually
+             more susceptible to complications from the new coronavirus will be relocated to not
+             attend patients with COVID19, it will be checked again to exclude patients with
+             chronic diseases: diabetes, hypertension, lung disease like asthma or COPD;
+             hematological diseases, chronic kidney disease and immunodepression.
+
+          4. Professionals over 60 years old
+
+          5. Female research participants who become pregnant or male participants who have their
+             pregnant partner during the research project
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>24 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jose A. Crippa, MD; PhD</last_name>
+    <phone>55-16-36022201</phone>
+    <email>jcrippa@fmrp.usp.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julia C. Pacheco, MsC</last_name>
+    <phone>55 16 3963 6486</phone>
+    <email>jcpacheco@hcrp.usp.br</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto - USP</name>
+      <address>
+        <city>Ribeirão Preto</city>
+        <state>SP</state>
+        <zip>14048-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julia C Pacheco, MsC</last_name>
+      <phone>55 16 3963 6486</phone>
+      <email>jcpacheco@hcrp.usp.br</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 7, 2020</study_first_posted>
+  <last_update_submitted>August 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Sao Paulo</investigator_affiliation>
+    <investigator_full_name>Jose Alexandre de Souza Crippa</investigator_full_name>
+    <investigator_title>Full Professor - Psychiatry</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stress Disorders, Traumatic</mesh_term>
+    <mesh_term>Stress Disorders, Post-Traumatic</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Epidiolex</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All of the individual participant data collected during the trial, after deidentification</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Immediately the following publication. No end date</ipd_time_frame>
+    <ipd_access_criteria>Researchers who provide a methodologically sound proposal. Depending on the level of the proposed use of data, approval by an independent review committee will be required for the identified purpose.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

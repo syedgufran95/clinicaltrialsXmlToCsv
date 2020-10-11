@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="146">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04558372</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1.6/2020</org_study_id>
+    <nct_id>NCT04558372</nct_id>
+  </id_info>
+  <brief_title>Genosvid Diagnostic Test for Early Detection of COVID-19</brief_title>
+  <official_title>Genosvid Diagnostic Test for Early Detection of COVID-19: UGM Electronic-Nose Innovation for Indonesia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gadjah Mada University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gadjah Mada University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Electronic-nose had been used to diagnose other infectious lung diseases, such as
+      tuberculosis. Universitas Gadjah Mada has developed an electronic-nose device which is
+      easy-to-use, portable, and can be manufactured at a low price. Here the investigators test
+      the electronic-nose to diagnose COVID-19 in Indonesia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The validation of device is conducted to 43 confirmed COVID-19 patients and 40 confirmed
+      COVID-19 negative patients from Bhayangkara Hospital, RSLKC Bambalipuro in Yogyakarta Special
+      Region, Indonesia.
+
+      Afterwards, patients with symptoms suggesting COVID-19 will be recruited using multicentre
+      consecutive sampling. The number of participants required is 1460 subjects. The study use a
+      triple-blind design where the research subjects, breath sample takers, and sample examiners
+      did not know the results of each sampling that had been done. The final data processor was
+      also blinded to the results of nose and throat swabs. The breath sampling data is saved in
+      graphic form which interpretation will be carried out later by the data processor at the
+      final stage.
+
+      This study population involve children and adults who come to the COVID-19 outpatient clinic
+      in each participating hospital with a diagnosis of suspected COVID-19 infection. All patients
+      remain in the setting under medical service in accordance with the standard operating
+      procedure (SOP) and clinical practice guidelines (CPG) protocols for handling patients with
+      suspected COVID-19. The patients underwent nasal and oropharyngeal swabs according to the
+      COVID-19 outpatient CPG.
+
+      The participants will be asked about symptoms that they have, such as fever, fatigue, dry
+      cough, stuffy/ runny nose, sore throat, myalgia, shortness of breath, and diarrhea.
+      Afterwards, they will be asked to breathe normally using a mask for 2 times, then inhale and
+      exhale in a forced expiratory volume through an e-nose tube connected to the Hepa-filter at
+      the inlet. The performance of breath test will be compared with the performance of symptoms
+      with the reference of RT-PCR results. In addition, participants' demographic and clinical
+      data will be collected.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>3 groups:
+COVID-19 patients
+non COVID-19 patients
+suspected COVID-19 patients</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The person who operates breath test is blinded to the results of swab. The swab taker is blinded to the result of breath sample. The patients also do not know the results of the interpretation of the breath sample. Patients will receive information on the results of the oro/ nasopharyngeal swab in accordance with the COVID-19 health service standards. The final data processor is also blinded to the results of nose and throat swabs. The breath sampling data is saved in graphic form which interpretation will be carried out later by the data processor at the final stage.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnostic accuracy of electronic nose signal in COVID-19</measure>
+    <time_frame>2 years</time_frame>
+    <description>sensitivity, specificity, positive predictive value, negative predictive value of electronic nose signal in diagnosing COVID-19</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1543</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Group 1- 43 COVID-19 patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVID-19 patients breath normally via disposable non-rebreathing mask</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2- 40 non COVID-19 patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Non COVID-19 patients breath normally via disposable non-rebreathing mask</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3- 1460 suspected COVID-19 patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participants breath normally using a mask for 2 times then they are asked to inhale and exhale in a forced expiratory volume through an e-nose tube connected to the Hepa-filter at the inlet.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>exhaled breath sampling</intervention_name>
+    <description>The participants breath through non-rebreathing mask until the reservoir bag is full. The reservoir bag is connected to Hepa-filter at one side, and another side of Hepa-filter is connected to the electronic-nose (Genosvid) device.</description>
+    <arm_group_label>Group 1- 43 COVID-19 patients</arm_group_label>
+    <other_name>GENOSVID portable exhaled breath sampling</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>exhaled breath sampling</intervention_name>
+    <description>The participants breath through non-rebreathing mask until the reservoir bag is full. The reservoir bag is connected to Hepa-filter at one side, and another side of Hepa-filter is connected to the electronic-nose (Genosvid) device.</description>
+    <arm_group_label>Group 2- 40 non COVID-19 patients</arm_group_label>
+    <other_name>GENOSVID portable exhaled breath sampling</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>exhaled breath sampling</intervention_name>
+    <description>The participants breath normally using a mask for 2 times then they are asked to inhale and exhale in a forced expiratory volume through an e-nose tube connected to the Hepa-filter at the inlet.</description>
+    <arm_group_label>Group 3- 1460 suspected COVID-19 patients</arm_group_label>
+    <other_name>GENOSVID portable exhaled breath sampling</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients diagnosed with COVID-19, non COVID-19, and suspected COVID-19 infection,
+             based on the results of anamnesis, physical examination, laboratory, X-rays and rapid
+             tests.
+
+          -  Able to produce samples for RT-PCR examination.
+
+          -  Agree to participate (sign informed consent). For children, informed consent are
+             obtained from the parents. For adolescent patients, accent consent is asked.
+
+          -  Patients who do not need oxygen therapy supplementation in the form of mask-type or
+             ventilator. Patients who use oxygen supplementation with nasal cannula are still
+             included as study participants.
+
+        Exclusion Criteria:
+
+          -  Unable to breath deeply due to difficulty breathing due to complications of COVID-19
+             or other diseases
+
+          -  The quality of the breath do not meet the standard interpretation of the instrument
+             sensor curve (breath sampel is declared invalid).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dian K. Nurputra, MD(Paed), M.Sc, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Faculty of Medicine, Public Health and Nursing Universitas Gadjah Mada</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kuwat Triyana, Prof, Dr.Eng, MSi.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Faculty of Mathematics and Natural Sciences Universitas Gadjah Mada</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dian K. Nurputra, MD(Paed), M.Sc, Ph.D</last_name>
+    <phone>+6281249016246</phone>
+    <email>dian.k.nurputra@ugm.ac.id</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Antonia M.I. Saktiawati, MD, PhD</last_name>
+    <phone>+48794553444</phone>
+    <email>a.morita@ugm.ac.id</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>RS Bhayangkara Tk I R.Said Soekanto</name>
+      <address>
+        <city>Jakarta</city>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Asep S, MD(Anesthesiologist)</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>RST Tk II Dr Soejono</name>
+      <address>
+        <city>Magelang</city>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Akhmad Rusly, MD(Surgeon), MARS</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saiful Anwar</name>
+      <address>
+        <city>Malang</city>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Dewi Indiastari, MD(Internist)</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dr Sardjito Hospital</name>
+      <address>
+        <city>Yogyakarta</city>
+        <zip>55281</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Amalia Setyati, MD(Paed)</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bambanglipuro Hospital</name>
+      <address>
+        <city>Yogyakarta</city>
+        <zip>55764</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tarsisius Glory, MD, MPH</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bhayangkara Tk III Polda DIY</name>
+      <address>
+        <city>Yogyakarta</city>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Theresia Lindawati, MD, Sp.F</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>RS Akademik UGM</name>
+      <address>
+        <city>Yogyakarta</city>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Diana Septiyanti, MD(Pulm), PhD, FAPSR</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>RSPAU Hardjolukito</name>
+      <address>
+        <city>Yogyakarta</city>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Budi Pranowo, MD(Paed), MSc</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>RST Tk III Dr Soetarto</name>
+      <address>
+        <city>Yogyakarta</city>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Vini Sagita, MD, MPH</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Gadjah Mada University</investigator_affiliation>
+    <investigator_full_name>dr. Dian K. Nurputra, M.Sc, Ph.D, SpA</investigator_full_name>
+    <investigator_title>MD(Paed), M.Sc, Ph.D</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>diagnosis</keyword>
+  <keyword>electronic nose</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

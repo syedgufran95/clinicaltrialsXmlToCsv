@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1210">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04510207</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CNBG2020003SQ</org_study_id>
+    <nct_id>NCT04510207</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate The Efficacy, Safety and Immunogenicity of Inactivated SARS-CoV-2 Vaccines (Vero Cell) in Healthy Population Aged 18 Years Old and Above</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Multicenter, Randomized, Double Blind, Parallel Placebo Controlled, Phase III Clinical Trial to Evaluate the Protective Efficacy, Safety and Immunogenicity of Inactivated SARS-CoV-2 Vaccines (Vero Cell) in Healthy Population Aged 18 Years Old and Above</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>China National Biotec Group Company Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>G42 Healthcare company</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Abu Dhabi Health Services Company</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Wuhan Institute of Biological Products Co., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Beijing Institute of Biological Products Co., Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>China National Biotec Group Company Limited</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, randomized, double blind, parallel placebo controlled, phase 3
+      clinical trial to evaluate the protective efficacy, safety and immunogenicity of inactivated
+      SARS-CoV-2 vaccines in healthy population 18 years old and above.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 16, 2020</start_date>
+  <completion_date type="Anticipated">September 16, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 16, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The incidence of COVID-19 cases after two-doses of vaccination</measure>
+    <time_frame>From14 days after the second dose to 6 month after the second dose</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of severe cases of SARS-CoV-2 pneumonia and deaths accompanied by COVID-19 after two-doses of vaccination</measure>
+    <time_frame>From14 day after the second dose to 6 month after the second dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of any adverse reactions/events</measure>
+    <time_frame>28 days after each immunization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of serious adverse events (SAE)</measure>
+    <time_frame>From the beginning of the first dose to 12 months after the second immunization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Geometric Mean Titer (GMT) of anti-SARS-CoV-2 neutralizing antibody</measure>
+    <time_frame>14 days after full course of immunization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The four-fold increase rate of anti-SARS-CoV-2 neutralizing antibody</measure>
+    <time_frame>14 days after full course of immunization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Geometric Mean Fold Rise (GMFR) of anti-SARS-CoV-2 neutralizing antibody</measure>
+    <time_frame>14 days after full course of immunization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Geometric Mean Titer (GMT) of anti-SARS-CoV-2 neutralizing antibody</measure>
+    <time_frame>28 days, 3rd month, 6th month, 9th month, and 12th month after 2 doses of immunization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The 4-fold increase rate of anti-SARS-CoV-2 neutralizing antibody</measure>
+    <time_frame>28 days, 3rd month, 6th month, 9th month, and 12th month after 2 doses of immunization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Geometric Mean Fold Rise (GMFR) of anti-SARS-CoV-2 neutralizing antibody</measure>
+    <time_frame>28 days, 3rd month, 6th month, 9th month, and 12th month after 2 doses of immunization</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>the anti-SARS-CoV-2 neutralizing antibody protective level against COVID-19</measure>
+    <time_frame>14 days after 2 doses of vaccination</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>The occurrence of ADE</measure>
+    <time_frame>From the beginning of the first dose to 12 months after the second immunization</time_frame>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">45000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Investigational Vaccine1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 2 doses of the inactivated SARS-CoV-2 vaccine (Vero cell) manufactured by WIBP according to the immunization schedule of D0 &amp; D21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Investigational Vaccine 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 2 doses of the inactivated SARS-CoV-2 vaccine (Vero cell) manufactured by BIBP according to the immunization schedule of D0 &amp; D21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive 2 doses of Placebo according to the immunization schedule of D0 &amp; D21.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Inactivated SARS-CoV-2 Vaccine (Vero cell)</intervention_name>
+    <description>The inactivated SARS-CoV-2 Vaccine (Vero cell) manufactured by WIBP</description>
+    <arm_group_label>Investigational Vaccine1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Inactivated SARS-CoV-2 Vaccine (Vero cell)</intervention_name>
+    <description>The inactivated SARS-CoV-2 Vaccine (Vero cell) manufactured by BIBP</description>
+    <arm_group_label>Investigational Vaccine 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>The placebo of inactivated SARS-CoV-2 Vaccine (Vero cell) manufactured by WIBP</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Healthy subjects aged 18 years old and above.
+
+          2. By asking for medical history and physical examination, the investigator judged that
+             the health condition is well.
+
+          3. Female subjects of childbearing age are not nursing or pregnant at the time of
+             enrolment (negative urine pregnancy test) and have no family planning within the first
+             3 months after enrolment. Effective contraceptive measures have been taken within 2
+             weeks before inclusion.
+
+          4. During the whole follow-up period of the study, be able and willing to complete the
+             whole prescribed study plan.
+
+          5. With self-ability to understand the study procedures, the informed consent &amp;
+             voluntarily sign an informed consent form and be able to comply with the requirements
+             of the clinical study protocol.
+
+        Exclusion Criteria:
+
+          1. Confirmed acute cases of SARS-CoV-2 Infection.
+
+          2. Have a history of SARS, MERS infection (self-report, on-site inquiry).
+
+          3. Positive urine pregnancy test result.
+
+          4. Fever (body temperature &gt; 37.0 ℃), dry cough, fatigue, nasal obstruction, runny nose,
+             pharyngeal pain, myalgia, diarrhea, shortness of breath and dyspnea occurred within 14
+             days before vaccination.
+
+          5. Axillary body temperature &gt; 37.0 ℃ before vaccination.
+
+          6. Previous severe allergic reactions to vaccination (such as acute allergic reactions,
+             urticaria, dyspnea, angioneurotic edema or abdominal pain) or allergy to known
+             ingredients of inactivated SARS-CoV-2 vaccine have occurred.
+
+          7. Has a history of convulsion, epilepsy, encephalopathy or mental illness or family
+             history.
+
+          8. With congenital malformations or developmental disorders, genetic defects, severe
+             malnutrition, etc.
+
+          9. With severe liver diseases, severe kidney diseases defined as eGFR less than 60,
+             uncontrollable hypertension (systolic blood pressure &gt;150 mmHg, diastolic blood
+             pressure &gt; 90 mmHg), diabetic complications, malignant tumors, various acute diseases,
+             or acute attack period of chronic diseases.
+
+         10. Has been diagnosed with congenital or acquired immune deficiency, HIV infection,
+             lymphoma, leukemia or other autoimmune diseases.
+
+         11. With known or suspected diseases include acute respiratory diseases (e.g. influenza
+             like illness, acute cough, sore throat), severe cardiovascular diseases, liver and
+             kidney diseases, and malignant tumors.
+
+         12. Has a history of coagulation dysfunction (e.g. Coagulation factor deficiency,
+             coagulation disease).
+
+         13. Receiving anti-TB therapy.
+
+         14. Patients receiving immunotherapy or inhibitor therapy within 3 months (continuous oral
+             or infusion for more than 14 days).
+
+         15. Live attenuated vaccine is inoculated within 1 month before this vaccination, other
+             vaccines are inoculated within 14 days before this vaccination.
+
+         16. Received blood products within 3 months before this vaccination
+
+         17. Received other research drugs within 6 months before this vaccination.
+
+         18. Other circumstances judged by investigators that are not suitable for this clinical
+             trial.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Walid A Zaher, MD, MSc,PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>G42 Healthcare company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yunkai Yang, Prof.</last_name>
+    <phone>+8613601126881</phone>
+    <email>yangyunkai@sinopharm.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Bahrain International Exhibition &amp; Convention Centre Affiliated to Salymynia Medical Complex S</name>
+      <address>
+        <city>Sanabis</city>
+        <country>Bahrain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Manaf M Alqahtani, Prof.</last_name>
+      <phone>+9733966000</phone>
+      <email>drmanaf@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Prince Hamza Hospital</name>
+      <address>
+        <city>Amman</city>
+        <country>Jordan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Majed Nusair</last_name>
+      <phone>+982799501230</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shaikh Khalifa Medical City, SEHA</name>
+      <address>
+        <city>Abu Dhabi</city>
+        <zip>51900</zip>
+        <country>United Arab Emirates</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nawal AI Kaabi, MD</last_name>
+      <phone>+971505595521</phone>
+      <email>nalkaabi@seha.ae</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Al Qarain Primary Health Care Centre-MOHAP</name>
+      <address>
+        <city>Sharjah</city>
+        <zip>61545</zip>
+        <country>United Arab Emirates</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Najiba Abdulrazzaq, Doctor</last_name>
+      <phone>+971506451881</phone>
+      <email>Najiba.Abdulrazzaq@mohap.gov.ae</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Bahrain</country>
+    <country>Jordan</country>
+    <country>United Arab Emirates</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>September 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>SARS-CoV-2 Vaccine</keyword>
+  <keyword>Coronavirus</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

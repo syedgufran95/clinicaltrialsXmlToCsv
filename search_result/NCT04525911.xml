@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="846">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04525911</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020- A01647-32</org_study_id>
+    <nct_id>NCT04525911</nct_id>
+  </id_info>
+  <brief_title>Assessment of Long-term Impact Post COVID-19 for Patients and Health Care Professionals of the European Hospital</brief_title>
+  <acronym>ALCOVID</acronym>
+  <official_title>Assessment of Long-term Impact Post COVID-19 for Patients and Health Care Professionals of the European Hospital</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hôpital Européen Marseille</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hôpital Européen Marseille</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to Assess of Long-term impact post COVID for patients and health
+      care professionals.The patients and medical staff will be followed for 2 years in order to
+      provide clinical and paraclinical data not yet published in the literature.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 26, 2020</start_date>
+  <completion_date type="Anticipated">October 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluation of post-traumatic stress symptoms (Post traumatic Stress Disorder (PTSD) scale) at M3 for patients and caregivers</measure>
+    <time_frame>3 months</time_frame>
+    <description>measure used to assess symptoms of post-traumatic stress disorder. Individuals should rate their experience with each of the 17 symptoms of PTSD on a scale of 1 to 5 (1 = not at all, 2 = a little, 3 = moderately, 4 = a little, and 5 = extremely) versus to a specific traumatic event</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of post-traumatic stress symptoms (PTSD scale) at M12 and M24 for patients and caregivers</measure>
+    <time_frame>12 and 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from M3 in the score of the mental (MCS), physical (PCS) components and the scores of the individual domains of the questionnaire SF36 to M12 and M24 for the entire study population</measure>
+    <time_frame>12 and 24 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>% of patients presenting a positive result by ELISA serology (= without distinction of IgG, IgM and IgA)</measure>
+    <time_frame>3 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of M0 chest CT results at each follow-up for the entire study population</measure>
+    <time_frame>24 months</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change from M3 score measuring anxiety (HAD-A) and depression score (HAD-D) to M12 and M24 for patients and caregivers.</measure>
+    <time_frame>12 and 24 months</time_frame>
+    <description>HAD-A score measuring anxiety (example &quot;I feel tense or nervous&quot;) and HAD-D score for depression (example &quot;I have the impression of operating in slow motion&quot;).
+7 or less: no symptoms
+8 to 10: doubtful symptomatology
+11 and more: definite symptomatology.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from M3 in the B-IPQ score at M12 and M24 for patients and caregivers.</measure>
+    <time_frame>12 and 24 months</time_frame>
+    <description>The Brief Illness Perception Questionnaire (B-IPQ) includes 9 items that assess different components of &quot;perception of the disease&quot;( score 0 to 10 for each items)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Evaluation of the microbiotic signature according to the severity of the disease at M3, M6 and M12</measure>
+    <time_frame>6 and 12 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Evaluation of the fatigue EVA score and quality of life (SF36) at M6 and M12</measure>
+    <time_frame>6 and 12 months</time_frame>
+    <description>score from 0 to 10 (0 not tired, 10 max tired)</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">258</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Symptomatic COVID-19 infection confirmed or probable</arm_group_label>
+    <description>Patients and medical staff having symptomatic COVID-19 infection confirmed (by RT-PCR or ELISA serology) or probable (CT criteria)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Diagnostic Test: serology test for COVID-19</intervention_name>
+    <description>a serology test will be performed at M3</description>
+    <arm_group_label>Symptomatic COVID-19 infection confirmed or probable</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient and medical staff with confirmed or probable COVID-19 infection
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Aged ≥ 18 years,
+
+          -  Symptomatic COVID-19 infection confirmed (by RT-PCR or ELISA serology) or probable (CT
+             criteria),
+
+          -  Having given free and informed written consent,
+
+          -  Being affiliated with or benefiting from a social security scheme.
+
+          -  Patients / caregivers may be included in several ancillary studies at the same time.
+
+        Exclusion Criteria:
+
+        -Subject to a measure for the protection of justice
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hervé PEGLIASCO</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hôpital Europeen Marseille</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Myriam BENNANI</last_name>
+    <phone>0033 (0)413428351</phone>
+    <email>m.bennani@hopital-europeen.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>BENNANI</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13003</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>BENNANI</last_name>
+      <phone>0413428351</phone>
+      <email>m.bennani@hopital-europeen.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 25, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

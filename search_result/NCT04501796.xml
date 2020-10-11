@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="70">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04501796</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIT-116 (SPESELPIS)</org_study_id>
+    <nct_id>NCT04501796</nct_id>
+  </id_info>
+  <brief_title>A Trial of NT-I7 in COVID-19 (SPESELPIS)</brief_title>
+  <official_title>A Double-blind, Randomized, Placebo-controlled, Phase 1, Single-dose, Dose-escalating Trial of Long-acting Recombinant Human IL-7 (NT-I7) for COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NeoImmuneTech</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NeoImmuneTech</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purposes of this study is to determine the following in participants with mild
+      coronavirus disease 2019 (COVID-19):
+
+        -  Safety of a single dose of NT-I7
+
+        -  The immunological effects of NT-I7 on peripheral lymphocyte counts in COVID-19 patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multisite, double-blind, randomized, placebo-controlled, dose-escalating, phase 1
+      trial of NT-I7 with standard of care (SOC) versus placebo with SOC to evaluate the safety and
+      efficacy of NT-I7 in adults with mild coronavirus disease 2019 (COVID-19). After
+      determination of eligibility and baseline assessment, a single dose of the study agent (NT-I7
+      or placebo) will be administered after 1:1 randomization, along with SOC. Research blood
+      collection will occur at baseline, days 3, 7, 14, 30, 60 and 90 days after administration.
+      Primary and secondary evaluations will include assessment of adverse events (AEs), absolute
+      lymphocyte count (ALC), and trajectory of other lymphocytes subsets: CD4, CD8, natural killer
+      (NK), B, and mucosal-associated-invariant T (MAIT) cells. The final study visit will be at
+      day 90 after the study agent administration. The investigators hypothesize that NT-I7 is safe
+      for administration and preserves lymphocyte homeostasis in patients with mild COVID-19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">August 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-Blind.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate the safety of a single dose of NT-I7 in a dose escalation fashion</measure>
+    <time_frame>Up to approximately 30 days</time_frame>
+    <description>Assessment of the number and severity of AEs possibly, probably, or definitely related to study drug evaluated at 7 and 30 days.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the immunological effects of NT-I7 cumulatively for all doses on peripheral lymphocyte counts in COVID-19 patients.</measure>
+    <time_frame>Up to approximately 30 days</time_frame>
+    <description>Assessment of the trajectory of ALC, CD4, CD8, NK, B, and MAIT cells measured at days 7, 14 and 30 after administration of NT-I7 or placebo compared to baseline values.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>NT-I7</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NT-I7 will be administered once by IM injection within 24 hours of baseline (day 0). The treatment course pursued in all enrolled participants will be a single dose. Dosing will be staggered with at least 72 hours between each study participant.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be administered once by IM injection within 24 hours of baseline (day 0). The treatment course pursued in all enrolled participants will be a single dose. Dosing will be staggered with at least 72 hours between each study participant.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Double-Blind NT-I7</intervention_name>
+    <description>Administered by intramuscular (IM) injection</description>
+    <arm_group_label>NT-I7</arm_group_label>
+    <other_name>rhIL-7-hyFc</other_name>
+    <other_name>efineptakin alfa</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Double-Blind Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Individuals must meet all of the following criteria to be included in the study:
+
+          -  Laboratory-confirmed SARS-CoV-2 infection as determined by either a documented
+             positive molecular assay/ other commercial or public health assay in any specimen
+             collected &lt; 5 days prior to screening or a documented positive molecular assay ≥ 5
+             days prior to screening and confirmed by polymerase chain reaction (PCR) at screening.
+
+          -  Illness of any duration with oxygen saturation &gt; 93% at room air, heart rate ≤ 100
+             beats per minute at rest, and no evidence of respiratory distress with respiration
+             rate &lt; 20 breaths per minute.
+
+          -  Able to provide informed consent.
+
+          -  Aged ≥ 18 and ≤ 75 years.
+
+          -  Absolute Lymphocyte Count &lt;1,500 lymphocytes/µL.
+
+          -  Avoid becoming pregnant or impregnate a partner through 90 days after study agent
+             administration. Females must agree to 2 methods of contraception, and males to at
+             least one method of contraception.
+
+          -  Not participate in any other clinical trial for an investigational therapy through day
+             30.
+
+        Exclusion Criteria:
+
+          -  Moderate to severe hypoxic respiratory failure requiring supplemental oxygen at rest,
+             mechanical ventilation, ECMO, or any other noninvasive ventilation modality.
+
+          -  CRP &gt;15 mg/L or D-dimer &gt; 0.75 µg/mL.
+
+          -  Estimated glomerular filtration rate (eGFR) &lt; 40 mL/min/1.73m2, or requiring dialysis.
+
+          -  AST/ALT &gt; 3-times ULN, total bilirubin &gt; 1.5 times ULN (except if due to Gilbert's
+             syndrome).
+
+          -  Pregnancy or breastfeeding.
+
+          -  Use of systemic corticosteroids or immunomodulant within 4 weeks prior to screening.
+
+          -  Receipt of an investigational agent or investigational use of a licensed agent within
+             16 weeks prior to screening.
+
+          -  HIV infection or underlying history of known or unknown primary or acquired
+             immunodeficiency associated with lymphopenia and/or recurrent opportunistic
+             infections.
+
+          -  Autoimmune disease requiring systemic treatment EXCEPT for vitiligo or endocrine
+             disease (such as diabetes, thyroid disease, and adrenal disease) controlled by
+             replacement therapy.
+
+          -  Malignancy requiring treatment 1 year prior to screening.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Anela Kellogg</last_name>
+    <phone>240-669-2877</phone>
+    <email>anela.kellogg@nih.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Megan Anderson</last_name>
+    <phone>301-761-7323</phone>
+    <email>megan.anderson2@nih.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Nih/Niaid</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anela Kellogg</last_name>
+      <phone>240-669-2877</phone>
+      <email>anela.kellogg@nih.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Amy Haberman</last_name>
+      <phone>402-559-5955</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>NT-I7 (efineptakin alfa, rhIL-7-hyFc)</keyword>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3451">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04574219</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-0371</org_study_id>
+    <nct_id>NCT04574219</nct_id>
+  </id_info>
+  <brief_title>Virtual Parental Presence on Induction</brief_title>
+  <acronym>VPPIA</acronym>
+  <official_title>Feasibility and Acceptability of Virtual Parental Presence on Induction of Anesthesia - Modernizing Solutions for Pediatric Anesthesia in Response to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Hospital Medical Center, Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Hospital for Sick Children</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Children's Hospital Medical Center, Cincinnati</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Our goal in this study is to investigate the feasibility and acceptability of virtual
+      parental presence of parents on anxiety in children at induction of anesthesia at Cincinnati
+      Children's Hospital, an institution whose use of parental presence on induction is deeply
+      ingrained in our culture, and to determine the impact of coaching of parents either prior to
+      arrival at the hospital vs. on the day of surgery on efficacy of virtual parental presence on
+      induction. Our primary hypothesis is that virtual PPIA is both feasibile for the smooth
+      induction of general anesthesia and is acceptable to parents, patients, and anesthesia
+      providers at our isntutition. Our secondary hypothesis is that the coaching of parents prior
+      to virtual PPIA enhances the effect of video parental presence at induction of anesthesia on
+      children's anxiety and that coaching prior to arrival at the hospital will allow for
+      increased ease and use of this technique.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Virtual presence cause delays in operating room</measure>
+    <time_frame>During procedure</time_frame>
+    <description>Based off operating room scheduled time vs actual start time</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Parent satisfaction with virtual presence</measure>
+    <time_frame>Immediately after induction</time_frame>
+    <description>Parent will complete a satisfaction form which is 6 questions rating experience. Ratings are rated Excellent to Poor.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Operating room provider satisfaction</measure>
+    <time_frame>Immediately after procedure</time_frame>
+    <description>NASA Task Load Index questionnaire. The NASA task load index (NASA TLX) is a tool for measuring and conducting a subjective mental workload (MWL) assessment. It allows you to determine the MWL of a participant while they are performing a task. It rates performance across six dimensions to determine an overall workload rating.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Operating room provider satisfaction</measure>
+    <time_frame>Immediately after procedure</time_frame>
+    <description>System Usability Scale. It consists of a 10 item questionnaire with five response options for respondents; from Strongly agree to Strongly disagree.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Operating room induction nurse satisfaction</measure>
+    <time_frame>Immediately after procedure</time_frame>
+    <description>NASA Task Load Index questionnaire. The NASA task load index (NASA TLX) is a tool for measuring and conducting a subjective mental workload (MWL) assessment. It allows you to determine the MWL of a participant while they are performing a task. It rates performance across six dimensions to determine an overall workload rating.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Operating room induction nurse satisfaction</measure>
+    <time_frame>Immediately after procedure</time_frame>
+    <description>System Usability Scale. It consists of a 10 item questionnaire with five response options for respondents; from Strongly agree to Strongly disagree.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assessment of parental presence with either Facetime, Skype or Teams</measure>
+    <time_frame>During patients induction, assessed immediately</time_frame>
+    <description>Parent and child will use one of three applications during the induction process</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety of child</measure>
+    <time_frame>Prior to induction</time_frame>
+    <description>Use of modified Yale Preoperative Anxiety Scale (mYPAS) measures anxiety at anesthesia induction. It looks at activity, facial expression, alertness and arousal, vocalization and interaction with adults.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety of child</measure>
+    <time_frame>During induction process, assessed immediately</time_frame>
+    <description>Use of modified Yale Preoperative Anxiety Scale (mYPAS) measures anxiety at anesthesia induction. It looks at activity, facial expression, alertness and arousal, vocalization and interaction with adults.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Child behavior induction compliance</measure>
+    <time_frame>During induction, assessed immediately</time_frame>
+    <description>Child Behavior Induction Assessment is an observational scale, used to describe the compliance of a child during induction of anesthesia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parent anxiety</measure>
+    <time_frame>Prior to patient moving to operating room</time_frame>
+    <description>State-Trait Anxiety Inventory assesses anxiety in adults. Responses are rated &quot;Not at All&quot; to &quot;Very Much So&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient previous induction experience</measure>
+    <time_frame>After induction complete, assessed immediately</time_frame>
+    <description>Parent will complete form regarding previous experience. Will use a likert scale to compare previous experience to virtual presence experience</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental Coaching - Prior</measure>
+    <time_frame>One week prior to surgery date</time_frame>
+    <description>Parents will review a standard video and handout for a week prior to surgery. Both will outline desired behaviors to support child during induction process.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Parental Coaching - Day</measure>
+    <time_frame>1-2 hours before procedure</time_frame>
+    <description>Parents will review a standard video and handout the day of surgery. Both will outline desired behaviors to support child during induction process.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">184</enrollment>
+  <condition>Anxiety</condition>
+  <condition>Surgery</condition>
+  <arm_group>
+    <arm_group_label>Feasibility/Acceptability</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>This arm will be used to assess the feasibility and acceptability of using FaceTime during induction.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Coaching prior to surgery</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Coaching day of surgery</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Use of Facetime with child and parents during induction</intervention_name>
+    <description>Families will be able to use Facetime with their child when the child is taken to the operating room</description>
+    <arm_group_label>Coaching day of surgery</arm_group_label>
+    <arm_group_label>Coaching prior to surgery</arm_group_label>
+    <arm_group_label>Feasibility/Acceptability</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Children from ages 4 years to 12 years old
+
+          -  ASA physical status I, II or III
+
+          -  Planned inhalational induction
+
+          -  Children presenting from home prior to surgery (not an inpatient)
+
+          -  English speaking parents and child
+
+        Exclusion Criteria:
+
+          -  children with developmental delay
+
+          -  children with psychological / emotional disorders
+
+          -  children with altered mental status
+
+          -  children with language barrier
+
+          -  children who are not accompanied by someone able to consent (ie legal guardian)
+
+          -  children who are inpatient prior to surgery
+
+          -  children with expected difficult intubation/airway
+
+          -  children presenting for emergency surgery
+
+          -  family history or personal history of malignant hyperthermia / risk of MH
+
+          -  consent not obtained or withdrawl of consent
+
+          -  children with past history of violent behaviors during induction of anesthesia
+
+          -  cancellation of surgery
+
+          -  patients with a diagnosis of COVID-19 or a patient under investigation for COVID-19,
+             including patients being treated with airborne precuations in the operating room
+
+          -  receipt of any type of medical sedative prior to induction of anesthesia, including
+             (but not limited to) midazolam, ketamine, and/or dexmedetomidine.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>12 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vanessa Olbrecht, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cincinnati Childrens Hospital Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Vanessa Olbrecht, MD</last_name>
+    <phone>513-636-4408</phone>
+    <email>vanessa.olbrecht@cchmc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kristie Geisler, BS, CCRP</last_name>
+    <phone>513-636-3282</phone>
+    <email>kristie.geisler@cchmc.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cincinnati Childrens Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Vanessa Olbrecht, MD</last_name>
+      <phone>513-636-4408</phone>
+      <email>vanessa.olbrecht@cchmc.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kristie Geisler, BS, CCRP</last_name>
+      <phone>(513) 636-3282</phone>
+      <email>kristie.geisler@cchmc.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sawita Kanavitoon</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kennth Goldschneider, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Sick Children</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Clyde Matava, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Monica Caldeira-Kulbakas</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Fahad Alam, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 2, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

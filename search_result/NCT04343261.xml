@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1275">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04343261</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SFH-20-23</org_study_id>
+    <nct_id>NCT04343261</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma in the Treatment of COVID 19</brief_title>
+  <official_title>Convalescent Plasma in the Treatment of COVID 19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Saint Francis Care</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Saint Francis Care</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to collect blood from previously COVID-19 infected persons who
+      have recovered and use it as a treatment for those who are currently sick with a severe or
+      life-threatening COVID-19 infection.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this prospective interventional study is to gain clinical experience using
+      convalescent plasma transfusion administered to critically ill patients with COVID-19.
+
+      1 To study the efficacy of plasma from patients recovered from COVID-19 infection with a high
+      neutralizing antibody titer (NAT) as treatment for individuals who are critically ill with
+      COVID-19.
+
+      2. Determine if the antibodies from convalescent plasma will suppress virus load in
+      critically ill patients with COVID-19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 10, 2020</start_date>
+  <completion_date type="Actual">August 13, 2020</completion_date>
+  <primary_completion_date type="Actual">July 23, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Mortality within 28 days</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Viral Load</measure>
+    <time_frame>Day 0, Day 3, Day 5, and Day 7</time_frame>
+    <description>Median Viral Load at Day 0, Day 3, Day 5, and Day 7 Plasma Viral Load was measured using a research-use only real-time reverse transcription polymerase chain reaction (rRT -PCR) method which targets two regions of the SARS-CoV-2 N gene using TaqMan chemistry.
+The limit of detection for this assay is 75 copies/mL (standard curve of 75 copies/mL to 10,000,000 copies/mL of in vitro transcribed RNA prepared from the full SARS-CoV-2 N gene).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum Antibody Titers</measure>
+    <time_frame>Day 0, Day 3, Day 5, and Day 7</time_frame>
+    <description>Median Serum Antibody Titers at Day 0, Day 3, Day 5 and Day 7 Serum Antibody titers were measured using chemiluminescent SARS-CoV-2 immunoglobulin G (IgG) assay from Diazyme (Poway, CA) Positive IgG serum value is &gt; or = 1.0 arbitrary units/mL [AU/mL] (linear reportable range for IgG is 0.20 - 100.00 AU/mL)</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">48</enrollment>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)</condition>
+  <condition>COVID</condition>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 patients treated with convalescent plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Severely ill COVID-19 patients treated with convalescent plasma</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent Plasma</intervention_name>
+    <description>treatment with 2 Units of convalescent plasma</description>
+    <arm_group_label>COVID-19 patients treated with convalescent plasma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All genders
+
+          -  Age &gt; 18 yrs and &lt; 90 yrs
+
+          -  Must have laboratory confirmed COVID-19
+
+          -  Must provide informed consent
+
+          -  Must have severe or immediately life-threatening COVID-19,
+
+        Severe disease is defined as:
+
+          -  dyspnea,
+
+          -  respiratory frequency ≥ 30/min,
+
+          -  blood oxygen saturation ≤ 93%,
+
+          -  partial pressure of arterial oxygen to fraction of inspired oxygen ratio &lt; 300
+
+          -  lung infiltrates &gt; 50% within 24 to 48 hours
+
+        Life-threatening disease is defined as:
+
+          -  respiratory failure,
+
+          -  septic shock
+
+          -  multiple organ dysfunction or failure
+
+        Exclusion Criteria:
+
+          -  No gender exclusion
+
+          -  Age &lt; 18 yrs and &gt; 90 yrs
+
+          -  COVID-19 negative
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Latha Dulipsingh, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Saint Francis Hospital and Medical Centerr/Trinity Health Of New England</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Trinity Health Of New England</name>
+      <address>
+        <city>Hartford</city>
+        <state>Connecticut</state>
+        <zip>06105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Dulipsingh L, Ibrahim D, Schaefer EJ, Crowell R, Diffenderfer MR, Williams K, Lima C, McKenzie J, Cook L, Puff J, Onoroski M, Wakefield DB, Eadie RJ, Kleiboeker SB, Nabors P, Hussain SA. SARS-CoV-2 serology and virology trends in donors and recipients of convalescent plasma. Transfus Apher Sci. 2020 Aug 25:102922. doi: 10.1016/j.transci.2020.102922. [Epub ahead of print]</citation>
+    <PMID>32883593</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ibrahim D, Dulipsingh L, Zapatka L, Eadie R, Crowell R, Williams K, Wakefield DB, Cook L, Puff J, Hussain SA. Factors Associated with Good Patient Outcomes Following Convalescent Plasma in COVID-19: A Prospective Phase II Clinical Trial. Infect Dis Ther. 2020 Sep 20. doi: 10.1007/s40121-020-00341-2. [Epub ahead of print]</citation>
+    <PMID>32951151</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>April 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2020</study_first_posted>
+  <results_first_submitted>September 1, 2020</results_first_submitted>
+  <results_first_submitted_qc>September 1, 2020</results_first_submitted_qc>
+  <results_first_posted type="Estimate">September 4, 2020</results_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-1, COVID, Coronavirus, convalescent plasma, plasma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 23, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/61/NCT04343261/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form: Donor Consent</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 23, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/61/NCT04343261/ICF_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form: Patient Consent</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 24, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/61/NCT04343261/ICF_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>COVID-19 Patients Treated With Convalescent Plasma</title>
+          <description>Severely ill COVID-19 patients treated with convalescent plasma
+Convalescent Plasma: treatment with 2 Units of convalescent plasma</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="48"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>received inadequate amount of antibodies</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>COVID-19 Patients Treated With Convalescent Plasma</title>
+          <description>Severely ill COVID-19 patients treated with convalescent plasma
+Convalescent Plasma: treatment with 2 Units of convalescent plasma</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="48"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="65" spread="12.75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Mortality</title>
+        <description>Mortality within 28 days</description>
+        <time_frame>Up to 28 days</time_frame>
+        <population>48 patients with severe or life threatening disease with laboratory-confirmed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection enrolled in the study. 7 patients were excluded from analysis due to receiving plasma with insufficient antibodies.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>COVID-19 Patients Treated With Convalescent Plasma</title>
+            <description>Severely ill COVID-19 patients treated with convalescent plasma
+Convalescent Plasma: treatment with 2 Units of convalescent plasma</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality</title>
+          <description>Mortality within 28 days</description>
+          <population>48 patients with severe or life threatening disease with laboratory-confirmed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection enrolled in the study. 7 patients were excluded from analysis due to receiving plasma with insufficient antibodies.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="41"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Viral Load</title>
+        <description>Median Viral Load at Day 0, Day 3, Day 5, and Day 7 Plasma Viral Load was measured using a research-use only real-time reverse transcription polymerase chain reaction (rRT -PCR) method which targets two regions of the SARS-CoV-2 N gene using TaqMan chemistry.
+The limit of detection for this assay is 75 copies/mL (standard curve of 75 copies/mL to 10,000,000 copies/mL of in vitro transcribed RNA prepared from the full SARS-CoV-2 N gene).</description>
+        <time_frame>Day 0, Day 3, Day 5, and Day 7</time_frame>
+        <population>Plasma viral load data was available for 35 out of 41 convalescent plasma recipients on day 0. 22 patients out of 35 had non-detectable levels at Day 0; 25 patients out of 34 had non-detectable levels on Day 3; 20 patients out of 27 had non-detectable levels on Day 5; 20 patients out of 24 had non-detectable levels on Day 7.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>COVID-19 Patients Treated With Convalescent Plasma</title>
+            <description>Severely ill COVID-19 patients treated with convalescent plasma
+Convalescent Plasma: treatment with 2 Units of convalescent plasma</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Viral Load</title>
+          <description>Median Viral Load at Day 0, Day 3, Day 5, and Day 7 Plasma Viral Load was measured using a research-use only real-time reverse transcription polymerase chain reaction (rRT -PCR) method which targets two regions of the SARS-CoV-2 N gene using TaqMan chemistry.
+The limit of detection for this assay is 75 copies/mL (standard curve of 75 copies/mL to 10,000,000 copies/mL of in vitro transcribed RNA prepared from the full SARS-CoV-2 N gene).</description>
+          <population>Plasma viral load data was available for 35 out of 41 convalescent plasma recipients on day 0. 22 patients out of 35 had non-detectable levels at Day 0; 25 patients out of 34 had non-detectable levels on Day 3; 20 patients out of 27 had non-detectable levels on Day 5; 20 patients out of 24 had non-detectable levels on Day 7.</population>
+          <units>copies per mL</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Detectable Viral Load Day 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="13"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3524" lower_limit="868" upper_limit="8315"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Detectable Viral Load Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2033" lower_limit="243" upper_limit="6386"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Detectable Viral Load Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="7"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="315" lower_limit="214" upper_limit="4162"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Detectable Viral Load Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="494" lower_limit="102" upper_limit="1292"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Serum Antibody Titers</title>
+        <description>Median Serum Antibody Titers at Day 0, Day 3, Day 5 and Day 7 Serum Antibody titers were measured using chemiluminescent SARS-CoV-2 immunoglobulin G (IgG) assay from Diazyme (Poway, CA) Positive IgG serum value is &gt; or = 1.0 arbitrary units/mL [AU/mL] (linear reportable range for IgG is 0.20 - 100.00 AU/mL)</description>
+        <time_frame>Day 0, Day 3, Day 5, and Day 7</time_frame>
+        <population>39 out of 41 patients had blood collected on day 0 (pre-transfusion), and on post-transfusion day 3 (n=36), 5 (n=30), and 7 (n=24) and serum antibody titers was assessed at each time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>COVID-19 Patients Treated With Convalescent Plasma</title>
+            <description>Severely ill COVID-19 patients treated with convalescent plasma
+Convalescent Plasma: treatment with 2 Units of convalescent plasma</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Serum Antibody Titers</title>
+          <description>Median Serum Antibody Titers at Day 0, Day 3, Day 5 and Day 7 Serum Antibody titers were measured using chemiluminescent SARS-CoV-2 immunoglobulin G (IgG) assay from Diazyme (Poway, CA) Positive IgG serum value is &gt; or = 1.0 arbitrary units/mL [AU/mL] (linear reportable range for IgG is 0.20 - 100.00 AU/mL)</description>
+          <population>39 out of 41 patients had blood collected on day 0 (pre-transfusion), and on post-transfusion day 3 (n=36), 5 (n=30), and 7 (n=24) and serum antibody titers was assessed at each time point.</population>
+          <units>arbitrary units/mL (AU/mL)</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>SARS-CoV-2 Antibodies Day 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="39"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18.5" lower_limit="1.0" upper_limit="75.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SARS-CoV-2 Antibodies Day 3</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="36"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37.2" lower_limit="4.5" upper_limit="74.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SARS-CoV-2 Antibodies Day 5</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47.4" lower_limit="6.7" upper_limit="80.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SARS-CoV-2 Antibodies Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="24"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="55.2" lower_limit="10.3" upper_limit="96.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Treatment and non-treatment related events were collected by non-systematic methods until discharge from the hospital or death, up to 28 days (which ever came first).</time_frame>
+      <desc>Adverse event and/or serious adverse event related to treatment with convalescent plasma</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>COVID-19 Patients Treated With Convalescent Plasma</title>
+          <description>Severely ill COVID-19 patients treated with convalescent plasma
+Convalescent Plasma: treatment with 2 Units of convalescent plasma</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="22" subjects_at_risk="48"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="48"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <description>One subject developed atrial fibrillation</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="48"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal bleed</sub_title>
+                <description>Two subjects had coffee ground emesis</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="48"/>
+              </event>
+              <event>
+                <sub_title>Pneumatosis intestinalis</sub_title>
+                <description>One subject had pneumatosis coli of the right colon, air in the superior mesenteric vein and portal venous gas in the liver</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="48"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Kidney Injury</sub_title>
+                <description>One subject developed acute kidney injury</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="48"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Persistent Hypoxemia</sub_title>
+                <description>One subject had persistent hypoxemia and needed extracorporeal membrane oxygenation (ECMO).</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="48"/>
+              </event>
+              <event>
+                <sub_title>Hypotension; Hypoxia</sub_title>
+                <description>One subject became hypotensive, hypoxic and was subsequently intubated</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="48"/>
+              </event>
+              <event>
+                <sub_title>pneumothorax; subcutaneous emphysema</sub_title>
+                <description>One subject developed pneumothorax and needed a chest tube</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="48"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>1</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="48"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fever</sub_title>
+                <description>Patient developed a fever 1 hour after plasma transfusion</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="48"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Product Issues</title>
+            <event_list>
+              <event>
+                <sub_title>Insufficient Antibodies</sub_title>
+                <description>Patient received convalescent plasma with insufficient antibodies</description>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="48"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Latha Dulipsingh, MD</name_or_title>
+      <organization>Saint Francis Hospital and Medical Center</organization>
+      <phone>860-714-4402</phone>
+      <email>Latha.Dulipsingh@trinityhealthofne.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

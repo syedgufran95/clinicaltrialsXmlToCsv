@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="834">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04551755</url>
+  </required_header>
+  <id_info>
+    <org_study_id>31211062020</org_study_id>
+    <nct_id>NCT04551755</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of Ivermectin and Doxycycline in Treatment of Covid-19</brief_title>
+  <official_title>The Safety and Efficacy Outcome of Ivermectin Plus Doxycycline in Treatment of RT-PCR Positive Adult Mild Covid-19 Cases: a Randomized Double Blind Placebo Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bangladesh Medical Research Council (BMRC)</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Bangladesh Medical Research Council (BMRC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomized double blind control trial will be done. Total 188 Covid-19 patients will be
+      enrolled in this trial who are RT-PCR confirmed case of mild cases. Before enrollment, base
+      line investigations will be done and as per eligibility criteria 188 (one hundred eighty
+      eight) patients of mild symptoms will be selected by random sampling. Ninety four diagnosed
+      patients (Group-A) of Covid-19 will be in the experimental group and 94 Covid-19 diagnosed
+      patients (Group-B) will be in the control group.
+
+      Group -A will be given combination treatment of Tab Ivermectin and Cap Doxycycline along with
+      standard therapy and Group -B will be treated by standard therapy with placebo.
+
+      Follow up will be done every day in both group with all the parameters as stated above and
+      will be documented.
+
+      On 5th day of treatment, if fever subsides final outcome will be measured by result of RT-PCR
+      test preferably from one designated lab with sample of nasal swab for all. Subject to RT-PCR
+      test negative result again on 6th day another RT-PCR test will be done at 24 hours apart. But
+      if RT-PCR test result remain positive on 5th day, again on 10th day same test is to be done
+      and also on 11th day subject to test result as negative on 10th day.
+
+      Death of the patients will be documented as well. Regarding safety issues of the drugs we
+      shall monitor for any SAE and would report to the DSMB for proper management guideline
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A randomized double blind control trial will be done. Total 188 Covid-19 patients will be
+      enrolled in this trial who are RT-PCR confirmed case of mild cases. Before enrollment, base
+      line investigations will be done and as per eligibility criteria 188 (one hundred eighty
+      eight) patients of mild symptoms will be selected by random sampling. Ninety four diagnosed
+      patients (Group-A) of Covid-19 will be in the experimental group and 94 Covid-19 diagnosed
+      patients (Group-B) will be in the control group.
+
+      Group -A will be given combination treatment of Tab Ivermectin and Cap Doxycycline along with
+      standard therapy and Group -B will be treated by standard therapy with placebo.
+
+      Follow up will be done every day in both group with all the parameters as stated above and
+      will be documented.
+
+      On 5th day of treatment, if fever subsides final outcome will be measured by result of RT-PCR
+      test preferably from one designated lab with sample of nasal swab for all. Subject to RT-PCR
+      test negative result again on 6th day another RT-PCR test will be done at 24 hours apart. But
+      if RT-PCR test result remain positive on 5th day, again on 10th day same test is to be done
+      and also on 11th day subject to test result as negative on 10th day.
+
+      Death of the patients will be documented as well. Regarding safety issues of the drugs we
+      shall monitor for any SAE and would report to the DSMB for proper management guideline
+
+      After six weeks of recovery one of our research staff will contact the patient over phone to
+      know about his/her recent health condition.
+
+      Randomization will be done by online software &quot;Sealed Envelope&quot; by using computer. Necessary
+      inputs will be given to the software regarding sample size, number of sets and number of
+      blocks required and the software automatically generate two distinct sets of random number.
+
+      &quot;Sealed Envelope&quot; will generate patient numbers into block of four and divide them into
+      groups. While procreating random numbers and thus equally distribute the patients into two
+      comparable groups. The randomization and sequence generation process will be conducted by a
+      competent third person who has no relationship with this study.
+
+      Data analysis will be done by using SPSS software. After collection of data from the
+      patients, all data will be checked and entered carefully. Data will be interpreted by
+      descriptive frequency of the relevant variables The primary analysis will be a stratified
+      log-rank test of the time to recovery with Ivermectin and Doxycycline as compared with
+      standard protocol, with stratification by disease severity.
+
+      Descriptive frequency of baseline investigation, follow up table on 2nd, 3rd and 4th day,
+      Final outcome table on 5th day and 10thday will also be presented.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to outcome measure of fever (&lt;100.40F)and cough</measure>
+    <time_frame>10 days</time_frame>
+    <description>Outcome measure of symptoms associated with covid, fever and cough</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Negative RT-PCR test on day 5 of treatment</measure>
+    <time_frame>10 days</time_frame>
+    <description>If the result of RT-PCR test is negative, then 24 hours apart another RT-PCR test will be done. Subject to 2 consecutive negative tests patient will be declared as cured</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">188</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Ivermectin plus Doxycycline plus standard care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Tab Ivermectin (6mg): 12mg first dose then one more dose of 12mgafter 12 hours 2) Cap. Doxycycline (100mg): 1+0+1 after meal for 10 days. To be taken with half glass of water and sit up for 20 minutes 3) Standard symptomatic and supportive treatment; Tab paracetamol, tab antihistamine, tab montelukast will be mostly used as symptomatic treatment, vitamin C and vitamin D as supplements</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo plus standard care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>1) Standard symptomatic and supportive treatment with placebo; Standard treatment includes tab paracetamol, tab antihistamine, tab montelukast will be mostly used as symptomatic treatment, vitamin C and vitamin D as supplements.
+Placebo (1) 2 tab stat then again 2 tab after 12 hours Placebo (2) will be given as 1+0+1 for 10 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin and Doxycycline</intervention_name>
+    <description>Tab Ivermectin (6mg): 12mg first dose then one more dose of 12mgafter 12 hours
+Cap. Doxycycline (100mg): 1+0+1 after meal for 10 days. To be taken with half glass of water and sit up for 20 minutes</description>
+    <arm_group_label>Ivermectin plus Doxycycline plus standard care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo (1) 2 tab stat then again 2 tab after 12 hours Placebo (2) will be given as 1+0+1 for 10 days</description>
+    <arm_group_label>Placebo plus standard care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects within age group 18 years to onward
+
+          -  With either sex, male or female
+
+          -  Confirmed mild cases of Covid-19 by RT-PCR test
+
+          -  patients who are classified as mild cases with typical symptoms
+
+          -  patients who are not already treated with any other antiviral drugs
+
+        Exclusion Criteria:
+
+          -  Patients who are asymptomatic,moderate, severe and critically ill (resting respiratory
+             rate more than 30, O2 saturation below 93%).
+
+          -  Patients with co-morbidities (diabetes, hypertension, chronic liver and kidney
+             diseases obesity, pre-existing ischemic heart disease, COPD,other severe disease)
+
+          -  Patients with pregnancy and on lactation
+
+          -  Patients with previous allergic reaction to Ivermectin or Doxycycline
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mohammad Tarek Alam, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Bangladesh Medical College Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mohammad Tarek Alam, MD</last_name>
+    <phone>01819185449</phone>
+    <email>mtarekalam16@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Abdul Basit Ibne Momen, MRCP</last_name>
+    <phone>01674255082</phone>
+    <email>abdulbasit17@gmail.com</email>
+  </overall_contact_backup>
+  <link>
+    <url>http://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports</url>
+    <description>Coronavirus disease (COVID-19) Weekly Epidemiological Update and Weekly Operational Update</description>
+  </link>
+  <link>
+    <url>http://www.worldometers.info/coronavirus/country/bangladesh/</url>
+    <description>Bangladesh Corona Virus Cases</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/animal-veterinary/product-safety-information/faq-covid-19-and-ivermectin-intended-animals</url>
+    <description>FAQ: COVID-19 and Ivermectin Intended for Animals</description>
+  </link>
+  <link>
+    <url>http://www.bbc.co.uk/news/amp/health-52799120?fbclid=IwAR2RBOESvQoDT0q6DCpbVmPVEIbtn_2lhwUkpWKSQRuO0ooJvjgcTt23Uw4</url>
+    <description>Coronavirus: WHO halts trials of hydroxychloroquine over safety fears</description>
+  </link>
+  <link>
+    <url>http://www.researchgate.net/publication/340644288_Open_Data_Resources_for_Fighting_COVID-19)</url>
+    <description>Open Data Resources for Fighting COVID-19</description>
+  </link>
+  <reference>
+    <citation>Beigel JH, Tomashek KM, Dodd LE, Mehta AK, Zingman BS, Kalil AC, Hohmann E, Chu HY, Luetkemeyer A, Kline S, Lopez de Castilla D, Finberg RW, Dierberg K, Tapson V, Hsieh L, Patterson TF, Paredes R, Sweeney DA, Short WR, Touloumi G, Lye DC, Ohmagari N, Oh MD, Ruiz-Palacios GM, Benfield T, Fätkenheuer G, Kortepeter MG, Atmar RL, Creech CB, Lundgren J, Babiker AG, Pett S, Neaton JD, Burgess TH, Bonnett T, Green M, Makowski M, Osinusi A, Nayak S, Lane HC; ACTT-1 Study Group Members. Remdesivir for the Treatment of Covid-19 - Preliminary Report. N Engl J Med. 2020 May 22. doi: 10.1056/NEJMoa2007764. [Epub ahead of print]</citation>
+    <PMID>32445440</PMID>
+  </reference>
+  <reference>
+    <citation>Mehlhorn H (2008). Encyclopedia of parasitology (3rd ed.). Berlin: Springer. p. 646. ISBN 978-3-540-48994-8</citation>
+  </reference>
+  <reference>
+    <citation>Vercruysse J, Rew RS, eds. (2002). Macrocyclic lactones in antiparasitic therapy. Oxon, UK: CABI Pub. p. Preface. ISBN 978-0-85199-840-4</citation>
+  </reference>
+  <reference>
+    <citation>Azeem S, Ashraf M, Rasheed MA, Anjum AA, Hameed R. Evaluation of cytotoxicity and antiviral activity of ivermectin against Newcastle disease virus. Pak J Pharm Sci. 2015 Mar;28(2):597-602.</citation>
+    <PMID>25730813</PMID>
+  </reference>
+  <reference>
+    <citation>Mastrangelo E, Pezzullo M, De Burghgraeve T, Kaptein S, Pastorino B, Dallmeier K, de Lamballerie X, Neyts J, Hanson AM, Frick DN, Bolognesi M, Milani M. Ivermectin is a potent inhibitor of flavivirus replication specifically targeting NS3 helicase activity: new prospects for an old drug. J Antimicrob Chemother. 2012 Aug;67(8):1884-94. doi: 10.1093/jac/dks147. Epub 2012 Apr 25.</citation>
+    <PMID>22535622</PMID>
+  </reference>
+  <reference>
+    <citation>Götz V, Magar L, Dornfeld D, Giese S, Pohlmann A, Höper D, Kong BW, Jans DA, Beer M, Haller O, Schwemmle M. Influenza A viruses escape from MxA restriction at the expense of efficient nuclear vRNP import. Sci Rep. 2016 Mar 18;6:23138. doi: 10.1038/srep23138. Erratum in: Sci Rep. 2016 May 09;6:25428.</citation>
+    <PMID>26988202</PMID>
+  </reference>
+  <reference>
+    <citation>Lundberg L, Pinkham C, Baer A, Amaya M, Narayanan A, Wagstaff KM, Jans DA, Kehn-Hall K. Nuclear import and export inhibitors alter capsid protein distribution in mammalian cells and reduce Venezuelan Equine Encephalitis Virus replication. Antiviral Res. 2013 Dec;100(3):662-72. doi: 10.1016/j.antiviral.2013.10.004. Epub 2013 Oct 22.</citation>
+    <PMID>24161512</PMID>
+  </reference>
+  <reference>
+    <citation>Caly L, Druce JD, Catton MG, Jans DA, Wagstaff KM. The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro. Antiviral Res. 2020 Jun;178:104787. doi: 10.1016/j.antiviral.2020.104787. Epub 2020 Apr 3.</citation>
+    <PMID>32251768</PMID>
+  </reference>
+  <reference>
+    <citation>Choudhary R, Sharma AK. Potential use of hydroxychloroquine, ivermectin and azithromycin drugs in fighting COVID-19: trends, scope and relevance. New Microbes New Infect. 2020 Apr 22;35:100684. doi: 10.1016/j.nmni.2020.100684. eCollection 2020 May. Review.</citation>
+    <PMID>32322397</PMID>
+  </reference>
+  <reference>
+    <citation>Conforti C, Giuffrida R, Zalaudek I, Di Meo N. Doxycycline, a widely used antibiotic in dermatology with a possible anti-inflammatory action against IL-6 in COVID-19 outbreak. Dermatol Ther. 2020 Apr 20:e13437. doi: 10.1111/dth.13437. [Epub ahead of print]</citation>
+    <PMID>32314492</PMID>
+  </reference>
+  <reference>
+    <citation>Sodhi M, Etminan M. Therapeutic Potential for Tetracyclines in the Treatment of COVID-19. Pharmacotherapy. 2020 May;40(5):487-488. doi: 10.1002/phar.2395. Epub 2020 May 4.</citation>
+    <PMID>32267566</PMID>
+  </reference>
+  <reference>
+    <citation>Mahévas M, Tran VT, Roumier M, Chabrol A, Paule R, Guillaud C, Fois E, Lepeule R, Szwebel TA, Lescure FX, Schlemmer F, Matignon M, Khellaf M, Crickx E, Terrier B, Morbieu C, Legendre P, Dang J, Schoindre Y, Pawlotsky JM, Michel M, Perrodeau E, Carlier N, Roche N, de Lastours V, Ourghanlian C, Kerneis S, Ménager P, Mouthon L, Audureau E, Ravaud P, Godeau B, Gallien S, Costedoat-Chalumeau N. Clinical efficacy of hydroxychloroquine in patients with covid-19 pneumonia who require oxygen: observational comparative study using routine care data. BMJ. 2020 May 14;369:m1844. doi: 10.1136/bmj.m1844. Erratum in: BMJ. 2020 Jun 18;369:m2328.</citation>
+    <PMID>32409486</PMID>
+  </reference>
+  <reference>
+    <citation>Tang W, Cao Z, Han M, Wang Z, Chen J, Sun W, Wu Y, Xiao W, Liu S, Chen E, Chen W, Wang X, Yang J, Lin J, Zhao Q, Yan Y, Xie Z, Li D, Yang Y, Liu L, Qu J, Ning G, Shi G, Xie Q. Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial. BMJ. 2020 May 14;369:m1849. doi: 10.1136/bmj.m1849.</citation>
+    <PMID>32409561</PMID>
+  </reference>
+  <reference>
+    <citation>Rosenberg ES, Dufort EM, Udo T, Wilberschied LA, Kumar J, Tesoriero J, Weinberg P, Kirkwood J, Muse A, DeHovitz J, Blog DS, Hutton B, Holtgrave DR, Zucker HA. Association of Treatment With Hydroxychloroquine or Azithromycin With In-Hospital Mortality in Patients With COVID-19 in New York State. JAMA. 2020 Jun 23;323(24):2493-2502. doi: 10.1001/jama.2020.8630.</citation>
+    <PMID>32392282</PMID>
+  </reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>September 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 16, 2020</study_first_posted>
+  <last_update_submitted>September 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Doxycycline</mesh_term>
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

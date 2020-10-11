@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1431">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04527601</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SafeBoosC COVID-19 ELGAN study</org_study_id>
+    <nct_id>NCT04527601</nct_id>
+  </id_info>
+  <brief_title>Extremely Premature Births During the Peak of the COVID-19 Pandemic: an International Study of the Active SafeBoosC III Departments</brief_title>
+  <official_title>Extremely Premature Births During the Peak of the COVID-19 Pandemic: an International Study of the Active SafeBoosC III Departments</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a retrospective, observational study based on the consortium of the SafeBoosC-III
+      randomised clinical trial. This study will evaluate if the number of admitted extremely
+      preterm infants has decreased in the SafeBoosC-III departments during the global lockdown,
+      and whether there is an association between the level of lockdown restrictions and change in
+      the number of ELGAN admissions.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      On the 11th of March 2020, COVID-19 was declared a pandemic by the World Health Organisation,
+      which led to an almost worldwide lockdown (1). During the lockdown, reductions in preterm
+      birth rates and very low birth weight infants have been reported in both Danish and Irish
+      studies. Within the SafeBoosC-III investigator group, several neonatologists concurrently
+      observed that the number of extremely low gestational age neonates (ELGAN) (gestational age
+      below 28 weeks) admitted to their respective departments, had declined during the pandemic,
+      while others observed no difference in the number of admitted ELGAN (oral communication).
+      Furthermore, despite a 60% increase in the number of hospitals open for randomisation in the
+      SafeBoosC-III trial from January to May, the randomisation rate has not increased as
+      expected. Investigators are therefore curious to evaluate if the number of admitted extremely
+      preterm infants has decreased in the SafeBoosC-III departments during the global lockdown,
+      and whether there is an association between the level of lockdown restrictions and change in
+      the number of ELGAN admissions. Investigators hope that this study will contribute further to
+      the knowledge of the COVID-19 pandemics' effect on ELGAN birth as well as its effect on
+      international randomised clinical trials.
+
+      This is a retrospective, observational study based on the consortium of the SafeBoosC-III
+      randomised clinical trial. The SafeBoosC-III trial investigates the benefit and harms of
+      treatment guided by cerebral near-infrared spectroscopy monitoring compared with treatment
+      and monitoring as usual in extremely preterm infants. All 79 neonatal intensive care units
+      (NICU) that are active in the consortium will be invited to participate in this study.
+      Primary investigators will be contacted and asked to provide the number of extremely low
+      gestational age neonates (ELGAN) admitted to their NICU within the most rigorous three months
+      of the COVID-19 pandemic as well as the number of ELGAN admitted within the same period in
+      2019. The most rigorous three months of the COVID-19 pandemic will be a subjective definition
+      by the local investigator, based on when the lockdown restrictions were strictest.
+      Investigators will be asked to clarify how and where the information has been obtained from.
+      Furthermore, investigators will be asked to classify the level of restrictions imposed upon
+      the public, during the lockdown period, in a Likert scale format from 1-5. Additionally,
+      investigators will be asked to categorize the impact of the COVID-19 lockdown on the everyday
+      life of a pregnant woman.
+
+      The number of ELGAN admissions during the three peak months in total, during the same months
+      in 2019, within each region and within each level of lockdown restriction, will be reported
+      as numbers. The primary outcome and the secondary outcome regarding the difference in the
+      number of ELGAN admissions between years and regions will be analysed by using Fisher's Exact
+      test for 1x2 tables. To analyse the correlation between the level of lockdown restrictions
+      and the change in number of ELGAN admissions, investigators will use simple linear
+      regression. The exploratory outcome investigating if lockdown restrictions could lead to
+      non-admittance of ELGAN will not undergo statistical analysis but will be reported and
+      discussed. For the primary outcome, an alfa level of 5% is chosen as a threshold for
+      significance. To correct for multiple testing in the secondary outcomes, investigators have
+      chosen an alfa level of 1%
+
+      In a previous funding application for the SafeBoosC-III trial, investigators estimated that
+      the 93 departments taking part in the application, had a total of 3000 ELGAN admissions per
+      year. Therefore, investigators expect participating departments on average to have had
+      approximately 30 admissions in 2019, i.e. approximately seven admissions in a three months
+      period. Therefore, if half of the NICUs (i.e. 40 departments) participate, investigators
+      would expect a total of 280 EP infant admissions within the 40 departments in 2019. Thus, a
+      16.5% change in the primary outcome is needed to show a statistical significance at a 5% alfa
+      level.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 21, 2020</start_date>
+  <completion_date type="Actual">September 13, 2020</completion_date>
+  <primary_completion_date type="Actual">September 13, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of ELGAN admissions during peak three months of COVID-19 compared to corresponding months in 2019</measure>
+    <time_frame>3 months</time_frame>
+    <description>The primary outcome will be the difference in the total number of ELGAN admissions in SafeBoosC-III departments during the peak three months of the COVID-19 pandemic in 2020 compared to the same three months period in 2019. The most rigorous three months of the COVID-19 pandemic will be a subjective definition by the local investigator, based on when the lockdown restrictions were strictest.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Regional difference in ELGAN admissions during peak three months of COVID-19 compared to corresponding months in 2019</measure>
+    <time_frame>3 months</time_frame>
+    <description>The difference in the number of ELGAN admissions during the peak three months of the COVID-19 pandemic versus the same three months in 2019, within the following regions:
+North America: USA Northern Europe: Denmark, Norway Eastern Europe: Austria, Poland, Czech Republic, Ukraine, Turkey Western Europe: Germany, UK, Ireland, Switzerland, Belgium Southern Europe: Spain, Portugal, Italy, Greece Asia: India, China</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the level of lockdown restrictions and number of ELGAN admissions during peak three months of COVID-19 compared to corresponding months in 2019</measure>
+    <time_frame>3 months</time_frame>
+    <description>Investigators will be asked to clarify how and where the information has been obtained from. Furthermore, investigators will be asked to classify the level of restrictions imposed upon the public, during the lockdown period, in a Likert scale format from 1-5.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Likelihood of restrictions leading to non-admittance of ELGAN</measure>
+    <time_frame>3 months</time_frame>
+    <description>For the purpose of an exploratory analysis, we will ask investigators to rate the likelihood that restrictions outside or inside health institutions in their country/region, have led to non-admittance of ELGAN. Causes could be intrauterine death, or no transfer from place of birth</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">885</enrollment>
+  <condition>Extreme Prematurity</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>ELGAN admissions during peak three months of COVID-19 pandemic</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ELGAN admissions in the three corresponding months of 2019</arm_group_label>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Extremely premature infants (GA&lt;28)
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Extremely low gestational age neonates admitted to participating NICUs
+
+        Exclusion Criteria:
+
+        -
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>22 Weeks</minimum_age>
+    <maximum_age>28 Weeks</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gorm Greisen, MD, Prof</last_name>
+    <role>Study Director</role>
+    <affiliation>Rigshospitalet, Denmark</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Neonatalklinikken, Rigshospitalet</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <link>
+    <url>http://www.safeboosc.eu</url>
+    <description>trial website</description>
+  </link>
+  <reference>
+    <citation>Hansen ML, Pellicer A, Gluud C, Dempsey E, Mintzer J, Hyttel-Sørensen S, Heuchan AM, Hagmann C, Ergenekon E, Dimitriou G, Pichler G, Naulaers G, Cheng G, Guimarães H, Tkaczyk J, Kreutzer KB, Fumagalli M, Claris O, Lemmers P, Fredly S, Szczapa T, Austin T, Jakobsen JC, Greisen G. Cerebral near-infrared spectroscopy monitoring versus treatment as usual for extremely preterm infants: a protocol for the SafeBoosC randomised clinical phase III trial. Trials. 2019 Dec 30;20(1):811. doi: 10.1186/s13063-019-3955-6.</citation>
+    <PMID>31888764</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Gorm Greisen</investigator_full_name>
+    <investigator_title>MD, professor</investigator_title>
+  </responsible_party>
+  <keyword>extreme prematurity</keyword>
+  <keyword>safeboosc</keyword>
+  <keyword>RCT</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Premature Birth</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

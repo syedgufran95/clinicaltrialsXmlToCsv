@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="364">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04536298</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020J-009152</org_study_id>
+    <nct_id>NCT04536298</nct_id>
+  </id_info>
+  <brief_title>Vitamin D and COVID-19 Trial</brief_title>
+  <acronym>VIVID</acronym>
+  <official_title>A Cluster-Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Efficacy of Vitamin D3 Supplementation to Reduce Disease Severity in Persons With Newly Diagnosed COVID-19 Infection and to Prevent Infection in Household Members</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Harvard Medical School</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harvard School of Public Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harvard Pilgrim Healthcare Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fenway Health and Beth Israel Deaconess Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tishcon Corporation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Takeda</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Quest Diagnostics</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Philanthropic donations</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Brigham and Women's Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Vitamin D and COVID-19 Trial (VIVID) is a nationwide randomized clinical trial in 2700
+      U.S. men and women to investigate whether taking a daily dietary supplement of vitamin D for
+      4 weeks reduces the risk of hospitalization and/or death in participants newly diagnosed with
+      COVID-19, and reduces the risk of infection with severe acute respiratory syndrome
+      coronavirus 2 (SARS-CoV-2) in their closest household contacts (as documented by
+      seroconversion).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Data from laboratory studies, epidemiologic research, and randomized clinical trials
+      conducted in the pre-COVID era strongly suggest that vitamin D is active in pathways relevant
+      to immune function and may reduce the risk of acute respiratory infections. More recently,
+      some observational studies have shown a significant association between low vitamin D status
+      and worse clinical outcomes among COVID-19 patients. Whether vitamin D supplementation can
+      reduce the risk of adverse clinical outcomes in recently diagnosed COVID-19 patients and/or
+      reduce risk of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV- 2)
+      in those likely to have been exposed to the virus (post-exposure prophylaxis) is unknown.
+
+      The Vitamin D and COVID-19 Trial (VIVID) is a nationwide, pragmatic, cluster-randomized
+      clinical trial in 2700 U.S. men and women investigating whether taking a daily dietary
+      supplement of vitamin D3 for 4 weeks reduces the risk of hospitalization and/or death in
+      people newly diagnosed with COVID-19, and reduces the risk of SARS-CoV-2 infection in their
+      closest household contacts.
+
+      The trial will enroll 1500 individuals aged 30 or older who are newly diagnosed with COVID-19
+      (&quot;index cases&quot;), together with 1200 of their closest household contacts aged 18 or older
+      (limited to at most one contact per household).
+
+      Following receipt of informed consent, all participants will be randomized -- i.e., assigned
+      by chance (like a coin toss) -- to one of two groups: (1) daily vitamin D3 (9600 IU/day on
+      days 1-2; 3200 IU/day on days 3-28) or (2) daily vitamin D placebo. Index cases and their
+      household contacts, if any, will be assigned to the same group (cluster randomization).
+      Participants will take three oral softgel capsules on day 1, three capsules on day 2, and one
+      capsule each day on days 3 through 28. Participants will receive a 4-week supply of study
+      capsules via overnight courier service.
+
+      Participants will fill out a short (15-20 minute) questionnaire each week during the 4-week
+      pill-taking period, as well as a follow-up questionnaire at 8 weeks after randomization.
+      These questionnaires ask about symptoms, general health, and use of medications and dietary
+      supplements. Questionnaires will be completed online using a secure Internet-based system
+      known as the Research Electronic Data Capture (REDCap) system. Participants must have an
+      e-mail address to enroll in the study. Occasionally, participants (or their delegates) may
+      receive a telephone call from study staff to collect information or to clarify answers on the
+      questionnaire. Participants will be able to contact investigators or staff using a toll-free
+      number, if they have any questions or need assistance.
+
+      Participants (or their delegates) who indicate on a study questionnaire that they have been
+      hospitalized will be sent a medical release form to be signed and returned. The release form
+      will be used to get medical records from the participant's physician or hospital to confirm
+      the specific reason for the hospitalization. In the event of a participant's death, the
+      participant's delegate will be sent a medical release form to be signed and returned. The
+      release form will be used to get medical records from the participant's physician or hospital
+      to confirm the specific cause of death.
+
+      Participants will provide dried blood spot samples at baseline and week 4. Participants will
+      provide these samples using a sample collection kit mailed to their homes. Blood samples will
+      be collected through a finger prick onto a filter paper. Blood samples will be stored and
+      used to measure vitamin D (25(OH)D) levels. In participants who are not diagnosed with
+      COVID-19 during the study, blood samples will be also be tested for COVID-19 antibodies.
+
+      Support for VIVID is provided by Harvard University and private philanthropy. Tishcon
+      Corporation (Salisbury, Maryland, USA) is donating the study capsules. The Karolinska
+      Institute (Stockholm, Sweden) is donating the serology assessment, and Quest Diagnostics (San
+      Juan Capistrano, California, USA) is donating biomarker measurements.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 15, 2020</start_date>
+  <completion_date type="Anticipated">January 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hospitalization or death in index cases</measure>
+    <time_frame>4 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported disease severity in index cases</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Severity: 1=no COVID-19 illness; 2=COVID-19 illness with no hospitalization; 3=COVID-19 illness with hospitalization or death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to hospitalization or death in index cases</measure>
+    <time_frame>4 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU admission/ventilation support in index cases</measure>
+    <time_frame>4 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 infection in close household contacts</measure>
+    <time_frame>4 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported disease severity in close household contacts</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Severity: 1=no COVID-19 illness; 2=COVID-19 illness with no hospitalization; 3=COVID-19 illness with hospitalization or death</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2700</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Vitamin D</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Daily vitamin D3 (9600 IU/day on days 1 and 2; 3200 IU/day on days 3 through 28)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>vitamin D</intervention_name>
+    <description>Vitamin D softgel capsules; each capsule contains 3200 IU of vitamin D3. Three capsules per day (9600 IU/day) will be taken on days 1 and 2, and one capsule per day (3200 IU/day) will be taken on days 3 through 28</description>
+    <arm_group_label>Vitamin D</arm_group_label>
+    <other_name>vitamin D3</other_name>
+    <other_name>cholecalciferol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo softgel capsules. Three capsules per day will be taken on days 1 and 2, and one capsule per day will be taken on days 3 through 28</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion/exclusion criteria for INDEX CASES:
+
+        Inclusion criteria
+
+          1. Adults aged 30 years or older who are newly diagnosed with COVID-19 infection within
+             72 hours of testing *AND* no more than 5 days from the onset of COVID-19-related
+             symptoms.
+
+          2. Age-specific criteria: Age 30 to 49 years with 2 or more comorbidities (diabetes;
+             hypertension; body mass index of 30 or greater; chronic obstructive pulmonary disease
+             or emphysema: history of heart attack, stroke, coronary bypass surgery, coronary
+             angioplasty or stent, hospitalization for heart failure; diagnosed sleep apnea) and/or
+             risk factors (smoking; African American, Hispanic, Native American) *OR* Age 50 to 59
+             years with 1 or more comorbidities or risk factors *OR* Age 60 or older regardless of
+             comorbidity or risk factor status.
+
+          3. Ability and willingness to understand and provide informed consent.
+
+        Exclusion criteria
+
+          1. Known current pregnancy.
+
+          2. Current hospitalization.
+
+          3. Unable to complete online questionnaires or adhere to study requirements.
+
+          4. Consume more than 400 IU per day of vitamin D from all supplemental sources combined
+             (individual vitamin D supplements, calcium plus vitamin D supplements, medications
+             with vitamin D [e.g., Fosamax Plus D], and multivitamins) in the past 4 weeks.
+
+          5. Known diagnosis of hypercalcemia or a condition associated with vitamin D
+             hypersensitivity.
+
+          6. Prior diagnosis of cancer *AND* currently undergoing radiation, chemotherapy, or
+             immunotherapy.
+
+          7. Kidney failure or dialysis; severe liver disease or cirrhosis.
+
+          8. Unstable, transient, or group (6 or more adults) living arrangement.
+
+          9. Participation in other COVID-19 trials.
+
+        Inclusion/exclusion criteria for HOUSEHOLD CONTACTS:
+
+        Inclusion criteria:
+
+          1. Persons aged 18 years or older who live in the same household as the index case and
+             have been identified as the closest contact within that household.
+
+          2. Ability and willingness to understand and provide informed consent.
+
+        Exclusion criteria:
+
+          1. Known current pregnancy.
+
+          2. History of SARS-CoV-2 infection with onset of symptoms more than 6 days before study
+             entry.
+
+          3. Receipt of a SARS-CoV-2 vaccination or monoclonal antibody.
+
+          4. Unable to complete online questionnaires or adhere to study requirements.
+
+          5. Consume more than 400 IU per day of vitamin D from all supplemental sources combined
+             (individual vitamin D supplements, calcium plus vitamin D supplements, medications
+             with vitamin D [e.g., Fosamax Plus D], and multivitamins) in the past 4 weeks.
+
+          6. Known diagnosis of hypercalcemia or a condition associated with vitamin D
+             hypersensitivity.
+
+          7. Prior diagnosis of cancer *AND* currently undergoing radiation, chemotherapy or
+             immunotherapy.
+
+          8. Kidney failure or dialysis; severe liver disease or cirrhosis.
+
+          9. Unstable, transient, or group (6 or more adults) living arrangement.
+
+         10. Participation in other COVID-19 trials.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>JoAnn E Manson, MD, DrPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rui Wang, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Harvard Medical School</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Davaasambuu Ganmaa, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Harvard School of Public Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Trisha Copeland, MS, RD</last_name>
+    <phone>1-877-517-2555</phone>
+    <email>pcopeland2@bwh.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Trisha Copeland, MS, RD</last_name>
+      <phone>877-517-2555</phone>
+      <email>pcopeland2@bwh.harvard.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Manson JE, Bassuk SS. Commentary. Eliminating vitamin D deficiency during the COVID-19 pandemic: A call to action. Metabolism. 2020 Jul 23;112:154322. doi: 10.1016/j.metabol.2020.154322. [Epub ahead of print]</citation>
+    <PMID>32712223</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brigham and Women's Hospital</investigator_affiliation>
+    <investigator_full_name>JoAnn E. Manson, MD</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2 infection</keyword>
+  <keyword>coronavirus</keyword>
+  <keyword>vitamin D</keyword>
+  <keyword>hospitalization</keyword>
+  <keyword>death</keyword>
+  <keyword>disease severity</keyword>
+  <keyword>treatment</keyword>
+  <keyword>prevention</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Ergocalciferols</mesh_term>
+    <mesh_term>Cholecalciferol</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Details will be provided at a later date.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

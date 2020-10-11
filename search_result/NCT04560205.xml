@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2571">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04560205</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LGH001</org_study_id>
+    <nct_id>NCT04560205</nct_id>
+  </id_info>
+  <brief_title>Tocilizumab in COVID-19 Lahore General Hospital</brief_title>
+  <acronym>TC19LGH</acronym>
+  <official_title>Tocilizumab: A Therapeutic Cache Against the Treatment of Severe Cases of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lahore General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lahore General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The most accepted description of severe COVID-19 disease is development and over production
+      of pro-inflammatory cytokines. Autopsy studies have been done on COVID-19 patients proved
+      that severe disease is resulted due to deviant host-immune response and cytokine storm.
+      Elevated inflammatory biomarkers like C-Reactive protein (CRP) and pro-inflammatory cytokines
+      shown to be higher in severe disease of COVID-19. Several studies on severe COVID-19 have
+      revealed raised levels of plasma cytokines like IL-6, IL-2, IL-10, Gamma interferon (INF),
+      Tumor necrosis factor Alpha TNF. The Cytokines release syndrome (CRS) is a hyperinflammatory
+      deadly syndrome characterized by release of uncontrolled immune system activation which is
+      responsible for multi-organ failure. It has the main role in ARDS due to SARS-CoV-2 virus
+      which binds to alveolar epithelium and resulting in IL-6 release that is responsible for
+      increase alveolar-epithelium permeability. In many studies it has been observed that IL-6
+      have played a main role in CRS induction. Previous experiences from hyperinflammatory and
+      cytokine storm syndromes recommends that early involvement of inhibiting CRS is essential to
+      prevent lethal tissue damage and poor clinical outcome. In this scenario the judgement of
+      clinical specialist who are suggesting that evidence of CRS can be cured with
+      glucocorticoids, I/V immunoglobulin and anti-cytokine therapy cannot be ignored.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is intervention single-center study, that will be done at Lahore General Hospital in
+      which 95 beds are allocated for COVID-19 patients including ICUs and HDUs. Ethical approval
+      will be obtained from research ethical committee of Lahore General hospital, Lahore. Informed
+      consent will be obtained from all patients who will agree to publish their data in this
+      research. Patient's privacy and obey will be protected with the Helsinki Declaration.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>quasi-experimental</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical response after administration</measure>
+    <time_frame>10 days</time_frame>
+    <description>Clinical improvement of COVID-19 patients by Tocillzumab The number of intubated patients. The number of patients with death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical response to treatment</measure>
+    <time_frame>15 days</time_frame>
+    <description>Overall survival of COVID-19 patients after drug administration.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>15 days</time_frame>
+    <description>Number of days of hospital admission either in ICU or HDUs till date of discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical outcome of the treatment</measure>
+    <time_frame>15 days</time_frame>
+    <description>Mortality rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supplemental Oxygen Requirement from Baseline</measure>
+    <time_frame>15 days</time_frame>
+    <description>Duration of increased supplemental oxygen requirement from baseline</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Group intervene with Tocilizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Review effect of Tocilizumab as clinical trial among hospitalized patients with COVID-19 infection.
+Participants with severe disease will receive an intravenous (IV) injection of 8 mg/kg (not to exceed 800 mg) tocilizumab. Specifically, we will test whether tocilizumab is associated with a reduction in multi-organ dysfunction among hospitalized COVID-19 adult patients with elevated inflammatory biomarkers.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tocilizumab</intervention_name>
+    <description>4-8mg/kg with 400mg maximum dose of Tocilizumab will be given in 60 minutes I/V infusion, and dose will be repeated after 12-24 hours according to clinical as well as laboratory parameters.
+Customized decision for Tocilizumab usage will be made by attending infectious diseases physician, comfort with Tocilizumab usage, bacterial co-infection and duration of Ventilation.</description>
+    <arm_group_label>Group intervene with Tocilizumab</arm_group_label>
+    <other_name>ACTEMRA®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All patients of all ages, males and non-pregnant females who will be diagnosed
+             COVID-19 positive by RT-PCR.
+
+          -  Patients having classical radiological lesions of COVID-19 on X-ray chest or HRCT
+             chest.
+
+          -  Patient &gt;55 years of age Or Age &lt;55 with comorbid condition who will be unable to
+             maintain O2 sat &gt; 93% with 5-7 liter of oxygen.
+
+          -  Or Patient &lt; 55 with no comorbid conditions, who will be unable to maintain O2 sat &gt;
+             93% with 7-10 liter of oxygen.
+
+          -  Respiratory rate &gt; 30-35/ min and &gt;50% of radiological involvement of lung with
+             typical lesions.
+
+          -  Along with &gt; 50% deranged ≥ 2 biochemical markers CRP &gt; 50 mg/l, LDH &gt; 1000U/L,
+             D.Dimer &gt; 1mg/l or 1000 ng/ml, Serum Ferritin &gt; 1000 ng/ml or mcg/l will be included
+             in clinical trial.
+
+        Exclusion Criteria:
+
+          -  Patient who will not require supplemental oxygen during hospital stay.
+
+          -  Patients on Invasive mechanical ventilation (IMV).
+
+          -  Patients with respiratory rate &lt; 30/mins and whose laboratory findings will not be
+             deranged &gt; 50%.
+
+          -  Patients with improving radiological findings will be excluded.
+
+          -  Patients suffering from Active TB
+
+          -  Herpes zoster
+
+          -  Multiple sclerosis,
+
+          -  Allergic to tocilizumab
+
+          -  Presences of chronic renal failure &gt; 4 stage, GFR &lt; 30ml/min/1.73m2.
+
+          -  ALT/AST &gt; 5 times than normal values.
+
+          -  Presences of neutropenia &lt; 500/mm3.
+
+          -  Platelets count less than 50 ×103 /µl.
+
+          -  Complicated diverticulitis/ intestinal perforation.
+
+          -  Immune-suppressive anti- rejection therapy.
+
+          -  Pregnant women.
+
+          -  Previous MI/ IHD, IV heart failure.
+
+          -  Psychiatric patients.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sardar Al-Fareed Zafar</last_name>
+    <role>Study Director</role>
+    <affiliation>Post-Graduate Medical Institute, Lahore General Hospital, Lahore Pakistan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Muhammad Irfan Malik</last_name>
+    <phone>03334367220</phone>
+    <email>drmirfanmalik@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Lahore General Hospital</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punjab</state>
+        <zip>54500</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Muhammad Irfan malik</last_name>
+      <phone>03334367220</phone>
+      <email>drmirfanmalik@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <reference>
+    <citation>Wichmann D, Sperhake JP, Lütgehetmann M, Steurer S, Edler C, Heinemann A, Heinrich F, Mushumba H, Kniep I, Schröder AS, Burdelski C, de Heer G, Nierhaus A, Frings D, Pfefferle S, Becker H, Bredereke-Wiedling H, de Weerth A, Paschen HR, Sheikhzadeh-Eggers S, Stang A, Schmiedel S, Bokemeyer C, Addo MM, Aepfelbacher M, Püschel K, Kluge S. Autopsy Findings and Venous Thromboembolism in Patients With COVID-19: A Prospective Cohort Study. Ann Intern Med. 2020 Aug 18;173(4):268-277. doi: 10.7326/M20-2003. Epub 2020 May 6.</citation>
+    <PMID>32374815</PMID>
+  </reference>
+  <reference>
+    <citation>Ramos-Casals M, Brito-Zerón P, López-Guillermo A, Khamashta MA, Bosch X. Adult haemophagocytic syndrome. Lancet. 2014 Apr 26;383(9927):1503-1516. doi: 10.1016/S0140-6736(13)61048-X. Epub 2013 Nov 27. Review. Erratum in: Lancet. 2014 Apr 26;383(9927):1464.</citation>
+    <PMID>24290661</PMID>
+  </reference>
+  <reference>
+    <citation>Radbel J, Narayanan N, Bhatt PJ. Use of Tocilizumab for COVID-19-Induced Cytokine Release Syndrome: A Cautionary Case Report. Chest. 2020 Jul;158(1):e15-e19. doi: 10.1016/j.chest.2020.04.024. Epub 2020 Apr 25.</citation>
+    <PMID>32343968</PMID>
+  </reference>
+  <reference>
+    <citation>Liu B, Li M, Zhou Z, Guan X, Xiang Y. Can we use interleukin-6 (IL-6) blockade for coronavirus disease 2019 (COVID-19)-induced cytokine release syndrome (CRS)? J Autoimmun. 2020 Jul;111:102452. doi: 10.1016/j.jaut.2020.102452. Epub 2020 Apr 10. Review.</citation>
+    <PMID>32291137</PMID>
+  </reference>
+  <reference>
+    <citation>Henderson LA, Canna SW, Schulert GS, Volpi S, Lee PY, Kernan KF, Caricchio R, Mahmud S, Hazen MM, Halyabar O, Hoyt KJ, Han J, Grom AA, Gattorno M, Ravelli A, De Benedetti F, Behrens EM, Cron RQ, Nigrovic PA. On the Alert for Cytokine Storm: Immunopathology in COVID-19. Arthritis Rheumatol. 2020 Jul;72(7):1059-1063. doi: 10.1002/art.41285. Epub 2020 May 10.</citation>
+    <PMID>32293098</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 23, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Lahore General Hospital</investigator_affiliation>
+    <investigator_full_name>Dr. M.Irfan Malik</investigator_full_name>
+    <investigator_title>Associate Professor of Pulmonology / Focal Person COVID-19</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>IL-6 Inhibitor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

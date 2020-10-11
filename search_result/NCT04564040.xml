@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3293">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04564040</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D8223C00005</org_study_id>
+    <nct_id>NCT04564040</nct_id>
+  </id_info>
+  <brief_title>A Study in Healthy Subjects to Assess Bioavailability (Proportion of a Drug Which Enters the Circulation to Have an Active Effect) of Acalabrutinib Tablet and Protonpump Inhibitor Effect (Members of a Class of Medications That Inhibits in Gastric Acid Production) for Rabeprazole</brief_title>
+  <official_title>A 2-Part, Phase I, Open-label, Single-dose, Sequential, Randomized, Crossover Study of Acalabrutinib Tablet Suspension Delivered Via Nasogastric Tube in Healthy Subjects to Evaluate Relative Bioavailability and Proton-pump Inhibitor (Rabeprazole) Effect</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Parexel</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 1 study is being conducted to support the clinical development of acalabrutinib in
+      hospitalized patients who are unable to swallow acalabrutinib tablet or capsule due to
+      respiratory failure, eg, they may require endotracheal intubation for ventilator support and
+      nasogastric (NG) tube placement, and it is important to have a clinically acceptable method
+      to administer acalabrutinib via NG tube.
+
+      Part 1 of the study is designed to evaluate relative bioavailability by comparing the
+      pharmacokinetic (PK) of AT suspension in water administered via NG tube with the PK of
+      acalabrutinib capsule suspension in flat COCA-COLA administered via NG tube. Additionally,
+      the PPI effect will be evaluated by comparing the PK of AT suspension in water administered
+      via NG tube plus rabeprazole with the PK of AT suspension in water administered via NG tube.
+
+      Part 2 of the study is designed to evaluate the effect of NG administration on AT by
+      comparing the PK of AT suspension in water administered via NG tube with the PK of AT orally
+      administered with water.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Part 1 of the study comprises:
+
+        -  A screening period of maximum 28 days.
+
+        -  Three treatment periods during which subjects will reside in the Clinical Unit from Day
+           -2, Treatment Period 1 until at least 48 hours after dosing on Day 1, Treatment Period
+           3, ie, subjects will be discharged the morning of Day 3, Treatment Period 3.
+
+        -  A Follow-up Visit within 7 to 10 days after the last dose of acalabrutinib.
+
+      There will be a minimum washout period of 4 days between treatment periods. Up to 20 subjects
+      will be included to ensure at least 16 subjects are evaluable. Subjects will be randomized to
+      one of 2 treatment sequences (ABC, BAC) and each subject will receive single doses of 3
+      treatments under fasted conditions.
+
+      Part 2 of the study comprises:
+
+        -  A screening period of maximum 28 days.
+
+        -  Two treatment periods during which subjects will reside in the Clinical Unit from Day
+           -2, Treatment Period 1 until at least 48 hours after dosing on Day 1, Treatment Period
+           2, ie, subjects will be discharged the morning of Day 3, Treatment Period 2.
+
+        -  A Follow-up Visit within 7 to 10 days after the last dose of acalabrutinib.
+
+      There will be a minimum washout period of 4 days between treatment periods. Up to 20 subjects
+      will be included to ensure at least 16 subjects are evaluable. Subjects will be randomized to
+      one of 2 treatment sequences (DA, AD) and each subject will receive single doses of 2
+      treatments under fasted conditions.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 7, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part 1 and 2: Area under plasma concentration-time curve from time zero to infinity (AUCinf)</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of AUCinf of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of AUCinf of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and 2: Area under the plasma concentration time curve from time zero to time of last quantifiable concentration (AUClast)</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of AUClast of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of AUClast of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and Part 2: Maximum observed plasma concentration (Cmax)</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of Cmax of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of Cmax of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and Part 2: Area under the plasma concentration-time curve from time zero to 24 hours post dose (AUC0-24)</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of AUC0-24 of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of AUC0-24 of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and 2: Time to reach maximum observed plasma concentration (tmax)</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of tmax of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of tmax of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and 2: Half-life associated with terminal slope (λz) of a semi-logarithmic concentrationtime curve (t1/2)</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of t1/2 of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of t1/2 of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and 2: Mean residence time of the drug in the systemic circulation from zero to infinity (MRT)</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of MRT of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of MRT of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and 2: Terminal elimination rate constant (λz)</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of λz of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of λz of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and 2: Apparent total body clearance of drug from plasms after extravascular administration (acalabrutinib only (CL/F)</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of CL/F of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of CL/F of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and 2: Apparent volume of distribution during the terminal phase after extravascular administration (acalabrutinib only) (Vz/F)</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of Vz/F of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of Vz/F of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and 2: Metabolite to parent ratio based on AUCinf and/or AUClast (M:P[AUC])</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of M:P[AUC] of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of M:P[AUC] of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1 and 2: Metabolite to parent ratio based on Cmax (M:P[Cmax])</measure>
+    <time_frame>Day 1 (pre-dose, 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 5, 6, 8, 10, 12 hours post-dose), Day 2 (24 hours post-dose)</time_frame>
+    <description>Part 1: Comparison of M:P[Cmax] of acalabrutinib and its metabolite (ACP-5862) following NG administration of AT suspension versus NG administration of acalabrutinib capsule suspension and to evaluate the effect of PPI (rabeprazole) on acalabrutinib and ACP-5862 PK profiles following NG administration of AT suspension.
+Part 2: Comparison of M:P[Cmax] of acalabrutinib and ACP 5862 following NG administration of AT suspension versus oral administration of AT.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of subjects with serious and non-serious adverse events</measure>
+    <time_frame>From screening visit (Day -28) to Follow-up visit (7-10 days after last dose or early termination)</time_frame>
+    <description>Part 1: To evaluate the safety and tolerability of AT suspension administered via NG tube and to evaluate the safety and tolerability of AT suspension via NG tube when co-administered with rabeprazole.
+Part 2: To evaluate the safety and tolerability of AT, administered orally.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Mantle Cell Lymphoma</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Treatment Sequence 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1: Participants will receive Treatment A (100 mg AT suspension in water via NG administration) in Period 1, Treatment B (100 mg acalabrutinib capsule suspension via NG administration) in Period 2, and Treatment C (100 mg AT suspension in water via NG administration plus 20 mg rabeprazole) in Period 3.
+Part 2: Participants will receive Treatment D (100 mg AT suspension in water via NG administration) in Period 1 and Treatment A in Period 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Sequence 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1: Participants will receive Treatment B in Period 1, Treatment A in Period 2, and Treatment C in Period 3.
+Part 2: Participants will receive Treatment A in Period 1 and Treatment D in Period 2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acalabrutinib Treatment A</intervention_name>
+    <description>Participants will receive 100 mg AT suspension in water via NG tube.</description>
+    <arm_group_label>Treatment Sequence 1</arm_group_label>
+    <arm_group_label>Treatment Sequence 2</arm_group_label>
+    <other_name>AT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acalabrutinib Treatment B</intervention_name>
+    <description>Participants will receive 100 mg acalabrutinib capsule suspension via NG tube.</description>
+    <arm_group_label>Treatment Sequence 1</arm_group_label>
+    <arm_group_label>Treatment Sequence 2</arm_group_label>
+    <other_name>Acalabrutinib capsule</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acalabrutinib Treatment C</intervention_name>
+    <description>Participants will receive 100 mg AT suspension in water via NG administration plus 20 mg rabeprazole.</description>
+    <arm_group_label>Treatment Sequence 1</arm_group_label>
+    <arm_group_label>Treatment Sequence 2</arm_group_label>
+    <other_name>AT and Pariet® (raberprazole)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acalabrutinib Treatment D</intervention_name>
+    <description>Participants will receive 100 mg AT orally.</description>
+    <arm_group_label>Treatment Sequence 1</arm_group_label>
+    <arm_group_label>Treatment Sequence 2</arm_group_label>
+    <other_name>AT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Provision of signed and dated, written informed consent form (ICF) prior to any
+             study-specific procedures.
+
+          -  Healthy adult male and female subjects aged 18 to 55 years (inclusive) with suitable
+             veins for cannulation or repeated venipuncture.
+
+          -  Male subjects and their female partners/spouses must adhere to the contraception
+             methods.
+
+          -  Female subjects must have a negative pregnancy test at screening and on admission,
+             must not be lactating, and must be of non childbearing potential, confirmed at
+             screening.
+
+          -  Have a body mass index between 18.5 and 30 kg/m^2, inclusive, and weigh at least 50 kg
+             and no more than 100 kg, inclusive, at screening.
+
+          -  Understands the study procedures in the ICF and willing and able to comply with the
+             protocol.
+
+        Exclusion Criteria:
+
+          -  History or presence of any clinically significant disease or disorder which, in the
+             opinion of the Investigator, may either put the subject at risk because of
+             participation in the study, or influence the results or the subject's ability to
+             participate in the study.
+
+          -  History or presence of gastrointestinal, hepatic or renal disease, or any other
+             condition known to interfere with absorption, distribution, metabolism, or excretion
+             of drugs, as judged by the Investigator.
+
+          -  Any clinically significant illness, medical/surgical procedure, or trauma within 30
+             days of the first administration of study medication.
+
+          -  Any clinically significant abnormalities in hematology, coagulation, clinical
+             chemistry, or urinalysis results, at screening and on first admission to the Clinical
+             Unit, as judged by the Investigator and defined as:
+
+             (i) Hemoglobin less than lower limit of normal. (ii) Platelet count less than lower
+             limit of normal. (iii) Absolute neutrophil count less than the lower limit of normal.
+             (iv) Prothrombin time, Activated partial thromboplastin time or International
+             normalized ratio above upper limit of normal (ULN).
+
+             (v) Serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline
+             phosphatase (ALP) or serum bilirubin (total and direct) &gt; 1.5 ULN.
+
+          -  Any clinically significant abnormal findings in vital signs at screening and on first
+             admission to the Clinical Unit, as judged by the Investigator, eg:
+
+             (i) Systolic blood pressure (BP) &lt; 90 mmHg or ≥ 140 mmHg and diastolic blood pressure
+             (DBP) &lt; 50 mmHg or ≥ 90 mmHg sustained for at least 10 minutes while resting in a
+             supine position.
+
+        (ii) Pulse &lt; 50 beats per minute (bpm) or &gt; 90 bpm.
+
+          -  Any clinically significant abnormalities on standard 12-lead electrocardiogram (ECG)
+             at screening and on first admission to the Clinical Unit, including but not limited to
+             any of the following:
+
+             (i) QTcF &gt; 450 millisecond (ms) or &lt; 340 ms or family history of long QT syndrome,
+             (ii) Any significant arrhythmia, (iii) Conduction abnormalities: Clinically
+             significant PR (PQ) interval prolongation (&gt; 240 ms); intermittent second or third
+             degree atrioventricular (AV) block, or AV dissociation, Complete bundle branch block
+             and/or QRS duration &gt; 120 ms.
+
+          -  Any positive result on screening for serum hepatitis B virus antigen or hepatitis B
+             core antibody, hepatitis C antibody, and human immunodeficiency virus antibody.
+
+          -  Has received a new chemical or biological entity within 90 days or at least 5
+             half-lives, whichever is the longest, of the first administration of study medication
+             in this study.
+
+          -  Plasma donation within 30 days of screening or any blood donation/loss more than 500
+             mL during the 90 days prior to screening.
+
+          -  History of severe allergy/hypersensitivity or ongoing allergy/hypersensitivity, as
+             judged by the Investigator or history of hypersensitivity to drugs with a similar
+             chemical structure or class to acalabrutinib or rabeprazole.
+
+          -  Current smokers or those who have smoked or used nicotine products (including e
+             cigarettes) within the 90 days prior to screening.
+
+          -  Positive screen for drugs of abuse or cotinine at screening and on each admission to
+             the Clinical Unit; positive screen for alcohol on each admission to the Clinical Unit.
+
+          -  Treatment with a strong CYP3A inhibitor (within 14 days before first administration of
+             study medication) or strong CYP3A inducer (within 28 days before first administration
+             of study medication).
+
+          -  Use of any prescribed or non prescribed medication.
+
+          -  Known or suspected history of alcohol or drug abuse, or excessive intake of alcohol as
+             judged by the Investigator.
+
+          -  Excessive intake of caffeine-containing drinks or food as judged by the Investigator.
+
+          -  Involvement of any AstraZeneca, Acerta Pharma, Parexel or study site employee or their
+             close relatives.
+
+          -  Judgment by the Investigator that the subject should not participate in the study if
+             they have any ongoing or recent (i.e., during the screening period) minor medical
+             complaints that may interfere with the interpretation of study data or are considered
+             unlikely to comply with study procedures, restrictions, and requirements.
+
+          -  Subjects who cannot communicate reliably with the Investigator.
+
+          -  Vulnerable subjects, eg, kept in detention, protected adults under guardianship,
+             trusteeship, or committed to an institution by governmental or juridical order.
+
+          -  Inability to swallow ATs or have a NG tube placed on separate occasions.
+
+          -  History of a disorder which would make NG tube placement contraindicated, eg,
+             esophageal strictures, esophageal varices, or bleeding diathesis.
+
+          -  Evidence of ongoing systemic bacterial, fungal, or viral infection.
+
+          -  Subject has a positive test result for severe acute respiratory syndrome coronavirus 2
+             (SARS-CoV-2) reverse transcriptase polymerase chain reaction before randomization.
+
+          -  Subject has clinical signs and symptoms consistent with corona virus disease 2019
+             (COVID-19), eg, fever, dry cough, dyspnea, sore throat, fatigue, or confirmed
+             infection by appropriate laboratory test within the last 4 weeks prior to screening or
+             on admission.
+
+          -  History of severe COVID-19 (hospitalization, extracorporeal membrane oxygenation,
+             mechanically ventilated).
+
+          -  Subjects who are regularly exposed to COVID-19 as part of their daily life.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr. Rainard Fuhr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Parexel</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>AstraZeneca Clinical Study Information Center</last_name>
+    <phone>1-877-240-9479</phone>
+    <email>information.center@astrazeneca.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Parexel International GmbH</name>
+      <address>
+        <city>Berlin</city>
+        <zip>14050</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 25, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Sequential</keyword>
+  <keyword>Proton-pump Inhibitor</keyword>
+  <keyword>Relative Bioavailability</keyword>
+  <keyword>Bruton Tyrosine Kinase Inhibitor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers can request access to anonymized individual patient-level data from
+AstraZeneca group of companies sponsored clinical trials via the request portal. All requests will be evaluated as per the AZ disclosure commitment:
+https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure.
+Yes, indicates that AZ are accepting requests for IPD, but this does not mean all requests will be shared.</ipd_description>
+    <ipd_time_frame>AstraZeneca will meet or exceed data availability as per the commitments made to the EFPIA Pharma Data Sharing Principles. For details of our timelines, please rerefer to our disclosure commitment at:
+https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure</ipd_time_frame>
+    <ipd_access_criteria>When a request has been approved AstraZeneca will provide access to the de-identified individual patient-level data in an approved sponsored tool. Signed Data Sharing Agreement (non-negotiable contract for data accessors) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at:
+https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure</ipd_access_criteria>
+    <ipd_url>https://astrazenecagroup-dt.pharmacm.com/DT/Home</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="338">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04555109</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1000070462</org_study_id>
+    <nct_id>NCT04555109</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma for COVID-19 Research Donor Study</brief_title>
+  <acronym>CONCOR-Donor</acronym>
+  <official_title>Convalescent Plasma for COVID-19 Research (CONCOR) Donor Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Hospital for Sick Children</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Hospital for Sick Children</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Convalescent Plasma for COVID-19 Research (CONCOR-Donor) study, is a national, natural
+      history study of plasma donors recovered from COVID-19. CONCOR-Donor study will address
+      immune response, duration of protective immunity, and clinical factors and host genetics
+      contributing to the variability of immune response. We will also study long-term outcomes
+      from COVID-19 infection. Results from the study will help define therapeutic strategies for
+      COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The outbreak caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) led to
+      the global pandemic. There are currently no proven treatments for coronavirus disease
+      (COVID-19), however, convalescent plasma has emerged as a potential therapeutic to prevent
+      clinical deterioration. Convalescent plasma was successfully used for other infections, in
+      small numbers, but there is limited evidence for the efficacy of administering specific,
+      neutralizing antibodies by transfusion of convalescent plasma. The unknown role for
+      convalescent plasma in treating COVID-19 necessitates further study.
+
+      As trials are underway to determine efficacy of using convalescent plasma, we will use this
+      unique opportunity to conduct a national longitudinal cohort study of 1000 persons recovered
+      from COVID-19 and volunteer to donate convalescent plasma. Our aims are to:1) determine if
+      the variability of titers of viral neutralizing antibody and ELISA antibody are associated
+      with clinical and demographic factors; 2) determine duration of protective immunity in
+      recovered persons over 1 year and if modified by clinical and demographic factors; 3)
+      determine genetic risk predictors of the antibody response, and 4) create a biorepository
+      available to researchers from across Canada. Based on the World Health Organization (WHO)
+      Coordinated Global Research Map, this project addresses the priority of the natural history
+      of COVID-19 and clinical characterization of antibody response in the convalescent phase and
+      beyond.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 30, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Seroprevalence and duration of protective immunity</measure>
+    <time_frame>12 months</time_frame>
+    <description>Determine if the titers of SARS-CoV-2-specific neutralizing antibody and serum ELISA antibodies, are correlated with clinical and demographic factors such as age, sex, comorbidities, geographic region, and severity of prior COVID-19 symptoms, during the convalescent phase.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 Convalescents</arm_group_label>
+    <description>The cohort will include up to 1000 persons recovered from COVID-19, ages 17 - 65, that will provide a written consent form to participate in the study, complete questionnaires and provide a blood sample.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Specimen collection will include DNA, serum, plasma, peripheral blood mononuclear cells and
+      whole blood.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All that recovered from COVID-19 above age 17, that have tested positive or a household
+        contact that tested positive regardless of eligibility to donate plasma for the trials.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Recovered from COVID-19 infection
+
+          -  Signed informed consent form
+
+          -  Provide blood sample
+
+          -  Ability to complete a questionnaire
+
+        Exclusion Criteria:
+
+          -  None
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>17 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rulan Parekh, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Hospital for Sick Children</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rulan Parekh, MD</last_name>
+    <phone>416-813-7654</phone>
+    <phone_ext>328042</phone_ext>
+    <email>rulan.parekh@sickkids.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Hospital for Sick Children</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rulan Parekh, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Rulan Parekh, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <link>
+    <url>http://cancovid19plasma.ca/concor-donor/</url>
+    <description>CONCOR-Donor website</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 18, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The Hospital for Sick Children</investigator_affiliation>
+    <investigator_full_name>Rulan Parekh</investigator_full_name>
+    <investigator_title>Staff Physician, Associate Chief Clinical Research</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Convalescent plasma</keyword>
+  <keyword>Seroconversion</keyword>
+  <keyword>Immunity</keyword>
+  <keyword>National</keyword>
+  <keyword>Biorepository</keyword>
+  <keyword>Observational Study</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

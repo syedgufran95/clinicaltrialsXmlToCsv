@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3231">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04535778</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20347</org_study_id>
+    <nct_id>NCT04535778</nct_id>
+  </id_info>
+  <brief_title>COMPASS Study: an Online Cognitive-behavioural Therapy (CBT) Program Treating Anxiety and Low Mood in Long-term Conditions During the COVID-19 Pandemic</brief_title>
+  <acronym>COMPASS</acronym>
+  <official_title>Pilot RCT for COMPASS: an Online CBT Program Treating Anxiety and Low Mood in Long-term Conditions During the COVID-19 Pandemic.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>King's College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>MS Society</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Diabetes UK</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Rheumatoid Arthritis Society (NRAS)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kidney Care UK</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>King's College London</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a single-centre, interventional randomised controlled trial.
+
+      Participants will be individually randomised to receive either COMPASS online CBT + &quot;usual
+      care&quot; (standard LTC charity support), or usual care only. Randomisation will be stratified by
+      recruiting charity site to ensure a balance of participants with different LTCs across the
+      intervention and control arm. Randomisation will occur using a 1:1 allocation ratio managed
+      by RECAP software.
+
+      Participants randomised to COMPASS will receive access to the online program. It consists of
+      11 online modules which target challenges associated with living with LTC(s) and includes,
+      amongst other things, psycho-education, patient examples, interactive tasks and goal setting.
+      Participants are linked to a therapist; 'guide', who will provide 6 x 30 minute support
+      sessions delivered fortnightly in the format preferred by the client (phone and/or in-site
+      message).
+
+      Participants allocated to the usual care control arm will receive the usual care that is
+      available to them via their charity. All charities include a helpline which can be accessed
+      via telephone or email. The helplines at all charities offer one-off emotional and/or
+      informational support provided by people trained in active listening and/or counselling
+      skills. Additional support avenues that can be accessed may include online support groups,
+      local community support groups and informational resources.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 28, 2020</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Patient Health Questionnaire Anxiety and Depression Scale (PHQ-ADS)</measure>
+    <time_frame>At baseline, 6 weeks (mid-therapy) and 12 weeks (end of therapy)</time_frame>
+    <description>A composite measure of Generalised Anxiety Disorder questionnaire (GAD-7) and Patient Health Questionnaire (PHQ-9). Min score = 0, Max score = 48, with higher scores indicating higher levels of distress.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Work and social adjustment scale (WSAS)</measure>
+    <time_frame>At baseline, 6 weeks (mid-therapy) and 12 weeks (end of therapy)</time_frame>
+    <description>Social functioning. Min score = 0, Max score = 40 , with higher scores indicating greater functional impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in EQ-5D-3L</measure>
+    <time_frame>At baseline, 6 weeks (mid-therapy) and 12 weeks (end of therapy)</time_frame>
+    <description>Quality of life. Min score = 5, Max score = 15 , with higher scores more problems in the scale dimensions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Illness perception questionnaire - revised (IPQ-R), emotional subscale</measure>
+    <time_frame>At baseline, 6 weeks (mid-therapy) and 12 weeks (end of therapy)</time_frame>
+    <description>IPQ-R tailored to COVID-19 to establish emotional responses regarding the COVID-19 pandemic. Min score = 0, Max score = 24 , with higher scores indicating higher emotional responses.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Treatment of Illness-related Distress in Physical LTCs</condition>
+  <arm_group>
+    <arm_group_label>COMPASS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be treated with an online CBT program that is specifically tailored to illness-related distress in the context of long-term conditions. Participants will also have access to the standard charity resources.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard charity resources</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will be directed to the standard resources provided by the charities involved in the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>COMPASS</intervention_name>
+    <description>An 11 module, therapist-supported online CBT program.</description>
+    <arm_group_label>COMPASS</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard charity resources</intervention_name>
+    <description>Resources provided by the charities involved, including supportive listening, online support groups, information resources and local community support groups.</description>
+    <arm_group_label>Standard charity resources</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Aged 18 or over
+
+          -  Have responded to sign posting advise from the LTC charity or responded to an advert
+             placed on a LTC charity website expressing their interest in taking part in the study.
+
+          -  Speak English to a sufficiently high standard to allow them to interact with digital
+             CBT programs.
+
+          -  Live in the UK and can provide contact details of their registered general
+             practitioner
+
+          -  Have an email address to allow them to register with a digital CBT program and have a
+             basic understanding of the internet.
+
+          -  Scores ≥3 on the shortened patient health questionnaire (PHQ-4) self-report measure of
+             depression and anxiety in relation to their LTC and/or the COVID-19 pandemic.
+
+        Exclusion Criteria:
+
+          -  Evidence of alcohol and/or drug dependency, cognitive impairment, severe mental health
+             disorders, including bipolar disorder or psychosis
+
+          -  Acute suicidal risk requiring a level of support that cannot be provided by therapists
+             who are supporting patients remotely in their use of digital health interventions.
+
+          -  Receiving active psychological treatment. Active psychological treatment is defined as
+             receiving treatment from a psychologist/counselor/therapist or engaging with other
+             online psychological treatment interventions.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rona Moss-Morris</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>King's College London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Katrin Hulme</last_name>
+    <phone>020 7188 0179</phone>
+    <email>katrin.hulme@kcl.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Natasha Seaton</last_name>
+    <phone>020 7188 2590</phone>
+    <email>natasha.seaton@kcl.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Health Psychology Section</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 9RT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Natasha Seaton, Msc</last_name>
+      <phone>0207 188 1189</phone>
+      <email>natasha.seaton@kcl.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="13">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04547257</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CP022</org_study_id>
+    <nct_id>NCT04547257</nct_id>
+  </id_info>
+  <brief_title>Safety &amp; Performance Evaluation of Seraph 100 in Treatment of Pts With COVID-19</brief_title>
+  <acronym>CP022</acronym>
+  <official_title>Safety and Performance Evaluation of Seraph 100 Filter in the Treatment of Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ExThera Medical Europe BV</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ExThera Medical Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ExThera Medical Europe BV</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Safety and Performance Evaluation of Seraph 100 Microbind Affinity Blood Filter (Seraph 100)
+      in the treatment of patients with COVID-19
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, open-label, randomized, controlled clinical investigation designed to
+      evaluate the safety and performance of Exthera Medical Seraph 100 Microbind Affinity Blood
+      Filter in the reduction of pathogen load from the blood in septic patients with suspected,
+      life-threatening bloodstream infection (BSI).
+
+      Subjects from treatment and control group will follow standard of care treatment. Control
+      group will not be treated with Exthera Medical Seraph 100 Affinity Blood Filter (Seraph 100).
+
+      The clinical investigation will be conducted at approximately 3 centers in Germany. Subjects
+      will be randomized to the treatment group (Seraph 100 + standard of care) versus control
+      group (standard of care only).
+
+      Subjects will be followed until the last subject completes their 28-day follow-up phone call.
+      Clinical Investigation follow-up will occur at Baseline (confirmation of eligibility), Day 0
+      or Treatment, Follow-up visits after 12 hours, at Day 1, after 36 hours, at Day 2, Day 3, Day
+      7 and Follow-up phone call at 28 days
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 15, 2020</start_date>
+  <completion_date type="Anticipated">April 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 15, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The primary objectives are to demonstrate the safety and performance of the Exthera Medical Seraph 100 Microbind Affinity Blood Filter in the clinical improvement of COVID-19 patient, measured by the reduction of established and suspected prognostic parameters</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Organ failure</measure>
+    <time_frame>upto 48 hours</time_frame>
+    <description>Change in organ failure as assessed by a modified Sequential Organ Failure Assessment score (range, 0-24 hours, with higher scores indicating more dysfunction) from baseline to 48 hours</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Organ Failure</measure>
+    <time_frame>During ICU stay at 12hours, 24hours, 36hours, 96hours after treatment</time_frame>
+    <description>Change in organ failure as assessed by a modified Sequential Organ Failure Assessment score (range 0 - 24 hours, with higher scores indicating more dysfunction</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>up to 28 days</time_frame>
+    <description>All-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Viral load</measure>
+    <time_frame>up to 5 hours</time_frame>
+    <description>Reduction of viral load</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Organ dysfunction-free days</measure>
+    <time_frame>up to 28 days</time_frame>
+    <description>Organ dysfunction-free days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU complications</measure>
+    <time_frame>Daily during ICU stay up to 28 days</time_frame>
+    <description>Reduction of Intensive Care Unit (ICU) complications</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free days (VFDs</measure>
+    <time_frame>Daily ICU stay up to 28 days</time_frame>
+    <description>Ventilator-free days (VFDs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay (LOS) at ICU</measure>
+    <time_frame>Daily up to 28 days</time_frame>
+    <description>Length of stay (LOS) at ICU and hospital ward</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prognosis Factors</measure>
+    <time_frame>up to 48 hours</time_frame>
+    <description>Change of prognosis factors (D-Dimere, Troponin T, Ferritin, NTpro-BNP, LDH, IL6, sIL2</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Extracorporal therapy with Seraph 100 blood filter</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>patients receive antibiotics only as standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Seraph 100</intervention_name>
+    <description>Bloodfiltration with Seraph 100</description>
+    <arm_group_label>Treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Patients with confirmed COVID-19 infection
+
+          2. Be ≥ 18 years old and ≤90 years old
+
+          3. Acute respiratory distress syndrome assessed by a modified Sequential Organ Failure
+             Assessment score of at least 2 points
+
+          4. At least one additional organ dysfunction assessed by a modified Sequential Organ
+             Failure Assessment score of at least 1 point
+
+        Exclusion Criteria:
+
+          1. Subject is currently participating in another clinical investigation
+
+          2. Pregnant or nursing subjects and those who plan pregnancy during the clinical
+             investigation follow-up period
+
+          3. Presence of comorbid conditions, or other medical, social, or psychological conditions
+             that, in the investigator's opinion, could limit the subject's ability to participate
+             in the clinical investigation or to comply with follow-up requirements, or impact the
+             scientific soundness of the clinical investigation results
+
+          4. Have neutropenia (absolute neutrophil count &lt;500 cells/uL)
+
+          5. Have Child-Pugh Class C cirrhosis
+
+          6. Have platelet count &lt;30.000/uL
+
+          7. Contraindications for heparin sodium for injection
+
+          8. Subjects demonstrating any contraindication for this treatment as described in the IFU
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Herwig Gerlach, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vivantes Neukoelln Berlin</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jens Schirrmacher, PhD</last_name>
+    <phone>+ 31 43 8200 399</phone>
+    <email>jens@extheramedical.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Jens Schirrmacher</name>
+      <address>
+        <city>Vaals</city>
+        <state>Limburg</state>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jens Schirrmacher, PhD</last_name>
+      <phone>+31 43 8200 399</phone>
+      <email>jens@extheramedical.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Natascha de Jong</last_name>
+      <phone>+31682500427</phone>
+      <email>natascha@extheramedical.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>April 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Sponsor will be responsible for determining whether to register the clinical investigation on www.clinicaltrials.gov or any other clinical trials, in accordance with the International Committee of Medical Journal Editors guidelines, or any other applicable guidelines.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>in 9 months</ipd_time_frame>
+    <ipd_url>http://extheramedical.com</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

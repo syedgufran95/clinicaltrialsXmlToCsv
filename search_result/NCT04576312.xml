@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1030">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04576312</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UNI911-101</org_study_id>
+    <nct_id>NCT04576312</nct_id>
+  </id_info>
+  <brief_title>Study to Assess the Safety of Ascending Doses of UNI911 INHALATION in Healthy Volunteers in Preparation for Evaluation in Adults With COVID-19</brief_title>
+  <official_title>Phase 1 Randomized, Double-Blind, Parallel Group, Placebo-Controlled Study to Assess the Safety of Ascending Doses of UNI911 INHALATION in Healthy Volunteers in Preparation for Evaluation in Adults With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UNION therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UNION therapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1 Randomized, Double-Blind, Parallel Group, Placebo-Controlled Study to
+      Assess the Safety of Ascending Doses of UNI911 INHALATION in Healthy Volunteers in
+      Preparation for Evaluation in Adults with COVID-19
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 1 Randomized, Double-Blind, Parallel Group, Placebo-Controlled Study to
+      Assess the Safety of Ascending Doses of UNI911 INHALATION in Healthy Volunteers in
+      Preparation for Evaluation in Adults with COVID-19
+
+      44 subjects will be sequentially enrolled to receive dosage of UNI911 INHALATION or placebo.
+      4 sentinel subjects (one per cohort 1, 2 ,3 and 4 ) will be treated in an open-label manner
+      to confirm the safety of each dose sequentially. The remaining 40 subjects will be randomly
+      assigned (3:1) to either active or placebo.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 29, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assess safety of UNI911 INHALATION in healthy volunteers: AE frequency</measure>
+    <time_frame>Up to Day 6</time_frame>
+    <description>AE frequency in each cohort and treatment group</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic Parameters: Cmax</measure>
+    <time_frame>Up to Day 4 of participant treatment</time_frame>
+    <description>Maximum concentration of active drug molecules in blood (Cmax)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic Parameters: Tmax</measure>
+    <time_frame>Up to Day 4 of participant treatment</time_frame>
+    <description>Time to reach maximum level (Tmax)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic Parameters: AUC</measure>
+    <time_frame>Up to Day 4 of participant treatment</time_frame>
+    <description>Area Under the Curve of drug level in blood versus time (AUC)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic Parameters: Half life</measure>
+    <time_frame>Up to Day 4 of participant treatment</time_frame>
+    <description>Half life</description>
+  </other_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">44</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IP Single and Total Dose* (Inhalation): 4 mL0.1% / 3.4 mg Duration of Treatment: 1 day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IP Single and Total Dose* (Inhalation): 1 mL1% /8.4 mg Duration of Treatment: 1 day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IP Single and Total Dose* (Inhalation): 3 mL1%/25.2 mg Duration of Treatment: 1 day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IP Single and Total Dose* (Inhalation): 6 mL 1% /50.5 mg Duration of Treatment: 1 day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IP Single and Total Dose* (Inhalation): 6 mL1% /50.5mg 30 mL/252mg Duration of Treatment: 2.5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>UNI911 INHALATION</intervention_name>
+    <description>UNI911 INHALATION</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_label>Cohort 5</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (main ones):
+
+          1. Signed Informed Consent Form (ICF)
+
+          2. Male or non-pregnant and non-lactating female who is abstinent or agrees to use
+             effective contraceptive methods throughout the course of the study. Females must have
+             a negative urine beta-human chorionic gonadotropin hormone (hCG) pregnancy test prior
+             to dosing. (Women who are postmenopausal or who had tubal ligation/hysterectomy do not
+             need to have a pregnancy test done and do not need to agree to use contraception.)
+
+          3. ECG without clinically significant abnormalities (including QTcF &lt; 450 ms)
+
+          4. Age ≥ 18 and &lt; 65 years at the time of signing ICF
+
+          5. Normally active and in good health by medical history and physical examination
+
+          6. Minimum 80% of predicted lung function, including FEV1 after beta2-agonist, TLC, DCO,
+             and CPET with pulse oximetry
+
+          7. Chest X-ray without clinically significant abnormalities
+
+        Exclusion Criteria (main ones):
+
+          1. Enrollment in an UNI911 study in the previous 6 months
+
+          2. Clinically significant allergy (as judged by the investigator) or history of
+             significant adverse reaction to niclosamide or related compounds, to any of the
+             excipients used.
+
+          3. Underlying condition that may interfere with inhalation of the IP
+
+          4. Current acute or chronic condition (incl. COPD, asthma, or other severe respiratory
+             disease, CV disease, diabetes mellitus, obesity, malignant and autoimmune diseases)
+             unless considered clinically irrelevant and stable by the investigator
+
+          5. Renal impairment (eGFR &lt; 60 mL/min/1.73m2) or hepatic impairment (as judged by the
+             investigator)
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ulf Sjöbring, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>UNION therapeutics A/S</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mads Jellingsø</last_name>
+    <phone>+(45)53523044</phone>
+    <email>info@uniontherapeutics.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Wanja Nyoro</last_name>
+    <phone>+(45)61632069</phone>
+    <email>info@uniontherapeutics.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>DanTrials</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Torben Balchen</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 6, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

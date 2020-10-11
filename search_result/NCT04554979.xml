@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1385">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04554979</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1004</org_study_id>
+    <nct_id>NCT04554979</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Disease Duration and GIT Manifestations. A New Disease Severity Classification. An Egyptian Experience</brief_title>
+  <official_title>Corona Virus (COVID-19) Disease Duration and Gastrointestinal Tract (GIT) Manifestations; Can be New Disease Severity Classification. A Pilot Egyptian Single National Center Experience</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cairo University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cairo University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The present study conducted to correlate symptoms not only constitutional and respiratory,
+      but GIT as a principle presentation, with laboratory markers and COVID-19 severe acute
+      respiratory syndrome (SARS-COV2) disease outcomes, as the duration of symptoms varies
+      substantially between patients; the investigators undertook this study to determine the
+      optimal time to predict COVID-19 outcomes based on real-time experience.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This observational retrospective cohort single center national study was conducted on
+      patients who tested positive COVID-19 infection by the polymerase chain reaction (PCR) of
+      nasopharyngeal sample in the period from first June to the med of July 2020. Patients were
+      recruited from Kasr Al-Aini School of medicine, COVID-19 out-patient clinic, Cairo University
+      hospitals.
+
+      The diagnosis and classification of severity of COVID-19 infection were made according to the
+      clinical management of COVID-19, released by the World Health Organization (WHO), mild and
+      moderate case were recruited, the treatment protocol used was according to the Egyptian
+      ministry of health treatment recommendations, which met in part the criteria that was later
+      on published by the national institute of health, Mild and moderate cases once diagnosed by
+      PCR received hydroxychloroquine 400 mg twice daily first day and maintained on 200 mg twice
+      daily for 6 days in mild cases and 10 days in moderate cases. Also they received
+      anticoagulants, vitamin c and zinc. In case of secondary bacterial infection, empiric
+      antibiotics are started till result of sputum culture and sensitivity. Steroids were
+      initiated in hypoxic cases that required supplemental oxygen and in cases of persistent
+      symptoms.
+
+      Any adult patient (age ≥18 years) suffering from mild or moderate COVID-19 infection was
+      included in this study. While severe cases according to WHO classifications and patients aged
+      less than18 were excluded from the study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Actual">July 15, 2020</completion_date>
+  <primary_completion_date type="Actual">July 15, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 disease spectrum and duration</measure>
+    <time_frame>july 2020 to june 2020</time_frame>
+    <description>The investigators tried to correlate disease severity with disease duration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GIT manifestations among COVID-19 patients</measure>
+    <time_frame>july 2020 to june 2020</time_frame>
+    <description>spectrum of GIT manifestations in COVID-19 patients was investigated</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Non-communicable disease and COVID-19</measure>
+    <time_frame>july 2020 to june 2020</time_frame>
+    <description>The link between non-communicable disease (including diabetes, hypertension and Hypercholesterolemia) severity and COVID-19 prognosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seasonal change and COVID-19</measure>
+    <time_frame>july 2020 to june 2020</time_frame>
+    <description>the investigators studied the Impact of weather climate on COVID-19 presentations (higher incidence of diarrhea in COVID-19 patients in summer) and outcomes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Possible region specific classification for COVID-19 disease</measure>
+    <time_frame>july 2020 to june 2020</time_frame>
+    <description>The investigators tried to find new Egyptian classification fro COVID-19 disease severity</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">199</enrollment>
+  <condition>Covid19</condition>
+  <condition>Diarrhea</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <description>Duration of COVID-19 symptoms less than 12 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <description>Duration of COVID-19 symptoms equal or more than 12 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine Pill</intervention_name>
+    <description>hydroxychloroquine 400 mg twice daily first day and maintained on 200 mg twice daily for 6 days in mild cases and 10 days in moderate cases. Also they received anticoagulants, vitamin c and zinc. In case of secondary bacterial infection, empiric antibiotics are started</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+    <other_name>corticosteroids</other_name>
+    <other_name>anticoagulant</other_name>
+    <other_name>antibiotic</other_name>
+    <other_name>vitamin c pill</other_name>
+    <other_name>zinc pill</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients was recruited from COVID19 out-patient clinic, Cairo University hospitals.
+        Severity Classification made according to the WHO (13) and Egyptian ministry of health
+        treatment recommendations (14) Clinical data was collected including patient demographics
+        (age, gender, weight and height, body mass index, comorbid conditions (e.g.diabetes
+        mellitus, chronic pulmonary disease), vital signs. Clinical symptoms were recorded using
+        yes/no checklist about constitutional symptoms, respiratory symptoms, loss of taste, loss
+        of smell and gastrointestinal symptoms.The patients were followed up daily; by telehealth
+        through phone calls and commercial video chat platforms, till symptoms offset. Laboratory
+        assessment was collected within 24 hours of symptoms onset (complete blood picture, kidney
+        and liver biochemistry, random blood sugar, serum C-reactive protein, D-dimer, ferritin,
+        lipid profile, and lactate dehydrogenase). CT chest was performed and its result was
+        recorded
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Mild and moderate COVID-19 patients:
+
+        Exclusion Criteria:
+
+          -  Age less than 18 years
+
+          -  Severe COVID-19 patients: with dyspnea, hypoxia, or &gt;50 percent lung involvement on
+             imaging within 24 to 48 hours
+
+          -  Critical COVID-19 patients: with respiratory failure, shock, or multiorgan dysfunction
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mona M Hegazy, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Professor of Internal Medicine Hepatology &amp; gastroenterology Unit. Faculty of medicine Cairo University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ahmed M Abdul Ghani, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Lecturer of Internal Medicine Hepatology &amp; gastroenterology Unit. Faculty of medicine Cairo University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rania M Lithy, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Lecturer of Endemic medicine and hepatogastroenterology. Faculty of medicine Cairo University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Hoda M abdel-Hamid, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Lecturer of Respiratory medicine. Faculty of medicine Cairo University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mahmoud Wahba, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Lecturer of Internal Medicine Division of Gastroenterology, Kasr Alainy . Faculty of Medicine, Cairo University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Omar Ashoush, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Lecturer of Internal Medicine Hepatology &amp; gastroenterology Unit. Faculty of medicine Cairo University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mohamed Tharwat Hegazy, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Lecturer of Internal Medicine Department, Rheumatology and Clinical Immunology unit, Faculty of Medicine, Cairo University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Faculty of Medicine Cairo University</name>
+      <address>
+        <city>Cairo</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <reference>
+    <citation>1.World Health Organization. Novel coronavirus (2019-nCoV): situation report-40. Available at: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200229-sitrep-40-covid-19.pdf. Accessed 29 February 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Hoehl S, Rabenau H, Berger A, Kortenbusch M, Cinatl J, Bojkova D, Behrens P, Böddinghaus B, Götsch U, Naujoks F, Neumann P, Schork J, Tiarks-Jungk P, Walczok A, Eickmann M, Vehreschild MJGT, Kann G, Wolf T, Gottschalk R, Ciesek S. Evidence of SARS-CoV-2 Infection in Returning Travelers from Wuhan, China. N Engl J Med. 2020 Mar 26;382(13):1278-1280. doi: 10.1056/NEJMc2001899. Epub 2020 Feb 18.</citation>
+    <PMID>32069388</PMID>
+  </reference>
+  <reference>
+    <citation>Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.</citation>
+    <PMID>32007143</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Shi H, Han X, Jiang N, Cao Y, Alwalid O, Gu J, Fan Y, Zheng C. Radiological findings from 81 patients with COVID-19 pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis. 2020 Apr;20(4):425-434. doi: 10.1016/S1473-3099(20)30086-4. Epub 2020 Feb 24.</citation>
+    <PMID>32105637</PMID>
+  </reference>
+  <reference>
+    <citation>Jin X, Lian JS, Hu JH, Gao J, Zheng L, Zhang YM, Hao SR, Jia HY, Cai H, Zhang XL, Yu GD, Xu KJ, Wang XY, Gu JQ, Zhang SY, Ye CY, Jin CL, Lu YF, Yu X, Yu XP, Huang JR, Xu KL, Ni Q, Yu CB, Zhu B, Li YT, Liu J, Zhao H, Zhang X, Yu L, Guo YZ, Su JW, Tao JJ, Lang GJ, Wu XX, Wu WR, Qv TT, Xiang DR, Yi P, Shi D, Chen Y, Ren Y, Qiu YQ, Li LJ, Sheng J, Yang Y. Epidemiological, clinical and virological characteristics of 74 cases of coronavirus-infected disease 2019 (COVID-19) with gastrointestinal symptoms. Gut. 2020 Jun;69(6):1002-1009. doi: 10.1136/gutjnl-2020-320926. Epub 2020 Mar 24.</citation>
+    <PMID>32213556</PMID>
+  </reference>
+  <reference>
+    <citation>Pan L, Mu M, Yang P, Sun Y, Wang R, Yan J, Li P, Hu B, Wang J, Hu C, Jin Y, Niu X, Ping R, Du Y, Li T, Xu G, Hu Q, Tu L. Clinical Characteristics of COVID-19 Patients With Digestive Symptoms in Hubei, China: A Descriptive, Cross-Sectional, Multicenter Study. Am J Gastroenterol. 2020 May;115(5):766-773. doi: 10.14309/ajg.0000000000000620.</citation>
+    <PMID>32287140</PMID>
+  </reference>
+  <reference>
+    <citation>8. Wang D, Hu B, Hu C, et al. Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China. [published online ahead of print, 2020 Feb 7]. JAMA 2020;e201585. doi:10.1001/jama.2020.1585</citation>
+  </reference>
+  <reference>
+    <citation>Mo P, Xing Y, Xiao Y, Deng L, Zhao Q, Wang H, Xiong Y, Cheng Z, Gao S, Liang K, Luo M, Chen T, Song S, Ma Z, Chen X, Zheng R, Cao Q, Wang F, Zhang Y. Clinical characteristics of refractory COVID-19 pneumonia in Wuhan, China. Clin Infect Dis. 2020 Mar 16. pii: ciaa270. doi: 10.1093/cid/ciaa270. [Epub ahead of print]</citation>
+    <PMID>32173725</PMID>
+  </reference>
+  <reference>
+    <citation>D'Amico F, Baumgart DC, Danese S, Peyrin-Biroulet L. Diarrhea During COVID-19 Infection: Pathogenesis, Epidemiology, Prevention, and Management. Clin Gastroenterol Hepatol. 2020 Jul;18(8):1663-1672. doi: 10.1016/j.cgh.2020.04.001. Epub 2020 Apr 8.</citation>
+    <PMID>32278065</PMID>
+  </reference>
+  <reference>
+    <citation>Tian S, Chang Z, Wang Y, Wu M, Zhang W, Zhou G, Zou X, Tian H, Xiao T, Xing J, Chen J, Han J, Ning K, Wu T. Clinical Characteristics and Reasons for Differences in Duration From Symptom Onset to Release From Quarantine Among Patients With COVID-19 in Liaocheng, China. Front Med (Lausanne). 2020 May 12;7:210. doi: 10.3389/fmed.2020.00210. eCollection 2020.</citation>
+    <PMID>32574322</PMID>
+  </reference>
+  <reference>
+    <citation>Lu Y, Li Y, Deng W, Liu M, He Y, Huang L, Lv M, Li J, Du H. Symptomatic Infection is Associated with Prolonged Duration of Viral Shedding in Mild Coronavirus Disease 2019: A Retrospective Study of 110 Children in Wuhan. Pediatr Infect Dis J. 2020 Jul;39(7):e95-e99. doi: 10.1097/INF.0000000000002729.</citation>
+    <PMID>32379191</PMID>
+  </reference>
+  <reference>
+    <citation>13. World Health Organization. Clinical management of COVID-19: interim guidance. 2020, p.62.</citation>
+  </reference>
+  <reference>
+    <citation>14. National Egyptian Institutes of Health. Coronavirus Disease (COVID-19) Treatment Guidelines. 2020.</citation>
+  </reference>
+  <reference>
+    <citation>World Medical Association Inc. Declaration of Helsinki. Ethical principles for medical research involving human subjects. J Indian Med Assoc. 2009 Jun;107(6):403-5.</citation>
+    <PMID>19886379</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 18, 2020</study_first_posted>
+  <last_update_submitted>September 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cairo University</investigator_affiliation>
+    <investigator_full_name>Mona Hegazy</investigator_full_name>
+    <investigator_title>Professor of Internal Medicine Hepatology &amp; gastroenterology Unit Faculty of medicine</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19 disease outcomes and duration</keyword>
+  <keyword>GIT manifestations</keyword>
+  <keyword>Diarrhea</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diarrhea</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anti-Bacterial Agents</mesh_term>
+    <mesh_term>Hydroxychloroquine</mesh_term>
+    <mesh_term>Anticoagulants</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

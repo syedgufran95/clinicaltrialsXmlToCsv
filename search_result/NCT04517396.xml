@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1961">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04517396</url>
+  </required_header>
+  <id_info>
+    <org_study_id>843729</org_study_id>
+    <nct_id>NCT04517396</nct_id>
+  </id_info>
+  <brief_title>FEnofibRate as a Metabolic INtervention for COVID-19</brief_title>
+  <acronym>FERMIN</acronym>
+  <official_title>FEnofibRate as a Metabolic INtervention for Coronavirus Disease 2019</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Arizona</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The severe acute respiratory syndrome coronavirus 2 (SARS-CoC-2), the virus responsible for
+      coronavirus disease 2019 (COVID-19), is associated with a high incidence of acute respiratory
+      distress syndrome (ARDS) and death. Aging, obesity, diabetes, hypertension and other risk
+      factors associated with abnormal lipid and carbohydrate metabolism are risk factors for death
+      in COVID-19. Recent studies suggest that COVID-19 progression is dependent on metabolic
+      mechanisms. Moreover, gene expression analyses in cultured human bronchial cells infected
+      with SARS-CoV-2 and lung tissue from patients with COVID-19, indicated a marked shift in
+      cellular metabolism, with excessive intracellular lipid generation. In this cell culture
+      system, fenofibrate (a widely available low-cost generic drug approved by the FDA and
+      multiple other regulatory agencies around the world to treat dyslipemias) at concentrations
+      that can be achieved clinically, markedly inhibited SARS-CoV-2 viral replication. Fenofibrate
+      also has immunomodulatory effects that may be beneficial in the setting of COVID-19. The aim
+      of this trial is to assess the clinical impact of fenofibrate (145 mg/d of Tricor or
+      dose-equivalent preparations for 10 days, with dose adjustment in chronic kidney disease
+      ([CKD]) to improve clinical outcomes in patients with COVID-19.
+    </textblock>
+  </brief_summary>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">August 18, 2020</start_date>
+  <completion_date type="Anticipated">August 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hierarchical composite endpoint</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>The primary endpoint of the trial will be a global rank score that ranks patient outcomes according to 5 factors: (1) time to death; (2) the number of days supported by invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); (3) The inspired concentration of oxygen/percent oxygen saturation (FiO2/SpO2) ratio area under the curve; (4) For participants enrolled as outpatients who are subsequently hospitalized, the number of days out of the hospital during the 30 day-period following randomization; (5) For participants enrolled as outpatients who don't get hospitalized during the 30-day observation period, the modified Borg dyspnea scale</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of days alive, out of the intensive care unit, free of mechanical ventilation/extracorporeal membrane oxygenation, or maximal available respiratory support in the 30 days following randomization</measure>
+    <time_frame>Up to 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seven-category ordinal scale</measure>
+    <time_frame>At 15 days</time_frame>
+    <description>A seven-category ordinal scale consisting of the following categories: 1, not hospitalized with resumption of normal activities; 2, not hospitalized, but unable to resume normal activities; 3, hospitalized, not requiring supplemental oxygen; 4, hospitalized, requiring supplemental oxygen; 5, hospitalized, requiring nasal high-flow oxygen therapy, noninvasive mechanical ventilation, or both; 6, hospitalized, requiring extracorporeal membrane oxygenation (ECMO), invasive mechanical ventilation, or both; and 7, death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hierarchical composite endpoint</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>A global rank score similar to the primary endpoint, but using a more comprehensive COVID-19 symptom scale instead of the dyspnea Borg scale</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>All-Cause Death</measure>
+    <time_frame>Up to 30 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of days alive and out of the hospital during the 30 days following randomization</measure>
+    <time_frame>Up to 30 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Hierarchical composite endpoint</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>A global rank score similar to the primary endpoint, but built only with factors 1-4 of the primary endpoint</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Fenofibrate + Usual Care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The randomized intervention will be Fenofibrate, in combination with usual care. Dosing: 145 mg of Tricor or a dose-equivalent preparation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + Usual Care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The randomized intervention will a matching placebo, in combination with usual care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Fenofibrate</intervention_name>
+    <description>The randomized intervention in the United States will be fenofibrate (Tricor) at a dose of 145 mg/d or equivalent, for 10 days. In all cases, appropriate dose reductions will be implemented for patients with chronic kidney disease as per the approved preparation label. The intended duration of randomized treatment will be for 10 days.</description>
+    <arm_group_label>Fenofibrate + Usual Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>The control intervention will be a placebo, for 10 days. A double-blinded placebo administration in the control arm will be implemented in the US. In international settings in which a double-blinded placebo intervention cannot be implemented in a timely fashion, unblinding of the investigator will be allowed, and triple blinding will remain (patient, clinician, and outcomes assessor).</description>
+    <arm_group_label>Placebo + Usual Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Usual care</intervention_name>
+    <description>All participants will otherwise receive usual medical care</description>
+    <arm_group_label>Fenofibrate + Usual Care</arm_group_label>
+    <arm_group_label>Placebo + Usual Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  A diagnosis of COVID-19, based on: (a) A compatible clinical presentation with a
+             positive laboratory test for SARS-CoV-2, or (b) Considered by the primary team to be a
+             Person Under Investigation undergoing testing for COVID-19 with a high clinical
+             probability, in addition to compatible pulmonary infiltrates on chest x-ray
+             (bilateral, intersticial or ground glass opacities) or chest CT.
+
+          -  Able to provide informed consent.
+
+          -  Fewer than 14 days since symptom onset.
+
+        Exclusion Criteria:
+
+          -  Known pregnancy or breastfeeding
+
+          -  Estimated glomerular filtration rate (eGFR) &lt;30 mL/min/1.73m2 or undergoing dialysis
+             (CKD stages 4-5).
+
+          -  History of active liver disease, cholelithiasis, hypothyroidism, or rhabdomyolysis
+             (suspected or confirmed).
+
+          -  Known hypersensitivity to fenofibrate or fenofibric acid.
+
+          -  Ongoing treatment with fenofibrate, clofibrate, warfarin and other coumarin
+             anticoagulants, glimepiride, cyclosporine, tacrolimus
+
+          -  Use of statins other than simvastatin or atorvastatin. For the latter 2 statins,
+             patients taking doses &gt;40 mg/d will be excluded
+
+          -  Prisoners/incarcerated individuals
+
+          -  Inability to read, write or no access to a smart phone, computer or tablet device
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Pennsylvania Health System</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Bornstein SR, Dalan R, Hopkins D, Mingrone G, Boehm BO. Endocrine and metabolic link to coronavirus infection. Nat Rev Endocrinol. 2020 Jun;16(6):297-298. doi: 10.1038/s41574-020-0353-9.</citation>
+    <PMID>32242089</PMID>
+  </reference>
+  <reference>
+    <citation>Yang JK, Feng Y, Yuan MY, Yuan SY, Fu HJ, Wu BY, Sun GZ, Yang GR, Zhang XL, Wang L, Xu X, Xu XP, Chan JC. Plasma glucose levels and diabetes are independent predictors for mortality and morbidity in patients with SARS. Diabet Med. 2006 Jun;23(6):623-8.</citation>
+    <PMID>16759303</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng J, Song Y. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med. 2020 Jul 1;180(7):934-943. doi: 10.1001/jamainternmed.2020.0994.</citation>
+    <PMID>32167524</PMID>
+  </reference>
+  <reference>
+    <citation>Zhu L, She ZG, Cheng X, Qin JJ, Zhang XJ, Cai J, Lei F, Wang H, Xie J, Wang W, Li H, Zhang P, Song X, Chen X, Xiang M, Zhang C, Bai L, Xiang D, Chen MM, Liu Y, Yan Y, Liu M, Mao W, Zou J, Liu L, Chen G, Luo P, Xiao B, Zhang C, Zhang Z, Lu Z, Wang J, Lu H, Xia X, Wang D, Liao X, Peng G, Ye P, Yang J, Yuan Y, Huang X, Guo J, Zhang BH, Li H. Association of Blood Glucose Control and Outcomes in Patients with COVID-19 and Pre-existing Type 2 Diabetes. Cell Metab. 2020 Jun 2;31(6):1068-1077.e3. doi: 10.1016/j.cmet.2020.04.021. Epub 2020 May 1.</citation>
+    <PMID>32369736</PMID>
+  </reference>
+  <reference>
+    <citation>McBride CE, Machamer CE. Palmitoylation of SARS-CoV S protein is necessary for partitioning into detergent-resistant membranes and cell-cell fusion but not interaction with M protein. Virology. 2010 Sep 15;405(1):139-48. doi: 10.1016/j.virol.2010.05.031. Epub 2010 Jul 1.</citation>
+    <PMID>20580052</PMID>
+  </reference>
+  <reference>
+    <citation>Ehrlich E, Uhl S, Ioannidis K, Hofree M, tenOever B, Nahmias Y. The SARS-CoV-2 Transcriptional Metabolic Signature in Lung Epithelium. Cell Sneak Peak (submission only). 2020</citation>
+  </reference>
+  <reference>
+    <citation>Schaefer MB, Pose A, Ott J, Hecker M, Behnk A, Schulz R, Weissmann N, Günther A, Seeger W, Mayer K. Peroxisome proliferator-activated receptor-alpha reduces inflammation and vascular leakage in a murine model of acute lung injury. Eur Respir J. 2008 Nov;32(5):1344-53. doi: 10.1183/09031936.00035808. Epub 2008 Jul 24.</citation>
+    <PMID>18653653</PMID>
+  </reference>
+  <reference>
+    <citation>Hecker M, Behnk A, Morty RE, Sommer N, Vadász I, Herold S, Seeger W, Mayer K. PPAR-α activation reduced LPS-induced inflammation in alveolar epithelial cells. Exp Lung Res. 2015;41(7):393-403. doi: 10.3109/01902148.2015.1046200.</citation>
+    <PMID>26151160</PMID>
+  </reference>
+  <reference>
+    <citation>Huang D, Zhao Q, Liu H, Guo Y, Xu H. PPAR-α Agonist WY-14643 Inhibits LPS-Induced Inflammation in Synovial Fibroblasts via NF-kB Pathway. J Mol Neurosci. 2016 Aug;59(4):544-53. doi: 10.1007/s12031-016-0775-y. Epub 2016 Jun 24.</citation>
+    <PMID>27339772</PMID>
+  </reference>
+  <reference>
+    <citation>Ling H, Luoma JT, Hilleman D. A Review of Currently Available Fenofibrate and Fenofibric Acid Formulations. Cardiol Res. 2013 Apr;4(2):47-55. doi: 10.4021/cr270w. Epub 2013 May 9. Review.</citation>
+    <PMID>28352420</PMID>
+  </reference>
+  <reference>
+    <citation>Ladabaum U, Mannalithara A, Myer PA, Singh G. Obesity, abdominal obesity, physical activity, and caloric intake in US adults: 1988 to 2010. Am J Med. 2014 Aug;127(8):717-727.e12. doi: 10.1016/j.amjmed.2014.02.026. Epub 2014 Mar 11.</citation>
+    <PMID>24631411</PMID>
+  </reference>
+  <reference>
+    <citation>O'Connor CM, Whellan DJ, Fiuzat M, Punjabi NM, Tasissa G, Anstrom KJ, Benjafield AV, Woehrle H, Blase AB, Lindenfeld J, Oldenburg O. Cardiovascular Outcomes With Minute Ventilation-Targeted Adaptive Servo-Ventilation Therapy in Heart Failure: The CAT-HF Trial. J Am Coll Cardiol. 2017 Mar 28;69(12):1577-1587. doi: 10.1016/j.jacc.2017.01.041. Erratum in: J Am Coll Cardiol. 2017 May 9;69(18):2355.</citation>
+    <PMID>28335841</PMID>
+  </reference>
+  <reference>
+    <citation>Margulies KB, Hernandez AF, Redfield MM, Givertz MM, Oliveira GH, Cole R, Mann DL, Whellan DJ, Kiernan MS, Felker GM, McNulty SE, Anstrom KJ, Shah MR, Braunwald E, Cappola TP; NHLBI Heart Failure Clinical Research Network. Effects of Liraglutide on Clinical Stability Among Patients With Advanced Heart Failure and Reduced Ejection Fraction: A Randomized Clinical Trial. JAMA. 2016 Aug 2;316(5):500-8. doi: 10.1001/jama.2016.10260.</citation>
+    <PMID>27483064</PMID>
+  </reference>
+  <reference>
+    <citation>Felker GM, Maisel AS. A global rank end point for clinical trials in acute heart failure. Circ Heart Fail. 2010 Sep;3(5):643-6. doi: 10.1161/CIRCHEARTFAILURE.109.926030.</citation>
+    <PMID>20841546</PMID>
+  </reference>
+  <reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </reference>
+  <reference>
+    <citation>Hozo SP, Djulbegovic B, Hozo I. Estimating the mean and variance from the median, range, and the size of a sample. BMC Med Res Methodol. 2005 Apr 20;5:13.</citation>
+    <PMID>15840177</PMID>
+  </reference>
+  <reference>
+    <citation>Julious SA. Sample sizes for clinical trials with normal data. Stat Med. 2004 Jun 30;23(12):1921-86. Review.</citation>
+    <PMID>15195324</PMID>
+  </reference>
+  <reference>
+    <citation>O'Brien PC, Fleming TR. A multiple testing procedure for clinical trials. Biometrics. 1979 Sep;35(3):549-56.</citation>
+    <PMID>497341</PMID>
+  </reference>
+  <reference>
+    <citation>PASS 16 Power Analysis and Sample Size Software. NCSS, LLC. Kaysville, Utah, USA, ncss.com/software/pass. 2018</citation>
+  </reference>
+  <reference>
+    <citation>Fay MP, Malinovsky Y. Confidence intervals of the Mann-Whitney parameter that are compatible with the Wilcoxon-Mann-Whitney test. Stat Med. 2018 Nov 30;37(27):3991-4006. doi: 10.1002/sim.7890. Epub 2018 Jul 8.</citation>
+    <PMID>29984411</PMID>
+  </reference>
+  <reference>
+    <citation>Willan AR, Pater JL. Carryover and the two-period crossover clinical trial. Biometrics. 1986 Sep;42(3):593-9.</citation>
+    <PMID>3567292</PMID>
+  </reference>
+  <reference>
+    <citation>Brown BW Jr. The crossover experiment for clinical trials. Biometrics. 1980 Mar;36(1):69-79.</citation>
+    <PMID>7370374</PMID>
+  </reference>
+  <reference>
+    <citation>GRIZZLE JE. THE TWO-PERIOD CHANGE-OVER DESIGN AN ITS USE IN CLINICAL TRIALS. Biometrics. 1965 Jun;21:467-80.</citation>
+    <PMID>14338679</PMID>
+  </reference>
+  <reference>
+    <citation>Therneau TM, Grambsch PM. Modeling Survival Data: Extending the Cox Model. In: Statistics for Biology and Health. New York, NY: Springer; 2001</citation>
+  </reference>
+  <reference>
+    <citation>Little RJ. Modeling the drop-out mechanism in repeated-measures studies. Journal of the American Statistical Association. 1995;90:1112-1121</citation>
+  </reference>
+  <reference>
+    <citation>Li P, Stuart EA, Allison DB. Multiple Imputation: A Flexible Tool for Handling Missing Data. JAMA. 2015 Nov 10;314(18):1966-7. doi: 10.1001/jama.2015.15281.</citation>
+    <PMID>26547468</PMID>
+  </reference>
+  <reference>
+    <citation>Tahmaz M, Kumbasar B, Ergen K, Ure U, Karatemiz G, Kazancioglu R. Acute renal failure secondary to fenofibrate monotherapy-induced rhabdomyolysis. Ren Fail. 2007;29(7):927-30.</citation>
+    <PMID>17994463</PMID>
+  </reference>
+  <reference>
+    <citation>Ghosh B, Sengupta S, Bhattacharjee B, Majumder A, Sarkar SB. Fenofibrate-induced myopathy. Neurol India. 2004 Jun;52(2):268-9.</citation>
+    <PMID>15269493</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou J, Li D, Cheng Q. Fenofibrate monotherapy-induced rhabdomyolysis in a patient with post-pancreatitis diabetes mellitus: A rare case report and a review of the literature. Medicine (Baltimore). 2020 May 22;99(21):e20390. doi: 10.1097/MD.0000000000020390.</citation>
+    <PMID>32481339</PMID>
+  </reference>
+  <reference>
+    <citation>Keech A, Simes RJ, Barter P, Best J, Scott R, Taskinen MR, Forder P, Pillai A, Davis T, Glasziou P, Drury P, Kesäniemi YA, Sullivan D, Hunt D, Colman P, d'Emden M, Whiting M, Ehnholm C, Laakso M; FIELD study investigators. Effects of long-term fenofibrate therapy on cardiovascular events in 9795 people with type 2 diabetes mellitus (the FIELD study): randomised controlled trial. Lancet. 2005 Nov 26;366(9500):1849-61. Erratum in: Lancet. 2006 Oct 21;368(9545):1420. Erratum in: Lancet. 2006 Oct 21;368(9545):1415.</citation>
+    <PMID>16310551</PMID>
+  </reference>
+  <reference>
+    <citation>Davidson MH. Reducing residual risk for patients on statin therapy: the potential role of combination therapy. Am J Cardiol. 2005 Nov 7;96(9A):3K-13K; discussion 34K-35K. Epub 2005 Sep 12. Review.</citation>
+    <PMID>16291008</PMID>
+  </reference>
+  <reference>
+    <citation>Guo J, Meng F, Ma N, Li C, Ding Z, Wang H, Hou R, Qin Y. Meta-analysis of safety of the coadministration of statin with fenofibrate in patients with combined hyperlipidemia. Am J Cardiol. 2012 Nov 1;110(9):1296-301. doi: 10.1016/j.amjcard.2012.06.050. Epub 2012 Jul 27. Review.</citation>
+    <PMID>22840347</PMID>
+  </reference>
+  <reference>
+    <citation>Davidson MH, Rooney MW, Drucker J, Eugene Griffin H, Oosman S, Beckert M; LCP-AtorFen Investigators. Efficacy and tolerability of atorvastatin/fenofibrate fixed-dose combination tablet compared with atorvastatin and fenofibrate monotherapies in patients with dyslipidemia: a 12-week, multicenter, double-blind, randomized, parallel-group study. Clin Ther. 2009 Dec;31(12):2824-38. doi: 10.1016/j.clinthera.2009.12.007.</citation>
+    <PMID>20110022</PMID>
+  </reference>
+  <reference>
+    <citation>ACCORD Study Group, Ginsberg HN, Elam MB, Lovato LC, Crouse JR 3rd, Leiter LA, Linz P, Friedewald WT, Buse JB, Gerstein HC, Probstfield J, Grimm RH, Ismail-Beigi F, Bigger JT, Goff DC Jr, Cushman WC, Simons-Morton DG, Byington RP. Effects of combination lipid therapy in type 2 diabetes mellitus. N Engl J Med. 2010 Apr 29;362(17):1563-74. doi: 10.1056/NEJMoa1001282. Epub 2010 Mar 14. Erratum in: N Engl J Med. 2010 May 6;362(18):1748.</citation>
+    <PMID>20228404</PMID>
+  </reference>
+  <reference>
+    <citation>Bergman AJ, Murphy G, Burke J, Zhao JJ, Valesky R, Liu L, Lasseter KC, He W, Prueksaritanont T, Qiu Y, Hartford A, Vega JM, Paolini JF. Simvastatin does not have a clinically significant pharmacokinetic interaction with fenofibrate in humans. J Clin Pharmacol. 2004 Sep;44(9):1054-62.</citation>
+    <PMID>15317833</PMID>
+  </reference>
+  <reference>
+    <citation>Whitfield LR, Porcari AR, Alvey C, Abel R, Bullen W, Hartman D. Effect of gemfibrozil and fenofibrate on the pharmacokinetics of atorvastatin. J Clin Pharmacol. 2011 Mar;51(3):378-88. doi: 10.1177/0091270010366446. Epub 2010 Apr 22.</citation>
+    <PMID>20413454</PMID>
+  </reference>
+  <reference>
+    <citation>Patiño-Rodríguez O, Martínez-Medina RM, Torres-Roque I, Martínez-Delgado M, Mares-García AS, Escobedo-Moratilla A, Covarrubias-Pinedo A, Arzola-Paniagua A, Herrera-Torres JL, Pérez-Urizar J. Absence of a significant pharmacokinetic interaction between atorvastatin and fenofibrate: a randomized, crossover, study of a fixed-dose formulation in healthy Mexican subjects. Front Pharmacol. 2015 Jan 29;6:4. doi: 10.3389/fphar.2015.00004. eCollection 2015.</citation>
+    <PMID>25688207</PMID>
+  </reference>
+  <reference>
+    <citation>Backman JT, Kyrklund C, Kivistö KT, Wang JS, Neuvonen PJ. Plasma concentrations of active simvastatin acid are increased by gemfibrozil. Clin Pharmacol Ther. 2000 Aug;68(2):122-9.</citation>
+    <PMID>10976543</PMID>
+  </reference>
+  <reference>
+    <citation>Kyrklund C, Backman JT, Neuvonen M, Neuvonen PJ. Gemfibrozil increases plasma pravastatin concentrations and reduces pravastatin renal clearance. Clin Pharmacol Ther. 2003 Jun;73(6):538-44.</citation>
+    <PMID>12811363</PMID>
+  </reference>
+  <reference>
+    <citation>Schneck DW, Birmingham BK, Zalikowski JA, Mitchell PD, Wang Y, Martin PD, Lasseter KC, Brown CD, Windass AS, Raza A. The effect of gemfibrozil on the pharmacokinetics of rosuvastatin. Clin Pharmacol Ther. 2004 May;75(5):455-63.</citation>
+    <PMID>15116058</PMID>
+  </reference>
+  <reference>
+    <citation>Guiomar V, Oliveira D, Correia C, Pereira E. Efficacy of Rituximab in Refractory Inflammatory Myopathy Associated With Coexistence of Behçet's Disease and Antiphospholipid Syndrome. Eur J Case Rep Intern Med. 2019 Nov 11;6(11):001294. doi: 10.12890/2019_001294. eCollection 2019.</citation>
+    <PMID>31890711</PMID>
+  </reference>
+  <reference>
+    <citation>Atmaca H, Sayarlioglu H, Külah E, Demircan N, Akpolat T. Rhabdomyolysis associated with gemfibrozil-colchicine therapy. Ann Pharmacother. 2002 Nov;36(11):1719-21.</citation>
+    <PMID>12398566</PMID>
+  </reference>
+  <reference>
+    <citation>Sugie M, Kuriki A, Arai D, Ichikawa H, Kawamura M. [A case report of acute neuromyopathy induced by concomitant use of colchicine and bezafibrate]. No To Shinkei. 2005 Sep;57(9):785-90. Review. Japanese.</citation>
+    <PMID>16248366</PMID>
+  </reference>
+  <reference>
+    <citation>Feher MD, Hepburn AL, Hogarth MB, Ball SG, Kaye SA. Fenofibrate enhances urate reduction in men treated with allopurinol for hyperuricaemia and gout. Rheumatology (Oxford). 2003 Feb;42(2):321-5.</citation>
+    <PMID>12595630</PMID>
+  </reference>
+  <reference>
+    <citation>Schlesinger N. Management of acute and chronic gouty arthritis: present state-of-the-art. Drugs. 2004;64(21):2399-416. Review.</citation>
+    <PMID>15481999</PMID>
+  </reference>
+  <reference>
+    <citation>Lee YH, Lee CH, Lee J. Effect of fenofibrate in combination with urate lowering agents in patients with gout. Korean J Intern Med. 2006 Jun;21(2):89-93.</citation>
+    <PMID>16913436</PMID>
+  </reference>
+  <reference>
+    <citation>Jung JY, Choi Y, Suh CH, Yoon D, Kim HA. Effect of fenofibrate on uric acid level in patients with gout. Sci Rep. 2018 Nov 13;8(1):16767. doi: 10.1038/s41598-018-35175-z.</citation>
+    <PMID>30425304</PMID>
+  </reference>
+  <reference>
+    <citation>Khanna PP. Gout: a patrician malady no more. Lancet Diabetes Endocrinol. 2018 Apr;6(4):263-264. doi: 10.1016/S2213-8587(18)30073-1.</citation>
+    <PMID>29571506</PMID>
+  </reference>
+  <reference>
+    <citation>Waldman B, Ansquer JC, Sullivan DR, Jenkins AJ, McGill N, Buizen L, Davis TME, Best JD, Li L, Feher MD, Foucher C, Kesaniemi YA, Flack J, d'Emden MC, Scott RS, Hedley J, Gebski V, Keech AC; FIELD investigators. Effect of fenofibrate on uric acid and gout in type 2 diabetes: a post-hoc analysis of the randomised, controlled FIELD study. Lancet Diabetes Endocrinol. 2018 Apr;6(4):310-318. doi: 10.1016/S2213-8587(18)30029-9. Epub 2018 Feb 26.</citation>
+    <PMID>29496472</PMID>
+  </reference>
+  <reference>
+    <citation>Ting R-D, Keech A. Fenofibrate and renal disease: clinical effects in diabetes. Clinical Lipidology. 2013;8(6):669-680</citation>
+  </reference>
+  <reference>
+    <citation>McDonald KB, Garber BG, Perreault MM. Pancreatitis associated with simvastatin plus fenofibrate. Ann Pharmacother. 2002 Feb;36(2):275-9.</citation>
+    <PMID>11847949</PMID>
+  </reference>
+  <reference>
+    <citation>Enger C, Gately R, Ming EE, Niemcryk SJ, Williams L, McAfee AT. Pharmacoepidemiology safety study of fibrate and statin concomitant therapy. Am J Cardiol. 2010 Dec 1;106(11):1594-601. doi: 10.1016/j.amjcard.2010.07.041. Epub 2010 Oct 14.</citation>
+    <PMID>21094360</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>August 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pennsylvania</investigator_affiliation>
+    <investigator_full_name>Julio A. Chirinos</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine at the Hospital of the University of Pennsylvania</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fenofibrate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Not making it available</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

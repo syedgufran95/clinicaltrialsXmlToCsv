@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3398">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04502433</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLI-050000-04</org_study_id>
+    <secondary_id>2020-002632-75</secondary_id>
+    <nct_id>NCT04502433</nct_id>
+  </id_info>
+  <brief_title>Poractant Alfa - Curosurf and SARS-COV-19 ARDS (Covid-19)</brief_title>
+  <official_title>Multicenter, Open-label, Randomised Trial to Assess the Efficacy and Tolerability of Poractant Alfa(Porcine Surfactant, Curosurf®) in Hospitalized Patients With SARS-COV-19 Acute Respiratory Distress Syndrome (ARDS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chiesi Farmaceutici S.p.A.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chiesi Farmaceutici S.p.A.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this Phase II -Proof of Concept study is to evaluate the efficacy and safety
+      of poractant alfa (Curosurf®), administered by endotracheal (ET) instillation in adult
+      hospitalized patients with SARS-COV-19 acute respiratory distress syndrome (ARDS)
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a UK multicentre, open-label, randomized phase II proof of concept study.
+
+      The efficacy and safety of poractant alfa will be evaluated in terms of ventilatory free days
+      during the 21 days after randomization, in adult patients with ARDS due to SARS-COV-19
+      infection.
+
+      The same evaluation is planned in a separate cohort of patients under extracorporeal membrane
+      oxygenation (vvECMO) in terms of ECMO free days during the 21 days after randomization.
+
+      Each patient randomized to the study treatment will receive three administrations of Curosurf
+      ® with a 24 hours dosing interval.
+
+      The assessment collection will last until day 28 when the evaluation will occur at the ICU,
+      or by phone call if the patient has been discharged before.
+
+      Seventy patients will be randomized in the study with a ratio 3:2 (i.e. 42 patients in the
+      poractant alfa arm and 28 in the control arm). An additional exploratory cohort of 15
+      patients in ECMO will be randomised by 3 sites with a ratio 3:2 (i.e. 9 patients in the
+      poractant alfa arm and 6 in the control arm).
+
+      The control arm population is treated as per Standard of Care (SoC).
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Seventy patients will be randomized in the study with a ratio 3:2 (i.e. 42 patients in the poractant alfa arm and 28 in the control arm). An additional exploratory cohort of 15 patients in ECMO will be randomized by 3 sites with a ratio 3:2 (i.e. 9 patients in the poractant alfa arm and 6 in the control arm).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>number of ventilator-free days</measure>
+    <time_frame>up to 21 days</time_frame>
+    <description>The primary outcome variable will be the number of ventilator-free days, defined as the number of days the patient is not receiving mechanical ventilation during the 21 days following randomisation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of free days from invasive ventilation</measure>
+    <time_frame>up to 21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of free days from non-invasive ventilation (NIV)</measure>
+    <time_frame>up to 21 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in PaO2/FiO2 ratio measured at 6 hours and 12 hours following administration of each dose in the treated group and at the similar timepoints in the control group</measure>
+    <time_frame>6, 12, 30, 36, 54 and 60 hours after randomisation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in PaO2/FiO2 ratio at additional timepoints</measure>
+    <time_frame>every 24 hours after treatment/randomisation until the patient is discharged from the ICU . Up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of ICU stay (days)</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality at Day 28</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ventilatory parameter (Tidal volume (TV))</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delta Sequential Organ Failure Assessment (SOFA) Score</measure>
+    <time_frame>up to 28 days</time_frame>
+    <description>min score 0 max score 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of all the AEs, AEs related to poractant alfa (treated cohort) (ADRs), serious AEs (SAEs) and AEs leading to death</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in blood gas analysis acid-base balance parameter (pH)</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients with PaO2/ FiO2 improvement of &gt;20% following administration of each dose in the treated group and at similar timepoints in the control group</measure>
+    <time_frame>at 6 and 12 hours following administration each dose in the treated group and at similar timepoints in the control group = up to 60 hours after the randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Extracorporeal Membrane Oxygenation (ECMO)-free days- (only for cohort 2 of patients in ECMO)</measure>
+    <time_frame>21 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in FiO2</measure>
+    <time_frame>(6, 12, 30, 36, 54 and 60 hours after randomisation + every 24 hours after treatment/randomisation until the patient is discharged from the ICU = up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ventilatory parameter (respiratory rate (RR))</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ventilatory parameter (dynamic compliance (Cdyn))</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ventilatory parameter (static compliance (Cstat))</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ventilatory parameter (positive end-expiratory pressure (PEEP)</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ventilatory parameter (peak inspiratory pressure (PIP))</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ventilatory parameter (plateau pressure (Pplat))</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in blood gas analysis acid-base balance parameter (pCO2)</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in blood gas analysis acid-base balance parameter (pO2)</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in blood gas analysis acid-base balance parameter (HCO3)</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in blood gas analysis acid-base balance parameter (lactate)</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">85</enrollment>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Control cohort</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Approximately 28 patients will be included in this main control cohort. An additional exploratory cohort of 6 patients in ECMO will be enrolled by 3 sites. The above-mentioned control cohort population will continue receiving the SoC</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Poractant alfa treated cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>42 patients will be treated with CUROSURF® (poractant alfa). An additional exploratory cohort of 9 patients in ECMO will be randomised by 3 sites and treated with the poractant alfa</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CUROSURF® (poractant alfa)</intervention_name>
+    <description>Three administrations with a 24 hours dosing interval.
+Each ET administration 1, 2, and 3 will consist of poractant alfa bolus:
+30mg /kg (Lean Body Weight-LBW) = 0.375ml /kg LBW. Dilution with normal saline up to 2ml /kg LBW</description>
+    <arm_group_label>Poractant alfa treated cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Participants are eligible to be included in the study if the following criteria apply:
+
+          1. Male or female ≥18 and ≤ 80 years of age
+
+          2. Informed consent for participation in the study (refer to section 15 for detailed
+             inform consent procedure)
+
+          3. Positive 2019-nCoV rt-PCR before randomisation
+
+          4. PaO2/FiO2 ratio &lt; 150 mmHg
+
+          5. Lung compliance ≤45 ml/cmH20
+
+          6. Intubated and artificially ventilated less than 48 hours before the first poractant
+             alfa administration
+
+             Additional inclusion criterion for ECMO-cohort:
+
+          7. Supported with vvECMO less than 48 hours before the first poractant alfa
+             administration - for the ECMO-cohort substudy cohort only
+
+        Exclusion Criteria:
+
+        Participants are excluded from the study if any of the following criteria apply:
+
+          1. Any contraindications to surfactant administration e.g., pulmonary hemorrhage and
+             pneumothorax)
+
+          2. Weight &lt; 40kg
+
+          3. Stage 4 severe chronic kidney disease (i.e., eGFR &lt; 30)
+
+          4. Pregnancy
+
+          5. Administration of any nebulized surfactant in the 48 hours before the first poractant
+             alfa administration
+
+          6. Extracorporeal membrane oxygenation* * [Exclusion criterion NOT applicable for
+             patients eligible for the ECMO-cohort]
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clark Howard, Prof. /MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University College, London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Chiesi Clinical trial Info</last_name>
+    <phone>+39 0521 2791</phone>
+    <email>clinicaltrials_info@chiesi.com</email>
+  </overall_contact>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Poractant alfa</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3332">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492449</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FOBpregnat</org_study_id>
+    <nct_id>NCT04492449</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Systemic and Oral Conditions of Pregnant Women and Their Babies, With Exposure to COVID-19 Infection</brief_title>
+  <acronym>(COVID-19</acronym>
+  <official_title>Evaluation of Systemic and Oral Conditions of Pregnant Women and Their Babies, With Exposure to Coronavirus SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Sao Paulo</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Maria Aparecida de Andrade Moreira Machado</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Thais Marchini de Oliveira Valarelli</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Sao Paulo</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research aims to investigate the incidence, clinical condition, mode of transmission and
+      laboratory data of women and their babies, who were exposed to COVID-19 infection during
+      pregnancy. This project will consist of 4 subprojects, being that Subprojects 1 and 2, will
+      be of the observational, longitudinal type of prospective Cohort; Subproject 3 will be of
+      prevalence; Subproject 4 will be case-control. Subproject 1- This study aims to assess
+      periodontal condition and quality of life before and after delivery of women with excess
+      weight gain or not, with exposure to coronavirus-sars-cov2. Subproject 2- Identify the
+      proteins differentially expressed in saliva associated with COVID-19 infection during the 3rd
+      trimester of pregnancy in obese and eutrophic patients. Subproject 3- Assess the prevalence
+      of congenital syndrome in babies associated with the presumed maternal infection with
+      SARS-CoV-2. Subproject 4- Case-control study in which newborns are submitted to clinical
+      examination, being a group with congenital malformations and their respective controls and an
+      interview with the mother was carried out.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The present study will be included pregnant women who are in the third trimester of pregnancy
+      (from the 27th gestational week), aged 18-40 years, with regular follow-up with the
+      obstetrician and who present adequate systemic health during pregnancy, without the need for
+      absolute rest. In subprojects 1 and 2, pregnant women who tested positive for IgM and IgG
+      serology will be evaluated. Pregnant women who test positive (n = 60) and pregnant women who
+      test negative (n = 60) for coronavirus sars-cov-2 will be selected, making a total of 120
+      pregnant women. In project 1 the sample will be divided into 4 groups of pregnant women: GOC-
+      with excessive weight gain and with COVID19 (n = 30), GOSC- without excessive weight gain and
+      COVID19, GNC- without excessive weight gain and with COVID19 (n = 30) and GNSC- without
+      excessive weight gain and without COVID19 (n = 30). For subproject 2 that will have proteomic
+      analysis, the number of 10 patients for each group (GOC, GOSC, GNC and GNSC) will be adopted
+      according to previous protocols for saliva proteomic analysis. Subprojects 3 and 4 will
+      consist of babies, to identify possible congenital changes during the fetal period. In
+      subproject 3, the 120 babies of the pregnant women participating in the study will be divided
+      into BC (n = 60) and BSC (n = 60), which will be evaluated for the occurrence of the
+      congenital syndrome associated with the presumed maternal infection by coronavirus sars-
+      cov-2. In project 4, the sample will consist of 20 babies with congenital malformations for
+      the case group (BM) and 20 control babies without congenital malformations (BSM), exposed to
+      COVID19.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Periodontal status</measure>
+    <time_frame>Interdental CAL is detectable at ≥2 non-adjacent teeth, or buccal CAL ≥3 mm with pocketing &gt;3 mm is detectable at ≥2 teeth. After, periodontitis will be classified in stages I, II, III and IV of periodontitis.</time_frame>
+    <description>Probing pocket depth (PPD) and clinical attachment level (CAL) will be assessed. The PPD will be measured from the free gingival margin to the bottom of the periodontal pocket, and CAL will be measured from the cementoenamel junction to the base of the periodontal pocket, at six dental sites (mesial buccal/lingual, cervical buccal/lingual, distal buccal/lingual) excluding the third molars.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life of pregnants</measure>
+    <time_frame>Subjects will be asked how often (0=never, 1=rarely, 2=occasionally, 3=often, and 4=very often) experienced impacts. Scores will be: no impact (0); low impact (0 &lt; OHIP≤ 9); moderate impact (9 &lt; OHIP≤ 18); and high impact (18 &lt; OHIP≤ 28).</time_frame>
+    <description>Quality of live will be investigated by a questionnaire (OHIP-14), the impact of oral health on patients' quality of life.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Maternal infection</measure>
+    <time_frame>Serological tests for IgG and IgM, considering positive IgM means that she has already been exposed and is in the active phase of the disease and, positive IgG indicates that the person has antibodies work as a protection.</time_frame>
+    <description>IgM and IgG serology test for COVID19</description>
+  </other_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">260</enrollment>
+  <condition>Exposure During Pregnancy</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Obese pregnants group</arm_group_label>
+    <description>Obese pregnants exposure of coronavirus infection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Normal pregnants group</arm_group_label>
+    <description>Normal pregnants exposure of coronavirus infection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>children with congenital malformations</arm_group_label>
+    <description>Child with congenital malformations</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>children without congenital malformations</arm_group_label>
+    <description>Child without congenital malformations</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>congenital malformation</intervention_name>
+    <description>congenital malformation</description>
+    <arm_group_label>children with congenital malformations</arm_group_label>
+    <arm_group_label>children without congenital malformations</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Projects: 1. The sample will be of pregnant women: GOC- with excessive weight gain and with
+        COVID19 (n = 30), GOSC- without excessive weight gain and COVID19, GNC- without excessive
+        weight gain and with COVID19 (n = 30 ) and GNSC- without excessive weight gain and without
+        COVID19 (n = 30); 2. The proteomic analysis the sample will be 10 patients for each group
+        (GOC, GOSC, GNC and GNSC); 3. The 120 babies of the pregnant women participating in the
+        study will be divided into BC (n = 60) and BSC (n = 60), which will be evaluated for the
+        occurrence of the congenital syndrome associated with the presumed maternal COVID-19
+        infection; 4. 20 babies with congenital malformations for the case group (BM) and 20
+        control babies without congenital malformations (BSM), exposed to COVID19.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria for pregnant will be in the third trimester of pregnancy (from the 27th
+        gestational week), aged 18-40 years, with regular follow-up with the obstetrician and who
+        present adequate systemic health during pregnancy, without the need for absolute rest.
+
+        Exclusion Criteria criteria for pregnant will be patients with neuromotor weakness,
+        hypertension and diabetes mellitus prior to pregnancy, malnutrition (BMI &lt;18.50 kg/m2),
+        overweight (BMI between 25.00 kg/m2 and 29.99 kg/m2), under antibiotic use or any
+        medication that may interfere with periodontal condition and users of
+        alcohol/tobacco/illicit drugs.
+
+        Inclusion criteria for babies will be mothers having tested COVID-19 positive and mothers
+        having tested COVID-19 negative in serological tests, to the BC group and the BSC group,
+        respectively.
+
+        Exclusion criteria for babies will be after measuring the measurements, exams and
+        eligibility criteria, they are not eligible for coronavirus contamination during the fetal
+        period.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <results_reference>
+    <citation>Liu D, Li L, Wu X, Zheng D, Wang J, Yang L, Zheng C. Pregnancy and Perinatal Outcomes of Women With Coronavirus Disease (COVID-19) Pneumonia: A Preliminary Analysis. AJR Am J Roentgenol. 2020 Jul;215(1):127-132. doi: 10.2214/AJR.20.23072. Epub 2020 Mar 18. Erratum in: AJR Am J Roentgenol. 2020 Jul;215(1):262.</citation>
+    <PMID>32186894</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Oliveira Melo AS, Malinger G, Ximenes R, Szejnfeld PO, Alves Sampaio S, Bispo de Filippis AM. Zika virus intrauterine infection causes fetal brain abnormality and microcephaly: tip of the iceberg? Ultrasound Obstet Gynecol. 2016 Jan;47(1):6-7. doi: 10.1002/uog.15831.</citation>
+    <PMID>26731034</PMID>
+  </results_reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>July 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Sao Paulo</investigator_affiliation>
+    <investigator_full_name>Silvia Helena de Carvalho Sales Peres</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>pregnant</keyword>
+  <keyword>child</keyword>
+  <keyword>Coronavirus Infections</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

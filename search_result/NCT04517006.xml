@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3189">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04517006</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00039312</org_study_id>
+    <nct_id>NCT04517006</nct_id>
+  </id_info>
+  <brief_title>Prosocial Behavior Can Safeguard Mental Health and Foster Emotional Well-being During the COVID-19 Pandemic</brief_title>
+  <official_title>Prosocial Behavior Can Safeguard Mental Health and Foster Emotional Well-being During the COVID-19 Pandemic: A Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Toronto</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 pandemic and the accompanying lockdown measures have made mental health a
+      pressing public health concern. Acts that focus on benefiting others-known as prosocial
+      behaviors-offer one promising intervention that is both flexible and low cost. However,
+      neither the range of emotional states prosocial acts impact nor the size of those effects is
+      currently clear, both of which directly influence its attractiveness as a treatment option.
+      Using a large online sample from Canada and the United States, the investigators will examine
+      the effect of a three-week prosocial intervention on two indicators of emotional well-being
+      (happiness and the belief that one's life is valuable) and mental health (anxiety and
+      depression). Respondents will be randomly assigned to perform prosocial, self-focused, or
+      neutral behaviors each week. Two weeks after the intervention, a final survey will assess
+      whether the intervention has a lasting effect on mental health and emotional well-being. The
+      results will illuminate whether prosocial interventions are a viable approach to addressing
+      mental health needs during the current COVID-19 pandemic, as well for those who face
+      emotional challenges during normal times.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is intended to be published as a registered report. The details of the study
+      design are likely to change somewhat during the review process. However, below is the current
+      plan:
+
+      The investigators will examine the effects of prosocial behavior using a 3-week experimental
+      intervention, followed by a follow-up assessment at 5 weeks. At baseline the research team
+      will measure participants' emotional well-being and mental health. Emotional well-being will
+      be assessed using happiness and feeling that one's life is valuable, which is a facet of
+      sense of meaning in life. Mental health will be measured as depression and anxiety. At the
+      end of the baseline survey the researchers will randomly assign participants to one of three
+      experimental conditions (between-subjects design). In each condition, respondents will be
+      asked to perform certain types of behaviors for the first three days of each week, as
+      detailed later in this protocol.
+
+      Respondents will be contacted for the first three days each week and asked to report what
+      they did. At the end of weeks 1, 2, and 3 they will complete a longer survey that repeats the
+      same measures of emotional well-being and mental health used at baseline. At this point the
+      intervention will be complete. The investigators will recontact respondent two weeks later
+      (at the end of week 5) to assess whether the intervention has a lasting effect on mental
+      health and emotional well-being. This final survey will also include a measure of whether or
+      not respondents continued their assigned behaviors following the end of the intervention.
+      This measure might be useful for explaining any lasting effects in exploratory analyses.
+
+      The expected effect size is d = 0.19. The research team will assess experimental effects
+      using multiple linear regression. The models will include indicator variables for
+      experimental conditions as well as controls for baseline levels of happiness, valued life,
+      depression, and anxiety. These baseline measures should be unrelated to experimental
+      conditions (which will be randomly assigned) so including them will increase the efficiency
+      of estimates. Under the assumption that these variables will account for at least 50% of the
+      variance in the outcomes, the sample size needed to detect an effect of size d = 0.19 with
+      95% power is N = 357 or approximately 360 per condition. The expected attrition rate is 30%
+      after baseline which means that the investigators will sample 360/0.7 = 514 per condition.
+
+      The research team will post the baseline survey in two batches. The first batch will contain
+      half the sample (N = 771), and will be used to gauge the attrition rate (see data exclusion
+      criteria). The sample size of the second batch will be adjusted as needed to try and capture
+      the desired number of respondents per experimental condition. This will lower the size of the
+      second batch if attrition rates are lower than expected or increase the size of the second
+      batch if attrition rates are higher than expected. If a sufficient sample size has not been
+      obtained at this point, the investigators will repeat the process until at least 350
+      respondents in each experimental condition are recruited. To be clear, the stopping rule for
+      recruiting sample participants does not require estimating any of the effects of interest in
+      the study (i.e., it does not depend on the anticipated effect size). The only factor is
+      whether a sufficient number of respondents have been recruited for each experimental
+      condition.
+
+      Obtaining a sufficient per-condition sample size might take several days. The researchers
+      plan to begin sampling on a Sunday and continue sampling (if needed) on Monday. This means
+      respondents will finish their first three days of the study on either Wednesday or Thursday.
+      In either case, the investigators will distribute the end of week 1 survey the following
+      Sunday, which will then put both groups of respondents on the same schedule for the remainder
+      of the study. The researchers will try to recruit the full sample during this initial
+      recruitment phase, as this will simplify administering the study. However, if initial
+      sampling does not yield a sufficient sample size, the researchers will repeat the sampling
+      procedure each week until a sufficient number of respondents is obtained. In this case, the
+      study will be administered to different &quot;cohorts&quot; of respondents spaced a week apart.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 2020</start_date>
+  <completion_date type="Anticipated">November 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in happiness from baseline using the subjective happiness scale</measure>
+    <time_frame>baseline, end of weeks 1, 2, 3, and 5</time_frame>
+    <description>The Subjective Happiness Scale consists of four items: (1) &quot;In general, I consider myself _______.&quot; Responses options run from 1 = &quot;not a very happy person&quot; to 7= &quot;a very happy person.&quot; (2) &quot;Compared to most of my peers, I consider myself ________&quot; with response options from 1 = &quot;less happy&quot; to 7 = &quot;more happy.&quot; (3) &quot;Some people are generally very happy. They enjoy life regardless of what is going on, getting the most out of everything. To what extent does this characterization describe you?&quot; (1 = &quot;not at all&quot; to 7 = &quot;a great deal&quot;). (4) &quot;Some people are generally not very happy. Although they are not depressed, they never seem as happy as they might be. To what extent does this characterization describe you?&quot; (1= &quot;not at all&quot; to 7= &quot;a great deal&quot;; reverse coded) These four items will be averaged into a scale ranging from 1-7, where higher scores indicate greater subjective happiness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in valued life assessment from baseline using 4-item scale</measure>
+    <time_frame>baseline, end of weeks 1, 2, 3, and 5</time_frame>
+    <description>Respondents' individual perceptions of whether their life has value will be measured using the valued life subscale developed by Morgan and Farsides. This measure will consist of the average of the following four items: (1) &quot;My life is worthwhile,&quot; (2) &quot;My life is significant,&quot; (3) I really value my life,&quot; and (4) I hold my own life in high regard.&quot; In each instance, response options will run from -3 = &quot;strongly disagree&quot; to 3 = &quot;strongly agree&quot;.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in depression from baseline using the CESD (8-item)</measure>
+    <time_frame>baseline, end of weeks 1, 2, 3, and 5</time_frame>
+    <description>Depression will be measured using the well-established 8-item short-form of the Centre for Epidemiological Studies-Depression Scale (CES-D). Respondents will report how often in the past week they (1) felt depressed, (2) felt that everything was an effort, (3) felt that sleep was restless, (4) felt happy (reverse coded), (5) enjoyed life (reverse coded), (6) felt lonely, (7) felt sad, and (8) could not get going. Responses will be scored where 0 = &quot;rarely or none of the time,&quot; 1 = &quot;some of the time,&quot; 2 = &quot;a moderate amount of time,&quot; and 3 = &quot;most or all of the time.&quot;</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in anxiety from baseline using the HADS-A</measure>
+    <time_frame>baseline, end of weeks 1, 2, 3, and 5</time_frame>
+    <description>Anxiety will be measured with the Hospital Anxiety and Depression Scale-Anxiety (HADS-A), which is both commonly used and well-validated. This is a 7-item scales that asks respondents how often in the past week they: (1) felt tense or wound up, (2) got a frightened feeling as if something awful was about to happen, (3) had worrying thoughts go through their mind, (4) got a frightened feeling like butterflies in the stomach, (5) felt restless as if they had to be on the move, (6) had a sudden feeling of panic, and (7) could sit at ease and feel relaxed. To ensure consistency with our measure of depression, responses will be coded where 0 = &quot;rarely or none of the time,&quot; 1 = &quot;some of the time,&quot; 2 = &quot;a moderate amount of time,&quot; and 3 = &quot;most or all of the time.&quot;</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1542</enrollment>
+  <condition>Happiness</condition>
+  <condition>Anxiety</condition>
+  <condition>Depression</condition>
+  <condition>Morality</condition>
+  <arm_group>
+    <arm_group_label>Track activities</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>For three weeks research subjects will be keeping track of the things they do without altering their routine in any way.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Self-focused acts</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For three weeks research subjects will be &quot;treating themselves&quot; by doing things that they enjoy. These acts don't have to be large or costly, but they should be over and above what they typically do. They are asked to do one (or more) things they enjoy each day for the first three days of each week and report them.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prosocial acts</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>For three weeks research subjects are asked to perform acts of kindness, meaning behaviors that benefit someone else and are over and above what they typically do (i.e., they are not expected of them). These acts should also involve some sacrifice by them (e.g., in effort, energy, time, or money) and be completed for the first three days of each week.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Self-focused acts</intervention_name>
+    <description>Completion of daily acts for personal enjoyment.</description>
+    <arm_group_label>Self-focused acts</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Prosocial acts</intervention_name>
+    <description>Completion of daily acts for the benefit of others.</description>
+    <arm_group_label>Prosocial acts</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Canadian and American respondents from the Amazon Mechanical Turk
+
+        Exclusion Criteria:
+
+        Respondents will be excluded from the study if any of the following apply:
+
+          1. A respondent completes the baseline study unrealistically quickly. Response speed will
+             be measured using the average number seconds spent on each survey item (seconds per
+             item, or SPI). Following Wood et al., a response will be viewed as unrealistically
+             fast if its SPI value is less than 1. SPI calculations will exclude optional items.
+
+          2. A respondent does not complete at least half of the items in the baseline survey.
+
+          3. A respondent provides off-topic, non-sensical, or non-English responses to an
+             open-ended question in the baseline survey. A comment must be judged as meeting these
+             criteria by two raters to be excluded.
+
+          4. A respondent does not agree to continue with the study after completing the baseline
+             study.
+
+          5. A respondent completes the baseline study using a suspicious IP address. These include
+             IP addresses that are outside Canada or the United States, or that appear to originate
+             from a VPS according to IP Hub.
+
+          6. Technical difficulties prevent a respondent from completing the baseline study.
+
+        Because obtain sufficient power to detect effects is a central aim of this study, the
+        investigators will replace respondents who are removed for reasons 1-5 in a rolling
+        fashion. In the case of technical failure (#6), the first approach will be to resolve the
+        issue and administer the baseline survey to the same participant. If this is not possible,
+        a replacement will be recruited.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew Miles, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Toronto</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andrew Miles, PhD</last_name>
+    <phone>6474473212</phone>
+    <email>andrew.miles@utoronto.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Christos Orfanidis, MA</last_name>
+    <phone>6473850820</phone>
+    <email>c.orfanidis@mail.utoronto.ca</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Morgan J, Farsides T. Measuring Meaning in Life. J Happiness Stud. 2009;10: 197-214. doi:10.1007/s10902-007-9075-0</citation>
+  </reference>
+  <reference>
+    <citation>Kohout FJ, Berkman LF, Evans DA, Cornoni-Huntley J. Two shorter forms of the CES-D (Center for Epidemiological Studies Depression) depression symptoms index. J Aging Health. 1993 May;5(2):179-93.</citation>
+    <PMID>10125443</PMID>
+  </reference>
+  <reference>
+    <citation>Bjelland I, Dahl AA, Haug TT, Neckelmann D. The validity of the Hospital Anxiety and Depression Scale. An updated literature review. J Psychosom Res. 2002 Feb;52(2):69-77. Review.</citation>
+    <PMID>11832252</PMID>
+  </reference>
+  <reference>
+    <citation>Lyubomirsky S, Lepper HS. A Measure of Subjective Happiness: Preliminary Reliability and Construct Validation. Soc Indic Res. 1999;46: 137-155.</citation>
+  </reference>
+  <reference>
+    <citation>Kennedy R, Clifford S, Burleigh T, Waggoner PD, Jewell R, Winter NJG. The shape of and solutions to the MTurk quality crisis. Polit Sci Res Methods. 2020; 1-16. doi:10.1017/psrm.2020.6</citation>
+  </reference>
+  <reference>
+    <citation>Wood D, Harms PD, Lowman GH, DeSimone JA. Response Speed and Response Consistency as Mutually Validating Indicators of Data Quality in Online Samples. Soc Psychol Personal Sci. 2017;8: 454-464. doi:10.1177/1948550617703168</citation>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>August 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Toronto</investigator_affiliation>
+    <investigator_full_name>Andrew Miles</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Using an OSF repository, other researchers and readers of the published study will have access to the IPD.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>After the publication of the paper and perpetually. The investigators plan to publish the study as a registered report, so study information will also be available as part of the report protocol.</ipd_time_frame>
+    <ipd_url>https://osf.io/63yg9/</ipd_url>
+  </patient_data>
+  <study_docs>
+    <study_doc>
+      <doc_type>Individual Participant Data Set</doc_type>
+      <doc_url>https://osf.io/63yg9/</doc_url>
+      <doc_comment>Not yet available, but will be posted once study is complete.</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_type>Statistical Analysis Plan</doc_type>
+      <doc_url>https://osf.io/63yg9/</doc_url>
+      <doc_comment>The investigators intend to publish this study as a registered report. The analysis plan is current as of this registration, but will likely change during the review process.</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_type>Informed Consent Form</doc_type>
+      <doc_url>https://osf.io/63yg9/</doc_url>
+    </study_doc>
+    <study_doc>
+      <doc_type>Analytic Code</doc_type>
+      <doc_url>https://osf.io/63yg9/</doc_url>
+      <doc_comment>Will be posted after study is complete.</doc_comment>
+    </study_doc>
+  </study_docs>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

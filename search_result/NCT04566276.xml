@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3273">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04566276</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ChulaVac 001</org_study_id>
+    <nct_id>NCT04566276</nct_id>
+  </id_info>
+  <brief_title>ChulaCov19 mRNA Vaccine in Healthy Adults</brief_title>
+  <official_title>A Phase 1/2, Dose-finding Study to Evaluate Safety, Tolerability, and Immunogenicity of the ChulaCov19 mRNA Vaccine in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chulalongkorn University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Center of Excellence in Vaccine Research and Development, Chulalongkorn University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Center of Excellence for Vaccine Trial (Vaccine Trial Centre), Faculty of Tropical Medicine, Mahidol University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Chula Vaccine Research Center (ChulaVRC), Faculty of Medicine, Chulalongkorn University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Vaccine Institute (NVI), Thailand</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Research Council of Thailand</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>C2F Chulalongkorn University, Faculty of Medicine, Chulalongkorn University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Chulalongkorn University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is conducted in two phases. The first phase of the study will assess the safety,
+      tolerability and reactivity to the COVID-19 vaccine (ChulaCov19 messenger ribonucleic acid)
+      administered at various doses through the muscles among healthy adults and the elderlies (age
+      65-75 years) (total 96 participants). Phase 2 will proceed dependent upon the results from
+      phase 1 of the study. The second phase of the study will assess whether the vaccine can
+      activate the immune system or not (total 600 participants) among healthy adults and the
+      elderlies.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will be conducted in 2 phases.
+
+      The first phase of the study will evaluate the safety, tolerability and the reactogenicity of
+      escalating doses (10 µg, 25 µg, 50 µg, and 100 µg) of the ChulaCov19 messenger ribonucleic
+      acid (mRNA) vaccine, administered IM according to a repeat vaccination schedule (given 21
+      days apart) in healthy adults aged 18-55 years and in elderly adults aged 65-75 years, up to
+      Day 50. For each dose, there will be 12 participants. There will be a total of 8 arms (4 arms
+      for healthy adults aged 18-55 years and 4 arms for the elderlies). There will be a total of
+      96 participants.
+
+      The second phase of the study (if DSMB approves for the study to proceed to the next phase)
+      will evaluate the immunogenicity measured as neutralising antibody titer (measured by
+      MicroVNT [Micro-viral neutralising test]) following repeat vaccination of escalating doses of
+      the ChulaCov19 mRNA vaccine, administered IM according to a repeat vaccination schedule
+      (given 21 days apart) in healthy adults aged 18-55 years and in elderly adults aged 65-75
+      years, at Day 29 (7 days after the second vaccination). Each treatment group will consist of
+      participants randomly assigned to active treatment versus placebo in a ratio of 4:1 per dose
+      cohort. The participants, the care providers, the PI(s), and the outcome assessors will be
+      blinded to the treatment assignment of the participants. Two different doses will be
+      evaluated in the healthy adults (total 4 arms, including placebo). Two different doses will
+      be investigated in the elderlies (total 4 arms, including placebo). There will be a total of
+      600 participants (120 participants per dose; 30 participants for placebo).
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Healthy adults (age 18 to 55 years) and elderlies (age 65 to 75 years) will be enrolled sequentially in an ascending dose fashion (10 µg, 25 µg, 50 µg, and 100 µg).</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of Adverse Events</measure>
+    <time_frame>up to Day 50</time_frame>
+    <description>Frequency of Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Grade of Adverse Events</measure>
+    <time_frame>up to Day 50</time_frame>
+    <description>Grade of Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of solicited reportable local Adverse Events</measure>
+    <time_frame>during a 7-day follow-up period post each vaccination</time_frame>
+    <description>Frequency of solicited reportable local Adverse Events: pain at the injection site, redness, swelling, erythema</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Grade of solicited reportable local Adverse Events</measure>
+    <time_frame>during a 7-day follow-up period post each vaccination</time_frame>
+    <description>Grade of solicited reportable local Adverse Events: pain at the injection site, redness, swelling, erythema</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of solicited reportable systemic Adverse Events</measure>
+    <time_frame>during a 7-day follow-up period post each vaccination</time_frame>
+    <description>Frequency of solicited reportable systemic Adverse Events: fever, fatigue, chills, headache, myalgias, arthralgias, vomiting, diarrhoea, new or worsened muscle pain (myalgias), and new or worsened joint pain (arthralgias).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Grade of of solicited reportable systemic Adverse Events</measure>
+    <time_frame>during a 7-day follow-up period post each vaccination</time_frame>
+    <description>Grade of of solicited reportable systemic Adverse Events: fever, fatigue, chills, headache, myalgias, arthralgias, vomiting, diarrhoea, new or worsened muscle pain (myalgias), and new or worsened joint pain (arthralgias).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of Serious Adverse Events</measure>
+    <time_frame>up to Day 387</time_frame>
+    <description>Frequency of Serious Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of Medically-Attended Adverse Events</measure>
+    <time_frame>up to Day 387</time_frame>
+    <description>Frequency of Medically-Attended Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of New-Onset Chronic Medical Conditions</measure>
+    <time_frame>up to Day 387</time_frame>
+    <description>Frequency of New-Onset Chronic Medical Conditions</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of body temperature</measure>
+    <time_frame>Day -42, Day 1, Day 2, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>degrees Celsius</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>measurement of respiratory rate</measure>
+    <time_frame>Day -42, Day 1, Day 2, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>per minute</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>measurement of pulse rate</measure>
+    <time_frame>Day -42, Day 1, Day 2, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>beats per minute (BPM)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>measurement of systolic blood pressure (SBP)</measure>
+    <time_frame>Day -42, Day 1, Day 2, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>millimeter of mercury (mmHg)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>measurement of diastolic blood pressure (DBP)</measure>
+    <time_frame>Day -42, Day 1, Day 2, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>millimeter of mercury (mmHg)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>assess if there are any symptoms at the head</measure>
+    <time_frame>Day -42, Day 1, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>assess if there are any symptoms at the head</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>assess if there are any symptoms at the ears</measure>
+    <time_frame>Day -42, Day 1, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>assess if there are any symptoms at the ears</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>assess if there are any symptoms at the nose</measure>
+    <time_frame>Day -42, Day 1, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>assess if there are any symptoms at the nose</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>assess if there are any symptoms at the throat</measure>
+    <time_frame>Day -42, Day 1, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>assess if there are any symptoms at the throat</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>assess if there are any symptoms at the lungs</measure>
+    <time_frame>Day -42, Day 1, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>assess if there are any symptoms at the lungs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>assess if there are any symptoms at the lymph nodes</measure>
+    <time_frame>Day -42, Day 1, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>assess if there are any symptoms at the lymph nodes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>assess if there are any symptoms at the heart</measure>
+    <time_frame>Day -42, Day 1, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>assess if there are any symptoms at the heart</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>assess if there are any symptoms at the abdomen</measure>
+    <time_frame>Day -42, Day 1, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>assess if there are any symptoms at the abdomen</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>assess if there are any symptoms at the skin</measure>
+    <time_frame>Day -42, Day 1, Day 8, Day 22, Day 29, Day 50, Day 112, Day 202, and Day 387</time_frame>
+    <description>assess if there are any symptoms at the skin</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of haemoglobin (Hb)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>g/dl</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of haematocrit (HCT)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of red blood cell (RBC)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>10^6 cells/ul</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of white blood cells (WBC)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>10^3 cells/ul</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the percentage of neutrophil</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>percentage</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the number of neutrophil</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>10^3 cells/ul</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the percentage of lymphocytes</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>percentage</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the number of lymphocytes</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>10^3 cells/ul</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the percentage of eosinophil</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>percentage</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the number of eosinophil</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>10^3 cells/ul</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the percentage of basophil</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>Percentage</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the number of basophil</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>10^3 cells/ul</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the percentage of monocytes</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>percentage</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess the number of monocytes</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>10^3 cells/ul</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of platelet</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>10^3 cells/ul</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of sodium</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mmol/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of potassium</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mmol/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of chloride</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mmol/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of bicarbonate</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mmol/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of blood urea nitrogen (BUN)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of creatinine</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mg/dl</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess total protein</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of albumin</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of lipase</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>unit/Liter (U/L)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of phosphorus</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mmol/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of gamma-glutamyl transferase (GGT)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of glucose</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of creatinine phosphokinase (CPK)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of calcium</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mmol/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of uric acid</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of C-reactive protein (CRP)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of alanine transaminase (ALT)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of aspartate transaminase (AST)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of alkaline phosphatase (ALP)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess total bilirubin</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>mg/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assess estimated glomerular filtration rate (eGFR)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>ml/min/1-73m^2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of prothrombin time (PT)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>second</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of partial thromboplastin time (PTT)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>second</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of international normalized ratio (INR)</measure>
+    <time_frame>Day -42, Day 1,Day 8, Day 22, Day 29, Day 50</time_frame>
+    <description>ratio</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean titers (GMT) in SARS-CoV-2-specific serum neutralising antibody levels</measure>
+    <time_frame>at Day 29 (7 days after the second dose)</time_frame>
+    <description>Geometric mean titers (GMT) in SARS-CoV-2-specific serum neutralising antibody levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who achieved a greater than or equal to 4-fold rise from before vaccination in SARS-CoV-2-specific serum neutralising antibody levels</measure>
+    <time_frame>At Day 29</time_frame>
+    <description>Proportion of participants who achieved a greater than or equal to 4-fold rise from before vaccination in SARS-CoV-2-specific serum neutralising antibody levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean fold rises (GMFR) in SARS-CoV-2-specific serum neutralising titers</measure>
+    <time_frame>from baseline to Day 29</time_frame>
+    <description>Geometric mean fold rises (GMFR) in SARS-CoV-2-specific serum neutralising titers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean titers (GMT) in SARS-CoV-2 surrogate viral neutralising antibody levels</measure>
+    <time_frame>at Day 29</time_frame>
+    <description>Geometric mean titers (GMT) in SARS-CoV-2 surrogate viral neutralising antibody levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who achieved a greater than or equal to 4-fold rise from before vaccination in SARS-CoV-2 surrogate viral neutralising antibody levels</measure>
+    <time_frame>at Day 29</time_frame>
+    <description>Proportion of participants who achieved a greater than or equal to 4-fold rise from before vaccination in SARS-CoV-2 surrogate viral neutralising antibody levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean fold rises (GMFR) in SARS-CoV-2 surrogate viral neutralising antibody titers</measure>
+    <time_frame>from baseline to Day 29</time_frame>
+    <description>Geometric mean fold rises (GMFR) in SARS-CoV-2 surrogate viral neutralising antibody titers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean titers (GMT) of SARS-Cov2-spike protein-binding IgG antibody</measure>
+    <time_frame>at Day 29</time_frame>
+    <description>Geometric mean titers (GMT) of SARS-Cov2-spike protein-binding IgG antibody</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who seroconverted: achieving a greater than or equal to 4-fold rise in SARS-Cov2-spike protein-binding IgG antibody</measure>
+    <time_frame>from baseline to Day 29</time_frame>
+    <description>Proportion of participants who seroconverted: achieving a greater than or equal to 4-fold rise in SARS-Cov2-spike protein-binding IgG antibody</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean fold rises (GMFR) in SARS-Cov2-spike protein-binding IgG antibody</measure>
+    <time_frame>from baseline to Day 29</time_frame>
+    <description>Geometric mean fold rises (GMFR) in SARS-Cov2-spike protein-binding IgG antibody</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants who have positive specific CD4 T-cell IFNγ ELISpot responses</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Percentage of participants who have positive specific CD4 T-cell IFNγ ELISpot responses</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants who have positive specific CD8 T-cell IFNγ ELISpot responses</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Percentage of participants who have positive specific CD8 T-cell IFNγ ELISpot responses</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median number of spot-forming cells (SFC) per 1 million PBMCs</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Median number of spot-forming cells (SFC) per 1 million PBMCs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants who shows positive specific Th1 responses</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Percentage of participants who shows positive specific Th1 responses</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants who shows positive specific Th2 responses</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Percentage of participants who shows positive specific Th2 responses</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median percentage specific Th1 responses</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Median percentage specific Th1 responses</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median percentage specific Th2 responses</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Median percentage specific Th2 responses</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">96</enrollment>
+  <condition>COVID-19 Vaccine</condition>
+  <condition>Safety Issues</condition>
+  <arm_group>
+    <arm_group_label>Adult Cohort 1: 10 µg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 healthy adults aged 18-55 years will receive 10 µg of the vaccine IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adult Cohort 2: 25 µg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 healthy adults aged 18-55 years will receive 25 µg of the vaccine IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adult Cohort 3: 50 µg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 healthy adults aged 18-55 years will receive 50 µg of the vaccine IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adult Cohort 4: 100 µg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 healthy adults aged 18-55 years will receive 100 µg of the vaccine IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Elderly Cohort 1 :10 µg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 elderlies aged 65-75 years will receive 10 µg of the vaccine IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Elderly Cohort 2: 25 µg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 elderlies aged 65-75 years will receive 25 µg of the vaccine IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Elderly Cohort 3: 50 µg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 elderlies aged 65-75 years will receive 50 µg of the vaccine IM</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Elderly Cohort 4: 100 µg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>12 elderlies aged 65-75 years will receive 100 µg of the vaccine IM</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ChulaCov19 mRNA vaccine</intervention_name>
+    <description>novel lipid nanoparticles (LNPs)-encapsulated mRNA-based ChulaCov19 investigational vaccine</description>
+    <arm_group_label>Adult Cohort 1: 10 µg</arm_group_label>
+    <arm_group_label>Adult Cohort 2: 25 µg</arm_group_label>
+    <arm_group_label>Adult Cohort 3: 50 µg</arm_group_label>
+    <arm_group_label>Adult Cohort 4: 100 µg</arm_group_label>
+    <arm_group_label>Elderly Cohort 1 :10 µg</arm_group_label>
+    <arm_group_label>Elderly Cohort 2: 25 µg</arm_group_label>
+    <arm_group_label>Elderly Cohort 3: 50 µg</arm_group_label>
+    <arm_group_label>Elderly Cohort 4: 100 µg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Participants must be able to communicate effectively with study personnel and
+             considered reliable, willing, and cooperative in terms of compliance with the protocol
+             requirements.
+
+          2. Participants must sign the written informed consent form prior to undertaking any
+             protocol related procedures.
+
+          3. Participants must have a body mass index (BMI) at screening, calculated as the body
+             mass divided (in kilograms [kg]) by the square of the body height (in meters [m]) of
+             18.0-30.0 kg/m2, inclusive, at screening.
+
+          4. Participants must have haematology, clinical chemistry, coagulation (for all
+             participants in Phase 1, and, only if applicable, for participants in Phase 2), and
+             urinalysis test results that are not deviating from the normal reference range by age
+             and gender to a clinically relevant extent at screening.
+
+          5. Males must be surgically sterile (&gt;30 days since vasectomy with no viable sperm),
+             practice true abstinence or, if engaged in sexual relations with a female of
+             child-bearing potential, the participants and their partner must use an acceptable,
+             highly effective, double-barrier contraceptive method* from screening and for a period
+             of at least 60 days after the last dose of investigational vaccine.
+
+          6. Women of child-bearing potential must practice true abstinence or, if engaged in
+             sexual relations with a male, they must agree to use highly effective (failure rate of
+             &lt; 1% per year when used consistently and correctly), double-barrier contraceptive
+             measures* throughout the study and intend to continue use of contraception for at
+             least 60 days following the last vaccination.
+
+             * The PI is to assess the adequacy of methods of contraception on a case-by-case
+             basis. These criteria do not apply if the participants are in a same-sex relationship.
+
+          7. Women of child-bearing potential must have a negative serum pregnancy test (beta human
+             chorionic gonadotropin [β-HCG]) at screening and a negative urine-based test within 24
+             hours prior to each investigational vaccine administration.
+
+          8. Women of non-childbearing potential must:
+
+               -  be classified as being postmenopausal (defined as having a history of amenorrhea
+                  of at least one year), or
+
+               -  if having a history of amenorrhea of less than one year they must have an FSH
+                  level &gt; 40 milli-international units per milliliter (mIU/mL), or
+
+               -  have a documented status of being surgically sterile (hysterectomy, bilateral
+                  oophorectomy, or tubal ligation/salpingectomy).
+
+          9. Participants must be in general good health based on medical history and physical
+             examination, as determined by the PI.
+
+         10. Body temperature measured orally must be less than 37.8ºC.
+
+         11. Pulse must be no greater than 100 beats per minute.
+
+         12. Systolic blood pressure (SBP) must be between 85 to 150 millimetres of mercury (mm
+             Hg), inclusive.
+
+         13. Participants must agree to refrain from donating blood, plasma, ovules, sperm, or
+             organs during the whole study.
+
+        Adult Participants (Group 1 of Phase 1 and Phase 2) only 14. Must be a male or female aged
+        18-55 years (inclusive) at the time of enrolment.
+
+        Elderly Participants (Group 2 of Phase 1 and Phase 2) only 15. Must be a male or female
+        aged 65-75 years (inclusive) at the time of enrolment.
+
+        Exclusion Criteria:
+
+          1. Presence of clinically significant medical history, unstable chronic or acute disease,
+             or physical, or laboratory findings that, in the opinion of the PI may potentially
+             increase the expected risk of exposure to the investigational vaccine, compromise the
+             safety of the participant, or interfere with any aspect of study conduct or
+             interpretation of results. This will include any thrombocytopenia or bleeding disorder
+             contraindicating IM vaccination
+
+          2. Presence of self-reported or medically documented significant medical or psychiatric
+             condition(s).
+
+          3. Presence of an acute illness, as determined by the participating site PI or
+             appropriate sub-PI, with or without fever (oral temperature ≥ 38.0 ºC) within 72 hours
+             prior to each vaccination.
+
+             Presence of birthmarks, tattoos, wound, or other skin conditions over the deltoid
+             region of both arms that, in the PI's opinion, could reasonably obscure and interfere
+             with evaluation of local ISRs.
+
+          4. Inadequate venous access to allow collection of blood samples.
+
+          5. Breastfeeding or planning to breastfeed from the time of the first vaccination through
+             60 days after the last vaccination, or pregnant as confirmed by a positive serum β-HCG
+             pregnancy test at screening or positive urine pregnancy test at subsequent clinic
+             visits at timepoints as delineated in the study schedule.
+
+          6. Received any prophylactic or therapeutic vaccine, or licensed or unlicensed vaccine,
+             drug, biologic, device, blood product, or medication, within 4 weeks of first
+             vaccination or 5 half-lives (whichever is longer), or anticipate to do so in the
+             follow-up period defined for this study.
+
+          7. Participant has previously participated in an investigational study involving LNPs (a
+             component of the investigational vaccine assessed in this trial).
+
+          8. History of severe allergy (requiring hospital care), severe reaction to any drug or
+             prior vaccination, or any known or suspected allergies or sensitivities to any
+             component of the investigational vaccine or placebo.
+
+          9. Participant is immunosuppressed as caused by disease (such as HIV).
+
+         10. Chronic use (more than 14 continuous days) of or anticipated need to use, within the
+             next 6 months, of any medications that may be associated with impaired immune
+             responsiveness or with immunosuppression*.
+
+             * Including, but not limited to, systemic corticosteroids exceeding 10 mg/day of
+             prednisone equivalent, allergy injections, immunoglobulin, interferon,
+             immunomodulators, cytotoxic drugs, or other similar or toxic drugs during the
+             preceding 6-month period prior to vaccine administration (Day 1). The use of low dose
+             topical, ophthalmic, inhaled and intranasal steroid preparations will be permitted.
+
+         11. History of hepatitis B or hepatitis C infection.
+
+         12. Receipt of immunoglobulins or blood products within 3 months of first vaccination.
+
+         13. Requirement for antipyretic or analgesic medication on a daily or every other day
+             basis from enrolment through 72 hours after vaccination.
+
+         14. Current use of any prescription or over-the-counter medications within 7 days prior to
+             vaccination, unless approved by the PI.
+
+         15. History of alcohol or drug abuse or psychiatric disorder that in the opinion of the PI
+             could affect the participant's safety or compliance with study.
+
+         16. Participant unwilling to abstain from blood donation during the course of the study,
+             and/or participation in any research study involving blood sampling (more than 450 mL
+             /unit of blood), or blood donation to any blood bank during the 2 months prior to the
+             screening visit.
+
+         17. Participant unwilling to abstain from donating plasma, ovules, sperm, or organs during
+             the course of the study.
+
+         18. Close contact with anyone known to have SARS-CoV-2 infection within 30 days prior to
+             vaccine administration.
+
+         19. History of COVID-19 diagnosis.
+
+         20. On current treatment with investigational agents for prophylaxis of COVID-19.
+
+         21. Planning to travel outside Thailand from enrolment through 28 days after the second
+             vaccination.
+
+         22. Residing in a nursing home or other skilled nursing facility or having a requirement
+             for skilled nursing care.
+
+         23. Is a participant at high risk of SARS-CoV2 exposure in the opinion of the PI (e.g.,
+             healthcare workers, active health care workers with direct patient contact, emergency
+             response personnel).
+
+             Elderly Participants (Group 2 of Phase 1 and Phase 2) only
+
+         24. Chronically smoking (defined as ≥10 Pack years [packs/day × years smoked]) within the
+             12 months prior to enrolment.
+
+         25. Presence of comorbidities that can be associated with an increased risk of severe
+             COVID-19.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kiat Ruxrungtham, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Center of Excellence in Vaccine Research and Development, Faculty of Medicine, Chulalongkorn University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sivaporn Gatechompol, MD</last_name>
+    <phone>662 652 3040</phone>
+    <phone_ext>171</phone_ext>
+    <email>sivaporn.k@hivnat.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nitiya Chomchey, PhD</last_name>
+    <email>nitiya.c@searchthailand.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Chula Vaccine Research Center (ChulaCRC) Faculty of Medicine Chulalongkorn University</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sivaporn Gatechompol, MD</last_name>
+      <phone>6626523040</phone>
+      <phone_ext>171</phone_ext>
+      <email>sivaporn.k@hivnat.org</email>
+    </contact>
+    <investigator>
+      <last_name>Sivaporn Gatechompol, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Center of Excellence for Vaccine Trial (Vaccine Trial Centre), Faculty of Tropical Medicine Mahidol University</name>
+      <address>
+        <city>Bangkok</city>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sivaporn Gatechompol, MD</last_name>
+      <phone>662 652 3040</phone>
+      <phone_ext>171</phone_ext>
+      <email>sivaporn.k@hivnat.org</email>
+    </contact>
+    <investigator>
+      <last_name>Sivaporn Gatechompol, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Thailand</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 28, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>tolerability</keyword>
+  <keyword>reactivity</keyword>
+  <keyword>immunogenicity</keyword>
+  <keyword>healthy adults</keyword>
+  <keyword>healthy elderlies</keyword>
+  <keyword>coronavirus disease 2019</keyword>
+  <keyword>SARS-CoV-2-specific serum neutralising antibody titer</keyword>
+  <keyword>SARS-CoV-2-surrogate viral neutralising antibody</keyword>
+  <keyword>SARS-Cov2 spike protein-binding IgG antibody titer</keyword>
+  <keyword>SARS-Cov2 spike protein-specific CD4+ and CD8+ T-cells responses</keyword>
+  <keyword>IFNγ enzyme-linked immune absorbent spot (ELISpot)</keyword>
+  <keyword>SARS-Cov2 spike protein-specific Th1/Th2 polarisation</keyword>
+  <keyword>novel lipid nanoparticles (LNPs)-encapsulated mRNA-based vaccine</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

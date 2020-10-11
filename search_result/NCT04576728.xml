@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="293">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04576728</url>
+  </required_header>
+  <id_info>
+    <org_study_id>998</org_study_id>
+    <nct_id>NCT04576728</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Trimodulin in Subjects With Severe COVID-19</brief_title>
+  <acronym>ESsCOVID</acronym>
+  <official_title>A Randomized, Placebo-controlled, Double-blind, Multi-center, Phase II Trial Investigating the Efficacy and Safety of Trimodulin (BT588) as add-on Therapy to Standard of Care in Adult Subjects With Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Biotest</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Biotest</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objectives of the trial are to evaluate the efficacy and safety of trimodulin as add-on
+      therapy to standard of care (SoC) compared to placebo treatment in adult hospitalized
+      subjects with severe COVID-19.
+
+      Additionally, pharmacodynamic (PD) and pharmacokinetic (PK) properties of trimodulin will be
+      evaluated in all subjects.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, placebo-controlled, double-blind, multi-center, phase II trial
+      investigating the efficacy and safety of trimodulin compared to placebo treatment, as add-on
+      therapy to SoC in adult subjects with severe COVID-19. Severe COVID-19 patients with need for
+      non-invasive ventilation or high flow oxygen and with dysregulated inflammatory responses
+      demonstrated by an elevated CRP level, will be enrolled.
+
+      Subjects will be randomized to receive either trimodulin or placebo on a 1:1 basis,
+      stratified by center. Investigational Medicinal Product (IMP) treatments will be blinded.
+      Subjects will be administered IMP once daily on five consecutive days (day 1 through day 5)
+      as add-on therapy to SoC. The subsequent follow-up phase comprises 23 [+3] days (day 6
+      through day 28) followed by an end-of-trial visit/ telephone call on day 29 [+3]. For
+      evaluation of this trial, a 9-category ordinal scale will be used. The primary aim of
+      trimodulin treatment in the enrolled severely ill patients with a score of 5, is to prevent
+      their clinical deterioration to a critical disease stage (score 6-7, e.g. requiring invasive
+      mechanical ventilation or ECMO) and death (score 8). Accordingly, a composite primary
+      efficacy endpoint reflecting the deterioration / mortality rate is used.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Subjects will be randomized on a 1:1 basis either to trimodulin or to placebo treatment stratified by center.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>All bottles will be indistinguishable.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical detoriation rate</measure>
+    <time_frame>Between day 6 and day 29</time_frame>
+    <description>Percentage of subjects with a change of clinical status to score 6 or 7 on the 9-category ordinal scale</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>28-day all-cause mortality rate</measure>
+    <time_frame>Between day 1 and day 29</time_frame>
+    <description>Percentage of subjects with a change to score 8 on the 9-category ordinal scale</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical deterioration rate</measure>
+    <time_frame>Days 1-29 and days 6-29</time_frame>
+    <description>Percentage of subjects with a change to score 6-7</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>28-days all-cause mortality rate on day 29</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Percentage of subjects with score=8, assessed at the end-of-trial visit on day 29 [+3].</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical deterioration</measure>
+    <time_frame>Time Frame: between Days 1-29 and days 6-29</time_frame>
+    <description>Number of days to first change from score 5 (enrollment) to score 6-7</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Mortality</measure>
+    <time_frame>Time Frame: between Day 1 and day 29</time_frame>
+    <description>Number of days to change to score =8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects in each of the 9-categories of the ordinal scale</measure>
+    <time_frame>Days 7, 14, 21, 29</time_frame>
+    <description>Number of patients by score on specific study days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical improvement</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Number of days to change to score 4 (mild disease, with supplemental oxygen) or score 3 (mild disease, no supplemental oxygen)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects with score ≤2</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Proporation of subjects that improved to score ≤2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days on IMV</measure>
+    <time_frame>Until day 29</time_frame>
+    <description>Number of calendar days on IMV until day 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days without oxygen supply</measure>
+    <time_frame>Until day 29</time_frame>
+    <description>Number of calendar days without any form of oxygen support until day 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discontinuation from any form of oxygen supply</measure>
+    <time_frame>Until day 29</time_frame>
+    <description>Time to definite stop of any form of additional oxygenation, irrespective of short interruptions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects without any form of oxygen supply</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Proportion of subjects that improved to not requiring supplemental oxygen.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-free-days</measure>
+    <time_frame>Until day 29</time_frame>
+    <description>Calendar days between hospital discharge and day 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 status</measure>
+    <time_frame>Until day 29</time_frame>
+    <description>Time to SARS-CoV-2 negative status</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events (AEs), treatment-emergent AEs (TEAEs), AEs of special interest, infusional TEAEs</measure>
+    <time_frame>Until day 29</time_frame>
+    <description>Number, severity, causality, outcome, and seriousness of all. AE, TEAEs that led to permanent withdrawal of IMP, and TEAEs that led to discontinuation of the trial.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TEAEs</measure>
+    <time_frame>Until day 29</time_frame>
+    <description>Number of all infusion related TEAEs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SAEs</measure>
+    <time_frame>Until day 29</time_frame>
+    <description>Number, severity, causality, and outcome of all SAEs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose modifications</measure>
+    <time_frame>Day 1-5</time_frame>
+    <description>Dose modifications (incl. reductions and changes in infusion rate)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to recovery</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Number of days to change to score ≤2 (hospital discharged or meets discharge criteria)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change over time in ECG parameters</measure>
+    <time_frame>Until day 29</time_frame>
+    <description>ECG recordings, (including heart rate, PR interval, RR interval, QRS interval, QT-interval, QTcF) showing abnormal, clinically relevant findings will be reported as adverse event.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change over time in vital signs</measure>
+    <time_frame>Until day 29</time_frame>
+    <description>Changes in recordings of vital sign parameters (including systolic and diastolic blood pressure, Arterial oxygen saturation, heart rate, respiratory rate and body temperature) showing clinically significant measurements outside the normal range will be reported as adverse event.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Pharmacokinetic assessment of immunoglobulins</measure>
+    <time_frame>Day 1(baseline) to day 29</time_frame>
+    <description>Assessment of changes in serum concentrations (g/L) of IgM, IgA, and IgG before, during and after treatment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamic assessment of disease related serum proteins</measure>
+    <time_frame>Day 1(baseline) to day 29</time_frame>
+    <description>Assessment of relative changes in serum concentrations from baseline before, during and after treatment including inflammation markers (e.g. % change in CRP, PCT, Ferritin, TNF-alpha, IL-6, IL-8 and IL-10), biomarkers (e.g. % change in p-selectin) and complement factors (e.g. % change in C3, C4).</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">164</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Trimodulin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Trimodulin (human IgM, IgA, IgG solution) for intravenous (IV) administration.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Human albumin 1%</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trimodulin</intervention_name>
+    <description>IMP will be administered via IV infusion on 5 consecutive days.</description>
+    <arm_group_label>Trimodulin</arm_group_label>
+    <other_name>BT588</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo (human albumin 1%)</intervention_name>
+    <description>IMP will be administered via IV infusion on 5 consecutive days.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Written informed consent obtained from the subject or legally authorized
+             representative or informed verbal or administration consent due to pandemic situation,
+             in compliance with all local legal requirements.
+
+          2. Male or female subject ≥18 years of age.
+
+          3. Laboratory-confirmed SARS-CoV-2 infection.
+
+          4. Diagnosis of community-acquired severe COVID-19 within 5 days after
+             hospital-admission, with severe defined as:
+
+             Need for non-invasive ventilation (NIV), or high-flow oxygen therapy (score =5 on the
+             9-category ordinal scale).
+
+             At least one clinical respiratory parameter: dyspnea, respiratory frequency ≥30/min,
+             SpO2 ≤93%, 100 mmHg &lt; PaO2/FiO2 ≤300 mmHg, lung infiltrates &gt;50% within 24 to 48
+             hours.
+
+             At least one measurement of C-reactive protein ≥50 mg/L within 18 hours prior to start
+             of treatment.
+
+          5. Subject must receive SoC treatment for COVID-19.
+
+        Exclusion Criteria:
+
+          1. Pregnant or lactating women.
+
+          2. Subjects that deteriorated to score &gt;5 on the 9-category ordinal scale (e.g. receiving
+             invasive mechanical ventilation (IMV), and/or extracorporeal membrane oxygenation
+             (ECMO)) or subjects that improved to score &lt;5 prior to randomization.
+
+          3. Severe neutropenia (neutrophil count &lt;500/mm³) assessed within 18 hours prior to start
+             of treatment.
+
+          4. Thrombocytopenia (platelet count &lt;30,000/mm³) assessed within 18 hours prior to start
+             of treatment.
+
+          5. Hemoglobin &lt;7g/dL assessed within 18 hours prior to start of treatment.
+
+          6. Known hemolysis.
+
+          7. Known thrombosis or thromboembolic events (TEEs) or known medical history of TEEs
+             (e.g. cerebrovascular accidents, transient ischemic attack, myocardial infarction,
+             pulmonary embolism, and deep vein thrombosis) within the previous 3 months or those
+             subjects particularly at risk for TEEs (e.g. history of thrombophilia, permanent
+             immobilization, or permanent paralysis of the lower extremities) caused by other
+             reasons than COVID-19.
+
+          8. Subject on dialysis or with severe renal impairment, estimated glomerular filtration
+             rate (eGFR) &lt;30 mL/min/1.73 m² assessed within 18 hours prior to start of treatment
+             (details in Appendix 3: Estimated Glomerular Filtration Rate).
+
+          9. Subject with end stage renal disease (ESRD), or known primary focal segmental
+             glomerulosclerosis (FSGS).
+
+         10. Known severe lung diseases interfering with COVID-19 therapy (e.g. severe interstitial
+             lung disease, cystic fibrosis, idiopathic pulmonary fibrosis, active tuberculosis,
+             chronically infected bronchiectasis, or active lung cancer).
+
+         11. Known decompensated heart failure (New York Heart Association class III-IV).
+
+         12. Known pre-existing hepatic cirrhosis, severe hepatic impairment (Child Pugh C score ≥9
+             points), or hepatocellular carcinoma.
+
+         13. Known intolerance to proteins of human origin or known allergic reactions to
+             components of trimodulin.
+
+         14. Selective, absolute immunoglobulin A (IgA) deficiency with known antibodies to IgA.
+
+         15. Known treatment for thorax/head/neck/hematologic malignancies in the last 12 months.
+
+         16. Known human immunodeficiency virus infection.
+
+         17. Life expectancy of less than 90 days, according to the Investigator's clinical
+             judgment, because of medical conditions neither related to COVID-19 nor to associated
+             medical complications.
+
+         18. Obesity (body mass index ≥40 kg/m²), a body weight of more than 123 kg, or anorexia
+             (body mass index &lt;16 kg/m²).
+
+         19. Known immunosuppressive treatment other than acute treatment for COVID-19 (e.g.
+             transplant recipient, subject with autoimmune disease).
+
+         20. Known immunoglobulin or blood product treatment during the last 21 days prior to
+             randomization.
+
+         21. Participation in another interventional clinical trial within 30 days before entering,
+             or during the trial, or previous participation in this clinical trial.
+
+         22. Employee or direct relative of an employee of the contract research organization, the
+             trial site, or Biotest.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Antoni Torres, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Barcelona Hospital Clinic of Barcelona Spain</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Patrick Langohr</last_name>
+    <phone>+491732947122</phone>
+    <email>patrick.langohr@biotest.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Iris Bobenhausen, Dr.</last_name>
+    <phone>+49 1522 280 1073</phone>
+    <email>iris.bobenhausen@biotest.com</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 6, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Severe community acquired pneumonia</keyword>
+  <keyword>Acute Respiratory Distress Syndrome</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Severe Corona Virus Disease</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

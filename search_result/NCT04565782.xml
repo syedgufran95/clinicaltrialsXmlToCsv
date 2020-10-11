@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3478">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04565782</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17300475</org_study_id>
+    <nct_id>NCT04565782</nct_id>
+  </id_info>
+  <brief_title>Corona Virus Infection Among Liver Transplant Recipients</brief_title>
+  <official_title>Corona Virus Infection Among Liver Transplant Recipients: A Multicenter Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A new strain of coronavirus that caused severe respiratory disease in infected individuals
+      was initially identified in China's Wuhan City in December 2019. Severe acute respiratory
+      distress syndrome coronavirus-2 (SARS-CoV-2), which was responsible for the corona virus
+      infectious disease-2019 (COVID-19).The World Health Organization declared that COVID-19 was a
+      Public Health Emergency of International Concern on January 30,2020.
+
+      The impact of COVID-19 in liver recipients remains largely unknown but accumulating
+      experience is going on.
+
+      Liver transplant recipients should have been classified as a risk group and should have
+      received regular surveillance for COVID-19 throughout the pandemic.
+
+      Some reports suggest decreasing immunosuppression for infected recipients, if no recent
+      rejection episodes. Paradoxically, others suggest that a reactive immune response might be
+      the cause for severe tissue damage, and that immunosuppression might be protective from the
+      postulated cytokine storm.
+
+      Some studies stated that the LT patients who are permanently on immunosuppressants could be
+      particularly susceptible to SARS-CoV-2, and their prognosis could be worse in comparison to
+      the normal population. They recommended that LT recipients should be closely monitored for
+      SARS-CoV-2.
+
+      The LT society of India (LTSI) highlighted the potential of LT recipients as asymptomatic
+      carriers and source of viral spread, and that SARS-CoV-2 can be transmitted to LT recipients.
+      There are insufficient data on the relationship between immunosuppressive therapy and
+      COVID-19 in LT recipients during this pandemic. However, the Beijing working party for liver
+      transplantation suggested that LT recipients who were infected with SARS-CoV-2 should be
+      treated with steroids for a short period to reduce the severity of pneumonia.
+
+      They also suggested that immunosuppressive therapies should be continued for both patients
+      with mild COVID-19 and those who were not infected by the virus, and calcineurin inhibitor
+      treatment dosage should be reduced in moderate to severe cases.
+
+      Neutralizing antibodies (NAbs) play an important role in virus clearance and have been
+      considered as a key immune product for protection or treatment against viral diseases.
+      Virus-specific NAbs, induced through either infection or vaccination, have the ability to
+      block viral infection. SARS-CoV -2 specific NAbs reached their peak in patients from day
+      10-15 after the onset of the disease and remained stable thereafter in the patients.
+      Antibodies targeting on different domains of S protein, including S1, RBD, and S2, may all
+      contribute to the neutralization.
+
+      Al-Rajhi Liver Center is the only liver transplantation center in Upper Egypt that performed
+      only 51 living donor liver transplantation (LDLT) cases since 2014, but it was used as
+      isolation Hospital for COVID-19 cases from March to July, 2020. Communication with liver
+      transplant cases during that period was via Telemedicine. Resuming usual Hospital activity as
+      Tertiary Liver Center occurred in 15 August 2020. Similarly, other Hospitals in Egypt were
+      designated as COVID-19 isolation Hospitals.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Liver Transplant recipients in 3 liver transplant centers will answer survey including
+           21 questions (14 questions covers the demographic data, date since the operation and
+           immunosuppressant medications and 11 questions related to Corona virus infection).
+           (SARS-CoV-2 infection will be defined according to the Ministry of Health and population
+           definitions of suspected and confirmed cases).
+
+        2. Doing serological test searching for Neutralizing Ab against SARS-Corona virus 2 in the
+           liver transplant recipients who accepted to give blood sample.
+
+      (It can be detected by Electrochemiluminescence immunoassay (ECLIA) method.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 15, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The occurrence of corona virus infection (confirmed or suspected) among liver transplant recipients</measure>
+    <time_frame>1 month</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The presence of Neutralizing Ab against SARS-Corona virus 2 among liver transplant recipients whether who give symptoms for corona virus or asymptomatic and who accept to give blood sample</measure>
+    <time_frame>2 month</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>Liver Transplant Recipient</condition>
+  <condition>COVID-19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Liver transplant recipients in 3 Liver Transplant Centers in Egypt and who accept to
+        participate in the study.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        -Liver transplant recipients in 3 Liver Transplant Centers in Egypt and who accept to
+        participate in the study
+
+        Exclusion Criteria:
+
+          -  Those who refuse to participate in the study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Assiut University</name>
+      <address>
+        <city>Assiut</city>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nahed Makhlouf, Professor</last_name>
+      <phone>01003611626</phone>
+      <email>nahedmak@yahoo.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mohamed A Medhat, MD</last_name>
+      <phone>01000493632</phone>
+      <email>mmedhat83@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Amal A Mahmoud, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mohammed A Medhat, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bashir A Fadel, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nahed A Makhlouf, Professor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rasha O Refaay, Professor</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 25, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>Dr. Nahed A. Makhlouf</investigator_full_name>
+    <investigator_title>Professor of Tropical Medicine and Gastroenterology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

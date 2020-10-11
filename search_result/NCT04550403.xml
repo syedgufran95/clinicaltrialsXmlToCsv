@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1367">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04550403</url>
+  </required_header>
+  <id_info>
+    <org_study_id>27557</org_study_id>
+    <nct_id>NCT04550403</nct_id>
+  </id_info>
+  <brief_title>Clinical Phenotype and Outcomes of Inpatients With COVID-19 and Diabetes</brief_title>
+  <official_title>Clinical Phenotype and Outcomes of Inpatients With COVID-19 and Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Azienda Ospedaliero-Universitaria di Parma</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Azienda Ospedaliero-Universitaria di Parma</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients with diabetes have been listed as people at higher risk for severe illness from
+      COVID-19. Moreover, the relationship between diabetes-related phenotypes and the severity of
+      COVID-19 remains unknown. This observational study aims to to evaluate the risk of disease
+      severity and mortality in association with diabetes in COVID-19 inpatients and identify the
+      clinical and biological features associated with worse outcomes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The epidemic of coronavirus disease-2019 (COVID-19), a disease caused by the severe acute
+      respiratory syndrome-coronavirus-2 (SARS-CoV-2) virus, rapidly spread worldwide and was
+      declared a pandemic by the World Health Organization on 11 March 2020.
+
+      It is well known that people with diabetes have increased infection risk, especially for
+      influenza and pneumonia. Moreover, diabetes was previously reported as a major risk factor
+      for mortality in people infected with the H1N1 pandemic influenza and, more recently, with
+      the Middle East respiratory syndrome-related coronavirus (MERS-CoV) . Epidemiological studies
+      have quickly and consistently pointed out diabetes as one of the major comorbidities
+      associated with COVID-19 and affecting its severity.
+
+      The prevalence of diabetes in patients with COVID-19 was first reported to range from 5% to
+      20%. Furthermore, the COVID-19-Associated Hospitalisation Surveillance Network (COVID-NET)
+      reported a diabetes prevalence of 28.3% in hospitalised patients in the USA.
+
+      More importantly, all studies published so far have reported a two- to threefold higher
+      prevalence of diabetes in patients in ICUs compared with those with less severe disease and
+      an increased mortality in people with diabetes. A recent meta-analysis further demonstrated
+      that diabetes was associated with a more than doubled risk for ICU admission and a more than
+      tripled risk for death.
+
+      However, precise data regarding diabetes characteristics in hospitalised people with COVID-19
+      are still lacking. Moreover, the relationship between diabetes-related phenotypes and the
+      severity of COVID-19 remains unknown. This study aims to identify the clinical and biological
+      features and potential interactions of diabetic therapies associated with disease severity
+      and mortality risk in people hospitalised for COVID-19. Hospital medical records of
+      inpatients, hospitalized between February 23 to March 31 2020, at the Internal Medicine Unit
+      dedicated to COVID-19 in the Academic Hospital of Parma, Italy will be analysed.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 30, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>prevalence of intensive care unit admission and/or in-hospital mortality among COVID-19 inpatients</measure>
+    <time_frame>february 23 to march 31, 2020</time_frame>
+    <description>to assess risk of intensive care unit admission and/or death among COVID-19 inpatients</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>prevalence of death among COVID-19 inpatients with and without diabetes</measure>
+    <time_frame>february 23 to march 31, 2020</time_frame>
+    <description>to compare risk of death among inpatients in presence or absence of diabetes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>prevalence of intensive care unit admission among COVID-19 inpatients with and without diabetes</measure>
+    <time_frame>february 23 to march 31, 2020</time_frame>
+    <description>to compare intensive care unit admission among inpatients in presence or absence of diabetes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>demographic and clinical characteristics (age,gender, comorbidity status) and death and/or intensive care unit admission during hospitalization</measure>
+    <time_frame>february 23 to march 31, 2020</time_frame>
+    <description>to identify socio-demographic as predictors of severe prognosis (death or intensive care unit admission) during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>laboratory parameters (glycated hemoglobin, glucose at admission, renal and liver function markers, blood count, inflammatory markers, hemostasis) and death and/or intensive care unit admission during hospitalization</measure>
+    <time_frame>february 23 to march 31, 2020</time_frame>
+    <description>to identify laboratory variables as predictors of severe prognosis (death or intensive care unit admission) during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>pharmacological therapies and death and/or intensive care unit admission during hospitalization</measure>
+    <time_frame>february 23 to march 31, 2020</time_frame>
+    <description>to identify pharmacological therapies as predictors of severe prognosis (death or intensive care unit admission) during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>number of days of hospitalization in patients with and without diabetes</measure>
+    <time_frame>february 23 to march 31, 2020</time_frame>
+    <description>to compare total length of hospitalization in patients with or without diabetes</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">700</enrollment>
+  <condition>Diabetes Mellitus</condition>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients with and without diabetes, hospitalized for COVID-19 between February 23 to March
+        31 2020, at the Internal Medicine Unit dedicated to COVID-19 in the Academic Hospital of
+        Parma, Italy
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  admission with COVID-19 to the Internal Medicine Unit dedicated to COVID-19 (Macrounit
+             1), academic hospital in Parma (Italy) between February 23 to March 31 2020.
+
+        Exclusion Criteria:
+
+          -  during hospitalization inter or intra-hospital transfer of inpatients
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Riccardo Bonadonna, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Azienda Ospedaliero-Universitaria di Parma</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Riccardo Bonadonna, MD, PhD</last_name>
+    <phone>00390521033307</phone>
+    <email>riccardo.bonadonna@unipr.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alessandra Dei Cas, MD, PhD</last_name>
+    <phone>00390521033321</phone>
+    <email>alessandra.deicas@unipr.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Endocrinology and metabolic diseases Unit</name>
+      <address>
+        <city>Parma</city>
+        <zip>43126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Riccardo Bonadonna, MD, PhD</last_name>
+      <phone>00390521033307</phone>
+      <email>riccardo.bonadonna@unipr.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Raffaella Aldigeri, MSc</last_name>
+      <phone>00390521033306</phone>
+      <email>raffaella.aldigeri@unipr.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Tiziana Meschi, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alessandra Dei Cas, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Memish ZA, Perlman S, Van Kerkhove MD, Zumla A. Middle East respiratory syndrome. Lancet. 2020 Mar 28;395(10229):1063-1077. doi: 10.1016/S0140-6736(19)33221-0. Epub 2020 Mar 4. Review.</citation>
+    <PMID>32145185</PMID>
+  </reference>
+  <reference>
+    <citation>Bindom SM, Lazartigues E. The sweeter side of ACE2: physiological evidence for a role in diabetes. Mol Cell Endocrinol. 2009 Apr 29;302(2):193-202. doi: 10.1016/j.mce.2008.09.020. Epub 2008 Oct 1. Review.</citation>
+    <PMID>18948167</PMID>
+  </reference>
+  <reference>
+    <citation>Yang JK, Lin SS, Ji XJ, Guo LM. Binding of SARS coronavirus to its receptor damages islets and causes acute diabetes. Acta Diabetol. 2010 Sep;47(3):193-9. doi: 10.1007/s00592-009-0109-4. Epub 2009 Mar 31.</citation>
+    <PMID>19333547</PMID>
+  </reference>
+  <reference>
+    <citation>Drucker DJ. Coronavirus Infections and Type 2 Diabetes-Shared Pathways with Therapeutic Implications. Endocr Rev. 2020 Jun 1;41(3). pii: bnaa011. doi: 10.1210/endrev/bnaa011. Review.</citation>
+    <PMID>32294179</PMID>
+  </reference>
+  <reference>
+    <citation>Wang B, Li R, Lu Z, Huang Y. Does comorbidity increase the risk of patients with COVID-19: evidence from meta-analysis. Aging (Albany NY). 2020 Apr 8;12(7):6049-6057. doi: 10.18632/aging.103000. Epub 2020 Apr 8.</citation>
+    <PMID>32267833</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 15, 2020</study_first_posted>
+  <last_update_submitted>September 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 15, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Azienda Ospedaliero-Universitaria di Parma</investigator_affiliation>
+    <investigator_full_name>Riccardo Bonadonna</investigator_full_name>
+    <investigator_title>Head of Endocrinology and metabolic diseases unit</investigator_title>
+  </responsible_party>
+  <keyword>diabetes</keyword>
+  <keyword>Covid-19</keyword>
+  <keyword>inhospital mortality</keyword>
+  <keyword>intensive care unit</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

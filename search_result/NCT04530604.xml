@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2300">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04530604</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00182089</org_study_id>
+    <nct_id>NCT04530604</nct_id>
+  </id_info>
+  <brief_title>Defibrotide Therapy for SARS-CoV2 (COVID-19) Acute Respiratory Distress Syndrome (ARDS)</brief_title>
+  <official_title>Defibrotide Therapy for SARS-CoV2 Acute Respiratory Distress Syndrome (ARDS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gregory Yanik</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Jazz Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial will enroll participants that have pneumonia caused by the COVID-19
+      virus. During the study patients will receive 7 to up to 14 days of defibrotide. After
+      completing the treatment, participants will have 30 day follow-up check-up to assess for
+      adverse events and clinical status. This final assessment can be done virtually, by telephone
+      or electronically (email) if the patient cannot be contacted by phone. No in-person visit is
+      required.
+
+      The hypothesis of this trial is that defibrotide therapy given to patients with severe
+      SARS-CoV2 ARDS will be safe and associated with improved overall survival, within 28 days of
+      therapy initiation.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of major hemorrhagic complications within 14 days of initiation of treatment</measure>
+    <time_frame>14 days</time_frame>
+    <description>Major hemorrhagic complications will be based on the International Society on Thrombosis and Haemostasis Bleeding scale.
+Fatal Bleeding, and/or
+Symptomatic bleeding in a critical area or organ, such as intracranial, intraspinal, intraocular, retroperitoneal, intra-articular, pericardial, or intramuscular with compartment syndrome, and/or
+Bleeding associated with a decline in hemoglobin level of &gt; 2.0 g/dl, leading to transfusion of two or more units of whole blood or red cells.
+In addition, symptomatic alveolar hemorrhage, macroscopic hematuria, uncontrolled menorrhagia or epistaxis or bleeding from any wound site would also be considered a major hemorrhagic event.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>28 days</time_frame>
+    <description>Proportion of the twelve patients who are alive at day 28 after starting treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>14 days</time_frame>
+    <description>Proportion of the twelve patients who are alive at Day 14 after starting treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator free survival</measure>
+    <time_frame>14 days</time_frame>
+    <description>Day 14 ventilator-free survival will be summarized by the proportion of the twelve patients who are both alive and not using a ventilator at Day 14 after starting treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of ventilator free days within 14 days of study entry</measure>
+    <time_frame>14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The time to improvement in oxygenation</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Improvement in oxygenation defined as an increase in atio of arterial oxygen partial pressure to fractional inspired oxygen (PaO2/FiO2) of 50 (or greater) compared to the nadir of PaO2/FiO2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in the WHO COVID-19 Ordinal Scale during therapy</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Ordinal scale:
+Ambulatory (1) - No limitation of activities (2) - Limitations of activities
+Hospitalized: (3) no oxygen therapy (4) oxygen by mask or nasal prongs
+Hospitalized: (5) Non-invasive ventilation or high-flow oxygen (6) Intubation and mechanical ventilation (7) Mechanical ventilation plus additional organs support-pressors, renal replacement therapy (RRT), Extracorporeal membrane oxygenation (ECMO)
+Dead: (8) Death</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>COVID</condition>
+  <condition>Sars-CoV2</condition>
+  <condition>COVID-19</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Defibrotide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Defibrotide</intervention_name>
+    <description>All patients will receive 25 milligram/kilogram/day (mg/kg/day) of defibrotide, given in 4 divided doses (approximately every 6 hours), each dose infused over 2-hours intravenously (IV).
+The planned duration of study therapy is 7 days (while in the hospital), with the following qualifications:
+Patients who respond to study therapy prior to day 7 (able to discontinue oxygen) will discontinue study therapy at that earlier time point.
+Patients who have not responded to study therapy by day 7 of therapy, evidenced by &lt;20% reduction (or a worsening) of the amount of supplemental oxygen they are receiving, will discontinue study therapy at day 7.
+Patients who have evidence of a partial pulmonary response by day 7 (&gt;20% reduction in supplemental oxygen requirement, but still require supplemental oxygen) may elect to continue to receive study drug through an additional 7 days of study (total 14-day therapy course).</description>
+    <arm_group_label>Defibrotide</arm_group_label>
+    <other_name>defitelio</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Presence of SARS-CoV2 infection, confirmed by real-time reverse transcription
+             polymerase chain reaction (RT-PCR) assay from a nasopharyngeal swab specimen or other
+             diagnostic test for SARS-CoV2.
+
+          -  Serum D-Dimer ≥ 2.0 mcg/ml.
+
+          -  Patients with Acute Respiratory Distress Syndrome (ARDS) as determined by the
+             following criteria (Berlin criteria adaptation):
+
+               -  Radiographic evidence of bilateral lung disease (opacities or ground glass
+                  opacification) on chest radiograph (CXR) or computed tomography (CT), and the
+                  opacities not fully explained by pleural effusions, cardiac failure or fluid
+                  overload.
+
+               -  Impairment of oxygenation, as defined by the ratio of arterial oxygen tension to
+                  fraction of inspired oxygen (PaO2/FiO2) ≤ 300 mmHg (millimeters of mercury).
+
+          -  Patients must provide voluntary written informed consent to be eligible for study. For
+             patients who are medically unable to provide consent, their designated proxy or legal
+             guardian will provide informed consent. The consenting process is described in
+             Appendix II.
+
+          -  Patients actively participating in another clinical trial for the management of
+             SARS-CoV2 are eligible provided those trials do not directly involve an anti-platelet,
+             anti-coagulant or anti-fibrinolytic agent. (Patients enrolled on investigational
+             trials utilizing anti-viral specific agents, cytokine inhibitors, tyrosine kinase
+             inhibitors, or other anti-inflammatory agents are still eligible).
+
+        Exclusion Criteria:
+
+          -  Concomitant use of heparin, systemic anticoagulants, and/or fibrinolytics are not
+             permitted within 12 hours, with the exception of heparin flushes for centrally placed
+             catheters, fibrinolytic instillation for central venous line occlusion, or in the
+             in-flow circuit for patients on continuous veno-venous hemodialysis.
+
+          -  Clinically significant acute bleeding, including (but not limited to one of the
+             following): pulmonary hemorrhage (diffuse alveolar hemorrhage), intracranial bleed,
+             gastro-intestinal hemorrhage (gross hematemesis or hematochezia), gross hematuria or
+             uncontrolled epistaxis irrespective of the amount of blood loss, within the prior 3
+             days.
+
+          -  On mechanical ventilation for &gt; 96 consecutive hours.
+
+          -  Serum platelet count &lt; 50,000/Microliters (uL). Transfusion of platelets to achieve a
+             level &gt; 50,000/uL is not allowed for eligibility.
+
+          -  Serum fibrinogen &lt; 150 mg/dl. Transfusion of fresh frozen plasma or cryoprecipitate to
+             achieve a level &gt; 150 mg/dl is not allowed for eligibility.
+
+          -  Positive blood culture for a bacterial pathogen within the prior 24 hours prior to
+             study entry, and/or the presence of bacterial pneumonia.
+
+          -  Hemodynamic instability as defined by a requirement for 2 or more vasopressors (not
+             including renal-doses of dopamine).
+
+          -  Concurrent use of Extracorporeal membrane oxygenation (ECMO).
+
+          -  Patients with a previously known hypersensitivity reaction to defibrotide, or any of
+             its excipients.
+
+          -  Females who are pregnant or breastfeeding.
+
+          -  History of cerebrovascular accident (i.e. thrombotic or hemorrhagic stroke) within 3
+             months prior to study entry.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gregory Yanik, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mary Maliarik, PhD</last_name>
+    <phone>734-615-8627</phone>
+    <email>marymali@umich.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Gregory Yanik, MD</last_name>
+    <phone>734-764-3243</phone>
+    <email>gyanik@umich.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mary Maliarik, PhD</last_name>
+      <phone>734-615-8627</phone>
+      <email>marymali@umich.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 28, 2020</study_first_posted>
+  <last_update_submitted>August 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Gregory Yanik</investigator_full_name>
+    <investigator_title>Professor of Pediatric Hematology/Oncology, Professor of Pediatrics and Communicable Diseases and Professor of Internal Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Defibrotide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

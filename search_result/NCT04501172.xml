@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2609">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04501172</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ES8/Th5/25-06-2020</org_study_id>
+    <nct_id>NCT04501172</nct_id>
+  </id_info>
+  <brief_title>Impact of Spectacles on Compliance to Mask-wearing Directives</brief_title>
+  <official_title>Impact of Spectacles on Compliance to Mask-wearing Directives in Greece</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Democritus University of Thrace</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Democritus University of Thrace</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary objective of this study is to identify the compliance of Greek people in mask-wearing
+      directive and explore potential associations with refractive errors, spectacles and contact
+      lenses use.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Present study aims to identify whether Greek people have complied with mask-wearing directive
+      and to investigate the correlation of outcomes with visual acuity - refractive errors,
+      spectacles and contact lenses use. For the purposes of this research, a questionnaire of 20
+      items including the following sub scales have been developed: a) near vision, b) distance
+      vision, c) ocular discomfort, d) driving, e) limitations, need for help, work collaboration,
+      and emotional impact
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 25, 2020</start_date>
+  <completion_date type="Actual">August 14, 2020</completion_date>
+  <primary_completion_date type="Actual">July 24, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Demographic characteristics</measure>
+    <time_frame>last 3 months</time_frame>
+    <description>Gender
+Age
+Use of spectacles (a. no use, b. for distance, c. for near, d. for distance and near)
+Use of contact lenses (a. no use, b. rarely, c. frequently, d. almost always)
+Belonging to a vulnerable group (1. No, 2. Yes, 3. I don't know)
+Binocular Distance Best Spectacle-Corrected Visual Acuity (if it is known) (1. I don't know, 2. &lt;1/10, 3. 1-3/10, 4. 4-6/10, 5. 7-8/10, 6. 9-10/10)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Compliance to mask-wearing directives</measure>
+    <time_frame>last 3 months</time_frame>
+    <description>Compliance to mask-wearing directives
+Yes, always
+Yes, almost always
+Sometimes
+No, almost never
+No, never</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Questionnaire subscale: Near vision</measure>
+    <time_frame>last 3 months</time_frame>
+    <description>Difficulty in near vision activities (reading a printed document in the workplace or in daily life, reading a document on computer in the workplace or in daily life, reading a message on mobile phone) when using a face mask
+No difficulty
+Little difficulty
+Some difficulty
+Great difficulty
+I have stopped this activity because of my vision and the use of face mask
+I need to remove my face mask</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Questionnaire subscale: Distance vision</measure>
+    <time_frame>last 3 months</time_frame>
+    <description>Difficulty in distance vision activities (recognizing people on the opposite sidewalk, reading road and shop signs, crossing roads) when using a face mask
+No difficulty
+Little difficulty
+Some difficulty
+Great difficulty
+I have stopped this activity because of my vision and the use of face mask
+I need to remove my face mask</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Questionnaire subscale: Ocular discomfort</measure>
+    <time_frame>last 3 months</time_frame>
+    <description>Ocular discomfort (tearing sensation, stinging sensation, general discomfort) when using a face mask
+5-point Likert scale (1 = I absolutely agree / 5 = I absolutely disagree)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Questionnaire subscale: Driving</measure>
+    <time_frame>last 3 months</time_frame>
+    <description>Difficulty in driving (during day or night, in known or unknown places) when using a face mask
+No difficulty
+Little difficulty
+Some difficulty
+Great difficulty
+I have stopped this activity because of my vision and the use of face mask
+I need to remove my face mask</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Questionnaire subscale: Limitation</measure>
+    <time_frame>last 3 months</time_frame>
+    <description>Limitation during physical activity, entertainment, social relationships, professional and learning development when using a face mask
+5-point Likert scale (1 = I absolutely agree / 5 = I absolutely disagree)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Questionnaire subscale: Collaboration</measure>
+    <time_frame>last 3 months</time_frame>
+    <description>Difficulty in collaboration with colleagues in the workplace when using a face mask
+No difficulty
+Little difficulty
+Some difficulty
+Great difficulty
+I have stopped this activity because of my vision and the use of face mask
+I need to remove my face mask</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Questionnaire subscale: Need for help</measure>
+    <time_frame>last 3 months</time_frame>
+    <description>Need for help during shopping (supermarket, grocery store, bakery) or in public services (bank etc) when using a face mask
+5-point Likert scale (1 = I absolutely agree / 5 = I absolutely disagree)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Questionnaire subscale: Emotional impact</measure>
+    <time_frame>last 3 months</time_frame>
+    <description>Emotional charge when using a face mask
+5-point Likert scale (1 = I absolutely agree / 5 = I absolutely disagree)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of the relationship between the compliance to mask-wearing directives and the use of spectacles</measure>
+    <time_frame>immediately after the completion of data collection</time_frame>
+    <description>Chi-squared test will be performed to assess if the compliance to mask-wearing directives is related to the use of spectacles</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of the relationship between the compliance to mask-wearing directives and the other demographic characteristics</measure>
+    <time_frame>immediately after the completion of data collection</time_frame>
+    <description>Chi-squared test will be performed to assess if the compliance to mask-wearing directives is related to the other demographic characteristics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of the relationship between the compliance to mask-wearing directives and the questionnaire items</measure>
+    <time_frame>immediately after the completion of data collection</time_frame>
+    <description>Chi-squared test will be performed to assess if the compliance to mask-wearing directives is related to the 20 questionnaire items and the corresponding subscales (outcome measures 3-10)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of the relationship between demographic characteristics and the 20 questionnaire items</measure>
+    <time_frame>immediately after the completion of data collection</time_frame>
+    <description>Chi-squared test will be performed to assess if demographic characteristics are related to the 20 items of the questionnaire and to the corresponding subscales (outcome measures 3-10)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">1214</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Study group</arm_group_label>
+    <description>People who use social networks, with permanent residence in Greece, aged above 18 years old and adequate literacy of Greek language</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Questionnaire completion</intervention_name>
+    <description>Participants are contacted through social networks (Facebook) which provide a link to website that contains the questionnaire. Then, they complete the questionnaire which consists of the following 2 parts:
+participant's demographic characteristics with questions regarding age, visual acuity - refractive error, spectacles and contact lenses use, and compliance to mask-wearing directives.
+20 items that construct 5 subscales: a) near vision (5 items), b) distance vision (3 items), c) ocular discomfort (3 items), d) driving (2 items), e) limitations (3 items), need for help (2 items), work collaboration (1 item), and emotional impact (1 item).
+The impact of spectacles on the compliance of Greek people to mask-wearing directives will be assessed via this questionnaire.</description>
+    <arm_group_label>Study group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        People who use social networks, with permanent residence in Greece, aged above 18 years old
+        and adequate literacy of Greek language
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age &gt;18 years old
+
+          -  Adequate literacy of Greek language
+
+          -  Permanent residence in Greece
+
+        Exclusion Criteria:
+
+          -  Poor knowledge of Greek language
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Labiris Georgios, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Department of Ophthalmolgy, University Hospital of Alexandroupolis, Greece</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University Hospital of Alexandroupolis</name>
+      <address>
+        <city>Alexandroupolis</city>
+        <state>Evros</state>
+        <zip>68100</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Greece</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>September 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 15, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Democritus University of Thrace</investigator_affiliation>
+    <investigator_full_name>Georgios Labiris</investigator_full_name>
+    <investigator_title>Associate Professor of Ophthalmology</investigator_title>
+  </responsible_party>
+  <keyword>face masks</keyword>
+  <keyword>spectacles</keyword>
+  <keyword>contact lenses</keyword>
+  <keyword>compliance in mask-wearing directive</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

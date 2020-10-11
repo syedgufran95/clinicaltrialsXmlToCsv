@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1478">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04526821</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SIDISI 202110</org_study_id>
+    <nct_id>NCT04526821</nct_id>
+  </id_info>
+  <brief_title>Lactoferrin for Prevention of COVID-19 in Health Care Workers</brief_title>
+  <acronym>LF-COVID</acronym>
+  <official_title>Bovine Lactoferrin for the Prevention of COVID-19 Infection in Physicians and Nurses in Hospitals in Lima, Peru: a Double Blinded Randomized Clinical Trial (LF-COVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad Peruana Cayetano Heredia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad Peruana Cayetano Heredia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Clinical trial in health care personnel (physicians, nurses or nurse assistants) to determine
+      the effect of orally-administered bovine lactoferrin to prevent SARS-CoV-2 infection.
+      Participants will be randomized to receive daily bovine lactoferrin plus standard measures
+      during 12 weeks or placebo (maltodextrine) for the prevention of SARS-CoV-2. The target
+      enrollment is 336 participants. Each study participant will be monitored twice a week for
+      symptoms of COVID-19 and if symptoms occur, a RT-PCR will be performed. Additionally, we will
+      evaluate asymptomatic infections, by measuring SARS-CoV-2 serology every 4 weeks.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The SARS-CoV-2 infection has affected more than 100 countries around the world being
+      classified as a pandemic by the World Health Organization. Health care providers are at high
+      risk to become infected with the SARS-CoV-2 due to their continuous exposition to infected
+      patients. Multiple strategies are being developed as potential prophylactic regimens, however
+      to date (4th Aug 2020) none has proven to be effective for preventing the SARS-CoV-2
+      infection. Lactoferrin, an iron-binding protein with multiple physiological functions
+      (anti-microbial, anti-inflammatory, and immunomodulatory), is one of the most important
+      proteins present in mammalian milk. It has shown to inhibit the SARS entry to target cells by
+      inhibiting the union of the SARS-CoV-2 spike protein with its receptor (ACE-II receptors),
+      blocking the heparan sulfate proteoglycan receptor and it decreases the viral load of
+      SARS-CoV-2 infecting culture cells in in vitro models. The study hypothesis is that
+      lactoferrin given as a daily oral food supplement to health care workers will decrease the
+      frequency of SARS-CoV-2 infection. The investigators will conduct a randomized double blinded
+      placebo control clinical trial in physicians, nurses and nurse assistants who work in areas
+      of care for patients with COVID-19 (emergency, hospitalization, and Intensive Care Unit) in
+      hospitals in Lima, Peru, to determine the effect of bovine lactoferrin on the prevention of
+      COVID-19 infection.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of COVID-19 infections during the 12 weeks of intervention</measure>
+    <time_frame>Twelve weeks</time_frame>
+    <description>The primary study outcome will be defined by IgM, IgG and/or RT-PCR positivity for SARS-CoV 2.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Severity of the COVID-19 infection</measure>
+    <time_frame>Twelve weeks</time_frame>
+    <description>Severity of SARS-CoV-2 infection (asymptomatic, mild, moderate, severe infection), assessed by the World Health Organization definitions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of symptoms of the COVID-19 infection</measure>
+    <time_frame>Twelve weeks</time_frame>
+    <description>Duration of symptomatic SARS-CoV-2 infection defined by the number of days with SARS-CoV-2 symptomatology.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frecuency of symptoms of the COVID-19 infection</measure>
+    <time_frame>Twelve weeks</time_frame>
+    <description>Frecuency of symptoms of SARS-CoV-2 infection: fever, fatigue, nonproductive cough, anorexia, myalgias, dyspnea, productive cough, taste and smell disorders, headache, rhinorrhea, nausea, diarrhea, and abdominal pain</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">336</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Bovine Lactoferrin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Bovine Lactoferrin plus standard measures of personal protection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Maltodextrin</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Maltodextrin plus standard measures of personal protection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Bovine Lactoferrin</intervention_name>
+    <description>Bovine Lactoferrin 600mg daily for 12 weeks (3 chewable tablets of 100mg , twice a day), for 12 weeks plus personal portection provided from the hospital.</description>
+    <arm_group_label>Bovine Lactoferrin</arm_group_label>
+    <other_name>Lactoferrin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Maltodextrin</intervention_name>
+    <description>Maltodextrin 600mg daily for 12 weeks (3 chewable tablets of 100mg, twice a day), for 12 weeks plus personal portection provided from the hospital.</description>
+    <arm_group_label>Maltodextrin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Man or woman over 18 and under 60 years old
+
+          -  Physicians or nurses or nurse assitant who work in areas of care for patients with
+             COVID-19 (emergency, hospitalization, and Intensive Care Unit) in hospitals in Lima,
+             Peru.
+
+          -  Healthy participants, without COVID-19 suggestive symptoms
+
+          -  Participant who wants to participate and signs the informed consent.
+
+        Exclusion Criteria:
+
+          -  Participant who had a previous diagnosis of COVID-19.
+
+          -  Participant positive in the initial screening for IgM or IgG or a positive RT-PCR for
+             SARS-CoV-2.
+
+          -  Participant with the following comorbidities: hypertension, coronary heart disease,
+             diabetes mellitus, obesity, chronic lung disease, cancer, kidney failure, or other
+             hematological disease.
+
+          -  Pregnant woman.
+
+          -  Participant that are part of another clinical trial or are taking any supplement or
+             preventive treatment for COVID-19.
+
+          -  Participant with known allergy to cow's milk protein.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Theresa J Ochoa, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universidad Peruana Cayetano Heredia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Theresa J Ochoa, MD, PhD</last_name>
+    <phone>+51996505308</phone>
+    <email>Theresa.J.Ochoa@uth.tmc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Nacional Arzobispo Loayza</name>
+      <address>
+        <city>Lima</city>
+        <state>Lim</state>
+        <zip>15082</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Eddie Angles, MD</last_name>
+      <phone>+51996470205</phone>
+      <email>eddie.angles.y@upch.pe</email>
+    </contact>
+    <contact_backup>
+      <last_name>Meylin Aphang, MD, Msc</last_name>
+      <phone>+51965055488</phone>
+      <email>meylin.aphang.l@upch.pe</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Eddie Angles, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Meylin Aphang, MD, Msc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jorge Florez, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Cayetano Heredia</name>
+      <address>
+        <city>Lima</city>
+        <zip>15102</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Carlos Medina, MD</last_name>
+      <phone>+51994311626</phone>
+      <email>carlos.medina.c@upch.pe</email>
+    </contact>
+    <contact_backup>
+      <last_name>Fernando Mejia, MD, Msc</last_name>
+      <phone>+51999862832</phone>
+      <email>fernando.mejia.c@upch.pe</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Carlos Medina, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fernando Mejia, MD, Msc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Peru</country>
+  </location_countries>
+  <reference>
+    <citation>Legrand D. Overview of Lactoferrin as a Natural Immune Modulator. J Pediatr. 2016 Jun;173 Suppl:S10-5. doi: 10.1016/j.jpeds.2016.02.071. Review.</citation>
+    <PMID>27234406</PMID>
+  </reference>
+  <reference>
+    <citation>Baker HM, Baker EN. A structural perspective on lactoferrin function. Biochem Cell Biol. 2012 Jun;90(3):320-8. doi: 10.1139/o11-071. Epub 2012 Jan 31. Review.</citation>
+    <PMID>22292559</PMID>
+  </reference>
+  <reference>
+    <citation>Chang R, Ng TB, Sun WZ. Lactoferrin as potential preventative and adjunct treatment for COVID-19. Int J Antimicrob Agents. 2020 Sep;56(3):106118. doi: 10.1016/j.ijantimicag.2020.106118. Epub 2020 Jul 30. Review.</citation>
+    <PMID>32738305</PMID>
+  </reference>
+  <reference>
+    <citation>Lang J, Yang N, Deng J, Liu K, Yang P, Zhang G, Jiang C. Inhibition of SARS pseudovirus cell entry by lactoferrin binding to heparan sulfate proteoglycans. PLoS One. 2011;6(8):e23710. doi: 10.1371/journal.pone.0023710. Epub 2011 Aug 22.</citation>
+    <PMID>21887302</PMID>
+  </reference>
+  <reference>
+    <citation>Campione E, Cosio T, Rosa L, Lanna C, Di Girolamo S, Gaziano R, Valenti P, Bianchi L. Lactoferrin as Protective Natural Barrier of Respiratory and Intestinal Mucosa against Coronavirus Infection and Inflammation. Int J Mol Sci. 2020 Jul 11;21(14). pii: E4903. doi: 10.3390/ijms21144903. Review.</citation>
+    <PMID>32664543</PMID>
+  </reference>
+  <reference>
+    <citation>Mirabelli C, Wotring JW, Zhang CJ, McCarty SM, Fursmidt R, Frum T, Kadambi NS, Amin AT, O'Meara TR, Pretto CD, Spence JR, Huang J, Alysandratos KD, Kotton DN, Handelman SK, Wobus CE, Weatherwax KJ, Mashour GA, O'Meara MJ, Sexton JZ. Morphological Cell Profiling of SARS-CoV-2 Infection Identifies Drug Repurposing Candidates for COVID-19. bioRxiv. 2020 Jun 10. pii: 2020.05.27.117184. doi: 10.1101/2020.05.27.117184.</citation>
+    <PMID>32577649</PMID>
+  </reference>
+  <reference>
+    <citation>Marques de Carvalho CA, da Rocha Matos A, Caetano BC, de Sousa Junior IP, da Costa Campos SP, Geraldino BR, et al. In Vitro Inhibition of SARS-CoV-2 Infection by Bovine Lactoferrin [Internet]. Microbiology; 2020 May [cited 2020 May 25]. Available from: http://biorxiv.org/lookup/doi/10.1101/2020.05.13.093781</citation>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>August 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2 Infection</keyword>
+  <keyword>Lactoferrin</keyword>
+  <keyword>Health Care Workers</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lactoferrin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data collected during the trial, after deidentification, will be shared with researchers who provide a methodological sound study protocol previously approved by an independent ethics committee.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Immediately following publication of the study,</ipd_time_frame>
+    <ipd_access_criteria>Contact the study PI ( Theresa.ochoa@upch.pe)</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

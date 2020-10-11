@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="240">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04505709</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STOP-Coronavirus</org_study_id>
+    <secondary_id>COV20/00181</secondary_id>
+    <nct_id>NCT04505709</nct_id>
+  </id_info>
+  <brief_title>Clinical, Immunological, Genomic, Virological and Bioethical Actors of COVID-19</brief_title>
+  <official_title>STOP-Coronavirus: Clinical, Immunological, Genomic, Virological and Bioethical Actors of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital Universitario 12 de Octubre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundacion Investigacion Biomedica Hospital 12 de Octubre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario Fundacion Jimenez Diaz</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario Infanta Elena</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario Virgen de la Arrixaca</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Instituto Murciano de Investigación Biosanitaria Virgen de la Arrixaca</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The STOP-Coronavirus project is an integrated and multidisciplinary study that aims to
+      analyze the impact that various factors have on the evolution and prognosis of the current
+      COVID-19. Clinical presentation, immunological markers, therapeutic strategies, host and
+      virus genomics, and bioethical considerations will be analyzed with a prospective multicenter
+      cohort of patients with a diagnosis of COVID-19.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This project led my Dr Aguado Garcia, has established 8 Work Parckages (WP) to analyze
+      factors involved in the impact of COVID-19. WP that correspond to University Hospital
+      Fundacion Jimenez Diaz are described in this register across different objectives:
+
+      WP 3 (Dr Ayuso García) is aimed to analyze the genetic markers of host susceptibility
+      associated with clinical evolution of COVID-19.
+
+      WP 6 (Dr Ruiz Hornillos) will study the socio-economic and bioethical repercussions of
+      COVID-19.
+
+      WP 7 (Dr Perales) will analyze the complexity of the spectrum of SARS-CoV-2 mutants and their
+      possible association with the evolutionary course of COVID-19
+
+      This project will guide and individualize the clinical and therapeutic approach to COVID-19
+      and mitigate the health and social impact of the pandemic.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">August 1, 2020</start_date>
+  <completion_date type="Anticipated">August 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>12 Months</target_duration>
+  <primary_outcome>
+    <measure>Identification of host genetic markers associated with the evolution of COVID-19</measure>
+    <time_frame>4 months</time_frame>
+    <description>Based on the cohort of patients with a confirmed diagnosis of COVID-19 and according to severity categories, a Genome-wide association study (GWAS) will be carried out</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Analysis of bioethical aspects related to in-hospital management of the health crisis</measure>
+    <time_frame>10 months</time_frame>
+    <description>Through structured interviews, data collection in each epidemiological period, and evaluation of the application of recommended measures from the bioethical point of view, a comparative study will be carried out between hospitals, taking into account the use of resources and analyzing the situations of ethical commitment for healthcare professionals, patients and institutions</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Analysis of the spectrum of mutants of SARS-CoV-2 and its possible association with the clinical evolution of COVID-19</measure>
+    <time_frame>6 months</time_frame>
+    <description>From the mass sequencing of SARS-CoV-2 and the calculation of viral variability indices, it will be studied whether or not there is an association between the spectrum of viral mutants and clinical evolution</description>
+  </primary_outcome>
+  <enrollment type="Actual">1000</enrollment>
+  <condition>Covid19</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      SARS-CoV-2
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with confirmed diagnosis of COVID-19 (positive RT-PCR for SARS-CoV-2 in
+        respiratory sample) will from the following university hospitals, will be enrolled for the
+        study:
+
+        Hospital Universitario 12 de Octubre, Hospital Universitario Fundación Jiménez Díaz,
+        Hospital Universitario Infanta Elena, Hospital Clínico Universtario Virgen de la Arrixaca
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Confirmed diagnosis of COVID-19 (positive RT-PCR for SARS-CoV-2 in respiratory
+             sample).
+
+        Exclusion Criteria:
+
+          -  Suspected coronavirus infection without diagnostic confirmation
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Months</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Fundacion Jimenez Diaz</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 10, 2020</study_first_posted>
+  <last_update_submitted>August 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>genomics</keyword>
+  <keyword>bioethics</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

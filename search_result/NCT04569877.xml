@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1368">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04569877</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KKS-279</org_study_id>
+    <secondary_id>2020-001654-21</secondary_id>
+    <nct_id>NCT04569877</nct_id>
+  </id_info>
+  <brief_title>GM-CSF Inhalation to Prevent ARDS in COVID-19 Pneumonia</brief_title>
+  <acronym>GI-COVID</acronym>
+  <official_title>Granulocyte Macrophage Colony Stimulating Factor (GM-CSF) Inhalation to Prevent ARDS in COVID-19 Pneumonia (GI-COVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Giessen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Giessen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To assess the safety and tolerability of inhaled molgramostim nebuliser solution in patients
+      with COVID-19 pneumonia.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 pneumonia is induced by the newly emerging pandemic Severe acute respiratory
+      Syndrome (SARS) coronavirus 2 and results in progression to the acute respiratory distress
+      syndrome (ARDS). Apart from protective ventilation, fluid restriction, prone positioning and
+      extracorporeal membrane oxygenation (ECMO), no specific therapeutic options exist to treat
+      this devastating disease with a mortality rate of up to 50%. The growth factor
+      granulocyte-macrophage colony-stimulating factor (GM-CSF) is widely recognized to promote
+      differentiation and mobilization of different myeloid leukocyte subsets including
+      neutrophils, tissue macrophages/dendritic cells or their circulating precursors. GM-CSF was
+      found to be crucial for alveolar epithelial repair following hyperoxic and inflammatory lung
+      injury.The aim of the current trial is to prevent progression to ARDS in COVID-19 pneumonia
+      patients by preemptive GM-CSF Inhalation.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 24, 2020</start_date>
+  <completion_date type="Anticipated">December 25, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 25, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>During 15 days</time_frame>
+    <description>Need for mechanical ventilation within 15 days after randomization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical status of subject at day 15 and day 29 (on a 7-point ordinal scale):</measure>
+    <time_frame>At day 15 and day 29</time_frame>
+    <description>Not hospitalized, no limitations on activities
+Not hospitalized, limitation on activities;
+Hospitalized, not requiring supplemental oxygen;
+Hospitalized, requiring supplemental oxygen;
+Hospitalized, on non-invasive ventilation or high flow oxygen devices;
+Hospitalized, on invasive mechanical ventilation or ECMO;
+Death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events [Safety and Tolerability]</measure>
+    <time_frame>At day 0 (day before first dose), day 1-9, and day 15</time_frame>
+    <description>Incidence of Treatment-Emergent Adverse Events [Safety and Tolerability] will be measured at day 0 (day before first dose), day 1-9, and day 15</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen supply</measure>
+    <time_frame>At day 0, day 1-7, day 8-9 (24 hours/48 hours post dose) and day 15</time_frame>
+    <description>Need for oxygen supply (l/min) to reach peripheral oxygen saturation of 98%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical parameter: temperature</measure>
+    <time_frame>Max. 48 hours before day 0, at day 0, day 1-7, day 8-9 and day 15</time_frame>
+    <description>Clinical parameter (4 times daily): temperature (°C degree)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical parameter: blood pressure</measure>
+    <time_frame>Max. 48 hours before day 0, at day 0, day 1-7, day 8-9 and day 15</time_frame>
+    <description>Clinical parameter (4 times daily): blood pressure (mmHg)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical parameter: heart beat</measure>
+    <time_frame>Max. 48 hours before day 0, at day 0, day 1-7, day 8-9 and day 15</time_frame>
+    <description>Clinical parameter (4 times daily): hear beat (beats per minute)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical parameter: respiratory rate</measure>
+    <time_frame>Max. 48 hours before day 0, at day 0, day 1-7, day 8-9 and day 15</time_frame>
+    <description>Clinical parameter (4 times daily): respiratory rate (breaths per minute)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severe acute respiratory syndrome coronavirus 2 polymerase chain reaction (PCR)</measure>
+    <time_frame>Max. 48 hours before day 0 and at day 8-9</time_frame>
+    <description>Presence of Severe acute respiratory syndrome coronavirus 2 nucleic acid by PCR test in swabs or tracheal aspirates/bronchoalveolar lavage</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Laboratory: C-reactive protein test</measure>
+    <time_frame>At day 0, day 1-7, day 8-9 and day 15</time_frame>
+    <description>C-reactive protein test measures the amount of C-reactive protein in blood (mg/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Laboratory: ferritin</measure>
+    <time_frame>At day 0, day 1-7, day 8-9 and day 15</time_frame>
+    <description>Ferritin test measures the amount of ferritin in the blood (ng/ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Laboratory: Interleukin-6</measure>
+    <time_frame>At day 0, day 1-7, day 8-9 and day 15</time_frame>
+    <description>Interleukin-6 test (IL-6) measures the amount of IL-6 in the blood (pg/ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Laboratory: procalcitonin</measure>
+    <time_frame>At day 0, day 1-7, day 8-9 and day 15</time_frame>
+    <description>Procalcitonin (PCT) test measures the amount of PCT in the blood in (μg/l)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bacterial pneumonia</measure>
+    <time_frame>At day 0, day 1-7, day 8-9 and day 15</time_frame>
+    <description>Occurrence of secondary bacterial pneumonia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaso-active drugs</measure>
+    <time_frame>At day 29</time_frame>
+    <description>Days on vaso-active drugs in a 29-day period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>At day 29</time_frame>
+    <description>All-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GM-CSF</measure>
+    <time_frame>At day 0 and day 1-7</time_frame>
+    <description>GM-CSF levels in serum</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">238</enrollment>
+  <condition>Severe Acute Respiratory Syndrome (SARS) Pneumonia</condition>
+  <condition>COVID-19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Molgramostim nebuliser solution</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>300μg molgramostim nebuliser solution</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo nebuliser solution</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo nebuliser solution</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Molgramostim nebuliser solution</intervention_name>
+    <description>300μg molgramostim nebuliser solution nebulised seven times within 7 days via rapid nebuliser system</description>
+    <arm_group_label>Molgramostim nebuliser solution</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo nebuliser solution</intervention_name>
+    <description>Placebo nebulised seven times within 7 days via rapid nebuliser system</description>
+    <arm_group_label>Placebo nebuliser solution</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Signed informed consent form by the patient according to local regulations
+
+          2. Man or non-pregnant woman
+
+          3. Age ≥18 years
+
+          4. Willingness of patients with reproductive potential to use highly effective
+             contraceptive methods by practicing abstinence or by using at least two methods of
+             birth control from the date of consent to the end of the study. If abstinence could
+             not be practiced, a combination of hormonal contraceptive (oral, injectable, or
+             implants) and a barrier method (condom, diaphragm with a vaginal spermicidal agent)
+             has to be used *.
+
+          5. Lab-confirmed COVID-19 pneumonia where pneumonia is diagnosed by radiographic
+             infiltrates by imaging (chest x-ray, CT scan, etc.), OR clinical assessment (evidence
+             of rales/crackles on exam) AND pulse oximeter oxygen saturation ≤ 94% at room air in
+             patients that do not have chronic hypoxia; or less than their baseline oxygenation in
+             patients that suffer from chronic hypoxia
+
+          6. Negative serum pregnancy test in women of childbearing potentia
+
+        Exclusion Criteria:
+
+          1. Pregnancy or breast feeding
+
+          2. Autoimmune thrombocytopenia, myelodysplastic syndromes with &gt; 20% marrow blast cells
+
+          3. History or presence of hypersensitivity or idiosyncratic reaction to molgramostim
+             (e.g. Leucomax®) or to related compounds (e.g. Leukine®)
+
+          4. Patient not able to use nebulizer device
+
+          5. Simultaneous participation in another clinical trial with an experimental treatment
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Susanne Herold, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universitätsklinikum Giessen und Marburg (UKGM)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Susanne Herold, Prof. Dr.</last_name>
+    <phone>+49 (0) 641 985 57061</phone>
+    <email>Susanne.Herold@innere.med.uni-giessen.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nelli Ens-Jäger</last_name>
+    <phone>+49 (0) 6421 282 6598</phone>
+    <email>nelli.ens@kks.uni-marburg.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Prof. Dr. Susanne Herold, PhD</name>
+      <address>
+        <city>Gießen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susanne Herold, Prof.</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <reference>
+    <citation>Arndt CA, Koshkina NV, Inwards CY, Hawkins DS, Krailo MD, Villaluna D, Anderson PM, Goorin AM, Blakely ML, Bernstein M, Bell SA, Ray K, Grendahl DC, Marina N, Kleinerman ES. Inhaled granulocyte-macrophage colony stimulating factor for first pulmonary recurrence of osteosarcoma: effects on disease-free survival and immunomodulation. a report from the Children's Oncology Group. Clin Cancer Res. 2010 Aug 1;16(15):4024-30. doi: 10.1158/1078-0432.CCR-10-0662. Epub 2010 Jun 24.</citation>
+    <PMID>20576718</PMID>
+  </reference>
+  <reference>
+    <citation>Ballinger MN, Paine R 3rd, Serezani CH, Aronoff DM, Choi ES, Standiford TJ, Toews GB, Moore BB. Role of granulocyte macrophage colony-stimulating factor during gram-negative lung infection with Pseudomonas aeruginosa. Am J Respir Cell Mol Biol. 2006 Jun;34(6):766-74. Epub 2006 Feb 10.</citation>
+    <PMID>16474098</PMID>
+  </reference>
+  <reference>
+    <citation>Cakarova L, Marsh LM, Wilhelm J, Mayer K, Grimminger F, Seeger W, Lohmeyer J, Herold S. Macrophage tumor necrosis factor-alpha induces epithelial expression of granulocyte-macrophage colony-stimulating factor: impact on alveolar epithelial repair. Am J Respir Crit Care Med. 2009 Sep 15;180(6):521-32. doi: 10.1164/rccm.200812-1837OC. Epub 2009 Jul 9.</citation>
+    <PMID>19590023</PMID>
+  </reference>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Hamilton JA. Colony-stimulating factors in inflammation and autoimmunity. Nat Rev Immunol. 2008 Jul;8(7):533-44. doi: 10.1038/nri2356. Review.</citation>
+    <PMID>18551128</PMID>
+  </reference>
+  <reference>
+    <citation>Herold S, Hoegner K, Vadász I, Gessler T, Wilhelm J, Mayer K, Morty RE, Walmrath HD, Seeger W, Lohmeyer J. Inhaled granulocyte/macrophage colony-stimulating factor as treatment of pneumonia-associated acute respiratory distress syndrome. Am J Respir Crit Care Med. 2014 Mar 1;189(5):609-11. doi: 10.1164/rccm.201311-2041LE.</citation>
+    <PMID>24579839</PMID>
+  </reference>
+  <reference>
+    <citation>Huang FF, Barnes PF, Feng Y, Donis R, Chroneos ZC, Idell S, Allen T, Perez DR, Whitsett JA, Dunussi-Joannopoulos K, Shams H. GM-CSF in the lung protects against lethal influenza infection. Am J Respir Crit Care Med. 2011 Jul 15;184(2):259-68. doi: 10.1164/rccm.201012-2036OC. Epub 2011 Apr 7.</citation>
+    <PMID>21474645</PMID>
+  </reference>
+  <reference>
+    <citation>LeVine AM, Reed JA, Kurak KE, Cianciolo E, Whitsett JA. GM-CSF-deficient mice are susceptible to pulmonary group B streptococcal infection. J Clin Invest. 1999 Feb;103(4):563-9.</citation>
+    <PMID>10021465</PMID>
+  </reference>
+  <reference>
+    <citation>Matute-Bello G, Liles WC, Radella F 2nd, Steinberg KP, Ruzinski JT, Hudson LD, Martin TR. Modulation of neutrophil apoptosis by granulocyte colony-stimulating factor and granulocyte/macrophage colony-stimulating factor during the course of acute respiratory distress syndrome. Crit Care Med. 2000 Jan;28(1):1-7.</citation>
+    <PMID>10667491</PMID>
+  </reference>
+  <reference>
+    <citation>Papiris SA, Tsirigotis P, Kolilekas L, Papadaki G, Papaioannou AI, Triantafillidou C, Papaporfyriou A, Karakatsani A, Kagouridis K, Griese M, Manali ED. Long-term inhaled granulocyte macrophage-colony-stimulating factor in autoimmune pulmonary alveolar proteinosis: effectiveness, safety, and lowest effective dose. Clin Drug Investig. 2014 Aug;34(8):553-64. doi: 10.1007/s40261-014-0208-z.</citation>
+    <PMID>24890235</PMID>
+  </reference>
+  <reference>
+    <citation>Presneill JJ, Harris T, Stewart AG, Cade JF, Wilson JW. A randomized phase II trial of granulocyte-macrophage colony-stimulating factor therapy in severe sepsis with respiratory dysfunction. Am J Respir Crit Care Med. 2002 Jul 15;166(2):138-43.</citation>
+    <PMID>12119223</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>GM-CSF</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>ARDS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Molgramostim</mesh_term>
+    <mesh_term>Pharmaceutical Solutions</mesh_term>
+    <mesh_term>Sargramostim</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Study protocol will be provided after publication</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>3 Months after publication</ipd_time_frame>
+    <ipd_access_criteria>Central server</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2658">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542954</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/1481</org_study_id>
+    <nct_id>NCT04542954</nct_id>
+  </id_info>
+  <brief_title>Optimized Management of Covid-19 Positive Kidney Transplant Recipients: Single Center Experience From the Middle East</brief_title>
+  <acronym>OMC-KTR</acronym>
+  <official_title>Renal Dysfunction Among Patients With Severe Acute Respiratory Syndrome Coronavirus 2 (Covid-19) Patients: Kuwait Experience</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hamid Al-Essa Organ Transplant Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ministry of Health, Kuwait</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hamid Al-Essa Organ Transplant Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Methods: Out of 2000 kidney transplant recipients in our center in Kuwait, collecting data
+      was started for all COVID-19-positive kidney transplant recipients till August 2020. Clinical
+      features, management details and both patient and graft outcomes were reported.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Before COVID-19 pandemic, nearly 2000 kidney transplant recipients were followed in our
+      center in Kuwait. Data collection of such infected cases were started after diagnosing the
+      1st case during 1st week of March 2020. An ongoing study was performed that included 8
+      governmental acute care hospitals in Kuwait. All COVID-19-positive adult kidney transplant
+      recipients with a functioning allograft who presented to the emergency department and were
+      either discharged or hospitalized between March 1, 2020 and August 1, 2020 were included.
+      Clinical features, management details and both patient and graft outcomes were reported. Data
+      were collected from the electronic health record reporting database of both the mother
+      transplant center and isolation hospitals.
+
+      Laboratory diagnosis:
+
+      COVID-19 positivity was defined as a positive result on real-time polymerase chain reaction
+      (PCR) assay of nasopharyngeal swab specimens targeting the RNA-dependent RNA polymerase gene
+      using amplification according to manufacturer's recommendation. Kidney transplant status was
+      defined as an active International Statistical Classification of Diseases and Related Health
+      Problems 10 code of T86.1, T86.10, T86.11, T86.12, T86.13, T86.19, or Z94.0. All electronic
+      files were manually reviewed for demographics, history of recent exposure, immunosuppression
+      changes, clinical signs and symptoms suggesting COVID-19, and laboratory findings with
+      special stress on serum creatinine, liver function tests, D dimer, procalcitonin (PCT), C
+      reactive protein and complete blood count. Acute kidney injury was graded according to Kidney
+      Disease Improving Global Outcomes (KDIGO) criteria. AKI was staged for severity according to
+      the following criteria: Stage 1 when creatinine was ranging between 1.5-&lt;2 folds of basal;
+      stage 2 if the creatinine was ranging between 2-&lt;3folds and stage 3 if creatinine was more
+      than 3 folds the basal. The study was approved by the ethical committee of ministry of health
+      of Kuwait. Written informed consent was waived in light of the urgent need to collect data.
+
+      Radiological assessment:
+
+      The presence of a radiologic abnormality was determined on the basis of the documentation or
+      description in medical charts of infected patients; if imaging scans were available, they
+      were reviewed by attending physicians in respiratory medicine who extracted the data. If a
+      major disagreement between two reviewers happened it was resolved by consultation with a
+      third reviewer. The degree of severity of Covid-19 (severe vs. non-severe) at the time of
+      admission will be defined using the American Thoracic Society guidelines for
+      community-acquired pneumonia.7
+
+      Statistics:
+
+      Statistical analyses were conducted using SPSS version 20.0 (SPSS, Chicago, IL, USA).
+      Qualitative data were presented as number and percent, and quantitative data were presented
+      as means ± standard deviation and median. The t-test was used to compare means and standard
+      deviations of the studied groups. Categorical data were compared using the chi-squared test.
+      P values will be considered significant if &lt; 0.05.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Actual">August 31, 2020</completion_date>
+  <primary_completion_date type="Actual">August 31, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>30 Days</target_duration>
+  <primary_outcome>
+    <measure>patient outcome</measure>
+    <time_frame>30 days</time_frame>
+    <description>living patients (1), dead patients(2) during the study period</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Kidney graft outcome</measure>
+    <time_frame>30 days</time_frame>
+    <description>functioning graft(1), failed graft(2) and impaired graft(3) at the end of the study</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>risk factors for getting COVID19 infection</measure>
+    <time_frame>30 days</time_frame>
+    <description>Diabetes(=!), IHD(=1), Hypertension(=1),pulmonary diseases(=1)</description>
+  </secondary_outcome>
+  <enrollment type="Actual">104</enrollment>
+  <condition>Covid19</condition>
+  <condition>Kidney Transplant Infection</condition>
+  <condition>Risk Factor, Cardiovascular</condition>
+  <condition>Immunosuppression</condition>
+  <condition>Outcome, Fatal</condition>
+  <condition>Graft Failure</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Optimized Management of Covid-19 Positive Kidney Transplant Recipients: Single Center Experience from the Middle East</intervention_name>
+    <description>Optimized Management of Covid-19 Positive Kidney Transplant Recipients: Single Center Experience from the Middle East</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All Adult renal transplant patients infected with COVID-19 during the period of 6 months
+        from 3.2020 till the end of 8.2020
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All renal transplant patients infected with COVID-19 during the period of 6 months
+             from 3.2020 till the end of 8.2020
+
+        Exclusion Criteria:
+
+          -  Pediatric patients
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>OTC, MOH , Kuwait</name>
+      <address>
+        <city>Kuwait</city>
+        <zip>Kuwait</zip>
+        <country>Kuwait</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Kuwait</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 9, 2020</study_first_posted>
+  <last_update_submitted>September 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1716">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04514874</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-COVID19-26</org_study_id>
+    <nct_id>NCT04514874</nct_id>
+  </id_info>
+  <brief_title>Assessment of the Prevalence and the Impact of the COVID-19 Epidemic in the French Flight Crew in 2020</brief_title>
+  <acronym>Covaé</acronym>
+  <official_title>Assessment of the Prevalence and the Impact of the COVID-19 Epidemic in the French Flight Crew in 2020</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Direction Centrale du Service de Santé des Armées</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Direction Centrale du Service de Santé des Armées</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aeronautical community was also affected and greatly impacted economically and socially
+      by the Covid-19 pandemic. Away from the acute phase, the epidemiological impact and the
+      consequences of this disease within the French aviation flight crew population must be
+      assessed. This study is aimed at providing original epidemiological data among civil and
+      military aircrew, prior to possible prevention strategies or countermeasures to optimize risk
+      management in terms of aviation safety and to promote, if necessary, future targeted studies.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Anticipated">December 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence of COVID-19 infection among French military professional aircrew</measure>
+    <time_frame>At enrollment</time_frame>
+    <description>Prevalence of COVID-19 infection will be estimated on the basis of the replies to the questionnaire</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Predictive factors of COVID-19 infection</measure>
+    <time_frame>At enrollment</time_frame>
+    <description>Predictive factors of COVID-19 infection will be assessed using a top-down logistic regression model taking into account socio-demographic and occupational variables.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Techniques used for COVID-19 screening</measure>
+    <time_frame>At enrollment</time_frame>
+    <description>Techniques used for COVID-19 screening will be estimated on the basis of the replies to the questionnaire (among participants who reported being tested for COVID-19)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reasons for COVID-19 screening</measure>
+    <time_frame>At enrollment</time_frame>
+    <description>Reasons for COVID-19 screening will be estimated on the basis of the replies to the questionnaire (among participants who reported being tested for COVID-19)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Experienced symptoms of COVID-19</measure>
+    <time_frame>At enrollment</time_frame>
+    <description>Experienced symptoms of COVID-19 will be estimated on the basis of the replies to the questionnaire (among participants who reported being infected)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Medical care of COVID-19</measure>
+    <time_frame>At enrollment</time_frame>
+    <description>Medical care of COVID-19 will be estimated on the basis of the replies to the questionnaire (among participants who reported being infected)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social consequences of the COVID-19 pandemic</measure>
+    <time_frame>At enrollment</time_frame>
+    <description>Social consequences of the COVID-19 pandemic will be estimated on the basis of the replies to the questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Factors associated with pejorative consequences of the COVID-19 pandemic</measure>
+    <time_frame>At enrollment</time_frame>
+    <description>Factors associated with pejorative consequences of the COVID-19 pandemic will be assessed using a top-down logistic regression model taking into account socio-demographic and occupational variables.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire</intervention_name>
+    <description>Self-questionnaire about socio-demographical status, health status and lifestyle habits during and following the COVID-19 pandemic.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will be composed of professional military aircrew of all aeronautical
+        specialties presenting themselves for a periodic medical exam.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  At least 18 years of age
+
+          -  Professional military aircrew
+
+          -  Presenting himself/herself for a periodic medical exam
+
+        Exclusion Criteria:
+
+          -  Under 18 years of age
+
+          -  Parachutists
+
+          -  Non-professional aircrew
+
+          -  Presenting himself/herself for a first medical exam
+
+          -  Pregnant woman, parturient, breastfeeding
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Centre d'Expertise Medicale du Personnel Navigant (CEMPN) de l'Hôpital d'Instruction des Armées Percy</name>
+      <address>
+        <city>Clamart</city>
+        <zip>92140</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sébastien BISCONTE, MD</last_name>
+      <email>sebastien.bisconte@intradef.gouv.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre d'Expertise Medicale du Personnel Navigant (CEMPN) de l'Hôpital d'Instruction des Armées Sainte-Anne</name>
+      <address>
+        <city>Toulon</city>
+        <zip>83000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marc MONTEIL, MD</last_name>
+      <phone>483162272</phone>
+      <phone_ext>+33</phone_ext>
+      <email>marc.monteil@intradef.gouv.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 17, 2020</study_first_posted>
+  <last_update_submitted>September 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

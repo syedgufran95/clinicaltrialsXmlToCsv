@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1281">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04551547</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO-nCOV-1003</org_study_id>
+    <nct_id>NCT04551547</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity Study of Inactivated Vaccine for Prevention of COVID-19</brief_title>
+  <official_title>A Randomized, Double-Blinded, Placebo-Controlled, Phase Ⅰ/Ⅱ Clinical Trial, to Evaluate the Safety and Immunogenicity of the SARS-CoV-2 Inactivated Vaccine (Vero Cell) in Healthy Population Aged 3-17 Years</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sinovac Research and Development Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sinovac Biotech Co., Ltd</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized, double-blinded, and placebo controlled phase 1&amp;2 clinical trial
+      of the SARS-CoV-2 inactivated vaccine manufactured by Sinovac Research &amp; Development Co.,
+      Ltd. The purpose of this study is to evaluate the safety and immunogenicity of the
+      experimental vaccine in healthy children and adolescents aged 3-17 years
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a randomized, double-blinded, single-center, placebo-controlled phase 1&amp;2
+      clinical trial in children and adolescents aged 3-17 years. The experimental vaccine and
+      placebo were both manufactured by Sinovac Research &amp; Development Co., Ltd. A total of 552
+      subjects will be enrolled, with 72 at phase 1, and 480 at phase 2. Subjects will be assigned
+      to receive two doses of different dosage of experimental vaccine or placebo on the schedule
+      of day 0,28.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 28, 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety index-incidence of adverse reactions</measure>
+    <time_frame>Day 0-28 after each dose vaccination</time_frame>
+    <description>Incidence of adverse reactions after each dose vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunogenicity index-seroconversion rates of neutralizing antibody</measure>
+    <time_frame>The 28th day after the second dose vaccination</time_frame>
+    <description>Neutralizing antibody assay will be performed using the micro-neutralization method. Seroconversion will be defined as a change from seronegative (&lt;1:8) to seropositive (≥1:8), or ≥4 fold increase from baseline.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety index-incidence of serious adverse events</measure>
+    <time_frame>From the beginning of the vaccination to 12 months after the second dose vaccination</time_frame>
+    <description>SAE will be collected throughout the clinical trial.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity index-seropositive rates of neutralizing antibody</measure>
+    <time_frame>The 28th day after each dose vaccination and the 12 month after the second dose vaccination</time_frame>
+    <description>Neutralizing antibody assay will be performed using the micro-neutralization method, and subjects with a antibody titer ≥1:8 will defined as seropositive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity index-geometric mean titer (GMT) of neutralizing antibody</measure>
+    <time_frame>The 28th day after each dose vaccination and the 12 month after the second dose vaccination</time_frame>
+    <description>Neutralizing antibody assay will be performed using the micro-neutralization method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity index-geometric mean ratio (GMR) of neutralizing antibody</measure>
+    <time_frame>The 28th day after each dose vaccination and the 12 month after the second dose vaccination</time_frame>
+    <description>Neutralizing antibody assay will be performed using the micro-neutralization method. Ratio of post-vaccination titer divided by baseline titer will be calculated.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">552</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Experimental Vaccine-low dosage</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>low dosage inactivated SARS-CoV-2 vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental Vaccine-medium dosage</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>medium dosage inactivated SARS-CoV-2 vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>No active ingredient in the placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Two doses of low dosage inactivated SARS-CoV-2 vaccine at the schedule of day 0,28</intervention_name>
+    <description>The inactivated SARS-CoV-2 vaccine was manufactured by Sinovac Research &amp; Development Co., Ltd., with a antigen content of 300SU/0.5ml</description>
+    <arm_group_label>Experimental Vaccine-low dosage</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Two doses of medium dosage inactivated SARS-CoV-2 vaccine at the schedule of day 0,28</intervention_name>
+    <description>The inactivated SARS-CoV-2 vaccine was manufactured by Sinovac Research &amp; Development Co., Ltd., with a antigen content of 600SU/0.5ml</description>
+    <arm_group_label>Experimental Vaccine-medium dosage</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Two doses of placebo at the schedule of day 0,28</intervention_name>
+    <description>The placebo contains no active ingredient and manufactured by Sinovac Research &amp; Development Co., Ltd.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Healthy children and adolescents aged 3-17 years;
+
+          -  The subject and/or guardian can understand and voluntarily sign the informed consent
+             form (double sign required for 8-17 years old);
+
+          -  Proven legal identity.
+
+        Exclusion Criteria:
+
+          -  Travel history / residence history of communities with case reports within 14 days;
+
+          -  History of contact with a SARS-CoV-2 infection (positive in nucleic acid test) within
+             14 days;
+
+          -  Have contacted patients with fever or respiratory symptoms from communities with case
+             reports within 14 days;
+
+          -  Two or more cases of fever and / or respiratory symptoms in a small contact area of
+             volunteers, such as home, office etc. within 14 days;
+
+          -  History of SARS-CoV-2 infection;
+
+          -  History of asthma, history of allergy to the vaccine or vaccine components, or serious
+             adverse reactions to the vaccine, such as urticaria, dyspnea, and angioedema;
+
+          -  Congenital malformations or developmental disorders, genetic defects, severe
+             malnutrition, etc.;
+
+          -  Autoimmune disease or immunodeficiency / immunosuppression;
+
+          -  Severe chronic diseases, severe cardiovascular diseases, hypertension and diabetes
+             that cannot be controlled by drugs, liver or kidney diseases, malignant tumors, etc.;
+
+          -  Severe neurological disease (epilepsy, convulsions or convulsions) or mental illness;
+
+          -  Thyroid disease or history of thyroidectomy, spleenlessness, functional
+             spleenlessness, spleenlessness or splenectomy resulting from any condition;
+
+          -  Diagnosed abnormal blood coagulation function (eg, lack of blood coagulation factors,
+             blood coagulopathy, abnormal platelets) or obvious bruising or blood coagulation;
+
+          -  Immunosuppressive therapy, cytotoxic therapy, inhaled corticosteroids (excluding
+             allergic rhinitis corticosteroid spray therapy, acute noncomplicated dermatitis
+             superficial corticosteroid therapy) in the past 6 months;
+
+          -  Physical examination has clinically significant abnormal hematology and biochemistry
+             laboratory test results that exceed the reference value range (only applicable to
+             phase I clinical trials):
+
+               1. Blood routine test: white blood cell count, hemoglobin, platelet count;
+
+               2. Detection of blood biochemical indicators: alanine aminotransferase (ALT),
+                  aspartate aminotransferase (AST), total bilirubin (TBIL), creatinine (CR),
+                  fasting blood glucose;
+
+               3. Urine routine index: urine protein (PRO);
+
+          -  History of alcohol or drug abuse;
+
+          -  Receipt of blood products within in the past 3 months;
+
+          -  Receipt of other investigational drugs in the past 30 days;
+
+          -  Receipt of attenuated live vaccines in the past 14 days;
+
+          -  Receipt of inactivated or subunit vaccines in the past 7 days;
+
+          -  Acute diseases or acute exacerbation of chronic diseases in the past 7 days;
+
+          -  Axillary temperature &gt;37.0°C;
+
+          -  Already pregnant (including a positive urine pregnancy test) or are breastfeeding,
+             planning to get pregnant within 3 months;
+
+          -  According to the investigator's judgment, the subject has any other factors that are
+             not suitable for participating in the clinical trial.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yuliang Zhao, Master</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hubei Provincial Center for Disease Control and Prevention</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yuliang Zhao, Master</last_name>
+    <phone>86-13315290538</phone>
+    <email>yuliang_zh@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Zanhuang county Center for Disease Control and Prevention</name>
+      <address>
+        <city>Shijiazhuang</city>
+        <state>Hebei</state>
+        <zip>051230</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Hui Jin</last_name>
+      <phone>86-13930778699</phone>
+      <email>1206618652@qq.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 16, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

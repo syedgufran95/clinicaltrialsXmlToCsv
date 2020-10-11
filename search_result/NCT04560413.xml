@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2414">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04560413</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FSMEAH-KAEK 2020/41</org_study_id>
+    <nct_id>NCT04560413</nct_id>
+  </id_info>
+  <brief_title>Depression, Anxiety and SARS-CoV-2 (Covid-19) Phobia in Post-stroke Patients</brief_title>
+  <official_title>Depression, Anxiety and SARS-CoV-2 Phobia in Post-stroke Patients During SARS-CoV-2 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fatih Sultan Mehmet Training and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fatih Sultan Mehmet Training and Research Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has begun, first in
+      Wuhan, China, and then became a pandemic. The first SARS-CoV-2 case in Turkey was reported on
+      March 11, 2020. People older than 65 years old became subject to lock down measures beginning
+      on March 21, while people younger than 20 years old became subject to lock down measures
+      beginning on April 03. A total lock down has been implemented a few times lasting between 3
+      to 4 days, especially at weekends. Several studies show that mental health problems could
+      occur in public during the SARS-CoV-2 pandemic.
+
+      Depression and anxiety are a commonly known mental health issue in post-stroke patients. This
+      patient population, who usually have to spend most of their time at home, remained completely
+      at home and socially isolated due to the precautions required by the pandemic. Based on the
+      above research evidence; depression, anxiety and phobia of SARS-CoV-2 may increase in the
+      post stroke patients due to being in risk group and effects of measures taken against
+      SARS-CoV-2 pandemic. Therefore, we aimed to assess the depression, anxiety and SARS-CoV-2
+      phobia in post stroke patients during SARS-CoV-2 outbreak, and to explore the potential
+      influence factors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      90 post-stroke patients who meet the working criteria were called by phone. All of them were
+      followed up in the stroke outpatient clinic of the Physical Medicine and Rehabilitation
+      Clinic. Only 77 patients were reached. Permission was asked for questioning from the patients
+      reached. The health and social status of the patients who agreed to participate in the study
+      during the SARS-CoV-2 pandemic period was questioned with the form we prepared. Form template
+      included socio-demographic features, physical, and detailed medical histories. In addition,
+      the fear based on the SARS-CoV-2 virus was examined with the Covid-19 phobia scale (CP19-S),
+      while anxiety and depression were evaluated with the hospital anxiety and depression scale
+      (HADS). Furthermore, Brunnstrom stages, Barthel index and functional ambulation
+      classification (FAC), which was evaluated in the last 6 months, was recorded from the files
+      to explore mobilization of the patients.
+
+      The C19P-S is a self-report instrument with a five-point Likert-type scale to assess the
+      levels of SARS-CoV-2 phobia. All items are rated on a 5-point scale from &quot;strongly disagree
+      (1)&quot; to &quot;strongly agree (5).&quot; The scores on the scale can range between 20 and 100 and a
+      higher score indicates a greater phobia in the respected subscales and total scale. In the
+      present study, total scale scores ranged from 20 to 100. The scale examines four main
+      factors: psychological, psycho-somatic, economic and social HADS that includes anxiety and
+      depression subscales. HADS is a self-report scale. It consists of 14 items, 7 of which are
+      depression and 7 of which are symptoms of anxiety. Answers are evaluated in four Likert
+      formats. The cutoff scores of the Turkish form of the HAD scale were determined as 10 for the
+      anxiety subscale and 7 for the depression subscale. The purpose of the scale is not to make a
+      diagnosis, but to determine the risk group by screening anxiety and depression in a short
+      time in those with physical illness.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Actual">August 10, 2020</completion_date>
+  <primary_completion_date type="Actual">July 25, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hospital Anxiety and Depression Scale</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Hospital Anxiety and Depression Scale evaluation includes a total of 14 questions (score range 0-3), which are scored to separately estimate anxiety and depressive status (7 questions each). The individual score for the anxiety and depression subscales may vary from 0 to 21. The aim of this scoring system is not to make an objective diagnosis, but to determine the current presence and tendency to anxiety or depression at the time of diagnosis. A HADS score of 8 to 10 is broadly accepted as indicating mild symptoms, a score between 11-16 suggests moderate anxiety or depression, and a score of 16 or more indicates severe anxiety or depressive symptoms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Covid 19 Phobia Scale</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Covid 19 Phobia Scale is a self-report instrument with a five-point Likert-type scale to assess the levels of SARS-CoV-2 phobia. All items are rated on a 5-point scale from &quot;strongly disagree (1)&quot; to &quot;strongly agree (5).&quot; The scores on the scale can range between 20 and 100 and a higher score indicates a greater phobia in the respected subscales and total scale. In the present study total scale scores ranged from 20 to 100. The scale examines four main factors: psychological, psycho-somatic, economic and social</description>
+  </primary_outcome>
+  <enrollment type="Actual">77</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <condition>Post-stroke Depression</condition>
+  <condition>Anxiety and Fear</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Post-stroke patients who aged over 18
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Aged 18 years old
+
+          -  Post stroke patients
+
+          -  Patients with mini mental state examination score above 24
+
+          -  Patients who don't have aphasia
+
+          -  Patients who were able to communicate in Turkish on the telephone
+
+        Exclusion Criteria:
+
+          -  Patients under the 18 years old
+
+          -  Patients who do not accept phone calls
+
+          -  Patients with mini mental state examination score below 24
+
+          -  Patients who have aphasia
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Duygu Silte Karamanlioglu, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fatih Sultan Mehmet Training and Research Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Arzu Atici, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Fatih Sultan Mehmet Training and Research Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Gulcan Ozturk, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Fatih Sultan Mehmet Training and Research Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Pinar Akpinar, Assoc Prof</last_name>
+    <role>Study Director</role>
+    <affiliation>Fatih Sultan Mehmet Training and Research Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Feyza Unlu Ozkan, Assoc Prof</last_name>
+    <role>Study Chair</role>
+    <affiliation>Fatih Sultan Mehmet Training and Research Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ilknur Aktas, Prof</last_name>
+    <role>Study Chair</role>
+    <affiliation>Fatih Sultan Mehmet Training and Research Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Fatih Sultan Mehmet Training and Research Hospital</name>
+      <address>
+        <city>İstanbul</city>
+        <zip>34752</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 23, 2020</study_first_posted>
+  <last_update_submitted>September 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Anxiety</keyword>
+  <keyword>Post-stroke Depression</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Phobia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Anxiety Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

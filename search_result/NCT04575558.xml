@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1915">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04575558</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LACOG 0220</org_study_id>
+    <nct_id>NCT04575558</nct_id>
+  </id_info>
+  <brief_title>HOPE: A Trial of Hydroxichloroquine Plus Azithromycin in High Risk COVID-19</brief_title>
+  <acronym>HOPE_BRAZIL</acronym>
+  <official_title>A Randomized, Multi-institutional, Phase 2 Study of Hydroxichloroquine Plus Azithromycin for High Risk SARS-CoV-2 Positive Patients (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Latin American Cooperative Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Oncoclínicas</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Latin American Cooperative Oncology Group</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multicenter, double blind, randomized clinical trial for high-risk patients over 18 years of
+      age, symptomatic for COVID-19 infection, without any severity criteria
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 is a respiratory disease caused by a new coronavirus (SARS-CoV2) and with
+      substantial morbidity and mortality. Among different populations at risk, cancer patients
+      stand out. These patients undergo immunosuppressive treatments with chemotherapy and
+      radiotherapy and more often require hospital visit for treatment and monitoring.
+
+      Several strategies have been investigated to deal with this situation. Antiretrovirals,
+      anti-inflammatories, antibiotics, anti-IL6, immune response modulating agents, among others,
+      including combinations. Most of these experiences have focused on patients with severe
+      hospitalized conditions
+
+      As of March 28, approximately 630,000 confirmed cases have been recorded, including 24,282
+      serious cases and 28,963 deaths worldwide. In Brazil, after one month since the first case,
+      there are 3417 infected and 92 deaths. All states registered cases of the disease, and nine
+      have deaths: Amazonas, Ceará, Pernambuco, Rio de Janeiro, Goiás, Paraná, Santa Catarina, Rio
+      Gran de do Sul and São Paulo. Cases have progressed and currently there is no specific
+      antiviral therapy for coronavirus infections. A few intervention studies have been conducted
+      as most strains of human coronavirus cause self-limiting diseases and requires only
+      supportive care. After the severe acute respiratory syndrome (SARS), the coronavirus was
+      identified in 2002 and caused a major global outbreak, there was a growing interest in the
+      development of specific therapeutic agents. Therefore, since the SARS outbreak, new
+      therapeutic agents targeting viral entry, proteins, proteases, polymerases and
+      methyltransferases have been tested. Nevertheless, none of them have been shown to be
+      effective in clinical trials. Recent publications have drawn attention to the possible
+      benefit of drugs such as chloroquine, hydroxychloroquine associated or not with azithromycin,
+      which have been used in the treatment of patients infected with SARS- CoV.
+
+      Using the combination of hydroxychloroquine and azithromycin, French patients confirmed with
+      Covid-19 were included in a single arm protocol between early March and March 16th, receiving
+      600mg of hydroxychloroquine daily. Nasal swab viral load was tested daily in a hospital
+      setting. Azithromycin was added to the treatment based on the clinical presentation. Control
+      patients included patients from another center and those who refused the protocol. Day End
+      point was presence or absence of virus on day 6 post-inclusion. There were six asymptomatic
+      patients, twnty two with upper respiratory tract infection and eight had symptoms of lower
+      respiratory tract infection. Twenty cases were treated in this study and showed a significant
+      reduction in viral transport at post-day 6 of inclusion compared to controls, and mean
+      transport duration much shorter than that reported in untreated patients in the literature.
+      Despite the small sample size, research shows that treatment with hydroxychloroquine is
+      associated with a significantly reduction / disappearance of viral load in patients with
+      COVID-19, and its effect seems to be reinforced by azithromycin.
+
+      Hydroxychloroquine alone or in combination with azithromycin has been increasingly studied
+      and used in the treatment of respiratory disease induced by COVID-19. In March 2020, the Food
+      and Drug Administration (FDA) interim approved the use of the combination of
+      hydroxychloroquine and azithromycin for clinical use in patients with severe respiratory
+      syndrome associated with coronavirus. There are dozens of studies in progress evaluating this
+      therapeutic alternative in different regions of the world. The World Health Organization
+      (WHO) has just launched a global clinical trial evaluating the four treatments considered
+      promising, including hydroxychloroquine. In Brazil, a consortium of clinical research is
+      underway that is conducting three randomized clinical trials with treatments with
+      hydroxychloroquine, azithromycin and corticosteroids. Considering that these medications have
+      been studied in different institutions and regions and in different contexts, it is important
+      to know the role that these medications can play in the prevention or treatment of COVID-19
+      in a population of cancer patients undergoing cancer treatments such as chemotherapy and
+      immunotherapy.This clinical trial was designed to evaluate the therapeutic effect of the
+      combination of hydroxychloroquine and azithromycin on non-critical adult patients.
+    </textblock>
+  </detailed_description>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    Withdrawn due to lack of study centers interested in participating.
+  </why_stopped>
+  <start_date type="Anticipated">June 30, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical deterioration rate</measure>
+    <time_frame>37 days</time_frame>
+    <description>Clinical deterioration throughout treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality and cause of death</measure>
+    <time_frame>60 days</time_frame>
+    <description>Evaluate the mortality and cause of death, at the end of treatment, at 28 days and 60 days from the start of treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and type of Adverse Events (EAs)</measure>
+    <time_frame>37 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and type of Serious Adverse Events (SAE)</measure>
+    <time_frame>37 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discontinuation rate or temporary suspension of treatment</measure>
+    <time_frame>37 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Descriptive radiologic changes on chest CT scans</measure>
+    <time_frame>37 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">0</enrollment>
+  <condition>Sars-CoV2</condition>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine + Azithromycin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hydroxychloroquine 400mg PO BID 2 times a day + Azithromycin 500mg PO QD, both for 7 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine + Placebo tablets</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Hydroxychloroquine 400mg PO BID 2 times a day + Placebo, both for 7 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine and Azithromycin</intervention_name>
+    <description>Hydroxychloroquine 400mg PO BID 2 times a day + Azithromycin 500mg PO QD</description>
+    <arm_group_label>Hydroxychloroquine + Azithromycin</arm_group_label>
+    <arm_group_label>Hydroxychloroquine + Placebo tablets</arm_group_label>
+    <other_name>Reuquinol + Zitromax</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age ≥ 18 years and by 1 of the following criteria:
+
+               1. Cancer diagnosis and systemic antineoplastic treatment (chemotherapy or hormone
+                  therapy or immunotherapy or small molecule therapy), or having received the last
+                  dose within 90 days from randomization, or
+
+               2. Antineoplastic treatment with radiotherapy or had received the last fraction
+                  within 90 days from randomization, or
+
+               3. Undergone surgery for cancer treatment within 90 days from randomization, or
+
+               4. Need for continuous treatment for chronic disease. asthma, COPD, pulmonary
+                  fibrosis, pulmonary hypertension, smoking, systemic arterial hypertension,
+                  ischemic heart disease, hypertensive heart disease, symptomatic valve heart
+                  disease, cardiac arrhythmia, chronic renal failure, stroke, diabetes, autoimmune
+                  or other disease at the discretion of the investigator.
+
+          -  Confirmed diagnosis of SARS-CoV-2 infection;
+
+          -  Symptoms of SARS-Cov-2 (COVID-19) infection but without showing signs / symptoms of
+             severity;
+
+          -  Respiratory rate &lt;24ipm;
+
+          -  HR &lt;130 bpm (in the absence of fever);
+
+          -  Oxygen saturation &gt; 90%
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Núcleo de Oncologia da Bahia - NOB</name>
+      <address>
+        <city>Salvador</city>
+        <state>BA</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncoclínicas BH</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>MG</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Oncológico do Triângulo - COT</name>
+      <address>
+        <city>Uberlândia</city>
+        <state>MG</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Multihemo</name>
+      <address>
+        <city>Recife</city>
+        <state>PE</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncoclinicas RJ</name>
+      <address>
+        <city>Rio De Janeiro</city>
+        <state>RJ</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Pesquisa em Oncologia PUCRS</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Paulista de Oncologia</name>
+      <address>
+        <city>São Paulo</city>
+        <state>SP</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>May 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 5, 2020</study_first_posted>
+  <last_update_submitted>October 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azithromycin</mesh_term>
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

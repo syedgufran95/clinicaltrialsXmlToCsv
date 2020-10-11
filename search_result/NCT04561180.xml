@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1511">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04561180</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HPC-EG-009A-2.1</org_study_id>
+    <nct_id>NCT04561180</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Efficacy and Safety of EG-HPCP-03a Compared to DEX in Patients With COVID-19 Pneumonia</brief_title>
+  <official_title>A Phase 2, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of EG-HPCP-03a Compared to Dexamethasone in Patients With Moderate/Severe (Non-intubated, Non-mechanical Ventilation) COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Evergreen Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Evergreen Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To study signals of efficacy and safety of a currently available dosage form (IM) of
+      EG-HPCP-03a in reducing the severity of respiratory disease in patients hospitalized with
+      SARS-CoV-2 virus.
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of patients alive and without respiratory failure</measure>
+    <time_frame>First dose date to 28 days treatment dosing period</time_frame>
+    <description>Patients will be assessed for COVID-19 Ordinal Scale for Clinical Improvement scores and respiratory status throughout the study</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">96</enrollment>
+  <condition>Pneumonia as One of the Lung Complications Caused by SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Arm 1: SOC + DEX + EG-HPCP-03a placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>In addition to the standard of care (SOC), patients will receive dexamethasone (DEX) for 10 days and EG-HPCP-03a placebo for 3 additional weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2: SOC + DEX + Low Dose EG-HPCP-03a</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In addition to the standard of care (SOC), patients will receive dexamethasone (DEX) for 10 days and EG-HPCP-03a Low dose for 3 additional weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3: SOC + DEX + High Dose EG-HPCP-03a</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In addition to the standard of care (SOC), patients will receive dexamethasone (DEX) for 10 days and EG-HPCP-03a High dose for 3 additional weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EG-HPCP-03a</intervention_name>
+    <description>Administered as an Intramuscular injection</description>
+    <arm_group_label>Arm 2: SOC + DEX + Low Dose EG-HPCP-03a</arm_group_label>
+    <arm_group_label>Arm 3: SOC + DEX + High Dose EG-HPCP-03a</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EG-HPCP-03a Placebo</intervention_name>
+    <description>Administered as an Intramuscular injection</description>
+    <arm_group_label>Arm 1: SOC + DEX + EG-HPCP-03a placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Standard of Care Treatment for COVID-19 Infection</description>
+    <arm_group_label>Arm 1: SOC + DEX + EG-HPCP-03a placebo</arm_group_label>
+    <arm_group_label>Arm 2: SOC + DEX + Low Dose EG-HPCP-03a</arm_group_label>
+    <arm_group_label>Arm 3: SOC + DEX + High Dose EG-HPCP-03a</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>The comparator, Administered as an Intravenous infusion</description>
+    <arm_group_label>Arm 1: SOC + DEX + EG-HPCP-03a placebo</arm_group_label>
+    <arm_group_label>Arm 2: SOC + DEX + Low Dose EG-HPCP-03a</arm_group_label>
+    <arm_group_label>Arm 3: SOC + DEX + High Dose EG-HPCP-03a</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Willing and able to provide written informed consent, or with a legal representative
+             who can provide informed consent, or enrolled under International Conference on
+             Harmonization (ICH) E6(R2) 4.8.15 emergency use provisions as deemed necessary by the
+             investigator (age ≥18), or willing and able to provide assent (age ≥12 to &lt;18, where
+             locally and nationally approved) prior to performing study procedures
+
+          2. Patient is aged at least 18 years, enrollment of patients &lt; 65 years old will be
+             limited to 20% of the total with the first 50% of enrollment conducted solely among
+             those patients ≥ 55 years old.
+
+          3. Patient has SARS-CoV-2 pneumonia from COVID-19 infection of moderate to serious
+             severity (WHO Ordinal Scale for Clinical Improvement score of 4 or 5)
+
+          4. Patient has COVID-19 symptoms ≤ 10 days and at least 1 of the following:
+
+               -  Radiographic infiltrates by imaging (chest x-ray, CT scan, etc.)
+
+               -  O2 saturation (SpO2) ≤ 94% on room air
+
+               -  Requiring supplemental O2 (patients on HFNO ≤ 20 L/min with FiO2 &lt; 0.5 are
+                  allowed), but not requiring mechanical ventilation.
+
+        Note: Patients admitted with immediate need for mechanical ventilation are of a severity
+        too critical for inclusion into this protocol. Patients who are already in the hospital and
+        have been removed from mechanical ventilation are not eligible.
+
+        Exclusion Criteria:
+
+          1. Patient has SARS-CoV-2 infection of severity ≥ 6 on COVID-19 WHO Ordinal Scale for
+             Clinical Improvement or for those subjects who have a WHO Ordinal Scale for Clinical
+             Improvement score of 5, nasal intermittent positive pressure ventilation (NIPPV) or
+             requiring HFNO &gt; 20 L/min with FiO2 ≥ 0.5 will be exclusionary.
+
+          2. Patient is currently receiving extracorporeal membrane oxygenation, nitric oxide
+             therapy, or high-frequency oscillatory ventilation
+
+          3. Patient is unlikely to survive for &gt; 24 hours from randomization, in the opinion of
+             the investigator
+
+          4. Patient has a history of chronic oxygen use or any pre-existing respiratory condition
+             that requires intermittent or continuous ambulatory oxygen prior to hospitalization
+
+          5. Patient has a history of venous thromboembolism, DVT, or pulmonary embolus
+
+          6. Has taken other investigational drugs or participated in any clinical study within 30
+             days or 5 half-lives (if known) of the investigational drug's PK, PD, or biological
+             activity (if known), whichever is longer, prior to the first dose of study drug in
+             this study or is currently participating in another clinical study.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 23, 2020</study_first_posted>
+  <last_update_submitted>September 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID 19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

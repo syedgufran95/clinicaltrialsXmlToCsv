@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2591">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04503525</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RC-P00100</org_study_id>
+    <nct_id>NCT04503525</nct_id>
+  </id_info>
+  <brief_title>Nutritional Assessment of Hospitalized Patients With COVID-19</brief_title>
+  <acronym>DenutCOVID</acronym>
+  <official_title>Nutritional Assessment of French Hospitalized Patients Infected With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Lille Catholic University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Lille Catholic University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The nutritional consequences of the infection by the SARS-CoV-2 are as follows:
+
+        -  A severe respiratory infection induces an inflammatory syndrome and hypercatabolism, as
+           well as an increase in energy expenditure related to ventilatory work; nutritional
+           requirements (calories and protein) are therefore increased.
+
+        -  Food intake is often reduced by several factors: anorexia secondary to infection,
+           respiratory discomfort, anosmia, ageusia, obesity, stress, confinement, organizational
+           problems limiting meal assistance.
+
+      Then, it is important to asses the nutritional status of COVID patients hospitalized in
+      conventional COVID units (excluding intensive care).
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 25, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 25, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Nutritional status of COVID infected patients</measure>
+    <time_frame>Up to 72 hours</time_frame>
+    <description>The nutritional status of patients within the first 72 hours after hospital admission will be categorized according to the French Haute Authorité de Santé (France, 2019)
+non-malnourished patient
+moderately malnourished patient
+severely malnourished patient</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the nutritional status and the supplemental oxygen requirement</measure>
+    <time_frame>Up to 72 hours</time_frame>
+    <description>The supplemental oxygen requirement classified as follows:
+non-severe: no need of Oxygen
+light: 1 - 2 l/min
+moderate: 3 - 5 l/min
+severe: &gt; 5 l/min
+critical: mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the nutritional status and the prognostic after hospitalization</measure>
+    <time_frame>Up to 72 hours</time_frame>
+    <description>The prognostic after hospitalization will be classified as follows:
+Hospital discharge
+Transfer to the intensive care unit
+Transfer to other unit
+Follow-up care and rehabilitation
+Death</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>SARS-CoV</condition>
+  <condition>Nutrition Disorders</condition>
+  <arm_group>
+    <arm_group_label>COVID 19 hospitalized patients</arm_group_label>
+    <description>COVID 19 infected patients admitted in conventional hospitalization for less than 72 hours</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Nutritional assessment</intervention_name>
+    <description>Nutritional assessment in COVID patients</description>
+    <arm_group_label>COVID 19 hospitalized patients</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      The albuminemia in blood will be determined
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient with COVID 19 disease
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patient on conventional hospitalization (duration less than 72 hours)
+
+          -  Age &gt; 18 years old
+
+          -  COVID 19 diagnosed by Real Time Polymerase Chain Reaction (RT-PCR)
+
+          -  Patient agreed to participate in the study
+
+          -  Patient affiliated to French social security
+
+        Exclusion Criteria:
+
+          -  Patient hospitalized in intensive care units during more than 72 hours
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arnaud Cortet, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>GHICL</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amelie LANSIAUX, MD, PhD</last_name>
+    <phone>0320225269</phone>
+    <email>urm@ghicl.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Amel Boulafa, Master</last_name>
+    <phone>0320225269</phone>
+    <email>boulafa.amel@ghicl.net</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Saint-Vincent Hospital</name>
+      <address>
+        <city>Lille</city>
+        <state>Haut-de-France</state>
+        <zip>59000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arnaud CORTET, PhD</last_name>
+      <phone>0320225269</phone>
+      <email>cortet.arnaud@ghicl.net</email>
+    </contact>
+    <contact_backup>
+      <last_name>Amel Boulafa, Master</last_name>
+      <phone>0320225269</phone>
+      <email>boulafa.amel@ghicl.net</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 7, 2020</study_first_posted>
+  <last_update_submitted>August 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Nutrition disorders</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nutrition Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="211">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04546841</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P-pVAC-SARS-CoV-2</org_study_id>
+    <nct_id>NCT04546841</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity Trial of Multi-peptide Vaccination to Prevent COVID-19 Infection in Adults</brief_title>
+  <acronym>pVAC</acronym>
+  <official_title>P-pVAC-SARS-CoV-2: Phase I Single-center Safety and Immunogenicity Trial of Multi-peptide Vaccination to Prevent COVID-19 Infection in Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Tuebingen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Tuebingen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Part I:
+
+      12 subjects will receive an open-label 500 µl subcutaneous injection via needle and syringe
+      of the study IMP (CoVac-1). No more than one subject per day will be enrolled. 28 days
+      following vaccination of the 12th volunteer, there will be an interim analysis of safety and
+      a safety review by the data safety monitoring board (DSMB) as well as an amendment to the
+      regulatory authorities (Paul-Ehrlich Institute and Ethics Committee) before proceeding to
+      Part II.
+
+      Part II:
+
+      12 subjects will receive an open-label 500 µl subcutaneous injection via needle and syringe
+      of the study investigational medicinal product (IMP) (CoVac-1). 28 days following vaccination
+      of the 12th volunteer, there will be an interim analysis of safety and a safety review by the
+      DSMB whether to proceed to next Part III.
+
+      Part III:
+
+      12 subjects will receive an open-label 500 µl subcutaneous injection via needle and syringe
+      of the study IMP (CoVac-1).
+
+      The aim of the clinical is to evaluate the safety and immunogenicity of a single use of a
+      SARS-CoV-2-derived multi-peptide vaccine in combination with the toll like receptor (TLR)1/2
+      ligand XS15 in adults
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SARS-CoV-2 peptide vaccine The aim of this study is to investigate the safety and
+      immunogenicity of a peptide vaccine consisting of SARS-CoV-2 specific HLA class II peptides
+      in volunteers without prior or current SARS-CoV-2 infection.
+
+      The identification and characterization of T cell epitopes is a long-standing and
+      unparalleled expertise of the Department of Immunology. This unique approach is based on i)
+      the prediction of HLA binding sequences for HLA class I and class II alleles using the
+      world's first prediction tool (www.syfpeithi.de) and newer, more refined methods, all based
+      on SYFPEITHI (database for MHC ligands), ii) the identification of naturally presented HLA
+      class I and class II ligands, iii) the synthesis of synthetic peptides, and iv) the
+      characterization of T-cell epitopes and peptide-specific cluster of differentiation (CD)4+
+      and CD8+ T cell responses. This strategy has been successfully applied in recent years to
+      define and characterize T-cell epitopes derived from various viruses such as cytomegalovirus
+      (CMV),Epstein-Barr virus (EBV), adenovirus (ADV) and influenza as well as tumor-associated
+      antigens of various solid and hematological malignancies.
+
+      Based on this work, the results were translated into therapeutic vaccination and T cell
+      transfer studies in cancer patients (e.g. NCT02802943) and viral infections. This direct
+      translation is made possible by the Wirkstoffpeptidlabor (Prof. Dr. rer. nat. Stefan
+      Stevanović) of the Department of Immunology and the good manufacturing practice (GMP)
+      facility for individualized drugs at the University Hospital Tuebingen as well as our immune
+      monitoring platform equipped with state-of-the-art, validated T-cell assays and methods.
+
+      The existing experience and logistics can be directly used for the treatment and prevention
+      of COVID-19 disease. In preliminary work for this study, CD4+ T cell epitopes have already
+      been characterized in a large cohort of SARS-CoV-2 infected donors validating their high
+      relevance in the natural course of COVID-19. The vaccination cocktail in the study will
+      consist of eight promiscuous HLA class II peptides from the different proteins of the
+      SARS-CoV-2 virus, predicted to bind to several HLA class II allotypes. Furthermore,
+      especially those peptides were selected that contain embedded HLA class I sequences in order
+      to induce CD4+ T cell responses and CD8+ T cell responses simultaneously. Furthermore,
+      especially for peptides derived from virus surface proteins, only sequences were selected
+      that do not represent antibody epitopes. This should prevent the formation of antibodies
+      against the vaccinated peptides, which could possibly have a deteriorative effect on
+      COVID-19. Immunogenicity was proven for all HLA class II peptides included in the peptide
+      cocktail in a large cohort of SARS-CoV-2 convalescent donors as well as for single peptides
+      in a first vaccination of a healthy volunteer.
+
+      A further prerequisite for successful peptide vaccination, besides selection of optimal
+      antigen targets, is the use of a suitable adjuvant, which is able to induce potent and
+      long-lasting immune responses. Among the most effective approaches tested in humans is the
+      subcutaneous injection of peptides emulsified in Montanide ISA 51 VG, a
+      water-in-oil-emulsion, combined with the TLR9 ligand CpG.However, CpG is not available for
+      clinical trials, and a peptide/antigen vaccine emulsified in Montanide without any additional
+      adjuvant induces no or only weak immune responses. In the P-pVac-SARS-CoV-2 trial, the novel
+      TLR1/2 ligand XS15 emulsified in Montanide ISA 51 VG will be employed as adjuvant, applied
+      subcutaneously together with the peptide vaccine. XS15 is a water-soluble derivative of the
+      TLR1/2 ligand Pam3Cys and induced a strong CD8+ and Th1CD4+ T-cell response against free
+      short peptides in Montanide ISA 51 VG after a single s.c. injection in a healthy volunteer as
+      well as in cancer patients.Immune responses could be induced against viral peptides
+      (including SARS-CoV-2 derived peptides), neo-epitopes derived from cancer-specific mutations
+      as well as tumor-associated self-peptides. XS15 results in granuloma formation on the
+      vaccination site, where the vaccinated peptides persist for at least 7 weeks.
+      Peptide-specific T cells were detected at the granuloma site, however, with a lower frequency
+      than in peripheral blood, which rules out the risk of T cell sequestration, dysfunction or
+      deletion at the vaccination site due to the use of XS15 in Montanide ISA 51 VG. Strikingly,
+      the induced immune responses were found to persist for more than 1.5 years.
+
+      With regard to the planned study we could also show that this vaccination method is able to
+      induce potent SARS-CoV-2 specific T-cell responses in a human volunteer.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 30, 2020</start_date>
+  <completion_date type="Anticipated">December 20, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Part I: Adults aged 18-55 years, n=12 Part II: Adults aged 56-74, n=12 Part III: Adults aged ≥ 75, n=12</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety- Eastern Cooperative Oncology Group (ECOG) Status</measure>
+    <time_frame>Day 28</time_frame>
+    <description>ECOG (Scale 0-5)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety -Vital Signs 2</measure>
+    <time_frame>Day 28</time_frame>
+    <description>temperature (in grade centigrade)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety -Vital Signs 3</measure>
+    <time_frame>Day 28</time_frame>
+    <description>blood pressure/pulse mmHg and bpm Follow-Up Days:Signs/symptoms, as assessed on volunteer's diary and visit</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety-Blood Chemistry and Coagulation 1</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Alkaline phosphatase (AP)
+Unit: U/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety-Blood Chemistry and Coagulation 2</measure>
+    <time_frame>Day 28</time_frame>
+    <description>aspartate transaminase (AST/ SGOT)
+Unit: U/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety-Hematology 1</measure>
+    <time_frame>Day 28</time_frame>
+    <description>hemoglobin (Hb)
+Differential cell counts should be performed at baseline, at each visit during vaccination phase and thereafter at investigators discretion. Clinical status and laboratory parameters are to be followed using individual institutional guidelines and the best clinical judgment of the responsible physician, which can involve more frequent testing Unit: g/dl</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety-Hematology 2</measure>
+    <time_frame>Day 28</time_frame>
+    <description>red blood cells (RBC)
+Differential cell counts should be performed at baseline, at each visit during vaccination phase and thereafter at investigators discretion. Clinical status and laboratory parameters are to be followed using individual institutional guidelines and the best clinical judgment of the responsible physician, which can involve more frequent testing Unit: Mio/µl</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety-Hematology 3</measure>
+    <time_frame>Day 28</time_frame>
+    <description>platelet count (PLT)
+Unit: 1000/µl
+Differential cell counts should be performed at baseline, at each visit during vaccination phase and thereafter at investigators discretion. Clinical status and laboratory parameters are to be followed using individual institutional guidelines and the best clinical judgment of the responsible physician, which can involve more frequent testing</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety-Hematology 4</measure>
+    <time_frame>Day 28</time_frame>
+    <description>white blood cells (WBC)
+Unit: 1/µl
+Differential cell counts should be performed at baseline, at each visit during vaccination phase and thereafter at investigators discretion. Clinical status and laboratory parameters are to be followed using individual institutional guidelines and the best clinical judgment of the responsible physician, which can involve more frequent testing.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CoVac-1 specific T-cell response</measure>
+    <time_frame>Day 28</time_frame>
+    <description>60 ml of heparin blood for immunomonitoring and analysis of peptide specific T-cell response will be analyzed by the Walz lab, KKE Translational Immunologie at the Department of Immunology, Tuebingen (central laboratory). Blood will be taken before peptide vaccination on V1, and during vaccination phase and follow-up at each visit.
+Unit:Counts</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>COVID-19 Vaccine</condition>
+  <arm_group>
+    <arm_group_label>Vaccination</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single vaccination with the IMP CoVac-1 (SARS-CoV-2 HLA-DR peptides, XS15 emulsified in Montanide ISA 51 VG) (500 µl) will be applied subcutaneously (s.c.) to the abdominal skin.
+Part I: Age 18-55 at the time of screening, n=12
+Part II: Age 56-74 years at the time of screening, n=12
+Part III: Age ≥ 75 years at the time of screening, n=12</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>multipeptide cocktail</intervention_name>
+    <description>Three groups of participant will be administered the multipeptide cocktail
+Part I: Age 18-55 at the time of screening
+Part II: Age 56-74 years at the time of screening
+Part III: Age ≥ 75 years at the time of screening</description>
+    <arm_group_label>Vaccination</arm_group_label>
+    <other_name>Vaccination</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        1. Adult male or non-pregnant, non-lactating female
+
+        1. Part I: Age 18-55 at the time of screening 2. Part II: Age 56-74 years at the time of
+        screening 3. Part III: Age ≥ 75 years at the time of screening 2. Pre-existing medical
+        condition
+
+        1. Part I and II: Free of clinically significant health problems, as determined by
+        pertinent medical history and clinical examination at study screening 3. Ability to
+        understand and voluntarily sign the informed consent form. 4. Ability to adhere to the
+        study visit schedule and other protocol requirements.
+
+        5. female with child bearing potential (FCBP) and male volunteers with partners of
+        childbearing potential, who are sexually active must agree to the use of two effective
+        forms (at least one highly effective method) of contraception. This should be started from
+        the signing of the informed consent and continue until three months after vaccination 6.
+        Postmenopausal or evidence of non-childbearing status. For women of childbearing potential:
+        negative urine or serum pregnancy test within 7 days prior to study treatment.
+        Postmenopausal or evidence of non-childbearing status is defined as:
+
+          -  Amenorrhoea for 1 year or more following cessation of exogenous hormonal treatments
+
+          -  Luteinizing hormone (LH) and Follicle stimulating hormone (FSH) levels in the post
+             menopausal range for women under 50 7. Be willing to minimize blood and body fluid
+             exposure of others for 7 days after vaccination
+
+          -  Use of effective barrier prophylaxis, such as latex condoms, during sexual intercourse
+
+          -  Avoiding the sharing of needles, razors, or toothbrushes
+
+          -  Avoiding open-mouth kissing
+
+          -  Refrain from blood donation during the course of the study
+
+        Exclusion Criteria:
+
+          1. Pregnant or lactating females.
+
+          2. Participation in any clinical study with intake of any investigational drug
+             interfering with the study primary endpoint
+
+          3. Any concomitant disease affecting the effect of the therapeutic vaccine or interfering
+             with the study primary endpoint
+
+          4. Any immunosuppressive treatment except low dose corticosteroids (≤10mg
+             prednisolone/day)
+
+          5. Prior or current infection with SARS-CoV-2 tested serologically or by throat/nose swab
+             (PCR)
+
+          6. History of Guillain-Barré Syndrome
+
+          7. Positive serological HIV, hepatitis B or C test. In case of positive HBsAg, volunteer
+             must provide prove of hepatitis B vaccination, otherwise volunteer must be excluded.
+
+          8. History of relevant central nervous system (CNS) pathology or current relevant CNS
+             pathology (e.g. seizure, paresis, aphasia, cerebrovascular ischemia/hemorrhage, severe
+             brain injuries, dementia, Parkinson's disease, cerebellar disease, organic brain
+             syndrome, psychosis, coordination or movement disorder, excluding febrile seizures as
+             child)
+
+          9. Baseline laboratory with lymphocyte count ≤ 1000/µl
+
+         10. Only Part I and II:
+
+             - Acute or chronic, clinically significant psychiatric, hematologic, pulmonary,
+             cardiovascular, or hepatic or renal functional abnormality as determined by the
+             Investigator based on medical history, physical exam, and/or laboratory screening test
+
+         11. All parts of the clinical trial
+
+               -  Diabetes mellitus Typ II requiring drug treatment
+
+               -  Chronic lung disease requiring drug treatment
+
+               -  Any chronic liver disease or unknown liver abnormalities defined as:
+
+                    -  Alanin-aminotransferase (ALT) and Aspartat-aminotransferase (AST) ≤ 2.5 x
+                       ULN (upper limit of normal)
+
+                    -  Gamma-glutamyl-transferase (γ-GT) ≤ 2.5 x ULN
+
+               -  Chronic renal failure defined as glomerular filtration rate (GFR) &lt; 40
+                  ml/min/1,73m2
+
+               -  Serious pre-existing cardiovascular disease such as New York Heart Association
+                  (NYHA) ≥ II, coronary heart disease requiring coronary surgery or known
+                  peripheral arterial disease (pAVK) ≥ grade 2
+
+               -  Sickle cell anemia
+
+               -  Obesity (body mass index ≥ 30kg/m2)
+
+         12. Hospitalization at study inclusion
+
+         13. Administration of immunoglobulins and/or any blood products within 120 days preceding
+             study entry or planned administration during the study period
+
+         14. History of blood donation within 30 days of enrolment or planned donations within the
+             study period
+
+         15. Known hypersensitivity to any of the components included in the CoVac-1 vaccine
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Helmut Salih, Prof. MD</last_name>
+    <phone>+49 7071 29</phone>
+    <phone_ext>83275</phone_ext>
+    <email>helmut.salih@med.uni-tuebingen.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Juliane Walz, PD MD</last_name>
+    <phone>+49 7071 29</phone>
+    <phone_ext>83275</phone_ext>
+    <email>juliane.walz@med.uni-tuebingen.de</email>
+  </overall_contact_backup>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 14, 2020</study_first_posted>
+  <last_update_submitted>September 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 vaccine</keyword>
+  <keyword>COVID-19 infection</keyword>
+  <keyword>preemptive</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

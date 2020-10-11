@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="641">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492943</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020P001048</org_study_id>
+    <nct_id>NCT04492943</nct_id>
+  </id_info>
+  <brief_title>To Observe Whether Isoflurane Can Treat COVID-19 Patients</brief_title>
+  <official_title>To Observe Whether Isoflurane Can Treat COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a blood collection and retrospective data collection study. The investigators plan to
+      assess whether the sedative drug, isoflurane, can treat COVID-19 patients relatively better
+      compared to other sedative drugs given during routine treatment to patients on mechanical
+      ventilation. The investigators will also use nanoneedle biosensors to quickly detect blood
+      IgM/IgG ratio in those patients, and (3) to establish a pre-clinical system to determine the
+      effects of inhalational anesthetics on amounts of SARS-CoV-2 and other viruses, and
+      pneumoniae.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There are neither effective treatments nor fast detection for COVID-19. Here the
+      investigators propose a medical records and excess clinical material study to determine
+      whether anesthetic isoflurane can treat COVID-19. Specifically, inhalation anesthetics,
+      including isoflurane, inhibit the replication of an RNA virus. In addition, anesthesia
+      machines have been used to provide mechanical ventilation for COVID-19 patients at MGH and at
+      other hospitals. Finally, due to the shortage of intravenous anesthetic propofol, inhalation
+      anesthetics including isoflurane, delivered by the anesthesia machine, are currently used to
+      sedate COVID-19 patients during mechanic ventilation. Moreover, isoflurane is very
+      economical, e.g. $6 (isoflurane) versus $1200 (propofol) per patient per day in sedating
+      COVID-19 patients. As such, the investigators propose to use this already established system
+      in COVID-19 patients to determine whether isoflurane, delivered to lungs, can treat COVID-19
+      and especially COVID-19 pneumonia. In summary, the proposed study is a low risk observation
+      research using the already established clinical care system of COVID-19 patients and the
+      investigators will NOT have any additional procedures required for research purpose. The
+      investigators will also collect the left-over clinical sample and then use nanotechnology to
+      achieve fast detection of IgM/IgG ratio as the biomarker of the progress of COVID-19
+      following the isoflurane or propofol sedation.
+
+      Specifically, inhalation anesthetics, including isoflurane, inhibit replication of the
+      measles virus and other RNA virus 1,2. Severe COVID-19 patients need mechanical ventilation
+      to support lung function. The anesthesia machine can be used to ventilate lungs in these
+      patients in addition to regular ventilators which has already been started at MGH and other
+      hospitals as regular ventilators are extremely limited. Clinicians have already determined
+      the settings of these machines, including humidification, for treating COVID-19 patients and
+      the investigators will use these predetermined settings in this study. Additionally, there is
+      a shortage of the intravenous anesthetic propofol. As a result, inhalation anesthetics
+      including isoflurane, delivered by the anesthesia machine, are currently used to sedate
+      COVID-19 patients during mechanic ventilation. Moreover, isoflurane is very economical, e.g.
+      $6 (isoflurane) versus $1200 (propofol) per patient per day in sedating COVID-19 patients. As
+      such, the investigators propose to use this already established system in COVID-19 patients
+      to determine whether isoflurane, delivered to lungs, can treat COVID-19 and especially
+      COVID-19 pneumonia better than other sedatives in this retrospective data collection study.
+      Moreover, in pre-clinical studies, the investigators propose to establish a system to
+      determine whether inhalation anesthetics can treat virus-induced pneumonia by reducing the
+      amount of virus, e.g., SARS-CoV-2 and influenza.
+
+      Sensitive, cost-effective and fast detection of SARS-CoV-2 is extremely critical. Currently,
+      a real-time polymerase chain reaction (PCR) test detects the genetic material of SARS-CoV-2.
+      However, the test has large false negatives, poses risks during specimen collection and
+      sample handling, and takes a long time (~ 8 hours). However, in response to SARS-CoV-2, IgG
+      is the most abundant immunoglobulin to be produced and is maintained in the body after
+      initial exposure for a long-term response. IgM is the first immunoglobulin to be produced but
+      is primarily detected during the early onset of disease. Therefore, SARS-CoV-2 specific
+      IgM/IgG ratio in blood could be used as biomarker for COVID-19 prognostics (Fatma et al,
+      medRxiv, 2020), and could also be used as a measure of drug response 3. The nanoneedle
+      technology developed at a startup-company from Harvard University (NanoMosaic LLC) provides
+      pg/ml-level sensitivity and 10 uL sample volume for quantification of a panel of biomarkers
+      including SARS-CoV-2 specific IgG and IgMs in a single assay. The technology uses nanoneedle
+      biosensors densely integrated on a silicon chip and manufactured with CMOS-compatible
+      nanofabrication processes 4. Each nanoneedle is a label-free biosensor and changes its
+      scattering spectrum when an antigen binds to its surface. Each analyte-specific sensing area
+      consists of a total of ~24k nanoneedles divided into a digital region (~20k nanoneedles), an
+      analog region (~3k nanoneedles) and a fabrication QC region (~1k nanoneedles), thus providing
+      a wider dynamic range beyond the digital counting concentration ranges. Each single analyte
+      area, including both digital and analog sensors, is less than 500 um. With further
+      development, the entire assay can be finished in a half-hour on a table-top instrument with
+      less than 10 ul blood samples, which will facilitate therapeutic development and decision
+      making for COVID-19 and other virus-induced pneumoniae.
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 20, 2020</start_date>
+  <completion_date type="Actual">June 30, 2020</completion_date>
+  <primary_completion_date type="Actual">June 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Survival Outcome</measure>
+    <time_frame>From the date of hospital admission until date of discharge or death of any cause, assessed up to 6 months.</time_frame>
+    <description>Survival outcome will be based on whether the patient either (a) recovers from COVID-19 and is discharged from the hospital or (b) does not recover from COVID-19 and passes away while in the hospital.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 Testing Methods</measure>
+    <time_frame>From the date of hospital admission until date of discharge or death of any cause, assessed up to 6 months.</time_frame>
+    <description>Identifying faster COVID-19 testing methods, specifically nanoneedle biotechnology.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 Clearance</measure>
+    <time_frame>From the date of hospital admission until date of discharge or death of any cause, assessed up to 6 months.</time_frame>
+    <description>COVID-19 clearance will be based on whether the patient either (a) tests negative for COVID-19 after treatment in the hospital or (b) does not test negative for COVID-19 after treatment in the hospital.</description>
+  </primary_outcome>
+  <enrollment type="Actual">35</enrollment>
+  <condition>COVID-19</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood may be collected from patients if available from excess clinical blood draws conducted
+      during routine clinical care.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID-19 positive patients placed on mechanical ventilation
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Over the age of 18 years old
+
+          -  Tested positive for COVID-19
+
+          -  Documented SARS-CoV-2 carriage in the nasopharyngeal sample by PCR
+
+          -  Intubated for mechanical ventilation with an anesthesia machine
+
+        Exclusion Criteria:
+
+          -  Patient or any their family members have any contraindication for inhalation
+             anesthetics (e.g., malignant hyperthermia).
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02129-2020</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>April 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>September 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Zhongcong Xie</investigator_full_name>
+    <investigator_title>Principle Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Mechanical ventilation</keyword>
+  <keyword>Anesthesia</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Participant data may be shared with other researches working on similar studies. The only identifiers in data sets that will be shared are (1) hospital admission dates (MM/DD/YYYY), ICU admission dates (MM/DD/YYYY), ICU discharge dates (MM/DD/YYYY), and hospital discharge dates (MM/DD/YYYY).</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

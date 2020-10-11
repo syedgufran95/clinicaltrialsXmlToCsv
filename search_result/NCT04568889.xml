@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1140">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04568889</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB20-1444</org_study_id>
+    <nct_id>NCT04568889</nct_id>
+  </id_info>
+  <brief_title>Minnesota COVID-19 Testing Project</brief_title>
+  <official_title>Minnesota COVID-19 Testing Project</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Harvard University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Abdul Latif Jameel Poverty Action Lab</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Government of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Harvard University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this project is to help the state of Minnesota understand why individuals are not
+      getting tested and potentially identify trusted individuals or organizations that could be
+      used in follow-up work to send messages. Investigators focus on the first two issues of unit
+      and item nonresponse, which is not random across the population and thus could lead to
+      nonresponse bias. To do so, investigators are deploying flyers through 10 Twin City area food
+      shelves and potentially through public housing units with information on how to answer an
+      online questionnaire.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In the United States, recent statistics show that African American and Latinx communities
+      bear a disproportionate burden from COVID-19. Reaching vulnerable and underserved populations
+      is therefore crucial to combating the disease. However, most public messaging campaigns are
+      not targeted toward underserved communities and don't address fears of social stigma,
+      mistrust in the healthcare system, or concerns about immigration status.
+
+      The goal of this project is to help the state of Minnesota understand why individuals are not
+      getting tested and potentially identify trusted individuals or organizations that could be
+      used in follow-up work to send messages. To do so, investigators are deploying flyers through
+      10 Twin City area food shelves and potentially through public housing units with information
+      on how to answer an online questionnaire.
+
+      This provides us with an opportunity to study who answers surveys and why - and what
+      questions are particularly sensitive. This is of general interest to academicians and
+      policymakers alike.
+
+      The quality of household surveys is in decline, for three main reasons. First, households
+      have become increasingly less likely to answer surveys at all (unit nonresponse). Second,
+      those that respond are less likely to answer certain questions (item nonresponse). Third,
+      when households do provide answers, they are less likely to be accurate (measurement error).
+      This is important since household surveys help to estimate the employment rate, healthcare
+      needs and of course the census determines resources/representation.
+
+      Investigators focus on the first two issues of unit and item nonresponse, which is not random
+      across the population and thus could lead to nonresponse bias. Census tracts with
+      predominantly Hispanic or Black residents had significantly lower response rates to the
+      American Community Survey as compared to the response rates in predominantly white tracts.
+      Similarly, response rates to the Health Information National Trends Survey (HINTS) were lower
+      in areas with higher levels of Hispanic and minority residents.
+
+      Investigators hypothesize that financial incentives may encourage unit response; conversely,
+      a close association with the government may discourage response. To test these hypotheses,
+      investigators plan to cross-randomize the incentive amount offered and the emphasis placed on
+      government involvement in the study on flyers advertising the baseline survey. Individuals
+      will see either a) a 10 dollar incentive, or b) a 20 dollar incentive; and either a)
+      messaging that emphasizes government involvement in the study, or b) messaging that
+      emphasizes the involvement of academic researchers. Flyers will be randomized at the
+      foodshelf-day level.
+
+      To test what affects item non-response on potentially sensitive questions, such as questions
+      which ask for health information, investigators hypothesize that ethical framing may
+      encourage individuals to answer questions. This takes two forms --- the deontological (or
+      duty based) frame, and the consequential (or cost-benefit) frame. Moreover, knowing others
+      feel the same way (regarding the obligation or benefits of providing health information) may
+      amplify motivation. Finally, there is the possibility that emphasizing the importance of
+      ethnic and racial disadvantage associated with COVID-19 outcomes may be important for
+      improving item non-response on sensitive questions.
+
+      Upon completion of the demographic module of the survey but prior to starting several
+      potentially sensitive survey modules, individuals will see a message that either a)
+      emphasizes the public health benefits of answering the survey questions (cost-benefit frame);
+      b) emphasizes an individual's responsibility to their community (duty frame); c) emphasizes
+      the disproportionate impact of COVID-19 on certain ethnic and racial groups; or d) provides
+      no messaging. Messaging content will be randomized at the individual level.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 28, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Effect of monetary incentives in increasing unit response 1</measure>
+    <time_frame>This outcome will be assessed when the individual agrees to participate in the Baseline survey, which takes approximately 20 minutes.</time_frame>
+    <description>Number of participants who received a flyer that mentions a $20 incentive and completed the survey</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Effect of monetary incentives in increasing unit response 2</measure>
+    <time_frame>This outcome will be assessed when the individual agrees to participate in the Baseline survey, which takes approximately 20 minutes.</time_frame>
+    <description>Number of participants who received a flyer that mentions a $10 incentive and completed the survey.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Effect of a government frame in reducing unit response 1</measure>
+    <time_frame>This outcome will be assessed when the individual agrees to participate in the Baseline survey, which takes approximately 20 minutes.</time_frame>
+    <description>Number of participants who received a flyer that mentions a government frame and completed the survey</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Effect of a government frame in reducing unit response 2</measure>
+    <time_frame>This outcome will be assessed when the individual agrees to participate in the Baseline survey, which takes approximately 20 minutes.</time_frame>
+    <description>Number of participants who received a flyer that mentions a research frame and completed the survey.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Interactions between monetary incentives and a government frame 1</measure>
+    <time_frame>This outcome will be assessed when the individual agrees to participate in the Baseline survey, which takes approximately 20 minutes.</time_frame>
+    <description>Number of participants who received a flyer that mentions a government frame and $20 incentive and completed the survey</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Interactions between monetary incentives and a government frame 2</measure>
+    <time_frame>This outcome will be assessed when the individual agrees to participate in the Baseline survey, which takes approximately 20 minutes.</time_frame>
+    <description>Number of participants who received a flyer that mentions a government frame and $10 incentive and completed the survey</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Interactions between monetary incentives and a government frame 3</measure>
+    <time_frame>This outcome will be assessed during the 20-minute Baseline Survey.</time_frame>
+    <description>Number of participants who received a flyer that mentions a researcher frame and $20 incentive and completed the survey</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Interactions between monetary incentives and a government frame 4</measure>
+    <time_frame>This outcome will be assessed during the 20-minute Baseline Survey.</time_frame>
+    <description>Number of participants who received a flyer that mentions a researcher frame and $10 incentive and completed the survey</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Demographic characteristics of participants assigned into each treatment arm</measure>
+    <time_frame>This outcome will be assessed during the 20-minute Baseline Survey.</time_frame>
+    <description>Demographic characteristics (e.g. sex, education level, income level, race/ethnicity) of participants who are assigned to each treatment arm and completed the survey.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Effect of various messaging frames in increasing item non-response</measure>
+    <time_frame>This outcome will be assessed during the 20-minute Baseline Survey.</time_frame>
+    <description>Number of survey participants who are randomly assigned to receive each messaging frame that: a) emphasizes the public health benefits of answering the survey questions (cost-benefit frame); b) emphasizes an individual's responsibility to their community (duty frame); c) emphasizes the disproportionate impact of COVID-19 on certain ethnic and racial groups; or d) provides no messaging.</description>
+  </primary_outcome>
+  <number_of_arms>16</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Infectious Disease</condition>
+  <arm_group>
+    <arm_group_label>Government/High Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing government involvement and a $20 incentive. Then the participant is assigned to be a message that emphasizes the public health benefits of answering the survey questions (i.e. cost-benefit frame).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Government/High Incentive/Duty Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing government involvement and a $20 incentive. Then the participant is assigned to be a message that emphasizes an individual's responsibility to their community (i.e. duty frame).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Government/High Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing government involvement and a $20 incentive. Then the participant is assigned to be a message that emphasizes the disproportionate impact of COVID-19 on certain ethnic and racial groups.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Government/High Incentive/No Message Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing government involvement and a $20 incentive. Then the participant is assigned to the arm that provides no messaging.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Researchers/High Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing the involvement of academic researchers and a $20 incentive. Then the participant is assigned to be a message that emphasizes the public health benefits of answering the survey questions (i.e. cost-benefit frame).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Researchers/High Incentive/Duty Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing the involvement of academic researchers and a $20 incentive. Then the participant is assigned to be a message that emphasizes an individual's responsibility to their community (i.e. duty frame).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Researchers/High Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing the involvement of academic researchers and a $20 incentive. Then the participant is assigned to be a message that emphasizes the disproportionate impact of COVID-19 on certain ethnic and racial groups.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Researchers/High Incentive/No Message Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing the involvement of academic researchers and a $20 incentive. Then the participant is assigned to the arm that provides no messaging.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Government/Low Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing government involvement and a $10 incentive. Then the participant is assigned to be a message that emphasizes the public health benefits of answering the survey questions (i.e. cost-benefit frame).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Government/Low Incentive/Duty Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing government involvement and a $10 incentive. Then the participant is assigned to be a message that emphasizes an individual's responsibility to their community (i.e. duty frame).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Government/Low Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing government involvement and a $10 incentive. Then the participant is assigned to be a message that emphasizes the disproportionate impact of COVID-19 on certain ethnic and racial groups.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Government/Low Incentive/No Message Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing government involvement and a $10 incentive. Then the participant is assigned to the arm that provides no messaging.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Researchers/Low Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing the involvement of academic researchers and a $10 incentive. Then the participant is assigned to be a message that emphasizes the public health benefits of answering the survey questions (i.e. cost-benefit frame).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Researchers/Low Incentive/Duty Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing the involvement of academic researchers and a $10 incentive. Then the participant is assigned to be a message that emphasizes an individual's responsibility to their community (i.e. duty frame).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Researchers/Low Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing the involvement of academic researchers and a $10 incentive. Then the participant is assigned to be a message that emphasizes the disproportionate impact of COVID-19 on certain ethnic and racial groups.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Researchers/Low Incentive/No Message Frame</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participant is assigned to receive a flyer that includes a message emphasizing the involvement of academic researchers and a $10 incentive. Then the participant is assigned to the arm that provides no messaging.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>A $10 Survey Incentive</intervention_name>
+    <description>Individuals see a 10 dollar incentive on the flyers advertising the baseline survey.</description>
+    <arm_group_label>Government/Low Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/Racial/Ethnic Frame</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>A $20 Survey Incentive</intervention_name>
+    <description>Individuals see a 10 dollar incentive on the flyers advertising the baseline survey.</description>
+    <arm_group_label>Government/High Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Government/High Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Government/High Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Government/High Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/Racial/Ethnic Frame</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Emphasis of Government Involvement</intervention_name>
+    <description>Individuals see a message emphasizing the involvement of the government in the study,</description>
+    <arm_group_label>Government/High Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Government/High Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Government/High Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Government/High Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/Racial/Ethnic Frame</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Emphasis of Academic Researchers Involvement</intervention_name>
+    <description>Individuals see a message emphasizing the involvement of academic researchers in the study,</description>
+    <arm_group_label>Researchers/High Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/Racial/Ethnic Frame</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cost-Benefit Frame</intervention_name>
+    <description>Individuals will see messaging that emphasizes the public health benefits of answering the survey questions in the baseline survey (cost-benefit frame).</description>
+    <arm_group_label>Government/High Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/Cost-Benefit Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/Cost-Benefit Frame</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Duty Frame</intervention_name>
+    <description>Individuals will see messaging that emphasizes an individual's responsibility to their community in the baseline survey (duty frame),</description>
+    <arm_group_label>Government/High Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/Duty Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/Duty Frame</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Racial/Ethnic Frame</intervention_name>
+    <description>Individuals will see messaging that emphasizes the disproportionate impact of COVID-19 on certain ethnic and racial groups in the baseline survey.</description>
+    <arm_group_label>Government/High Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/Racial/Ethnic Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/Racial/Ethnic Frame</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>No Messaging</intervention_name>
+    <description>Individuals will see no messaging in the baseline survey.</description>
+    <arm_group_label>Government/High Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Government/Low Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Researchers/High Incentive/No Message Frame</arm_group_label>
+    <arm_group_label>Researchers/Low Incentive/No Message Frame</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All participants who are aged 18 or above and speak English or Spanish
+
+        Exclusion Criteria:
+
+          -  Children, those who do not identify as above or adults who identify as above but do
+             not agree to participate in survey during the consent stage.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marcella Alsan, MD, MPH, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Harvard Kennedy School</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Min Jeong (Joyce) Kim, BS</last_name>
+    <phone>6174968477</phone>
+    <email>minjeong_kim@hks.harvard.edu</email>
+  </overall_contact>
+  <reference>
+    <citation>Griffin, DH. Measuring survey nonresponse by race and ethnicity. In Proceedings of the Annual Meetings of the American Statistical Association. 2002; 11-15.</citation>
+  </reference>
+  <reference>
+    <citation>Maitland A, Lin A, Cantor D, Jones M, Moser RP, Hesse BW, Davis T, Blake KD. A Nonresponse Bias Analysis of the Health Information National Trends Survey (HINTS). J Health Commun. 2017 Jul;22(7):545-553. doi: 10.1080/10810730.2017.1324539. Epub 2017 May 30.</citation>
+    <PMID>28557627</PMID>
+  </reference>
+  <results_reference>
+    <citation>Meyer, Bruce D., Wallace KC Mok, and James X. Sullivan. Household surveys in crisis. Journal of Economic Perspectives. 2015; 29(4): 199-226.</citation>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Harvard University</investigator_affiliation>
+    <investigator_full_name>Marcella Alsan</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Minnesota</keyword>
+  <keyword>Unit nonresponse</keyword>
+  <keyword>Item nonresponse</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>September 24, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/89/NCT04568889/SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

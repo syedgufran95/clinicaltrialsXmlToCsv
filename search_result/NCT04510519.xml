@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3006">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04510519</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COV-1</org_study_id>
+    <nct_id>NCT04510519</nct_id>
+  </id_info>
+  <brief_title>Scaling Mental Healthcare in COVID-19 With Voice Biomarkers</brief_title>
+  <official_title>Scaling Mental Healthcare in COVID-19 With Voice Biomarkers: An Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kintsugi Mindful Wellness, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kintsugi Mindful Wellness, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to advance research on group sessions for mental health. The
+      first-of-its-kind study measuring various features in a group setting, combining rich
+      metadata in creating state-of-the-art machine learning models, and developing workflows for
+      mental health that are both scalable and personalized.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The anticipated impact of this study is defining voice biomarker features and reward
+      functions for a deep reinforcement learning based system from group interactions that improve
+      depression and anxiety outcomes. The investigators' ability to quantify the real-time impact
+      of human-intervention in scaled group video sessions can be very meaningful for creating best
+      practices in the area where measurement is infrequent.
+
+      The investigators' priority is to scale the optimal mix of individuals for group therapy
+      sessions based on reward functions that maximize improvements in depression and anxiety
+      scores. Current group therapy appointments may track little save few who use various group
+      feedback questionnaires (e.g. OQ, GCQ, or GQ). Voice biomarkers can play a key role in the
+      real-time measurement of mental health.
+
+      The proposed work is to conduct a feasibility study on creating reward functions that most
+      effectively enable engagement for group sessions as measured by voice biomarkers before,
+      during, and after group video meetings.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient Health Questionnaire (PHQ-9)</measure>
+    <time_frame>March 30, 2021</time_frame>
+    <description>A repeated measures, within-subject design using exploratory techniques will identify the best group session features or combination of features that correlate with or predict change on the PHQ-9.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Generalized Anxiety Disorder (GAD-7)</measure>
+    <time_frame>June 20, 2021</time_frame>
+    <description>A repeated measures, within-subject design using exploratory techniques will identify the best group session features or combination of features that correlate with or predict change on the GAD-7.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Major Depressive Disorder</condition>
+  <condition>Generalized Anxiety</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population includes men and women over the age of 18 years
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Ownership of a personal iPhone (version iOS 12.0 or later) and willingness to install
+             and maintain the Kintsugi app for remote participation throughout the study duration
+
+          -  Able to understand and comply with instructions in English
+
+        Exclusion Criteria:
+
+          -  Has any other clinically significant medical condition or circumstance that, in the
+             opinion of the Investigator, could affect patient safety, preclude evaluation of
+             response, interfere with the ability to comply with study procedures, or prohibit
+             completion of the study
+
+          -  Has a visual or physical motor impairment that could interfere with study tasks
+
+          -  Is site personnel directly affiliated with this study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>August 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 13, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Depressive Disorder, Major</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="441">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04501783</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TL-FVP-t-01</org_study_id>
+    <nct_id>NCT04501783</nct_id>
+  </id_info>
+  <brief_title>Study of Efficacy and Safety of TL-FVP-t vs. SOC in Patients With Mild to Moderate COVID-19</brief_title>
+  <official_title>Randomized Open-label Multicenter Parallel-group Study of Efficacy and Safety of TL-FVP-t vs. Standard of Care Therapy in Patients With Mild to Moderate Coronavirus Disease (SARS-CoV-2/COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>R-Pharm</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>R-Pharm</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized open-label multicenter parallel-group study of efficacy and safety of TL-FVP-t vs.
+      standard of care therapy in patients with mild to moderate coronavirus disease
+      (SARS-CoV-2/COVID-19)
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open label, randomized, controlled, multicenter Phase 3 study of TL-FVP-t in
+      outpatients and inpatients with mild to moderate COVID-19. After stratification by the
+      severity of their disease (mild or moderate), age (18-44 or ≥ 45 years) and CT severity
+      subjects will be randomized at a rate of 2:1 to receive either TL-FVP-t + standard
+      concomitant therapy or standard ethiptropic therapy (standard of care - SOC) including
+      standard concomitant therapy. Standard ethiptropic therapy according to MoH of Russian
+      Federation includes umifenovir + intranasal recombinant interferon alpha, hydroxichloroquine,
+      or chloroquine.
+
+      The dose regimen will be the following: TL-FVP-t at a dose of 1800 mg BID on the Day 1
+      followed by 800 mg BID during the next 9 days. The study will include the period of therapy
+      (10 days) and follow-up period (18 days).
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 20, 2020</start_date>
+  <completion_date type="Anticipated">August 2020</completion_date>
+  <primary_completion_date type="Actual">July 29, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to clinical improvement</measure>
+    <time_frame>through Day 28</time_frame>
+    <description>To determine the effect of TL-FVP-t vs. SOC on time to clinical improvement. The clinical improvement is defined as reduction on at least 1 score of patient clinical status according to WHO 8-category Ordinal Scale for Clinical Improvement compared to screening</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to viral clearance</measure>
+    <time_frame>through Day 28</time_frame>
+    <description>To determine the effect of TL-FVP-t vs. SOC on time to viral clearance of SARS-CoV-2 virus as measured by PCR in oropharyngeal sampling</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of clinical improvement at separate time points</measure>
+    <time_frame>Day 7</time_frame>
+    <description>To determine the effect of TL-FVP-t vs. SOC on proportion of subjects (%) with clinical improvement according to WHO 8-category Ordinal Scale for Clinical Improvement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of viral clearance at separate time points</measure>
+    <time_frame>Days 5 and 7</time_frame>
+    <description>To determine the effect of TL-FVP-t vs. SOC on a proportion of subjects (%) with viral clearance of SARS-CoV-2 virus as measured by PCR in oropharyngeal sampling at separate time points</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to body temperature normalization</measure>
+    <time_frame>through Day 28</time_frame>
+    <description>To determine the effect of TL-FVP-t vs. SOC on time to body temperature normalization determined as body temperature &lt; 37°C without antipyretics for at least 48 hours.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of resolution of lung changes on CT</measure>
+    <time_frame>Day 14</time_frame>
+    <description>To determine the effect of TL-FVP-t vs. SOC on a proportion of subjects (%) with resolution of lung changes on CT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of adverse drug reactions (ADR) and serious ADR</measure>
+    <time_frame>through Day 28</time_frame>
+    <description>To determine the effect of TL-FVP-t vs. SOC on a proportion of subjects (%) with ADR and serious ADR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of severe ADR</measure>
+    <time_frame>through Day 28</time_frame>
+    <description>To determine the effect of TL-FVP-t vs. SOC on a proportion of subjects (%) with severe ADR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate therapy termination due to ADR</measure>
+    <time_frame>through Day 28</time_frame>
+    <description>To determine the effect of TL-FVP-t vs. SOC on a proportion of subjects (%) discontinued therapy due ADR</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">168</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>TL-FVP-t (favipiravir) Treatment Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Day 1: favipiravir 1800 mg BID plus Standard of Care (SOC); Days 2-10: 800 mg BID plus SOC.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard of Care including etiotropic therapy according to MoH of Russian Federation Recomendations for COVID-19 (umifenovir + intranasal recombinant interferon alpha, or hydroxychloroquine, or chloroquine, or mefloquine in recomended regimen) up to10 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favipiravir</intervention_name>
+    <description>TL-FVP-t will be administered orally</description>
+    <arm_group_label>TL-FVP-t (favipiravir) Treatment Arm</arm_group_label>
+    <other_name>TL-FVP-t</other_name>
+    <other_name>Koronavir</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of care (SOC)</intervention_name>
+    <description>SOC will include standard etiotropic therapy (umifenovir + intranasal recombinant interferon alpha, or hydroxychloroquine, or chloroquine) according to MoH of Russian Federation recomendations for COVID-19</description>
+    <arm_group_label>Standard of Care Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>standard concomitant therapy</intervention_name>
+    <description>Standard of care according to MoH of Russian Federation recomendation for COVID-19</description>
+    <arm_group_label>Standard of Care Arm</arm_group_label>
+    <arm_group_label>TL-FVP-t (favipiravir) Treatment Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Informed consent form signed.
+
+          2. Males and females aged 18-60 years;
+
+          3. Diagnosis of coronavirus disease caused by SARS-CoV-2 (COVID-19) in a mild or moderate
+             form (without respiratory failure).
+
+          4. Duration of infection symptoms shall be no more than 6 days before randomization.
+
+          5. SARS-CoV-2 infection should be verified by PCR at the screening.
+
+          6. Ability to follow the protocol and fulfill all the clinical study procedures.
+
+          7. Ability and willingness of the subjects and their sexual partners with retained
+             childbearing potential to use reliable contraception methods throughout the study and
+             for 3 months after the treatment completion.
+
+          8. Willingness not to take alcohol throughout the study.
+
+        Exclusion Criteria:
+
+          1. Age &lt; 18 and &gt; 60 years.
+
+          2. Any etiotropic therapy of coronavirus SARS-CoV-2 (COVID-19) infection prior to the
+             study.
+
+          3. Moderate infection with respiratory failure, severe or extremely severe SARS-CoV-2
+             (COVID-19) disease.
+
+          4. Respiratory failure (RR &gt; 30/min, SpO2 ≤ 93 %) or the need for mechanical ventilation
+             at the screening.
+
+          5. Decreased level of consciousness (disorientation of place, time and personality),
+             agitation at the screening.
+
+          6. Unstable hemodynamics (systolic BP &lt; 100 mm Hg or diastolic BP &lt; 60 mm Hg) found at
+             the screening.
+
+          7. Subtotal diffuse ground-glass induration of pulmonary tissue and pulmonary
+             consolidation combined with reticular changes; involvement of ≥ 75 % of lung
+             parenchyma; hydrothorax (CT findings corresponding to ≥ CT-4 according to Department
+             of Health of Moscow guidelines).
+
+          8. Presence of comorbidities:
+
+               1. moderate or severe chronic obstructive pulmonary disease or asthma;
+
+               2. severe chronic cardiovascular disorders (arrhythmia or conduction disorders,
+                  implanted pacemaker device, myocardial infarction or unstable angina in the
+                  medical history, heart failure);
+
+               3. immunocompromised subjects (HIV, cancer, autoimmune diseases, immunodepressant
+                  therapy);
+
+               4. severe obesity (body mass index [BMI] ≥ 40);
+
+               5. diabetes mellitus;
+
+               6. chronic renal failure;
+
+               7. chronic moderate or severe hepatic disorders.
+
+          9. Any of the following abnormal laboratory tests at the screening: AST or ALT level &gt;
+             2.5 x upper normal level (UNL), platelet count &lt; 50х109/L.
+
+         10. Any history findings which, in the investigator's opinion, may complicate the
+             interpretation of the study results or generate an additional risk for the subject due
+             to his/her participation in the study.
+
+         11. More than 2 CT diagnostic procedures within the last 6 months prior to randomization
+             (except for chest CT no earlier than 4 days prior to enrollment).
+
+         12. The subject takes the products significantly inhibiting CYP28С, and administration
+             those products cannot be interrupted for the study duration.
+
+         13. Malabsorption syndrome or another clinically relevant gastrointestinal disease which
+             may affect the study product absorption (uncontrollable vomiting, diarrhea, ulcerative
+             colitis, etc.).
+
+         14. Pregnancy or breast-feeding; women with probable pregnancy at the screening, those
+             planning to conceive during the study.
+
+         15. Known (from the history) or suspected alcohol or psychotropic drug abuse; medicinal or
+             illicit drug addiction.
+
+         16. Mental disorders including those in the medical history.
+
+         17. Condition or disease which, according to the investigator or medical monitor, will
+             compromise the subject's safety or affect assessment of the study product safety.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Medical center LLC &quot;Neuroprofi&quot;</name>
+      <address>
+        <city>Korolev</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Federal budgetary institution of science &quot;Central Research Institute of Epidemiology&quot; of Russian Federal Supervision Service for Consumer Rights Protection and People's Welfare</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical centers JSC &quot;Medsi Group of Companies&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;City Clinical Hospital №57 of the Moscow City Healthcare Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;City Clinical Hospital №67 n.a. LA Vorokhobova of the Moscow City Healthcare Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;Infectious Diseases Clinical Hospital №1 of the Moscow City Healthcare Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical center LLC &quot;Medical Center Eco-safety&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Petersburg State Budgetary Healthcare Institution &quot;City Hospital No. 40 of the Kurortny District&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Budgetary healthcare institution of the Voronezh region &quot;Voronezh Regional Clinical Hospital No. 1&quot;</name>
+      <address>
+        <city>Voronezh</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution of the Moscow Region &quot;Zhukovskaya City Clinical Hospital&quot;.</name>
+      <address>
+        <city>Zhukovskiy</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2020</study_first_posted>
+  <last_update_submitted>August 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Severe acute respiratory syndrome coronavirus 2</keyword>
+  <keyword>2019-nCoV</keyword>
+  <keyword>2019 novel coronavirus</keyword>
+  <keyword>Respiratory disease</keyword>
+  <keyword>lung disease</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

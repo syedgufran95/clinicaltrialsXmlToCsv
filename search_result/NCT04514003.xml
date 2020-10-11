@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="542">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04514003</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVITA</org_study_id>
+    <nct_id>NCT04514003</nct_id>
+  </id_info>
+  <brief_title>The Corona and COVID-19 Study in Telemark and Agder</brief_title>
+  <acronym>COVITA</acronym>
+  <official_title>The Corona and COVID-19 Study in Telemark and Agder - COVITA</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sykehuset Telemark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sorlandet Hospital HF</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Norwegian Institute of Public Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>London School of Hygiene and Tropical Medicine, UK</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Leiden University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Aalborg University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sykehuset Telemark</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Through SARS-CoV-2 IgG testing of PCR positive and negative cases the study will follow the
+      COVID-19 immune response by monitoring the SARS-CoV-2 IgG antibody levels over a period of
+      two years. Further, risk factors will be identified by the use of the test-negative design
+      including population controls, allowing comparison of participants with positive and negative
+      tests, and with population controls (triangulation). Special emphasis will be on high risk
+      groups in general and on different occupational, environmental and socio-economic groups in
+      particular. Finally, severity of illness, deaths and the use of health care during will be
+      assessed using national register data from Telemark and Agder.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Objectives
+
+      The main objectives are:
+
+        1. Monitor the incidence of COVID-19 and the development of the SARS-CoV-2-IgG levels of
+           cases in Agder and Telemark over a period of two years (WP1).
+
+        2. Identify risk factors for COVID-19 by comparison of SARS-CoV-2 antibody positive and
+           negative cases in Telemark and Agder, and comparison of these groups separately with
+           population controls (WP2).
+
+        3. The incidence of neurocognitive symptoms and fatigue in COVID-19 patients (WP3).
+
+        4. Investigation of severity, death and the use of health care for the COVID-19 patients
+           based on data from national registers (WP4).
+
+      The main exposures are (WP1-3):
+
+        -  Infection (mild, severe) with COVID-19.
+
+        -  Occupational risk factors assessed by occupational codes (ISCO88) and job exposure
+           matrix categorisation.
+
+        -  Environmental risk factors (road traffic outside bedroom window, travel by foot or
+           bicycle alongside busy roads, and the use of a fireplaces in residential homes. Further,
+           estimated measurements of air pollution may be linked to participants' home address.
+
+        -  Socioeconomic status; age, sex, comorbidity, medication use, lifestyle factors (smoking,
+           BMI, physical activity, others), geographic region/municipality, education and income.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2035</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 IgG antibody level</measure>
+    <time_frame>2020-2023</time_frame>
+    <description>Serum Levels of SARS-CoV-2 IgG antibody and the Development of these over a two years period</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Risk factors for COVID-19</measure>
+    <time_frame>2020-2026</time_frame>
+    <description>Different risk factors (age, sex, education, comorbidity, occupational and environmental exposure will be assessed</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 PCR positive cases</arm_group_label>
+    <description>Antibody tests will be performed every 6 months for 2 years</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 PCR negative cases</arm_group_label>
+    <description>Antibody tests will be performed every 6 months for 2 years</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Population controls</arm_group_label>
+    <description>A large sample (n= 22500) from the general population will be included to assess risk factors. No blood sample will be collected for this group and the data needed is already collected.</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Serum samples for SARS-CoV-2 IgG antibody testing
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Inhabitants of Agder and Telemark County in Norway fulfilling the inclusion criteria.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 18 - 85 years
+
+          -  Performed SARS-CoV-2 PCR test
+
+        Exclusion Criteria:
+
+          -  Non-Norwegian speakers.
+
+          -  Deceased
+
+          -  inability to answer questionnaire due to dementia or similar conditions
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anne Kristin M. Fell, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sykehuset Telemark</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anne Kristin M. Fell, PhD</last_name>
+    <phone>+4735003118</phone>
+    <email>annfel@sthf.no</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Telemark Hospital</name>
+      <address>
+        <city>Skien</city>
+        <state>Vestfold And Telemark</state>
+        <zip>3710</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 14, 2020</study_first_posted>
+  <last_update_submitted>August 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sykehuset Telemark</investigator_affiliation>
+    <investigator_full_name>Anne Kristin M. Fell</investigator_full_name>
+    <investigator_title>Associate Professor, senior physician</investigator_title>
+  </responsible_party>
+  <keyword>Immunity</keyword>
+  <keyword>Risk factors</keyword>
+  <keyword>Test-negative design</keyword>
+  <keyword>Population controls</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

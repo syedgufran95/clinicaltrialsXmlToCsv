@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3441">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04514900</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00101006</org_study_id>
+    <nct_id>NCT04514900</nct_id>
+  </id_info>
+  <brief_title>Exploring Optimal Treatment Components for Contactless Online Group-based Behavioral Weight Loss Program</brief_title>
+  <acronym>iREACH</acronym>
+  <official_title>Exploring the Optimal Treatment Components for a Contactless Online Group-based Behavioral Weight Loss Program for the COVID 19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of South Carolina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Vermont</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Tennessee</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of South Carolina</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The current pilot study will explore the optimal cost-effective treatment configuration for
+      online group-based weight control by focusing on two aspects of our existing treatment
+      program which have significant associated cost and determine which contribute meaningfully to
+      weight loss outcomes. Specifically, we will explore whether adding synchronous group social
+      support (weekly group video chat sessions facilitated by a trained weight loss counselor) to
+      on demand (asynchronous) social support provided through the program discussion board
+      significantly increases weight losses achieved. We will also examine whether detailed
+      feedback on dietary and physical activity self-monitoring records from a counselor enhances
+      weight loss outcomes in comparison with basic feedback. Finally, we will examine the cost
+      efficiency of the treatment constellations. Further, this pilot study will also explore the
+      feasibility of recruiting participants nationally (rather than just locally) and the capture
+      of data electronically (including body weight measurements) without any in-person contact.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All participants will receive the same online group-based weight loss program, a lifestyle
+      intervention which we have demonstrated to be effective in the past. The 16-session,
+      goal-driven behavioral weight control program offers weekly interactive modules that provide
+      evidence-based health education on caloric balance and physical activity increases, with a
+      goal of fostering changes in diet and exercise habits and producing weight losses of 5-10%.
+      The intervention is based on social cognitive theory and uses a self-regulation approach to
+      learning new lifestyle habits that can produce and maintain weight loss. Participants in all
+      study arms will be provided with the same calorie and physical activity goals, and all
+      participants will be asked to self-monitor their dietary intake and physical activity daily
+      using an app on their smart phone. They will also be asked to weigh themselves daily,
+      consistent with research indicating that daily weighing is associated with greater weight
+      loss and participants will be provided with a Bluetooth-enabled &quot;smart scale&quot; that will
+      communicate weight to the password-protected study website (visible to only the participant
+      and study staff). The study website also provides the dynamic programmatic content, real time
+      graphic feedback from self-monitoring (for each individual participant) and a study group
+      discussion board for asynchronous group interactions and social support. The website includes
+      the core aspects of the behavioral program and is to be provided to all participants.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 23, 2020</start_date>
+  <completion_date type="Anticipated">September 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 15, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>A 2x2 randomized controlled pilot study will be conducted which randomly allocates up to 120 individuals with overweight or obesity to an online weight control program and varies whether they receive asynchronous social support (discussion board) vs synchronous plus asynchronous social support (weekly video chat + discussion board) and varies whether the type of feedback which they receive on their self-monitoring (detailed vs basic) in a factorial study. All participants will receive the core 16-week online interactive behavioral weight loss program (iREACH) and will be followed for 4 months with monthly surveys and weight ascertainment.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Weight loss</measure>
+    <time_frame>Baseline, 2 and 4 months</time_frame>
+    <description>Change in body weight from baseline calculated as kg lost</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in body weight from baseline calculated as % of body weight lost</measure>
+    <time_frame>2 and 4 months</time_frame>
+    <description>1 - [follow-up body weight/ baseline body weight] = % body weight change</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Engagement: daily weighing</measure>
+    <time_frame>Weeks 1 to 16</time_frame>
+    <description>Self-monitoring rates for daily weighing and will be calculated as the total number of days of weight submitted over the 4 month period divided by the total number of days of potential self-weighing.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Engagement: weekly food journal submissions</measure>
+    <time_frame>Weeks 1 to 16</time_frame>
+    <description>Self-monitoring rates for daily dietary self monitoring will be calculated as the total number of weeks of digital food diaries submitted over the 4 month period divided by the total number of weeks of potential digital diary submissions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Engagement: completion of the 16 weekly interactive online modules</measure>
+    <time_frame>Weeks 1 to 16</time_frame>
+    <description>Percent of weekly module completion will be calculated as the total number of weeks of completed modules submitted over the 4 month period divided by 16 (the total number of modules available).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Engagement: Attendance at Video Chat condition</measure>
+    <time_frame>Weeks 1 to 16</time_frame>
+    <description>Percent of weekly video chat attendance will be calculated as the total number of weeks each participant attended video chat over the 4 month period divided by 16 (the total number of video chats available).- Collected only for those randomized to a condition with video chat</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Supportive Accountability</measure>
+    <time_frame>2 months and 4 months</time_frame>
+    <description>All participants will be administered the Supportive Accountability Questionnaire to determine whether there is a difference in accountability experienced by participants depending on which intervention they receive.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Social Support</measure>
+    <time_frame>baseline, 2 months and 4 months</time_frame>
+    <description>All participants will be administered the Perceived Social Support Scale to determine whether perceptions of social support differ depending on which intervention participants receive.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cost-Effectiveness Analyses</measure>
+    <time_frame>Weeks 1 to 16</time_frame>
+    <description>Actual counselor time spent in delivering group video chats and giving feedback will be tracked in order to quantify the relative costs of delivering behavioral weight control programs.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Treatment Expectations</measure>
+    <time_frame>Baseline</time_frame>
+    <description>All participants will be queried as to their expectations and preferences in treatment prior to intervention.using a measure designed for the current study</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Treatment Satisfaction</measure>
+    <time_frame>through study completion, up to 24 weeks</time_frame>
+    <description>Each month participants will be asked to complete a survey inquiring about the helpfulness of the treatment modules, skills building assignments, and satisfaction with their treatment experiences in the previous month. Response options will be a 5-point Likert scale with 1=not at all helpful/useful and 5=extremely helpful/useful on a measure that is developed for this study and tailored to the treatment elements provided.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Self Regulation Questionnaire</measure>
+    <time_frame>baseline</time_frame>
+    <description>Participants self report on their self management behaviors</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Video Chat +Personalized Feedback</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants meet as a group in weekly online video chats facilitated by an experienced behavioral weight control counselor. Participants have access to a website containing interactive weekly modules pertaining to weight loss skills as well as a discussion board where they may interact with other participants in addition to class meetings. They are asked to self-monitor food and beverage intake in a digital food diary (on a smartphone app) and will receive weekly detailed, personalized feedback on self-monitoring. Participants will be asked to weigh daily on a digital scale, which will be provided.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Video Chat + Basic Feedback</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants meet as a group in weekly online video chats facilitated by an experienced behavioral weight control counselor. Participants have access to a website containing interactive weekly modules pertaining to weight loss skills as well as a discussion board where they may interact with other participants in addition to class meetings. They are asked to self-monitor food and beverage intake in a digital food diary (on a smartphone app) and will receive basic feedback weekly on self-monitoring. Participants will be asked to weigh daily on a digital scale, which will be provided.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Discussion Board for Social Support + Basic Feedback</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will access a website containing 16 interactive weekly modules pertaining to weight loss skills, as well as a discussion board on which they are encouraged through prompts and posts to interact with other participants for social support. They are asked to self-monitor food and beverage intake in a digital food diary (on a smartphone app) and will receive weekly basic feedback on self-monitoring. Participants will be asked to weigh daily on a digital scale, which will be provided.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Discussion Board for Social Support+Personalized Feedback</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will access a website containing 16 interactive weekly modules pertaining to weight loss skills, as well as a discussion board on which they are encouraged through prompts and posts to interact with other participants for social support. They are asked to self-monitor food and beverage intake in a digital food diary (on a smartphone app) and will receive weekly detailed, personalized feedback on self-monitoring from a trained interventionist. Participants will be asked to weigh daily on a digital scale, which will be provided.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Video Chat +Personalized Feedback</intervention_name>
+    <description>Participants will receive an online 16-session, goal-driven behavioral weight control program via video chat and weekly interactive modules. The modules provide evidence-based health education on caloric balance, with a goal of fostering changes in diet and exercise habits and producing weight losses of 5-10%. Participants are provided with an electronic scale that will transmit weights wirelessly to a secure study website. A group facilitator will monitor digital food diaries and provide detailed weekly feedback on diet and exercise.</description>
+    <arm_group_label>Video Chat +Personalized Feedback</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Video Chat + Basic Feedback</intervention_name>
+    <description>Participants will receive an online 16-session, goal-driven behavioral weight control program via video chat and weekly interactive modules. The modules provide evidence-based health education on caloric balance, with a goal of fostering changes in diet and exercise habits and producing weight losses of 5-10%. Participants are provided with an electronic scale that will transmit weights wirelessly to a secure study website. A group facilitator will monitor digital food diaries and provide basic weekly feedback on diet and exercise.</description>
+    <arm_group_label>Video Chat + Basic Feedback</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Discussion Board for Social Support +Basic Feedback</intervention_name>
+    <description>Participants will receive an online 16-session, goal-driven behavioral weight control program via weekly interactive modules. The modules provide evidence-based health education on caloric balance, with a goal of fostering changes in diet and exercise habits and producing weight losses of 5-10%. They also are provided with a study discussion board for social support from fellow participants. Participants are provided with an electronic scale that will transmit weights wirelessly to a secure study website. A weight loss counselor will monitor digital food diaries and provide basic weekly feedback on diet and exercise.</description>
+    <arm_group_label>Discussion Board for Social Support + Basic Feedback</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Discussion Board for Social Support+Personalized Feedback</intervention_name>
+    <description>Participants will receive an online 16-session, goal-driven behavioral weight control program via weekly interactive modules. The modules provide evidence-based health education on caloric balance, with a goal of fostering changes in diet and exercise habits and producing weight losses of 5-10%. They also are provided with a study discussion board for social support from fellow participants. Participants are provided with an electronic scale that will transmit weights wirelessly to a secure study website. A weight loss counselor will monitor digital food diaries and provide personalized, detailed weekly feedback on diet and exercise.</description>
+    <arm_group_label>Discussion Board for Social Support+Personalized Feedback</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  BMI between 27-55 kg/m2
+
+          -  free of medical problems that might contraindicate participation in a behavioral
+             weight reduction program containing an exercise component
+
+          -  must have a computer at home or work with video camera and access to the internet
+
+          -  must have a smart phone
+
+          -  only one member of a household may participate
+
+          -  must successfully complete a self-monitoring diary of food and beverages consumed for
+             7 consecutive days
+
+          -  must successfully set up the electronic scale (provided by the study at no cost) and
+             transmit a body weight to study staff
+
+          -  must agree to be randomized to any of the 4 groups
+
+          -  must be willing to share access to their dietary and physical activity self-monitoring
+             information collected via the Fitbit.com app/website and their weight data collected
+             via linking the electronic smart scale with Fitbit.com
+
+        Exclusion Criteria:
+
+          -  taking insulin
+
+          -  currently on medication that might affect weight loss
+
+          -  currently pregnant or pregnant in the previous 6 months
+
+          -  currently breastfeeding
+
+          -  enrolled in another weight reduction program
+
+          -  have had a heart attack or stroke in the past 6 months
+
+          -  ever had weight loss surgery
+
+          -  have lost more than 10 pounds in the previous 6 months
+
+          -  currently taking medications for weight loss
+
+          -  required by their doctor to follow a special diet (other than a low fat diet)
+
+          -  anyone who has a schedule that would make it difficult to attend scheduled &quot;chat&quot;
+             groups, should they be randomized to receive that treatment component
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Delia West, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of South Carolina</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Doris Ogden, MS</last_name>
+    <phone>855-952-4730</phone>
+    <email>Doris.Ogden@uvm.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Janna Borden, MS</last_name>
+    <phone>855-952-4730</phone>
+    <email>jsborden@mailbox.sc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of South Carolina</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janna Borden, MS</last_name>
+      <phone>855-952-4730</phone>
+      <email>jsborden@mailbox.sc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Doris Ogden, MS</last_name>
+      <phone>855-952-4730</phone>
+      <email>Doris.Ogden@uvm.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 17, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of South Carolina</investigator_affiliation>
+    <investigator_full_name>Delia Smith West</investigator_full_name>
+    <investigator_title>Professor, Exercise Science</investigator_title>
+  </responsible_party>
+  <keyword>weight loss</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Weight Loss</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

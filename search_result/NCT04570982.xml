@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2057">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04570982</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NHRC2020-001</org_study_id>
+    <nct_id>NCT04570982</nct_id>
+  </id_info>
+  <brief_title>Clinical Protocol for Convalescent Plasma and Remdesivir Therapy in Nepal</brief_title>
+  <acronym>CPT-R-Nepal</acronym>
+  <official_title>Compassionate Use of Remdesivir and Convalescent Plasma Therapy for Treatment of COVID-19 Infection in Nepal : A Prospective Observational Study (Amended Protocol)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Pradip Gyanwali,MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ministry of Health and Population, Nepal</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Nepal Health Research Council</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this compassionate use study is to provide access and evaluate the outcome
+      of Remdesivir and COVID-19 convalescent plasma use in patients with COVID-19. This protocol
+      provides a coordinated approach for distribution and guidance for safe and effective
+      administration of Remdesivir and convalescent plasma with antibodies against SARS CoV-2 for
+      treatment of patients with COVID-19 infection who are most likely to benefit from this
+      investigational treatment and monitor them for the following specific objectives and
+      outcomes:
+
+      SPECIFIC OBJECTIVES
+
+        1. Provide access to convalescent plasma for hospitalized patients with severe COVID-19
+           infection (compassionate use, expanded access program)
+
+        2. Monitor safety of the therapy with convalescent plasma containing antibodies against SAR
+           CoV-2 and Remdesivir for hospitalized patients with severe COVID-19 infection
+
+        3. Evaluate outcomes in patients who received convalescent COVID-19 plasma therapy alone,
+           Remdesivir alone, and both agents.
+
+      Study Design: This study will be a prospective, observational clinical study with an
+      intention-to-treat, cross-over design. Comparison groups will be patients who received
+      convalescent plasma vs. those who received Remdesivir. In addition, cross-over to
+      convalescent plasma arm will be allowed for patients who continued to get worse even after
+      receiving Remdesivir for more than 48 hours.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ENROLLMENT Patients will be recruited from all COVID-19 treating hospitals of Nepal which are
+      participating in this clinical study. All hospitalized patients with moderate to severe
+      COVID-19 infection will be screened for Remdesivir Treatment and those with severe to life
+      threatening COVID-19 infection will be screened for Convalescent plasma therapy.
+
+      Donors Convalescent plasma donors will be recruited from the record of the hospitals from
+      where they were discharged. The COVID hospitals will be asked to collect names of recovered
+      patients who have voluntarily shown interest to donate plasma. When possible donated plasma
+      will be stored in respective hospitals or blood bank.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 30, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Crossover</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Availability of convalescent plasma</measure>
+    <time_frame>12 Weeks</time_frame>
+    <description>percentage of donors who donated plasma versus those who were eligible for donation
+percentage of patient who received plasma vs. requests received</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Amount of Plasma</measure>
+    <time_frame>12 Weeks</time_frame>
+    <description>- amount of plasma administered per patient</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Demographics of recipients</measure>
+    <time_frame>12 Weeks</time_frame>
+    <description>- type of patients receiving plasma therapy : Age in Years, Sex: M/F,</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Co-morbidity of recipient</measure>
+    <time_frame>12 Weeks</time_frame>
+    <description>- recipient comorbidities: Smoking, Diabetes, Heart disease, Chronic lung disease, chronic liver disease, cancer, organ transplant, HIV infection, TB. HIV, HBV, HCV, Syphillis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Donor status</measure>
+    <time_frame>12 Weeks</time_frame>
+    <description>donor health status: HIV, HBV, HCV, Syphillis
+Donor status: duration after recovery from COVID-19, plasma antibody titer against SARS CoV-2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse events of convalescent COVID-19 plasma and Remdesivir Therapy</measure>
+    <time_frame>12 Weeks</time_frame>
+    <description>any expected and unexpected adverse events during or after treatment (upto 7 days)
+any other complications related or unrelated to plasma transfusion and Remdesivir during hospital stay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hospital and ICU length of stay</measure>
+    <time_frame>12 Weeks</time_frame>
+    <description>- number of days of hospital stay and ICU stay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Disposition of patients including survival</measure>
+    <time_frame>12 Weeks</time_frame>
+    <description>- condition at discharge: complete recovery, partial recovery with complications, death</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Convalescent Plasma with SOC</arm_group_label>
+    <description>All patients will receive CPT and SOC</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent Plasma</intervention_name>
+    <description>The objective of this protocol is to provide a coordinated approach for distribution and guidance for safe and effective administration of convalescent serum with antibodies against SAR CoV-2 for treatment of patients with COVID-19 infection who are most likely to benefit from this investigational treatment and monitor them.</description>
+    <arm_group_label>Convalescent Plasma with SOC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients will be recruited from all COVID-19 treating hospitals of Nepal which are
+        participating in this clinical study.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        A. INCLUSION CRITERIA
+
+        All patients:
+
+          1. Minimum 18 years of age
+
+          2. Laboratory-confirmed diagnosis of COVID-19 infection with PCR test positive for
+             SARS-CoV-2
+
+          3. Hospitalized patients admitted to an acute care facility for the treatment of COVID-19
+
+          4. Signed informed consent provided by the patient or patient's healthcare proxy
+
+             For Remdesivir:
+
+          5. Moderate to severe COVID-19 infection who require to be on oxygen supplementation
+
+             For convalescent plasma therapy:
+
+             A patient has to meet one of the following criteria to be eligible for receiving
+             convalescent plasma therapy:
+
+          6. Severe or life-threatening COVID-19 infection, or judged by the treating provider to
+             be at high risk of progression to severe or life-threatening disease
+
+          7. Patients who progress to severe or life threatening infection despite being on
+             remdesivir for 48 hours or longer.
+
+        B. EXCLUSION CRITERIA
+
+          1. Under 18 years of age
+
+          2. Not confirmed with PCR test for COVID-19 infection
+
+          3. Cases not meeting criteria for severe or life-threatening COVID-19 infection
+
+          4. Any patient with contraindications for receiving plasma transfusion will not receive
+             plasma
+
+          5. Any patient with contraindications for receiving Remdesivir will not receive
+             Remdesivir
+
+          6. Patient's declination to enroll in the study
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pradip Gyanwali, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Nepal Health Research Council</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Meghnath Dhimal, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Nepal Health Research Council</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Janak Koirala, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Nepal Health Research Council</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Janak Koirala, MD, MPH</last_name>
+    <phone>+977 9818762117</phone>
+    <email>clinicaltrialsnepal@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Saroj Bhattarai, MSc.</last_name>
+    <phone>+977 9840388970</phone>
+    <email>bhattaraisaroj23@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Narayani Hospital</name>
+      <address>
+        <city>Birgunj</city>
+        <country>Nepal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Uday N Singh, MD.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Seti Provincial Hospital</name>
+      <address>
+        <city>Dhangadi</city>
+        <country>Nepal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sher B Kamar, MD.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>BP Koirala Institute of Health Sciences (BPKIHS)</name>
+      <address>
+        <city>Dharān Bāzār</city>
+        <country>Nepal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Krishna Pokhrel, MD.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sukraraj Tropical Disease Hospital</name>
+      <address>
+        <city>Kathmandu</city>
+        <country>Nepal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anup Bastola, MD.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>TU Teaching Hospital</name>
+      <address>
+        <city>Kathmandu</city>
+        <country>Nepal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Santa K Das, MD.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bheri Provincial Hospital</name>
+      <address>
+        <city>Nepalgunj</city>
+        <country>Nepal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rajan Pandey, MD.</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Nepal</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>July 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 30, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Nepal Health Research Council</investigator_affiliation>
+    <investigator_full_name>Dr. Pradip Gyanwali,MD</investigator_full_name>
+    <investigator_title>Chief-Executive</investigator_title>
+  </responsible_party>
+  <keyword>Convalescent Plasma</keyword>
+  <keyword>Remdesivir</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

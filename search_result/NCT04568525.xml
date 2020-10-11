@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="733">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04568525</url>
+  </required_header>
+  <id_info>
+    <org_study_id>01-2/141 27</org_study_id>
+    <nct_id>NCT04568525</nct_id>
+  </id_info>
+  <brief_title>Passive Microwave Radiometry (MWR) and AI for COVID-19 Complications Early Diagnostics of Lungs</brief_title>
+  <official_title>Microwave Radiation for Early Diagnostics of Pneumonia in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kyrgyz State Medical Academy</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The University of Edinburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>International Medical University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Kyrgyz State Medical Academy</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      World Health Organization (WHO) declared COVID-19 it as a global pandemic. It becomes clear
+      that the virus spreading mostly deadly due to limited to access to diagnostics tests and
+      equipment. Traditional radiography and CT remain the main methods of the initial examination
+      of the chest organs. Now, most of the diagnostics has been focused on PCR, chest x-Ray/CT
+      manifestations of COVID-19. However, there are problems with CT due to infection control
+      issues, the inefficiencies introduced in CT room decontamination, and lack of CT availability
+      in LMIC (Low Middle Income Countries). Passive microwave radiometry (MWR) is a cheap,
+      non-radioactive and portable technology. It has already been used for diagnostics of cancer,
+      and other diseases. The investigators have tested if MWR could be used for early diagnostics
+      of pulmonary COVID-19 complications.
+
+      This was a randomized controlled trial (195 subjects) to evaluate the effectiveness of
+      diagnostics using MWR in patients with pneumonia caused by COVID-19 while they are in
+      hospitals of Kyrgyzstan, and healthy individuals.
+
+      The investigator have measured skin (IR) and internal (MWR) temperature by recording passive
+      electromagnetic radiation through the chest wall in the projection of the lungs at 30
+      symmetrical points on both sides. Pneumonia and lung damage were diagnosed by X-RAY/CT scan
+      and doctor's final diagnosis (pn+/pn-). COVID-19 was determined by PCR test (covid+/covid-).
+
+      Overall, the study suggests that the use of MWR is a convenient and safe method for screening
+      diagnostics in COVID-19 patients with suspected pneumonia. Since MWR is an inexpensive, it
+      will ease the financial burden for both patients and the countries, especially in LMIC
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Actual">August 1, 2020</completion_date>
+  <primary_completion_date type="Actual">July 25, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized clinical trials</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determine sensitivity and specificity of MWR diagnostics of pneumonia in patients with COVID-19. (diagnosed by PCR and CT)</measure>
+    <time_frame>30 days</time_frame>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">195</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID - 19 patients</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID - 19 and pneumonia patients</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Health patients</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Passive Microwave Radiometry</intervention_name>
+    <description>The MWR2020 (ormer RTM-01-RES) device is a unique commercially available CE marked device. It is registered in UK MHRA MDN 40802 as Microwave thermography system for clinical studies. The device is already registered in Kyrgyzstan for breast cancer diagnostics. During the 1980-90s there were several works on identification of excess of microwave emission due to fluid in lungs (on phantoms) which could be indication of inflammatory, process, cancer and other lung disorders.Later results were confirmed by clinical studies for lung cancer</description>
+    <arm_group_label>COVID - 19 and pneumonia patients</arm_group_label>
+    <arm_group_label>COVID - 19 patients</arm_group_label>
+    <arm_group_label>Health patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male and female gender, age 18-75 years
+
+          -  Positive RT-PCR result of COVID-19
+
+          -  Place of birth and residence (&lt;800m above sea level)
+
+          -  Informed consent
+
+        Exclusion Criteria:
+
+          -  - Lack of fever in a healthy group
+
+          -  Exacerbation of COPD, very severe COPD with hypoxia (FEV1 &lt;40%, saturation &lt;92% at an
+             altitude of 760 m).
+
+          -  Co-morbidities, such as cardiovascular diseases, i.e. unstable systemic arterial
+             hypertension, coronary heart disease; stroke; sleep apnea; pneumothorax last 2 months.
+
+          -  Neurological, rheumatological or psychiatric illnesses, including excessive smoking (&gt;
+             20 cigarettes per day)
+
+          -  Kidney failure
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>50/50</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Educational - clinical - scientific medical center of KSMA</name>
+      <address>
+        <city>Bishkek</city>
+        <state>Chui</state>
+        <zip>720020</zip>
+        <country>Kyrgyzstan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Kyrgyzstan</country>
+  </location_countries>
+  <reference>
+    <citation>Sahu KK, Mishra AK, Lal A. Comprehensive update on current outbreak of novel coronavirus infection (2019-nCoV). Ann Transl Med. 2020 Mar;8(6):393. doi: 10.21037/atm.2020.02.92. Review.</citation>
+    <PMID>32355837</PMID>
+  </reference>
+  <reference>
+    <citation>Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, Wang W, Song H, Huang B, Zhu N, Bi Y, Ma X, Zhan F, Wang L, Hu T, Zhou H, Hu Z, Zhou W, Zhao L, Chen J, Meng Y, Wang J, Lin Y, Yuan J, Xie Z, Ma J, Liu WJ, Wang D, Xu W, Holmes EC, Gao GF, Wu G, Chen W, Shi W, Tan W. Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet. 2020 Feb 22;395(10224):565-574. doi: 10.1016/S0140-6736(20)30251-8. Epub 2020 Jan 30.</citation>
+    <PMID>32007145</PMID>
+  </reference>
+  <reference>
+    <citation>Wu D, Wu T, Liu Q, Yang Z. The SARS-CoV-2 outbreak: What we know. Int J Infect Dis. 2020 May;94:44-48. doi: 10.1016/j.ijid.2020.03.004. Epub 2020 Mar 12. Review.</citation>
+    <PMID>32171952</PMID>
+  </reference>
+  <reference>
+    <citation>Liu K, Chen Y, Lin R, Han K. Clinical features of COVID-19 in elderly patients: A comparison with young and middle-aged patients. J Infect. 2020 Jun;80(6):e14-e18. doi: 10.1016/j.jinf.2020.03.005. Epub 2020 Mar 27.</citation>
+    <PMID>32171866</PMID>
+  </reference>
+  <reference>
+    <citation>Zhong Z, Hu Y, Yu Q, Li Y, Li P, Huang W, Liu J, Liu J, Xie X, Zhao W. Multistage CT features of coronavirus disease 2019. Zhong Nan Da Xue Xue Bao Yi Xue Ban. 2020 Mar 28;45(3):250-256. doi: 10.11817/j.issn.1672-7347.2020.200144. English, Chinese.</citation>
+    <PMID>32386015</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 29, 2020</study_first_posted>
+  <last_update_submitted>September 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Kyrgyz State Medical Academy</investigator_affiliation>
+    <investigator_full_name>Batyr Osmonov</investigator_full_name>
+    <investigator_title>Head of respiratory department</investigator_title>
+  </responsible_party>
+  <keyword>CT - scan</keyword>
+  <keyword>X-Ray</keyword>
+  <keyword>MWR</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="694">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04504734</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RT-003</org_study_id>
+    <nct_id>NCT04504734</nct_id>
+  </id_info>
+  <brief_title>Bucillamine in Treatment of Patients With COVID-19</brief_title>
+  <official_title>Multi-Center, Randomized, Double-Blind, Placebo-Controlled Study of Bucillamine in Patients With Mild-Moderate COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Revive Therapeutics, Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Revive Therapeutics, Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 3, multi-center, randomized, double blind, placebo controlled, clinical study
+      of bucillamine (2 dosage levels) in patients with mild-moderate COVID-19. Patients will be
+      randomized 1:1:1 to receive bucillamine 100 mg 3 times a day (TID), bucillamine 200 mg TID or
+      placebo TID for up to 14 days. After the first interim analysis when a single dose is
+      selected, patients will then be randomized 2:1 to the selected bucillamine dose or placebo
+      The study will be overseen by an independent Data and Safety Monitoring Board (DSMB). Up to
+      10 centers in the United States will conduct this study. Up to 1000 patients will be enrolled
+      in this study. Patients will participate in the study approximately 45 days.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 3, multi-center, randomized, double blind, placebo controlled, clinical study
+      of bucillamine (2 dosage levels) in patients with mild-moderate COVID-19. Patients will be
+      randomized 1:1:1 to receive bucillamine 100 mg 3 times a day (TID), bucillamine 200 mg TID or
+      placebo TID for up to 14 days. After the first interim analysis when a single dose is
+      selected, patients will then be randomized 2:1 to the selected bucillamine dose or placebo
+      The study will be overseen by an independent Data and Safety Monitoring Board (DSMB). Up to
+      10 centers in the United States will conduct this study.
+
+      Patients qualifying for study enrollment will initiate therapy as outpatients, under home
+      quarantine. Patients will receive continued standard care of therapy (per study site written
+      policies or guidelines) together with bucillamine and/ or matching placebo for up to 14 days.
+      Dosing should continue until the treatment course is completed or as medically indicated
+      (e.g., deterioration of clinical status and alternative therapy required). If the patient
+      requires hospitalization during the study period, treatment will be discontinued.
+
+      Following completion of the treatment course, follow up assessments will be performed by a
+      study nurse 14, 28, 42, and 60 days following the end of treatment.
+
+      Up to 1000 patients will be enrolled in this study. Patients will participate in the study
+      approximately 45 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Anticipated">September 30, 2020</start_date>
+  <completion_date type="Anticipated">May 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-blind, placebo controlled</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Efficacy: Frequency of hospitalization or death</measure>
+    <time_frame>From time of first dose through Day 28 following randomization</time_frame>
+    <description>Proportion of patients meeting a composite endpoint of hospitalization or death</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety: Changes in adverse events from baseline to end of study</measure>
+    <time_frame>From time of first dose through Day 28 following randomization</time_frame>
+    <description>Number of adverse events</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Bucillamine low dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Bucillamine 100 mg 3 times a day (TID)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bucillamine high dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Bucillamine 200 mg 3 times a day (TID)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo, 3 times a day (TID)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bucillamine</intervention_name>
+    <description>100mg tablets</description>
+    <arm_group_label>Bucillamine low dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>100mg tablets</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bucillamine</intervention_name>
+    <description>200mg tablets</description>
+    <arm_group_label>Bucillamine high dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Is within 72 hours from onset of symptoms consistent with COVID 19 at time of study
+             enrollment
+
+          -  Has at least 2 of the following: fever (oral temperature ≥38°C), cough, shortness of
+             breath, chest x ray changes consistent with COVID-19 at time of screening
+
+          -  Has peripheral capillary oxygen saturation (SpO2) ≥94 by pulse oximetry at time of
+             screening
+
+          -  Has either a laboratory-confirmed SARS-CoV-2 infection as determined by FDA-approved
+             rapid diagnostic (e.g., PCR) assay
+
+          -  Has a score of ≤ 2 on the 8-category NIAID ordinal scale at time of screening
+
+          -  Agrees to the collection of blood and urine samples, nasopharyngeal (NP) swabs, and
+             non-invasive oxygen monitoring (via pulse oximeter) per protocol
+
+          -  Patient (or their legally authorized representative) is willing and able to provide
+             written informed consent prior to performing study procedures
+
+          -  Understands and agrees to comply with planned study procedures
+
+          -  Women of childbearing potential must agree to either abstinence or use at least 1
+             primary form of contraception not including hormonal contraception from the time of
+             screening through Day 29 following randomization. All subjects of childbearing
+             potential, including males with partners of childbearing potential, must use highly
+             effective methods of birth control defined as those, alone or in combination, that
+             result in a low failure rate (i.e., less than 1 percent per year) when used
+             consistently and correctly. Abstinence is NOT an acceptable method of contraception
+             UNLESS it is the subject's normal practice.
+
+        Exclusion Criteria:
+
+          -  Prior history of, or considered to be at risk for, agranulocytosis, nephropathy, liver
+             disease, or interstitial pneumonia
+
+          -  Serious hepatic disorder (Child-Pugh scores B or C) or alanine transaminase (ALT) or
+             aspartate transaminase (AST) &gt; 5 times the upper limit of normal (ULN) at screening
+
+          -  Chronic kidney disease (CKD) National Kidney Foundation (NKF) stages 3B - 5 chronic
+             renal dysfunction (estimated glomerular filtration rate [eGFR] &lt;45 mL/min/1.73m2
+             according to Cockcroft Gault formula)
+
+          -  Proteinuria ≥ 1+ or ≥ 30 mg on dipstick urinalysis that is confirmed on repeat
+             assessment within 24 hours
+
+          -  Serum BUN ≥ 2 × ULN or Cr ≥ 2 × ULN
+
+          -  Leukopenia with absolute granulocyte count &lt; 1500/µL
+
+          -  History of positive Human Immunodeficiency virus (HIV) test or organ transplant
+
+          -  Receipt of cancer chemotherapy or immunomodulatory drugs including (but not limited
+             to) biologics such as anti-CD20, anti-TNF, anti-IL6; alkylating agents (e.g.,
+             cyclophosphamide); antimetabolites (e.g., azathioprine); or chronic corticosteroid use
+             equivalent to prednisone &gt;10 gm/day, during preceding 2 months
+
+          -  Confirmed positive for influenza at screening
+
+          -  Confirmed positive for respiratory syncytial virus (RSV) at screening
+
+          -  Pregnant or breastfeeding
+
+          -  Current use of, or known allergy to bucillamine or penicillamine (e.g., for Wilson's
+             disease, rheumatoid arthritis)
+
+          -  Current participation in any other clinical trial of an experimental treatment
+
+          -  Receipt of any experimental treatment for COVID-19 (herbal/homeopathic, off-label,
+             compassionate use, or trial related) within the 30 days prior to screening
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Modesto</city>
+        <state>California</state>
+        <zip>95350</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Stite</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 7, 2020</study_first_posted>
+  <last_update_submitted>September 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bucillamine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

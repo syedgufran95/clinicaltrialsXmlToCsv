@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="635">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04534803</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB20-1243</org_study_id>
+    <nct_id>NCT04534803</nct_id>
+  </id_info>
+  <brief_title>BCG Against Covid-19 for Prevention and Amelioration of Severity Trial (BAC to the PAST)</brief_title>
+  <official_title>Bacillus Calmette-Guerin Against Covid-19 for Prevention and Amelioration of Severity Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Harvard Medical School</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Texas Medical Research Associates, L.L.C.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Harvard Medical School</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the efficacy of Bacille Calmette-Guérin (BCG)
+      vaccination compared to placebo in reducing severe Covid-19 disease among elderly residents
+      of skilled nursing facilities. The investigators hypothesize that BCG vaccination can reduce
+      severity of Covid-19 disease. Patients who are residents of participating long-term care
+      facilities (LTCFs), with the ability to understand and cooperate with study procedures, who
+      agree to participate in the study will be randomly assigned to receive BCG vaccination or a
+      placebo. Participants will be followed for up to twelve months to assess severity of Covid-19
+      outcomes.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase III, double-blind, randomized placebo-controlled trial comparing efficacy of
+      BCG vaccination to that of placebo in reducing severity of Covid-19. Participants will need
+      to meet eligibility criteria in order to be included in the study. Those selected, will be
+      asked to provide a blood or saliva sample for Covid-19 serological test and an Interferon
+      gamma release assay (IGRA) test for tuberculosis infection, only if IGRA or tuberculin skin
+      test (TST) result is not available from the previous year. Participants will be randomized in
+      a 1:1 allocation to receive intradermal administration of BCG vaccination or placebo at
+      baseline. During follow-up, the study team will extract participants information from nursing
+      home records regarding Covid-19-like symptoms, diagnosis, outcomes, as well as any adverse
+      side effects of BCG vaccination. At 6 and 12 months of follow up, an additional blood or
+      saliva sample will be collected to perform a Covid-19 serological test.
+
+      The investigators will screen 2,500 individuals to enroll 2,100 participants, resulting in
+      1,050 receiving BCG vaccine and 1,050 receiving placebo. The proposed enrollment sample size
+      is designed to provide 80% power to detect 60% vaccine efficacy (a relative risk of 0.4 among
+      the vaccinated) with 0.05 type-1 error in a two-tailed test, assuming a Covid-19 attack rate
+      of 10% in elderly NH and 38.5% severe Covid-19 among the infected patients, and a design
+      effect = 1.2, and 15% lost during the 6-month follow-up. The number of individuals screened
+      assumes about 20% will not be eligible/agree to be enrolled.
+
+      Note that the 60% vaccine efficacy was based on the observed three-fold decline in
+      respiratory infections in the adolescent cohort.
+
+      Objective: To assess the efficacy of BCG vaccination compared to placebo in reducing severe
+      Covid-19 disease among elderly residents of skilled nursing facilities.
+
+      Primary Endpoint 1: Cases of Covid-19 disease classified as severe. Severe COVID-19 disease
+      will be defined as: COVID-19 disease with hospitalization, death, or non-hospitalized severe
+      disease where non-hospitalized severe disease is defined as a change in status including
+      administration of new supplemental oxygen or decline in oxygen saturation of 10%; change from
+      ambulant to non-ambulant status of 3+ days; new change in mental status as documented in the
+      electronic health record
+
+      The investigators will use the Cox proportional-hazards model to calculate hazard ratios for
+      the development of severe Covid-19 between the BCG and placebo arms.
+
+      If BCG vaccine is shown to be effective in this age group, it will be of major benefit to
+      both study participants and other elderly individuals at risk for infection and disease from
+      Covid-19. With no other vaccine alternative currently available, an efficacy of even 50%
+      could reduce the death rate among infected patients accordingly. BCG has been reported to
+      have a variety of other possible benefits including reduction in the risk of TB disease,
+      Alzheimer's Disease and reduction in other respiratory infection. Because these benefits have
+      not been proven in clinical trials, they will not be presented to potential participants.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized in a 1:1 allocation to receive intradermal administration of BCG vaccination or placebo.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Participants and investigators and designated staff whose responsibility will be to administer the BCG vaccine or placebo will be blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To assess the efficacy of BCG vaccination compared to placebo in reducing severe Covid-19 disease among elderly residents of skilled nursing facilities.</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of people diagnosed with severe Covid-19 disease as documented in the electronic heath record; severe Covid-19 disease is defined as any instance of death, hospitalization, or non-hospitalization but requiring new administration of supplemental oxygen or having a decline in oxygen saturation of 10%, change from ambulant to non-ambulant for 3 or more days, or any new change in mental health status.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To assess the efficacy of BCG vaccination compared to placebo in reducing the following among elderly residents of skilled nursing facilities (by number of cases)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of cases of any COVID-19 disease, defined as a positive SARS-Cov-2 test (per PCR or serology), plus fever (as documented in EHR) or at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (as documented in EHR.)
+Number of cases of asymptomatic SARS-CoV-2 infection, defined as evidence of SARS-CoV-2 infection (by PCR or seroconversion), absence of associated respiratory illness (as documented in EHR), and no evidence of exposure prior to randomization (baseline serology will be negative).
+Number of cases of critical care admissions with SARS-CoV-2, defined as the number of admissions to critical care associated with a positive SARS-CoV-2 test.
+Number of cases of critical care admission duration with SARS-CoV-2, defined as the number of days admitted to critical care (using medical/hospital records) associated with a positive SARS-CoV-2 test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the efficacy of BCG vaccination compared to placebo in reducing the following among elderly residents of skilled nursing facilities (by number of cases), continued</measure>
+    <time_frame>12 months</time_frame>
+    <description>5. Number of cases of critical care admissions, defined as the number of admissions to critical care.
+6. Number of cases of mechanical ventilation with SARS-CoV-2, defined as the number of participants needing mechanical ventilation (as documented by EHR) and associated with a positive SARS-CoV-2 test.
+7. Number of cases of mechanical ventilation, defined as the number of participants needing mechanical ventilation.
+8. Number of cases of All-Cause Mortality, defined as death reported by the long-term care facility.
+9. Number of cases of any fever or respiratory illness, defined as fever (as documented in EHR), or at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (as documented in EHR).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the efficacy of BCG vaccination compared to placebo in reducing the following among elderly residents of skilled nursing facilities (by number of episodes)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of episodes of fever or respiratory illness, defined as fever (as documented in EHR), or at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (as documented in EHR).
+Number of episodes of any COVID-19 disease, defined as a positive SARS-Cov-2 test (per PCR or serology), plus fever (as documented in EHR) or at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (as documented in EHR.)
+Number of episodes of local and systemic adverse events to BCG vaccination measured over the 3 months following randomization (type and severity of local and systemic adverse events will be collected and graded using toxicity grading scale).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess the efficacy of BCG vaccination compared to placebo in reducing the following among elderly residents of skilled nursing facilities (by number of days)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of days of symptom duration of fever or respiratory illness, defined as number of days with symptoms in any episode of illness that meets the case definition for fever or respiratory illness, defined as fever (as documented in EHR), or at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (as documented in EHR).
+Number of days of COVID-19 symptom duration, defined as the number of days with symptoms in any episode of illness that meets the case definition for any COVID-19 disease.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>BCG Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to the BCG arm will receive BCG vaccine. The vaccination site is about halfway down the outer aspect of the upper arm.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be administered in an intradermal route in the same location as the BCG vaccines: upper arm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BCG Vaccine</intervention_name>
+    <description>.1 mL of reconstituted BCG vaccine given intradermally at baseline.</description>
+    <arm_group_label>BCG Vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>.1 nL of diluent (saline) given intradermally at baseline</description>
+    <arm_group_label>Placebo Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion:
+
+          -  Residents of a participating LTCF
+
+          -  70 years or older
+
+          -  Ability to understand and cooperate with study procedures including dressing care.
+
+               -  Nursing home staff or the research team will ensure participants are correctly
+                  doing dressing care.
+
+        Exclusion:
+
+          -  Previous or current SARS-CoV2 infection/Covid-19 disease defined by documentation of
+             disease in clinical chart or positive PCR test.
+
+          -  Previous or known active TB disease
+
+          -  Does not have an established proxy or guardian, but has cognitive impairment that
+             would prohibit the participant from fully understanding the extent of study
+             requirements and risks, or prohibit their ability to provide informed consent.
+
+          -  Obesity (Body Mass Index [BMI] &gt; 35)
+
+          -  Fever (&gt;38 C) within the past 24 hours
+
+          -  Current or historic serious underlying medical conditions:
+
+               -  HIV+
+
+               -  History of organ or bone marrow transplantation
+
+               -  History of major immunodeficiency disorder
+
+               -  Active solid or hematologic malignancy diagnosed within the past two years
+
+               -  Presence of significant neurologic disease, eg. Alzheimer's disease
+
+          -  Receipt of any of the following drugs:
+
+               -  Currently taking immunosuppressive or immunomodulatory drugs (inhalers and/or
+                  prednisone are acceptable to take)
+
+                    -  The Prednisone doses equivalent &gt; 2 mg/kg or &gt; 20 mg per day of prednisone
+                       administered for &gt;/= 2 weeks are immunosuppressive and should be avoided
+                       with live vaccines.
+
+               -  Expect to receive chemotherapy in the coming six months, receipt of chemotherapy
+                  in the past six months or undergoing chemotherapy
+
+               -  Currently on any anti-cytokine therapy
+
+               -  Taking metformin treatment
+
+               -  Suspicion of active viral or bacterial infection
+
+               -  Plan to leave the nursing home within the next 6 months
+
+               -  Taking part in another intervention-based trial for Covid-19
+
+               -  Allergy to any component of the BCG vaccine or an anaphylactic or allergic
+                  reaction to a previous dose of BCG vaccination
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>70 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Megan B Murray, MD, ScD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Harvard Medical School</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ximena C Tovar</last_name>
+    <phone>617-432-5540</phone>
+    <email>ximena_tovar@hms.harvard.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Meredith Brooks, PhD</last_name>
+    <phone>617-432-2241</phone>
+    <email>meredith_brooks@hms.harvard.edu</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://coronavirus.jhu.edu/map.html</url>
+    <description>Related Info</description>
+  </link>
+  <link>
+    <url>https://data.cms.gov/stories/s/COVID-19-Nursing-Home-Data/bkwz-xpvg</url>
+    <description>Covid-19 Nursing Home Data</description>
+  </link>
+  <reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </reference>
+  <reference>
+    <citation>Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng J, Song Y. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med. 2020 Jul 1;180(7):934-943. doi: 10.1001/jamainternmed.2020.0994.</citation>
+    <PMID>32167524</PMID>
+  </reference>
+  <reference>
+    <citation>Chen T, Wu D, Chen H, Yan W, Yang D, Chen G, Ma K, Xu D, Yu H, Wang H, Wang T, Guo W, Chen J, Ding C, Zhang X, Huang J, Han M, Li S, Luo X, Zhao J, Ning Q. Clinical characteristics of 113 deceased patients with coronavirus disease 2019: retrospective study. BMJ. 2020 Mar 26;368:m1091. doi: 10.1136/bmj.m1091. Erratum in: BMJ. 2020 Mar 31;368:m1295.</citation>
+    <PMID>32217556</PMID>
+  </reference>
+  <reference>
+    <citation>Arentz M, Yim E, Klaff L, Lokhandwala S, Riedo FX, Chong M, Lee M. Characteristics and Outcomes of 21 Critically Ill Patients With COVID-19 in Washington State. JAMA. 2020 Apr 28;323(16):1612-1614. doi: 10.1001/jama.2020.4326.</citation>
+    <PMID>32191259</PMID>
+  </reference>
+  <reference>
+    <citation>Cao J, Tu WJ, Cheng W, Yu L, Liu YK, Hu X, Liu Q. Clinical Features and Short-term Outcomes of 102 Patients with Coronavirus Disease 2019 in Wuhan, China. Clin Infect Dis. 2020 Jul 28;71(15):748-755. doi: 10.1093/cid/ciaa243.</citation>
+    <PMID>32239127</PMID>
+  </reference>
+  <reference>
+    <citation>Basu-Ray, I.S., M.P., Cardiac Manifestations Of Coronavirus (COVID-19), in StatPearls. 2020, StatPearls Publishing: Treasure Island (FL).</citation>
+  </reference>
+  <reference>
+    <citation>Danzi GB, Loffi M, Galeazzi G, Gherbesi E. Acute pulmonary embolism and COVID-19 pneumonia: a random association? Eur Heart J. 2020 May 14;41(19):1858. doi: 10.1093/eurheartj/ehaa254.</citation>
+    <PMID>32227120</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang Y, Xiao M, Zhang S, Xia P, Cao W, Jiang W, Chen H, Ding X, Zhao H, Zhang H, Wang C, Zhao J, Sun X, Tian R, Wu W, Wu D, Ma J, Chen Y, Zhang D, Xie J, Yan X, Zhou X, Liu Z, Wang J, Du B, Qin Y, Gao P, Qin X, Xu Y, Zhang W, Li T, Zhang F, Zhao Y, Li Y, Zhang S. Coagulopathy and Antiphospholipid Antibodies in Patients with Covid-19. N Engl J Med. 2020 Apr 23;382(17):e38. doi: 10.1056/NEJMc2007575. Epub 2020 Apr 8.</citation>
+    <PMID>32268022</PMID>
+  </reference>
+  <reference>
+    <citation>Klok FA, Kruip MJHA, van der Meer NJM, Arbous MS, Gommers DAMPJ, Kant KM, Kaptein FHJ, van Paassen J, Stals MAM, Huisman MV, Endeman H. Incidence of thrombotic complications in critically ill ICU patients with COVID-19. Thromb Res. 2020 Jul;191:145-147. doi: 10.1016/j.thromres.2020.04.013. Epub 2020 Apr 10.</citation>
+    <PMID>32291094</PMID>
+  </reference>
+  <reference>
+    <citation>Alunno A, Carubbi F, Rodríguez-Carrio J. Storm, typhoon, cyclone or hurricane in patients with COVID-19? Beware of the same storm that has a different origin. RMD Open. 2020 May;6(1). pii: e001295. doi: 10.1136/rmdopen-2020-001295.</citation>
+    <PMID>32423970</PMID>
+  </reference>
+  <reference>
+    <citation>Salehi S, Abedi A, Balakrishnan S, Gholamrezanezhad A. Coronavirus Disease 2019 (COVID-19): A Systematic Review of Imaging Findings in 919 Patients. AJR Am J Roentgenol. 2020 Jul;215(1):87-93. doi: 10.2214/AJR.20.23034. Epub 2020 Mar 14.</citation>
+    <PMID>32174129</PMID>
+  </reference>
+  <reference>
+    <citation>Stam HJ, Stucki G, Bickenbach J. Covid-19 and Post Intensive Care Syndrome: A Call for Action. J Rehabil Med. 2020 Apr 15;52(4):jrm00044. doi: 10.2340/16501977-2677.</citation>
+    <PMID>32286675</PMID>
+  </reference>
+  <reference>
+    <citation>Onder G, Rezza G, Brusaferro S. Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy. JAMA. 2020 May 12;323(18):1775-1776. doi: 10.1001/jama.2020.4683.</citation>
+    <PMID>32203977</PMID>
+  </reference>
+  <reference>
+    <citation>Richardson S, Hirsch JS, Narasimhan M, Crawford JM, McGinn T, Davidson KW; the Northwell COVID-19 Research Consortium, Barnaby DP, Becker LB, Chelico JD, Cohen SL, Cookingham J, Coppa K, Diefenbach MA, Dominello AJ, Duer-Hefele J, Falzon L, Gitlin J, Hajizadeh N, Harvin TG, Hirschwerk DA, Kim EJ, Kozel ZM, Marrast LM, Mogavero JN, Osorio GA, Qiu M, Zanos TP. Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area. JAMA. 2020 May 26;323(20):2052-2059. doi: 10.1001/jama.2020.6775. Erratum in: JAMA. 2020 May 26;323(20):2098.</citation>
+    <PMID>32320003</PMID>
+  </reference>
+  <reference>
+    <citation>Collaborative, T.O. OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients. medRxiv, 2020.</citation>
+  </reference>
+  <reference>
+    <citation>National Center for Immunization and Respiratory Diseases (NCIRD), D.o.V.D. COVID-19 in Racial and Ethnic Minority Groups. 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Smith, K.C., I.M. Orme, and J.R. Starke, 35 - Tuberculosis vaccines, in Vaccines (Sixth Edition), S.A. Plotkin, W.A. Orenstein, and P.A. Offit, Editors. 2013, W.B. Saunders: London. p. 789-811.</citation>
+  </reference>
+  <reference>
+    <citation>Fine PE. Variation in protection by BCG: implications of and for heterologous immunity. Lancet. 1995 Nov 18;346(8986):1339-45. Review. Erratum in: Lancet 1996 Feb 3;347(8997):340.</citation>
+    <PMID>7475776</PMID>
+  </reference>
+  <reference>
+    <citation>Aaby P, Benn CS. Saving lives by training innate immunity with bacille Calmette-Guerin vaccine. Proc Natl Acad Sci U S A. 2012 Oct 23;109(43):17317-8. doi: 10.1073/pnas.1215761109. Epub 2012 Oct 15.</citation>
+    <PMID>23071307</PMID>
+  </reference>
+  <reference>
+    <citation>Calmette A. Preventive Vaccination Against Tuberculosis with BCG. Proc R Soc Med. 1931 Sep;24(11):1481-90.</citation>
+    <PMID>19988326</PMID>
+  </reference>
+  <reference>
+    <citation>Roth A, Gustafson P, Nhaga A, Djana Q, Poulsen A, Garly ML, Jensen H, Sodemann M, Rodriques A, Aaby P. BCG vaccination scar associated with better childhood survival in Guinea-Bissau. Int J Epidemiol. 2005 Jun;34(3):540-7. Epub 2005 Jan 19.</citation>
+    <PMID>15659474</PMID>
+  </reference>
+  <reference>
+    <citation>Shann F. The non-specific effects of vaccines. Arch Dis Child. 2010 Sep;95(9):662-7. doi: 10.1136/adc.2009.157537. Review.</citation>
+    <PMID>20716675</PMID>
+  </reference>
+  <reference>
+    <citation>Shann F. Nonspecific effects of vaccines and the reduction of mortality in children. Clin Ther. 2013 Feb;35(2):109-14. doi: 10.1016/j.clinthera.2013.01.007. Epub 2013 Jan 31. Review.</citation>
+    <PMID>23375475</PMID>
+  </reference>
+  <reference>
+    <citation>Higgins JP, Soares-Weiser K, López-López JA, Kakourou A, Chaplin K, Christensen H, Martin NK, Sterne JA, Reingold AL. Association of BCG, DTP, and measles containing vaccines with childhood mortality: systematic review. BMJ. 2016 Oct 13;355:i5170. doi: 10.1136/bmj.i5170. Review. Erratum in: BMJ. 2017 Mar 8;356:j1241.</citation>
+    <PMID>27737834</PMID>
+  </reference>
+  <reference>
+    <citation>Stensballe LG, Nante E, Jensen IP, Kofoed PE, Poulsen A, Jensen H, Newport M, Marchant A, Aaby P. Acute lower respiratory tract infections and respiratory syncytial virus in infants in Guinea-Bissau: a beneficial effect of BCG vaccination for girls community based case-control study. Vaccine. 2005 Jan 26;23(10):1251-7.</citation>
+    <PMID>15652667</PMID>
+  </reference>
+  <reference>
+    <citation>DUBOS RJ, SCHAEDLER RW. Effects of cellular constituents of mycobacteria on the resistance of mice to heterologous infections I. Protective effects. J Exp Med. 1957 Nov 1;106(5):703-17.</citation>
+    <PMID>13475625</PMID>
+  </reference>
+  <reference>
+    <citation>HOWARD JG, BIOZZI G, HALPERN BN, STIFFEL C, MOUTON D. The effect of Mycobacterium tuberculosis (BCG) infection on the resistance of mice to bacterial endotoxin and Salmonella enteritidis infection. Br J Exp Pathol. 1959 Jun;40(3):281-90.</citation>
+    <PMID>13662534</PMID>
+  </reference>
+  <reference>
+    <citation>Sher NA, Chaparas SD, Greenberg LE, Bernard S. Effects of BCG, Corynebacterium parvum, and methanol-extration residue in the reduction of mortality from Staphylococcus aureus and Candida albicans infections in immunosuppressed mice. Infect Immun. 1975 Dec;12(6):1325-30.</citation>
+    <PMID>1107224</PMID>
+  </reference>
+  <reference>
+    <citation>Fagelman KM, Flint LM Jr, McCoy MT, Polk HC Jr, Trachtenberg LS. Simulated surgical wound infection in mice: effect of stimulation on nonspecific host defense mechanisms. Arch Surg. 1981 Jun;116(6):761-4.</citation>
+    <PMID>7016070</PMID>
+  </reference>
+  <reference>
+    <citation>Ortiz-Ortiz L, Gonzalez-Mendoza A, Lamoyi E. A vaccination procedure against Trypanosoma cruzi infection in mice by nonspecific immunization. J Immunol. 1975 Apr;114(4):1424-5.</citation>
+    <PMID>804010</PMID>
+  </reference>
+  <reference>
+    <citation>Kuhn RE, Vaughn RT, Herbst GA. The effect of BCG on the course of experimental Chagas' disease in mice. Int J Parasitol. 1975 Oct;5(5):557-60.</citation>
+    <PMID>808508</PMID>
+  </reference>
+  <reference>
+    <citation>Hoff R. Killing in vitro of Trypanosoma cruzi by macrophages from mice immunized with T. cruzi or BCG, and absence of cross-immunity on challege in vivo. J Exp Med. 1975 Aug 1;142(2):299-311.</citation>
+    <PMID>806649</PMID>
+  </reference>
+  <reference>
+    <citation>Civil RH, Warren KS, Mahmoud AA. Conditions for bacille Calmette-Guérin-induced resistance to infection with Schistosoma mansoni in mice. J Infect Dis. 1978 May;137(5):550-5.</citation>
+    <PMID>659914</PMID>
+  </reference>
+  <reference>
+    <citation>Smrkovski LL, Larson CL. Effect of treatment with BCG on the course of visceral leishmaniasis in BALB/c mice. Infect Immun. 1977 Apr;16(1):249-57.</citation>
+    <PMID>873609</PMID>
+  </reference>
+  <reference>
+    <citation>Clark IA, Allison AC, Cox FE. Protection of mice against Babesia and Plasmodium with BCG. Nature. 1976 Jan 29;259(5541):309-11.</citation>
+    <PMID>765838</PMID>
+  </reference>
+  <reference>
+    <citation>Parra M, Liu X, Derrick SC, Yang A, Tian J, Kolibab K, Kumar S, Morris SL. Molecular analysis of non-specific protection against murine malaria induced by BCG vaccination. PLoS One. 2013 Jul 4;8(7):e66115. doi: 10.1371/journal.pone.0066115. Print 2013.</citation>
+    <PMID>23861742</PMID>
+  </reference>
+  <reference>
+    <citation>van 't Wout JW, Poell R, van Furth R. The role of BCG/PPD-activated macrophages in resistance against systemic candidiasis in mice. Scand J Immunol. 1992 Nov;36(5):713-9.</citation>
+    <PMID>1439583</PMID>
+  </reference>
+  <reference>
+    <citation>Kleinnijenhuis J, Quintin J, Preijers F, Joosten LA, Ifrim DC, Saeed S, Jacobs C, van Loenhout J, de Jong D, Stunnenberg HG, Xavier RJ, van der Meer JW, van Crevel R, Netea MG. Bacille Calmette-Guerin induces NOD2-dependent nonspecific protection from reinfection via epigenetic reprogramming of monocytes. Proc Natl Acad Sci U S A. 2012 Oct 23;109(43):17537-42. doi: 10.1073/pnas.1202870109. Epub 2012 Sep 17.</citation>
+    <PMID>22988082</PMID>
+  </reference>
+  <reference>
+    <citation>Werner GT. The effect of BCG-vaccination on vaccinia virus infections in mice. Experientia. 1979 Nov 15;35(11):1514-5.</citation>
+    <PMID>389657</PMID>
+  </reference>
+  <reference>
+    <citation>Suenaga T, Okuyama T, Yoshida I, Azuma M. Effect of Mycobacterium tuberculosis BCG infection on the resistance of mice to ectromelia virus infection: participation of interferon in enhanced resistance. Infect Immun. 1978 Apr;20(1):312-4.</citation>
+    <PMID>208973</PMID>
+  </reference>
+  <reference>
+    <citation>Sakuma T, Suenaga T, Yoshida I, Azuma M. Mechanisms of enhanced resistance of Mycobacterium bovis BCG-treated mice to ectromelia virus infection. Infect Immun. 1983 Nov;42(2):567-73.</citation>
+    <PMID>6315580</PMID>
+  </reference>
+  <reference>
+    <citation>Larson CL, Ushijima RN, Karim R, Baker MB, Baker RE. Herpesvirus hominis type 2 infections in rabbits: effect of prior immunization with attenuated Mycobacterium bovis (BCG) cells. Infect Immun. 1972 Oct;6(4):465-8.</citation>
+    <PMID>4344024</PMID>
+  </reference>
+  <reference>
+    <citation>Starr SE, Visintine AM, Tomeh MO, Nahmias AJ. Effects of immunostimulants on resistance of newborn mice to herpes simplex type 2 infection. Proc. Soc. Exp. Biol. Med.. 1976 May;152(1):57-60.</citation>
+    <PMID>177992</PMID>
+  </reference>
+  <reference>
+    <citation>Floc'h F, Werner GH. Increased resistance to virus infections of mice inoculated with BCG (Bacillus calmette-guérin). Ann Immunol (Paris). 1976 Mar-Apr;127(2):173-86.</citation>
+    <PMID>180868</PMID>
+  </reference>
+  <reference>
+    <citation>Spencer JC, Ganguly R, Waldman RH. Nonspecific protection of mice against influenza virus infection by local or systemic immunization with Bacille Calmette-Guérin. J Infect Dis. 1977 Aug;136(2):171-5.</citation>
+    <PMID>894076</PMID>
+  </reference>
+  <reference>
+    <citation>de Bree LCJ, Marijnissen RJ, Kel JM, Rosendahl Huber SK, Aaby P, Benn CS, Wijnands MVW, Diavatopoulos DA, van Crevel R, Joosten LAB, Netea MG, Dulos J. Bacillus Calmette-Guérin-Induced Trained Immunity Is Not Protective for Experimental Influenza A/Anhui/1/2013 (H7N9) Infection in Mice. Front Immunol. 2018 Apr 30;9:869. doi: 10.3389/fimmu.2018.00869. eCollection 2018. Erratum in: Front Immunol. 2018 Oct 25;9:2471.</citation>
+    <PMID>29760700</PMID>
+  </reference>
+  <reference>
+    <citation>Kulkarni S, Mukherjee S, Pandey A, Dahake R, Padmanabhan U, Chowdhary AS. Bacillus Calmette-Guérin Confers Neuroprotection in a Murine Model of Japanese Encephalitis. Neuroimmunomodulation. 2016;23(5-6):278-286. doi: 10.1159/000452171. Epub 2017 Feb 17.</citation>
+    <PMID>28208151</PMID>
+  </reference>
+  <reference>
+    <citation>LEMONDE P, CLODE M. Effect of BCG infection on leukemia and polyoma in mice and hamsters. Proc. Soc. Exp. Biol. Med.. 1962 Dec;111:739-42.</citation>
+    <PMID>13929573</PMID>
+  </reference>
+  <reference>
+    <citation>Houchens DP, Goldberg AI, Gaston MR, Kende M, Goldin A. Studies of the effects of Bacillus Calmette-Guérin on Moloney sarcoma virus-induced tumors in normal and immunosuppressed mice. Cancer Res. 1973 Apr;33(4):685-90.</citation>
+    <PMID>4696469</PMID>
+  </reference>
+  <reference>
+    <citation>Larson CL, Baker RE, Ushijima RN, Baker MB, Gillespie C. Immunotherapy of Friend disease in mice employing viable BCG vaccine. Proc. Soc. Exp. Biol. Med.. 1972 Jun;140(2):700-2.</citation>
+    <PMID>4556666</PMID>
+  </reference>
+  <reference>
+    <citation>Niobey FM, Duchiade MP, Vasconcelos AG, de Carvalho ML, Leal Mdo C, Valente JG. [Risk factors for death caused by pneumonia in children younger than 1 year old in a metropolitan region of southeastern Brazil. A case- control study]. Rev Saude Publica. 1992 Aug;26(4):229-38. Portuguese.</citation>
+    <PMID>1342506</PMID>
+  </reference>
+  <reference>
+    <citation>Hollm-Delgado MG, Stuart EA, Black RE. Acute lower respiratory infection among Bacille Calmette-Guérin (BCG)-vaccinated children. Pediatrics. 2014 Jan;133(1):e73-81. doi: 10.1542/peds.2013-2218. Epub 2013 Dec 30.</citation>
+    <PMID>24379224</PMID>
+  </reference>
+  <reference>
+    <citation>de Castro MJ, Pardo-Seco J, Martinón-Torres F. Nonspecific (Heterologous) Protection of Neonatal BCG Vaccination Against Hospitalization Due to Respiratory Infection and Sepsis. Clin Infect Dis. 2015 Jun 1;60(11):1611-9. doi: 10.1093/cid/civ144. Epub 2015 Feb 27.</citation>
+    <PMID>25725054</PMID>
+  </reference>
+  <reference>
+    <citation>Chisti MJ, Salam MA, Ahmed T, Shahid AS, Shahunja KM, Faruque AS, Bardhan PK, Hossain MI, Islam MM, Das SK, Huq S, Shahrin L, Huq E, Chowdhury F, Ashraf H. Lack of BCG vaccination and other risk factors for bacteraemia in severely malnourished children with pneumonia. Epidemiol Infect. 2015 Mar;143(4):799-803. doi: 10.1017/S0950268814001368. Epub 2014 Jun 3.</citation>
+    <PMID>24892696</PMID>
+  </reference>
+  <reference>
+    <citation>Muthumbi E, Lowe BS, Muyodi C, Getambu E, Gleeson F, Scott JAG. Risk factors for community-acquired pneumonia among adults in Kenya: a case-control study. Pneumonia (Nathan). 2017 Nov 25;9:17. doi: 10.1186/s41479-017-0041-2. eCollection 2017.</citation>
+    <PMID>29209590</PMID>
+  </reference>
+  <reference>
+    <citation>Stensballe LG, Ravn H, Birk NM, Kjærgaard J, Nissen TN, Pihl GT, Thøstesen LM, Greisen G, Jeppesen DL, Kofoed PE, Pryds O, Sørup S, Aaby P, Benn CS. BCG Vaccination at Birth and Rate of Hospitalization for Infection Until 15 Months of Age in Danish Children: A Randomized Clinical Multicenter Trial. J Pediatric Infect Dis Soc. 2019 Jul 1;8(3):213-220. doi: 10.1093/jpids/piy029. Erratum in: J Pediatric Infect Dis Soc. 2020 Feb 28;9(1):106.</citation>
+    <PMID>29635419</PMID>
+  </reference>
+  <reference>
+    <citation>Haahr S, Michelsen SW, Andersson M, Bjorn-Mortensen K, Soborg B, Wohlfahrt J, Melbye M, Koch A. Non-specific effects of BCG vaccination on morbidity among children in Greenland: a population-based cohort study. Int J Epidemiol. 2016 Dec 1;45(6):2122-2130. doi: 10.1093/ije/dyw244.</citation>
+    <PMID>28338723</PMID>
+  </reference>
+  <reference>
+    <citation>Kjærgaard J, Birk NM, Nissen TN, Thøstesen LM, Pihl GT, Benn CS, Jeppesen DL, Pryds O, Kofoed PE, Aaby P, Greisen G, Stensballe LG. Nonspecific effect of BCG vaccination at birth on early childhood infections: a randomized, clinical multicenter trial. Pediatr Res. 2016 Nov;80(5):681-685. doi: 10.1038/pr.2016.142. Epub 2016 Jul 18.</citation>
+    <PMID>27429204</PMID>
+  </reference>
+  <reference>
+    <citation>Wardhana, Datau EA, Sultana A, Mandang VV, Jim E. The efficacy of Bacillus Calmette-Guerin vaccinations for the prevention of acute upper respiratory tract infection in the elderly. Acta Med Indones. 2011 Jul;43(3):185-90.</citation>
+    <PMID>21979284</PMID>
+  </reference>
+  <reference>
+    <citation>Nemes E, Geldenhuys H, Rozot V, Rutkowski KT, Ratangee F, Bilek N, Mabwe S, Makhethe L, Erasmus M, Toefy A, Mulenga H, Hanekom WA, Self SG, Bekker LG, Ryall R, Gurunathan S, DiazGranados CA, Andersen P, Kromann I, Evans T, Ellis RD, Landry B, Hokey DA, Hopkins R, Ginsberg AM, Scriba TJ, Hatherill M; C-040-404 Study Team. Prevention of M. tuberculosis Infection with H4:IC31 Vaccine or BCG Revaccination. N Engl J Med. 2018 Jul 12;379(2):138-149. doi: 10.1056/NEJMoa1714021.</citation>
+    <PMID>29996082</PMID>
+  </reference>
+  <reference>
+    <citation>Anderson FD, Ushijima RN, Larson CL. Recurrent herpes genitalis. Treatment with Mycobacterium bovis (BCG). Obstet Gynecol. 1974 Jun;43(6):797-805.</citation>
+    <PMID>4364209</PMID>
+  </reference>
+  <reference>
+    <citation>Hippmann G, Wekkeli M, Rosenkranz AR, Jarisch R, Götz M. [Nonspecific immune stimulation with BCG in Herpes simplex recidivans. Follow-up 5 to 10 years after BCG vaccination]. Wien Klin Wochenschr. 1992;104(7):200-4. German.</citation>
+    <PMID>1523844</PMID>
+  </reference>
+  <reference>
+    <citation>Douglas JM, Vontver LA, Stamm WE, Reeves WC, Critchlow C, Remington ML, Holmes KK, Corey L. Ineffectiveness and toxicity of BCG vaccine for the prevention of recurrent genital herpes. Antimicrob Agents Chemother. 1985 Feb;27(2):203-6.</citation>
+    <PMID>3885848</PMID>
+  </reference>
+  <reference>
+    <citation>Podder I, Bhattacharya S, Mishra V, Sarkar TK, Chandra S, Sil A, Pal S, Kumar D, Saha A, Shome K, Bandyopadhyay D, Das NK. Immunotherapy in viral warts with intradermal Bacillus Calmette-Guerin vaccine versus intradermal tuberculin purified protein derivative: A double-blind, randomized controlled trial comparing effectiveness and safety in a tertiary care center in Eastern India. Indian J Dermatol Venereol Leprol. 2017 May-Jun;83(3):411. doi: 10.4103/0378-6323.193623.</citation>
+    <PMID>27852999</PMID>
+  </reference>
+  <reference>
+    <citation>Daulatabad D, Pandhi D, Singal A. BCG vaccine for immunotherapy in warts: is it really safe in a tuberculosis endemic area? Dermatol Ther. 2016 May;29(3):168-72. doi: 10.1111/dth.12336. Epub 2016 Jan 26.</citation>
+    <PMID>26809285</PMID>
+  </reference>
+  <reference>
+    <citation>Salem A, Nofal A, Hosny D. Treatment of common and plane warts in children with topical viable Bacillus Calmette-Guerin. Pediatr Dermatol. 2013 Jan-Feb;30(1):60-3. doi: 10.1111/j.1525-1470.2012.01848.x. Epub 2012 Sep 7.</citation>
+    <PMID>22958215</PMID>
+  </reference>
+  <reference>
+    <citation>Arts RJW, Moorlag SJCFM, Novakovic B, Li Y, Wang SY, Oosting M, Kumar V, Xavier RJ, Wijmenga C, Joosten LAB, Reusken CBEM, Benn CS, Aaby P, Koopmans MP, Stunnenberg HG, van Crevel R, Netea MG. BCG Vaccination Protects against Experimental Viral Infection in Humans through the Induction of Cytokines Associated with Trained Immunity. Cell Host Microbe. 2018 Jan 10;23(1):89-100.e5. doi: 10.1016/j.chom.2017.12.010.</citation>
+    <PMID>29324233</PMID>
+  </reference>
+  <reference>
+    <citation>Brewer MA, Edwards KM, Palmer PS, Hinson HP. Bacille Calmette-Guérin immunization in normal healthy adults. J Infect Dis. 1994 Aug;170(2):476-9.</citation>
+    <PMID>8035041</PMID>
+  </reference>
+  <reference>
+    <citation>Hoft DF, Leonardi C, Milligan T, Nahass GT, Kemp B, Cook S, Tennant J, Carey M. Clinical reactogenicity of intradermal bacille Calmette-Guérin vaccination. Clin Infect Dis. 1999 Apr;28(4):785-90.</citation>
+    <PMID>10825039</PMID>
+  </reference>
+  <reference>
+    <citation>Kemp EB, Belshe RB, Hoft DF. Immune responses stimulated by percutaneous and intradermal bacille Calmette-Guérin. J Infect Dis. 1996 Jul;174(1):113-9.</citation>
+    <PMID>8655980</PMID>
+  </reference>
+  <reference>
+    <citation>Hatherill M, Geldenhuys H, Pienaar B, Suliman S, Chheng P, Debanne SM, Hoft DF, Boom WH, Hanekom WA, Johnson JL. Safety and reactogenicity of BCG revaccination with isoniazid pretreatment in TST positive adults. Vaccine. 2014 Jun 30;32(31):3982-8. doi: 10.1016/j.vaccine.2014.04.084. Epub 2014 May 9.</citation>
+    <PMID>24814553</PMID>
+  </reference>
+  <reference>
+    <citation>Lotte A, Wasz-Höckert O, Poisson N, Dumitrescu N, Verron M, Couvet E. BCG complications. Estimates of the risks among vaccinated subjects and statistical analysis of their main characteristics. Adv Tuberc Res. 1984;21:107-93.</citation>
+    <PMID>6475644</PMID>
+  </reference>
+  <reference>
+    <citation>Lotte A, Wasz-Hockert O, Poisson N, Engbaek H, Landmann H, Quast U, Andrasofszky B, Lugosi L, Vadasz I, Mihailescu P, et al. Second IUATLD study on complications induced by intradermal BCG-vaccination. Bull Int Union Tuberc Lung Dis. 1988 Jun;63(2):47-59. Review.</citation>
+    <PMID>3066422</PMID>
+  </reference>
+  <reference>
+    <citation>BCG vaccines: WHO position paper - February 2018. Wkly Epidemiol Rec. 2018 Feb 23;93(8):73-96. English, French.</citation>
+    <PMID>29474026</PMID>
+  </reference>
+  <reference>
+    <citation>Sakula A. BCG: who were Calmette and Guérin? Thorax. 1983 Nov;38(11):806-12.</citation>
+    <PMID>6359561</PMID>
+  </reference>
+  <reference>
+    <citation>Calmette, A.G., C.; Weill-Halle, B., Essai d'immunisation contre l'infection tuberculeuse. Bull Acad Med Paris, 1924(91): p. 787-796.</citation>
+  </reference>
+  <reference>
+    <citation>Oettinger T, Jørgensen M, Ladefoged A, Hasløv K, Andersen P. Development of the Mycobacterium bovis BCG vaccine: review of the historical and biochemical evidence for a genealogical tree. Tuber Lung Dis. 1999;79(4):243-50. Review.</citation>
+    <PMID>10692993</PMID>
+  </reference>
+  <reference>
+    <citation>Liu J, Tran V, Leung AS, Alexander DC, Zhu B. BCG vaccines: their mechanisms of attenuation and impact on safety and protective efficacy. Hum Vaccin. 2009 Feb;5(2):70-8. Epub 2009 Feb 20. Review.</citation>
+    <PMID>19164935</PMID>
+  </reference>
+  <reference>
+    <citation>Behr MA, Small PM. A historical and molecular phylogeny of BCG strains. Vaccine. 1999 Feb 26;17(7-8):915-22.</citation>
+    <PMID>10067698</PMID>
+  </reference>
+  <reference>
+    <citation>OBAYASHI Y. Dried BCG vaccine. Monogr Ser World Health Organ. 1955;(28):1-220.</citation>
+    <PMID>13268024</PMID>
+  </reference>
+  <reference>
+    <citation>Lind A. The Swedish strain of BCG. Tubercle. 1983 Sep;64(3):223-4.</citation>
+    <PMID>6636307</PMID>
+  </reference>
+  <reference>
+    <citation>WALLGREN, A., INTRADERMAL VACCINATIONS WITH B C G VIRUS: PRELIMINARY NOTE. Journal of the American Medical Association, 1928. 91(24): p. 1876-1881.</citation>
+  </reference>
+  <reference>
+    <citation>Chen JM, Islam ST, Ren H, Liu J. Differential productions of lipid virulence factors among BCG vaccine strains and implications on BCG safety. Vaccine. 2007 Nov 23;25(48):8114-22. Epub 2007 Oct 8.</citation>
+    <PMID>17954004</PMID>
+  </reference>
+  <reference>
+    <citation>Abdallah AM, Hill-Cawthorne GA, Otto TD, Coll F, Guerra-Assunção JA, Gao G, Naeem R, Ansari H, Malas TB, Adroub SA, Verboom T, Ummels R, Zhang H, Panigrahi AK, McNerney R, Brosch R, Clark TG, Behr MA, Bitter W, Pain A. Genomic expression catalogue of a global collection of BCG vaccine strains show evidence for highly diverged metabolic and cell-wall adaptations. Sci Rep. 2015 Oct 21;5:15443. doi: 10.1038/srep15443.</citation>
+    <PMID>26487098</PMID>
+  </reference>
+  <reference>
+    <citation>Taniguchi K, Miyatake Y, Hayashi D, Takami A, Itoh S, Yamamoto S, Hida S, Onozaki K, Takii T. Early-shared Mycobacterium bovis bacillus Calmette-Guérin sub-strains induce Th1 cytokine production in vivo. Microbiol Immunol. 2015 Nov;59(11):684-9. doi: 10.1111/1348-0421.12326.</citation>
+    <PMID>26399380</PMID>
+  </reference>
+  <reference>
+    <citation>Ritz N, Dutta B, Donath S, Casalaz D, Connell TG, Tebruegge M, Robins-Browne R, Hanekom WA, Britton WJ, Curtis N. The influence of bacille Calmette-Guerin vaccine strain on the immune response against tuberculosis: a randomized trial. Am J Respir Crit Care Med. 2012 Jan 15;185(2):213-22. doi: 10.1164/rccm.201104-0714OC. Epub 2011 Nov 3.</citation>
+    <PMID>22071384</PMID>
+  </reference>
+  <reference>
+    <citation>Darrah PA, Patel DT, De Luca PM, Lindsay RW, Davey DF, Flynn BJ, Hoff ST, Andersen P, Reed SG, Morris SL, Roederer M, Seder RA. Multifunctional TH1 cells define a correlate of vaccine-mediated protection against Leishmania major. Nat Med. 2007 Jul;13(7):843-50. Epub 2007 Jun 10.</citation>
+    <PMID>17558415</PMID>
+  </reference>
+  <reference>
+    <citation>Davids V, Hanekom WA, Mansoor N, Gamieldien H, Gelderbloem SJ, Hawkridge A, Hussey GD, Hughes EJ, Soler J, Murray RA, Ress SR, Kaplan G. The effect of bacille Calmette-Guérin vaccine strain and route of administration on induced immune responses in vaccinated infants. J Infect Dis. 2006 Feb 15;193(4):531-6. Epub 2006 Jan 13.</citation>
+    <PMID>16425132</PMID>
+  </reference>
+  <reference>
+    <citation>Brosch R, Gordon SV, Garnier T, Eiglmeier K, Frigui W, Valenti P, Dos Santos S, Duthoy S, Lacroix C, Garcia-Pelayo C, Inwald JK, Golby P, Garcia JN, Hewinson RG, Behr MA, Quail MA, Churcher C, Barrell BG, Parkhill J, Cole ST. Genome plasticity of BCG and impact on vaccine efficacy. Proc Natl Acad Sci U S A. 2007 Mar 27;104(13):5596-601. Epub 2007 Mar 19.</citation>
+    <PMID>17372194</PMID>
+  </reference>
+  <reference>
+    <citation>Schaltz-Buchholzer F, Bjerregaard-Andersen M, Øland CB, Golding C, Stjernholm EB, Monteiro I, Aaby P, Benn CS. Early vaccination with BCG-Denmark or BCG-Japan versus BCG-Russia to healthy newborns in Guinea-Bissau: A randomized controlled trial. Clin Infect Dis. 2019 Nov 3. pii: ciz1080. doi: 10.1093/cid/ciz1080. [Epub ahead of print]</citation>
+    <PMID>31677386</PMID>
+  </reference>
+  <reference>
+    <citation>Mangtani P, Abubakar I, Ariti C, Beynon R, Pimpin L, Fine PE, Rodrigues LC, Smith PG, Lipman M, Whiting PF, Sterne JA. Protection by BCG vaccine against tuberculosis: a systematic review of randomized controlled trials. Clin Infect Dis. 2014 Feb;58(4):470-80. doi: 10.1093/cid/cit790. Epub 2013 Dec 13. Review.</citation>
+    <PMID>24336911</PMID>
+  </reference>
+  <reference>
+    <citation>Favorov M, Ali M, Tursunbayeva A, Aitmagambetova I, Kilgore P, Ismailov S, Chorba T. Comparative tuberculosis (TB) prevention effectiveness in children of Bacillus Calmette-Guérin (BCG) vaccines from different sources, Kazakhstan. PLoS One. 2012;7(3):e32567. doi: 10.1371/journal.pone.0032567. Epub 2012 Mar 9.</citation>
+    <PMID>22427854</PMID>
+  </reference>
+  <reference>
+    <citation>Toida I, Nakata S. [Severe adverse reactions after vaccination with Japanese BCG vaccine: a review]. Kekkaku. 2007 Nov;82(11):809-24. Review. Japanese.</citation>
+    <PMID>18078106</PMID>
+  </reference>
+  <reference>
+    <citation>Jou R, Huang WL, Su WJ. Tokyo-172 BCG vaccination complications, Taiwan. Emerg Infect Dis. 2009 Sep;15(9):1525-6. doi: 10.3201/eid1509.081336.</citation>
+    <PMID>19788832</PMID>
+  </reference>
+  <reference>
+    <citation>Hawkridge A, Hatherill M, Little F, Goetz MA, Barker L, Mahomed H, Sadoff J, Hanekom W, Geiter L, Hussey G; South African BCG trial team. Efficacy of percutaneous versus intradermal BCG in the prevention of tuberculosis in South African infants: randomised trial. BMJ. 2008 Nov 13;337:a2052. doi: 10.1136/bmj.a2052.</citation>
+    <PMID>19008268</PMID>
+  </reference>
+  <reference>
+    <citation>Guérin N, Teulières L, Noba A, Schlumberger M, Bregère P, Chauvin P. Comparison of the safety and immunogenicity of the lyophilized Mérieux seed and the World Health Organization working reference BCG vaccines in school-aged children in Senegal. Vaccine. 1999 Jan;17(2):105-9.</citation>
+    <PMID>9987142</PMID>
+  </reference>
+  <reference>
+    <citation>Escobar LE, Molina-Cruz A, Barillas-Mury C. BCG vaccine protection from severe coronavirus disease 2019 (COVID-19). Proc Natl Acad Sci U S A. 2020 Jul 28;117(30):17720-17726. doi: 10.1073/pnas.2008410117. Epub 2020 Jul 9.</citation>
+    <PMID>32647056</PMID>
+  </reference>
+  <reference>
+    <citation>Gallagher, J., C. Watson, and M. Ledwidge, Association of Bacille Calmette-Guérin (BCG), Adult Pneumococcal and Adult Seasonal Influenza Vaccines with Covid-19 Adjusted Mortality Rates in Level 4 European countries. medRxiv, 2020: p. 2020.06.03.20121624.</citation>
+  </reference>
+  <reference>
+    <citation>Berg MK, Yu Q, Salvador CE, Melani I, Kitayama S. Mandated Bacillus Calmette-Guérin (BCG) vaccination predicts flattened curves for the spread of COVID-19. Sci Adv. 2020 Aug 5;6(32):eabc1463. doi: 10.1126/sciadv.abc1463. eCollection 2020 Aug.</citation>
+    <PMID>32923613</PMID>
+  </reference>
+  <reference>
+    <citation>Klinger D, Blass I, Rappoport N, Linial M. Significantly Improved COVID-19 Outcomes in Countries with Higher BCG Vaccination Coverage: A Multivariable Analysis. Vaccines (Basel). 2020 Jul 11;8(3). pii: E378. doi: 10.3390/vaccines8030378.</citation>
+    <PMID>32664505</PMID>
+  </reference>
+  <reference>
+    <citation>Akiyama, Y. and T. Ishida, Relationship between COVID-19 death toll doubling time and national BCG vaccination policy. medRxiv, 2020: p. 2020.04.06.20055251.</citation>
+  </reference>
+  <reference>
+    <citation>Sheahan T, Morrison TE, Funkhouser W, Uematsu S, Akira S, Baric RS, Heise MT. MyD88 is required for protection from lethal infection with a mouse-adapted SARS-CoV. PLoS Pathog. 2008 Dec;4(12):e1000240. doi: 10.1371/journal.ppat.1000240. Epub 2008 Dec 12.</citation>
+    <PMID>19079579</PMID>
+  </reference>
+  <reference>
+    <citation>Totura AL, Whitmore A, Agnihothram S, Schäfer A, Katze MG, Heise MT, Baric RS. Toll-Like Receptor 3 Signaling via TRIF Contributes to a Protective Innate Immune Response to Severe Acute Respiratory Syndrome Coronavirus Infection. mBio. 2015 May 26;6(3):e00638-15. doi: 10.1128/mBio.00638-15.</citation>
+    <PMID>26015500</PMID>
+  </reference>
+  <reference>
+    <citation>Xu Z, Shi L, Wang Y, Zhang J, Huang L, Zhang C, Liu S, Zhao P, Liu H, Zhu L, Tai Y, Bai C, Gao T, Song J, Xia P, Dong J, Zhao J, Wang FS. Pathological findings of COVID-19 associated with acute respiratory distress syndrome. Lancet Respir Med. 2020 Apr;8(4):420-422. doi: 10.1016/S2213-2600(20)30076-X. Epub 2020 Feb 18. Erratum in: Lancet Respir Med. 2020 Feb 25;:.</citation>
+    <PMID>32085846</PMID>
+  </reference>
+  <reference>
+    <citation>Netea MG, Domínguez-Andrés J, Barreiro LB, Chavakis T, Divangahi M, Fuchs E, Joosten LAB, van der Meer JWM, Mhlanga MM, Mulder WJM, Riksen NP, Schlitzer A, Schultze JL, Stabell Benn C, Sun JC, Xavier RJ, Latz E. Defining trained immunity and its role in health and disease. Nat Rev Immunol. 2020 Jun;20(6):375-388. doi: 10.1038/s41577-020-0285-6. Epub 2020 Mar 4. Review.</citation>
+    <PMID>32132681</PMID>
+  </reference>
+  <reference>
+    <citation>Mitroulis I, Ruppova K, Wang B, Chen LS, Grzybek M, Grinenko T, Eugster A, Troullinaki M, Palladini A, Kourtzelis I, Chatzigeorgiou A, Schlitzer A, Beyer M, Joosten LAB, Isermann B, Lesche M, Petzold A, Simons K, Henry I, Dahl A, Schultze JL, Wielockx B, Zamboni N, Mirtschink P, Coskun Ü, Hajishengallis G, Netea MG, Chavakis T. Modulation of Myelopoiesis Progenitors Is an Integral Component of Trained Immunity. Cell. 2018 Jan 11;172(1-2):147-161.e12. doi: 10.1016/j.cell.2017.11.034.</citation>
+    <PMID>29328910</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Harvard Medical School</investigator_affiliation>
+    <investigator_full_name>Megan Murray, MD, ScD</investigator_full_name>
+    <investigator_title>Ronda Stryker and William Johnston Professor of Global Health</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>BCG Vaccine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

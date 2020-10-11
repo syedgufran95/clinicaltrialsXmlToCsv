@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="91">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04539626</url>
+  </required_header>
+  <id_info>
+    <org_study_id>03</org_study_id>
+    <nct_id>NCT04539626</nct_id>
+  </id_info>
+  <brief_title>Estrogen Therapy in Non-severe COVID-19 Patients</brief_title>
+  <official_title>Estrogen Therapy in Non-severe COVID-19 Patients: Proposed Treatment Scheme in a Tertiary Hospital</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CMN &quot;20 de Noviembre&quot;</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CMN &quot;20 de Noviembre&quot;</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the effect of additional estradiol
+      estrogen therapy on clinical response and mortality in non-severe COVID-19 patients
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Actually, there is not treatment or vaccine that can prevent or control the evolution of
+      COVID-19. The epidemiological data reported in China by the Center for Disease Control (CDC)
+      on February 2020, reported that 87% of the patients have been adults in an age range of 30-69
+      years. In addition, different studies have shown that male gender are more vulnerable for the
+      contagion of the virus (60%-80%), as well as the clinical evolution of COVID-19 (including
+      mortality) compared to the female sex (20-40%), independently of individual such as diabetes,
+      cardiovascular diseases, obesity, mainly.
+
+      The mechanism of SARS-CoV-2 infection has been shown to occur with the interaction of
+      angiotensin converting enzyme 2 (ACE2), this enzyme is expressed in lungs, brain, heart,
+      kidneys and gastrointestinal tract. Also, has been shown that older people have higher levels
+      of ACE2 expression. Among the different molecular functions of ACE2 are the regulation of
+      cell proliferation, cytokine production, and inflammatory response.
+
+      It has been proposed that exogenous human recombinant ACE2 could be an alternative treatment
+      for COVID-19, however, this treatment is not yet highly available and could entail high
+      costs. Other molecules as estrogens have been proposed in different research groups, for its
+      capacity to increase the gene expression of ACE2/Ang 1-7. This mechanism could reduce lung
+      and endothelial damage and coagulopathy in COVID-19 patients.
+
+      So, it is relevant to evaluate the effect of additional estradiol estrogen (as adjuvant
+      therapeutic element) therapy on clinical response and mortality in non-severe COVID-19
+      patients.
+
+      A controlled clinical trial will be conducted in a tertiary hospital in Mexico City, Mexico.
+      Participants will be divide in two groups; 1) intervention: who will receive EVRA skin
+      patches (1 patch every week during 21 days) with norelgesetromin 6mg / ethinyl estradiol
+      0.60mg and 2) control: who will receive conventional treatment
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 1, 2020</start_date>
+  <completion_date type="Anticipated">March 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The Outcome Assessor will be an external member of the Gynecology Service, which will be blinded to the intervention.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical improve to estrogen therapy in non-severe COVID-19 patients Clinical improve to estrogen therapy in non-severe COVID-19 patients</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Success rate in reducing hospitalization days
+Success rate in no oxygen therapy use (low or high-flow oxygen)
+Success rate in no intubation and/or mechanical ventilation
+Success rate in non mortality occurrence</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical improve to estrogen therapy in non-severe COVID-19 patients</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Success rate in reducing hospitalization days
+Success rate in no oxygen therapy use (low or high-flow oxygen)
+Success rate in no intubation and/or mechanical ventilation
+Success rate in non mortality occurrence</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical improve to estrogen therapy in non-severe COVID-19 patients</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Success rate in reducing hospitalization days
+Success rate in no oxygen therapy use (low or high-flow oxygen)
+Success rate in no intubation and/or mechanical ventilation
+Success rate in non mortality occurrence</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Symptomatic improve to estrogen therapy in non-severe COVID-19 patients</measure>
+    <time_frame>Day 7</time_frame>
+    <description>According to the National Committee for Epidemiological Surveillance (CONAVE) in Mexico, COVID-19 symptomatic onset rate defined as the presence of cough, fever or headache during the last 7 days, accompanied at least one of the following symptoms: dyspnea, arthralgia, myalgia, odynophagia / pharyngeal burning, rhinorrhea, conjunctivitis or chest pain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptomatic improve to estrogen therapy in non-severe COVID-19 patients</measure>
+    <time_frame>Day 14</time_frame>
+    <description>According to the National Committee for Epidemiological Surveillance (CONAVE) in Mexico, COVID-19 symptomatic onset rate defined as the presence of cough, fever or headache during the last 7 days, accompanied at least one of the following symptoms: dyspnea, arthralgia, myalgia, odynophagia / pharyngeal burning, rhinorrhea, conjunctivitis or chest pain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptomatic improve to estrogen therapy in non-severe COVID-19 patients</measure>
+    <time_frame>Day 21</time_frame>
+    <description>According to the National Committee for Epidemiological Surveillance (CONAVE) in Mexico, COVID-19 symptomatic onset rate defined as the presence of cough, fever or headache during the last 7 days, accompanied at least one of the following symptoms: dyspnea, arthralgia, myalgia, odynophagia / pharyngeal burning, rhinorrhea, conjunctivitis or chest pain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical improve to estrogen therapy in non-severe COVID-19 patients</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Percentage change from hemoglobin, hematocrit, leukocytes, erythrocytes, platelets, prothrombin, partial thromboplastin activation time, anti-thrombin activity, fibrinogen, fibrin degradation products, D-Dimer, ALT, AST, ALP, GGT, LD, albumin, cholesterol, triglycerides, HDL, LDL, C-reactive protein, estrogens and progesterone levels, pro inflammatory cytokine and nitric oxide profile.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical improve to estrogen therapy in non-severe COVID-19 patients</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Percentage change from hemoglobin, hematocrit, leukocytes, erythrocytes, platelets, prothrombin, partial thromboplastin activation time, anti-thrombin activity, fibrinogen, fibrin degradation products, D-Dimer, ALT, AST, ALP, GGT, LD, albumin, cholesterol, triglycerides, HDL, LDL, C-reactive protein, estrogens and progesterone levels, pro inflammatory cytokine and nitric oxide profile.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biochemical improve to estrogen therapy in non-severe COVID-19 patients</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Percentage change from hemoglobin, hematocrit, leukocytes, erythrocytes, platelets, prothrombin, partial thromboplastin activation time, anti-thrombin activity, fibrinogen, fibrin degradation products, D-Dimer, ALT, AST, ALP, GGT, LD, albumin, cholesterol, triglycerides, HDL, LDL, C-reactive protein, estrogens and progesterone levels, pro inflammatory cytokine and nitric oxide profile.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Estrogen Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: Norelgesetromin 6mg / Ethinyl estradiol 0.60mg
+Dosage form: EVRA skin patches with norelgesetromin 6mg / ethinyl estradiol 0.60mg, (1 patch will be placed every week during 21 days)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients who will receive conventional COVID-19 treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Estrogen Therapy</intervention_name>
+    <description>EVRA skin patches with norelgesetromin 6mg / ethinyl estradiol 0.60mg, (1 patch will be placed every week during 21 days)</description>
+    <arm_group_label>Estrogen Therapy</arm_group_label>
+    <other_name>Norelgesetromin</other_name>
+    <other_name>Ethinyl estradiol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Male ≥ 18 years of age and female ≥ 55 years of age
+
+          -  Diagnosis of positive SARS-CoV-2 infection confirmed by clinical diagnosis and / or
+             RT-PCR test
+
+          -  Hospitalized patients in acute disease* stages of the disease
+
+          -  Agree to participate in the study prior to signing an informed consent.
+
+          -  Patients with conventional treatment with anticoagulants (Noxaparin)
+
+               -  Acute disease: patients who are hospitalized, conscious, not intubated, with
+                  biochemical values of D-Dimer&gt; 2, Ferritin&gt; 1000 u.
+
+        Exclusion Criteria:
+
+          -  Patients with abnormal genital bleeding
+
+          -  Patients with protein C or protein S deficiency
+
+          -  Patients with liver failure (cirrhosis, hepatitis C)
+
+          -  Patients with history of allergic reaction to estrogens use
+
+          -  Patients receiving lamotrigine therapy
+
+          -  Patients with a history of breast cancer and / or endometrial cancer
+
+          -  Patients with severe hypoxia at risk of acute intubation in ED
+
+          -  Patients with a history of cerebrovascular history
+
+          -  Male patients with testosterone treatment
+
+          -  Patients with a history of myocardial infarction, who have cardiac stents and / or
+             unstable angina pectoris
+
+          -  Patients with previous hormonal treatment
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rodrigo Ruz Barros, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>CMN &quot;20 de Noviembre&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Daniel Santillán Cortés, MSc</last_name>
+    <role>Study Chair</role>
+    <affiliation>CMN &quot;20 de Noviembre&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mónica Escamilla Tilch, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>CMN &quot;20 de Noviembre&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Juan A Pineda Juárez, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>CMN &quot;20 de Noviembre&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sandra Muñoz López, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>CMN &quot;20 de Noviembre&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Maricela Escarela Serrano, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>CMN &quot;20 de Noviembre&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Cyndi Rodríguez Bandala, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>CMN &quot;20 de Noviembre&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alberto H De la Vega Bravo, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>CMN &quot;20 de Noviembre&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Paul Mondragón Terán, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>CMN &quot;20 de Noviembre&quot;</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alfredo L Cortés Algara, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CMN &quot;20 de Noviembre&quot;</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alfredo L Cortés Algara, MD, MSc</last_name>
+    <phone>5552005003</phone>
+    <phone_ext>14305</phone_ext>
+    <email>cortesalgara.al@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Paul Mondragón Terán, PhD</last_name>
+    <phone>5552005003</phone>
+    <phone_ext>14613</phone_ext>
+    <email>paul.mondragon@issste.gob.mx</email>
+  </overall_contact_backup>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 7, 2020</study_first_posted>
+  <last_update_submitted>September 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>CMN &quot;20 de Noviembre&quot;</investigator_affiliation>
+    <investigator_full_name>Alfredo Cortés Algara</investigator_full_name>
+    <investigator_title>Gynecology Service Member, MD, MSc</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Estrogens</keyword>
+  <keyword>Severe Acute Respiratory Syndrome Coronavirus-2</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Estradiol</mesh_term>
+    <mesh_term>Estrogens</mesh_term>
+    <mesh_term>Ethinyl Estradiol</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

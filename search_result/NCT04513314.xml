@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2202">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 07, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04513314</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20200851</org_study_id>
+    <nct_id>NCT04513314</nct_id>
+  </id_info>
+  <brief_title>Valproate Alone or in Combination With Quetiapine for Severe COVID-19 Pneumonia With Agitated Delirium</brief_title>
+  <official_title>A Practical, Pilot, Randomized, Controlled Trial of Valproate Alone or in Combination With Quetiapine for Severe COVID-19 Pneumonia With Agitated Delirium</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Miami</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Miami</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary purpose of this research is to determine whether Valproate alone, and in
+      combination with Quetiapine, lowers confusion and agitation in persons with severe Corona
+      Virus Disease (COVID)19 pneumonia during weaning from the breathing machine (ventilator).
+      Though Valproate and Quetiapine are often given to persons with severe confusion with
+      agitation, the purpose of this small research study is specifically for: a) persons infected
+      with COVID 2019 on a ventilator whose agitation is not responding to the usual medications
+      (like dexmedetomidine), and b) to reduce the time persons are treated with dexmedetomidine,
+      which requires continuous close monitoring in an ICU.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a pilot feasibility study involving a randomized, single-blind, controlled comparison
+      scheme examining the efficacy and safety of standard of care (n=10) combined with valproate
+      alone, and in combination with quetiapine (N=10) , in order to reduce the magnitude of
+      agitation associated with COVID 19 delirium as assessed by the RASS scale when weaning from a
+      ventilator, and reduce need for dexmedetomidine as assessed by number of doses of
+      dexmedetomidine administered.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>study rater/outcomes assessor and participant will be ignorant of the treatment arm pharmacist and investigator will be aware of the treatment arm</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline RASS score of +3 or greater</measure>
+    <time_frame>Baseline, Day 7</time_frame>
+    <description>Richmond Agitation Sedation Scale (RASS) score ranges from +4 (combative) to 0 (alert &amp; calm) to -5 (unarousable).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Total dose of dexmedetomidine administered</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Total dose of dexmedetomidine administered will be reported from baseline RASS score of +3 or greater.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Treatment Emergent Adverse Events</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Incidence of Treatment Emergent Adverse Events will include:
+QTc duration &gt; 470 msecs.
+Increase in Liver Function Tests to a Grade 3 or higher using the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v5.0.
+Suicidality reported as having a score of moderate or high risk using the Columbia-Suicide Severity Rating Scale Screening (C-SSRS). C-SSRS is a calculated risk assessment tool that scores suicidality from no risk to high risk.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <condition>Hyperactive Delirium</condition>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>Standard of Care Only Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients maintained with mechanical ventilation will be treated with standard of care after cessation of paralytic agents.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients maintained with mechanical ventilation will be treated with standard of care, plus Valproate on Days 1-7 after cessation of paralytic agents, and then augmented by the addition of Quetiapine beginning Days 3-7 if there are no improvement in RASS score.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Valproate</intervention_name>
+    <description>Valproate sodium (enteral or intravenous) will be administered at a dosage of 10 to 15 mg/kg/day. The dosage may be increased by 5 to 10 mg/kg/week to achieve optimal clinical response. Ordinarily, optimal clinical response is achieved at daily doses below 60 mg/kg/day.</description>
+    <arm_group_label>Treatment Arm Group</arm_group_label>
+    <other_name>Depakote, Valproic acid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Quetiapine</intervention_name>
+    <description>Enteral quetiapine dosing on Day 3: 25 mg to 50 mg twice daily. Increase in increments of 50 mg/day to 100 mg/day divided two on Days 4 and 5 to range of 50-400 mg/day by Day 7. Further adjustments can be made in increments of 25-50 mg twice a day, in intervals of not less than 2 days. Recommended dose range is 150-750 mg/day.</description>
+    <arm_group_label>Treatment Arm Group</arm_group_label>
+    <other_name>seroquel</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Standard of Care is a combination of IV dexmedetomidine (D), midazolam (M), ketamine (K) and propofol (P), at the discretion of treating physician.</description>
+    <arm_group_label>Standard of Care Only Group</arm_group_label>
+    <arm_group_label>Treatment Arm Group</arm_group_label>
+    <other_name>Hospital Protocol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Signed Informed Consent Form by his or her legal/authorized representative
+
+          -  Age ≥ 18 years at time of signing Informed Consent Form
+
+          -  Ability to comply with the study protocol, in the investigator's judgement
+
+          -  Hospitalized with COVID-19 pneumonia confirmed with World Health Organization (WHO)
+             criteria (including an RNA test of any specimen, e.g. respiratory, blood, urine,
+             stool, other bodily fluid) and evidence by chest X-ray or CT scan
+
+          -  Fraction of inspired oxygen (Fi02) ≤ 0.40 and positive end-expiratory pressure (PEEP)
+             ≤8 OR Fi02 ≤ 0.50 and PEEP ≤5
+
+          -  Fi02 and PEEP ≤ values of previous day
+
+          -  Patient has acceptable spontaneous breathing efforts (may decrease vent rate by 50%
+             for 5 minutes to detect effort.)
+
+          -  No neuromuscular blocking agents or blockade.
+
+          -  RASS score initially at -3 ≤, rising to 3+ after initial attempt to wean from standard
+             of care sedating medications
+
+          -  Other investigational interventions may be permitted
+
+        Exclusion Criteria:
+
+          -  Known severe allergic reactions to valproate or quetiapine
+
+          -  History of hepatic encephalopathy or end-stage liver disease (Childs-Pugh class B or
+             worse)
+
+          -  Alcohol, or history of alcohol/substance dependence prior to admission
+
+          -  Hx of dementia
+
+          -  Treatment with an antipsychotic agent in the 30 days before ICU admission
+
+          -  Baseline QT duration corrected (QTc) interval ≥ 500 msecs
+
+          -  Pregnancy
+
+          -  Suspected active bacterial, fungal, viral, or other infection (besides COVID-19)
+
+          -  In the opinion of the investigator, progression to death is imminent and inevitable
+             within the next 24 hours, irrespective of the provision of treatments
+
+          -  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt; 3 X upper limit
+             of normal (ULN) detected within 24 hours at screening or at baseline
+
+          -  Absolute neutrophil count (ANC) &lt; 1000/microliter (uL) at screening and baseline
+
+          -  Platelet count &lt; 50,000/uL at screening and baseline
+
+          -  Individuals &lt; 18 (infants, children, teenagers)
+
+          -  Any serious medical condition or abnormality of clinical laboratory tests that, in the
+             investigator's judgement, precludes the patient's safe participation in and completion
+             of the study, e.g. active seizure disorder already receiving treatment with
+             lamotrigine
+
+          -  Informed consent could not be obtained from the legally authorized representative.
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dominique L Musselman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Miami</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dominique L Musselman, MD</last_name>
+    <phone>404-723-8361</phone>
+    <email>dmusselman@med.miami.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sergey Gerasim, MD</last_name>
+    <phone>646-220-1670</phone>
+    <email>sxg894@miami.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Jackson Memorial Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dominique L Musselman</last_name>
+      <phone>404-723-8361</phone>
+      <email>dmusselman@med.miami.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Sergey Gerasim, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dominique Musselman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>August 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 14, 2020</study_first_posted>
+  <last_update_submitted>September 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Miami</investigator_affiliation>
+    <investigator_full_name>Dominique Musselman</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Delirium</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Valproic Acid</mesh_term>
+    <mesh_term>Quetiapine Fumarate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
