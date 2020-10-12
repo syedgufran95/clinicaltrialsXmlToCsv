@@ -88,7 +88,8 @@ for filename in glob.iglob(data_folder+"/*.xml"):
 	if(root.findall("enrollment")):
 		temp=root.find("enrollment").text
 		t.append(temp)
-
+	else:
+		t.append("NAN")
 	print(t)
 	csvwriter.writerow(t)
 

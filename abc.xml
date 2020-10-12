@@ -1,0 +1,16 @@
+<main> 
+ <stuff-list>
+   <stuff>
+	<name>name</name>
+	<item-list>
+		<item>
+			<item-type>
+			<moreinfo>
+				<evenmoreinfo>GrabThis</evenmoreinfo>
+			</moreinfo>
+			</item-type>
+		</item>
+	</item-list>
+  </stuff>
+ </stuff-list>
+</main>
